@@ -640,17 +640,16 @@ satisfazer uma convenção adotada depois troca um problema cosmético por um re
 Não são decisões. São coisas que ainda não existem ou não foram verificadas, e
 estão aqui para ninguém descobrir sozinho depois de duas horas.
 
-- **A camada `android/` nunca compilou.** Só o módulo `core` (Kotlin puro) roda em
-  JVM. `BlockerService`, `PlatformPorts` e a ponte Expo estão revisados e não
-  compilados; a primeira `expo prebuild` é a primeira vez que esse código existe.
+- **A camada `android/` não tem teste automatizado.** Ela compila e roda em produção,
+  mas só o módulo `core` (Kotlin puro) é testado em JVM; o resto é validado em
+  aparelho, à mão.
 - **Sobrevivência do serviço em fabricante agressivo não foi verificada.** Há
   `ServiceWatchdog` e receiver de boot, mas nada disso foi medido em aparelho, e
   nenhum teste em JVM alcança.
 - **O force-stop não foi verificado em aparelho.** O mecanismo do *stopped state* é
   comportamento documentado do Android e leitura de código, não medição. É o item de
-  maior prioridade quando a camada `android/` compilar.
+  maior prioridade na validação em aparelho.
 - **`performance.now()` no Hermes** não foi verificado em aparelho.
-- **Nenhuma biblioteca de ícones escolhida.**
 - **O entitlement da Apple para Family Controls não foi solicitado.**
 - **As traduções dos 72 idiomas foram feitas por IA e não passaram por falante
   nativo.** O teste garante estrutura, marcadores, plurais e as regras do resource,

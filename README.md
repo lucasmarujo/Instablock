@@ -8,17 +8,22 @@
 
 **Fricção deliberada entre você e o app que está comendo o seu dia.**
 
-Bloqueio de apps que roda **100% no aparelho** — sem backend, sem cadastro, sem nuvem.
+Bloqueio de apps e sites que roda **100% no aparelho** — sem backend, sem cadastro, sem nuvem.
 
 <br>
 
+[![Google Play](https://img.shields.io/badge/Google_Play-Baixar-3DDC84?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=dev.marujo.appblocker)
 [![CI](https://github.com/lucasmarujo/AceleraLock/actions/workflows/ci.yml/badge.svg)](https://github.com/lucasmarujo/AceleraLock/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-03c3bf.svg)](LICENSE)
+[![Idiomas](https://img.shields.io/badge/Idiomas-73-03c3bf.svg)](#idiomas)
 [![React Native](https://img.shields.io/badge/React_Native-0.86-61DAFB?logo=react&logoColor=white)](https://reactnative.dev)
 [![Expo](https://img.shields.io/badge/Expo-57-000020?logo=expo&logoColor=white)](https://expo.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-6.0-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Kotlin](https://img.shields.io/badge/Kotlin-JVM-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org)
-[![Android](https://img.shields.io/badge/Android-Alpha-3DDC84?logo=android&logoColor=white)](#estado-atual)
+
+**[Baixar no Google Play](https://play.google.com/store/apps/details?id=dev.marujo.appblocker)** ·
+**[Site](https://acelera.marujo.dev)** ·
+**[Privacidade e termos](https://aceleralock.marujo.dev)**
 
 <br>
 
@@ -33,11 +38,13 @@ Um projeto open source construído com a comunidade
 ## Sumário
 
 - [O problema](#o-problema)
+- [O que o app faz](#o-que-o-app-faz)
 - [As duas restrições que explicam este código](#as-duas-restrições-que-explicam-este-código)
 - [Arquitetura](#arquitetura)
 - [Stack](#stack)
 - [Começando](#começando)
 - [Testes](#testes)
+- [Idiomas](#idiomas)
 - [Estrutura do repositório](#estrutura-do-repositório)
 - [Decisões contraintuitivas](#decisões-contraintuitivas)
 - [Estado atual](#estado-atual)
@@ -69,6 +76,27 @@ O AceleraLock ataca exatamente esse ponto. Abrir um app bloqueado não é imposs
 O produto é **fricção, não prisão** — e a diferença é deliberada. Quem usa isto é
 alguém que pediu ajuda contra o próprio impulso, não um invasor de quem o app se
 defende.
+
+---
+
+## O que o app faz
+
+- **Bloqueia apps e sites.** Abriu um app da lista, a tela do AceleraLock aparece por
+  cima na hora. Site é bloqueado por domínio e subdomínios; no Android, a única coisa
+  lida é a barra de endereço dos navegadores suportados.
+- **Uma frase entre mil.** A tela de bloqueio sorteia uma frase por tentativa — do lado
+  da pessoa, sem sermão e sem contar tentativas.
+- **Mudar de ideia pede espera.** Desligar a proteção, reduzir a espera ou desligar o
+  modo restrito custam 30 minutos (configurável). Desistir do pedido é grátis.
+- **Modo restrito.** Trava a lista de bloqueio: ligar é imediato, desligar passa pela
+  espera.
+- **Horários livres por app.** Faixas por dia da semana em que um app fica liberado — e
+  só valem com data, hora e fuso automáticos, para ninguém abrir o app mudando o relógio.
+- **Tempo de tela.** O próprio app mede e guarda o histórico. Dia sem medição aparece
+  como sem leitura, nunca como zero.
+- **Fala o idioma do celular.** 73 idiomas, inclusive árabe, hebraico, persa e urdu da
+  direita para a esquerda. Ver [Idiomas](#idiomas).
+- **Nada sai do aparelho.** Sem conta, sem servidor, sem anúncio, sem rastreador.
 
 ---
 
@@ -122,6 +150,7 @@ flowchart TB
         ROUTER["expo-router<br/>app/"]
         COMP["Componentes<br/>src/components/"]
         STATE["Veredito e estado local<br/>src/state/verdict.ts"]
+        I18N["Idioma do aparelho<br/>src/i18n/"]
         BRIDGE["Ponte fina<br/>src/native/blocker.ts"]
     end
 
@@ -132,6 +161,7 @@ flowchart TB
             DETECT["ForegroundAppDetector"]
             OVERLAY["OverlayPresenter<br/>BlockScreenView"]
             COLLECT["ScreenTimeCollector"]
+            SITES["SiteAccessibilityService<br/>só a barra de endereço"]
         end
 
         subgraph CORE["core/ — Kotlin puro, testado em JVM"]
@@ -139,6 +169,8 @@ flowchart TB
             WAIT["WaitingPeriod"]
             GRANT["GrantWindow"]
             POLICY["BlockPolicy · PolicyReader"]
+            SCHEDULE["ScheduleExceptions<br/>horários livres"]
+            MATCH["SiteMatcher"]
             LOG["ProtectionLog"]
             SCREEN["ScreenTime<br/>Sessions · Buckets · History"]
         end
@@ -147,19 +179,24 @@ flowchart TB
     subgraph OS["Android"]
         USAGE["UsageStatsManager"]
         WINDOW["WindowManager<br/>TYPE_APPLICATION_OVERLAY"]
+        A11Y["AccessibilityService"]
         PREFS["SharedPreferences"]
         ALARM["AlarmManager<br/>watchdog + boot"]
     end
 
     ROUTER --> COMP --> STATE --> BRIDGE
+    COMP --> I18N
     BRIDGE <--> EXPO
     EXPO --> SERVICE
     SERVICE --> DETECT & OVERLAY & COLLECT
     SERVICE --> DECIDER & WAIT & GRANT & POLICY & LOG
+    DECIDER --> MATCH & SCHEDULE
+    SITES -- "último endereço" --> SERVICE
     COLLECT --> SCREEN
     DETECT --> USAGE
     COLLECT --> USAGE
     OVERLAY --> WINDOW
+    SITES --> A11Y
     POLICY --> PREFS
     SERVICE --> ALARM
 
@@ -168,10 +205,10 @@ flowchart TB
     classDef core fill:#ddf7f6,stroke:#03c3bf,stroke-width:2px,color:#04141c
     classDef sys fill:#eef0f3,stroke:#6c7480,stroke-width:1px,color:#04141c
 
-    class ROUTER,COMP,STATE,BRIDGE ts
-    class EXPO,SERVICE,DETECT,OVERLAY,COLLECT adapter
-    class DECIDER,WAIT,GRANT,POLICY,LOG,SCREEN core
-    class USAGE,WINDOW,PREFS,ALARM sys
+    class ROUTER,COMP,STATE,I18N,BRIDGE ts
+    class EXPO,SERVICE,DETECT,OVERLAY,COLLECT,SITES adapter
+    class DECIDER,WAIT,GRANT,POLICY,SCHEDULE,MATCH,LOG,SCREEN core
+    class USAGE,WINDOW,A11Y,PREFS,ALARM sys
 ```
 
 A separação `core/` × `android/` não é cerimônia: o `core` **não importa nada de
@@ -189,7 +226,7 @@ stateDiagram-v2
     direction LR
     [*] --> loading
 
-    loading --> nao_suportada: iOS, sem Family Controls
+    loading --> nao_suportada: fora de Android e iOS
     loading --> incompleto: falta permissão ou configuração
     loading --> pausado: desligado de propósito
     loading --> protegido: tudo pronto
@@ -204,8 +241,8 @@ stateDiagram-v2
     protegido: protegido · serviço rodando
 ```
 
-São cinco e não três porque **cada valor existe para não contar uma mentira**: iOS
-não é "permissão pendente", é recurso inexistente; `loading` não é
+São cinco e não três porque **cada valor existe para não contar uma mentira**: uma
+plataforma sem o recurso não é "permissão pendente"; `loading` não é
 "onboarding-incompleto"; e `pausado` é quem desligou de propósito, não quem teve o
 serviço morto pelo sistema.
 
@@ -252,7 +289,8 @@ sequenceDiagram
 | Regra de negócio | Kotlin/JVM puro (`core/`) | Bloqueio, espera, concessão, tempo de tela |
 | Integração nativa | Expo Modules API · config plugin (CNG) | Ponte e prebuild |
 | Persistência | `SharedPreferences` (nativo) · `AsyncStorage` (UI) | A fonte única da política é o nativo |
-| Testes | `node:test` + `tsx` · JUnit 5 | 141 testes, zero emulador |
+| Idiomas | `expo-localization` · catálogos tipados próprios | 73 idiomas, plural CLDR, RTL, idioma por app |
+| Testes | `node:test` + `tsx` · JUnit 5 | 413 testes, zero emulador |
 | CI | GitHub Actions | Formatação, lint, tipagem, testes JS e Kotlin |
 
 ---
@@ -282,7 +320,7 @@ npm install
 | Comando | O que faz |
 | --- | --- |
 | `npm run verify` | Formatação + lint + tipagem + testes JS. **Rode antes de abrir PR.** |
-| `npm test` | 73 testes JS puros, sem emulador |
+| `npm test` | Testes JS puros, sem emulador |
 | `npm run typecheck` | `tsc --noEmit` |
 | `npm run lint` | ESLint |
 | `npm run format` | Prettier |
@@ -318,9 +356,12 @@ upload na Play Console (Integridade do app → Assinatura do app).
 
 | Suíte | Quantidade | Runner | Onde |
 | --- | --- | --- | --- |
-| JavaScript / TypeScript | **73** | `node:test` + `tsx` | [`tests/`](tests/) |
-| Kotlin `core` | **68** | JUnit 5 em JVM | [`core/src/test/`](native/modules/aceleralock-blocker/core/src/test/kotlin/com/aceleralock/blocker/core/) |
+| JavaScript / TypeScript | **283** | `node:test` + `tsx` | [`tests/`](tests/) |
+| Kotlin `core` | **130** | JUnit 5 em JVM | [`core/src/test/`](native/modules/aceleralock-blocker/core/src/test/kotlin/com/aceleralock/blocker/core/) |
 | Camada `android/` | — | sem teste automatizado — por isso quase sem decisão | — |
+
+Contagem de 2026-10-17. O número do `core` se confere no XML do JUnit (ver a nota
+abaixo).
 
 ### Rodando o core Kotlin sem `gradle` no PATH
 
@@ -339,6 +380,36 @@ JAVA_HOME="<caminho do JDK 17+>" \
 > O `build.gradle.kts` do core usa `testLogging { events("failed") }`, então **build
 > verde não imprime contagem nenhuma**. Para saber quantos testes rodaram, leia
 > `core/build/test-results/test/*.xml` — não confie no console.
+
+---
+
+## Idiomas
+
+O app abre no idioma do celular — ou no escolhido para ele em *Configurações → Idioma do
+app*, no Android 13+. São **73 idiomas**: todos os que a Play Console publica e o Android
+oferece como idioma do sistema. Fora da lista, o app **e** a tela de bloqueio nativa caem
+juntos no inglês.
+
+| Onde | O quê |
+| --- | --- |
+| [`src/i18n/textos/pt-BR.ts`](src/i18n/textos/pt-BR.ts) | A fonte de todo texto da interface — e o tipo `Textos` |
+| `src/i18n/textos/<idioma>.ts` | Uma tradução por idioma; chave faltando é erro de `tsc` |
+| [`src/i18n/idiomas.ts`](src/i18n/idiomas.ts) | A lista, com a pasta `values-*` de cada idioma no Android |
+| `native/.../res/values-pt/` | Fonte dos textos da tela de bloqueio e das mil frases |
+| `native/.../res/values/` | Inglês, o padrão do overlay |
+
+Plural, dias, meses e formato de hora vêm do CLDR e moram no catálogo de cada idioma —
+o app não depende do `Intl` do Hermes, que varia por build. Árabe, hebraico, persa e urdu
+espelham o layout.
+
+**Texto novo** entra em `pt-BR.ts` e precisa da tradução nos outros 72 catálogos; o
+`tsc` acusa a chave que faltar, e os testes acusam marcador `{x}` trocado, forma de plural
+faltando e pasta nativa sem tradução.
+
+> [!NOTE]
+> As traduções foram geradas com IA e ainda não passaram por falante nativo. Revisão
+> de quem fala o idioma é uma das contribuições mais úteis — abra um PR no catálogo
+> correspondente.
 
 ---
 
@@ -374,6 +445,9 @@ assets/
   aceleradev-logo.svg       Marca da comunidade AceleraDev.
 docs/                       Produto, design system, decisões e QA.
 tests/                      Testes JS puros (node:test).
+web/                        Site estático: política de privacidade e termos
+                            (aceleralock.marujo.dev) e a landing em landing/
+                            (acelera.marujo.dev).
 assets.old/                 Histórico: marca anterior (mark, wordmark, lockups,
                             favicons). Nada no app aponta pra cá.
 backend.bkp/                Histórico: backend Spring Boot e infra Docker/blue-green
@@ -406,6 +480,11 @@ quem chega:
   falta de memória diria "pausado" a quem nunca pausou.
 - **A fonte única da lista de bloqueados é o nativo.** O serviço decide com o app
   fechado, e o `AsyncStorage` é inalcançável sem JS rodando.
+- **Horário livre é a única regra que lê o relógio de parede** — e só vale com data,
+  hora e fuso automáticos. Espera e concessão continuam monotônicas.
+- **Idioma sem tradução cai no inglês, no JS e no nativo ao mesmo tempo.** Se cada lado
+  escolhesse sozinho, a mesma pessoa leria o app num idioma e a tela de bloqueio em
+  outro.
 
 As assinaturas da ponte mudam: leia
 [`native/modules/aceleralock-blocker/index.ts`](native/modules/aceleralock-blocker/index.ts)
@@ -426,25 +505,25 @@ anterior deste README.
 
 ## Estado atual
 
-> [!CAUTION]
-> **Nada disto jamais rodou num Android.** Todo o verde deste repositório é regra
-> testada em JVM; a integração é território não pisado. A camada `android/` nunca
-> compilou uma vez sequer — a primeira `expo prebuild` será a primeira vez que esse
-> código existe de verdade.
+O AceleraLock está **em produção no Google Play** para Android. A tabela separa o que
+é garantido por teste automatizado do que ainda depende de validação em aparelho — é
+por aí que uma contribuição rende mais.
 
 | Item | Estado |
 | --- | --- |
-| Regra de bloqueio, espera e concessão (`core`) | ✅ Implementada e testada em JVM |
-| Agregação de tempo de tela (`core`) | ✅ Implementada e testada em JVM |
-| Onboarding, seleção de apps, telas de espera e perfil | ✅ Implementados |
-| CI: formatação, lint, tipagem, testes JS e Kotlin | ✅ Verde |
-| Camada `android/` compilando | ⚠️ Nunca compilou |
+| App Android publicado no Google Play | ✅ Em produção |
+| Regra de bloqueio, espera, concessão e horários livres (`core`) | ✅ Testada em JVM |
+| Bloqueio de sites: casamento de domínio (`SiteMatcher`) | ✅ Testado em JVM |
+| Agregação de tempo de tela (`core`) | ✅ Testada em JVM |
+| Interface em 73 idiomas | ✅ Completa e travada por teste |
+| CI: formatação, lint, tipagem, testes JS e Kotlin | ✅ Verde a cada push |
+| Revisão das traduções por falante nativo | ⚠️ Pendente — feitas com IA |
+| Layout da direita para a esquerda em aparelho | ⚠️ Não conferido tela a tela |
+| Leitura da barra de endereço, navegador por navegador | ⚠️ Sem validação sistemática por versão |
 | Sobrevivência do serviço em fabricante agressivo | ⚠️ Não medida |
-| Force-stop verificado em aparelho | ⚠️ Não medido — prioridade máxima quando `android/` compilar |
-| `performance.now()` no Hermes | ⚠️ Não verificado em aparelho |
-| Build do APK no CI | ⚠️ Desativado. A assinatura existe (`npm run build:aab`), mas o build ainda é local |
-| Módulo nativo de iOS | ❌ Não existe — hoje iOS é plataforma não suportada |
-| Entitlement Apple para Family Controls | ❌ Não solicitado |
+| Force-stop | ⚠️ Comportamento documentado do Android, não medido |
+| Build de release no CI | ⚠️ Desativado — o AAB sai local, com `npm run build:aab` |
+| iOS | ⚠️ Implementado (Swift + Family Controls), sem teste, fora do CI e sem o entitlement da Apple |
 
 O inventário completo, com o porquê de cada item, está no fim de
 [`docs/decisoes.md`](docs/decisoes.md).
@@ -490,6 +569,9 @@ Contribuições são bem-vindas — issues, PRs e discussões.
   método. No JS, `node:test` puro.
 - **Regra em Kotlin puro, adaptador burro.** Se a decisão der para testar em JVM, ela
   pertence ao `core`.
+- **Nenhum texto de interface escrito direto no componente.** Ele nasce em
+  [`src/i18n/textos/pt-BR.ts`](src/i18n/textos/pt-BR.ts) e ganha tradução nos outros
+  72 idiomas — ver [Idiomas](#idiomas).
 - **`npm run verify` verde antes de abrir PR.** É o mesmo conjunto que o CI roda.
 - **Leia [`docs/decisoes.md`](docs/decisoes.md) antes de desfazer algo que pareça
   estranho.** Boa parte do que parece rigor gratuito é consequência das duas
