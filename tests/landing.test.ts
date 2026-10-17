@@ -253,7 +253,7 @@ test('barreira de privacidade: a pagina nao carrega nada de outro endereco', () 
   assert.match(csp[1], /connect-src 'none'/);
 });
 
-test('regressao: link para politica, termos e lista de espera nao depende de onde a landing esta servida', () => {
+test('regressao: link para politica e termos nao depende de onde a landing esta servida', () => {
   const html = lerLanding('index.html');
   const relativosARaiz = [...html.matchAll(/<a\b[^>]*\bhref="(\/[^"]*)"/g)].map((m) => m[1]);
   assert.deepEqual(
@@ -261,9 +261,28 @@ test('regressao: link para politica, termos e lista de espera nao depende de ond
     [],
     'em acelera.marujo.dev, "/" e a propria landing — o link precisa nomear aceleralock.marujo.dev'
   );
-  for (const destino of ['/#privacidade', '/#termos', '/teste#lista-de-espera']) {
+  for (const destino of ['/#privacidade', '/#termos']) {
     assert.ok(html.includes(`href="https://aceleralock.marujo.dev${destino}"`), destino);
   }
+});
+
+test('feliz: todo botao de baixar leva a ficha do pacote publicado no Google Play', () => {
+  const html = lerLanding('index.html');
+  const { expo } = JSON.parse(readFileSync(path.join(ROOT, 'app.json'), 'utf8'));
+  const fichaNaPlay = `https://play.google.com/store/apps/details?id=${expo.android.package}`;
+  const botoes = [...html.matchAll(/<a\b[^>]*class="botao botao-marca[^"]*"[^>]*>[\s\S]*?<\/a>/g)];
+  assert.equal(botoes.length, 3, 'topo, heroi e chamada final');
+  for (const [botao] of botoes) {
+    assert.ok(botao.includes(`href="${fichaNaPlay}"`), botao);
+    assert.match(botao, /Baixar agora/);
+    assert.match(botao, /<use href="#i-google-play"/);
+  }
+});
+
+test('regressao: com o app lancado, a pagina nao manda mais ninguem para o teste fechado', () => {
+  const html = lerLanding('index.html');
+  assert.doesNotMatch(html, /aceleralock\.marujo\.dev\/teste/);
+  assert.doesNotMatch(html, /lista de espera|lista do teste|entrar no teste|teste fechado/i);
 });
 
 test('feliz: rodape credita o autor com link para o perfil dele no GitHub', () => {
