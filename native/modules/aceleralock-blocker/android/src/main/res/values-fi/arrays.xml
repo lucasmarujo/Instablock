@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Suomi: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>Aika, jota et käytä tässä, palaa kokonaan elämääsi.</item>
+        <item>Jokainen minuutti tämän ruudun ulkopuolella on taas sinun.</item>
+        <item>Nämä kaksikymmentä minuuttia riittävät kävelylenkkiin.</item>
+        <item>Päivässä on enemmän tilaa kuin luulet, kun selaaminen loppuu.</item>
+        <item>Sait juuri palan iltapäivästäsi takaisin.</item>
+        <item>Tunti päivässä on viisitoista päivää vuodessa.</item>
+        <item>Aika ei palaa, mutta voit yhä valita, mihin se menee.</item>
+        <item>Tämä hetki on sinun. Kenenkään ei tarvitse tietää, mitä teit sillä.</item>
+        <item>Sovelluksen ulkopuolella tapahtuu kokonainen elämä.</item>
+        <item>Kello käy yhtä nopeasti ruudun molemmin puolin.</item>
+        <item>Ostit juuri aikaa. Käytä se johonkin, minkä muistat huomenna.</item>
+        <item>Kukaan ei illalla toivo selanneensa syötettä enemmän.</item>
+        <item>Vartti täällä on vartti missä tahansa muualla.</item>
+        <item>Mieti, mitä olisit tehnyt tällä puolella tunnilla kymmenen vuotta sitten.</item>
+        <item>Aikasi on ainoa asia, jota et voi ostaa takaisin.</item>
+        <item>Koko iltapäivä on vielä avoinna edessäsi.</item>
+        <item>Tämä minuutti voi olla jonkin muun alku.</item>
+        <item>Annat itsellesi tunteja takaisin, yksi kerrallaan.</item>
+        <item>Täällä säästetty aika ei katoa. Se ilmestyy jossain muualla.</item>
+        <item>Kymmenen minuuttia tuntuu vähältä, kunnes lasket kuukauden yhteen.</item>
+        <item>Elämä etenee omaa tahtiaan, ei syötteen tahtia.</item>
+        <item>Sinulla on tänään enemmän aikaa kuin eilen tähän aikaan.</item>
+        <item>Se, mitä olet lykännyt, mahtuu juuri tähän väliin.</item>
+        <item>Tämä tauko on lyhyt. Se, mitä teet sillä, ei välttämättä ole.</item>
+        <item>Päivään mahtuu paljon, kun selaaminen ei ole tiellä.</item>
+        <item>Sait juuri loppuillan takaisin itsellesi.</item>
+        <item>Aika on valuuttaa. Päätit juuri olla tuhlaamatta sitä.</item>
+        <item>Syöte ei lopu koskaan. Päiväsi loppuu.</item>
+        <item>Puoli tuntia päivässä on kokonainen kirja kuukaudessa.</item>
+        <item>Siellä ei odottanut sinua mitään kiireellistä.</item>
+        <item>Tämä aika oli jo sinun. Nyt se on taas sinulla.</item>
+        <item>Aamusta voi vielä tulla hyvä, jos se alkaa nyt.</item>
+        <item>Et menettänyt mitään. Sait hengähdystauon.</item>
+        <item>Kukaan ei anna meille aikaa takaisin. Siitä pidetään kiinni itse.</item>
+        <item>Nämä minuutit ovat arvokkaampia muualla, ja tiedät sen jo.</item>
+        <item>Se, mikä siellä oli, on siellä yhä. Aikasi ei odota.</item>
+        <item>Elämä koostuu tällaisista iltapäivistä.</item>
+        <item>Voit päättää päivän johonkin tehtyyn etkä vain nähtyyn.</item>
+        <item>Kaksi tuntia päivässä on kokonainen kuukausi vuodessa.</item>
+        <item>Aika, jota varjelet tänään, jää sinulle huomiseksi.</item>
+        <item>Tämä on se osa päivää, josta päätät vain sinä.</item>
+        <item>Siellä ei ole mitään, mikä olisi iltapäiväsi arvoista.</item>
+        <item>Puolella tunnilla päivässä rakennat vuodessa mitä tahansa.</item>
+        <item>Ostit juuri palan hiljaisuutta.</item>
+        <item>Päivä kasvaa, kun syöte pienenee.</item>
+        <item>Tämä aika on nyt raaka-ainetta. Tee siitä jotain.</item>
+        <item>Jokin projektisi odottaa juuri tätä hetkeä.</item>
+        <item>Se, minkä tässä voitat, ei näy millään ruudulla, vain elämässäsi.</item>
+        <item>Vapaa hetki on harvinainen. Loit juuri yhden.</item>
+        <item>Kukaan ei ole elämänsä lopussa toivonut vielä yhtä selausta.</item>
+        <item>Sinulla on koko iltapäivä, eikä sitä ole vielä käytetty.</item>
+        <item>Vuosi on kolmesataakuusikymmentäviisi tällaista valintaa.</item>
+        <item>Tämä hetki on pieni, mutta kokonaan sinun.</item>
+        <item>Aika kuluu samalla tavalla. Ero on siinä, mitä jää jäljelle.</item>
+        <item>Otit juuri puoli tuntia pois autopilotilta.</item>
+        <item>Loppupäivä kiittää tästä pysähdyksestä.</item>
+        <item>Viisi minuuttia siellä muuttuu neljäksikymmeneksi huomaamatta.</item>
+        <item>Tiedät näiden viiden minuutin hinnan. Siksi olet täällä.</item>
+        <item>Tunti, jota varjelet nyt, on se, jota kaipaat illalla.</item>
+        <item>Mikään siellä ei parane sillä, että katsot sen nyt etkä myöhemmin.</item>
+        <item>Valitsit juuri, mihin seuraava minuutti menee.</item>
+        <item>Tähän aikaan mahtuu keskustelu, kävely tai päiväunet.</item>
+        <item>Päivästä saa enemmän irti, kun tunnit lakkaavat valumasta pois.</item>
+        <item>Seuraava puoli tuntia kuuluu vain sinulle.</item>
+        <item>Tästä päivästä on versio, jossa sait jotain aikaan. Se alkaa nyt.</item>
+        <item>Aikaa ei voi säästää pankkiin. Sen voi vain käyttää paremmin tai huonommin.</item>
+        <item>Näistä minuuteista voi tulla oikeaa lepoa.</item>
+        <item>Astuit juuri pois juoksumatolta, joka ei vie mihinkään.</item>
+        <item>Viikossa on satakuusikymmentäkahdeksan tuntia. Tämä on sinun.</item>
+        <item>Syöte vie aikaa pikkupaloina, ettei kukaan huomaisi sen puuttuvan.</item>
+        <item>Nyt ehdit tehdä sen, mikä jää joka päivä huomiseen.</item>
+        <item>Iltapäiväsi ei tarvitse mahtua ruudulle.</item>
+        <item>Ylimääräinen aika saa päivän tuntumaan pitkältä hyvällä tavalla.</item>
+        <item>Annoit juuri seuraavan tunnin takaisin itsellesi.</item>
+        <item>Mitään siitä, mitä nyt näkisit, et muistaisi viikon päästä.</item>
+        <item>Tällaisista minuuteista vuosi joko rakentuu tai hajoaa.</item>
+        <item>Sait aikaa. Sitä ei tarvitse käyttää heti.</item>
+        <item>Päivään ilman selaamista mahtuu enemmän.</item>
+        <item>Kello ei erota hyvää aikaa hukatusta. Sinä erotat.</item>
+        <item>Tämä tunti on yhtä arvokas kuin mikä tahansa muu elämässäsi.</item>
+        <item>Sinulla on nyt aikaa. Se on harvinaisempaa kuin luulisi.</item>
+        <item>Aikaa on vain, jos sitä varjelee.</item>
+        <item>Koko ilta on vielä edessä.</item>
+        <item>Nämä minuutit aloittavat iltapäivän, jonka muistat.</item>
+        <item>Vältit juuri sen tunnin mittaisen kaninkolon.</item>
+        <item>Kaikki, mikä vaatii aikaa, vaatii juuri tällaisen päätöksen.</item>
+        <item>Ennen illallista ehdit vielä paljon.</item>
+        <item>Nostit jalan kaasulta. Päiväkin hidastaa.</item>
+        <item>Viikossasi on tilaa. Se oli vain jonkin muun käytössä.</item>
+        <item>Aina kun suljet tämän, päivä kasvaa vähän.</item>
+        <item>Aika on lahja, jonka annat itsellesi maksamatta mitään.</item>
+        <item>Nyt sinulla on juuri sitä, minkä sanot päivät pitkät puuttuvan.</item>
+        <item>Pitkä iltapäivä syntyy tällaisista lyhyistä päätöksistä.</item>
+        <item>Kukaan ei kysy, mitä teit tällä puolella tunnilla.</item>
+        <item>Aika, jota et luovuta tänään, on sinulla vielä huomenna.</item>
+        <item>Kaksikymmentä minuuttia päivässä on satakaksikymmentä tuntia vuodessa.</item>
+        <item>Sait juuri takaisin hetken ennen nukkumaanmenoa.</item>
+        <item>Ilmoitusten välissä on paljon elämää.</item>
+        <item>Koko päivä on käytössäsi, jos et luovuta sitä paloina.</item>
+        <item>Olet varjellut aikaasi tähän asti. Tässä on taas yksi hetki.</item>
+        <item>Huomiosi on maailman kilpailluin hyödyke. Voitit juuri.</item>
+        <item>Keskittymisen palaaminen vie kaksikymmentä minuuttia. Älä luovu siitä nyt.</item>
+        <item>Ehjä mieli on arvokkaampi kuin pirstottu.</item>
+        <item>Keskityit johonkin ennen kuin tulit tänne.</item>
+        <item>Jaettu huomio ei ole huomiota. Se on vain väsymystä.</item>
+        <item>Se, mitä olit tekemässä, ansaitsee sinut kokonaan.</item>
+        <item>Syvä ajattelu vaatii keskeytyksetöntä aikaa. Tässä sitä on.</item>
+        <item>Jokainen ruudun vaihto maksaa enemmän kuin kello näyttää.</item>
+        <item>Mielesi oli hyvässä vauhdissa. Anna sen jatkaa.</item>
+        <item>Syvä työ ei kestä syötteen selaamista.</item>
+        <item>Syöte on suunniteltu viemään huomiosi. Sinä huomasit sen.</item>
+        <item>Pitkä ajatus tarvitsee hiljaisuutta valmistuakseen.</item>
+        <item>Pystyt pitämään kokonaisen idean mielessäsi. Tarvitset vain tilaa.</item>
+        <item>Häiriö ei ole lepoa. Lepo lepuuttaa.</item>
+        <item>Keskittymisesi on yhä tallella. Palaa sen luo.</item>
+        <item>Huomiosi ei ole tänään myytävänä.</item>
+        <item>Mielesi parhaat puolet näkyvät vasta kahdennenkymmenennen minuutin jälkeen.</item>
+        <item>Keskeyttäminen nyt maksaa enemmän kuin luulisi.</item>
+        <item>Pystyt asioihin, jotka vaativat keskittymistä. Aloita suojaamalla sitä.</item>
+        <item>Mikään siellä ei tarvitse huomiotasi kiireesti.</item>
+        <item>Yksi keskittynyt tunti tuottaa enemmän kuin neljä pirstaleista.</item>
+        <item>Mielesi toimii parhaiten, kun se ei hypi aiheesta toiseen.</item>
+        <item>Kesken jääneen voi vielä saada valmiiksi tänään.</item>
+        <item>Keskittyminen ei ole tahdonvoimaa. Se on ympäristö. Järjestit juuri omasi.</item>
+        <item>Vaikea ongelma antaa periksi, kun pysyt sen äärellä.</item>
+        <item>Huomiosi on rajallinen. Siksi se on niin arvokas.</item>
+        <item>Sinun ei tarvitse tietää kaikkea juuri nyt.</item>
+        <item>Melu jatkuu siellä yhä. Sinun hiljaisuutesi on se harvinainen.</item>
+        <item>Suuret asiat ovat syntyneet, kun kukaan ei keskeyttänyt.</item>
+        <item>Palaa siihen, mitä olit tekemässä. Ajatuksesi ovat yhä siellä.</item>
+        <item>Yksi tehtävä kerrallaan on nopeampaa kuin miltä tuntuu.</item>
+        <item>Halu vilkaista menee ohi. Keskeytynyt ajatus ei aina palaa.</item>
+        <item>Pystyt keskittymään paremmin kuin olet viime aikoina antanut itsesi.</item>
+        <item>Hyvä ajattelu on hidasta. Anna sen olla hidasta.</item>
+        <item>Huomiosi rakensi tänään jotain. Älä pura sitä uteliaisuuttasi.</item>
+        <item>Mikä vaatii ajattelua, vaatii koko mielen.</item>
+        <item>Mikään syöte ei opeta sitä, minkä tunti keskittymistä opettaa.</item>
+        <item>Jokainen ohitettu ilmoitus tuo vähän lisää selkeyttä.</item>
+        <item>Olit lähellä oivallusta. Palaa sinne.</item>
+        <item>Levännyt mieli on mieli, jota ei ole riepoteltu koko päivää.</item>
+        <item>Huomiosi on aines, josta rakennat kaiken muun.</item>
+        <item>Vaikeinta on aloittaa. Aloitit jo. Älä aloita alusta.</item>
+        <item>Anna asian levätä, niin se ratkeaa mielessäsi itsestään.</item>
+        <item>Selkeys tulee, kun melu lakkaa.</item>
+        <item>Päiväsi paras työ on vielä edessä.</item>
+        <item>Kyse ei ole ajan puutteesta. Kyse on yhtenäisen ajan puutteesta.</item>
+        <item>Ajattelet paremmin kuin syöte antaa sinun ajatella.</item>
+        <item>Se teksti, se koodi, se keskustelu. Ne odottavat sinua kokonaan läsnä.</item>
+        <item>Keskittyminen on lihas. Se vahvistuu tämänkaltaisina päivinä.</item>
+        <item>Mielesi kiitti sinua juuri.</item>
+        <item>Yksi asia kerrallaan on yhä kehittynein tunnettu tekniikka.</item>
+        <item>Se, minkä teet keskittyen, jää. Muu katoaa.</item>
+        <item>Ajatteluun ei ole oikotietä. On vain keskeytyksetöntä aikaa.</item>
+        <item>Ansaitset saada ajatuksesi loppuun.</item>
+        <item>Mielesi oli terävä. Pidä kiinni siitä langasta.</item>
+        <item>Ruutu välkkyy. Ajatukset eivät. Pysy ajatusten luona.</item>
+        <item>Yksi keskittynyt päivä vastaa kolmea kiireistä.</item>
+        <item>Et ole hidas. Sinua vain keskeytettiin jatkuvasti.</item>
+        <item>Tämän päivän tärkein asia ei ole syötteessä.</item>
+        <item>Kurssissa pysyminen on helpompaa kuin sille palaaminen.</item>
+        <item>Jakamaton huomiosi on lahja. Anna se sille, joka sen ansaitsee.</item>
+        <item>Hyvät ideat syntyvät hiljaisuudessa.</item>
+        <item>Olit keskellä jotain hyvää.</item>
+        <item>Kukaan ei ajattele selkeästi, jos ajatukset ovat kymmenessä paikassa.</item>
+        <item>Syvyys löytyy vasta, kun on ollut hetken pinnalla.</item>
+        <item>Keskittymisessä ei ole kyse enemmän tekemisestä vaan hyvin tekemisestä.</item>
+        <item>Sinulla on tänään jotain tärkeää. Se ei ole syöte.</item>
+        <item>Anna mielesi viedä aloittamansa lause loppuun.</item>
+        <item>Tunti ilman keskeytyksiä muuttaa sen, mikä päivässä on mahdollista.</item>
+        <item>Se, mikä nyt tuntuu vaikealta, helpottuu jatkuvalla huomiolla.</item>
+        <item>Keskittymiskykysi on etusi. Harvalla se on enää tallella.</item>
+        <item>Älä vaihda yhtä tärkeää asiaa moneen nopeaan.</item>
+        <item>Uteliaisuus voi odottaa. Keskittyminen ei odota.</item>
+        <item>Olet rakentamassa jotain. Jatka.</item>
+        <item>Tehtävästä toiseen hyppiminen tuntuu tehokkaalta, mutta harvoin on.</item>
+        <item>Mielesi paras käyttö tänään on vielä tarjolla.</item>
+        <item>Huomio, jonka säästät nyt, näkyy myöhemmin lopputuloksessa.</item>
+        <item>Mielesi ei ole syöte. Se säilyttää sen, mihin kiinnität huomiota.</item>
+        <item>On harvinaista, että jokin ansaitsee koko huomiosi. Nauti siitä.</item>
+        <item>Vaikea ei ole mahdoton. Se vain vie aikaa.</item>
+        <item>Olet muutaman minuutin päässä läpimurrosta.</item>
+        <item>Melu vaimenee, kun lakkaat ruokkimasta sitä.</item>
+        <item>Pysy siinä, mitä olit tekemässä, kunnes se on valmis.</item>
+        <item>Yksi syvä sukellus korvaa kymmenen pintapulahdusta.</item>
+        <item>Huomiosi ratkaisee, mistä tulee muisto.</item>
+        <item>Muistat sen, mihin kiinnitit huomiota. Vain sen.</item>
+        <item>Ajattelu on tämän päiväsi kannattavin tekeminen.</item>
+        <item>Kiireetön mieli ratkaisee sen, mitä kiireinen ei edes huomaa.</item>
+        <item>Hyvä työ vaatii kärsivällisyyttä, ei vauhtia.</item>
+        <item>Mikään siitä, mitä nyt näkisit, ei päätyisi huomiseen keskusteluun.</item>
+        <item>Tämänpäiväinen selkeytesi alkoi tällaisista päätöksistä.</item>
+        <item>Keskeytys on kallein vero, mitä on.</item>
+        <item>Pystyt pysymään yhdessä asiassa pidempään kuin uskot.</item>
+        <item>Yksityiskohta, joka karkasi sinulta, löytyy hiljaisuudessa.</item>
+        <item>Keskittyminen palaa. Se tarvitsee vain muutaman minuutin ilman ruutua.</item>
+        <item>Pystyt pitkäjänteiseen huomioon. Syöte vain lyö vetoa, ettet pysty.</item>
+        <item>Yhden asian loppuun vieminen tänään on arvokkaampaa kuin viiden aloittaminen.</item>
+        <item>Täysi läsnäolosi on harvinaista jopa sinulle itsellesi.</item>
+        <item>Anna ajatuksen hengittää.</item>
+        <item>Keskittyen rakentamaasi kukaan ei selaa ohi.</item>
+        <item>Halu avata menee ohi muutamassa minuutissa. Aina menee.</item>
+        <item>Tällä mielihalulla on viimeinen käyttöpäivä. Se vanhenee itsestään.</item>
+        <item>Sinun ei tarvitse tehdä mitään. Odota vain, että aalto laskee.</item>
+        <item>Kiire, jonka nyt tunnet, ei ole sinun. Se on opittu.</item>
+        <item>Hengitä kerran. Halu on jo pienempi kuin minuutti sitten.</item>
+        <item>Mielihalu on voimakas alussa ja katoaa puolivälissä.</item>
+        <item>Et sinä sitä halua. Tapa pyytää sitä.</item>
+        <item>Olo on epämukava vain hetken. Sitten se menee ohi.</item>
+        <item>Olet tuntenut tämän ennenkin ja selvinnyt joka kerta.</item>
+        <item>Halu tulee aaltoina. Aallot murtuvat.</item>
+        <item>Kenenkään ei tarvitse totella päivän ensimmäistä mielihalua.</item>
+        <item>Tämä puristus rinnassa kestää vähemmän kuin yksi kappale.</item>
+        <item>Olet suurempi kuin puolen minuutin mielihalu.</item>
+        <item>Anna halun mennä ohi tekemättä sille mitään.</item>
+        <item>Epämukava olo on tavan otteen hellittämistä. Se on edistystä.</item>
+        <item>Et vastustele. Sinä vain odotat.</item>
+        <item>Halu tulee rytinällä ja lähtee hiljaa.</item>
+        <item>Laske kahteenkymmeneen. Halu on silloin jo pienempi.</item>
+        <item>Haluaminen ei ole sama kuin tarvitseminen.</item>
+        <item>Mielihalu vaatii heti vastausta. Älä anna mitään.</item>
+        <item>Tämä on vaikein hetki, ja se on lyhyt.</item>
+        <item>Sinun ei tarvitse taistella. Älä vain päätä mitään nyt.</item>
+        <item>Halu hiipuu, kun kukaan ei ruoki sitä.</item>
+        <item>Tämä on levottomuutta, ei sisällön nälkää.</item>
+        <item>Huomaa halu lähtemättä siihen mukaan.</item>
+        <item>Aivot pyytävät tavallista. Sinun ei ole pakko tarjoilla.</item>
+        <item>Viiden minuutin päästä et edes muista halunneesi avata.</item>
+        <item>Aalto nousee nyt. Se laskee aina.</item>
+        <item>Pahin on jo takanasi.</item>
+        <item>Mielihalu valehtelee omasta voimastaan.</item>
+        <item>Nouse, juo vettä, palaa. Se on jo mennyt.</item>
+        <item>Halu ei ole käsky.</item>
+        <item>Voit tuntea tämän ja olla tekemättä mitään. Se on sallittua.</item>
+        <item>Keho kaipaa liikettä, ei ruutua.</item>
+        <item>Tämä halu on automaattinen. Vastauksesi ei tarvitse olla.</item>
+        <item>Mitään pahaa ei tapahdu, jos odotat vielä hetken.</item>
+        <item>Halu katoaa itsestään, kun annat sille tilaa.</item>
+        <item>Olet vain levoton. Se menee ohi eikä vaadi ruutua.</item>
+        <item>Mielihalu on ehdotus. Sinä päätät.</item>
+        <item>Vielä minuutti, niin halu on jo jotain muuta.</item>
+        <item>Vaikea osuus kestää hetken. Hyvä osuus kestää koko päivän.</item>
+        <item>Tämä on se kuuluisa tönäisy. Se ei tönäise niin kovaa.</item>
+        <item>Odota tuomitsematta. Halu haihtuu itsestään.</item>
+        <item>Aivosi pyytävät tuttua oikotietä.</item>
+        <item>Sinun ei tarvitse voittaa mitään. Anna vain mennä ohi.</item>
+        <item>Jokainen aalto, jonka annat mennä ohi, pienentää seuraavaa.</item>
+        <item>Levottomuus haluaa nopean ratkaisun. Täältä se ei sitä löydä.</item>
+        <item>Pysy hetki paikallasi. Mielihalu ei pysy.</item>
+        <item>Et menetä mitään odottamalla.</item>
+        <item>Tylsyys ei ole hätätilanne.</item>
+        <item>Tyhjä olo on nyt ihan normaali. Se täyttyy itsestään.</item>
+        <item>Halu tarkistaa jotain koskee harvoin sitä jotain.</item>
+        <item>Olosi on epämukava, mutta et ole vaarassa.</item>
+        <item>Tämä hellittää hetkessä.</item>
+        <item>Tapa on vahva, mutta lyhytikäinen.</item>
+        <item>Anna tämän mennä ohi. Vain tämän.</item>
+        <item>Seuraava kerta on helpompi tämän ansiosta.</item>
+        <item>Sinun ei tarvitse vakuuttaa itseäsi mistään. Riittää, että odotat.</item>
+        <item>Lasi vettä auttaa enemmän kuin syötteen selaaminen.</item>
+        <item>Kiire on keksitty, ja tiedät sen jo.</item>
+        <item>Mielihalu ei kestä jäädä ilman vastausta.</item>
+        <item>Odota puoli minuuttia. Päätä sitten uudestaan.</item>
+        <item>Olet huipulla. Tästä eteenpäin mennään alamäkeä.</item>
+        <item>Mikään ei vaadi reaktiotasi nyt.</item>
+        <item>Halu on vieras. Se lähtee kyllä.</item>
+        <item>Et ole mielihalu. Olet se, joka katselee sitä.</item>
+        <item>Keho rentoutuu, jos annat sille minuutin.</item>
+        <item>Aivot vain etsivät virikettä. Ne löytävät jonkin muun.</item>
+        <item>Kolme syvää hengenvetoa muuttaa tämän voimakkuutta.</item>
+        <item>Halu kutistuu, kun katsot sitä suoraan.</item>
+        <item>Kestät tämän minuutin. Olet kestänyt pahempiakin.</item>
+        <item>Epämukavuus menee ohi, vaikket tekisi mitään.</item>
+        <item>Käsi ehti ennen ajatusta. Sitä sattuu.</item>
+        <item>Mitään päätöstä ei tarvitse tehdä ensimmäisten kymmenen sekunnin aikana.</item>
+        <item>Hetken päästä et edes muista tätä.</item>
+        <item>Laukaisin painui. Vastaus on yhä sinun.</item>
+        <item>Anna halun olla olemassa, mutta älä tottele sitä.</item>
+        <item>Tämä ei ole himoa. Se on tottumusta.</item>
+        <item>Odota. Se on kirjaimellisesti kaikki, mitä sinun tarvitsee tehdä.</item>
+        <item>Mieli rauhoittuu itsestään, jos et heitä lisää puita tuleen.</item>
+        <item>Odotat jo. Se on jo voitto.</item>
+        <item>Mielihalu menettää voimansa, kun se kohtaa suljetun oven.</item>
+        <item>Jokainen sekunti tässä on sekunti etumatkaa.</item>
+        <item>Aalto murtui. Huomaa, miten olo on jo kevyempi.</item>
+        <item>Et tarvitse syytä olla avaamatta.</item>
+        <item>Himo menee ohi nopeammin kuin katumus.</item>
+        <item>Venyttely auttaa siinä, missä syöte ei auttaisi.</item>
+        <item>Halu on lähdössä sillä aikaa, kun luet tätä.</item>
+        <item>Älä päätä nyt mitään. Hengitä vain.</item>
+        <item>Mielihalu tulee itsestään ja menee itsestään.</item>
+        <item>Tämä on vaikeinta. Ja se on ohi nopeasti.</item>
+        <item>Olet kestänyt tähän asti. Enää sekunteja.</item>
+        <item>Keho pyytää ruutua, kun se kaipaa lepoa. Anna sille lepoa.</item>
+        <item>Halu pienenee joka kerta, kun sitä ei totella.</item>
+        <item>Odota vielä vähän. Siinä kaikki.</item>
+        <item>Hetki menee ohi. Valinta jää.</item>
+        <item>Pääsit juuri kapeimman kohdan läpi.</item>
+        <item>Halu on inhimillistä. Niin on tottelematta jättäminenkin.</item>
+        <item>Rauha palaa hetkessä, jos et hoputa.</item>
+        <item>Olo on jo kevyempi, eikö olekin?</item>
+        <item>Päätit tämän ollessasi rauhallinen. Luota siihen, joka päätti.</item>
+        <item>Eilinen sinä piti huolta nykyisestä sinusta.</item>
+        <item>Tämä ruutu on viesti sinulta itsellesi.</item>
+        <item>Sinua ei estetä. Sinua muistutetaan.</item>
+        <item>Se, joka haluat olla, ei vietä iltapäivää selaillen.</item>
+        <item>Tämä valinta oli sinun. Se on yhä.</item>
+        <item>Olet ihminen, joka huomasi ja toimi.</item>
+        <item>Kukaan ei pakottanut sinua asentamaan tätä. Halusit itse.</item>
+        <item>Huominen minäsi kiittää nykyistä minääsi.</item>
+        <item>Olet jo joku, joka varjelee omaa aikaansa.</item>
+        <item>Tämä ei ole rangaistus. Tämä on sopimus.</item>
+        <item>Kirjoitit tämän säännön itse. Se toimii.</item>
+        <item>Oman huomion hallinta on päivittäinen valinta.</item>
+        <item>Sinun ei tarvitse todistaa täällä mitään kenellekään.</item>
+        <item>Ihminen, joka haluat olla, syntyy pienistä päätöksistä.</item>
+        <item>Olet tämän ruudun oikealla puolella.</item>
+        <item>Aina kun suljet tämän, sinusta tulee enemmän se, joka haluat olla.</item>
+        <item>Et ole se, mitä haluat. Olet se, mitä teet.</item>
+        <item>Sopimus itsesi kanssa on yhtä arvokas kuin mikä tahansa muu.</item>
+        <item>Tunnistit kaavan ja muutit sitä. Se on harvinaista.</item>
+        <item>Olet suurempi kuin taskusi sovellukset.</item>
+        <item>Tämä on sinun sääntösi, ja se on sinun puolellasi.</item>
+        <item>Sinulla on oikeus muuttaa tapojasi.</item>
+        <item>Se, mitä teet toistuvasti, on se, kuka olet.</item>
+        <item>Valitsit elämän, jossa on enemmän tilaa.</item>
+        <item>Sovellus ei määrää sinua.</item>
+        <item>Identiteettisi ei mahdu syötteeseen.</item>
+        <item>Sinä asensit tämän, ja sinulla oli siihen syy.</item>
+        <item>Muista syy. Se pätee yhä.</item>
+        <item>Kunnioitat omaa päätöstäsi.</item>
+        <item>Kukaan ei päätä huomiostasi puolestasi.</item>
+        <item>Huomasit, mitä oli tapahtumassa. Se muuttaa jo kaiken.</item>
+        <item>Oman päivän hallitseminen on jatkuvaa työtä.</item>
+        <item>Et ole matkustaja. Sinä ajat.</item>
+        <item>Tämän valinnan tekee ihminen, joka ottaa itsensä vakavasti.</item>
+        <item>Olet vastuussa itsestäsi. Ja kannat sen vastuun.</item>
+        <item>Ajallasi on omistaja. Hän lukee tätä juuri nyt.</item>
+        <item>Sovit asiasta itsesi kanssa. Pidä sopimus.</item>
+        <item>Jokainen tällainen päätös vie sinua lähemmäs sitä, joka haluat olla.</item>
+        <item>Et menetä vapauttasi. Käytät sitä.</item>
+        <item>Sinä päätät, mitä teet nyt.</item>
+        <item>Et tarvitse lupaa elääksesi toisin.</item>
+        <item>Tämä raja on huolenpitoa, ei häkki.</item>
+        <item>Valitsit vaikeamman tien, joka on enemmän sinun omasi.</item>
+        <item>Ihminen, jota ihailet, sanoisi nyt myös ei.</item>
+        <item>Elät elämässäsi, et sovelluksessa.</item>
+        <item>Sinun aikasi, sinun mielesi, sinun valintasi.</item>
+        <item>Pidät lupauksesi itsellesi. Sillä on merkitystä.</item>
+        <item>Kukaan muu ei pidä huolta huomiostasi puolestasi.</item>
+        <item>Olet jo näyttänyt, että pystyt muuttamaan suuntaa.</item>
+        <item>Sitä itsemääräämisoikeus on: päättää etukäteen, ei hetken mielijohteesta.</item>
+        <item>Rakennat itsestäsi ihmistä, jota kunnioitat.</item>
+        <item>Tämä on se versio sinusta, joka suunnittelee.</item>
+        <item>Et päätynyt tänne sattumalta. Rakensit tämän itse.</item>
+        <item>Lupauksesi itsellesi pitää.</item>
+        <item>Sinulla on oma näkemys siitä, mihin käytät päiväsi.</item>
+        <item>Sovellus ei tunne sinua. Sinä tunnet.</item>
+        <item>Otat oman elämäsi ohjat.</item>
+        <item>Omassa päätöksessä pysyminen on vapautta.</item>
+        <item>Täällä sinä kirjoitat säännöt.</item>
+        <item>Tämä on sitä, että pidät itsestäsi huolta.</item>
+        <item>Et ole vankina. Olet suojassa.</item>
+        <item>Halusi muuttua on vanhempi kuin tämä mielihalu.</item>
+        <item>Olet jo se, joka yrität olla.</item>
+        <item>Vaikea päätös on jo tehty. Tämä on vain se helppo.</item>
+        <item>Sinä hallitset tilannetta, ja se on nykyään harvinaista.</item>
+        <item>Kenenkään ei tarvitse tietää. Tämä on sinun ja sinun välisesi asia.</item>
+        <item>Ansaitset voida luottaa omaan sanaasi.</item>
+        <item>Tässä valinnassa on sinun nimesi.</item>
+        <item>Sinusta on tullut ihminen, joka päättää etukäteen.</item>
+        <item>Tämä ei ole luopumista. Tämä on toisen asian valitsemista.</item>
+        <item>Sinulla on suunta. Tämä ruutu osoittaa sitä kohti.</item>
+        <item>Todellinen vapaus on sitä, ettei sinua riuhdota koko ajan.</item>
+        <item>Sinä määräät huomiosi arvon.</item>
+        <item>Jokainen ei tässä on kyllä jollekin muulle omallesi.</item>
+        <item>Pysyt uskollisena suunnitelmalle, jonka teit lämmöllä.</item>
+        <item>Itsensä herrana oleminen vaatii työtä, ja se kannattaa.</item>
+        <item>Myönsit haluavasi muutosta. Se on jo se vaikea osa.</item>
+        <item>Peilistä tänä iltana katsova ihminen pitää tästä.</item>
+        <item>Et ole velkaa algoritmille mitään.</item>
+        <item>Elämäsi ei ole kenenkään sisältöä.</item>
+        <item>Olet juuri siellä, missä päätit olla.</item>
+        <item>Raja, jonka asetat itsellesi, on kunnioittavin mahdollinen.</item>
+        <item>Elämänsuunnitelmasi on suurempi kuin tämä ruutu.</item>
+        <item>Tämä on kypsyyttä reaaliajassa.</item>
+        <item>Pidät huolta tulevaisuudestasi huomaamattasi.</item>
+        <item>Jokainen tällainen valinta hioo sitä, kuka olet.</item>
+        <item>Sinun ei tarvitse selittää, miksi et avaa.</item>
+        <item>Sitoumuksesi on itsellesi, ei sovellukselle.</item>
+        <item>Teit oikean päätöksen hetkellä, jolloin halu ei vienyt.</item>
+        <item>Tämä on elämäsi, ja sinä ohjaat sitä.</item>
+        <item>Sinusta on tullut joku, jota on vaikea manipuloida.</item>
+        <item>Huomiollasi on omistaja, ja hän on valppaana.</item>
+        <item>Toimit juuri kuin ihminen, joka pitää itsestään huolta.</item>
+        <item>Suunnitelma on sinun. Se toimii juuri nyt.</item>
+        <item>Olet pienten valintojesi summa.</item>
+        <item>Kukaan ei vie sinulta viimeistä sanaa.</item>
+        <item>Ajastasi päättää vain yksi: sinä.</item>
+        <item>Tämä toimii, koska halusit sen toimivan.</item>
+        <item>Olet suurempi kuin tapa, joka haluaisi olla sinua suurempi.</item>
+        <item>Taas yksi. Näin summa kasvaa.</item>
+        <item>Pieni ja toistuva voittaa suuren ja harvinaisen.</item>
+        <item>Sait juuri yhden pisteen lisää.</item>
+        <item>Kukaan ei muutu yhdessä yössä. Muutos tapahtuu tällaisina päivinä.</item>
+        <item>Tämä on tuhannesosa erilaista elämää.</item>
+        <item>Yksi hyvä päivä ei muuta mitään. Sata hyvää päivää muuttaa kaiken.</item>
+        <item>Olet rakentamassa putkea.</item>
+        <item>Edistys tuntuu sisältäpäin harvoin edistykseltä.</item>
+        <item>Näiden valintojen summa on suurempi kuin mikään niistä yksin.</item>
+        <item>Johdonmukaisuus on tylsää, ja se toimii.</item>
+        <item>Taas yksi kivi muuriin.</item>
+        <item>Harjoittelet jotain, mikä jää pysyväksi.</item>
+        <item>Kun tätä toistaa tarpeeksi, siitä tulee automaattista.</item>
+        <item>Kukaan ei näe tätä voittoa, mutta se lasketaan silti.</item>
+        <item>Muutaman viikon päästä et ehkä edes tunne halua.</item>
+        <item>Tänään on merkitystä. Huomennakin on.</item>
+        <item>Ketju syntyy tällaisista lenkeistä.</item>
+        <item>Uutta tapaa kirjoitetaan juuri nyt.</item>
+        <item>Jokainen toisto löysää vanhan tavan otetta vähän.</item>
+        <item>Olet tehnyt tämän ennenkin. Tee se taas.</item>
+        <item>Hitaasti on kestävien asioiden vauhti.</item>
+        <item>Muutos tapahtuu katseilta piilossa.</item>
+        <item>Kerrytät jotain näkymätöntä mutta todellista.</item>
+        <item>Taas yksi päivä oikeaan suuntaan.</item>
+        <item>Tulos näkyy myöhemmin. Valinta tehdään tänään.</item>
+        <item>Näin se tehdään: yksi valinta kerrallaan.</item>
+        <item>Olet lähempänä kuin eilen.</item>
+        <item>Ei tarvitse olla täydellistä. Riittää, että se on säännöllistä.</item>
+        <item>Käyrä nousee ensin hitaasti ja sitten nopeasti.</item>
+        <item>Olet kesken prosessia. Sellainen se on.</item>
+        <item>Jokainen pieni ei rakentaa suurta kyllää.</item>
+        <item>Mikään tästä ei ole dramaattista. Siksi se toimii.</item>
+        <item>Tie koostuu tällaisista askelista.</item>
+        <item>Luot itsellesi uudenlaista rutiinia.</item>
+        <item>Kuukauden päästä tämä tuntuu helpolta.</item>
+        <item>Toisto muuttaa päätöksen tavaksi olla.</item>
+        <item>Vahvistit juuri uutta polkua.</item>
+        <item>Sata prosenttia on helpompaa kuin yhdeksänkymmentäkahdeksan.</item>
+        <item>Älä katkaise putkea tänään.</item>
+        <item>Teet sitä tylsää osuutta, ja juuri sillä on merkitystä.</item>
+        <item>Muutosta ei tunne. Sen näkee jälkikäteen.</item>
+        <item>Taas yksi tiili paikallaan.</item>
+        <item>Opetat aivojasi odottamaan jotain muuta.</item>
+        <item>Jatkaminen on koko tekniikka.</item>
+        <item>Yhteensä mikään näistä voitoista ei ole pieni.</item>
+        <item>Sinun ei tarvitse kiirehtiä. Riittää, ettet pysähdy.</item>
+        <item>Tämä on jo helpottumassa, etkä ole edes huomannut.</item>
+        <item>Viikko tätä muuttaa jo päiväsi.</item>
+        <item>Muodostat mieleesi uutta polkua.</item>
+        <item>Jokainen kerta lasketaan, vaikka ei siltä tuntuisi.</item>
+        <item>Kukaan ei taputa, mutta tämä toimii.</item>
+        <item>Kertymä on hiljainen ja pysäyttämätön.</item>
+        <item>Olet tässä jo vahvempi kuin viime kuussa.</item>
+        <item>Hyvä valinta tänään helpottaa huomista valintaa.</item>
+        <item>Tältä johdonmukaisuus tuntuu sisältäpäin.</item>
+        <item>Taas yksi päivä kertynyttä etumatkaa.</item>
+        <item>Olet matkalla, ja matka on pitkä. Se on ihan hyvä niin.</item>
+        <item>Se, mikä toistuu, muuttuu helpoksi.</item>
+        <item>Vahvistit juuri sitä, joksi olet tulossa.</item>
+        <item>Laskelma on tänään sinun puolellasi.</item>
+        <item>Pienet voitot kasautuvat lupaa kysymättä.</item>
+        <item>Kyse ei ole tästä päivästä. Kyse on kokonaisuudesta.</item>
+        <item>Teet näkymätöntä työtä.</item>
+        <item>Jatka. Se on kirjaimellisesti koko salaisuus.</item>
+        <item>Jokainen tällainen päivä keventää taakkaa vähän.</item>
+        <item>Vanha tapa menettää nyt jalansijaa.</item>
+        <item>Kastelet jotain, mikä ei ole vielä itänyt.</item>
+        <item>Muutos tapahtuu, vaikka siltä ei näyttäisi.</item>
+        <item>Vielä kerran. Siitä tässä on aina ollut kyse.</item>
+        <item>Kerrytät varastoa hyviä päiviä.</item>
+        <item>Tästä tulee ajan myötä normaalia.</item>
+        <item>Valitsit juuri uudestaan. Ja taas se lasketaan.</item>
+        <item>Kuukausi tällaista, ja olet eri ihminen.</item>
+        <item>Tämän päivän vaiva unohtuu. Tulos jää.</item>
+        <item>Et ole enää sama, joka aloitti tämän.</item>
+        <item>Säännöllinen tekeminen voittaa paljon tekemisen.</item>
+        <item>Jokainen päivä on ääni sille, joka haluat olla.</item>
+        <item>Annat uuden tavan vallata alaa.</item>
+        <item>Tämän ei tarvitse olla sankarillista. Sen täytyy vain tapahtua.</item>
+        <item>Vahvistit juuri oikeaa suuntaa.</item>
+        <item>Toistamalla aivot oppivat mitä tahansa.</item>
+        <item>Tänään ja eilen yhteensä on jo paljon.</item>
+        <item>Pärjäät hyvin, vaikka et sitä tuntisi.</item>
+        <item>Edistys asuu tylsissä toistoissa.</item>
+        <item>Taas yksi lyhyt askel pitkällä matkalla.</item>
+        <item>Teet tästä luontevaa.</item>
+        <item>Hyvä asia, joka tehdään monta kertaa, on se, mikä jää.</item>
+        <item>Voima tulee toistosta, ei ponnistuksesta.</item>
+        <item>Lyhensit juuri huomista matkaa.</item>
+        <item>Vielä yksi. Siinä kaikki. Ja se riittää.</item>
+        <item>Jätät jälkeesi hyvien päätösten polun.</item>
+        <item>Johdonmukaisuus muuttaa ponnistelun identiteetiksi.</item>
+        <item>Jokainen päivä lasketaan kokonaisena päivänä.</item>
+        <item>Pelaat pitkää peliä ja olet voitolla.</item>
+        <item>Tästä tulee osa sinua huomaamattasi.</item>
+        <item>Päivän paras sijoitus tehtiin juuri.</item>
+        <item>Pysyit juuri linjassasi.</item>
+        <item>Sinnikkyys on harvinaisempaa kuin lahjakkuus.</item>
+        <item>Todellinen muutos on aina hidas, ja se kannattaa aina.</item>
+        <item>Taas yksi valinta kohti omaa elämääsi.</item>
+        <item>Silmäsi kiittävät tästä tauosta.</item>
+        <item>Nouse ja venyttele. Keho pyysi tätä, ei ruutua.</item>
+        <item>Hengitä syvään. Jo se muuttaa jotain.</item>
+        <item>Juo vettä. Sitä luultavasti puuttui.</item>
+        <item>Niskasi on ollut vinossa jo hetken. Suorista se.</item>
+        <item>Ensi yön uni alkaa siitä, mitä ruudulla teet nyt.</item>
+        <item>Hyvä uni on tuottavinta, mitä on.</item>
+        <item>Kehosi on ollut paikallaan liian kauan.</item>
+        <item>Katso kauas kahdenkymmenen sekunnin ajan. Silmät rentoutuvat.</item>
+        <item>Lyhyt kävely kohentaa mielialaa enemmän kuin mikään syöte.</item>
+        <item>Väsymys, jota tunnet, voi olla pelkkää ruutuväsymystä.</item>
+        <item>Kehosi pyytää liikettä, kun mieli pyytää selaamista.</item>
+        <item>Raitis ilma ratkaisee asioita, joita ruutu ei ratkaise.</item>
+        <item>Hartiat alas. Leuka rennoksi.</item>
+        <item>Jännität hartioitasi huomaamattasi.</item>
+        <item>Kymmenen minuuttia aurinkoa iholla on paljon arvoista.</item>
+        <item>Keho lepää makuulla, ei selatessa.</item>
+        <item>Aikainen nukkumaanmeno tänään on lahja huomiselle.</item>
+        <item>Ryhtisi on muuttunut viimeisen kahdenkymmenen minuutin aikana. Korjaa se.</item>
+        <item>Ruutuväsymys ei ole oikeaa väsymystä. Se on jotain muuta.</item>
+        <item>Nosta kädet ylös. Venytä. Kas, jo helpotti.</item>
+        <item>Räpäytät silmiäsi harvemmin selatessasi. Räpäytä nyt.</item>
+        <item>Keho toimii paremmin oikeilla tauoilla.</item>
+        <item>Kierros korttelin ympäri selkeyttää ajatukset.</item>
+        <item>Selkärankasi pitää tästä keskeytyksestä.</item>
+        <item>Lepo on eri asia kuin ajanviete.</item>
+        <item>Eilinen huono uni alkoi tällaisen ruudun ääressä.</item>
+        <item>Venytä niskaa kumpaankin suuntaan. Siihen menee kymmenen sekuntia.</item>
+        <item>Liike helpottaa levottomuutta paremmin kuin sisältö.</item>
+        <item>Kehosi on ainoa koti, joka sinulla on.</item>
+        <item>Vettä, valoa ja liikettä. Melkein aina siitä on kyse.</item>
+        <item>Ruutu väsyttää, vaikka se tuntuisi lepäämiseltä.</item>
+        <item>Sulje silmäsi hetkeksi. Ei muuta.</item>
+        <item>Hengität pinnallisesti. Hengitä kolme kertaa syvään.</item>
+        <item>Suihku auttaa useampaan asiaan kuin luulisi.</item>
+        <item>Kehosi on ollut samassa asennossa liian pitkään.</item>
+        <item>Oikeassa levossa ei ole ruutua.</item>
+        <item>Kahdenkymmenen minuutin kävely muuttaa koko päivän.</item>
+        <item>Pääsi on raskas, koska kehosi on liikkumatta.</item>
+        <item>Kuivat silmät, jäykät hartiat. Olet varmaan huomannut.</item>
+        <item>Kahden minuutin jaloittelu virkistää enemmän kuin selaaminen.</item>
+        <item>Keho pyytää unta ja mieli virikkeitä. Kuuntele kehoa.</item>
+        <item>Ruudun valo häiritsee untasi tuntikausia.</item>
+        <item>Venyttele jalkojasi. Se on nopeaa ja toimii.</item>
+        <item>Ansaitset levon, joka oikeasti lepuuttaa.</item>
+        <item>Liike on halvin mielialalääke, mitä on.</item>
+        <item>Kehosi muistaa tämän yön unet.</item>
+        <item>Hidas hengitys rauhoittaa nopeammin kuin mikään video.</item>
+        <item>Sinulla on joko nälkä tai tylsää. Selvitä, kumpi.</item>
+        <item>Keho palautuu, kun mieli pysähtyy.</item>
+        <item>Kaksikymmentä sekuntia ikkunasta ulos katsellen.</item>
+        <item>Ranteesi ja peukalosi tarvitsevat lomaa.</item>
+        <item>Ruutuväsymys katoaa kävellessä.</item>
+        <item>Unessa muisti järjestyy. Suojele untasi.</item>
+        <item>Tarvitset vähemmän virikkeitä, et enemmän.</item>
+        <item>Kahden minuutin venyttely on arvokkaampi kuin kymmenen minuuttia videota.</item>
+        <item>Kehosi antaa sinulle nyt merkin.</item>
+        <item>Ilmaa, vettä ja liikettä. Resepti ei ole muuttunut.</item>
+        <item>Käy lattialle makuulle minuutiksi. Ihan oikeasti.</item>
+        <item>Ruutu pitää sinut hereillä, kun tarvitsisit unta.</item>
+        <item>Keho pyytää taukoa ja käsi ruutua. Anna tauko.</item>
+        <item>Silmäsi ovat tehneet töitä aamusta asti.</item>
+        <item>Hyvin nukuttu yö muuttaa maailman.</item>
+        <item>Nouse ylös. Pelkkä nouseminen riittää jo.</item>
+        <item>Nukut paremmin tämän valinnan ansiosta.</item>
+        <item>Keho kiittää siitä, mikä mielestä tuntuu tylsältä.</item>
+        <item>Venytä selkääsi. Se pyytää sitä.</item>
+        <item>Todellinen lepo on hiljaisuutta, ei uusi virike.</item>
+        <item>Kehollasi on oma rytminsä, eikä ruutu välitä siitä.</item>
+        <item>Katso horisonttiin. Silmät kaipaavat etäisyyttä.</item>
+        <item>Leukojen jännitys ei hellitä selaamalla.</item>
+        <item>Kuinka kauan oletkaan jo istunut?</item>
+        <item>Liike tuo selkeyttä. Aina on tuonut.</item>
+        <item>Juo vettä ennen kuin päätät mitään.</item>
+        <item>Menetettyä unta ei korvata sisällöllä.</item>
+        <item>Kehosi toimii hyvin, kun annat sen.</item>
+        <item>Lyhyet nokoset antavat enemmän kuin tunti syötettä.</item>
+        <item>Syvä hengitys on ilmaista ja vaikuttaa heti.</item>
+        <item>Ruutu jännittää kehoa varoittamatta.</item>
+        <item>Olet väsyneempi kuin tarvitsisi olla.</item>
+        <item>Nouse ja katso ikkunasta. Viisi sekuntia.</item>
+        <item>Kehosi ei kehittynyt tuijottamaan valoa liikkumatta.</item>
+        <item>Venyttele sormiasi. Ne ovat tehneet tänään paljon töitä.</item>
+        <item>Yö on parempi ilman ruutua ennen nukkumaanmenoa.</item>
+        <item>Ruutu ei tarjoa lepoa.</item>
+        <item>Kehosi kaipaa luontoa ja saa pikseleitä.</item>
+        <item>Lasi vettä ja kolme hengenvetoa. Tee se nyt.</item>
+        <item>Hartioiden jännitys johtuu siitä, miten pidät puhelinta.</item>
+        <item>Keho rentoutuu, kun huomio lakkaa juoksemasta.</item>
+        <item>Viiden minuutin päästä olosi on parempi.</item>
+        <item>Liike muuttaa kemiaa. Ruutu vaihtaa vain aihetta.</item>
+        <item>Silmäsi ansaitsevat oikeaa lepoa.</item>
+        <item>Kävely järjestää ajatuksia paremmin kuin syötteen lukeminen.</item>
+        <item>Sininen valo nyt tarkoittaa huonoa unta myöhemmin.</item>
+        <item>Tarvitset lepoa, et lisää tietoa.</item>
+        <item>Kaksi syvää hengenvetoa ennen mitään muuta.</item>
+        <item>Kehosi on viisaampi kuin mielihalu.</item>
+        <item>Nouse ja kävele keittiöön. Se riittää.</item>
+        <item>Lepuuta kehoa, niin mielikin lepää.</item>
+        <item>Lähelläsi on juuri nyt ihmisiä lihaa ja verta.</item>
+        <item>Yksi keskustelu on arvokkaampi kuin kolmesataa julkaisua.</item>
+        <item>Soita jollekulle. Ihan äänellä.</item>
+        <item>Joku rakkaasi on vain viestin päässä.</item>
+        <item>Syötteen ihmiset eivät tiedä sinun olemassaolostasi.</item>
+        <item>Samassa huoneessa oleva ihminen ansaitsee enemmän.</item>
+        <item>Halaus auttaa siinä, missä mikään video ei auta.</item>
+        <item>Laita viesti sille, jonka olet viime aikoina unohtanut.</item>
+        <item>Äitisi ilahtuisi soitosta tänään.</item>
+        <item>Oikeassa elämässä ihmiset vastaavat oikeasti.</item>
+        <item>Kadonnut ystävä voi vielä palata. Ota yhteyttä.</item>
+        <item>Läsnäolo on harvinaisin asia, jonka voit antaa.</item>
+        <item>Joku odottaa, että nostat katseesi.</item>
+        <item>Hyvä kysymys on arvokkaampi kuin tunti selaamista.</item>
+        <item>Ympärilläsi olevilla ihmisillä ei ole algoritmia.</item>
+        <item>Sinulta jää väliin keskustelu, joka käydään juuri nyt.</item>
+        <item>Kukaan syötteestä ei ole tukenasi, kun tarvitset.</item>
+        <item>Kahvit jonkun kanssa muuttavat viikkoa enemmän kuin mikään syöte.</item>
+        <item>Seurasi on lahja. Anna se.</item>
+        <item>Katso sitä, joka on kanssasi.</item>
+        <item>Ystävyyttä pitää kastella. Kastele sitä tänään.</item>
+        <item>Vieressäsi oleva ihminen on todellinen.</item>
+        <item>Rakkaasi ei tarvitse tykkäyksiä.</item>
+        <item>Mieti, milloin viimeksi kävit pitkän keskustelun.</item>
+        <item>Pyydä joku kävelylle.</item>
+        <item>Parhaissa muistoissa on harvoin ruutua.</item>
+        <item>Olet nyt jonkun seuraa.</item>
+        <item>Lähetä ääniviesti rakkaallesi.</item>
+        <item>Ihmiset muuttuvat, kun kiinnität heihin huomiota.</item>
+        <item>Läsnäolosi on jollekulle tänään arvokas.</item>
+        <item>Hyvä keskustelu piristää. Syöte ei.</item>
+        <item>Jonkun pitää saada tietää, että muistit häntä.</item>
+        <item>Tapaa joku sen sijaan, että seuraat jotakuta.</item>
+        <item>Vahvat siteet syntyvät yhdessä vietetystä ajasta.</item>
+        <item>Voit olla syy jonkun hyvään päivään.</item>
+        <item>Se sukulainen, jonka kanssa et ole puhunut kuukausiin.</item>
+        <item>Yksi vilpitön viesti on arvokkaampi kuin tuhat katselukertaa.</item>
+        <item>Yhdessä oleminen on eri asia kuin yhteydessä oleminen.</item>
+        <item>Läheisesi ansaitsevat sinut kokonaan.</item>
+        <item>Kutsu joku illalliselle.</item>
+        <item>Oikeilla ihmisillä on kasvot, ääni ja rajallinen aika.</item>
+        <item>Olet jollekulle korvaamaton. Ole läsnä.</item>
+        <item>Päiväsi tärkein keskustelu on vielä käymättä.</item>
+        <item>Lähelläsi on myös joku ilman ruutua.</item>
+        <item>Kuunteleminen on helpoin tapa olla pidetty.</item>
+        <item>Ystäväsi käy läpi jotain. Kysy, miten hän voi.</item>
+        <item>Lapsesi, koirasi, naapurisi. Joku on siellä.</item>
+        <item>Somessa olet yhteydessä moneen ihmiseen etkä kehenkään.</item>
+        <item>Iltapäivä jonkun kanssa vastaa kuukautta syötettä.</item>
+        <item>Voit saada jonkun nauramaan tänään. Ihan oikeasti.</item>
+        <item>Täysi läsnäolo on hyvin harvinaista. Sinulla on sitä annettavana.</item>
+        <item>Joku puhui sinusta tällä viikolla. Muista häntä takaisin.</item>
+        <item>Kukaan syötteessä ei kaipaa sinua.</item>
+        <item>Viiden minuutin puhelu muuttaa jonkun päivän.</item>
+        <item>Tärkeät ihmiset eivät julkaise siitä mitään.</item>
+        <item>Hyvä keskustelu on vain yhden kysymyksen päässä.</item>
+        <item>Oikeassa seurassa ei ole mainoskatkoja.</item>
+        <item>Se ihminen, joka aina tukee sinua. Kiitä häntä tänään.</item>
+        <item>Silmiin katsominen on yhä paras teknologia.</item>
+        <item>Perheesi ei ole syöte. Älä selaa sen ohi.</item>
+        <item>Kutsu joku olemaan kanssasi tekemättä mitään.</item>
+        <item>Kaukana asuvatkin ansaitsevat kuulla sinusta.</item>
+        <item>Sovelluksen ulkopuolella on ihmisiä, jotka välittävät sinusta.</item>
+        <item>Lykätty vaikea keskustelu painaa enemmän kuin syöte.</item>
+        <item>Nauti lähelläsi olevista, kun he ovat siinä.</item>
+        <item>Ihmiset muistavat sen, joka oli läsnä.</item>
+        <item>Pyydä ystävä kahville ilman syytä.</item>
+        <item>Joku jossain haluaa kuulla sinusta.</item>
+        <item>Voit nyt kuunnella jotakuta kunnolla.</item>
+        <item>Side rakentuu katsomalla, ei selaamalla.</item>
+        <item>Huomiosi on paras lahja rakkaillesi.</item>
+        <item>Ihminen on arvokkaampi kuin profiili.</item>
+        <item>Keskustelu, jonka olet jollekulle velkaa. Se on tänään.</item>
+        <item>Saatavilla oleminen on rakkauden muoto.</item>
+        <item>Sinulla on nyt aikaa jollekulle.</item>
+        <item>Kukaan ei ole jättänyt hyvästejä elämälle toivoen lisää seuraajia.</item>
+        <item>Tapaa joku uudelleen sen sijaan, että seuraat kaukaa.</item>
+        <item>Välittäminen pitää joskus sanoa ääneen.</item>
+        <item>Vanha porukkasi on yhä olemassa. Kutsu heidät koolle.</item>
+        <item>Joku vierelläsi haluaisi jutella.</item>
+        <item>Vertailu ei ole yhteyttä.</item>
+        <item>Voit olla tänään läsnä.</item>
+        <item>Käsin kirjoitettu lappu. Mikä idea.</item>
+        <item>Ne, jotka oikeasti tuntevat sinut, eivät ole syötteessä.</item>
+        <item>Jaa iltapäivä jonkun kanssa.</item>
+        <item>Lähelläsi olevat ansaitsevat sen, minkä annat syötteelle.</item>
+        <item>Olet tärkeä jollekulle, joka ei julkaise mitään.</item>
+        <item>Soita ja kysy, miten toinen oikeasti voi.</item>
+        <item>Yksinäisyys ei katoa ruutua tuijottamalla.</item>
+        <item>Lähesty jotakuta tänään.</item>
+        <item>Yhteinen ateria on koko iltapäivän arvoinen.</item>
+        <item>Huomiosi ruokkii ihmissuhteita. Ruoki yhtä.</item>
+        <item>Joku ajattelee sinua juuri nyt.</item>
+        <item>Kerro jollekulle, että pidät hänestä.</item>
+        <item>Ystävyydet kuolevat hiljaisuuteen, eivät riitoihin.</item>
+        <item>Lähelläsi on hyviä ihmisiä. Nauti heistä.</item>
+        <item>Joku kaipaa seuraa, ja sinä voit olla sitä.</item>
+        <item>Jätä syöte ja tapaa ihmisiä.</item>
+        <item>Rakkaasi haluavat aikaasi, eivät profiiliasi.</item>
+        <item>Voit parantaa jonkun päivää viidessä minuutissa.</item>
+        <item>Luominen väsyttää ja täyttää. Kuluttaminen lepuuttaa ja tyhjentää.</item>
+        <item>Sinulla on enemmän sanottavaa kuin katsottavaa.</item>
+        <item>Joku luo parhaillaan sitä, mitä olit katsomassa.</item>
+        <item>Kirjoita yksi rivi. Vain yksi.</item>
+        <item>Maailmassa on liikaa kuluttajia ja liian vähän tekijöitä.</item>
+        <item>Se ideasi odottaa yhä.</item>
+        <item>Voit tehdä jotain sen sijaan, että katsot valmista.</item>
+        <item>Kaikki hyvä on jonkun tekemää, joka ei sillä hetkellä selannut.</item>
+        <item>Ideasi on arvokkaampi kuin koko tämän päivän syöte.</item>
+        <item>Aloita se, mitä lykkäät. Viisi minuuttia riittää.</item>
+        <item>Pysähtynyt projekti tarvitsee vain tönäisyn.</item>
+        <item>Sinulla on lahjoja johonkin muuhunkin kuin selaamiseen.</item>
+        <item>Tee tänään jotain, mitä ei ollut eilen.</item>
+        <item>Luominen on hauskempaa kuin katsominen, kunhan pääsee alkuun.</item>
+        <item>Tyhjä vihko ei pure.</item>
+        <item>Paras sisältö on sitä, jonka teet itse.</item>
+        <item>Opit enemmän tekemällä kuin katsomalla.</item>
+        <item>Soita, piirrä, kokkaa. Tee jotain käsilläsi.</item>
+        <item>Luovuutesi katoaa, kun täytät pääsi syötteellä.</item>
+        <item>On olemassa teos, jota kukaan ei ole vielä tehnyt, ja se on sinun.</item>
+        <item>Aloita huonosti. Sitten se paranee.</item>
+        <item>Kappale päivässä muuttuu kirjaksi.</item>
+        <item>Sinulla on tarina kerrottavana.</item>
+        <item>Tekeminen on vastalääke tyhjyyteen.</item>
+        <item>Tylsyys on luovuuden alku. Anna sen olla.</item>
+        <item>Mielesi keksii, kun lakkaat täyttämästä sitä.</item>
+        <item>Se maksettu kurssi odottaa.</item>
+        <item>Tänään voit oppia jotain uutta.</item>
+        <item>Kuluttaminen on helppoa. Siksi se tyydyttää niin vähän.</item>
+        <item>Haluat tehdä jotain. Aloita nyt.</item>
+        <item>Viisi minuuttia harjoittelua on arvokkaampaa kuin tunti videoita.</item>
+        <item>Se resepti, jota haluat kokeilla.</item>
+        <item>Ideat tulevat hiljaisuudessa, eivät selatessa.</item>
+        <item>Voit olla tekijä etkä yleisö.</item>
+        <item>Pieni projekti muuttaa viikon.</item>
+        <item>Kirjoita ylös, mitä tekisit, jos sinulla olisi aikaa. Sinulla on.</item>
+        <item>Kätesi osaavat tehdä asioita. Käytä niitä.</item>
+        <item>Tee tänään jotain epätäydellistä.</item>
+        <item>Oppiminen on mukavampaa kuin viihdytettävänä oleminen.</item>
+        <item>Se, minkä luot, jää. Se, minkä selaat, katoaa.</item>
+        <item>Se soitin, joka seisoo nurkassa.</item>
+        <item>Sinua odottaa keskeneräinen projekti.</item>
+        <item>Luominen on vertailun vastakohta.</item>
+        <item>Aloita pienesti. Aloita tänään.</item>
+        <item>Sivu päivässä on erilainen elämä.</item>
+        <item>Mielikuvituksesi tarvitsee tyhjää tilaa.</item>
+        <item>Tee jotain, mistä olet huomenna ylpeä.</item>
+        <item>Luomisen iloa ei korvaa mikään.</item>
+        <item>Pystyt muuhunkin kuin kuluttamiseen.</item>
+        <item>Hylätty harrastuksesi on yhä olemassa.</item>
+        <item>Kaksikymmentä minuuttia harjoittelua on kaksikymmentä minuuttia edistystä.</item>
+        <item>Kukaan ei ole tullut hyväksi missään selaamalla syötettä.</item>
+        <item>Seuraava taitosi alkaa jossain vaiheessa. Olkoon se nyt.</item>
+        <item>Tee, vaikka kukaan ei näkisi.</item>
+        <item>On jotain, mitä haluat oppia. Aloita.</item>
+        <item>Kuluttaminen on muiden elämän katselemista.</item>
+        <item>Sinulla on kädet, pää ja aikaa. Muuta et tarvitse.</item>
+        <item>Ensimmäinen luonnos on aina huono. Tee se silti.</item>
+        <item>Se kieli, jota halusit puhua.</item>
+        <item>Luomalla tylsyys muuttuu iloksi.</item>
+        <item>Vähän joka päivä kartuttaa minkä tahansa taidon.</item>
+        <item>Sisälläsi on jotain, mikä haluaa ulos.</item>
+        <item>Kirjoita päivästäsi. Vain itsellesi.</item>
+        <item>Luovuutesi odottaa, että suljet melun.</item>
+        <item>Tee tänään jotain käsilläsi.</item>
+        <item>Valmiiksi saamisen ilo on kuin ei mikään muu.</item>
+        <item>Se projekti, joka innosti sinua. Se voi innostaa yhä.</item>
+        <item>Sinun ei tarvitse olla hyvä aloittaaksesi.</item>
+        <item>Kokkaa jotain uutta. Sekin on luomista.</item>
+        <item>Elämästä tulee kiinnostavampaa, kun teet asioita.</item>
+        <item>Kukaan ei ole seppä syntyessään. Kaikki aloittavat huonosti.</item>
+        <item>Se yöllinen idea. Kirjoita se muistiin.</item>
+        <item>Osaamisellasi voit olla avuksi jollekulle.</item>
+        <item>Tee vähän tänään ja vähän huomenna.</item>
+        <item>Paras hetki aloittaa meni jo. Toiseksi paras on nyt.</item>
+        <item>Teoksesi ei tee itse itseään.</item>
+        <item>Harjoittelu on tylsää, kunnes alat olla hyvä.</item>
+        <item>Haluat luoda. Syöte haluaa, että vain katselet.</item>
+        <item>Se piirros, jonka aloitit.</item>
+        <item>Tekeminen on nopein tapa oppia.</item>
+        <item>Sinulla on ääni. Käytä sitä johonkin.</item>
+        <item>Kotona jonkin korjaaminenkin on luomista.</item>
+        <item>Seuraava saavutuksesi alkaa tavallisena päivänä, kuten tänään.</item>
+        <item>Tee jotain, mitä vain sinä tekisit.</item>
+        <item>Syöte on loputon. Teoksellasi on loppu, ja siksi se on tärkeä.</item>
+        <item>Voit istuttaa tänään jotain. Ihan kirjaimellisesti.</item>
+        <item>Se taulukko, se suunnitelma, se unelma.</item>
+        <item>Luominen vaatii työtä, ja juuri siksi se kannattaa.</item>
+        <item>Olet kiinnostavampi kuin mikään syöte.</item>
+        <item>Opiskele kaksikymmentä minuuttia. Se on vähän ja paljon.</item>
+        <item>Uteliaisuus on parhaimmillaan, kun siitä tulee tekemistä.</item>
+        <item>Se kappale, jonka halusit opetella.</item>
+        <item>Tee nyt jotain hyödyllistä ja yksinkertaista.</item>
+        <item>Sinulla on jotain hyvää annettavaa maailmalle.</item>
+        <item>Aloita se, mistä olet myöhemmin kiitollinen.</item>
+        <item>Oma projekti muuttaa suhdettasi aikaan.</item>
+        <item>Luominen on paras tapa antaa mielelle tekemistä.</item>
+        <item>Voit saada jotain valmiiksi tänään.</item>
+        <item>Tartu johonkin todelliseen.</item>
+        <item>Mikään ei korvaa tunnetta siitä, että sai tehtyä.</item>
+        <item>Ei haittaa, että tulit tänne asti. Hengitä nyt.</item>
+        <item>Kukaan ei pidä kirjaa. Jatka vain eteenpäin.</item>
+        <item>Pärjäät hyvin, vaikka ei siltä näyttäisi.</item>
+        <item>Ei kiirettä eikä vaatimuksia. Vain tauko.</item>
+        <item>Tämä ei ole koe. Vain lempeä muistutus.</item>
+        <item>Yrität, ja se riittää jo.</item>
+        <item>Kaikki on hyvin. Sulje tämä ja jatka päivääsi.</item>
+        <item>Tässä ei ole kyse siitä, että onnistuisit aina.</item>
+        <item>Ansaitset tänään keveyttä.</item>
+        <item>Ei draamaa. Vain hetki hengähtää.</item>
+        <item>Tämä on rauhallinen paikka. Viivy hetki.</item>
+        <item>Teet parhaasi. Se merkitsee.</item>
+        <item>Täällä ei vaadita mitään. Vain välitetään.</item>
+        <item>Hengitä. Mitään pahaa ei ole tapahtumassa.</item>
+        <item>Olet päässyt tähän asti, ja se on jo hyvä.</item>
+        <item>Kukaan ei tuomitse. Älä sinäkään.</item>
+        <item>Kaikki on kunnossa. Jatka vain.</item>
+        <item>Askel kerrallaan on oikea tahti.</item>
+        <item>Sinun ei tarvitse olla tässä täydellinen.</item>
+        <item>Hitaastikin kulkeminen on kulkemista.</item>
+        <item>Tämä ruutu ei vaadi sinulta mitään.</item>
+        <item>Ole nyt lempeä itsellesi.</item>
+        <item>Halu on ihan sallittu. Se kuuluu asiaan.</item>
+        <item>Pidät huolta itsestäsi. Se on kaunista.</item>
+        <item>Ei hälytystä, ei kiirettä, ei säikähdystä.</item>
+        <item>Olet ihminen. Se on sallittua.</item>
+        <item>Sinun ei tarvitse selittää kenellekään.</item>
+        <item>Hengitä syvään. Se meni jo.</item>
+        <item>Olet täällä turvassa.</item>
+        <item>Ei se mitään, jos tänään on raskasta.</item>
+        <item>Mikään päivä ei ole toisensa kaltainen. Ei tämäkään.</item>
+        <item>Olet matkalla, vaikka hitaasti.</item>
+        <item>Anna vaatimusten levätä hetki.</item>
+        <item>Kaikki on kohdallaan. Vain pieni hengähdys.</item>
+        <item>Sinun ei tarvitse aina voida hyvin.</item>
+        <item>Lempeys itseä kohtaan toimii paremmin kuin ankaruus.</item>
+        <item>Tämä hetki menee ohi rauhallisesti.</item>
+        <item>Teit jo tänään sen vaikean osan.</item>
+        <item>Ei mitään kiireellistä. Ei mitään vakavaa. Vain tauko.</item>
+        <item>Hymyile. Tämä on pienempi juttu kuin miltä näyttää.</item>
+        <item>Yrität, ja se on pääasia.</item>
+        <item>Sinun ei tarvitse tehdä tiliä kenellekään. Jatka vain.</item>
+        <item>Kaikki on hyvin. Oikeasti.</item>
+        <item>Ansaitset kevyen päivän.</item>
+        <item>Hengitä. Maailma pyörii yhä.</item>
+        <item>Tänään ei ole kiire.</item>
+        <item>Olet sinut tämän valinnan kanssa.</item>
+        <item>Saat aloittaa alusta niin monta kertaa kuin tarvitset.</item>
+        <item>Tämä on paikka ilman vaatimuksia.</item>
+        <item>Ole kärsivällinen prosessin kanssa.</item>
+        <item>Et ole myöhässä mistään.</item>
+        <item>Saat olla vähemmän kuin sata prosenttia.</item>
+        <item>Tämä tauko on huolenpitoa, ei ojennus.</item>
+        <item>Voit nyt vain jatkaa matkaa.</item>
+        <item>Ei jännitystä. Vain hetki.</item>
+        <item>Ei haittaa, jos se tapahtui automaattisesti.</item>
+        <item>Et tarvitse syytä voidaksesi hyvin.</item>
+        <item>Hengitä ja jatka. Niin yksinkertaista se on.</item>
+        <item>Täällä ei ole mitään ongelmaa.</item>
+        <item>Teet tämän oikein.</item>
+        <item>Ihan oikeasti, kaikki hyvin. Mene rauhassa.</item>
+        <item>Tämä hetki on sinun lepäämistä varten.</item>
+        <item>Et ole tässä yksin.</item>
+        <item>Kaikki on rauhallista. Jatka päivääsi.</item>
+        <item>Ei painetta. Pelkkä muistutus.</item>
+        <item>Riität jo sellaisenaan.</item>
+        <item>Etsimäsi rauha ei ole syötteessä.</item>
+        <item>Sinussa ei ole mitään vikaa.</item>
+        <item>Lepuuta mieltäsi hetken.</item>
+        <item>Ansaitset tämän huolenpidon.</item>
+        <item>Mitään ei tarvitse ratkaista nyt.</item>
+        <item>Hengitä kerran. Jatka sitten.</item>
+        <item>Olet kunnossa. Siinä kaikki.</item>
+        <item>Ei vaatimuksia, ei laskuja, ei pistetaulua.</item>
+        <item>Hetki rauhaa keskellä päivää.</item>
+        <item>Voit nyt kohdella itseäsi lempeästi.</item>
+        <item>Kaikki on rauhassa.</item>
+        <item>Mihinkään ei ole kiire.</item>
+        <item>Teit tänään sen, minkä pystyit.</item>
+        <item>Ei hätää. Huomenna jatketaan.</item>
+        <item>Tämä hetki on vain yksi hengenveto.</item>
+        <item>Olet turvassa, ja se riittää.</item>
+        <item>Täällä ei tuomita.</item>
+        <item>Hengitä vain ja mene elämään.</item>
+        <item>Ansaitset tänään rauhaa.</item>
+        <item>Mikä tahansa tahti on hyvä.</item>
+        <item>Anna pääsi levätä vähän.</item>
+        <item>Olet täällä aina tervetullut.</item>
+        <item>Ei mitään säikähdettävää. Vain pikainen pysähdys.</item>
+        <item>Elämä ei ole tänään kilpajuoksu.</item>
+        <item>Olet kokonainen, ja se riittää.</item>
+        <item>Hyvä, että yritit.</item>
+        <item>Mikään täällä ei ole sinua vastaan.</item>
+        <item>Hengitä ja jatka rauhallisesti.</item>
+        <item>Olet hyvä juuri sellaisena kuin olet.</item>
+        <item>Tämä on rauhan hetki.</item>
+        <item>Ei minkäänlaisia vaatimuksia. Jatka kevein mielin.</item>
+        <item>Sinulla on lupa levätä.</item>
+        <item>Täällä on kaikki rauhallista.</item>
+        <item>Ota rauhallisesti. Päivä odottaa.</item>
+        <item>Olet lempeä itsellesi, ja se on vahvuutta.</item>
+        <item>Mitä tekisit nyt, jos tätä sovellusta ei olisi?</item>
+        <item>Oletko täällä, koska haluat, vai tottumuksesta?</item>
+        <item>Mitä sinä oikeastaan etsit?</item>
+        <item>Onko tällä merkitystä huomenna aamulla?</item>
+        <item>Muistatko huomenna sen, mitä nyt näkisit?</item>
+        <item>Mitä teit ennen kuin tartuit puhelimeen?</item>
+        <item>Kuinka paljon aikaa haluat antaa tälle tänään?</item>
+        <item>Onko sinulla tylsää, vai oletko väsynyt?</item>
+        <item>Millainen iltapäiväsi voisi olla sen sijaan?</item>
+        <item>Kannattaako tämä?</item>
+        <item>Avasitko tämän jostain tietystä syystä?</item>
+        <item>Mitä lykkäisit taas, jos menisit nyt sisään?</item>
+        <item>Kuka haluat olla vuoden päästä?</item>
+        <item>Mikä tekisi sinulle nyt oikeasti hyvää?</item>
+        <item>Pakenetko jotain?</item>
+        <item>Mitä jos tekisit sen, mitä olet lykännyt?</item>
+        <item>Mitä tapahtuisi, jos vain sulkisit tämän?</item>
+        <item>Sinulla on parempaakin tekemistä. Mitä se on?</item>
+        <item>Onko tämä lepoa vai pakoa?</item>
+        <item>Mitä huominen sinä pyytäisi sinua tekemään?</item>
+        <item>Onko sinulla nälkä, uni vai tylsää?</item>
+        <item>Milloin syöte viimeksi sai olosi paremmaksi?</item>
+        <item>Mitä haluat tuntea päivän päätteeksi?</item>
+        <item>Mitä sinulta nyt puuttuu?</item>
+        <item>Tarvitsetko tätä vai vain haluat?</item>
+        <item>Mikä pieni asia parantaisi päivääsi juuri nyt?</item>
+        <item>Mitä tekisit kahdella vapaalla tunnilla?</item>
+        <item>Tiedätkö jo, mitä sinun pitäisi olla tekemässä?</item>
+        <item>Mikä on näiden viidentoista minuutin todellinen hinta?</item>
+        <item>Haluatko tätä, vai liikkuuko käsi vain omia aikojaan?</item>
+        <item>Mikä kannattaisi nyt enemmän?</item>
+        <item>Onko kaikki hyvin?</item>
+        <item>Mikä olisi nyt rauhassa mietittynä paras valinta?</item>
+        <item>Oletko ylpeä tästä puolesta tunnista myöhemmin?</item>
+        <item>Mitä tekisit, jos kukaan ei näkisi?</item>
+        <item>Onko joku, jolle voisit soittaa nyt?</item>
+        <item>Mitä mielesi yrittää välttää?</item>
+        <item>Kannattaako iltapäiväsi vaihtaa tähän?</item>
+        <item>Sinulla on suunnitelma tälle päivälle. Kuuluuko tämä siihen?</item>
+        <item>Mikä olisi kivointa, mitä voisit nyt tehdä?</item>
+        <item>Voitko hyvin, ihan rehellisesti?</item>
+        <item>Mikä tekisi tästä viikosta vaivan arvoisen?</item>
+        <item>Onko tämä sitä, mitä haluat, vai sitä, mitä tavallisesti teet?</item>
+        <item>Oletko jo miettinyt, mitä haluat tehdä huomenna?</item>
+        <item>Monestiko olet jo tänään tarttunut puhelimeen?</item>
+        <item>Mikä tekisi sinut tyytyväiseksi tunnin päästä?</item>
+        <item>Haluatko oikeasti sisään, vai toimiiko sormi autopilotilla?</item>
+        <item>Mikä tärkeä asia sinulta jää myöhemmäksi?</item>
+        <item>Mitä kymmenen vuoden takainen sinä ajattelisi tästä?</item>
+        <item>Lepäätkö nyt oikeasti?</item>
+        <item>Onko jotain, mitä tekisit, jos uskaltaisit?</item>
+        <item>Mitä haluaisit tänä iltana saaneesi tehdyksi?</item>
+        <item>Onko tämä arvokkaampaa kuin keskustelu?</item>
+        <item>Mihin sinulla on tänään aikaa?</item>
+        <item>Minkä tavan haluaisit sinulla olevan puolen vuoden päästä?</item>
+        <item>Mikä oikeasti kaipaa huomiotasi?</item>
+        <item>Haluatko muistaa tämän iltapäivän vai unohtaa sen?</item>
+        <item>Mihin tämän hetken voisi käyttää hyvin?</item>
+        <item>Oletko täällä nähdäksesi jotain vai välttääksesi tuntemasta jotain?</item>
+        <item>Mikä auttaisi sinua nukkumaan hyvin tänä yönä?</item>
+        <item>Antaako tämä päivällesi jotain vai viekö se?</item>
+        <item>Haluatko oikeasti tietää, mitä siellä on?</item>
+        <item>Mikä oli viimeisin hyvä asia, jonka teit ilman ruutua?</item>
+        <item>Mitä tekisit iltapäivänä ilman internetiä?</item>
+        <item>Mihin sinulla on kiire?</item>
+        <item>Minkä pienen askeleen voisit ottaa nyt?</item>
+        <item>Mikä tarvitsee huomiotasi enemmän kuin tämä?</item>
+        <item>Oletko jo hengittänyt tänään syvään?</item>
+        <item>Mikä on suunnitelmasi seuraavaksi tunniksi?</item>
+        <item>Viekö tämä sinua lähemmäs jotain, mitä haluat?</item>
+        <item>Tekisitkö tätä ihailemasi ihmisen nähden?</item>
+        <item>Mitä hyvää tänään tapahtui?</item>
+        <item>Kuinka paljon päivästäsi on jo mennyt ruutujen ääressä?</item>
+        <item>Onko sinulla idea, joka odottaa toteuttajaansa?</item>
+        <item>Mitä haluat tehdä tällä viikolla?</item>
+        <item>Kannattaako hiljaisuus vaihtaa meluun?</item>
+        <item>Luotko vai kulutatko tänään?</item>
+        <item>Mikä yksinkertainen asia tekisi sinulle nyt hyvää?</item>
+        <item>Mitä sanoisit ystävälle tässä tilanteessa?</item>
+        <item>Sinulla on viisi minuuttia. Mihin käytät ne?</item>
+        <item>Mikä sinua oikeasti vaivaa?</item>
+        <item>Onko tämä parasta, mitä voit nyt tehdä?</item>
+        <item>Onko tämä hetki sinun hallinnassasi?</item>
+        <item>Mistä päätöksestä olisit ylpeä?</item>
+        <item>Mitä haluat saaneesi tehtyä, kun päivä päättyy?</item>
+        <item>Muistatko, miksi asensit tämän?</item>
+        <item>Mitä jos siirtäisit tätä ja katsoisit, haluatko vielä myöhemmin?</item>
+        <item>Mitä tekisit, jos olisit tänään rohkeampi?</item>
+        <item>Haluatko päivästäsi nopean vai hyvän version?</item>
+        <item>Mitä vain sinä voit tehdä tänään?</item>
+        <item>Mikä sinua odottaa ulkona?</item>
+        <item>Oletko jo tänään kiittänyt jostain?</item>
+        <item>Paljonko seuraava puoli tuntia on sinulle arvoinen?</item>
+        <item>Mitä haluat tästä viikosta jäävän käteen?</item>
+        <item>Onko tämä kiireellistä vai tuntuuko se vain siltä?</item>
+        <item>Teetkö sitä, mitä haluat tehdä?</item>
+        <item>Millainen olisi hyvä lopetus tälle päivälle?</item>
+        <item>Mitä tekisit, jos olisit levännyt?</item>
+        <item>Haluatko nyt selata vai elää?</item>
+        <item>Mitä jos vain sulkisit tämän ja katsoisit, mitä tapahtuu?</item>
+    </string-array>
+</resources>

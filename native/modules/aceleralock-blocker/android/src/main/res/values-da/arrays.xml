@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Dansk: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>Den tid, du ikke bruger her, går ubeskåret tilbage til dit liv.</item>
+        <item>Hvert minut væk fra skærmen er dit minut igen.</item>
+        <item>De her tyve minutter er lige nok til en gåtur.</item>
+        <item>Dagen har mere plads, end man tror, når scrollingen stopper.</item>
+        <item>Du har lige fået et stykke af din eftermiddag tilbage.</item>
+        <item>En time om dagen er femten dage om året.</item>
+        <item>Tiden kommer ikke igen, men du kan stadig vælge, hvor den går hen.</item>
+        <item>Den her pause er din. Ingen behøver at vide, hvad du brugte den til.</item>
+        <item>Der foregår et helt liv uden for appen.</item>
+        <item>Uret går lige hurtigt på begge sider af skærmen.</item>
+        <item>Du har lige købt dig tid. Brug den på noget, du husker i morgen.</item>
+        <item>Ingen ønsker ved dagens slutning, at de havde scrollet mere.</item>
+        <item>Et kvarter her er et kvarter alle andre steder.</item>
+        <item>Hvad ville du have brugt den her halve time til for ti år siden?</item>
+        <item>Din tid er det eneste, du ikke kan købe tilbage.</item>
+        <item>Hele eftermiddagen ligger stadig åben foran dig.</item>
+        <item>Det her minut kan blive starten på noget andet.</item>
+        <item>Du giver dig selv timer tilbage, én ad gangen.</item>
+        <item>Tid, du sparer her, forsvinder ikke. Den dukker op et andet sted.</item>
+        <item>Ti minutter lyder af lidt, til du lægger en hel måned sammen.</item>
+        <item>Livet foregår i normalt tempo, ikke i feedets.</item>
+        <item>Du har mere tid i dag, end du havde i går på det her tidspunkt.</item>
+        <item>Det, du har udskudt, passer præcis ind i den her pause.</item>
+        <item>Pausen er kort. Det, du gør med den, er det måske ikke.</item>
+        <item>Der er plads til meget i en dag, når scrollingen ikke står i vejen.</item>
+        <item>Du har lige vundet resten af aftenen tilbage.</item>
+        <item>Tid er valutaen. Du har lige besluttet ikke at bruge den.</item>
+        <item>Feedet slutter aldrig. Det gør din dag.</item>
+        <item>En halv time om dagen giver en hel bog om måneden.</item>
+        <item>Der ventede ikke noget presserende på dig derinde.</item>
+        <item>Den her tid var allerede din. Nu er den tilbage hos dig.</item>
+        <item>Morgenen kan stadig nå at blive god, hvis den starter nu.</item>
+        <item>Du har ikke mistet noget. Du har fået en pause.</item>
+        <item>Ingen giver os tid tilbage. Det er os selv, der holder fast i den.</item>
+        <item>De her minutter er mere værd uden for appen, og det ved du godt.</item>
+        <item>Det, der var derinde, er der stadig. Din tid bliver ikke hængende.</item>
+        <item>Et liv er lavet af eftermiddage som den her.</item>
+        <item>Du kan slutte dagen med noget gjort i stedet for noget set.</item>
+        <item>To timer om dagen er en hel måned om året.</item>
+        <item>Den tid, du beskytter i dag, er den, der er tilbage i morgen.</item>
+        <item>Det her er den del af dagen, kun du bestemmer over.</item>
+        <item>Ingen har skrevet noget derinde, der er din eftermiddag værd.</item>
+        <item>Tredive minutter om dagen kan bygge hvad som helst på et år.</item>
+        <item>Du har lige købt dig et stykke stilhed.</item>
+        <item>Dagen bliver større, når feedet bliver mindre.</item>
+        <item>Den her tid er råmateriale. Lav noget med den.</item>
+        <item>Et af dine projekter venter netop på den her pause.</item>
+        <item>Det, du vinder her, ses ikke på nogen skærm, kun i dit liv.</item>
+        <item>Fri tid er en sjældenhed. Du har lige skabt lidt af den.</item>
+        <item>Ingen har ved livets afslutning bedt om ét scroll mere.</item>
+        <item>Du har hele eftermiddagen, og den er ikke brugt endnu.</item>
+        <item>Et år er tre hundrede og femogtres valg som det her.</item>
+        <item>Pausen er lille, men den er helt og holdent din.</item>
+        <item>Tiden går lige meget. Forskellen er, hvad der er tilbage bagefter.</item>
+        <item>Du har lige taget en halv time ud af autopiloten.</item>
+        <item>Resten af dagen siger tak for det her stop.</item>
+        <item>Fem minutter derinde bliver til fyrre, uden at nogen opdager det.</item>
+        <item>Du kender prisen på de fem minutter. Derfor er du her.</item>
+        <item>Den time, du beskytter nu, er den, du leder efter i aften.</item>
+        <item>Intet derinde bliver bedre af, at du ser det nu i stedet for senere.</item>
+        <item>Du har lige valgt, hvor det næste minut skal hen.</item>
+        <item>Den her tid rækker til en snak, en gåtur, en lur.</item>
+        <item>Dagen bliver til noget, når timerne holder op med at løbe ud i sandet.</item>
+        <item>Du er den eneste, der ejer den næste halve time.</item>
+        <item>Der findes en udgave af i dag, hvor du fik noget gjort. Den starter nu.</item>
+        <item>Tid kan ikke spares op. Den kan kun bruges bedre eller dårligere.</item>
+        <item>De her minutter kan blive til ægte hvile.</item>
+        <item>Du er lige steget af et løbebånd, der ikke fører nogen steder hen.</item>
+        <item>En uge har hundrede og otteogtres timer. Den her er din.</item>
+        <item>Feedet tager tiden i små bidder, så ingen savner den.</item>
+        <item>Nu kan du gøre det, der hver dag bliver skubbet til i morgen.</item>
+        <item>Din eftermiddag behøver ikke at passe ind i en skærm.</item>
+        <item>Den tid, der bliver tilovers, får dagen til at føles lang på den gode måde.</item>
+        <item>Du har lige givet dig selv den næste time tilbage.</item>
+        <item>Intet af det, du ville se nu, ville du huske om en uge.</item>
+        <item>Det er den slags minutter, der bygger et år op eller opløser det.</item>
+        <item>Du har vundet tid. Du behøver ikke bruge den hurtigt.</item>
+        <item>En dag uden scroll er en dag med plads til mere.</item>
+        <item>Uret skelner ikke mellem god tid og spildt tid. Det gør du.</item>
+        <item>Den her time er lige så meget værd som alle andre i dit liv.</item>
+        <item>Du har tid lige nu. Det er sjældnere, end man skulle tro.</item>
+        <item>At passe på tiden er den eneste måde at have tid på.</item>
+        <item>Hele aftenen ligger stadig foran dig.</item>
+        <item>De her minutter er starten på en eftermiddag, du vil huske.</item>
+        <item>Du har lige undgået det der timelange hul.</item>
+        <item>Alt, der kræver tid, kræver præcis den slags beslutning.</item>
+        <item>Tiden fra nu og til aftensmaden rækker stadig til meget.</item>
+        <item>Du har taget foden fra speederen. Dagen sænker farten med dig.</item>
+        <item>Der er plads i din uge. Den var bare optaget af noget andet.</item>
+        <item>Hver gang du lukker her, bliver dagen lidt større.</item>
+        <item>Tid er den gave, du giver dig selv uden at bruge en krone.</item>
+        <item>Lige nu har du præcis det, du hele dagen siger, du ikke har.</item>
+        <item>En lang eftermiddag består af korte beslutninger som den her.</item>
+        <item>Ingen kommer til at spørge, hvad du brugte den halve time til.</item>
+        <item>Den tid, du ikke giver væk i dag, har du stadig i morgen.</item>
+        <item>Tyve minutter om dagen bliver til hundrede og tyve timer om året.</item>
+        <item>Du har lige fået tiden før sengetid tilbage.</item>
+        <item>Der er masser af liv mellem to notifikationer.</item>
+        <item>Der er plads til en hel dag, hvis du ikke giver den væk i bidder.</item>
+        <item>Du er nået hertil ved at passe på din tid. Her er endnu et øjeblik.</item>
+        <item>Din opmærksomhed er verdens mest eftertragtede vare. Du har lige vundet.</item>
+        <item>Det tager tyve minutter at finde fokus igen. Giv det ikke væk nu.</item>
+        <item>Et samlet hoved er mere værd end et hoved i stumper.</item>
+        <item>Du var koncentreret om noget, før du kom herhen.</item>
+        <item>Delt opmærksomhed er ikke opmærksomhed. Det er bare træthed.</item>
+        <item>Det, du var i gang med, fortjener hele dig.</item>
+        <item>Dyb tænkning kræver tid uden afbrydelser. Det er den her.</item>
+        <item>Hvert skærmskift koster mere, end uret viser.</item>
+        <item>Dit hoved var godt i gang. Lad det fortsætte.</item>
+        <item>Fordybelse overlever ikke en tur gennem feedet.</item>
+        <item>Feedet er designet til at tage din opmærksomhed. Det har du opdaget.</item>
+        <item>En lang tanke har brug for ro for at blive tænkt til ende.</item>
+        <item>Du kan holde en hel idé i hovedet. Det kræver bare plads.</item>
+        <item>Distraktion er ikke hvile. Hvile hviler.</item>
+        <item>Den koncentration, du havde, er der stadig. Vend tilbage til den.</item>
+        <item>Din opmærksomhed er ikke til salg i dag.</item>
+        <item>Det bedste i dit hoved dukker op efter det tyvende minut.</item>
+        <item>Det koster mere at blive afbrudt nu, end det ser ud til.</item>
+        <item>Du kan klare ting, der kræver fokus. Start med at beskytte det.</item>
+        <item>Intet derinde har akut brug for din opmærksomhed.</item>
+        <item>En koncentreret time giver mere end fire hakkede timer.</item>
+        <item>Dit hoved fungerer bedst, når det ikke skifter emne hele tiden.</item>
+        <item>Det, der blev halvt færdigt, kan stadig blive helt færdigt i dag.</item>
+        <item>Fokus er ikke viljestyrke. Det er omgivelser. Du har lige ryddet op i dine.</item>
+        <item>Det svære problem giver efter, når du bliver ved det.</item>
+        <item>Din opmærksomhed er begrænset. Derfor er den så meget værd.</item>
+        <item>Du behøver ikke vide alt lige nu.</item>
+        <item>Larmen er der stadig bagefter. Det er din ro, der er sjælden.</item>
+        <item>Store ting er blevet skabt af folk, der ikke blev afbrudt.</item>
+        <item>Vend tilbage til det, du lavede. Dit hoved er der stadig.</item>
+        <item>Én opgave ad gangen går hurtigere, end man tror.</item>
+        <item>Trangen til at kigge går over. En afbrudt idé kommer nogle gange ikke igen.</item>
+        <item>Du kan koncentrere dig mere, end du har gjort på det seneste.</item>
+        <item>At tænke godt tager tid. Lad det tage tid.</item>
+        <item>Din opmærksomhed har bygget noget i dag. Riv det ikke ned af nysgerrighed.</item>
+        <item>Det, der kræver tankekraft, kræver al din tankekraft.</item>
+        <item>Intet feed lærer dig det, en times fokus kan.</item>
+        <item>Hver notifikation, du siger nej til, giver lidt mere klarhed.</item>
+        <item>Du var tæt på at forstå det. Gå tilbage til det.</item>
+        <item>Et udhvilet sind er et sind, der ikke er blevet hevet i hele dagen.</item>
+        <item>Din opmærksomhed er det, du bygger alt andet af.</item>
+        <item>Det svære er at begynde. Det har du gjort. Start ikke forfra.</item>
+        <item>Lad emnet ligge i fred, så løser det sig af sig selv i dit hoved.</item>
+        <item>Klarhed opstår, når støjen stopper.</item>
+        <item>Dit bedste arbejde i dag er endnu ikke sket.</item>
+        <item>Det er ikke mangel på tid. Det er mangel på uforstyrret tid.</item>
+        <item>Du tænker bedre, end feedet lader dig tænke.</item>
+        <item>Den tekst, den kode, den samtale. De venter på hele dig.</item>
+        <item>Koncentration er en muskel. Den vokser med dage som i dag.</item>
+        <item>Dit hoved har lige sagt tak.</item>
+        <item>Én ting ad gangen er stadig den mest avancerede teknik, der findes.</item>
+        <item>Det, du gør med opmærksomhed, bliver. Resten forsvinder.</item>
+        <item>Der er ingen genvej til at tænke. Kun tid uden afbrydelser.</item>
+        <item>Du fortjener at tænke en tanke færdig.</item>
+        <item>Dit hoved var skarpt. Hold fast i tråden.</item>
+        <item>Skærmen blinker. Det gør idéerne ikke. Bliv hos idéerne.</item>
+        <item>En dag med fokus er tre travle dage værd.</item>
+        <item>Du er ikke langsom. Du er bare blevet afbrudt.</item>
+        <item>Det, der betyder noget i dag, står ikke i feedet.</item>
+        <item>Det er billigere at holde kursen end at finde tilbage til den.</item>
+        <item>Din fulde opmærksomhed er en gave. Giv den til dem, der fortjener den.</item>
+        <item>Det er i stilheden, de gode idéer dukker op.</item>
+        <item>Du var midt i noget godt.</item>
+        <item>Ingen tænker klart med hovedet ti steder på én gang.</item>
+        <item>Dybden viser sig først efter et stykke tid i overfladen.</item>
+        <item>Fokus handler ikke om at gøre mere. Det handler om at gøre det godt.</item>
+        <item>Du har én vigtig ting i dag. Det er ikke feedet.</item>
+        <item>Lad dit hoved gøre den sætning færdig, det er begyndt på.</item>
+        <item>En time uden afbrydelser ændrer, hvad der er muligt på en dag.</item>
+        <item>Det, der virker svært nu, bliver let med vedvarende opmærksomhed.</item>
+        <item>Din koncentration er din fordel. Få har stadig deres i behold.</item>
+        <item>Byt ikke én vigtig ting for mange hurtige.</item>
+        <item>Nysgerrigheden kan vente. Det kan fokus ikke.</item>
+        <item>Du er ved at bygge noget. Bliv ved.</item>
+        <item>At skifte opgave føles produktivt, men er det næsten aldrig.</item>
+        <item>Den bedste måde at bruge dit hoved på i dag er stadig ledig.</item>
+        <item>Den opmærksomhed, du gemmer nu, kan ses i resultatet senere.</item>
+        <item>Dit sind er ikke et feed. Det gemmer det, du giver opmærksomhed.</item>
+        <item>Det er sjældent, at noget fortjener hele dig. Nyd det.</item>
+        <item>Svært er ikke umuligt. Det tager bare tid.</item>
+        <item>Du er få minutter fra at knække den.</item>
+        <item>Støjen forsvinder, når du holder op med at fodre den.</item>
+        <item>Bliv ved det, du lavede, til det er færdigt.</item>
+        <item>Ét dybt dyk er ti lave dyk værd.</item>
+        <item>Din opmærksomhed bestemmer, hvad der bliver til minder.</item>
+        <item>Du husker det, du var opmærksom på. Kun det.</item>
+        <item>At tænke er det mest givende, du gør i dag.</item>
+        <item>Et roligt hoved løser det, et stresset hoved ikke kan se.</item>
+        <item>Godt arbejde kræver tålmodighed, ikke fart.</item>
+        <item>Intet af det, du ville se nu, ville du fortælle om i morgen.</item>
+        <item>Din klarhed i dag begyndte med beslutninger som den her.</item>
+        <item>Afbrydelser er den dyreste skat, der findes.</item>
+        <item>Du kan blive ved én ting længere, end du tror.</item>
+        <item>Den detalje, der blev ved med at smutte, dukker op i stilheden.</item>
+        <item>Fokus kommer igen. Det kræver bare et par minutter uden skærm.</item>
+        <item>Du kan holde opmærksomheden længe. Det er feedet, der satser på det modsatte.</item>
+        <item>At gøre én ting færdig i dag er mere værd end at starte fem.</item>
+        <item>Din fulde opmærksomhed er sjælden, selv for dig selv.</item>
+        <item>Lad tanken trække vejret.</item>
+        <item>Det, du bygger med fokus, kan ingen scrolle forbi.</item>
+        <item>Lysten til at åbne går over på få minutter. Den går altid over.</item>
+        <item>Den her impuls har en udløbsdato. Den udløber af sig selv.</item>
+        <item>Du behøver ikke gøre noget. Bare vent, til bølgen lægger sig.</item>
+        <item>Den trang, du mærker nu, er ikke din. Den er lært.</item>
+        <item>Træk vejret én gang. Lysten er allerede mindre end for et minut siden.</item>
+        <item>Impulsen er stærk i starten og forsvinder på halvvejen.</item>
+        <item>Det er ikke dig, der vil. Det er vanen, der beder.</item>
+        <item>Det er ubehageligt et lille stykke tid. Så går det over.</item>
+        <item>Du har mærket det før og klaret dig hver eneste gang.</item>
+        <item>Lysten kommer i bølger. Bølger brydes.</item>
+        <item>Ingen behøver at adlyde dagens første impuls.</item>
+        <item>Den her uro i brystet varer kortere end en sang.</item>
+        <item>Du er større end en impuls på tredive sekunder.</item>
+        <item>Lad lysten gå forbi uden at gøre noget ved den.</item>
+        <item>Ubehaget nu er vanen, der slipper. Det er fremskridt.</item>
+        <item>Du kæmper ikke imod. Du venter bare.</item>
+        <item>Lysten kommer med et brag og går stille sin vej.</item>
+        <item>Tæl til tyve. Så er den allerede mindre.</item>
+        <item>At have lyst er ikke det samme som at have brug for.</item>
+        <item>Impulsen vil have svar med det samme. Giv den ikke noget.</item>
+        <item>Det her er det sværeste øjeblik, og det er kort.</item>
+        <item>Du behøver ikke kæmpe. Bare lad være med at beslutte noget nu.</item>
+        <item>Lysten forsvinder, når ingen fodrer den.</item>
+        <item>Det her er uro, ikke sult efter indhold.</item>
+        <item>Læg mærke til lysten uden at gå ind i den.</item>
+        <item>Hjernen bestiller det sædvanlige. Du er ikke forpligtet til at servere det.</item>
+        <item>Om fem minutter kan du ikke engang huske, at du ville åbne den.</item>
+        <item>Bølgen rejser sig nu. Den falder altid igen.</item>
+        <item>Du er allerede på den anden side af det værste.</item>
+        <item>Impulsen lyver om sin egen styrke.</item>
+        <item>Rejs dig, drik et glas vand, kom tilbage. Så er den væk.</item>
+        <item>Lyst er ikke en ordre.</item>
+        <item>Du kan mærke det og lade være med at gøre noget. Det er helt i orden.</item>
+        <item>Kroppen vil have bevægelse, ikke skærm.</item>
+        <item>Den her trang er automatisk. Det behøver dit svar ikke at være.</item>
+        <item>Der sker ikke noget slemt, hvis du venter lidt endnu.</item>
+        <item>Lysten forsvinder af sig selv, hvis du giver den plads.</item>
+        <item>Du er bare urolig. Det går over og kræver ingen skærm.</item>
+        <item>Impulsen er et forslag. Det er dig, der bestemmer.</item>
+        <item>Ét minut mere, og lysten er allerede noget andet.</item>
+        <item>Det svære varer kort. Det gode varer hele dagen.</item>
+        <item>Det her er det berømte lille skub. Det skubber ikke så hårdt.</item>
+        <item>Vent uden at dømme. Lysten opløser sig selv.</item>
+        <item>Din hjerne beder om den sædvanlige genvej.</item>
+        <item>Du skal ikke vinde over noget. Bare lade det gå forbi.</item>
+        <item>Hver bølge, du lader gå forbi, gør den næste mindre.</item>
+        <item>Uroen vil have en hurtig løsning. Den finder den ikke her.</item>
+        <item>Stå stille et øjeblik. Det gør impulsen ikke.</item>
+        <item>Du går ikke glip af noget ved at vente.</item>
+        <item>Kedsomhed er ikke en nødsituation.</item>
+        <item>Det er helt normalt at føle sig tom nu. Tomheden fylder sig selv ud.</item>
+        <item>Trangen til at tjekke noget handler sjældent om det, du vil tjekke.</item>
+        <item>Du har det ubehageligt, men du er ikke i fare.</item>
+        <item>Om et øjeblik slipper det sit greb.</item>
+        <item>Vanen er stærk, men den varer kort.</item>
+        <item>Lad den her gå forbi. Kun den her.</item>
+        <item>Næste gang bliver lettere takket være den her.</item>
+        <item>Du behøver ikke overbevise dig selv om noget. Bare vente.</item>
+        <item>Et glas vand hjælper mere end en tur i feedet.</item>
+        <item>Hastværket er falsk, og det ved du godt.</item>
+        <item>Impulsen kan ikke holde til at blive ubesvaret.</item>
+        <item>Vent tredive sekunder. Beslut dig så igen.</item>
+        <item>Du er på toppen af bølgen. Herfra bliver det kun lettere.</item>
+        <item>Intet kræver, at du reagerer nu.</item>
+        <item>Lysten er en gæst. Den tager hjem igen.</item>
+        <item>Du er ikke impulsen. Du er den, der ser på den.</item>
+        <item>Kroppen slapper af, hvis du giver den et minut.</item>
+        <item>Det er bare hjernen, der leder efter stimuli. Den finder nogle andre.</item>
+        <item>Tre dybe vejrtrækninger tager toppen af det.</item>
+        <item>Lysten skrumper, når du ser den lige i øjnene.</item>
+        <item>Du kan klare det her minut. Du har klaret værre.</item>
+        <item>Ubehaget går over, også selvom du ikke gør noget.</item>
+        <item>Hånden var hurtigere end hovedet. Det sker.</item>
+        <item>Ingen beslutning skal tages i de første ti sekunder.</item>
+        <item>Om et øjeblik har du helt glemt det her.</item>
+        <item>Udløseren blev trykket. Svaret er stadig dit.</item>
+        <item>Lad lysten være der uden at adlyde den.</item>
+        <item>Det her er ikke et sug. Det er bare en vane.</item>
+        <item>Vent. Det er bogstaveligt talt alt, du skal gøre.</item>
+        <item>Hovedet falder til ro af sig selv, hvis du ikke lægger mere brænde på.</item>
+        <item>Du venter allerede. Det er sejren.</item>
+        <item>Impulsen mister kraften, når den møder en lukket dør.</item>
+        <item>Hvert sekund her er et sekunds forspring.</item>
+        <item>Bølgen er brudt. Mærk, hvor meget lettere det allerede er.</item>
+        <item>Du behøver ingen grund til ikke at åbne.</item>
+        <item>Lysten går hurtigere over end fortrydelsen.</item>
+        <item>En strækøvelse klarer det, feedet aldrig ville.</item>
+        <item>Lysten er på vej væk, mens du læser det her.</item>
+        <item>Beslut ikke noget nu. Træk bare vejret.</item>
+        <item>Impulsen kommer af sig selv og går af sig selv.</item>
+        <item>Det her er det sværeste. Og det går hurtigt.</item>
+        <item>Du har holdt ud indtil nu. Der er kun sekunder tilbage.</item>
+        <item>Kroppen beder om skærm, når den vil have hvile. Giv den hvile.</item>
+        <item>Lysten bliver mindre, hver gang den ikke bliver opfyldt.</item>
+        <item>Vent lidt endnu. Det er det hele.</item>
+        <item>Øjeblikket går. Valget bliver.</item>
+        <item>Du er lige kommet igennem det smalle stykke.</item>
+        <item>Det er menneskeligt at have lyst. Det er det også at lade være med at følge den.</item>
+        <item>Roen kommer tilbage om lidt, hvis du ikke presser på.</item>
+        <item>Det er blevet lettere, ikke?</item>
+        <item>Du besluttede det her, da du var rolig. Stol på den, der besluttede det.</item>
+        <item>I går passede du på den, du er i dag.</item>
+        <item>Den her skærm er en besked fra dig til dig selv.</item>
+        <item>Du bliver ikke stoppet. Du bliver mindet om noget.</item>
+        <item>Den, du gerne vil være, bruger ikke eftermiddagen på at scrolle.</item>
+        <item>Det her valg var dit. Det er det stadig.</item>
+        <item>Du er typen, der opdagede det og handlede.</item>
+        <item>Ingen tvang dig til at installere det her. Du ville det selv.</item>
+        <item>Den, du er i morgen, kommer til at kunne lide den, du er nu.</item>
+        <item>Du er allerede en, der passer på sin egen tid.</item>
+        <item>Det her er ikke en straf. Det er en aftale.</item>
+        <item>Du har selv skrevet den her regel. Den virker.</item>
+        <item>At eje sin egen opmærksomhed er et valg, man træffer hver dag.</item>
+        <item>Du behøver ikke bevise noget over for nogen her.</item>
+        <item>Den, du gerne vil være, begynder med små beslutninger.</item>
+        <item>Du er på den rigtige side af skærmen.</item>
+        <item>Hver gang du lukker her, bliver du lidt mere den, du vil være.</item>
+        <item>Du er ikke det, du har lyst til. Du er det, du gør.</item>
+        <item>En aftale med dig selv er lige så meget værd som alle andre.</item>
+        <item>Du så et mønster og ændrede det. Det er sjældent.</item>
+        <item>Du er større end apperne i din lomme.</item>
+        <item>Det er din regel, og den er på din side.</item>
+        <item>Du har ret til at ændre dine vaner.</item>
+        <item>Det, du gør igen og igen, er den, du er.</item>
+        <item>Du har valgt et liv med mere plads.</item>
+        <item>Det er ikke appen, der bestemmer over dig.</item>
+        <item>Din identitet kan ikke være i et feed.</item>
+        <item>Du er den, der installerede det her af en grund.</item>
+        <item>Husk grunden. Den gælder stadig.</item>
+        <item>Du står ved en beslutning, du selv har truffet.</item>
+        <item>Ingen bestemmer over din opmærksomhed for dig.</item>
+        <item>Du opdagede, hvad der foregik. Det ændrer allerede alt.</item>
+        <item>At være herre over sin egen dag kræver løbende arbejde.</item>
+        <item>Du er ikke passager. Du sidder ved rattet.</item>
+        <item>Det er et valg, man træffer, når man tager sig selv alvorligt.</item>
+        <item>Du har ansvaret for dig selv. Og du tager det.</item>
+        <item>Din tid har en ejer. Det er den, der læser det her.</item>
+        <item>Du har lavet en aftale med dig selv. Hold den.</item>
+        <item>Hver af de her beslutninger bringer dig tættere på den, du vil være.</item>
+        <item>Du mister ikke frihed. Du bruger den.</item>
+        <item>Det er dig, der bestemmer, hvad der skal ske nu.</item>
+        <item>Du behøver ingen tilladelse til at leve anderledes.</item>
+        <item>Den her grænse er omsorg, ikke et bur.</item>
+        <item>Du har valgt en vej, der er sværere og mere din egen.</item>
+        <item>Den, du beundrer, ville også sige nej lige nu.</item>
+        <item>Du bor i dit liv, ikke i appen.</item>
+        <item>Det er din tid, dit hoved, dit valg.</item>
+        <item>Du holder, hvad du har lovet dig selv. Det tæller.</item>
+        <item>Ingen andre passer på din opmærksomhed for dig.</item>
+        <item>Du har allerede vist, at du kan skifte kurs.</item>
+        <item>Det er det, selvstændighed er: at beslutte på forhånd, ikke i farten.</item>
+        <item>Du er ved at bygge en, du har respekt for.</item>
+        <item>Det her er den udgave af dig, der planlægger.</item>
+        <item>Du er ikke havnet her tilfældigt. Du har selv sat det op.</item>
+        <item>Dit ord til dig selv gælder.</item>
+        <item>Du har din egen mening om, hvordan din dag skal bruges.</item>
+        <item>Appen kender dig ikke. Det gør du.</item>
+        <item>Du handler som herre over dit eget liv.</item>
+        <item>At stå ved sin egen beslutning er frihed.</item>
+        <item>Det er dig, der skriver reglerne her.</item>
+        <item>Det her er dig, der passer på dig.</item>
+        <item>Du er ikke spærret inde. Du er beskyttet.</item>
+        <item>Dit ønske om forandring er ældre end den her impuls.</item>
+        <item>Du er allerede den, du prøver at blive.</item>
+        <item>Den svære beslutning er allerede taget. Den her er bare den lette.</item>
+        <item>Du har styr på det, og det er sjældent i dag.</item>
+        <item>Ingen behøver at vide det. Det er mellem dig og dig.</item>
+        <item>Du fortjener at kunne stole på dit eget ord.</item>
+        <item>Dit navn står på det her valg.</item>
+        <item>Du er blevet en, der beslutter sig på forhånd.</item>
+        <item>Det her er ikke at give afkald. Det er at vælge noget andet.</item>
+        <item>Du har en retning. Den her skærm peger mod den.</item>
+        <item>Ægte frihed er ikke at blive trukket i hele tiden.</item>
+        <item>Det er dig, der sætter prisen på din opmærksomhed.</item>
+        <item>Hvert nej her er et ja til noget andet, der er dit.</item>
+        <item>Du holder fast i en plan, du har lagt med omhu.</item>
+        <item>Det kræver arbejde at være herre over sig selv, og det er det værd.</item>
+        <item>Du erkendte, at du ville ændre noget. Det er allerede det svære.</item>
+        <item>Personen i spejlet i aften kommer til at kunne lide det her.</item>
+        <item>Du skylder ikke algoritmen noget.</item>
+        <item>Dit liv er ikke nogens indhold.</item>
+        <item>Du er præcis dér, hvor du besluttede at være.</item>
+        <item>Den grænse, du sætter for dig selv, er den mest respektfulde, der findes.</item>
+        <item>Du har en plan for dit liv, der er større end den her skærm.</item>
+        <item>Det her er modenhed i realtid.</item>
+        <item>Du passer på din fremtid uden at lægge mærke til det.</item>
+        <item>Hvert valg som det her finjusterer, hvem du er.</item>
+        <item>Du behøver ikke forklare, hvorfor du ikke åbner.</item>
+        <item>Dit løfte er til dig selv, ikke til appen.</item>
+        <item>Du traf den rigtige beslutning, da du ikke havde lyst.</item>
+        <item>Det her er dit liv, styret af dig.</item>
+        <item>Du er blevet svær at manipulere.</item>
+        <item>Din opmærksomhed har en ejer, og ejeren er vågen.</item>
+        <item>Du har lige handlet som en, der passer på sig selv.</item>
+        <item>Planen er din. Den virker lige nu.</item>
+        <item>Du er summen af dine små valg.</item>
+        <item>Ingen tager det sidste ord fra dig.</item>
+        <item>Det er dig, der har magten over din tid.</item>
+        <item>Det virker, fordi du ville have det til at virke.</item>
+        <item>Du er større end den vane, der gerne vil være større end dig.</item>
+        <item>Én til. Sådan vokser regnskabet.</item>
+        <item>Småt og ofte slår stort og sjældent.</item>
+        <item>Du har lige fået endnu et point.</item>
+        <item>Ingen forandrer sig på én gang. Det sker på dage som i dag.</item>
+        <item>Det her er en tusindedel af et andet liv.</item>
+        <item>Én god dag ændrer intet. Hundrede gode dage ændrer alt.</item>
+        <item>Du er ved at bygge en stime op.</item>
+        <item>Fremskridt føles næsten aldrig som fremskridt indefra.</item>
+        <item>Summen af de her valg er større end hvert enkelt af dem.</item>
+        <item>Vedholdenhed er kedelig, og den virker.</item>
+        <item>Endnu en sten i muren.</item>
+        <item>Du træner noget, der bliver siddende.</item>
+        <item>Gentaget nok gange bliver det her automatisk.</item>
+        <item>Ingen ser den her sejr, men den tæller lige meget.</item>
+        <item>Om få uger har du slet ikke lyst længere.</item>
+        <item>I dag tæller. I morgen tæller også.</item>
+        <item>En kæde består af led som det her.</item>
+        <item>Den nye vane bliver skrevet lige nu.</item>
+        <item>Hver gentagelse løsner den gamle vane en smule.</item>
+        <item>Du har gjort det før. Gør det igen.</item>
+        <item>Langsomt er det tempo, holdbare ting bygges i.</item>
+        <item>Forandringen sker i det skjulte.</item>
+        <item>Du samler på noget usynligt og virkeligt.</item>
+        <item>Endnu en dag i den rigtige retning.</item>
+        <item>Resultatet viser sig senere. Valget er i dag.</item>
+        <item>Ét valg ad gangen. Sådan gør man.</item>
+        <item>Du er tættere på, end du var i går.</item>
+        <item>Det behøver ikke være perfekt. Det skal bare ske tit.</item>
+        <item>Kurven stiger langsomt og så pludselig hurtigt.</item>
+        <item>Du er midt i processen. Sådan ser den ud.</item>
+        <item>Hvert lille nej bygger et stort ja.</item>
+        <item>Intet af det her er dramatisk. Det er derfor, det virker.</item>
+        <item>Vejen består af skridt som det her.</item>
+        <item>Du er ved at skabe en ny slags rutine.</item>
+        <item>Om en måned vil det her føles let.</item>
+        <item>Gentagelse er det, der gør en beslutning til en del af, hvem du er.</item>
+        <item>Du har lige styrket den nye vej.</item>
+        <item>Hundrede procent er lettere end otteoghalvfems.</item>
+        <item>Bryd ikke stimen i dag.</item>
+        <item>Du laver den kedelige del, og det er den, der tæller.</item>
+        <item>Man mærker ikke forandringen. Man ser den bagefter.</item>
+        <item>Endnu en mursten på plads.</item>
+        <item>Du lærer din hjerne at forvente noget andet.</item>
+        <item>At fortsætte er hele teknikken.</item>
+        <item>Ingen af de her sejre er små, når man lægger dem sammen.</item>
+        <item>Du behøver ikke løbe. Du skal bare ikke stoppe.</item>
+        <item>Det er allerede ved at blive lettere, og du har ikke engang lagt mærke til det.</item>
+        <item>En uge med det her ændrer allerede din dag.</item>
+        <item>Du er ved at træde en ny sti i hovedet.</item>
+        <item>Hver gang tæller, også når det ikke føles sådan.</item>
+        <item>Ingen klapper, men det virker.</item>
+        <item>Det hober sig op, stille og ustoppeligt.</item>
+        <item>Du er allerede stærkere til det her end i sidste måned.</item>
+        <item>Et godt valg i dag gør morgendagens lettere.</item>
+        <item>Sådan føles vedholdenhed indefra.</item>
+        <item>Endnu en dags forspring lagt oven i.</item>
+        <item>Du er på vej, og vejen er lang. Det er helt okay.</item>
+        <item>Det, der gentages, bliver let.</item>
+        <item>Du har lige styrket den, du er ved at blive.</item>
+        <item>Tallene er på din side i dag.</item>
+        <item>Små gevinster lægger sig sammen uden at spørge om lov.</item>
+        <item>Det handler ikke om i dag. Det handler om summen.</item>
+        <item>Du laver det usynlige arbejde.</item>
+        <item>Bliv ved. Det er bogstaveligt talt hemmeligheden.</item>
+        <item>Hver dag som den her letter lidt af vægten.</item>
+        <item>Den gamle vane mister terræn lige nu.</item>
+        <item>Du vander noget, der endnu ikke er spiret.</item>
+        <item>Forandringen sker, også selvom det ikke ser sådan ud.</item>
+        <item>Én gang til. Det har altid bare været det.</item>
+        <item>Du bygger en reserve af gode dage op.</item>
+        <item>Det her bliver normalt med tiden.</item>
+        <item>Du har lige valgt igen. Og igen tæller.</item>
+        <item>En måned som den her, og du er et andet menneske.</item>
+        <item>Dagens anstrengelse forsvinder. Resultatet bliver.</item>
+        <item>Du er ikke længere den, der startede det her.</item>
+        <item>At gøre det altid er mere værd end at gøre det meget.</item>
+        <item>Hver dag er en stemme på den, du vil være.</item>
+        <item>Du lader den nye vane vinde terræn.</item>
+        <item>Det behøver ikke være heroisk. Det skal bare ske.</item>
+        <item>Du har lige gjort den rigtige vej stærkere.</item>
+        <item>Gentagelse er sådan, hjernen lærer alt.</item>
+        <item>I dag plus i går er allerede ret meget.</item>
+        <item>Du klarer dig godt, også når du ikke kan mærke det.</item>
+        <item>Fremskridtet bor i de kedelige gentagelser.</item>
+        <item>Endnu et kort skridt på den lange vej.</item>
+        <item>Du er ved at gøre det her naturligt.</item>
+        <item>En god ting, gjort mange gange, er det, der bliver tilbage.</item>
+        <item>Styrken kommer af at gøre det igen, ikke af at gøre det hårdt.</item>
+        <item>Du har lige gjort morgendagens vej kortere.</item>
+        <item>Én mere. Kun det. Og det er nok.</item>
+        <item>Du efterlader et spor af gode beslutninger.</item>
+        <item>Vedholdenhed forvandler anstrengelse til identitet.</item>
+        <item>Hver dag tæller som en hel dag.</item>
+        <item>Du spiller det lange spil, og du vinder.</item>
+        <item>Det her bliver en del af dig, uden at du opdager det.</item>
+        <item>Dagens bedste investering er lige blevet gjort.</item>
+        <item>Du har lige holdt linjen.</item>
+        <item>Kontinuitet er sjældnere end talent.</item>
+        <item>Ægte forandring er altid langsom og altid det værd.</item>
+        <item>Endnu et valg i retning af dit liv.</item>
+        <item>Dine øjne siger tak for den her pause.</item>
+        <item>Rejs dig og stræk ud. Det var det, kroppen bad om, ikke skærm.</item>
+        <item>Træk vejret dybt. Bare det ændrer allerede noget.</item>
+        <item>Drik et glas vand. Det er nok det, der manglede.</item>
+        <item>Din nakke har været skæv et stykke tid. Ret den ud.</item>
+        <item>Nattens søvn begynder ved skærmene lige nu.</item>
+        <item>At sove godt er det mest produktive, der findes.</item>
+        <item>Din krop har siddet stille alt for længe.</item>
+        <item>Kig ud i det fjerne i tyve sekunder. Øjnene slapper af.</item>
+        <item>En kort gåtur løfter humøret mere end noget feed.</item>
+        <item>Den træthed, du mærker, kan bare være skærmen.</item>
+        <item>Kroppen vil bevæge sig, når hovedet vil scrolle.</item>
+        <item>Frisk luft klarer ting, skærmen ikke kan.</item>
+        <item>Skuldrene ned. Kæben løs.</item>
+        <item>Du spænder i skuldrene uden at mærke det.</item>
+        <item>Ti minutter med sol på huden er meget værd.</item>
+        <item>Kroppen hviler, når den ligger ned, ikke når den scroller.</item>
+        <item>At gå tidligt i seng i aften er en gave til i morgen.</item>
+        <item>Din kropsholdning har ændret sig de sidste tyve minutter. Ret dig op.</item>
+        <item>Skærmtræthed er ikke ægte træthed. Det er noget andet.</item>
+        <item>Løft armene. Stræk dig. Sådan, nu er det allerede bedre.</item>
+        <item>Du blinker mindre, når du scroller. Blink nu.</item>
+        <item>Kroppen fungerer bedre med rigtige pauser.</item>
+        <item>En tur rundt om blokken renser hovedet.</item>
+        <item>Din ryg vil sætte pris på den her afbrydelse.</item>
+        <item>Hvile er noget andet end distraktion.</item>
+        <item>Den dårlige søvn i nat begyndte på en skærm som den her.</item>
+        <item>Stræk nakken til begge sider. Det tager ti sekunder.</item>
+        <item>Bevægelse dæmper uro bedre end indhold.</item>
+        <item>Din krop er det eneste hjem, du har.</item>
+        <item>Vand, lys og bevægelse. Det er næsten altid det.</item>
+        <item>Skærmen trætter, også når den føles som hvile.</item>
+        <item>Luk øjnene et øjeblik. Bare det.</item>
+        <item>Du trækker vejret overfladisk. Tag tre dybe indåndinger.</item>
+        <item>Et bad klarer flere ting, end man skulle tro.</item>
+        <item>Din krop har været samme sted alt for længe.</item>
+        <item>Ægte hvile har ingen skærm.</item>
+        <item>Tyve minutters gåtur ændrer hele dagen.</item>
+        <item>Dit hoved er tungt, fordi kroppen står stille.</item>
+        <item>Tørre øjne, stive skuldre. Det har du nok mærket.</item>
+        <item>At rejse sig i to minutter genstarter mere end et scroll.</item>
+        <item>Kroppen vil sove, og hovedet vil have stimuli. Lyt til kroppen.</item>
+        <item>Lyset fra skærmen forstyrrer din søvn i timevis.</item>
+        <item>Stræk benene. Det går hurtigt og virker.</item>
+        <item>Du fortjener en hvile, der rent faktisk hviler.</item>
+        <item>Bevægelse er den billigste stemningsløfter, der findes.</item>
+        <item>Din krop vil huske den her nats søvn.</item>
+        <item>Langsom vejrtrækning beroliger hurtigere end nogen video.</item>
+        <item>Du er enten sulten eller keder dig. Find ud af hvilket.</item>
+        <item>Kroppen kommer sig, når hovedet holder pause.</item>
+        <item>Tyve sekunder, hvor du kigger ud ad vinduet.</item>
+        <item>Dit håndled og din tommelfinger trænger til fri.</item>
+        <item>Skærmtræthed forsvinder, når du går.</item>
+        <item>Søvnen er dér, hukommelsen bliver sorteret. Pas på den.</item>
+        <item>Du har brug for færre stimuli, ikke flere.</item>
+        <item>To minutters udstrækning er mere værd end ti minutters video.</item>
+        <item>Din krop giver dig et signal lige nu.</item>
+        <item>Luft, vand og bevægelse. Opskriften er ikke ændret.</item>
+        <item>Læg dig på gulvet i et minut. Seriøst.</item>
+        <item>Skærmen holder dig vågen, når du har brug for at sove.</item>
+        <item>Kroppen beder om en pause, og hånden beder om skærmen. Giv den pausen.</item>
+        <item>Dine øjne har arbejdet siden i morges.</item>
+        <item>En god nats søvn ændrer verden.</item>
+        <item>Rejs dig. Bare rejs dig. Det er nok.</item>
+        <item>Du kommer til at sove bedre på grund af det her valg.</item>
+        <item>Kroppen siger tak for det, hovedet synes er kedeligt.</item>
+        <item>Stræk ryggen. Den beder om det.</item>
+        <item>Ægte hvile er stilhed, ikke endnu en stimulus.</item>
+        <item>Din krop har sin egen rytme, og skærmen ignorerer den.</item>
+        <item>Kig mod horisonten. Øjnene har brug for afstand.</item>
+        <item>Spændingen i kæben forsvinder ikke ved at scrolle.</item>
+        <item>Hvor længe har du egentlig siddet ned?</item>
+        <item>Bevægelse giver klarhed. Det har den altid gjort.</item>
+        <item>Drik vand, før du beslutter noget som helst.</item>
+        <item>Tabt søvn kan ikke hentes ind med indhold.</item>
+        <item>Din krop fungerer fint, når du lader den.</item>
+        <item>En kort lur giver mere end en time i feedet.</item>
+        <item>Dybe vejrtrækninger er gratis og virker med det samme.</item>
+        <item>Skærmen spænder kroppen op uden varsel.</item>
+        <item>Du er mere træt, end du behøvede at være.</item>
+        <item>Rejs dig og kig ud ad vinduet. Fem sekunder.</item>
+        <item>Din krop er ikke skabt til at sidde stille og stirre ind i lys.</item>
+        <item>Stræk fingrene. De har arbejdet hårdt i dag.</item>
+        <item>Natten bliver bedre uden skærm før sengetid.</item>
+        <item>Hvile er ikke det, skærmen tilbyder.</item>
+        <item>Din krop beder om natur og får pixels.</item>
+        <item>Et glas vand og tre vejrtrækninger. Gør det nu.</item>
+        <item>Spændingen i skulderen kommer af den måde, du holder telefonen på.</item>
+        <item>Kroppen slapper af, når opmærksomheden holder op med at løbe.</item>
+        <item>Om fem minutter har du det bedre.</item>
+        <item>Bevægelse ændrer kemien. Skærmen ændrer kun emnet.</item>
+        <item>Dine øjne fortjener ægte hvile.</item>
+        <item>En gåtur sorterer tankerne bedre end feedet.</item>
+        <item>Blåt lys nu er dårlig søvn senere.</item>
+        <item>Du har brug for hvile, ikke mere information.</item>
+        <item>To dybe vejrtrækninger, før du gør noget som helst.</item>
+        <item>Din krop er klogere end impulsen.</item>
+        <item>Rejs dig og gå ud i køkkenet. Det er nok.</item>
+        <item>Lad kroppen hvile, så hviler hovedet med.</item>
+        <item>Der er mennesker af kød og blod tæt på dig lige nu.</item>
+        <item>En samtale er mere værd end tre hundrede opslag.</item>
+        <item>Ring til nogen. Med stemmen.</item>
+        <item>En, du holder af, er kun én besked væk.</item>
+        <item>Folkene i feedet ved ikke, at du findes.</item>
+        <item>Den, der er i samme rum som dig, fortjener mere.</item>
+        <item>Et kram klarer det, ingen video kan.</item>
+        <item>Skriv til den, du har glemt på det seneste.</item>
+        <item>Din mor ville blive glad for et opkald i dag.</item>
+        <item>Det virkelige liv har mennesker, der svarer for alvor.</item>
+        <item>Den ven, der gled væk, kan stadig komme tilbage. Ræk ud.</item>
+        <item>Nærvær er det sjældneste, du kan give.</item>
+        <item>Nogen venter på, at du kigger op.</item>
+        <item>Et godt spørgsmål er mere værd end en times scroll.</item>
+        <item>Menneskene omkring dig har ingen algoritme.</item>
+        <item>Du går glip af en samtale, der foregår lige nu.</item>
+        <item>Ingen fra feedet er der, når du har brug for det.</item>
+        <item>En kop kaffe med nogen ændrer ugen mere end noget feed.</item>
+        <item>Dit selskab er en gave. Giv det.</item>
+        <item>Kig på den, der er sammen med dig.</item>
+        <item>Venskaber skal vandes. Vand et i dag.</item>
+        <item>Personen ved siden af dig er virkelig.</item>
+        <item>Dem, der elsker dig, har ikke brug for likes.</item>
+        <item>Kan du huske din sidste lange samtale?</item>
+        <item>Inviter nogen med på en gåtur.</item>
+        <item>De bedste minder har sjældent en skærm.</item>
+        <item>Du er nogens selskab lige nu.</item>
+        <item>Send en talebesked til en, du holder af.</item>
+        <item>Mennesker forandrer sig, når du giver dem opmærksomhed.</item>
+        <item>Dit nærvær betyder noget for nogen i dag.</item>
+        <item>En god samtale gør dig gladere. Det gør feedet ikke.</item>
+        <item>Nogen har brug for at vide, at du tænkte på dem.</item>
+        <item>Mød nogen i stedet for at følge nogen.</item>
+        <item>Stærke bånd bygges af tid sammen.</item>
+        <item>Du kan være grunden til, at nogen får en god dag.</item>
+        <item>Det familiemedlem, du ikke har talt med i månedsvis.</item>
+        <item>En ærlig besked er mere værd end tusind visninger.</item>
+        <item>At være sammen er noget andet end at være forbundet.</item>
+        <item>Dem, du lever sammen med, fortjener hele dig.</item>
+        <item>Inviter nogen til middag.</item>
+        <item>Rigtige mennesker har ansigt, stemme og begrænset tid.</item>
+        <item>Du er uerstattelig for nogen. Vis dig.</item>
+        <item>Dagens vigtigste samtale har endnu ikke fundet sted.</item>
+        <item>Tæt på dig er der også nogen uden skærm.</item>
+        <item>At lytte til nogen er den letteste måde at blive holdt af på.</item>
+        <item>Den ven går igennem noget. Spørg.</item>
+        <item>Dit barn, din hund, din nabo. Nogen er der.</item>
+        <item>Sociale medier forbinder dig med mange og ingen af dem.</item>
+        <item>En eftermiddag med nogen er en måned i feedet værd.</item>
+        <item>Du kan få nogen til at grine i dag. For alvor.</item>
+        <item>Fuldt nærvær er meget sjældent. Du har noget af det at give.</item>
+        <item>Nogen talte om dig i den her uge. Gør gengæld.</item>
+        <item>Ingen i feedet savner dig.</item>
+        <item>Et opkald på fem minutter ændrer nogens dag.</item>
+        <item>Dem, der betyder noget, poster ikke om det.</item>
+        <item>Du er ét spørgsmål fra en god samtale.</item>
+        <item>Ægte selskab har ingen reklamer i midten.</item>
+        <item>Den person, der altid bakker dig op. Sig tak i dag.</item>
+        <item>At se hinanden i øjnene er stadig den bedste teknologi.</item>
+        <item>Din familie er ikke et feed. Scroll ikke forbi den.</item>
+        <item>Inviter nogen til at lave ingenting sammen.</item>
+        <item>Dem, der er langt væk, fortjener også at høre fra dig.</item>
+        <item>Du har folk, der holder af dig, uden for appen.</item>
+        <item>En svær samtale, der bliver udskudt, vejer mere end feedet.</item>
+        <item>Nyd dem, der er tæt på, mens de er her.</item>
+        <item>Folk husker dem, der var til stede.</item>
+        <item>Inviter en ven på kaffe uden nogen særlig grund.</item>
+        <item>Et eller andet sted er der nogen, der gerne vil høre fra dig.</item>
+        <item>Du kan lytte ordentligt til nogen lige nu.</item>
+        <item>Bånd bygges ved at se hinanden, ikke ved at scrolle.</item>
+        <item>Din opmærksomhed er den bedste gave til dem, du elsker.</item>
+        <item>Et menneske er mere værd end en profil.</item>
+        <item>Den samtale, du skylder nogen. Det er i dag.</item>
+        <item>At være tilgængelig er en form for kærlighed.</item>
+        <item>Du har tid til nogen lige nu.</item>
+        <item>Ingen har sagt farvel til livet og ønsket sig flere følgere.</item>
+        <item>Mød nogen igen i stedet for at følge dem på afstand.</item>
+        <item>Omsorg skal nogle gange siges højt.</item>
+        <item>Din gamle flok findes stadig. Ring til dem.</item>
+        <item>En ved siden af dig vil gerne snakke.</item>
+        <item>Sammenligning er ikke forbindelse.</item>
+        <item>Du kan være nærværende i dag.</item>
+        <item>En håndskrevet seddel. Sikke en idé.</item>
+        <item>Dem, der virkelig kender dig, er ikke i feedet.</item>
+        <item>Del eftermiddagen med nogen.</item>
+        <item>Dem tæt på dig fortjener det, du giver feedet.</item>
+        <item>Du er vigtig for en, der ikke poster.</item>
+        <item>Ring og spørg, hvordan personen virkelig har det.</item>
+        <item>Ensomhed går ikke over med mere skærm.</item>
+        <item>Kom tættere på nogen i dag.</item>
+        <item>Et måltid sammen er hele eftermiddagen værd.</item>
+        <item>Din opmærksomhed nærer relationer. Nær en i dag.</item>
+        <item>Der er nogen, der tænker på dig lige nu.</item>
+        <item>Sig til nogen, at du holder af dem.</item>
+        <item>Venskaber dør af tavshed, ikke af skænderier.</item>
+        <item>Du har gode mennesker omkring dig. Nyd dem.</item>
+        <item>Nogen har brug for selskab, og du har noget at give.</item>
+        <item>Læg feedet fra dig og mød mennesker.</item>
+        <item>Dem, der elsker dig, vil have din tid, ikke din profil.</item>
+        <item>Du kan gøre nogens dag bedre på fem minutter.</item>
+        <item>At skabe trætter og fylder op. At forbruge hviler og tømmer.</item>
+        <item>Du har mere at sige end at se.</item>
+        <item>Nogen er ved at skabe det, du ville have set.</item>
+        <item>Skriv én linje. Bare én.</item>
+        <item>Verden har for mange forbrugere og for få skabere.</item>
+        <item>Din idé venter stadig.</item>
+        <item>Du kan lave noget i stedet for at kigge på noget, der er lavet.</item>
+        <item>Alt godt er skabt af nogen, der ikke sad og scrollede.</item>
+        <item>Din idé er mere værd end hele dagens feed.</item>
+        <item>Begynd på det, du udskyder. Fem minutter er nok.</item>
+        <item>Det projekt, der står stille, mangler bare et skub.</item>
+        <item>Du har talent for noget andet end at scrolle.</item>
+        <item>Lav noget i dag, der ikke fandtes i går.</item>
+        <item>Det er sjovere at skabe end at se på. Det koster bare at komme i gang.</item>
+        <item>Den tomme notesbog bider ikke.</item>
+        <item>Det bedste indhold er det, du selv laver.</item>
+        <item>Du lærer mere af at gøre end af at se på.</item>
+        <item>Spil et instrument, tegn, lav mad. Lav noget med hænderne.</item>
+        <item>Din kreativitet forsvinder, når du fylder hovedet med feed.</item>
+        <item>Der findes et værk af dig, som ingen har lavet endnu.</item>
+        <item>Start dårligt. Så bliver det bedre.</item>
+        <item>Et afsnit om dagen bliver til en bog.</item>
+        <item>Du har en historie at fortælle.</item>
+        <item>At lave ting er modgiften mod tomhed.</item>
+        <item>Kedsomhed er starten på kreativitet. Lad den være der.</item>
+        <item>Dit hoved finder på ting, når du holder op med at fylde det.</item>
+        <item>Det kursus, du har betalt for, venter.</item>
+        <item>Det er muligt at lære noget nyt i dag.</item>
+        <item>At forbruge er let. Derfor giver det så lidt.</item>
+        <item>Du vil gerne lave noget. Begynd nu.</item>
+        <item>Fem minutters øvelse er mere værd end en times video.</item>
+        <item>Den opskrift, du gerne vil prøve.</item>
+        <item>Idéer kommer i stilheden, ikke i scrollet.</item>
+        <item>Du kan være forfatteren i stedet for publikum.</item>
+        <item>Et lille projekt ændrer ugen.</item>
+        <item>Skriv ned, hvad du ville gøre, hvis du havde tid. Det har du.</item>
+        <item>Dine hænder kan lave ting. Brug dem.</item>
+        <item>Lav noget uperfekt i dag.</item>
+        <item>Det er dejligere at lære end at blive underholdt.</item>
+        <item>Det, du skaber, bliver. Det, du scroller, forsvinder.</item>
+        <item>Det instrument, der står i hjørnet.</item>
+        <item>Du har et ufærdigt projekt, der venter på dig.</item>
+        <item>At skabe er det modsatte af at sammenligne sig.</item>
+        <item>Start småt. Start i dag.</item>
+        <item>En side om dagen er et andet liv.</item>
+        <item>Din fantasi har brug for tom plads.</item>
+        <item>Lav noget, du er stolt af i morgen.</item>
+        <item>Glæden ved at skabe kan ikke erstattes.</item>
+        <item>Du kan mere end at forbruge.</item>
+        <item>Den hobby, du droppede, findes stadig.</item>
+        <item>Tyve minutters øvelse er tyve minutters fremskridt.</item>
+        <item>Ingen bliver god til noget ved at scrolle.</item>
+        <item>Din næste færdighed begynder på et tidspunkt. Lad det være nu.</item>
+        <item>Gør det, også selvom ingen ser det.</item>
+        <item>Der er noget, du gerne vil lære. Begynd.</item>
+        <item>At forbruge er at se på andres liv.</item>
+        <item>Du har hænder, hoved og tid. Det er alt, du behøver.</item>
+        <item>Det første udkast er altid dårligt. Lav det alligevel.</item>
+        <item>Det sprog, du gerne ville tale.</item>
+        <item>At skabe er sådan, kedsomhed bliver til glæde.</item>
+        <item>Lidt hver dag bygger enhver færdighed op.</item>
+        <item>Du har noget indeni, der gerne vil ud.</item>
+        <item>Skriv om din dag. Bare for dig selv.</item>
+        <item>Din kreativitet venter på, at du skruer ned for larmen.</item>
+        <item>Lav noget med hænderne i dag.</item>
+        <item>Glæden ved at gøre noget færdigt er som intet andet.</item>
+        <item>Det projekt, der gjorde dig begejstret. Det kan det stadig.</item>
+        <item>Du behøver ikke være god for at begynde.</item>
+        <item>Lav en ny ret. Det er også at skabe.</item>
+        <item>Livet bliver mere interessant, når du laver ting.</item>
+        <item>Ingen er født med at kunne det. Alle starter dårligt.</item>
+        <item>Den idé, du fik midt om natten. Skriv den ned.</item>
+        <item>Du kan være til nytte for nogen med det, du kan.</item>
+        <item>Gør lidt i dag og lidt i morgen.</item>
+        <item>Det bedste tidspunkt at starte på er forbi. Det næstbedste er nu.</item>
+        <item>Dit værk laver ikke sig selv.</item>
+        <item>At øve sig er kedeligt, indtil man bliver god.</item>
+        <item>Du vil skabe. Feedet vil have, at du bare kigger.</item>
+        <item>Den tegning, du begyndte på.</item>
+        <item>At gøre er den hurtigste måde at lære på.</item>
+        <item>Du har en stemme. Brug den til noget.</item>
+        <item>At reparere noget derhjemme er også at skabe.</item>
+        <item>Din næste sejr begynder på en helt almindelig dag som i dag.</item>
+        <item>Lav noget, kun du ville lave.</item>
+        <item>Feedet er uendeligt. Dit værk har en ende, og derfor betyder det noget.</item>
+        <item>Du kan plante noget i dag. Helt bogstaveligt.</item>
+        <item>Det regneark, den plan, den drøm.</item>
+        <item>Det kræver arbejde at skabe, og det er det, der gør det værd.</item>
+        <item>Du er mere interessant end noget feed.</item>
+        <item>Brug tyve minutter på at lære noget. Det er lidt, og det er meget.</item>
+        <item>Nysgerrighed bliver bedre, når den bliver til praksis.</item>
+        <item>Den sang, du gerne ville lære.</item>
+        <item>Gør én nyttig og enkel ting nu.</item>
+        <item>Du har noget godt at give verden.</item>
+        <item>Begynd på det, du vil være glad for, at du begyndte på.</item>
+        <item>Et personligt projekt ændrer dit forhold til tiden.</item>
+        <item>At skabe er den bedste måde at holde hovedet beskæftiget på.</item>
+        <item>Du kan gøre noget færdigt i dag.</item>
+        <item>Læg hænderne på noget virkeligt.</item>
+        <item>Intet erstatter følelsen af at have gjort det.</item>
+        <item>Det er helt okay, at du kom herhen. Træk nu vejret.</item>
+        <item>Ingen tæller noget. Bare fortsæt.</item>
+        <item>Du klarer dig godt, også selvom det ikke føles sådan.</item>
+        <item>Ingen hast og ingen krav. Bare en pause.</item>
+        <item>Det her er ikke en test. Bare en venlig påmindelse.</item>
+        <item>Du prøver, og det er nok.</item>
+        <item>Det er i orden. Luk og fortsæt din dag.</item>
+        <item>Intet her handler om altid at gøre det rigtigt.</item>
+        <item>Du fortjener lethed i dag.</item>
+        <item>Intet drama. Bare et øjeblik til at trække vejret.</item>
+        <item>Det her er et roligt sted. Bliv her et øjeblik.</item>
+        <item>Du gør det bedste, du kan. Det tæller.</item>
+        <item>Ingen krav her. Kun omsorg.</item>
+        <item>Træk vejret. Der sker ikke noget forkert.</item>
+        <item>Du er nået hertil, og det er allerede godt.</item>
+        <item>Ingen dømmer dig. Det skal du heller ikke selv.</item>
+        <item>Alt er i orden. Bare fortsæt.</item>
+        <item>Ét skridt ad gangen er det rigtige tempo.</item>
+        <item>Du behøver ikke være perfekt til det her.</item>
+        <item>Langsomt er også at gå.</item>
+        <item>Den her skærm kræver ikke noget af dig.</item>
+        <item>Vær venlig mod dig selv nu.</item>
+        <item>Det er okay at have lyst. Det hører med.</item>
+        <item>Du passer på dig selv. Det er smukt.</item>
+        <item>Ingen alarm, ingen hast, ingen forskrækkelse.</item>
+        <item>Du er et menneske. Det er tilladt.</item>
+        <item>Du behøver ikke forklare dig over for nogen.</item>
+        <item>Træk vejret dybt. Det er allerede overstået.</item>
+        <item>Du er tryg her.</item>
+        <item>Det er okay, hvis i dag er svær.</item>
+        <item>Ingen dag er som en anden. Heller ikke den her.</item>
+        <item>Du er på vej, også selvom det går langsomt.</item>
+        <item>Giv kravene lidt fri.</item>
+        <item>Alt er godt. Bare et pust.</item>
+        <item>Du behøver ikke altid have det godt.</item>
+        <item>Venlighed mod dig selv virker bedre end strenghed.</item>
+        <item>Det her øjeblik går stille og roligt over.</item>
+        <item>Du har allerede klaret det svære i dag.</item>
+        <item>Intet presserende. Intet alvorligt. Bare en pause.</item>
+        <item>Smil. Det her er mindre, end det ser ud.</item>
+        <item>Du prøver, og det er det, der betyder noget.</item>
+        <item>Du skal ikke stå til regnskab for noget. Bare fortsæt.</item>
+        <item>Det er i orden. Helt ærligt.</item>
+        <item>Du fortjener en let dag.</item>
+        <item>Træk vejret. Verden drejer videre.</item>
+        <item>Ingen hast i dag.</item>
+        <item>Du har fred med det her valg.</item>
+        <item>Det er okay at starte forfra, så mange gange du har brug for.</item>
+        <item>Det her er et sted uden krav.</item>
+        <item>Vær tålmodig med processen.</item>
+        <item>Du er ikke bagud med noget.</item>
+        <item>Det er okay ikke at være på hundrede procent.</item>
+        <item>Den her pause er omsorg, ikke en irettesættelse.</item>
+        <item>Du kan bare fortsætte nu.</item>
+        <item>Ingen spænding. Bare et øjeblik.</item>
+        <item>Det er okay, hvis det skete af ren refleks.</item>
+        <item>Du behøver ingen grund til at have det godt.</item>
+        <item>Træk vejret og fortsæt. Så enkelt er det.</item>
+        <item>Intet problem her.</item>
+        <item>Du gør det rigtigt.</item>
+        <item>Det er i orden, virkelig. Gå i fred.</item>
+        <item>Det her øjeblik er dit at hvile i.</item>
+        <item>Du er ikke alene om det her.</item>
+        <item>Alt er roligt. Fortsæt din dag.</item>
+        <item>Ingen tyngde. Bare en påmindelse.</item>
+        <item>Du er allerede nok.</item>
+        <item>Den ro, du leder efter, er ikke i feedet.</item>
+        <item>Der er intet galt med dig.</item>
+        <item>Giv hovedet et sekunds hvile.</item>
+        <item>Du fortjener den her omsorg.</item>
+        <item>Intet skal løses lige nu.</item>
+        <item>Træk vejret én gang. Fortsæt så.</item>
+        <item>Du har det fint. Det er alt.</item>
+        <item>Ingen krav, intet regnskab, ingen pointtavle.</item>
+        <item>Et roligt øjeblik midt på dagen.</item>
+        <item>Du kan godt være venlig mod dig selv nu.</item>
+        <item>Alt er fredeligt.</item>
+        <item>Ingen hast med noget.</item>
+        <item>Du gjorde, hvad du kunne, i dag.</item>
+        <item>Det er okay. I morgen fortsætter det.</item>
+        <item>Det her øjeblik er bare en vejrtrækning.</item>
+        <item>Du er tryg, og det er nok.</item>
+        <item>Ingen dømmer nogen her.</item>
+        <item>Træk bare vejret og gå ud og lev.</item>
+        <item>Du fortjener ro i dag.</item>
+        <item>Alt er i orden, uanset tempo.</item>
+        <item>Hvil hovedet lidt.</item>
+        <item>Du er altid velkommen her.</item>
+        <item>Ingen forskrækkelse. Bare et kort stop.</item>
+        <item>Livet er ikke et kapløb i dag.</item>
+        <item>Du er hel, og det er nok.</item>
+        <item>Det er godt, at du prøvede.</item>
+        <item>Intet her er imod dig.</item>
+        <item>Træk vejret og fortsæt i roligt tempo.</item>
+        <item>Du er god nok, som du er.</item>
+        <item>Det her er et øjeblik af fred.</item>
+        <item>Ingen krav overhovedet. Fortsæt let.</item>
+        <item>Du har lov til at hvile.</item>
+        <item>Her er helt roligt.</item>
+        <item>Tag det roligt. Dagen venter.</item>
+        <item>Du er venlig mod dig selv, og det er styrke.</item>
+        <item>Hvad ville du gøre nu, hvis den her app ikke fandtes?</item>
+        <item>Er du her, fordi du vil, eller af vane?</item>
+        <item>Hvad var det egentlig, du ledte efter?</item>
+        <item>Betyder det her noget i morgen tidlig?</item>
+        <item>Vil du kunne huske det, du ville se nu?</item>
+        <item>Hvad lavede du, før du tog telefonen?</item>
+        <item>Hvor meget tid vil du give det her i dag?</item>
+        <item>Keder du dig, eller er du træt?</item>
+        <item>Hvad kunne din eftermiddag blive i stedet?</item>
+        <item>Er det det værd?</item>
+        <item>Åbnede du den af en bestemt grund?</item>
+        <item>Hvad ville du udskyde endnu en gang, hvis du gik ind nu?</item>
+        <item>Hvem vil du være om et år?</item>
+        <item>Hvad ville virkelig gøre dig godt lige nu?</item>
+        <item>Flygter du fra noget?</item>
+        <item>Hvad med at gøre det, du har udskudt?</item>
+        <item>Hvad ville der ske, hvis du bare lukkede?</item>
+        <item>Du har noget bedre at lave. Hvad er det?</item>
+        <item>Er det hvile, eller er det flugt?</item>
+        <item>Hvad ville morgendagens dig bede dig om at gøre?</item>
+        <item>Er du sulten, søvnig, eller keder du dig?</item>
+        <item>Hvornår gjorde feedet dig sidst gladere?</item>
+        <item>Hvad vil du gerne føle, når dagen er slut?</item>
+        <item>Hvad mangler du lige nu?</item>
+        <item>Har du brug for det, eller har du bare lyst?</item>
+        <item>Hvilken lille ting ville gøre din dag bedre nu?</item>
+        <item>Hvad ville du lave med to fri timer?</item>
+        <item>Du ved allerede, hvad du burde lave.</item>
+        <item>Hvad koster de femten minutter egentlig?</item>
+        <item>Vil du det her, eller er hånden bare på autopilot?</item>
+        <item>Hvad ville være mere værd lige nu?</item>
+        <item>Er alt godt hos dig?</item>
+        <item>Hvad ville være det bedste valg nu, i ro og mag?</item>
+        <item>Bliver du stolt af den her halve time?</item>
+        <item>Hvad ville du gøre, hvis ingen så det?</item>
+        <item>Er der nogen, du kunne ringe til nu?</item>
+        <item>Hvad prøver dit hoved at undgå?</item>
+        <item>Er det værd at bytte din eftermiddag for det her?</item>
+        <item>Du har en plan for i dag. Er det her en del af den?</item>
+        <item>Hvad ville være det sjoveste at lave lige nu?</item>
+        <item>Har du det godt, helt ærligt?</item>
+        <item>Hvad ville gøre den her uge det værd?</item>
+        <item>Er det her det, du vil, eller det, du plejer at gøre?</item>
+        <item>Har du tænkt over, hvad du vil lave i morgen?</item>
+        <item>Hvor mange gange har du taget telefonen i dag?</item>
+        <item>Hvad ville gøre dig tilfreds om en time?</item>
+        <item>Vil du ind, eller er fingeren bare på autopilot?</item>
+        <item>Hvad er den vigtige ting, du skubber til senere?</item>
+        <item>Hvad ville dig for ti år siden synes om det her?</item>
+        <item>Hviler du egentlig?</item>
+        <item>Er der noget, du ville gøre, hvis du turde?</item>
+        <item>Hvad ville du gerne have lavet i aften?</item>
+        <item>Er det mere værd end en samtale?</item>
+        <item>Hvad har du tid til i dag?</item>
+        <item>Hvilken vane vil du have om seks måneder?</item>
+        <item>Hvad er det, der virkelig kalder på din opmærksomhed?</item>
+        <item>Vil du hellere huske eller glemme den her eftermiddag?</item>
+        <item>Hvad ville være en god måde at bruge det her øjeblik på?</item>
+        <item>Er du her for at se noget eller for at slippe for at mærke noget?</item>
+        <item>Hvad ville få dig til at sove godt i nat?</item>
+        <item>Lægger det her noget til din dag, eller trækker det fra?</item>
+        <item>Vil du virkelig vide, hvad der er derinde?</item>
+        <item>Hvad var det sidste gode, du lavede uden skærm?</item>
+        <item>Hvad ville du lave en eftermiddag uden internet?</item>
+        <item>Hvad har du travlt med?</item>
+        <item>Hvilket lille skridt kunne du tage nu?</item>
+        <item>Hvad har mere brug for din opmærksomhed end det her?</item>
+        <item>Har du trukket vejret dybt i dag?</item>
+        <item>Hvad er din plan for den næste time?</item>
+        <item>Bringer det her dig tættere på noget, du gerne vil?</item>
+        <item>Ville du gøre det her foran en, du beundrer?</item>
+        <item>Hvad godt er der sket i dag?</item>
+        <item>Hvor meget af din dag er allerede gået til skærme?</item>
+        <item>Har du en idé, der ligger stille og venter?</item>
+        <item>Hvad vil du bruge den her uge til?</item>
+        <item>Er det værd at bytte stilhed for larm?</item>
+        <item>Skaber du eller forbruger du i dag?</item>
+        <item>Hvilken enkel ting ville gøre dig godt nu?</item>
+        <item>Hvad ville du sige til en ven i den her situation?</item>
+        <item>Du har fem minutter. Til hvad?</item>
+        <item>Hvad er det, der virkelig plager dig?</item>
+        <item>Er det her det bedste, du kan gøre lige nu?</item>
+        <item>Det er dig, der styrer det her øjeblik.</item>
+        <item>Hvilken beslutning ville du være stolt af?</item>
+        <item>Hvad vil du have gjort, når dagen er slut?</item>
+        <item>Kan du huske, hvorfor du installerede det her?</item>
+        <item>Hvad med at vente lidt og se, om du stadig har lyst?</item>
+        <item>Hvad ville du gøre, hvis du havde lidt mere mod i dag?</item>
+        <item>Vil du have den hurtige eller den gode udgave af din dag?</item>
+        <item>Hvad er det, kun du kan gøre i dag?</item>
+        <item>Hvad venter på dig derude?</item>
+        <item>Har du sagt tak for noget i dag?</item>
+        <item>Hvad er den næste halve time værd for dig?</item>
+        <item>Hvad vil du tage med dig fra den her uge?</item>
+        <item>Haster det, eller føles det bare sådan?</item>
+        <item>Gør du det, du har lyst til?</item>
+        <item>Hvad ville være en god afslutning på dagen?</item>
+        <item>Hvad ville du gøre, hvis du var udhvilet?</item>
+        <item>Vil du helst scrolle eller leve lige nu?</item>
+        <item>Hvad med bare at lukke og se, hvad der sker?</item>
+    </string-array>
+</resources>

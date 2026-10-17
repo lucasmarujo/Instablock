@@ -8,6 +8,7 @@ import { ModoRestritoCard } from '@/components/Bloqueios/ModoRestritoCard';
 import { PainelApps } from '@/components/Bloqueios/PainelApps';
 import { PainelSites } from '@/components/Bloqueios/PainelSites';
 import { SegmentedControl } from '@/components/SegmentedControl';
+import { useTextos } from '@/i18n/IdiomaContext';
 import AceleralockBlocker from '@/native/blocker';
 import { useProtectionVerdictContext } from '@/state/ProtectionVerdictContext';
 import { spacing, typography } from '@/theme/tokens';
@@ -42,6 +43,7 @@ function lerContagem(): Contagem {
  */
 export default function Bloqueios() {
   const theme = useTheme();
+  const t = useTextos();
   const router = useRouter();
   const params = useLocalSearchParams<{ aba?: string }>();
   const { restricted, permissions, refresh } = useProtectionVerdictContext();
@@ -80,13 +82,13 @@ export default function Bloqueios() {
   const cabecalho = (comModoRestrito: boolean) => (
     <View style={styles.cabecalho}>
       <Text accessibilityRole="header" style={[styles.titulo, { color: theme.colors.textPrimary }]}>
-        Bloqueios
+        {t.bloqueios.tela.titulo}
       </Text>
       <SegmentedControl
-        accessibilityLabel="Tipo de bloqueio"
+        accessibilityLabel={t.bloqueios.tela.tipoDeBloqueio}
         segmentos={[
-          { valor: 'apps', rotulo: 'Apps', contador: contagem?.apps },
-          { valor: 'sites', rotulo: 'Sites', contador: contagem?.sites },
+          { valor: 'apps', rotulo: t.bloqueios.tela.segmentoApps, contador: contagem?.apps },
+          { valor: 'sites', rotulo: t.bloqueios.tela.segmentoSites, contador: contagem?.sites },
         ]}
         valor={aba}
         onChange={setAba}

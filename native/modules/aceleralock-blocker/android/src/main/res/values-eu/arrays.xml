@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Euskara: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>Hemen gastatzen ez duzun denbora osorik itzultzen da zure bizitzara.</item>
+        <item>Pantaila honetatik kanpoko minutu bakoitza zurea da berriro.</item>
+        <item>Hogei minutu horiek ibilaldi bat egiteko adina dira.</item>
+        <item>Egunak badirudi baino leku gehiago du, scrolla gelditzen denean.</item>
+        <item>Zure arratsaldeko zati bat berreskuratu berri duzu.</item>
+        <item>Egunean ordu bat urtean hamabost egun da.</item>
+        <item>Denbora ez da itzultzen, baina oraindik aukeratu dezakezu non erabili.</item>
+        <item>Tarte hau zurea da. Inork ez du jakin behar zertan erabili duzun.</item>
+        <item>Bizitza oso bat gertatzen ari da aplikaziotik kanpo.</item>
+        <item>Erlojua berdin dabil pantailaren bi aldeetan.</item>
+        <item>Denbora erosi berri duzu. Bihar gogoratuko duzun zerbaitetan gastatu.</item>
+        <item>Inor ez da egunaren amaieran feeda gehiago irristatu izanaren gogoz iristen.</item>
+        <item>Hemengo hamabost minutuak beste edonon bezain baliotsuak dira.</item>
+        <item>Zer egingo zenuke duela hamar urte ordu erdi honekin?</item>
+        <item>Zure denbora da berriz erosi ezin duzun gauza bakarra.</item>
+        <item>Arratsalde osoa irekita dago oraindik zure aurrean.</item>
+        <item>Minutu honek beste zerbaiten hasiera izan daiteke.</item>
+        <item>Orduak zeuri itzultzen ari zara, banan-banan.</item>
+        <item>Hemen aurreztutako denbora ez da desagertzen. Beste nonbait agertzen da.</item>
+        <item>Hamar minutu gutxi dirudite, hilabeteko guztiak batu arte.</item>
+        <item>Bizitza abiadura normalean gertatzen da, ez feedaren abiaduran.</item>
+        <item>Gaur atzo une honetan baino denbora gehiago duzu.</item>
+        <item>Atzeratzen ari zaren hori tarte honetan sartzen da zehazki.</item>
+        <item>Pausa hau laburra da. Berarekin egiten duzuna ez du zertan izan.</item>
+        <item>Egun batean gauza asko sartzen dira, scrolla erdian ez dagoenean.</item>
+        <item>Gaueko gainerakoa berreskuratu berri duzu.</item>
+        <item>Denbora da txanpona. Ez gastatzea erabaki berri duzu.</item>
+        <item>Feeda ez da inoiz amaitzen. Zure eguna bai.</item>
+        <item>Egunean ordu erdi hilean liburu oso bat da.</item>
+        <item>Barruan ez zegoen ezer premiazkorik zure zain.</item>
+        <item>Denbora hori zurea zen jada. Orain zurekin dago berriro.</item>
+        <item>Goiza oraindik probetxuz bete daiteke, orain hasten bada.</item>
+        <item>Ez duzu ezer galdu. Tarte bat irabazi duzu.</item>
+        <item>Inork ez digu denbora itzultzen. Guk eutsi behar diogu.</item>
+        <item>Minutu hauek hemendik kanpo balio gehiago dute, eta badakizu.</item>
+        <item>Han zegoena hor jarraitzen du. Zure denbora ez.</item>
+        <item>Bizitza halako arratsaldeez egiten da.</item>
+        <item>Eguna zerbait eginda amaitu dezakezu, zerbait ikusita beharrean.</item>
+        <item>Egunean bi ordu urtean hilabete oso bat dira.</item>
+        <item>Gaur babesten duzun denbora da bihar geratzen dena.</item>
+        <item>Hau zuk bakarrik erabakitzen duzun eguneko zatia da.</item>
+        <item>Barruan inork ez du zure arratsaldea merezi duen ezer idatzi.</item>
+        <item>Egunean hogeita hamar minutuk edozer eraikitzen dute urtebetean.</item>
+        <item>Isiltasun puska bat erosi berri duzu.</item>
+        <item>Eguna handiagoa da feeda txikiagoa denean.</item>
+        <item>Denbora hau lehengaia da orain. Egin zerbait berarekin.</item>
+        <item>Zure proiektu bat dago tarte honen zain.</item>
+        <item>Hemen irabazten duzuna ez da pantailetan ikusten, zure bizitzan baizik.</item>
+        <item>Denbora librea urria da. Bat sortu berri duzu.</item>
+        <item>Inork ez du bizitzaren amaieran scroll bat gehiago eskatu.</item>
+        <item>Arratsalde osoa duzu eta oraindik ez da gastatu.</item>
+        <item>Urtebete halako hirurehun eta hirurogeita bost aukera da.</item>
+        <item>Tarte hau txikia da, baina osorik zurea da.</item>
+        <item>Denbora berdin pasatzen da. Aldea ondoren geratzen dena da.</item>
+        <item>Ordu erdi bat pilotu automatikotik atera berri duzu.</item>
+        <item>Eguneko gainerakoak eskertzen du geldialdi hau.</item>
+        <item>Handik bost minutu berehala berrogei bihurtzen dira, konturatu gabe.</item>
+        <item>Bost minutu horien prezioa ezagutzen duzu. Horregatik zaude hemen.</item>
+        <item>Orain babesten duzun ordua gauean bilatuko duzuna da.</item>
+        <item>Barruan ezer ez da hobea oraintxe ikusten baduzu, gero ikusi beharrean.</item>
+        <item>Hurrengo minutua nora joango den aukeratu berri duzu.</item>
+        <item>Denbora honek elkarrizketa batean, ibilaldi batean, lo-kuluxka batean kabida du.</item>
+        <item>Eguna aprobetxatzen da orduak ihes egiteari uzten diotenean.</item>
+        <item>Hurrengo ordu erdiaren jabe bakarra zara.</item>
+        <item>Egun honen bertsio bat dago non zerbait egin duzun. Orain hasten da.</item>
+        <item>Denbora ez da pilatzen. Hobeto edo okerrago gastatzen da bakarrik.</item>
+        <item>Minutu hauek benetako atsedena izan daitezke.</item>
+        <item>Inora eramaten ez duen zinta ibiltari batetik jaitsi berri zara.</item>
+        <item>Aste batek ehun eta hirurogeita zortzi ordu ditu. Hau zurea da.</item>
+        <item>Feedak denbora puskaka eramaten du, inork faltan sumatu ez dezan.</item>
+        <item>Orain egin dezakezu bihar utzi ohi duzun hori.</item>
+        <item>Zure arratsaldeak ez du pantaila baten barruan egon beharrik.</item>
+        <item>Gelditzen den denborak egunak luze iruditzen ditu, modu onean.</item>
+        <item>Hurrengo ordua zeuri itzuli berri diozu.</item>
+        <item>Orain ikusiko zenukeen ezer ez litzateke aste batean zure buruan egongo.</item>
+        <item>Halako minutuek urtea eraiki edo desegiten dute.</item>
+        <item>Denbora irabazi duzu. Ez duzu azkar gastatu beharrik.</item>
+        <item>Scrollik gabeko egun batean gauza gehiago sartzen dira.</item>
+        <item>Erlojuak ez ditu denbora ona eta alferrik galdutakoa bereizten. Zuk bai.</item>
+        <item>Ordu honek zure bizitzako beste edozein adinako balioa du.</item>
+        <item>Orain denbora duzu. Hori badirudi baino urriagoa da.</item>
+        <item>Denbora gordetzea da denbora izateko modu bakarra.</item>
+        <item>Gau osoa aurretik dago oraindik.</item>
+        <item>Minutu hauek gogoratuko duzun arratsalde baten hasiera dira.</item>
+        <item>Ordubeteko zulo hori saihestu berri duzu.</item>
+        <item>Denbora eskatzen duen guztiak horrelako erabakia eskatzen du.</item>
+        <item>Orain eta afariaren arteko tarteak gauza asko ematen ditu oraindik.</item>
+        <item>Azeleragailutik oina kendu duzu. Eguna ere moteltzen da zurekin.</item>
+        <item>Zure asteak lekua du. Beste zerbaitek betetzen zuen.</item>
+        <item>Hemen ixten duzun bakoitzean, eguna pixka bat handitzen da.</item>
+        <item>Denbora zeure buruari egiten diozun oparia da, ezer gastatu gabe.</item>
+        <item>Egunean zehar ez duzula esaten duzun hori bera duzu orain.</item>
+        <item>Arratsalde luze bat halako erabaki laburrez osatzen da.</item>
+        <item>Inork ez dizu galdetuko zer egin duzun ordu erdi honekin.</item>
+        <item>Gaur ematen ez duzun denbora bihar ere zurekin egongo da.</item>
+        <item>Egunean hogei minutuk urtean ehun eta hogei ordu ematen dituzte.</item>
+        <item>Lo egin aurreko tartea berreskuratu berri duzu.</item>
+        <item>Bizitza asko dago jakinarazpen baten eta hurrengoaren artean.</item>
+        <item>Egun osoa hemen sartzen da, puskaka entregatzen ez baduzu.</item>
+        <item>Denbora babesten iritsi zara honaino. Hau beste bat da.</item>
+        <item>Zure arreta munduko ondasunik lehiatuena da. Irabazi berri duzu.</item>
+        <item>Fokua hogei minutu behar ditu itzultzeko. Ez entregatu orain.</item>
+        <item>Buru oso batek buru txikitu batek baino gehiago balio du.</item>
+        <item>Zerbaitetan zentratuta zeunden hona etorri aurretik.</item>
+        <item>Arreta zatitua ez da arreta. Nekea besterik ez da.</item>
+        <item>Egiten ari zinena osorik merezi duzu.</item>
+        <item>Sakon pentsatzeko etenik gabeko denbora behar da. Hau da.</item>
+        <item>Pantaila-aldaketa bakoitzak erlojuak erakusten duena baino gehiago kostatzen du.</item>
+        <item>Zure burua ondo zihoan. Utzi jarraitzen.</item>
+        <item>Lan sakona ezin da feedaren irristaldi batekin bizi.</item>
+        <item>Feeda zure arreta eramateko diseinatu zuten. Konturatu zara.</item>
+        <item>Pentsamendu luze batek isiltasuna behar du amaitzeko.</item>
+        <item>Ideia oso bat buruan eduki dezakezu. Lekua besterik ez da behar.</item>
+        <item>Distrakzioa ez da atsedena. Atsedenak atseden ematen du.</item>
+        <item>Zenuen kontzentrazioa hor dabil oraindik. Itzul zaitez harengana.</item>
+        <item>Zure arreta ez dago salgai gaur.</item>
+        <item>Zure buruaren onena hogeigarren minututik aurrera agertzen da.</item>
+        <item>Orain etetea badirudi baino garestiagoa da.</item>
+        <item>Fokua eskatzen duten gauzak egiteko gai zara. Hasi hura babesten.</item>
+        <item>Barruan ezerk ez du zure arreta premiaz behar.</item>
+        <item>Ordu kontzentratu batek lau ordu zatikatuk baino gehiago ematen du.</item>
+        <item>Zure buruak hobeto funtzionatzen du gaiz aldatzen ez duenean.</item>
+        <item>Erdizka geratu zena gaur amaitu daiteke oraindik.</item>
+        <item>Fokua ez da borondate indarra. Ingurunea da. Zurea antolatu berri duzu.</item>
+        <item>Arazo zail hori amore ematen du, bertan jarraitzen duzunean.</item>
+        <item>Zure arreta mugatua da. Horregatik du hainbeste balio.</item>
+        <item>Ez duzu orain dena jakin beharrik.</item>
+        <item>Zarata hor jarraituko du. Zure isiltasuna da urria.</item>
+        <item>Gauza handiak etenik jasan ez zuen jendeak egin zituen.</item>
+        <item>Itzuli egiten ari zinenera. Zure burua hor dago oraindik.</item>
+        <item>Une batean zeregin bat egitea badirudi baino azkarragoa da.</item>
+        <item>Begiratzeko presa pasatzen da. Eten zen ideia batzuetan ez da itzultzen.</item>
+        <item>Erabiltzen ari zaren baino kontzentrazio gaitasun handiagoa duzu.</item>
+        <item>Ondo pentsatzea poliki doa. Utzi poliki joaten.</item>
+        <item>Zure arretak gaur zerbait eraiki du. Ez desegin jakin-minez.</item>
+        <item>Burua eskatzen duenak burua osorik eskatzen du.</item>
+        <item>Ez da feedik ordubete fokuak irakasten duena irakatsiko dizunik.</item>
+        <item>Errefusatutako jakinarazpen bakoitza argitasun pixka bat da.</item>
+        <item>Ulertzeko zorian zeunden. Itzuli hara.</item>
+        <item>Buru atseden hartua egun osoan tiraka ibili ez den burua da.</item>
+        <item>Zure arreta da gainerako guztia eraikitzeko materia.</item>
+        <item>Hasteak du zailena. Hasi duzu jada. Ez hasi zerotik berriz.</item>
+        <item>Utzi gaia lasai eta bera bakarrik konpontzen da zure buruan.</item>
+        <item>Argitasuna zaratak gelditzen direnean agertzen da.</item>
+        <item>Zure egunaren lanik onena ez da oraindik gertatu.</item>
+        <item>Ez da denbora falta. Denbora osoaren falta da.</item>
+        <item>Feedak uzten dizuna baino hobeto pentsatzen duzu.</item>
+        <item>Testu hori, kode hori, elkarrizketa hori. Zu osorik zain dituzte.</item>
+        <item>Kontzentrazioa giharra da. Gaurkoak bezalako egunekin hazten da.</item>
+        <item>Zure buruak eskerrak eman berri dizkizu.</item>
+        <item>Gauza bat aldiko oraindik dagoen teknikarik aurreratuena da.</item>
+        <item>Arretaz egiten duzunak irauten du. Gainerakoa pasatzen da.</item>
+        <item>Pentsatzeko ez dago lasterbiderik. Etenik gabeko denbora bakarrik.</item>
+        <item>Arrazoibide bat amaitzea merezi duzu.</item>
+        <item>Zure burua zorrotz zegoen. Gorde ertz hori.</item>
+        <item>Pantailak keinu egiten du. Ideiek ez. Gelditu ideiekin.</item>
+        <item>Fokuarekin egindako egun batek hiru egun lasterka adinako balioa du.</item>
+        <item>Ez zara motela. Eten egiten zintuzten.</item>
+        <item>Gaur axola duen gaia ez dago feedean.</item>
+        <item>Norabideari eusteak berriz hartzeak baino gutxiago kostatzen du.</item>
+        <item>Zure arreta osoa opari bat da. Eman merezi duenari.</item>
+        <item>Isiltasunean agertzen dira ideia onak.</item>
+        <item>Zerbait onaren erdian zeunden.</item>
+        <item>Inork ez du ondo pentsatzen buruarekin hamar lekutan.</item>
+        <item>Sakontasuna gainazalean denbora bat eman ondoren bakarrik agertzen da.</item>
+        <item>Fokua ez da gehiago egitea. Ondo egitea da.</item>
+        <item>Gaur gauza garrantzitsu bat duzu. Feeda ez da hori.</item>
+        <item>Utzi zure buruari hasitako esaldia amaitzen.</item>
+        <item>Etenik gabeko ordu batek egunean zer den posible aldatzen du.</item>
+        <item>Orain zaila dirudiena erraza bihurtzen da etengabeko arretarekin.</item>
+        <item>Zure kontzentrazioa zure abantaila da. Gutxik dute oraindik berea.</item>
+        <item>Ez trukatu gauza garrantzitsu bat gauza azkar askorengatik.</item>
+        <item>Jakin-mina itxaron daiteke. Fokuak ez du itxaroten.</item>
+        <item>Zerbait eraikitzen ari zara. Jarraitu.</item>
+        <item>Zeregina aldatzea produktiboa dirudi eta ia inoiz ez da.</item>
+        <item>Gaurko zure burua erabiltzeko modurik onena eskura dago oraindik.</item>
+        <item>Orain gordetzen duzun arretak emaitzan agertzen da gero.</item>
+        <item>Zure burua ez da feed bat. Arreta ematen diozuna gordetzen du.</item>
+        <item>Zu osorik merezi duen gai bat urria da. Probestu.</item>
+        <item>Zaila ez da ezinezkoa. Luzea besterik ez da.</item>
+        <item>Minutu gutxira zaude hori askatzetik.</item>
+        <item>Zarata desagertzen da elikatzeari uzten diozunean.</item>
+        <item>Egiten ari zinenarekin jarraitu amaitu arte.</item>
+        <item>Murgilketa sakon bakoitzak hamar azaleko ordaintzen ditu.</item>
+        <item>Zure arretak erabakitzen du zer bihurtzen den oroitzapen.</item>
+        <item>Arreta jarri diozunaz gogoratzen zara. Horretaz bakarrik.</item>
+        <item>Pentsatzea da gaur egiten duzun gauza errentagarriena.</item>
+        <item>Presarik gabeko buruak presatu batek ikusten ez duena konpontzen du.</item>
+        <item>Lan onak pazientzia eskatzen du, ez abiadura.</item>
+        <item>Orain ikusiko zenukeen ezer ez litzateke bihar elkarrizketa batean aterako.</item>
+        <item>Gaurko zure argitasun mentala halako erabakiekin hasi zen.</item>
+        <item>Etena existitzen den zerga garestiena da.</item>
+        <item>Uste duzun baino denbora gehiago egon zaitezke gauza bakarrean.</item>
+        <item>Ihes egiten zizun xehetasun hori isiltasunean agertzen da.</item>
+        <item>Fokua itzultzen da. Pantailarik gabeko minutu batzuk besterik ez ditu behar.</item>
+        <item>Arreta luzea izateko gai zara. Feedak ez dela apustu egiten du.</item>
+        <item>Gaur gauza bat amaitzea bost hastea baino hobea da.</item>
+        <item>Zure arreta osoa urria da zuretzat ere.</item>
+        <item>Utzi pentsamenduari arnasa hartzen.</item>
+        <item>Fokuarekin eraikitzen duzuna inork ez du behera irristatzen.</item>
+        <item>Irekitzeko gogoa minutu gutxitan pasatzen da. Beti pasatzen da.</item>
+        <item>Bulkada honek iraungitze data du. Bera bakarrik iraungitzen da.</item>
+        <item>Ez duzu ezer egin beharrik. Uhina jaitsi arte itxaron besterik ez.</item>
+        <item>Orain sentitzen duzun premia ez da zurea. Irakatsi egin zizuten.</item>
+        <item>Hartu arnasa behin. Gogoa txikiagoa da duela minutu bat baino.</item>
+        <item>Bulkada altua da hasieran eta erdibidean desagertzen da.</item>
+        <item>Ez zara zu nahi duzuna. Ohitura ari da eskatzen.</item>
+        <item>Deseroso gelditzen da denbora gutxiz. Gero pasatzen da.</item>
+        <item>Hau lehenago sentitu duzu eta aldi guztietan atera zara.</item>
+        <item>Gogoa uhinetan dator. Uhinak apurtzen dira.</item>
+        <item>Inork ez du eguneko lehen bulkadari obeditu beharrik.</item>
+        <item>Bularreko estutasun hau abesti bat baino gutxiago irauten du.</item>
+        <item>Hogeita hamar segundoko bulkada bat baino handiagoa zara.</item>
+        <item>Utzi gogoari pasatzen, berarekin ezer egin gabe.</item>
+        <item>Oraingo deserosotasuna ohitura askatzen ari dela da. Hori aurrerapena da.</item>
+        <item>Ez zaude erresistitzen. Itxaroten ari zara besterik ez.</item>
+        <item>Gogoa indartsu dator eta isilik doa.</item>
+        <item>Zenbatu hogeira arte. Txikiagoa izango da.</item>
+        <item>Gogoa sentitzea ez da behar izatea.</item>
+        <item>Bulkadak berehalako erantzuna nahi du. Ez eman bat ere.</item>
+        <item>Hau da unerik zailena eta laburra da.</item>
+        <item>Ez duzu borrokatu beharrik. Orain ez erabaki besterik ez.</item>
+        <item>Gogoa desagertzen da inork elikatzen ez duenean.</item>
+        <item>Hau antsietatea da, ez edukien gose.</item>
+        <item>Ohartu gogoaz, bertan sartu gabe.</item>
+        <item>Garunak ohikoa eskatzen du. Ez zaude zerbitzatzera behartuta.</item>
+        <item>Bost minutu barru ez duzu gogoratuko irekitzeko gogoa izan zenuenik.</item>
+        <item>Uhina igotzen ari da orain. Beti jaisten da.</item>
+        <item>Zatirik txarrenaren beste aldean zaude jada.</item>
+        <item>Bulkadak bere indarraz gezurra esaten du.</item>
+        <item>Jaiki, edan ur pixka bat, itzuli. Joan da jada.</item>
+        <item>Gogoa ez da agindua.</item>
+        <item>Hau senti dezakezu eta ezer ez egin. Baimenduta dago.</item>
+        <item>Gorputzak mugimendua eskatzen du, ez pantaila.</item>
+        <item>Desira hau automatikoa da. Zure erantzunak ez du zertan izan.</item>
+        <item>Ez da ezer txarrik gertatzen pixka bat gehiago itxaroten baduzu.</item>
+        <item>Gogoa bera bakarrik desagertzen da, lekua uzten badiozu.</item>
+        <item>Antsietatean zaude besterik gabe. Pasatzen da eta ez du pantailarik behar.</item>
+        <item>Bulkada iradokizun bat da. Zu zara erabakitzen duena.</item>
+        <item>Minutu bat gehiago eta gogoa beste zerbait da jada.</item>
+        <item>Zati zailak gutxi irauten du. Zati onak eguna irauten du.</item>
+        <item>Hau da bultzadatxo famatua. Ez du hainbeste bultzatzen.</item>
+        <item>Itxaron epaitu gabe. Gogoa bera bakarrik desegiten da.</item>
+        <item>Zure garunak ohiko lasterbidea eskatzen ari da.</item>
+        <item>Ez duzu ezer garaitu beharrik. Pasatzen utzi besterik ez.</item>
+        <item>Pasatzen uzten duzun uhin bakoitzak hurrengoa txikiagoa uzten du.</item>
+        <item>Antsietateak irtenbide azkarra nahi du. Ez du hemen aurkituko.</item>
+        <item>Gelditu une batez. Bulkada ez da gelditzen.</item>
+        <item>Itxaroten ez duzu ezer galtzen.</item>
+        <item>Aspertzea ez da larrialdia.</item>
+        <item>Orain hutsik sentitzea normala da. Bera bakarrik betetzen da.</item>
+        <item>Zerbait begiratzeko gogoa gutxitan da zerbait horri buruz.</item>
+        <item>Deseroso zaude, ez arriskuan.</item>
+        <item>Hau berehala lasaituko da.</item>
+        <item>Ohitura indartsua da, baina laburra.</item>
+        <item>Utzi hau pasatzen. Hau bakarrik.</item>
+        <item>Hurrengo aldia errazagoa izango da honengatik.</item>
+        <item>Ez duzu ezer sinetsarazi beharrik. Itxaron besterik ez.</item>
+        <item>Ur baso batek feedaren irristaldi batek baino gehiago konpontzen du.</item>
+        <item>Premia faltsua da eta jakin badakizu.</item>
+        <item>Bulkadak ez du erantzunik gabe irauten.</item>
+        <item>Itxaron hogeita hamar segundo. Gero erabaki berriz.</item>
+        <item>Gailurrean zaude. Hemendik aurrera aldapa behera da.</item>
+        <item>Ezerk ez du orain zure erreakziorik eskatzen.</item>
+        <item>Gogoa bisita bat da. Joan egingo da.</item>
+        <item>Ez zara bulkada. Hura behatzen duena zara.</item>
+        <item>Gorputza erlaxatzen da minutu bat ematen badiozu.</item>
+        <item>Garuna estimulu baten bila dabil besterik ez. Beste bat aurkituko du.</item>
+        <item>Hiru arnasaldi sakonek honen indarra aldatzen dute.</item>
+        <item>Gogoa txikitzen da aurpegira begiratzen diozunean.</item>
+        <item>Minutu hau jasan dezakezu. Okerragoak jasan dituzu.</item>
+        <item>Eragozpena pasatzen da zuk ezer egin gabe ere.</item>
+        <item>Eskua burua baino azkarragoa izan da. Gertatzen da.</item>
+        <item>Ez da erabakirik hartu behar lehen hamar segundoetan.</item>
+        <item>Segundo gutxira zaude honetaz ahaztetik.</item>
+        <item>Abiarazleak sakatu du. Erantzuna zurea da oraindik.</item>
+        <item>Utzi gogoari existitzen, obeditu gabe.</item>
+        <item>Hau ez da gogo biziegia. Ohitura da.</item>
+        <item>Itxaron. Egin behar duzun guztia hori da, literalmente.</item>
+        <item>Burua bera bakarrik lasaitzen da egur gehiago botatzen ez baduzu.</item>
+        <item>Itxaroten ari zara jada. Hori garaipena da jada.</item>
+        <item>Bulkadak indarra galtzen du ate itxi bat aurkitzen duenean.</item>
+        <item>Hemengo segundo bakoitza abantaila segundo bat da.</item>
+        <item>Uhina apurtu da. Ohartu zeinen arinago dagoen jada.</item>
+        <item>Ez duzu ez irekitzeko arrazoirik behar.</item>
+        <item>Desira damuaren baino azkarrago pasatzen da.</item>
+        <item>Luzamendu batek feedak konponduko ez lukeena konpontzen du.</item>
+        <item>Gogoa joaten ari da hau irakurtzen ari zaren bitartean.</item>
+        <item>Ez erabaki ezer orain. Arnasa hartu besterik ez.</item>
+        <item>Bulkada bera bakarrik dator eta bera bakarrik doa.</item>
+        <item>Hau da zailena. Eta azkarra da.</item>
+        <item>Honaino iritsi zara. Segundo batzuk falta dira.</item>
+        <item>Gorputzak pantaila eskatzen du atsedena nahi duenean. Eman atsedena.</item>
+        <item>Gogoa txikiagoa da betetzen ez den bakoitzean.</item>
+        <item>Itxaron pixka bat gehiago. Hori besterik ez.</item>
+        <item>Unea pasatzen da. Aukera geratzen da.</item>
+        <item>Zati estutik igaro berri zara.</item>
+        <item>Gogoa sentitzea gizatiarra da. Ez obeditzea ere bai.</item>
+        <item>Lasaitasuna berehala itzultzen da, bultzatzen ez baduzu.</item>
+        <item>Arinagoa gelditu da, ezta?</item>
+        <item>Hau lasai zeundenean erabaki zenuen. Fidatu erabaki zuenaz.</item>
+        <item>Atzoko zuk oraingo zuri begiratu dio.</item>
+        <item>Pantaila hau zure buruari bidalitako mezu bat da.</item>
+        <item>Ez zaituzte oztopatzen. Gogorarazten ari zaituzte.</item>
+        <item>Izan nahi duzun pertsonak ez du arratsaldea irristatzen ematen.</item>
+        <item>Aukera hori zurea izan zen. Zurea izaten jarraitzen du.</item>
+        <item>Ohartu eta jokatu zuen pertsona horietakoa zara.</item>
+        <item>Inork ez zintuen hau instalatzera behartu. Nahi izan zenuen.</item>
+        <item>Biharko zuk gustuko izango du oraingo zu.</item>
+        <item>Zure denbora babesten duen norbait zara jada.</item>
+        <item>Hau ez da zigorra. Hitzarmena da.</item>
+        <item>Arau hau zuk idatzi zenuen. Funtzionatzen ari da.</item>
+        <item>Zure arretaren jabe izatea eguneroko aukera bat da.</item>
+        <item>Ez duzu hemen inori ezer frogatu beharrik.</item>
+        <item>Izan nahi duzun pertsona erabaki txikietan hasten da.</item>
+        <item>Pantailaren alde zuzenean zaude.</item>
+        <item>Hemen ixten duzun bakoitzean, izan nahi duzun hori gehiago bihurtzen zara.</item>
+        <item>Ez zara sentitzen duzun gogoa. Egiten duzuna zara.</item>
+        <item>Zeure buruarekin duzun hitzarmenak beste edozeinek adina balio du.</item>
+        <item>Eredu bat ezagutu eta aldatu zenuen. Hori urria da.</item>
+        <item>Zure poltsikoko aplikazioak baino handiagoa zara.</item>
+        <item>Hau zure araua da eta zure alde dago.</item>
+        <item>Ohitura aldatzeko eskubidea duzu.</item>
+        <item>Behin eta berriz egiten duzuna zara.</item>
+        <item>Leku gehiagoko bizitza bat aukeratu duzu.</item>
+        <item>Ez da aplikazioa zuri agintzen dizuna.</item>
+        <item>Zure nortasuna ez da feed batean sartzen.</item>
+        <item>Honengatik arrazoi batengatik instalatu zenuena zara.</item>
+        <item>Gogoratu arrazoia. Balio du oraindik.</item>
+        <item>Zure erabaki bat betetzen ari zara.</item>
+        <item>Inork ez du zure arreta zure ordez erabakitzen.</item>
+        <item>Zer gertatzen ari zen ohartu zinen. Horrek dena aldatzen du.</item>
+        <item>Zure egunaren jabe izatea etengabeko lana da.</item>
+        <item>Ez zara bidaiaria. Zu gidatzen ari zara.</item>
+        <item>Hau bere burua serio hartzen duen pertsonaren aukera da.</item>
+        <item>Zeure buruaren arduraduna zara. Eta hala ari zara izaten.</item>
+        <item>Zure denborak jabea du. Hau irakurtzen ari da.</item>
+        <item>Zeure buruarekin hitzartu duzu. Bete ezazu.</item>
+        <item>Halako erabaki bakoitzak izan nahi duzunetik hurbiltzen zaitu.</item>
+        <item>Ez ari zara askatasuna galtzen. Erabiltzen ari zara.</item>
+        <item>Orain zer egin erabakitzen duena zu zara.</item>
+        <item>Ez duzu baimenik behar modu desberdinean bizitzeko.</item>
+        <item>Muga hau zainketa bat da, ez kaiola bat.</item>
+        <item>Bide zailago eta zureago bat aukeratu duzu.</item>
+        <item>Miresten duzun pertsonak ere ezetz esango luke orain.</item>
+        <item>Zure bizitzan bizi zara, ez aplikazioan.</item>
+        <item>Zure denbora, zure burua, zure aukera.</item>
+        <item>Zeure buruari betetzen ari zara. Hori kontatzen da.</item>
+        <item>Inork ez du zure arreta zure ordez zainduko.</item>
+        <item>Norabidea aldatzeko gai zarela frogatu duzu jada.</item>
+        <item>Autonomia hori da: lehenago erabaki, ez bulkadan.</item>
+        <item>Errespetatzen duzun norbait eraikitzen ari zara.</item>
+        <item>Plangintza egiten duen zure bertsioa da hau.</item>
+        <item>Ez zara hemen kasualitatez iritsi. Zuk antolatu duzu hau.</item>
+        <item>Zeure buruari emandako hitzak balio du.</item>
+        <item>Zure egunaz nola gastatu iritzi propioa duzu.</item>
+        <item>Aplikazioak ez zaitu ezagutzen. Zuk ezagutzen duzu.</item>
+        <item>Zure bizitzaren jabe bezala jokatzen ari zara.</item>
+        <item>Zure erabakiarekin koherentea izatea askatasuna da.</item>
+        <item>Hemen arauak idazten dituena zu zara.</item>
+        <item>Hau zeure burua zaintzen ari zarela da.</item>
+        <item>Ez zaude preso. Babestuta zaude.</item>
+        <item>Aldatzeko zure nahia bulkada honen aurrekoa da.</item>
+        <item>Izan nahi duzuna zara jada.</item>
+        <item>Erabaki zaila hartuta dago. Hau erraza besterik ez da.</item>
+        <item>Kontrola duzu eta hori urria da gaur egun.</item>
+        <item>Inork ez du jakin beharrik. Hau zure eta zure artekoa da.</item>
+        <item>Zure hitzean fidatzea merezi duzu.</item>
+        <item>Zure izena dago aukera honetan.</item>
+        <item>Aurretik erabakitzen duen pertsona bihurtu zara.</item>
+        <item>Hau ez da uztea. Beste zerbait aukeratzea da.</item>
+        <item>Norabide bat duzu. Pantaila honek hara seinalatzen du.</item>
+        <item>Benetako askatasuna etengabe tiraka ez ibiltzea da.</item>
+        <item>Zure arretaren balioa ezartzen duena zu zara.</item>
+        <item>Hemengo ez bakoitza zureko beste zerbaiten baiezkoa da.</item>
+        <item>Maitasunez egindako plan bati leial izaten ari zara.</item>
+        <item>Zeure buruaren jabe izatea lan handia da eta merezi du.</item>
+        <item>Aldatu nahi zenuela aitortu zenuen. Hori da zati zaila jada.</item>
+        <item>Gaur gauean ispiluko pertsonak hau gustuko izango du.</item>
+        <item>Ez diozu ezer zor algoritmoari.</item>
+        <item>Zure bizitza ez da inoren edukia.</item>
+        <item>Erabaki zenuen lekuan zaude zehazki.</item>
+        <item>Zeure buruari jartzen diozun muga da existitzen den errespetuzkoena.</item>
+        <item>Pantaila honek baino bizi proiektu handiagoa duzu.</item>
+        <item>Hau helduera da denbora errealean.</item>
+        <item>Zure etorkizuna zaintzen ari zara konturatu gabe.</item>
+        <item>Halako aukera bakoitzak zure nortasuna fintzen du.</item>
+        <item>Ez duzu azaldu beharrik zergatik ez duzun irekitzen.</item>
+        <item>Zure konpromisoa zurekin da, ez aplikazioarekin.</item>
+        <item>Erabaki zuzena hartu zenuen gogorik ez zenuenean.</item>
+        <item>Hau zure bizitza zeuk gidatuta dagoela da.</item>
+        <item>Manipulatzeko zaila den norbait bihurtu zara.</item>
+        <item>Zure arretak jabea du eta adi dago.</item>
+        <item>Zeure burua zaintzen duen bezala jokatu berri duzu.</item>
+        <item>Plana zurea da. Orain funtzionatzen ari da.</item>
+        <item>Zure aukera txikien batura zara.</item>
+        <item>Inork ez dizu kentzen azken hitza.</item>
+        <item>Zure denboraren agintaria zara.</item>
+        <item>Funtzionatzen ari da funtzionatzea nahi izan zenuelako.</item>
+        <item>Zu baino handiagoa izan nahi duen ohitura baino handiagoa zara.</item>
+        <item>Beste bat. Horrela hazten da kontua.</item>
+        <item>Txikiak eta errepikatuak handiak eta urrunak irabazten du.</item>
+        <item>Puntu bat gehiago batu berri duzu.</item>
+        <item>Inor ez da aldatzen batean. Gaurkoak bezalako egunetan aldatzen da.</item>
+        <item>Hau beste bizitza baten milaren zatia da.</item>
+        <item>Egun on batek ez du ezer aldatzen. Ehun egun onek dena aldatzen dute.</item>
+        <item>Segida bat eraikitzen ari zara.</item>
+        <item>Aurrerapena ia inoiz ez dirudi aurrerapena barrutik.</item>
+        <item>Aukera hauen batura bakoitza baino handiagoa da.</item>
+        <item>Konstantzia aspergarria da eta funtzionatzen du.</item>
+        <item>Harri bat gehiago hormara.</item>
+        <item>Irauten duen zerbait entrenatzen ari zara.</item>
+        <item>Nahikoa errepikatuta, hau automatiko bihurtzen da.</item>
+        <item>Inork ez du garaipen hau ikusten, baina berdin kontatzen da.</item>
+        <item>Aste batzuk falta dira gogorik ere ez sentitzeko.</item>
+        <item>Gaur kontatzen da. Bihar ere kontatuko da.</item>
+        <item>Kate bat halako maila batzuekin egiten da.</item>
+        <item>Ohitura berria idazten ari da orain.</item>
+        <item>Errepikapen bakoitzak ohitura zaharra pixka bat askatzen du.</item>
+        <item>Hau lehenago egin duzu. Egin berriz.</item>
+        <item>Poliki da irauten duten gauzen abiadura.</item>
+        <item>Aldaketa begietatik urrun gertatzen da.</item>
+        <item>Ikusezina eta erreala den zerbait pilatzen ari zara.</item>
+        <item>Egun bat gehiago norabide egokian.</item>
+        <item>Emaitza gero agertzen da. Aukera gaur da.</item>
+        <item>Aukera bat aldiko da egiteko modua.</item>
+        <item>Atzo baino hurbilago zaude.</item>
+        <item>Ez du perfektua izan beharrik. Maiz izan behar du.</item>
+        <item>Kurba poliki igotzen da eta gero azkar igotzen da.</item>
+        <item>Prozesuaren erdian zaude. Horrela da.</item>
+        <item>Ez txiki bakoitzak bai handi bat eraikitzen du.</item>
+        <item>Hau guztia ez da dramatikoa. Horregatik funtzionatzen du.</item>
+        <item>Bidea halako urratsez osatuta dago.</item>
+        <item>Errutinaren bertsio berri bat sortzen ari zara.</item>
+        <item>Hau erraza irudituko zaizu hilabete barru.</item>
+        <item>Errepikapenak erabakia izateko modu bihurtzen du.</item>
+        <item>Bide berria sendotu berri duzu.</item>
+        <item>Ehuneko ehun laurogeita hamazortzi baino errazagoa da.</item>
+        <item>Ez hautsi gaurko segida.</item>
+        <item>Zati aspergarria egiten ari zara, kontatzen duena.</item>
+        <item>Aldaketa ez da sentitzen. Gero ikusten da.</item>
+        <item>Adreilu bat gehiago kokatuta.</item>
+        <item>Garunari beste zerbait espero izaten irakasten ari zara.</item>
+        <item>Jarraitzea da teknika osoa.</item>
+        <item>Halako garaipenik ez da txikia guztira.</item>
+        <item>Ez duzu korrika egin beharrik. Ez gelditu behar duzu.</item>
+        <item>Hau errazagoa egiten ari da eta ez duzu ohartu ere egin.</item>
+        <item>Aste batek honela dagoeneko aldatzen du zure eguna.</item>
+        <item>Bide berri bat osatzen ari zara buruan.</item>
+        <item>Aldi bakoitza kontatzen da, ez dirudienean ere.</item>
+        <item>Inork ez du txaloka, baina funtzionatzen ari da.</item>
+        <item>Pilaketa isila eta geldiezina da.</item>
+        <item>Joan den hilean baino indartsuagoa zara honetan.</item>
+        <item>Gaurko aukera on batek biharkoa errazten du.</item>
+        <item>Hau da koherentziak barrutik duen itxura.</item>
+        <item>Beste egun bat pilatutako abantailarekin.</item>
+        <item>Bidean zaude eta bidea luzea da. Ondo dago.</item>
+        <item>Errepikatzen dena erraz bihurtzen da.</item>
+        <item>Bihurtzen ari zaren hori sendotu berri duzu.</item>
+        <item>Gaur kontua zure alde dago.</item>
+        <item>Irabazi txikiak baimenik eskatu gabe batzen dira.</item>
+        <item>Ez da gaurkoari buruz. Baturari buruz da.</item>
+        <item>Lan ikusezina egiten ari zara.</item>
+        <item>Jarraitu. Sekretua hori da, literalmente.</item>
+        <item>Halako egun bakoitzak pisu pixka bat kentzen du.</item>
+        <item>Ohitura zaharra lekua galtzen ari da orain.</item>
+        <item>Oraindik ernatu ez den zerbait ureztatzen ari zara.</item>
+        <item>Aldaketa gertatzen ari da, ematen ez badu ere.</item>
+        <item>Beste behin. Beti hori besterik ez izan da.</item>
+        <item>Egun onen erreserba bat eraikitzen ari zara.</item>
+        <item>Hau denborarekin normal bihurtzen da.</item>
+        <item>Berriz aukeratu berri duzu. Eta berriz ere kontatzen da.</item>
+        <item>Halako hilabete batekin beste pertsona bat zara.</item>
+        <item>Gaurko ahaleginak desagertzen dira. Emaitzak geratzen dira.</item>
+        <item>Hau hasi zenuen pertsona ez zara jada.</item>
+        <item>Beti egitea asko egitea baino hobea da.</item>
+        <item>Egun bakoitza izan nahi duzunaren aldeko boto bat da.</item>
+        <item>Ohitura berriari lurraldea irabazten uzten ari zara.</item>
+        <item>Honek ez du heroikoa izan beharrik. Gertatu behar du besterik ez.</item>
+        <item>Bide zuzena sendotu berri duzu.</item>
+        <item>Errepikatzea da garunak edozer ikasteko modua.</item>
+        <item>Gaurko eta atzoko batura nahikoa da jada.</item>
+        <item>Ondo zoaz sentitzen ez duzunean ere.</item>
+        <item>Aurrerapena errepikapen alaigabeetan bizi da.</item>
+        <item>Urrats labur bat gehiago norabide luzean.</item>
+        <item>Hau naturala bihurtzen ari zara.</item>
+        <item>Askotan egindako gauza on batek geratzen dena osatzen du.</item>
+        <item>Indarra berriz egitetik dator, indartsu egitetik ez.</item>
+        <item>Biharko bidea laburtu berri duzu.</item>
+        <item>Beste bat. Hori besterik ez. Eta nahikoa da.</item>
+        <item>Erabaki onen arrastoa uzten ari zara.</item>
+        <item>Konstantziak ahalegina nortasun bihurtzen du.</item>
+        <item>Egun bakoitza egun oso gisa kontatzen da.</item>
+        <item>Jokaldi luzean zaude eta irabazten ari zara.</item>
+        <item>Hau zu zara bihurtuko da, konturatu gabe.</item>
+        <item>Egunaren inbertsiorik onena egin berri duzu.</item>
+        <item>Lerroari eutsi berri diozu.</item>
+        <item>Jarraitutasuna talentua baino urriagoa da.</item>
+        <item>Benetako aldaketa beti poliki doa eta beti merezi du.</item>
+        <item>Aukera bat gehiago zure bizitzaren norabidean.</item>
+        <item>Zure begiek eskertzen dute pausa hau.</item>
+        <item>Jaiki eta luzatu. Gorputzak hori eskatzen zuen, ez pantaila.</item>
+        <item>Hartu arnasa sakon. Horrek bakarrik zerbait aldatzen du.</item>
+        <item>Edan ur pixka bat. Seguruenik hori falta zen.</item>
+        <item>Zure lepoa makur dago denbora luzez. Zuzendu.</item>
+        <item>Gaurko loa orain dituzun pantailetan hasten da.</item>
+        <item>Ondo lo egitea existitzen den gauzarik produktiboena da.</item>
+        <item>Zure gorputza geldi dago denbora gehiegi.</item>
+        <item>Begiratu urrun hogei segundoz. Begiak lasaitzen dira.</item>
+        <item>Ibilaldi labur batek edozein feedek baino gehiago aldatzen du umorea.</item>
+        <item>Sentitzen duzun nekea pantaila besterik ez izan daiteke.</item>
+        <item>Zure gorputzak mugimendua eskatzen du, buruak scrolla eskatzen duenean.</item>
+        <item>Aire freskoak pantailak konpontzen ez duena konpontzen du.</item>
+        <item>Sorbaldak behera. Masailezurra aske.</item>
+        <item>Konturatu gabe sorbaldak estutzen ari zara.</item>
+        <item>Hamar minutu eguzkitan oso baliotsuak dira.</item>
+        <item>Gorputzak etzanda hartzen du atseden, ez scrollean.</item>
+        <item>Gaur goiz oheratzea biharko oparia da.</item>
+        <item>Zure jarrera aldatu da azken hogei minutuetan. Zuzendu.</item>
+        <item>Pantaila-nekea ez da benetako nekea. Beste zerbait da.</item>
+        <item>Altxatu besoak. Luzatu. Bukatu, hobetu da jada.</item>
+        <item>Begiak gutxiago kliskatzen dituzu scrolla egiten duzunean. Kliskatu orain.</item>
+        <item>Gorputzak hobeto funtzionatzen du benetako pausekin.</item>
+        <item>Etxe-bloke bat inguratzeak burua garbitzen du.</item>
+        <item>Zure bizkarrezurrak eskertuko du eten hau.</item>
+        <item>Atsedena eta distrakzioa desberdinak dira.</item>
+        <item>Atzoko lo txarra honelako pantaila batean hasi zen.</item>
+        <item>Luzatu lepoa bi aldeetara. Hamar segundo behar ditu.</item>
+        <item>Mugimenduak edukiak baino hobeto konpontzen du antsietatea.</item>
+        <item>Zure gorputza daukazun etxe bakarra da.</item>
+        <item>Ura, argia eta mugimendua. Ia beti hori da.</item>
+        <item>Pantailak nekatzen du atseden dirudienean ere.</item>
+        <item>Itxi begiak une batez. Hori besterik ez.</item>
+        <item>Azaleko arnasa hartzen ari zara. Hartu arnasa sakon hiru aldiz.</item>
+        <item>Dutxa batek badirudi baino gauza gehiago konpontzen ditu.</item>
+        <item>Zure gorputza leku berean dago denbora gehiegi.</item>
+        <item>Benetako atsedenak ez du pantailarik.</item>
+        <item>Hogei minutuko ibilaldiak egun osoa aldatzen du.</item>
+        <item>Burua astun daukazu gorputza geldi dagoelako.</item>
+        <item>Begi lehorrak, sorbalda gogorrak. Ohartu zara?</item>
+        <item>Bi minutuz jaikitzeak irristaldi batek baino gehiago berrabiarazten du.</item>
+        <item>Gorputzak loa eskatzen du eta gogoak estimulua. Entzun gorputza.</item>
+        <item>Pantailaren argiak orduz oztopatzen du zure loa.</item>
+        <item>Luzatu hankak. Azkarra da eta funtzionatzen du.</item>
+        <item>Atseden ematen duen atsedena merezi duzu.</item>
+        <item>Mugimendua existitzen den antidepresiborik merkeena da.</item>
+        <item>Zure gorputzak gogoratuko du lo egindako gau hau.</item>
+        <item>Arnasketa motelak edozein bideok baino azkarrago lasaitzen du.</item>
+        <item>Goseak edo aspertuta zaude. Aurkitu zein.</item>
+        <item>Gorputza berreskuratzen da burua gelditzen denean.</item>
+        <item>Hogei segundo leihotik begiratzen.</item>
+        <item>Zure eskumuturrak eta erpuruak atseden behar dute.</item>
+        <item>Pantaila-nekea ibiltzean desagertzen da.</item>
+        <item>Loan antolatzen da memoria. Babestu ezazu.</item>
+        <item>Estimulu gutxiago behar duzu, ez gehiago.</item>
+        <item>Bi minutuko luzamendu batek hamar minutuko bideoak baino gehiago balio du.</item>
+        <item>Zure gorputza seinale bat ematen ari zaizu orain.</item>
+        <item>Airea, ura eta mugimendua. Errezetak ez du aldatu.</item>
+        <item>Etzan lurrean minutu batez. Serio.</item>
+        <item>Pantailak esna mantentzen zaitu lo egin behar duzunean.</item>
+        <item>Gorputzak pausa eskatzen du eta eskuak pantaila. Eman pausa.</item>
+        <item>Zure begiak goizetik lanean ari dira.</item>
+        <item>Gau on batek mundua aldatzen du.</item>
+        <item>Jaiki. Jaiki besterik ez. Nahikoa da jada.</item>
+        <item>Aukera honengatik hobeto lo egingo duzu.</item>
+        <item>Gorputzak eskertzen du buruak aspergarria deritzona.</item>
+        <item>Luzatu bizkarra. Eskatzen ari da.</item>
+        <item>Benetako atsedena isiltasuna da, ez beste estimulu bat.</item>
+        <item>Zure gorputzak bere erritmoa du eta pantailak ez du kasurik egiten.</item>
+        <item>Begiratu horizontera. Begiek distantzia behar dute.</item>
+        <item>Masailezurreko tentsioa ez da scrolleatuz pasatuko.</item>
+        <item>Zenbat denbora daramazu eserita, ba?</item>
+        <item>Mugimenduak argitasuna dakar. Beti ekarri du.</item>
+        <item>Edan ura edozer erabaki aurretik.</item>
+        <item>Galdutako loa ez da edukiekin berreskuratzen.</item>
+        <item>Zure gorputzak ondo funtzionatzen du uzten diozunean.</item>
+        <item>Lo-kuluxka labur batek ordubeteko feedak baino gehiago ematen du.</item>
+        <item>Arnasa sakon hartzea doakoa eta berehalakoa da.</item>
+        <item>Pantailak gorputza estutzen du abisatu gabe.</item>
+        <item>Behar baino nekatuago zaude.</item>
+        <item>Jaiki eta begiratu leihotik. Bost segundo.</item>
+        <item>Zure gorputza ez zen argiari begira geldirik egoteko eboluzionatu.</item>
+        <item>Luzatu behatzak. Gaur lan asko egin dute.</item>
+        <item>Gaua hobea da lo egin aurretik pantailarik gabe.</item>
+        <item>Pantailak eskaintzen duena ez da atsedena.</item>
+        <item>Zure gorputzak naturaren bila dabil eta pixela jasotzen du.</item>
+        <item>Ur baso bat eta hiru arnasaldi. Egin orain.</item>
+        <item>Sorbaldako tentsioa telefonoa nola heltzen duzunetik dator.</item>
+        <item>Gorputza lasaitzen da arreta korrika ibiltzeari uzten dionean.</item>
+        <item>Bost minutu barru hobeto sentituko zara.</item>
+        <item>Mugimenduak kimika aldatzen du. Pantailak gaia aldatzen du bakarrik.</item>
+        <item>Zure begiek benetako atsedena merezi dute.</item>
+        <item>Ibiltzeak feeda irakurtzeak baino hobeto antolatzen du pentsamendua.</item>
+        <item>Orain argi urdina gero lo txarra da.</item>
+        <item>Atsedena behar duzu, ez informazio gehiago.</item>
+        <item>Bi arnasaldi sakon edozer egin aurretik.</item>
+        <item>Zure gorputza bulkada baino jakintsuagoa da.</item>
+        <item>Jaiki eta ibili sukaldera arte. Nahikoa da.</item>
+        <item>Atseden hartu gorputzak eta burua berarekin batera lasaitzen da.</item>
+        <item>Haragi eta hezurrezko jendea dago zure ondoan orain.</item>
+        <item>Elkarrizketa batek hirurehun mezuk baino gehiago balio du.</item>
+        <item>Deitu norbaiti. Ahotsez, benetan.</item>
+        <item>Maite duzun norbait mezu baten distantziara dago.</item>
+        <item>Feedeko jendeak ez daki existitzen zarenik.</item>
+        <item>Zure gelan dagoenak gehiago merezi du.</item>
+        <item>Besarkada batek ez dago bideo batek konpontzen ez duena konpontzen du.</item>
+        <item>Idatzi ahazten ari zaren norbaiti.</item>
+        <item>Zure amak deia gustura hartuko luke gaur.</item>
+        <item>Bizitza errealean benetan erantzuten duen jendea dago.</item>
+        <item>Desagertu zen lagun hori itzul daiteke oraindik. Deitu.</item>
+        <item>Presentzia eman dezakezun gauzarik urriena da.</item>
+        <item>Norbait zure zain dago gora begiratzeko.</item>
+        <item>Galdera on batek ordubeteko scrollak baino gehiago balio du.</item>
+        <item>Zure inguruko jendeak ez du algoritmorik.</item>
+        <item>Gertatzen ari den elkarrizketa bat galtzen ari zara.</item>
+        <item>Feedeko inor ez da egongo behar duzunean.</item>
+        <item>Norbaitekin kafe batek edozein feedek baino gehiago aldatzen du astea.</item>
+        <item>Zure konpainia opari bat da. Eman.</item>
+        <item>Begiratu zurekin dagoenari.</item>
+        <item>Adiskidetasuna ureztatu egiten da. Ureztatu gaur.</item>
+        <item>Zure ondoko pertsona erreala da.</item>
+        <item>Maite zaituenak ez du like-rik behar.</item>
+        <item>Izan duzun azken elkarrizketa luzea gogoratzen duzu.</item>
+        <item>Dei iezaiozu norbaiti ibiltzera ateratzeko.</item>
+        <item>Oroitzapen onenek gutxitan dute pantailarik.</item>
+        <item>Norbaiten konpainia zara orain.</item>
+        <item>Bidali audio bat maite duzunari.</item>
+        <item>Jendea aldatzen da arreta jartzen diozunean.</item>
+        <item>Zure presentziak balio du norbaitentzat gaur.</item>
+        <item>Elkarrizketa on batek hobeto uzten zaitu. Feedak ez.</item>
+        <item>Norbaitek jakin behar du gogoratu zarela.</item>
+        <item>Aurkitu norbait norbaiti jarraitu beharrean.</item>
+        <item>Lotura sendoak elkarrekin emandako denboraz egiten dira.</item>
+        <item>Norbaiten egun onaren arrazoia izan zaitezke.</item>
+        <item>Hilabeteak daramazkizun hitz egin gabe zaudeten senide hori.</item>
+        <item>Mezu zintzo batek mila ikustaldik baino gehiago balio du.</item>
+        <item>Elkarrekin egotea ez da konektatuta egotea.</item>
+        <item>Zurekin bizi denak zu osorik merezi du.</item>
+        <item>Gonbidatu norbait afaltzera.</item>
+        <item>Benetako jendeak aurpegia, ahotsa eta denbora mugatua ditu.</item>
+        <item>Norbaitentzat ordezkaezina zara. Agertu.</item>
+        <item>Zure egunaren elkarrizketa garrantzitsuena ez da oraindik gertatu.</item>
+        <item>Zure ondoan pantailarik gabe dagoen norbait ere badago.</item>
+        <item>Norbait entzutea maitatua izateko modurik errazena da.</item>
+        <item>Lagun hori zerbaiten bidez pasatzen ari da. Galdetu.</item>
+        <item>Zure semea, zure txakurra, zure bizilaguna. Norbait hor dago.</item>
+        <item>Sareek jende askorekin lotzen zaituzte eta bat ere ez.</item>
+        <item>Norbaitekin arratsalde batek hilabeteko feedak adina balio du.</item>
+        <item>Gaur norbait barrez jar dezakezu. Benetan.</item>
+        <item>Presentzia osoa oso urria da. Eman dezakezun bat daukazu.</item>
+        <item>Norbaitek zutaz hitz egin du aste honetan. Ordaindu.</item>
+        <item>Feedeko inork ez zaitu faltan botatzen.</item>
+        <item>Bost minutuko telefono dei batek norbaiten eguna aldatzen du.</item>
+        <item>Axola duen jendeak ez du honi buruz argitaratzen.</item>
+        <item>Galdera batera zaude elkarrizketa on batetik.</item>
+        <item>Benetako konpainiak ez du publizitaterik erdian.</item>
+        <item>Beti laguntzen zaituen pertsona hori. Eskertu gaur.</item>
+        <item>Begietara begiratzea oraindik teknologiarik onena da.</item>
+        <item>Zure familia ez da feed bat. Ez irristatu hartatik.</item>
+        <item>Gonbidatu norbait ezer ez egiteko elkarrekin.</item>
+        <item>Urruti dagoenak ere merezi ditu zure berriak.</item>
+        <item>Hemendik kanpo gustuko zaituen jendea duzu.</item>
+        <item>Atzeratutako elkarrizketa zail batek feedak baino gehiago pisatzen du.</item>
+        <item>Probestu ondoan duzun jendea, ondoan dagoen bitartean.</item>
+        <item>Jendeak presente egon zena gogoratzen du.</item>
+        <item>Gonbidatu lagun bat kafe bat hartzera, arrazoirik gabe.</item>
+        <item>Norbait nonbait zutaz jakin nahian dago.</item>
+        <item>Norbait benetan entzun dezakezu orain.</item>
+        <item>Lotura begiratuz eraikitzen da, ez irristatuz.</item>
+        <item>Zure arreta da maite duzunarentzako oparirik onena.</item>
+        <item>Pertsona batek profil batek baino gehiago balio du.</item>
+        <item>Norbaiti zor diozun elkarrizketa hori. Gaur da.</item>
+        <item>Eskuragarri egotea maitasun modu bat da.</item>
+        <item>Orain norbaitentzat denbora duzu.</item>
+        <item>Inor ez zen bizitzatik jarraitzaile gehiagoren nahian joan.</item>
+        <item>Berriz topatu norbait, urrutitik jarraitu beharrean.</item>
+        <item>Maitasuna ahoz gora esan behar da batzuetan.</item>
+        <item>Zure betiko taldea existitzen da oraindik. Deitu.</item>
+        <item>Zure ondoan norbait hitz egin nahian dago.</item>
+        <item>Konparazioa ez da konexioa.</item>
+        <item>Gaur presentzia izan zaitezke.</item>
+        <item>Eskuz idatzitako ohar bat. Zer ideia.</item>
+        <item>Benetan ezagutzen zaituena ez dago feedean.</item>
+        <item>Partekatu arratsaldea norbaitekin.</item>
+        <item>Ondokoek feedari ematen diozuna merezi dute.</item>
+        <item>Ez duen argitaratzen duen norbaitentzat garrantzitsua zara.</item>
+        <item>Deitu eta galdetu benetan nola dagoen.</item>
+        <item>Bakardadea ez da pantaila gehiagorekin pasatzen.</item>
+        <item>Hurbildu gaur norbaitengana.</item>
+        <item>Elkarrekin egindako otordu batek arratsalde osoak adina balio du.</item>
+        <item>Zure arretak harremanak elikatzen ditu. Elikatu bat.</item>
+        <item>Norbait zutaz pentsatzen ari da orain bertan.</item>
+        <item>Esan norbaiti maite duzula.</item>
+        <item>Adiskidetasunak isiltasunagatik hiltzen dira, ez liskarragatik.</item>
+        <item>Jende ona duzu ondoan. Probestu.</item>
+        <item>Norbaitek konpainia behar du eta zuk bat duzu.</item>
+        <item>Utzi feeda eta aurkitu jendea.</item>
+        <item>Maite zaituenak zure denbora nahi du, ez zure profila.</item>
+        <item>Norbaiten eguna hobetu dezakezu bost minutuan.</item>
+        <item>Sortzeak nekatzen eta betetzen du. Kontsumitzeak atseden ematen eta hustutzen du.</item>
+        <item>Ikusteko baino gehiago duzu esateko.</item>
+        <item>Norbait ikusiko zenukeena sortzen ari da.</item>
+        <item>Idatzi lerro bat. Bakarra.</item>
+        <item>Munduan kontsumitzaile gehiegi dago eta sortzaile gutxiegi.</item>
+        <item>Zure ideia hori zain dago oraindik.</item>
+        <item>Eginda dagoena begiratu beharrean, zerbait egin dezakezu.</item>
+        <item>Gauza on guztiak scrollean ez zegoen norbaitek egin zituen.</item>
+        <item>Zure ideiak gaurko feed osoak baino gehiago balio du.</item>
+        <item>Hasi atzeratzen ari zaren hori. Bost minutu nahikoa dira.</item>
+        <item>Geldituta dagoen proiektuak bultzada bat behar du bakarrik.</item>
+        <item>Pantaila irristatzea ez den zerbaiterako talentua duzu.</item>
+        <item>Egin gaur atzo ez zegoen zerbait.</item>
+        <item>Sortzea ikustea baino dibertigarriagoa da, hasteak kostatzen da bakarrik.</item>
+        <item>Koaderno zuri horrek ez du hozkatzen.</item>
+        <item>Eduki onena zuk egiten duzuna da.</item>
+        <item>Egiten ikasten duzu ikusten baino gehiago.</item>
+        <item>Jo instrumentu bat, marraztu, sukaldatu. Egin zerbait eskuekin.</item>
+        <item>Zure sormena desagertzen da burua feedez betetzen duzunean.</item>
+        <item>Inork oraindik egin ez duen zure lan bat dago.</item>
+        <item>Hasi gaizki. Gero hobetzen da.</item>
+        <item>Egunean paragrafo batek liburu bat bihurtzen da.</item>
+        <item>Kontatzeko istorio bat duzu.</item>
+        <item>Gauzak egitea hutsunearen antidotoa da.</item>
+        <item>Aspertzea sormenaren hasiera da. Utzi existitzen.</item>
+        <item>Zure buruak asmatzen du betetzeari uzten diozunean.</item>
+        <item>Ordaindutako ikastaro hori zain dago.</item>
+        <item>Gaur gauza berri bat ikastea posible da.</item>
+        <item>Kontsumitzea erraza da. Horregatik asetzen du hain gutxi.</item>
+        <item>Zerbait egin nahi duzu. Hasi orain.</item>
+        <item>Bost minutuko praktikak ordubeteko bideoak baino gehiago balio du.</item>
+        <item>Probatu nahi duzun errezeta hori.</item>
+        <item>Ideiak isiltasunean datoz, ez scrollean.</item>
+        <item>Ikuslea izan beharrean egilea izan zaitezke.</item>
+        <item>Proiektu txiki batek astea aldatzen du.</item>
+        <item>Idatzi denbora izango bazenu zer egingo zenukeen. Badaukazu.</item>
+        <item>Zure eskuek gauzak egiten dakite. Erabili.</item>
+        <item>Egin gaur zerbait ez-perfektua.</item>
+        <item>Ikastea entretenitua izatea baino atseginagoa da.</item>
+        <item>Sortzen duzunak irauten du. Irristatzen duzuna desagertzen da.</item>
+        <item>Izkinan utzitako instrumentu hori.</item>
+        <item>Amaitu gabeko proiektu bat duzu zure zain.</item>
+        <item>Sortzea konparatzearen aurkakoa da.</item>
+        <item>Hasi txikian. Hasi gaur.</item>
+        <item>Egunean orrialde batek bizitza desberdina ematen du.</item>
+        <item>Zure irudimenak leku hutsa behar du.</item>
+        <item>Egin bihar harrotasuna emango dizun zerbait.</item>
+        <item>Sortzearen asebetetzeak ez du ordezkorik.</item>
+        <item>Kontsumitu baino gehiago egiteko gai zara.</item>
+        <item>Utzitako zaletasun hori existitzen da oraindik.</item>
+        <item>Hogei minutuko praktika hogei minutuko aurrerapena da.</item>
+        <item>Inor ez da ezertan trebe bihurtzen feeda irristatuz.</item>
+        <item>Zure hurrengo gaitasuna noizbait hasten da. Izan dadila orain.</item>
+        <item>Egin, inork ikusten ez badu ere.</item>
+        <item>Ikasi nahi duzun zerbait badago. Hasi.</item>
+        <item>Kontsumitzea besteen bizitza ikustea da.</item>
+        <item>Eskuak, burua eta denbora dituzu. Hori da behar duzun guztia.</item>
+        <item>Lehen zirriborroa beti da txarra. Egin ezazu.</item>
+        <item>Hitz egin nahi zenuen hizkuntza hori.</item>
+        <item>Sortzea da aspertzea poz bihurtzeko modua.</item>
+        <item>Egunean apur batek edozein trebetasun eraikitzen du.</item>
+        <item>Zerbait duzu barruan irten nahi duena.</item>
+        <item>Idatzi zure egunari buruz. Zuretzat bakarrik.</item>
+        <item>Zure sormena zain dago zarata itzaltzeko.</item>
+        <item>Egin zerbait eskuekin gaur.</item>
+        <item>Zerbait amaitzearen plazerra beste ezerk ez bezalakoa da.</item>
+        <item>Ilusioa egiten zizun proiektu hori. Ilusioa egin diezaioke oraindik.</item>
+        <item>Ez duzu ona izan beharrik hasteko.</item>
+        <item>Sukaldatu zerbait berria. Hori ere sormena da.</item>
+        <item>Bizitza interesgarriagoa da gauzak egiten dituzunean.</item>
+        <item>Inor ez da jakinda jaiotzen. Denek gaizki hasten dute.</item>
+        <item>Gaueko ideia hori. Idatzi ezazu.</item>
+        <item>Baliagarria izan zaitezke norbaitentzat egiten dakizunarekin.</item>
+        <item>Egin apur bat gaur eta apur bat bihar.</item>
+        <item>Hasteko momentu onena pasatu da. Bigarren onena orain da.</item>
+        <item>Zure lana ez da bere kabuz eginen.</item>
+        <item>Praktikatzea aspergarria da ona izan arte.</item>
+        <item>Sortu nahi duzu. Feedak begiratzea nahi du.</item>
+        <item>Hasi zenuen marrazki hori.</item>
+        <item>Egitea ikasteko modurik azkarrena da.</item>
+        <item>Ahotsa duzu. Erabili zerbaitetan.</item>
+        <item>Etxean zerbait konpontzea ere sortzea da.</item>
+        <item>Zure hurrengo lorpena gaurkoa bezalako egun arrunt batean hasten da.</item>
+        <item>Egin zuk bakarrik egingo zenukeen zerbait.</item>
+        <item>Feeda amaigabea da. Zure lanak amaiera du eta horregatik axola du.</item>
+        <item>Gaur zerbait landatu dezakezu. Literalki.</item>
+        <item>Kalkulu-orri hori, plan hori, amets hori.</item>
+        <item>Sortzeak lana ematen du eta horrek merezi izatea ematen dio.</item>
+        <item>Edozein feed baino interesgarriagoa zara.</item>
+        <item>Ikasi hogei minutu. Gutxi da eta asko da.</item>
+        <item>Jakin-mina hobea da praktika bihurtzen denean.</item>
+        <item>Ikasi nahi zenuen abesti hori.</item>
+        <item>Egin gauza erabilgarri eta sinple bat orain.</item>
+        <item>Munduari eskaintzeko gauza on bat duzu.</item>
+        <item>Hasi hasi izanaz eskertuko duzun hori.</item>
+        <item>Proiektu pertsonal batek denborarekiko harremana aldatzen du.</item>
+        <item>Sortzea burua okupatzeko modurik onena da.</item>
+        <item>Gaur zerbait amaitu dezakezu.</item>
+        <item>Jarri eskuak zerbait errealean.</item>
+        <item>Ezerk ez du egina izatearen sentsazioa ordezkatzen.</item>
+        <item>Ondo dago honaino etorri izana. Orain hartu arnasa.</item>
+        <item>Inork ez du ezer kontatzen. Jarraitu aurrera besterik ez.</item>
+        <item>Ondo zoaz, ematen ez badu ere.</item>
+        <item>Presarik gabe eta exijentziarik gabe. Pausa bat besterik ez.</item>
+        <item>Hau ez da proba bat. Gogorarazpen goxo bat besterik ez da.</item>
+        <item>Saiatzen ari zara eta hori nahikoa da jada.</item>
+        <item>Dena ondo dago. Itxi eta jarraitu egunarekin.</item>
+        <item>Hemen ez da beti asmatzeari buruz ezer.</item>
+        <item>Arintasuna merezi duzu gaur.</item>
+        <item>Dramarik gabe. Arnasa hartzeko une bat besterik ez.</item>
+        <item>Hau leku lasai bat da. Gelditu une batez.</item>
+        <item>Ahal duzun onena egiten ari zara. Hori kontatzen da.</item>
+        <item>Hemen ez dago exijentziarik. Zaintza bakarrik.</item>
+        <item>Hartu arnasa. Ez da ezer gaizki gertatzen ari.</item>
+        <item>Honaino iritsi zara eta hori ona da jada.</item>
+        <item>Inork ez du epaitzen. Zuk ere ez zenuke egin behar.</item>
+        <item>Dena ordenan dago. Jarraitu besterik ez.</item>
+        <item>Urrats bat aldiko erritmo zuzena da.</item>
+        <item>Ez duzu honetan perfektua izan beharrik.</item>
+        <item>Poliki ere ibiltzea da.</item>
+        <item>Pantaila honek ez dizu ezer exijitzen.</item>
+        <item>Izan atsegina zeure buruarekin orain.</item>
+        <item>Ondo dago gogoa sentitzea. Parte da.</item>
+        <item>Zeure burua zaintzen ari zara. Hori polita da.</item>
+        <item>Alarmarik gabe, presarik gabe, ikaragarririk gabe.</item>
+        <item>Gizakia zara. Hori baimenduta dago.</item>
+        <item>Ez duzu inori azaldu beharrik.</item>
+        <item>Hartu arnasa sakon. Pasatu da jada.</item>
+        <item>Seguru zaude hemen.</item>
+        <item>Ondo dago gaur zaila bada.</item>
+        <item>Ez dago egunik besteen berdina. Hau ere ez.</item>
+        <item>Bidean zaude, poliki bada ere.</item>
+        <item>Utzi exijentziari atseden pixka bat.</item>
+        <item>Dena ondo dago. Arnasaldi bat besterik ez.</item>
+        <item>Ez duzu beti ondo egon beharrik.</item>
+        <item>Zeure buruarekiko adeitasunak zurruntasunak baino hobeto funtzionatzen du.</item>
+        <item>Une hau lasai pasako da.</item>
+        <item>Zati zaila egin duzu gaur jada.</item>
+        <item>Ezer premiazkorik ez. Ezer larririk ez. Pausa bat besterik ez.</item>
+        <item>Irribarre egin. Hau badirudi baino txikiagoa da.</item>
+        <item>Saiatzen ari zara eta hori da axola duena.</item>
+        <item>Kontu-emanik gabe. Jarraitu besterik ez.</item>
+        <item>Dena ondo dago. Benetan.</item>
+        <item>Egun arin bat merezi duzu.</item>
+        <item>Hartu arnasa. Mundua biraka jarraitzen du.</item>
+        <item>Gaur ez dago presarik.</item>
+        <item>Zure aukerarekin bakean zaude.</item>
+        <item>Ondo dago behar adina aldiz berriz hastea.</item>
+        <item>Hau exijentziarik gabeko leku bat da.</item>
+        <item>Izan pazientzia prozesuarekin.</item>
+        <item>Ez zaude ezertan atzeratuta.</item>
+        <item>Ondo dago ehuneko ehunean ez egotea.</item>
+        <item>Pausa hau zainketa bat da, ez zuzenketa bat.</item>
+        <item>Orain jarraitu besterik ez duzu egin behar.</item>
+        <item>Tentsiorik gabe. Une bat besterik ez.</item>
+        <item>Ondo dago automatikoa izan bada.</item>
+        <item>Ez duzu ondo egoteko arrazoirik behar.</item>
+        <item>Hartu arnasa eta jarraitu. Horren sinplea.</item>
+        <item>Hemen ez dago arazorik.</item>
+        <item>Ondo ari zara egiten.</item>
+        <item>Ondo dago, benetan. Zoaz bakean.</item>
+        <item>Une hau zurea da atseden hartzeko.</item>
+        <item>Ez zaude bakarrik honetan.</item>
+        <item>Dena lasai dago. Jarraitu egunarekin.</item>
+        <item>Pisurik gabe. Gogorarazpen bat besterik ez.</item>
+        <item>Nahikoa zara jada.</item>
+        <item>Bilatzen duzun lasaitasuna ez dago feedean.</item>
+        <item>Dena ondo dago zurekin.</item>
+        <item>Atseden hartu buruak segundo batez.</item>
+        <item>Zainketa hau merezi duzu.</item>
+        <item>Ezer ez da orain konpondu behar.</item>
+        <item>Hartu arnasa behin. Gero jarraitu.</item>
+        <item>Ondo zaude. Hori besterik ez.</item>
+        <item>Exijentziarik gabe, kontu-emanik gabe, markagailurik gabe.</item>
+        <item>Lasaitasun une bat egunaren erdian.</item>
+        <item>Orain zeure buruarekin atsegina izan zaitezke.</item>
+        <item>Dena bakean dago.</item>
+        <item>Ezertarako presarik gabe.</item>
+        <item>Gaur egin zenezakeena egin duzu.</item>
+        <item>Ondo dago. Bihar jarraitzen du.</item>
+        <item>Une hau arnasaldi bat besterik ez da.</item>
+        <item>Seguru zaude eta hori nahikoa da.</item>
+        <item>Hemen ez dago epaiketarik.</item>
+        <item>Hartu arnasa eta zoaz bizitzera.</item>
+        <item>Lasaitasuna merezi duzu gaur.</item>
+        <item>Dena ondo dago edozein erritmotan.</item>
+        <item>Atseden hartu burua pixka bat.</item>
+        <item>Beti zara ongi etorria hemen.</item>
+        <item>Ikaragarririk gabe. Geldialdi azkar bat besterik ez.</item>
+        <item>Bizitza ez da lasterketa bat gaur.</item>
+        <item>Osorik zaude eta hori nahikoa da.</item>
+        <item>Ondo dago saiatu izana.</item>
+        <item>Hemen ez dago ezer zure aurka.</item>
+        <item>Hartu arnasa eta jarraitu poliki.</item>
+        <item>Zaudenean zauden bezala ondo zaude.</item>
+        <item>Hau bakearen une bat da.</item>
+        <item>Exijentziarik gabe. Jarraitu arin.</item>
+        <item>Atseden hartzeko baimena duzu.</item>
+        <item>Hemen dena lasai dago.</item>
+        <item>Zoaz lasai. Eguna zain dago.</item>
+        <item>Zeure buruarekin atsegina zara eta hori indarra da.</item>
+        <item>Zer egingo zenuke orain aplikazio hau existituko ez balitz?</item>
+        <item>Hemen gogoz zaude ala ohituraz?</item>
+        <item>Zer bilatzen zenuen, ba?</item>
+        <item>Honek axola izango du bihar goizean?</item>
+        <item>Orain ikusiko zenukeena gogoratuko duzu?</item>
+        <item>Zer egiten ari zinen telefonoa hartu aurretik?</item>
+        <item>Zenbat denbora eman nahi diozu honi gaur?</item>
+        <item>Aspertuta zaude ala nekatuta?</item>
+        <item>Zer izan zitekeen zure arratsaldea honen ordez?</item>
+        <item>Merezi du?</item>
+        <item>Arrazoi zehatzen batengatik ireki zenuen?</item>
+        <item>Zer atzeratuko zenuke berriro orain sartuko bazina?</item>
+        <item>Nor izan nahi duzu urtebete barru?</item>
+        <item>Zerk egingo lizuke ondo benetan orain?</item>
+        <item>Zerbaitetatik ihes egiten ari zara?</item>
+        <item>Zer moduz atzeratzen ari zaren hori egitea?</item>
+        <item>Zer gertatuko litzateke ixten baduzu besterik gabe?</item>
+        <item>Egiteko zerbait hobea duzu. Zein da?</item>
+        <item>Hau atsedena da ala ihesa?</item>
+        <item>Zer eskatuko lizuke biharko zure bertsioak egiteko?</item>
+        <item>Goseak, logaleak ala aspertuta zaude?</item>
+        <item>Noiz izan zen feedak hobeto utzi zintuen azken aldia?</item>
+        <item>Zer sentitu nahi duzu egunaren amaieran?</item>
+        <item>Zer falta zaizu orain?</item>
+        <item>Hau behar duzu ala nahi duzu bakarrik?</item>
+        <item>Zer gauza txikik hobetuko luke zure eguna orain?</item>
+        <item>Zer egingo zenuke bi ordu libre izango bazenitu?</item>
+        <item>Badakizu jada zer egiten egon beharko zenukeen.</item>
+        <item>Zein da hamabost minutu hauen benetako kostua?</item>
+        <item>Hau nahi duzu ala eskua libre duzu besterik gabe?</item>
+        <item>Zerk merezi luke gehiago orain?</item>
+        <item>Ondo zaude hor?</item>
+        <item>Zein litzateke aukerarik onena orain, lasai pentsatuta?</item>
+        <item>Ordu erdi honetaz harro egongo zara.</item>
+        <item>Zer egingo zenuke inork ikusiko ez balu?</item>
+        <item>Norbait badago dei zenezakeena orain?</item>
+        <item>Zeri ihes egiten saiatzen ari da zure burua?</item>
+        <item>Merezi du zure arratsaldea honengatik aldatzea?</item>
+        <item>Gaurko plan bat duzu. Honek sartzen da bertan?</item>
+        <item>Zein litzateke orain egiteko gauzarik polita?</item>
+        <item>Ondo zaude, zintzoki.</item>
+        <item>Zerk merezi izango luke aste hau?</item>
+        <item>Hau da nahi duzuna ala egiten duzuna?</item>
+        <item>Pentsatu duzu bihar zer egin nahi duzun?</item>
+        <item>Zenbat aldiz hartu duzu telefonoa gaur?</item>
+        <item>Zerk beteko zintuzke ordubete barru?</item>
+        <item>Sartu nahi duzu ala behatza pilotu automatikoan daukazu?</item>
+        <item>Zein da geroko uzten ari zaren gauza garrantzitsua?</item>
+        <item>Zer pentsatuko luke honetaz duela hamar urteko zuk?</item>
+        <item>Benetan atseden hartzen ari zara?</item>
+        <item>Zerbait badago egingo zenukeena ausardia izango bazenu.</item>
+        <item>Zer egin izana nahiko zenuke gaur gauean?</item>
+        <item>Elkarrizketa batek baino gehiago balio du?</item>
+        <item>Zertarako duzu denbora gaur?</item>
+        <item>Zer ohitura izan nahi duzu sei hilabete barru?</item>
+        <item>Zerk eskatzen du benetan zure arreta?</item>
+        <item>Arratsalde hau gogoratu nahiago duzu ala ahaztu?</item>
+        <item>Zein izango litzateke une honen erabilera on bat?</item>
+        <item>Zerbait ikustera zatoz ala zerbait ez sentitzera?</item>
+        <item>Zerk eramango zintuzke gaur ondo lo egitera?</item>
+        <item>Honek zure egunari gehitzen dio ala kentzen dio?</item>
+        <item>Benetan jakin nahi duzu zer dagoen hor?</item>
+        <item>Zein da pantailarik gabe egin duzun azken gauza ona?</item>
+        <item>Zer egingo zenuke internetik gabeko arratsalde batean?</item>
+        <item>Zeren presa duzu?</item>
+        <item>Zer urrats txiki eman zenezake orain?</item>
+        <item>Zerk behar du honek baino arreta gehiago?</item>
+        <item>Arnasa sakon hartu duzu gaur?</item>
+        <item>Zein da hurrengo orduko zure plana?</item>
+        <item>Honek nahi duzun zerbaitengana hurbiltzen zaitu?</item>
+        <item>Hau egingo zenuke miresten duzunaren aurrean?</item>
+        <item>Zer gertatu da gaur ona?</item>
+        <item>Zure egunaren zenbat joan da dagoeneko pantailetara?</item>
+        <item>Ideia bat duzu geldirik zain.</item>
+        <item>Zer egin nahi duzu aste honekin?</item>
+        <item>Merezi du isiltasuna zaratagatik aldatzea?</item>
+        <item>Gaur sortzen ari zara ala kontsumitzen?</item>
+        <item>Zer gauza sinplek egingo lizuke ondo orain?</item>
+        <item>Zer esango zenioke lagun bati egoera honetan?</item>
+        <item>Bost minutu dituzu. Zertarako?</item>
+        <item>Zerk eragozten dizu benetan?</item>
+        <item>Hau da orain egin dezakezun onena?</item>
+        <item>Une honen kontrola duzu.</item>
+        <item>Zein litzateke zeure buruaz harro sentiaraziko zintuen erabakia?</item>
+        <item>Zer egina izan nahi duzu eguna amaitzen denean?</item>
+        <item>Gogoratzen duzu zergatik instalatu zenuen hau?</item>
+        <item>Zer moduz geroko uzten baduzu eta ikusten baduzu oraindik nahi duzun?</item>
+        <item>Zer egingo zenuke gaur ausardia gehiago izango bazenu?</item>
+        <item>Zure egunaren bertsio azkarra nahi duzu ala ona?</item>
+        <item>Zein da gaur zuk bakarrik egin dezakezun gauza?</item>
+        <item>Zer dago kanpoan zure zain?</item>
+        <item>Eskerrak eman dizkiozu gaur ezeri?</item>
+        <item>Zenbat balio dizu hurrengo ordu erdiak?</item>
+        <item>Zer eraman nahi duzu aste honetatik?</item>
+        <item>Hau premiazkoa da ala dirudi bakarrik?</item>
+        <item>Egin nahi duzuna egiten ari zara.</item>
+        <item>Zein litzateke egun honen amaiera on bat?</item>
+        <item>Zer egingo zenuke atseden hartuta egongo bazina?</item>
+        <item>Irristatu nahiago duzu ala bizi orain?</item>
+        <item>Zer moduz itxi eta zer gertatzen den ikustea besterik gabe?</item>
+    </string-array>
+</resources>

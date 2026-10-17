@@ -16,13 +16,14 @@ import {
   validarFaixa,
   validarFaixas,
 } from '../src/components/Bloqueios/horarioLivre';
+import { ptBR } from '../src/i18n/textos/pt-BR';
 
 const almoco = { days: [1, 2, 3, 4, 5], start: 720, end: 780 };
 
 test('formatarHora: HH:MM com zero a esquerda', () => {
-  assert.equal(formatarHora(0), '00:00');
-  assert.equal(formatarHora(495), '08:15');
-  assert.equal(formatarHora(1439), '23:59');
+  assert.equal(formatarHora(0, ptBR), '00:00');
+  assert.equal(formatarHora(495, ptBR), '08:15');
+  assert.equal(formatarHora(1439, ptBR), '23:59');
 });
 
 test('ajustarMinuto: anda de 15 em 15 e da a volta na meia-noite', () => {
@@ -33,23 +34,23 @@ test('ajustarMinuto: anda de 15 em 15 e da a volta na meia-noite', () => {
 });
 
 test('descreverDias: semana inteira, dias uteis, fim de semana e intervalos', () => {
-  assert.equal(descreverDias([1, 2, 3, 4, 5, 6, 7]), 'Todos os dias');
-  assert.equal(descreverDias([5, 1, 2, 3, 4]), 'Seg a sex');
-  assert.equal(descreverDias([6, 7]), 'Sáb e dom');
-  assert.equal(descreverDias([2, 3, 4]), 'Ter a qui');
-  assert.equal(descreverDias([1, 3, 5]), 'Seg, qua e sex');
-  assert.equal(descreverDias([5]), 'Sex');
+  assert.equal(descreverDias([1, 2, 3, 4, 5, 6, 7], ptBR), 'Todos os dias');
+  assert.equal(descreverDias([5, 1, 2, 3, 4], ptBR), 'Seg a sex');
+  assert.equal(descreverDias([6, 7], ptBR), 'Sáb e dom');
+  assert.equal(descreverDias([2, 3, 4], ptBR), 'Ter a qui');
+  assert.equal(descreverDias([1, 3, 5], ptBR), 'Seg, qua e sex');
+  assert.equal(descreverDias([5], ptBR), 'Sex');
 });
 
 test('regressao: dia repetido ou fora de 1..7 nao entra na descricao', () => {
-  assert.equal(descreverDias([1, 1, 2, 3, 9]), 'Seg a qua');
-  assert.equal(descreverDias([]), 'Nenhum dia');
+  assert.equal(descreverDias([1, 1, 2, 3, 9], ptBR), 'Seg a qua');
+  assert.equal(descreverDias([], ptBR), 'Nenhum dia');
 });
 
 test('descreverFaixa: diz quando a faixa termina no dia seguinte', () => {
-  assert.equal(descreverFaixa(almoco), 'Seg a sex · 12:00–13:00');
+  assert.equal(descreverFaixa(almoco, ptBR), 'Seg a sex · 12:00–13:00');
   assert.equal(
-    descreverFaixa({ days: [5], start: 22 * 60, end: 2 * 60 }),
+    descreverFaixa({ days: [5], start: 22 * 60, end: 2 * 60 }, ptBR),
     'Sex · 22:00–02:00 do dia seguinte'
   );
   assert.equal(atravessaMeiaNoite({ days: [5], start: 1320, end: 120 }), true);
@@ -57,17 +58,20 @@ test('descreverFaixa: diz quando a faixa termina no dia seguinte', () => {
 });
 
 test('legendaComHorarios: singular, plural e nada sem horario', () => {
-  assert.equal(legendaComHorarios(0), null);
-  assert.equal(legendaComHorarios(1), '1 horário livre');
-  assert.equal(legendaComHorarios(3), '3 horários livres');
+  assert.equal(legendaComHorarios(0, ptBR), null);
+  assert.equal(legendaComHorarios(1, ptBR), '1 horário livre');
+  assert.equal(legendaComHorarios(3, ptBR), '3 horários livres');
 });
 
 test('validarFaixa: sem dia, inicio igual ao fim e horario fora do dia sao recusados', () => {
-  assert.equal(validarFaixa(almoco), null);
-  assert.equal(validarFaixa({ ...almoco, days: [] }), 'Escolha pelo menos um dia.');
-  assert.equal(validarFaixa({ ...almoco, end: 720 }), 'O início e o fim não podem ser iguais.');
-  assert.equal(validarFaixa({ ...almoco, end: 1440 }), 'Horário inválido.');
-  assert.equal(validarFaixa({ ...almoco, days: [8] }), 'Dia da semana inválido.');
+  assert.equal(validarFaixa(almoco, ptBR), null);
+  assert.equal(validarFaixa({ ...almoco, days: [] }, ptBR), 'Escolha pelo menos um dia.');
+  assert.equal(
+    validarFaixa({ ...almoco, end: 720 }, ptBR),
+    'O início e o fim não podem ser iguais.'
+  );
+  assert.equal(validarFaixa({ ...almoco, end: 1440 }, ptBR), 'Horário inválido.');
+  assert.equal(validarFaixa({ ...almoco, days: [8] }, ptBR), 'Dia da semana inválido.');
 });
 
 test('validarFaixas: teto por app igual ao do core', () => {
@@ -76,12 +80,12 @@ test('validarFaixas: teto por app igual ao do core', () => {
     start: i * 60,
     end: i * 60 + 30,
   }));
-  assert.equal(validarFaixas(muitas), `No máximo ${MAX_FAIXAS} horários livres por app.`);
-  assert.equal(validarFaixas(muitas.slice(0, MAX_FAIXAS)), null);
+  assert.equal(validarFaixas(muitas, ptBR), `No máximo ${MAX_FAIXAS} horários livres por app.`);
+  assert.equal(validarFaixas(muitas.slice(0, MAX_FAIXAS), ptBR), null);
 });
 
 test('faixaInicial: o formulario ja abre com uma faixa valida', () => {
-  assert.equal(validarFaixa(faixaInicial()), null);
+  assert.equal(validarFaixa(faixaInicial(), ptBR), null);
 });
 
 test('mesmasFaixas: ordem dos dias nao conta, horario conta', () => {
@@ -101,7 +105,10 @@ test('agruparPorApp: lista achatada do nativo vira mapa por app', () => {
 });
 
 test('barreira: modo restrito pausa os horarios livres, e nao ha o que abrir nas configuracoes', () => {
-  const aviso = avisoDoHorario({ restricted: true, automaticTime: true, automaticZone: true });
+  const aviso = avisoDoHorario(
+    { restricted: true, automaticTime: true, automaticZone: true },
+    ptBR
+  );
   assert.equal(aviso?.titulo, 'Horários livres pausados');
   assert.equal(aviso?.podeAbrirConfiguracoes, false);
 });
@@ -111,7 +118,7 @@ test('barreira: hora ou fuso manual pede para ligar o automatico', () => {
     { restricted: false, automaticTime: false, automaticZone: true },
     { restricted: false, automaticTime: true, automaticZone: false },
   ]) {
-    const aviso = avisoDoHorario(estado);
+    const aviso = avisoDoHorario(estado, ptBR);
     assert.equal(aviso?.titulo, 'Ligue data e hora automáticas');
     assert.equal(aviso?.podeAbrirConfiguracoes, true);
   }
@@ -119,7 +126,7 @@ test('barreira: hora ou fuso manual pede para ligar o automatico', () => {
 
 test('feliz: com tudo automatico e sem modo restrito nao ha aviso', () => {
   assert.equal(
-    avisoDoHorario({ restricted: false, automaticTime: true, automaticZone: true }),
+    avisoDoHorario({ restricted: false, automaticTime: true, automaticZone: true }, ptBR),
     null
   );
 });

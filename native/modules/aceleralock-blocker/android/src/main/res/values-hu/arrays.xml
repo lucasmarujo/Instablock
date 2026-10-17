@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Magyar: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>Az idő, amit itt nem töltesz el, egészben visszakerül az életedbe.</item>
+        <item>Minden perc ezen a képernyőn kívül újra a tiéd.</item>
+        <item>Ez a húsz perc belefér egy sétába.</item>
+        <item>Ha leáll a görgetés, a napban több hely van, mint gondolnád.</item>
+        <item>Most visszaszereztél egy darabot a délutánodból.</item>
+        <item>Napi egy óra évente tizenöt napot tesz ki.</item>
+        <item>Az idő nem jön vissza, de még eldöntheted, mire megy el.</item>
+        <item>Ez a szünet a tiéd. Senkinek sem kell tudnia, mit kezdtél vele.</item>
+        <item>Az appon kívül egy egész élet zajlik.</item>
+        <item>Az óra a képernyő mindkét oldalán ugyanúgy jár.</item>
+        <item>Most időt nyertél. Töltsd valamivel, amire holnap is emlékszel.</item>
+        <item>Senki sem kívánja a nap végén, bárcsak többet görgetett volna.</item>
+        <item>Az itt töltött tizenöt perc máshol is tizenöt perc lenne.</item>
+        <item>Gondolj bele, mit kezdtél volna ezzel a fél órával tíz éve.</item>
+        <item>Az időd az egyetlen, amit nem vehetsz vissza.</item>
+        <item>Az egész délután még előtted áll.</item>
+        <item>Ez a perc lehet valami más kezdete.</item>
+        <item>Órákat adsz vissza magadnak, egyenként.</item>
+        <item>Az itt megspórolt idő nem tűnik el. Máshol bukkan fel újra.</item>
+        <item>Tíz perc kevésnek tűnik, amíg össze nem adod egy hónapra.</item>
+        <item>Az élet a saját tempójában halad, nem a hírfolyaméban.</item>
+        <item>Ma több időd van, mint tegnap ilyenkor.</item>
+        <item>Amit régóta halogatsz, pont belefér ebbe a szünetbe.</item>
+        <item>Ez a szünet rövid. Ami belőle születik, nem biztos, hogy az lesz.</item>
+        <item>Egy napba sok minden belefér, ha a görgetés kikerül belőle.</item>
+        <item>Most visszakaptad az estéd hátralévő részét.</item>
+        <item>Az idő a fizetőeszköz. Most úgy döntöttél, nem költöd el.</item>
+        <item>A hírfolyamnak sosincs vége. A napodnak viszont van.</item>
+        <item>Napi fél óra havonta egy egész könyv.</item>
+        <item>Odabent semmi sürgős nem várt rád.</item>
+        <item>Ez az idő eddig is a tiéd volt. Most újra nálad van.</item>
+        <item>A délelőttből még sok kijöhet, ha most kezdődik.</item>
+        <item>Nem maradtál le semmiről. Nyertél egy kis szünetet.</item>
+        <item>Az időt senki nem adja vissza. Nekünk kell megtartanunk.</item>
+        <item>Ezek a percek odakint többet érnek, és ezt te is tudod.</item>
+        <item>Ami ott volt, ott is marad. Az időd viszont nem.</item>
+        <item>Egy élet ilyen délutánokból áll össze.</item>
+        <item>A napot zárhatod valamivel, amit megcsináltál, nem csak megnéztél.</item>
+        <item>Napi két óra évente egy teljes hónap.</item>
+        <item>Amit ma megóvsz az idődből, az holnapra is megmarad.</item>
+        <item>A napnak ez az a része, amiről csak te döntesz.</item>
+        <item>Odabent senki nem írt semmit, ami megérné a délutánodat.</item>
+        <item>Napi harminc percből egy év alatt bármi felépülhet.</item>
+        <item>Most vettél magadnak egy kis csendet.</item>
+        <item>A nap nagyobb lesz, ha a hírfolyam kisebb.</item>
+        <item>Ez az idő most nyersanyag. Alkoss belőle valamit.</item>
+        <item>Van egy saját terved, ami pont erre a szünetre vár.</item>
+        <item>Amit itt nyersz, nem látszik semmilyen képernyőn, csak az életedben.</item>
+        <item>A szabadidő ritka kincs. Most teremtettél egy kicsit.</item>
+        <item>Élete végén senki sem kért még egy görgetést.</item>
+        <item>Előtted az egész délután, és még semmit sem költöttél el belőle.</item>
+        <item>Egy év háromszázhatvanöt ilyen döntésből áll.</item>
+        <item>Ez a szünet kicsi, de teljesen a tiéd.</item>
+        <item>Az idő ugyanúgy telik. A különbség az, ami utána marad.</item>
+        <item>Most kivettél fél órát a robotpilóta kezéből.</item>
+        <item>A nap többi része hálás ezért a megállásért.</item>
+        <item>Ott öt percből észrevétlenül negyven lesz.</item>
+        <item>Tudod, mibe kerül ez az öt perc. Ezért vagy itt.</item>
+        <item>Amit most megóvsz, az az óra, amit este hiányolni szoktál.</item>
+        <item>Odabent semmi sem lesz jobb attól, hogy most nézed meg, nem később.</item>
+        <item>Most te döntötted el, hová megy a következő perc.</item>
+        <item>Ebbe az időbe belefér egy beszélgetés, egy séta vagy egy szundi.</item>
+        <item>A nap akkor ér sokat, ha nem csorognak el az órák.</item>
+        <item>A következő fél óra egyedül a tiéd.</item>
+        <item>Van a mai napnak egy változata, amelyben alkottál valamit. Most kezdődik.</item>
+        <item>Az időt nem lehet felhalmozni. Csak jobban vagy rosszabbul lehet elkölteni.</item>
+        <item>Ezekből a percekből igazi pihenés lehet.</item>
+        <item>Most leszálltál egy futópadról, ami sehová sem visz.</item>
+        <item>Egy hétben százhatvannyolc óra van. Ez itt a tiéd.</item>
+        <item>A hírfolyam apró darabokban viszi el az időt, hogy senkinek ne hiányozzon.</item>
+        <item>Most megcsinálhatod azt, amit minden nap holnapra hagysz.</item>
+        <item>A délutánodnak nem kell beleférnie egy képernyőbe.</item>
+        <item>A megmaradt idő teszi a napot jó értelemben hosszúvá.</item>
+        <item>Most visszaadtad magadnak a következő órát.</item>
+        <item>Abból, amit most látnál, egy hét múlva semmire sem emlékeznél.</item>
+        <item>Az ilyen percekből épül fel vagy foszlik szét egy év.</item>
+        <item>Időt nyertél. Nem kell gyorsan elköltened.</item>
+        <item>Egy görgetés nélküli napba több minden belefér.</item>
+        <item>Az óra nem különbözteti meg a jól töltött időt az elpazarolttól. Te igen.</item>
+        <item>Ez az óra ugyanannyit ér, mint az életed bármely más órája.</item>
+        <item>Most van időd. Ez ritkább, mint gondolnád.</item>
+        <item>Csak úgy lesz időd, ha megőrzöd.</item>
+        <item>Még előtted az egész este.</item>
+        <item>Ezekkel a percekkel kezdődik egy délután, amire emlékezni fogsz.</item>
+        <item>Most elkerülted azt az egyórás örvényt.</item>
+        <item>Minden, ami időt kíván, pont ilyen döntést kíván.</item>
+        <item>Mostantól vacsoráig még sok minden belefér.</item>
+        <item>Levetted a lábad a gázról. A nap is lelassul veled.</item>
+        <item>A hetedben van hely. Csak eddig más foglalta el.</item>
+        <item>Minden alkalommal, amikor itt bezárod, a nap egy kicsit nagyobb lesz.</item>
+        <item>Az idő olyan ajándék, amit fillér nélkül adhatsz magadnak.</item>
+        <item>Most pont az van a kezedben, amiről egész nap azt mondod, hogy nincs.</item>
+        <item>Egy hosszú délután ilyen rövid döntésekből áll.</item>
+        <item>Senki sem fogja megkérdezni, mit csináltál ezzel a fél órával.</item>
+        <item>Az idő, amit ma nem adsz oda, holnap is veled lesz.</item>
+        <item>Napi húsz perc évente százhúsz óra.</item>
+        <item>Most visszaszerezted az elalvás előtti időt.</item>
+        <item>Két értesítés között rengeteg élet fér el.</item>
+        <item>Az egész nap a tiéd marad, ha nem adod oda darabonként.</item>
+        <item>Eddig is vigyáztál az idődre. Ez is egy ilyen alkalom.</item>
+        <item>A figyelmed a világ legkeresettebb kincse. Most te nyertél.</item>
+        <item>A fókusz húsz perc alatt tér vissza. Ne add oda most.</item>
+        <item>Egy összeszedett elme többet ér egy szétszabdaltnál.</item>
+        <item>Mielőtt idejöttél, valamire koncentráltál.</item>
+        <item>A megosztott figyelem nem figyelem. Csak fáradtság.</item>
+        <item>Amit csináltál, megérdemli a teljes figyelmedet.</item>
+        <item>A mély gondolkodáshoz zavartalan idő kell. Ez az.</item>
+        <item>Minden képernyőváltás többe kerül, mint amit az óra mutat.</item>
+        <item>Az elméd jól haladt. Hagyd, hogy folytassa.</item>
+        <item>Az elmélyült munka nem éli túl a görgetést.</item>
+        <item>A hírfolyamot arra tervezték, hogy elvigye a figyelmedet. Te észrevetted.</item>
+        <item>Egy hosszú gondolatnak csend kell, hogy végigérjen.</item>
+        <item>Képes vagy egy egész ötletet a fejedben tartani. Csak tér kell hozzá.</item>
+        <item>Az elterelődés nem pihenés. A pihenés feltölt.</item>
+        <item>A koncentrációd még itt van valahol. Térj vissza hozzá.</item>
+        <item>A figyelmed ma nem eladó.</item>
+        <item>A legjobb gondolataid a huszadik perc után jönnek.</item>
+        <item>Ha most megszakítod, többe kerül, mint gondolnád.</item>
+        <item>Képes vagy olyan dolgokra, amelyek fókuszt kívánnak. Kezdd azzal, hogy megvéded.</item>
+        <item>Odabent semminek sincs sürgősen szüksége a figyelmedre.</item>
+        <item>Egy összpontosított óra többet ér négy szétszabdalt óránál.</item>
+        <item>A fejed jobban működik, ha nem ugrálsz a témák között.</item>
+        <item>Amit félbehagytál, ma még befejezheted.</item>
+        <item>A fókusz nem akaraterő kérdése, hanem környezeté. Most rendet tettél a tiédben.</item>
+        <item>Az a nehéz probléma enged, ha kitartasz mellette.</item>
+        <item>A figyelmed véges. Ezért ér ennyit.</item>
+        <item>Nem kell most mindenről tudnod.</item>
+        <item>A zaj ott marad. A te csended az, ami ritka.</item>
+        <item>Nagy dolgokat olyanok alkottak, akiket nem zavartak meg.</item>
+        <item>Térj vissza ahhoz, amit csináltál. A gondolataid még ott vannak.</item>
+        <item>Egyszerre egy feladat gyorsabb, mint hinnéd.</item>
+        <item>A sürgetés, hogy ránézz, elmúlik. A félbeszakított ötlet néha nem tér vissza.</item>
+        <item>Jobban tudsz koncentrálni, mint amennyire mostanában használod.</item>
+        <item>A jó gondolkodás lassú. Hagyd, hogy lassú legyen.</item>
+        <item>A figyelmed ma felépített valamit. Ne bontsd le kíváncsiságból.</item>
+        <item>Ami gondolkodást kíván, az a teljes figyelmedet kívánja.</item>
+        <item>Egy hírfolyam sem tanít meg arra, amire egy óra fókusz.</item>
+        <item>Minden elhessegetett értesítés egy kis tisztánlátás.</item>
+        <item>Közel jártál a megértéshez. Menj vissza oda.</item>
+        <item>A pihent elme az, amit nem rángattak egész nap.</item>
+        <item>A figyelmed az az anyag, amiből minden mást felépítesz.</item>
+        <item>Elkezdeni a nehéz. Te már elkezdted. Ne kezdd újra a nulláról.</item>
+        <item>Hagyd pihenni a témát, és a fejedben magától megoldódik.</item>
+        <item>A tisztánlátás akkor jön, amikor elhallgat a zaj.</item>
+        <item>A napod legjobb munkája még hátravan.</item>
+        <item>Nem az idő kevés, hanem a zavartalan idő.</item>
+        <item>Jobban gondolkodsz, mint ahogy a hírfolyam engedi.</item>
+        <item>Az a szöveg, az a kód, az a beszélgetés. Mind a teljes figyelmedre várnak.</item>
+        <item>A koncentráció izom. Az ilyen napoktól erősödik, mint a mai.</item>
+        <item>A fejed most hálás neked.</item>
+        <item>Egyszerre egy dolog: még mindig ez a legfejlettebb technika.</item>
+        <item>Amit odafigyeléssel csinálsz, az megmarad. A többi elmúlik.</item>
+        <item>A gondolkodáshoz nincs rövidítés. Csak zavartalan idő.</item>
+        <item>Megérdemled, hogy végiggondolj egy gondolatot.</item>
+        <item>Az elméd éles volt. Ne veszítsd el a fonalat.</item>
+        <item>A képernyő villog. Az ötletek nem. Maradj az ötleteknél.</item>
+        <item>Egy fókuszált nap felér három kapkodós nappal.</item>
+        <item>Nem vagy lassú. Csak folyton megzavartak.</item>
+        <item>Ami ma igazán számít, az nem a hírfolyamban van.</item>
+        <item>Irányban maradni olcsóbb, mint visszatalálni.</item>
+        <item>A teljes figyelmed ajándék. Annak add, aki megérdemli.</item>
+        <item>A jó ötletek a csendben születnek.</item>
+        <item>Valami jónak a közepén jártál.</item>
+        <item>Senki sem tud tisztán gondolkodni, ha a feje tíz helyen jár.</item>
+        <item>A mélység csak akkor jön, ha egy ideig kitartasz a felszínen.</item>
+        <item>A fókusz nem arról szól, hogy többet csinálj, hanem hogy jól.</item>
+        <item>Ma van egy fontos dolgod. Nem a hírfolyam az.</item>
+        <item>Hagyd, hogy a fejed befejezze a mondatot, amit elkezdett.</item>
+        <item>Egy zavartalan óra megváltoztatja, mi fér bele a napba.</item>
+        <item>Ami most nehéznek tűnik, folyamatos figyelemmel könnyű lesz.</item>
+        <item>A koncentrációd az előnyöd. Kevesen őrizték meg a sajátjukat.</item>
+        <item>Ne cserélj el egy fontos dolgot sok gyors apróságra.</item>
+        <item>A kíváncsiság várhat. A fókusz nem vár.</item>
+        <item>Valamit építesz. Folytasd.</item>
+        <item>A feladatváltás produktívnak tűnik, de szinte sosem az.</item>
+        <item>Még ott a lehetőség, hogy ma a legjobbat hozd ki a fejedből.</item>
+        <item>A figyelem, amit most megőrzöl, később az eredményben látszik.</item>
+        <item>Az elméd nem hírfolyam. Azt őrzi meg, amire figyelsz.</item>
+        <item>Ritka az a téma, ami megérdemli a teljes figyelmedet. Élj vele.</item>
+        <item>A nehéz nem lehetetlen. Csak időbe telik.</item>
+        <item>Néhány percre vagy attól, hogy átlendülj rajta.</item>
+        <item>A zaj eltűnik, ha nem táplálod tovább.</item>
+        <item>Maradj annál, amit csináltál, amíg be nem fejezed.</item>
+        <item>Egy mély merülés tíz sekélyet is megér.</item>
+        <item>A figyelmed dönti el, miből lesz emlék.</item>
+        <item>Arra emlékszel, amire figyeltél. Csak arra.</item>
+        <item>A gondolkodás a legjövedelmezőbb dolog, amit ma csinálsz.</item>
+        <item>A nyugodt fej megoldja, amit a kapkodó észre sem vesz.</item>
+        <item>A jó munkához türelem kell, nem sebesség.</item>
+        <item>Semmi, amit most látnál, nem kerülne szóba holnap.</item>
+        <item>A mai tisztánlátásod ilyen döntésekkel kezdődött.</item>
+        <item>A megszakítás a létező legdrágább adó.</item>
+        <item>Tovább tudsz egyetlen dolognál maradni, mint gondolnád.</item>
+        <item>Az a részlet, ami eddig kicsúszott a kezedből, a csendben előbukkan.</item>
+        <item>A fókusz visszatér. Csak pár perc kell képernyő nélkül.</item>
+        <item>Képes vagy hosszan figyelni. Csak a hírfolyam fogad az ellenkezőjére.</item>
+        <item>Ma befejezni egy dolgot többet ér, mint elkezdeni ötöt.</item>
+        <item>A teljes figyelmed még neked is ritkaság.</item>
+        <item>Hagyd lélegezni a gondolatot.</item>
+        <item>Amit fókusszal építesz, azt senki sem görgeti tovább.</item>
+        <item>A késztetés, hogy megnyisd, pár perc alatt elmúlik. Mindig elmúlik.</item>
+        <item>Ennek a késztetésnek lejárati ideje van. Magától lejár.</item>
+        <item>Nem kell tenned semmit. Csak várd meg, amíg a hullám elül.</item>
+        <item>A sürgetés, amit most érzel, nem a tiéd. Megtanították neked.</item>
+        <item>Vegyél egy levegőt. A késztetés már kisebb, mint egy perce.</item>
+        <item>A késztetés eleinte erős, aztán félúton eltűnik.</item>
+        <item>Nem te akarod. A szokás kéri.</item>
+        <item>Rövid ideig kellemetlen. Aztán elmúlik.</item>
+        <item>Éreztél már ilyet, és minden alkalommal túlélted.</item>
+        <item>A késztetés hullámokban jön. A hullámok megtörnek.</item>
+        <item>Senkinek sem kell engedelmeskednie a nap első késztetésének.</item>
+        <item>Ez a szorítás a mellkasodban rövidebb ideig tart egy dalnál.</item>
+        <item>Több vagy egy harmincmásodperces késztetésnél.</item>
+        <item>Hagyd elmúlni a késztetést, ne kezdj vele semmit.</item>
+        <item>Ez a rossz érzés azt jelzi, hogy a szokás enged. Ez haladás.</item>
+        <item>Nem küzdesz. Csak vársz.</item>
+        <item>A késztetés hevesen érkezik, és csendben távozik.</item>
+        <item>Számolj húszig. Addigra már kisebb lesz.</item>
+        <item>Kívánni valamit nem ugyanaz, mint szükséged lenni rá.</item>
+        <item>A késztetés azonnali választ akar. Ne adj neki semmilyet.</item>
+        <item>Ez a legnehezebb pillanat, és rövid.</item>
+        <item>Nem kell harcolnod. Csak ne most dönts.</item>
+        <item>A késztetés eltűnik, ha senki sem táplálja.</item>
+        <item>Ez szorongás, nem tartalomra való éhség.</item>
+        <item>Figyeld meg a késztetést anélkül, hogy belemerülnél.</item>
+        <item>Az agyad a szokásosat kéri. Nem kötelező felszolgálnod.</item>
+        <item>Öt perc, és már nem is emlékszel, hogy meg akartad nyitni.</item>
+        <item>A hullám most emelkedik. De mindig visszahúzódik.</item>
+        <item>A legnehezebb részen már túl vagy.</item>
+        <item>A késztetés hazudik arról, milyen erős.</item>
+        <item>Állj fel, igyál vizet, gyere vissza. Már el is múlt.</item>
+        <item>A késztetés nem parancs.</item>
+        <item>Érezheted ezt úgy is, hogy nem teszel semmit. Szabad.</item>
+        <item>A tested mozgást kér, nem képernyőt.</item>
+        <item>Ez a vágy automatikus. A válaszodnak nem kell annak lennie.</item>
+        <item>Semmi rossz nem történik, ha vársz még egy kicsit.</item>
+        <item>A késztetés magától elillan, ha teret adsz neki.</item>
+        <item>Csak nyugtalan vagy. Ez elmúlik, és nem kell hozzá képernyő.</item>
+        <item>A késztetés csak javaslat. Te döntesz.</item>
+        <item>Még egy perc, és a késztetés már egészen más.</item>
+        <item>A nehéz rész rövid. A jó rész egész nap tart.</item>
+        <item>Ez az a híres kis lökés. Nem is lök olyan nagyot.</item>
+        <item>Várj ítélkezés nélkül. A késztetés magától szertefoszlik.</item>
+        <item>Az agyad a megszokott rövidítést kéri.</item>
+        <item>Nem kell legyőznöd semmit. Csak hagyd elmúlni.</item>
+        <item>Minden hullám, amit elengedsz, kisebbé teszi a következőt.</item>
+        <item>A szorongás gyors megoldást akar. Itt nem fog találni.</item>
+        <item>Maradj egy pillanatig nyugton. A késztetés nem marad.</item>
+        <item>Semmiről sem maradsz le, ha vársz.</item>
+        <item>Az unalom nem vészhelyzet.</item>
+        <item>Teljesen normális, ha most ürességet érzel. Magától megtelik.</item>
+        <item>Amikor rá akarsz nézni valamire, ritkán arról a valamiről szól.</item>
+        <item>Kényelmetlenül érzed magad, de nem vagy veszélyben.</item>
+        <item>Ez pillanatokon belül enyhülni fog.</item>
+        <item>A szokás erős, de rövid életű.</item>
+        <item>Ezt most engedd el. Csak ezt az egyet.</item>
+        <item>A következő alkalom könnyebb lesz, ennek köszönhetően.</item>
+        <item>Nem kell meggyőznöd magad semmiről. Csak várnod kell.</item>
+        <item>Egy pohár víz többet segít, mint egy kör görgetés.</item>
+        <item>Ez a sürgetés hamis, és te ezt tudod.</item>
+        <item>A késztetés nem bírja, ha nem kap választ.</item>
+        <item>Várj harminc másodpercet. Aztán dönts újra.</item>
+        <item>Most vagy a csúcson. Innentől csak lefelé visz az út.</item>
+        <item>Most semmi sem várja, hogy reagálj.</item>
+        <item>A késztetés csak vendég. Elmegy.</item>
+        <item>Nem te vagy a késztetés. Te vagy az, aki figyeli.</item>
+        <item>A tested ellazul, ha adsz neki egy percet.</item>
+        <item>Ez csak az agyad, ami ingert keres. Talál majd mást.</item>
+        <item>Három mély levegő megváltoztatja, milyen erős ez az érzés.</item>
+        <item>A késztetés összezsugorodik, ha szembenézel vele.</item>
+        <item>Ezt a percet kibírod. Kibírtál már rosszabbat is.</item>
+        <item>A kellemetlen érzés akkor is elmúlik, ha nem teszel semmit.</item>
+        <item>A kezed gyorsabb volt a fejednél. Előfordul.</item>
+        <item>Az első tíz másodpercben semmiről sem kell döntened.</item>
+        <item>Pár pillanat, és már nem is fogsz emlékezni erre.</item>
+        <item>Megjött a kiváltó inger. A válasz továbbra is rajtad múlik.</item>
+        <item>Hagyd, hogy a késztetés létezzen, de ne engedelmeskedj neki.</item>
+        <item>Ez nem sóvárgás. Csak megszokás.</item>
+        <item>Várj. Szó szerint ennyi a dolgod.</item>
+        <item>A fejed magától megnyugszik, ha nem teszel több fát a tűzre.</item>
+        <item>Már most is vársz. Ez maga a győzelem.</item>
+        <item>A késztetés elveszíti az erejét, ha zárt ajtóba ütközik.</item>
+        <item>Minden itt töltött másodperc előnyt jelent.</item>
+        <item>A hullám megtört. Figyeld meg, mennyivel könnyebb már.</item>
+        <item>Nem kell indok ahhoz, hogy ne nyisd meg.</item>
+        <item>A vágy gyorsabban elmúlik, mint a megbánás.</item>
+        <item>Egy kis nyújtás megoldja, amit a hírfolyam nem oldana meg.</item>
+        <item>Amíg ezt olvasod, a késztetés már távozóban van.</item>
+        <item>Most ne dönts semmiről. Csak lélegezz.</item>
+        <item>A késztetés magától jön és magától megy.</item>
+        <item>Ez itt a legnehezebb rész. És gyorsan véget ér.</item>
+        <item>Idáig kibírtad. Már csak másodpercek vannak hátra.</item>
+        <item>A tested képernyőt kér, amikor pihenésre vágyik. Adj neki pihenést.</item>
+        <item>A késztetés minden alkalommal kisebb lesz, amikor nem teljesíted.</item>
+        <item>Várj még egy kicsit. Ennyi az egész.</item>
+        <item>A pillanat elmúlik. A döntés megmarad.</item>
+        <item>Most jutottál át a szűk szakaszon.</item>
+        <item>Emberi dolog, hogy kívánsz valamit. Az is, hogy nem engedsz neki.</item>
+        <item>A nyugalom pillanatok alatt visszatér, ha nem erőlteted.</item>
+        <item>Már könnyebb, ugye?</item>
+        <item>Ezt nyugodt pillanatodban döntötted el. Bízz abban, aki döntött.</item>
+        <item>A tegnapi éned gondoskodott a mostaniról.</item>
+        <item>Ez a képernyő egy üzenet tőled saját magadnak.</item>
+        <item>Ez nem akadály, hanem emlékeztető.</item>
+        <item>Az, aki lenni szeretnél, nem görgetéssel tölti a délutánt.</item>
+        <item>Ez a te döntésed volt. És most is az.</item>
+        <item>Te az az ember vagy, aki észrevette, és tett valamit.</item>
+        <item>Senki sem kényszerített, hogy telepítsd. Te akartad.</item>
+        <item>A holnapi éned hálás lesz a mostaninak.</item>
+        <item>Már most olyan ember vagy, aki vigyáz a saját idejére.</item>
+        <item>Ez nem büntetés. Ez megállapodás.</item>
+        <item>Ezt a szabályt te írtad. És működik.</item>
+        <item>A saját figyelmed gazdájának lenni napi döntés.</item>
+        <item>Itt senkinek sem kell bizonyítanod semmit.</item>
+        <item>Az, aki lenni szeretnél, apró döntésekkel kezdődik.</item>
+        <item>A képernyő jó oldalán állsz.</item>
+        <item>Minden bezárással egyre inkább az leszel, aki lenni szeretnél.</item>
+        <item>Nem az vagy, amire vágysz, hanem amit teszel.</item>
+        <item>A magaddal kötött megállapodás ugyanannyit ér, mint bármely más.</item>
+        <item>Felismertél egy mintát, és változtattál rajta. Ez ritka.</item>
+        <item>Több vagy, mint a zsebedben lévő appok.</item>
+        <item>Ez a te szabályod, és melletted áll.</item>
+        <item>Jogod van megváltoztatni a szokásaidat.</item>
+        <item>Az vagy, amit újra meg újra megteszel.</item>
+        <item>Egy tágasabb életet választottál.</item>
+        <item>Nem az app parancsol neked.</item>
+        <item>Az, aki vagy, nem fér bele egy hírfolyamba.</item>
+        <item>Te vagy az, aki okkal telepítette ezt.</item>
+        <item>Emlékezz az okra. Még mindig érvényes.</item>
+        <item>Kitartasz egy saját döntésed mellett.</item>
+        <item>Senki sem dönthet helyetted a figyelmedről.</item>
+        <item>Észrevetted, mi történik. Ez már mindent megváltoztat.</item>
+        <item>A saját napod irányítása folyamatos munka.</item>
+        <item>Nem utas vagy. Te vezetsz.</item>
+        <item>Ez olyasvalaki döntése, aki komolyan veszi önmagát.</item>
+        <item>Te felelsz magadért. És most meg is teszed.</item>
+        <item>Az idődnek van gazdája. Éppen ezt olvassa.</item>
+        <item>Megállapodtál magaddal. Tartsd magad hozzá.</item>
+        <item>Minden ilyen döntés közelebb visz ahhoz, aki lenni szeretnél.</item>
+        <item>Nem a szabadságodat veszíted el. Éppen élsz vele.</item>
+        <item>Hogy most mit csinálsz, arról te döntesz.</item>
+        <item>Nem kell engedély ahhoz, hogy másképp élj.</item>
+        <item>Ez a határ gondoskodás, nem ketrec.</item>
+        <item>Egy nehezebb, de sokkal inkább a saját utadat választottad.</item>
+        <item>Akit csodálsz, az is nemet mondana most.</item>
+        <item>Te az életedben élsz, nem az appban.</item>
+        <item>A te időd, a te fejed, a te döntésed.</item>
+        <item>Betartod, amit magadnak ígértél. Ez számít.</item>
+        <item>Senki sem fog helyetted vigyázni a figyelmedre.</item>
+        <item>Már bebizonyítottad, hogy képes vagy irányt váltani.</item>
+        <item>Az önállóság ez: előre dönteni, nem pillanatnyi késztetésből.</item>
+        <item>Olyasvalakit építesz, akit tisztelsz.</item>
+        <item>Ez az a változatod, amelyik tervez.</item>
+        <item>Nem véletlenül kerültél ide. Te állítottad be.</item>
+        <item>A magadnak adott szó érvényes.</item>
+        <item>Saját véleményed van arról, hogyan töltsd a napodat.</item>
+        <item>Az app nem ismer téged. Te ismered magad.</item>
+        <item>Úgy cselekszel, mint aki a saját élete ura.</item>
+        <item>Kitartani a saját döntésed mellett: ez a szabadság.</item>
+        <item>Itt te írod a szabályokat.</item>
+        <item>Ez az, amikor gondoskodsz magadról.</item>
+        <item>Nem vagy bezárva. Védve vagy.</item>
+        <item>A változás iránti vágyad régebbi ennél a késztetésnél.</item>
+        <item>Már most az vagy, akivé válni próbálsz.</item>
+        <item>A nehéz döntést már meghoztad. Ez csak a könnyű.</item>
+        <item>Te irányítasz, és ez manapság ritka.</item>
+        <item>Senkinek sem kell tudnia. Ez csak közted és önmagad között marad.</item>
+        <item>Megérdemled, hogy bízhass a saját szavadban.</item>
+        <item>Ezen a döntésen a te neved áll.</item>
+        <item>Olyan ember lettél, aki előre dönt.</item>
+        <item>Ez nem lemondás. Ez egy másik választás.</item>
+        <item>Van egy irányod. Ez a képernyő arra mutat.</item>
+        <item>Az igazi szabadság az, ha nem rángatnak folyton.</item>
+        <item>Te határozod meg, mennyit ér a figyelmed.</item>
+        <item>Minden nem itt egy igen valami másra, ami a tiéd.</item>
+        <item>Hű maradsz egy tervhez, amit gondosan készítettél.</item>
+        <item>Önmagad urának lenni munkával jár, de megéri.</item>
+        <item>Beláttad, hogy változni akarsz. Ez már a nehezebb része.</item>
+        <item>Ma este a tükörből visszanéző ember örülni fog ennek.</item>
+        <item>Semmivel sem tartozol az algoritmusnak.</item>
+        <item>Az életed nem tartalom senki számára.</item>
+        <item>Pontosan ott vagy, ahol lenni akartál.</item>
+        <item>A határ, amit magadnak szabsz, a legtiszteletteljesebb mind közül.</item>
+        <item>Nagyobb terveid vannak az életre, mint ez a képernyő.</item>
+        <item>Ez az érettség, valós időben.</item>
+        <item>Észrevétlenül gondoskodsz a jövődről.</item>
+        <item>Minden ilyen döntés tovább csiszolja, aki vagy.</item>
+        <item>Nem kell magyarázkodnod, amiért nem nyitod meg.</item>
+        <item>Magadnak tartozol, nem az appnak.</item>
+        <item>Akkor döntöttél jól, amikor nem húzott a késztetés.</item>
+        <item>Ez az életed, és te vezeted.</item>
+        <item>Olyan ember lettél, akit nehéz manipulálni.</item>
+        <item>A figyelmednek van gazdája, és éber.</item>
+        <item>Most úgy cselekedtél, mint aki vigyáz magára.</item>
+        <item>A terv a tiéd. És most is működik.</item>
+        <item>Az apró döntéseid összege vagy.</item>
+        <item>Az utolsó szót senki sem veheti el tőled.</item>
+        <item>Az időd felett te rendelkezel.</item>
+        <item>Azért működik, mert te akartad, hogy működjön.</item>
+        <item>Erősebb vagy annál a szokásnál, amely erősebb akar lenni nálad.</item>
+        <item>Még egy. Így gyűlnek a pontok.</item>
+        <item>A kicsi és rendszeres legyőzi a nagyot és ritkát.</item>
+        <item>Most szereztél még egy pontot.</item>
+        <item>Senki sem változik meg egyik napról a másikra. Az ilyen napokon változik.</item>
+        <item>Ez egy másfajta élet ezredrésze.</item>
+        <item>Egy jó nap semmit sem változtat. Száz jó nap mindent.</item>
+        <item>Egy sorozatot építesz.</item>
+        <item>A haladás belülről szinte sosem tűnik haladásnak.</item>
+        <item>Ezeknek a döntéseknek az összege több, mint bármelyik külön.</item>
+        <item>A kitartás unalmas, de működik.</item>
+        <item>Még egy kő a falban.</item>
+        <item>Valamit gyakorolsz, ami megmarad.</item>
+        <item>Ha elégszer ismétled, magától fog menni.</item>
+        <item>Ezt a győzelmet senki sem látja, de ugyanúgy számít.</item>
+        <item>Pár hét, és már a késztetést sem fogod érezni.</item>
+        <item>A mai nap számít. A holnapi is számítani fog.</item>
+        <item>Egy lánc ilyen szemekből áll össze.</item>
+        <item>Az új szokás most íródik.</item>
+        <item>Minden ismétlés lazít egy kicsit a régi szokáson.</item>
+        <item>Csináltad már. Csináld újra.</item>
+        <item>A tartós dolgok lassan születnek.</item>
+        <item>A változás a szem elől rejtve történik.</item>
+        <item>Valami láthatatlant és valódit gyűjtesz.</item>
+        <item>Még egy nap a jó irányba.</item>
+        <item>Az eredmény később jön. A döntés ma születik.</item>
+        <item>Egyszerre egy döntés: így megy ez.</item>
+        <item>Közelebb vagy, mint tegnap.</item>
+        <item>Nem kell tökéletesnek lennie. Rendszeresnek kell lennie.</item>
+        <item>A görbe lassan emelkedik, aztán meredeken.</item>
+        <item>A folyamat közepén jársz. Ilyen ez.</item>
+        <item>Minden kis nem egy nagy igent épít.</item>
+        <item>Mindez nem drámai. Épp ezért működik.</item>
+        <item>Az út ilyen lépésekből áll.</item>
+        <item>Egy új napi rutint alakítasz ki.</item>
+        <item>Egy hónap múlva ez könnyűnek fog tűnni.</item>
+        <item>Az ismétlés teszi a döntést a természeted részévé.</item>
+        <item>Most megerősítetted az új utat.</item>
+        <item>Száz százalék könnyebb, mint kilencvennyolc.</item>
+        <item>Ma ne szakítsd meg a sorozatot.</item>
+        <item>Most az unalmas részt csinálod, és ez az, ami számít.</item>
+        <item>A változást nem érezzük. Csak utólag látjuk.</item>
+        <item>Még egy tégla a helyén.</item>
+        <item>Arra tanítod az agyad, hogy mást várjon.</item>
+        <item>Folytatni: ez az egész technika.</item>
+        <item>Összeadva egyik ilyen győzelem sem kicsi.</item>
+        <item>Nem kell rohannod. Csak ne állj meg.</item>
+        <item>Ez már most könnyebb, és észre sem vetted.</item>
+        <item>Egy ilyen hét már megváltoztatja a napjaidat.</item>
+        <item>Új ösvényt taposol a fejedben.</item>
+        <item>Minden alkalom számít, akkor is, ha nem úgy tűnik.</item>
+        <item>Senki sem tapsol, de működik.</item>
+        <item>A gyarapodás csendes és megállíthatatlan.</item>
+        <item>Ebben már erősebb vagy, mint a múlt hónapban.</item>
+        <item>Egy mai jó döntés megkönnyíti a holnapit.</item>
+        <item>Belülről így néz ki a kitartás.</item>
+        <item>Még egy nap, még több előny.</item>
+        <item>Úton vagy, és az út hosszú. Semmi baj.</item>
+        <item>Ami ismétlődik, az könnyűvé válik.</item>
+        <item>Most megerősítetted azt, akivé válsz.</item>
+        <item>Ma a mérleg a javadra billen.</item>
+        <item>Az apró nyereségek engedély nélkül adódnak össze.</item>
+        <item>Nem a mai napról szól. Hanem az összegről.</item>
+        <item>Te végzed a láthatatlan munkát.</item>
+        <item>Folytasd. Szó szerint ez a titok.</item>
+        <item>Minden ilyen nap levesz egy kicsit a teherből.</item>
+        <item>A régi szokás most teret veszít.</item>
+        <item>Valamit locsolsz, ami még nem bújt ki a földből.</item>
+        <item>A változás akkor is zajlik, ha nem látszik.</item>
+        <item>Még egyszer. Mindig csak ennyi volt.</item>
+        <item>Jó napok tartalékát gyűjtöd.</item>
+        <item>Idővel ez természetes lesz.</item>
+        <item>Most újra döntöttél. És ez újra számít.</item>
+        <item>Egy ilyen hónap, és más ember leszel.</item>
+        <item>A mai erőfeszítés elfelejtődik. Az eredmény megmarad.</item>
+        <item>Már nem az vagy, aki ezt elkezdte.</item>
+        <item>Mindig csinálni többet ér, mint sokat csinálni.</item>
+        <item>Minden nap egy szavazat arra, aki lenni szeretnél.</item>
+        <item>Hagyod, hogy az új szokás teret nyerjen.</item>
+        <item>Ennek nem kell hősiesnek lennie. Csak meg kell történnie.</item>
+        <item>Most még járhatóbbá tetted a helyes utat.</item>
+        <item>Az agy ismétléssel tanul meg bármit.</item>
+        <item>A mai és a tegnapi nap együtt már sokat ér.</item>
+        <item>Akkor is jól haladsz, amikor nem érzed.</item>
+        <item>A fejlődés az unalmas ismétlésekben lakik.</item>
+        <item>Még egy rövid lépés a hosszú úton.</item>
+        <item>Természetessé teszed ezt.</item>
+        <item>Ami végül megmarad, az egy sokszor megtett jó dolog.</item>
+        <item>Az erő az ismétlésből jön, nem a nagy erőfeszítésből.</item>
+        <item>Most lerövidítetted a holnapi utat.</item>
+        <item>Még egy. Ennyi. És ez elég.</item>
+        <item>Jó döntések nyomát hagyod magad után.</item>
+        <item>A kitartás az erőfeszítést önazonossággá alakítja.</item>
+        <item>Minden nap egy egész napnak számít.</item>
+        <item>A hosszú játszmát játszod, és nyerésre állsz.</item>
+        <item>Észre sem veszed, és ez lesz a természeted.</item>
+        <item>A nap legjobb befektetése most történt meg.</item>
+        <item>Most sem tértél le az útról.</item>
+        <item>A folytonosság ritkább a tehetségnél.</item>
+        <item>Az igazi változás mindig lassú, és mindig megéri.</item>
+        <item>Még egy döntés a saját életed irányába.</item>
+        <item>A szemed hálás ezért a szünetért.</item>
+        <item>Állj fel és nyújtózz. A tested erre vágyott, nem képernyőre.</item>
+        <item>Vegyél egy mély levegőt. Már ez is változtat valamit.</item>
+        <item>Igyál egy kis vizet. Valószínűleg ez hiányzott.</item>
+        <item>A nyakad már egy ideje görbén áll. Egyenesítsd ki.</item>
+        <item>A ma éjszakai alvásod már most, a képernyő előtt kezdődik.</item>
+        <item>Jól aludni a létező legproduktívabb dolog.</item>
+        <item>A tested túl régóta nem mozdult.</item>
+        <item>Nézz a távolba húsz másodpercig. A szemed ellazul.</item>
+        <item>Egy rövid séta jobban feldob, mint bármilyen hírfolyam.</item>
+        <item>Lehet, hogy a fáradtságod csak a képernyőtől van.</item>
+        <item>A tested mozgást kér, amikor a fejed görgetést.</item>
+        <item>A friss levegő megold olyat, amit a képernyő nem.</item>
+        <item>Engedd le a vállad. Lazítsd el az állkapcsod.</item>
+        <item>Észrevétlenül megfeszíted a vállad.</item>
+        <item>Tíz perc napfény a bőrödön sokat ér.</item>
+        <item>A tested fekve pihen, nem görgetve.</item>
+        <item>Ha ma korán lefekszel, azzal a holnapot ajándékozod meg.</item>
+        <item>Az elmúlt húsz percben megváltozott a testtartásod. Igazíts rajta.</item>
+        <item>A képernyő okozta fáradtság nem igazi fáradtság. Valami más.</item>
+        <item>Emeld fel a karod. Nyújtózz. Na, máris jobb.</item>
+        <item>Görgetés közben ritkábban pislogsz. Pislogj most.</item>
+        <item>A tested jobban működik igazi szünetekkel.</item>
+        <item>Egy kör a háztömb körül kitisztítja a fejed.</item>
+        <item>A gerinced örülni fog ennek a megszakításnak.</item>
+        <item>A pihenés más, mint a figyelemelterelés.</item>
+        <item>A tegnapi rossz alvás egy ilyen képernyőnél kezdődött.</item>
+        <item>Nyújtsd meg a nyakad mindkét irányba. Tíz másodperc az egész.</item>
+        <item>A mozgás jobban oldja a szorongást, mint bármilyen tartalom.</item>
+        <item>A tested az egyetlen otthonod.</item>
+        <item>Víz, fény és mozgás. Szinte mindig ennyi kell.</item>
+        <item>A képernyő akkor is fáraszt, amikor pihenésnek tűnik.</item>
+        <item>Csukd be a szemed egy pillanatra. Csak ennyi.</item>
+        <item>Felszínesen lélegzel. Vegyél háromszor mély levegőt.</item>
+        <item>Egy zuhany több mindent megold, mint gondolnád.</item>
+        <item>A tested túl régóta van ugyanazon a helyen.</item>
+        <item>Az igazi pihenésben nincs képernyő.</item>
+        <item>Húsz perc séta az egész napot megváltoztatja.</item>
+        <item>A fejed azért nehéz, mert a tested egy helyben van.</item>
+        <item>Száraz szem, merev váll. Már észrevetted.</item>
+        <item>Két perc felállás jobban újraindít, mint egy görgetés.</item>
+        <item>A tested alvást kér, az elméd ingert. Hallgass a testedre.</item>
+        <item>A képernyő fénye órákig zavarja az alvásodat.</item>
+        <item>Nyújtsd ki a lábad. Gyors, és működik.</item>
+        <item>Olyan pihenést érdemelsz, ami tényleg kipihentet.</item>
+        <item>A mozgás a létező legolcsóbb hangulatjavító.</item>
+        <item>A tested emlékezni fog erre az éjszakai alvásra.</item>
+        <item>A lassú légzés gyorsabban megnyugtat bármilyen videónál.</item>
+        <item>Éhes vagy, vagy csak unatkozol. Derítsd ki, melyik.</item>
+        <item>A tested akkor regenerálódik, amikor a fejed megáll.</item>
+        <item>Húsz másodperc kinézni az ablakon.</item>
+        <item>A csuklódnak és a hüvelykujjadnak pihenő kell.</item>
+        <item>A képernyőtől való fáradtság séta közben elszáll.</item>
+        <item>Alvás közben rendeződnek az emlékeid. Vigyázz rá.</item>
+        <item>Kevesebb ingerre van szükséged, nem többre.</item>
+        <item>Két perc nyújtás többet ér tíz perc videónál.</item>
+        <item>A tested most jelez neked.</item>
+        <item>Levegő, víz és mozgás. A recept nem változott.</item>
+        <item>Feküdj le a földre egy percre. Komolyan.</item>
+        <item>A képernyő ébren tart, amikor aludnod kellene.</item>
+        <item>A tested szünetet kér, a kezed képernyőt. Add meg a szünetet.</item>
+        <item>A szemed kora reggel óta dolgozik.</item>
+        <item>Egy jól átaludt éjszaka megváltoztatja a világot.</item>
+        <item>Állj fel. Csak állj fel. Ez már elég.</item>
+        <item>Ennek a döntésnek köszönhetően jobban fogsz aludni.</item>
+        <item>A tested hálás azért, amit a fejed unalmasnak tart.</item>
+        <item>Nyújtsd meg a hátad. Már kéri.</item>
+        <item>Az igazi pihenés csend, nem újabb inger.</item>
+        <item>A testednek saját ritmusa van, a képernyő pedig figyelmen kívül hagyja.</item>
+        <item>Nézz a horizontra. A szemednek távolság kell.</item>
+        <item>Az állkapcsod feszülése nem múlik el görgetéstől.</item>
+        <item>Mióta is ülsz egy helyben?</item>
+        <item>A mozgás tisztánlátást hoz. Mindig is hozott.</item>
+        <item>Mielőtt bármiről döntesz, igyál egy pohár vizet.</item>
+        <item>Az elvesztett alvást nem pótolja semmilyen tartalom.</item>
+        <item>A tested jól működik, ha hagyod.</item>
+        <item>Egy rövid szunyókálás többet ad egy óra hírfolyamnál.</item>
+        <item>Mély levegőt venni ingyenes és azonnali.</item>
+        <item>A képernyő szó nélkül megfeszíti a testedet.</item>
+        <item>Fáradtabb vagy, mint amennyire lenned kellene.</item>
+        <item>Állj fel, és nézz ki az ablakon. Öt másodperc.</item>
+        <item>A tested nem arra fejlődött, hogy mozdulatlanul fényt bámuljon.</item>
+        <item>Nyújtsd ki az ujjaidat. Ma sokat dolgoztak.</item>
+        <item>Az éjszaka jobb, ha lefekvés előtt nincs képernyő.</item>
+        <item>Amit a képernyő kínál, az nem pihenés.</item>
+        <item>A tested természetre vágyik, és pixeleket kap.</item>
+        <item>Egy pohár víz és három lélegzet. Most rögtön.</item>
+        <item>A vállad attól feszül, ahogy a telefont tartod.</item>
+        <item>A tested ellazul, amikor a figyelmed abbahagyja a rohanást.</item>
+        <item>Öt perc múlva jobban fogod érezni magad.</item>
+        <item>A mozgás a kémiát változtatja meg. A képernyő csak a témát.</item>
+        <item>A szemed igazi pihenést érdemel.</item>
+        <item>A séta jobban rendbe teszi a gondolataidat, mint a hírfolyam olvasása.</item>
+        <item>A kék fény most rossz alvás később.</item>
+        <item>Pihenésre van szükséged, nem több információra.</item>
+        <item>Bármi előtt két mély lélegzet.</item>
+        <item>A tested bölcsebb a késztetésnél.</item>
+        <item>Állj fel, és sétálj ki a konyhába. Ennyi elég.</item>
+        <item>Pihentesd a tested, és a fejed is vele pihen.</item>
+        <item>Most is vannak körülötted hús-vér emberek.</item>
+        <item>Egy beszélgetés többet ér háromszáz posztnál.</item>
+        <item>Hívj fel valakit. Igazi hanghívással.</item>
+        <item>Valaki, akit szeretsz, csak egy üzenetnyire van.</item>
+        <item>A hírfolyamban lévők nem is tudják, hogy létezel.</item>
+        <item>Aki veled egy szobában van, többet érdemel.</item>
+        <item>Egy ölelés megold olyat, amit egy videó sem.</item>
+        <item>Írj annak, akiről mostanában megfeledkeztél.</item>
+        <item>Anyukád örülne ma egy hívásnak.</item>
+        <item>Az igazi életben vannak, akik tényleg válaszolnak.</item>
+        <item>Az a barát, aki eltűnt, még visszatérhet. Keresd meg.</item>
+        <item>A jelenlét a legritkább, amit adhatsz.</item>
+        <item>Valaki arra vár, hogy felnézz.</item>
+        <item>Egy jó kérdés többet ér egy óra görgetésnél.</item>
+        <item>A körülötted lévő embereknek nincs algoritmusuk.</item>
+        <item>Épp lemaradsz egy beszélgetésről, ami most zajlik.</item>
+        <item>A hírfolyamból senki sem lesz ott, amikor szükséged lesz rá.</item>
+        <item>Egy kávé valakivel jobban megváltoztatja a hetet, mint bármilyen hírfolyam.</item>
+        <item>A társaságod ajándék. Add oda.</item>
+        <item>Nézz arra, aki veled van.</item>
+        <item>A barátságot öntözni kell. Öntözd ma.</item>
+        <item>Aki melletted van, az valódi.</item>
+        <item>Akik szeretnek, azoknak nem kell lájk.</item>
+        <item>Emlékszel az utolsó hosszú beszélgetésedre?</item>
+        <item>Hívj el valakit sétálni.</item>
+        <item>A legszebb emlékekben ritkán van képernyő.</item>
+        <item>Most te vagy valakinek a társasága.</item>
+        <item>Küldj hangüzenetet valakinek, akit szeretsz.</item>
+        <item>Az emberek megváltoznak, ha odafigyelsz rájuk.</item>
+        <item>Ma valakinek sokat ér a jelenléted.</item>
+        <item>Egy jó beszélgetés után jobban érzed magad. A hírfolyam után nem.</item>
+        <item>Valakinek tudnia kell, hogy gondoltál rá.</item>
+        <item>Találkozz valakivel ahelyett, hogy csak követnéd.</item>
+        <item>Az erős kötelékek közös időből épülnek.</item>
+        <item>Lehetsz az oka annak, hogy valakinek jó napja legyen.</item>
+        <item>Az a rokon, akivel hónapok óta nem beszéltél.</item>
+        <item>Egy őszinte üzenet többet ér ezer megtekintésnél.</item>
+        <item>Együtt lenni nem ugyanaz, mint online lenni.</item>
+        <item>Akik veled élnek, a teljes figyelmedet érdemlik.</item>
+        <item>Hívj meg valakit vacsorára.</item>
+        <item>Az igazi embereknek arcuk, hangjuk és véges idejük van.</item>
+        <item>Valakinek pótolhatatlan vagy. Jelentkezz.</item>
+        <item>A napod legfontosabb beszélgetése még hátravan.</item>
+        <item>A közeledben is van valaki, aki épp nem a képernyőt nézi.</item>
+        <item>Meghallgatni valakit: ez a legkönnyebb út ahhoz, hogy szeressenek.</item>
+        <item>Az a barátod épp nehéz időszakon megy át. Kérdezd meg.</item>
+        <item>A gyereked, a kutyád, a szomszédod. Valaki ott van.</item>
+        <item>A közösségi oldalak sok emberhez kötnek, és egyikhez sem igazán.</item>
+        <item>Egy délután valakivel megér egy hónapnyi hírfolyamot.</item>
+        <item>Ma megnevettethetsz valakit. Igazából.</item>
+        <item>A teljes jelenlét nagyon ritka. Te tudsz adni belőle.</item>
+        <item>Valaki beszélt rólad a héten. Viszonozd.</item>
+        <item>A hírfolyamban senkinek sem hiányzol.</item>
+        <item>Egy ötperces telefon megváltoztathatja valaki napját.</item>
+        <item>Akik igazán számítanak, nem posztolnak erről.</item>
+        <item>Egy kérdésnyire vagy egy jó beszélgetéstől.</item>
+        <item>Az igazi társaságot nem szakítják meg reklámok.</item>
+        <item>Az az ember, aki mindig melletted áll. Köszönd meg neki ma.</item>
+        <item>A szemkontaktus még mindig a legjobb technológia.</item>
+        <item>A családod nem hírfolyam. Ne görgess át rajta.</item>
+        <item>Hívj meg valakit egy kis közös semmittevésre.</item>
+        <item>Aki messze van, az is megérdemli, hogy hírt adj magadról.</item>
+        <item>Odakint is vannak, akik szeretnek.</item>
+        <item>Egy halogatott nehéz beszélgetés többet nyom a latban a hírfolyamnál.</item>
+        <item>Élvezd azok társaságát, akik a közeledben vannak, amíg itt vannak.</item>
+        <item>Az emberek emlékeznek arra, aki ott volt velük.</item>
+        <item>Hívj el egy barátot kávézni, csak úgy.</item>
+        <item>Valahol valaki kíváncsi rád.</item>
+        <item>Most igazán meghallgathatsz valakit.</item>
+        <item>A kapcsolat odafigyeléssel épül, nem görgetéssel.</item>
+        <item>A figyelmed a legjobb ajándék azoknak, akiket szeretsz.</item>
+        <item>Egy ember többet ér egy profilnál.</item>
+        <item>Az a beszélgetés, amivel tartozol valakinek. Ma van itt az ideje.</item>
+        <item>Elérhetőnek lenni a szeretet egyik formája.</item>
+        <item>Most van időd valakire.</item>
+        <item>Senki sem búcsúzott el az élettől azzal, hogy több követőt szeretett volna.</item>
+        <item>Találkozz újra valakivel ahelyett, hogy messziről figyelnéd.</item>
+        <item>A szeretetet néha hangosan is ki kell mondani.</item>
+        <item>A régi társaságod még megvan. Keresd őket.</item>
+        <item>Valaki melletted szívesen beszélgetne.</item>
+        <item>Az összehasonlítás nem kapcsolódás.</item>
+        <item>Ma lehetsz igazán jelen.</item>
+        <item>Egy kézzel írt üzenet. Micsoda ötlet.</item>
+        <item>Aki igazán ismer, az nem a hírfolyamban van.</item>
+        <item>Töltsd a délutánt valakivel.</item>
+        <item>A hozzád közel állók megérdemlik azt, amit a hírfolyamnak adsz.</item>
+        <item>Fontos vagy valakinek, aki nem posztol.</item>
+        <item>Telefonálj, és kérdezd meg, hogy van valójában.</item>
+        <item>A magány nem múlik el több képernyőtől.</item>
+        <item>Kerülj ma közelebb valakihez.</item>
+        <item>Egy közös étkezés megéri az egész délutánt.</item>
+        <item>A figyelmed táplálja a kapcsolataidat. Táplálj ma egyet.</item>
+        <item>Valaki épp most rád gondol.</item>
+        <item>Mondd meg valakinek, hogy szereted.</item>
+        <item>A barátságok a csendbe halnak bele, nem a veszekedésbe.</item>
+        <item>Jó emberek vannak körülötted. Élvezd.</item>
+        <item>Valakinek társaságra van szüksége, és te tudsz adni.</item>
+        <item>Hagyd a hírfolyamot, és találkozz emberekkel.</item>
+        <item>Aki szeret, az az idődet akarja, nem a profilodat.</item>
+        <item>Öt perc alatt jobbá teheted valaki napját.</item>
+        <item>Alkotni fárasztó, de feltölt. Fogyasztani pihentető, de kiüresít.</item>
+        <item>Neked több a mondanivalód, mint a néznivalód.</item>
+        <item>Valaki épp azt alkotja, amit te néznél.</item>
+        <item>Írj le egy sort. Csak egyet.</item>
+        <item>A világban túl sok a fogyasztó, és túl kevés az alkotó.</item>
+        <item>Az az ötleted még mindig vár.</item>
+        <item>Alkothatsz valamit ahelyett, hogy kész dolgokat nézel.</item>
+        <item>Minden jó dolgot olyasvalaki készített, aki épp nem görgetett.</item>
+        <item>Az ötleted többet ér, mint a mai teljes hírfolyam.</item>
+        <item>Kezdj bele abba, amit halogatsz. Öt perc elég.</item>
+        <item>A félbehagyott projektnek csak egy lökés kell.</item>
+        <item>Van tehetséged valamihez, ami nem görgetés.</item>
+        <item>Alkoss ma valamit, ami tegnap még nem létezett.</item>
+        <item>Alkotni szórakoztatóbb, mint nézni, csak el kell kezdeni.</item>
+        <item>Az az üres füzet nem harap.</item>
+        <item>A legjobb tartalom az, amit te készítesz.</item>
+        <item>Többet tanulsz csinálva, mint nézve.</item>
+        <item>Játssz egy hangszeren, rajzolj, főzz. Csinálj valamit a kezeddel.</item>
+        <item>A kreativitásod eltűnik, ha teletömöd a fejed hírfolyammal.</item>
+        <item>Van egy műved, amit még senki sem alkotott meg.</item>
+        <item>Kezdd rosszul. Aztán majd jobb lesz.</item>
+        <item>Napi egy bekezdésből könyv lesz.</item>
+        <item>Van egy elmesélni való történeted.</item>
+        <item>Az alkotás az üresség ellenszere.</item>
+        <item>Az unalom a kreativitás kezdete. Hagyd, hogy legyen.</item>
+        <item>A fejed akkor kezd alkotni, amikor abbahagyod a teletömését.</item>
+        <item>Az a kifizetett tanfolyam még mindig vár.</item>
+        <item>Ma is megtanulhatsz valami újat.</item>
+        <item>Fogyasztani könnyű. Ezért is ad olyan kevés elégedettséget.</item>
+        <item>Szeretnél csinálni valamit. Kezdd el most.</item>
+        <item>Öt perc gyakorlás többet ér egy óra videónál.</item>
+        <item>Az a recept, amit ki szeretnél próbálni.</item>
+        <item>Az ötletek a csendben jönnek, nem görgetés közben.</item>
+        <item>Lehetsz a szerző a közönség helyett.</item>
+        <item>Egy kis projekt megváltoztatja a hetet.</item>
+        <item>Írd le, mit csinálnál, ha lenne időd. Van.</item>
+        <item>A kezed sok mindenre képes. Használd.</item>
+        <item>Csinálj ma valami tökéletlent.</item>
+        <item>Tanulni élvezetesebb, mint hagyni, hogy szórakoztassanak.</item>
+        <item>Amit alkotsz, megmarad. Amit görgetsz, eltűnik.</item>
+        <item>Az a hangszer ott a sarokban.</item>
+        <item>Egy befejezetlen projekt vár rád.</item>
+        <item>Az alkotás az összehasonlítgatás ellentéte.</item>
+        <item>Kezdd kicsiben. Kezdd ma.</item>
+        <item>Napi egy oldal egy másik élet.</item>
+        <item>A képzeletednek üres tér kell.</item>
+        <item>Csinálj valamit, amire holnap büszke lehetsz.</item>
+        <item>Az alkotás örömét semmi sem pótolja.</item>
+        <item>Többre vagy képes, mint fogyasztani.</item>
+        <item>Az az elhagyott hobbi még mindig létezik.</item>
+        <item>Húsz perc gyakorlás húsz perc fejlődés.</item>
+        <item>Görgetéssel még senki sem lett jó semmiben.</item>
+        <item>A következő képességed valamikor elkezdődik. Legyen ez most.</item>
+        <item>Csináld akkor is, ha senki sem látja.</item>
+        <item>Van valami, amit meg szeretnél tanulni. Kezdj bele.</item>
+        <item>Fogyasztani annyi, mint mások életét nézni.</item>
+        <item>Van kezed, fejed és időd. Ennyi kell hozzá.</item>
+        <item>Az első vázlat mindig rossz. Készítsd el mégis.</item>
+        <item>Az a nyelv, amelyen mindig is beszélni szerettél volna.</item>
+        <item>Alkotás közben lesz az unalomból öröm.</item>
+        <item>Napi egy kicsiből bármilyen tudás felépül.</item>
+        <item>Van benned valami, ami ki akar jönni.</item>
+        <item>Írj a napodról. Csak magadnak.</item>
+        <item>A kreativitásod arra vár, hogy elhallgattasd a zajt.</item>
+        <item>Ma csinálj valamit a két kezeddel.</item>
+        <item>Valamit befejezni: ehhez az örömhöz semmi sem fogható.</item>
+        <item>Az a projekt, ami annyira lelkesített. Még most is képes rá.</item>
+        <item>Nem kell jónak lenned ahhoz, hogy elkezdd.</item>
+        <item>Főzz valami újat. Az is alkotás.</item>
+        <item>Az élet érdekesebb lesz, ha csinálsz dolgokat.</item>
+        <item>Senki sem születik mesternek. Mindenki ügyetlenül kezd.</item>
+        <item>Az az éjszakai ötlet. Írd le.</item>
+        <item>Azzal, amihez értesz, segíthetsz valakinek.</item>
+        <item>Csinálj egy keveset ma, és egy keveset holnap.</item>
+        <item>A kezdésre a legjobb pillanat már elmúlt. A második legjobb most van.</item>
+        <item>A műved nem fog magától elkészülni.</item>
+        <item>Gyakorolni unalmas, amíg jó nem leszel benne.</item>
+        <item>Te alkotni akarsz. A hírfolyam azt akarja, hogy csak nézz.</item>
+        <item>Az a rajz, amit elkezdtél.</item>
+        <item>A tanulás leggyorsabb módja a csinálás.</item>
+        <item>Van hangod. Használd valamire.</item>
+        <item>Ha otthon megjavítasz valamit, az is alkotás.</item>
+        <item>A következő sikered egy ilyen hétköznapi napon kezdődik, mint a mai.</item>
+        <item>Csinálj valamit, amit csak te csinálnál.</item>
+        <item>A hírfolyam végtelen. A műved véges, és ezért számít.</item>
+        <item>Ma ültethetsz valamit. Szó szerint.</item>
+        <item>Az a táblázat, az a terv, az az álom.</item>
+        <item>Az alkotás munkával jár, és épp ettől ér valamit.</item>
+        <item>Érdekesebb vagy bármilyen hírfolyamnál.</item>
+        <item>Tanulj húsz percet. Kevés is, sok is.</item>
+        <item>A kíváncsiság akkor a legjobb, ha gyakorlattá válik.</item>
+        <item>Az a dal, amit meg akartál tanulni.</item>
+        <item>Csinálj most valami egyszerűt és hasznosat.</item>
+        <item>Van valami jó, amit adhatsz a világnak.</item>
+        <item>Kezdj bele abba, amiért később hálás leszel magadnak.</item>
+        <item>Egy saját projekt megváltoztatja a viszonyodat az időhöz.</item>
+        <item>Az alkotás a legjobb módja annak, hogy lekösd a fejed.</item>
+        <item>Ma befejezhetsz valamit.</item>
+        <item>Fogj hozzá valami kézzelfoghatóhoz.</item>
+        <item>Semmi sem pótolja azt az érzést, hogy megcsináltad.</item>
+        <item>Semmi baj, hogy ide jutottál. Most vegyél egy nagy levegőt.</item>
+        <item>Itt senki sem számol semmit. Csak haladj tovább.</item>
+        <item>Jól csinálod, még ha nem is látszik.</item>
+        <item>Nincs sietség, nincs elvárás. Csak egy szünet.</item>
+        <item>Ez nem vizsga. Csak egy kedves emlékeztető.</item>
+        <item>Próbálkozol, és ez már elég.</item>
+        <item>Minden rendben. Zárd be, és folytasd a napod.</item>
+        <item>Itt semmi sem arról szól, hogy mindig jól csináld.</item>
+        <item>Ma könnyedség jár neked.</item>
+        <item>Semmi dráma. Csak egy pillanat, hogy levegőt vegyél.</item>
+        <item>Ez egy nyugodt hely. Maradj itt egy kicsit.</item>
+        <item>Megteszed, amit tudsz. Ez számít.</item>
+        <item>Itt nincs számonkérés. Csak törődés.</item>
+        <item>Lélegezz. Semmi baj nem történik.</item>
+        <item>Eljutottál idáig, és ez már jó.</item>
+        <item>Senki sem ítélkezik. Neked sem kell.</item>
+        <item>Minden a helyén van. Csak menj tovább.</item>
+        <item>Lépésről lépésre: ez a jó tempó.</item>
+        <item>Nem kell tökéletesnek lenned ebben.</item>
+        <item>Lassan haladni is haladás.</item>
+        <item>Ez a képernyő semmit sem vár el tőled.</item>
+        <item>Légy most kedves magadhoz.</item>
+        <item>Semmi baj, ha vágysz rá. Ez is hozzátartozik.</item>
+        <item>Gondoskodsz magadról. Ez szép dolog.</item>
+        <item>Semmi riadalom, semmi sietség, semmi ijedtség.</item>
+        <item>Ember vagy. Ez megengedett.</item>
+        <item>Senkinek sem kell magyarázkodnod.</item>
+        <item>Vegyél mély levegőt. Már el is múlt.</item>
+        <item>Itt biztonságban vagy.</item>
+        <item>Semmi baj, ha ma nehéz.</item>
+        <item>Nincs két egyforma nap. Ez sem kivétel.</item>
+        <item>Úton vagy, még ha lassan is.</item>
+        <item>Engedj egy kicsit a magaddal szembeni szigorból.</item>
+        <item>Minden rendben van. Csak egy kis lélegzetvétel.</item>
+        <item>Nem kell mindig jól lenned.</item>
+        <item>Önmagaddal a kedvesség jobban működik, mint a szigor.</item>
+        <item>Ez a pillanat csendben elmúlik.</item>
+        <item>A nehezét ma már megcsináltad.</item>
+        <item>Semmi sürgős. Semmi komoly. Csak egy szünet.</item>
+        <item>Mosolyogj. Ez kisebb ügy, mint amilyennek látszik.</item>
+        <item>Igyekszel, és ez a lényeg.</item>
+        <item>Nem kell beszámolnod senkinek. Haladj tovább.</item>
+        <item>Minden rendben. Tényleg.</item>
+        <item>Megérdemelsz egy könnyű napot.</item>
+        <item>Lélegezz. A világ forog tovább.</item>
+        <item>Ma nincs hova sietni.</item>
+        <item>Békében vagy ezzel a döntéssel.</item>
+        <item>Annyiszor kezdheted újra, ahányszor csak kell.</item>
+        <item>Ez a hely nem kér számon semmit.</item>
+        <item>Légy türelmes a folyamattal.</item>
+        <item>Semmiben sem vagy lemaradva.</item>
+        <item>Semmi baj, ha nem vagy százszázalékos.</item>
+        <item>Ez a szünet gondoskodás, nem rendreutasítás.</item>
+        <item>Most egyszerűen mehetsz tovább.</item>
+        <item>Semmi feszültség. Csak egy pillanat.</item>
+        <item>Semmi baj, ha gépiesen történt.</item>
+        <item>Nem kell ok ahhoz, hogy jól legyél.</item>
+        <item>Lélegezz, és menj tovább. Ilyen egyszerű.</item>
+        <item>Itt nincs semmi gond.</item>
+        <item>Jól csinálod.</item>
+        <item>Tényleg semmi baj. Menj békével.</item>
+        <item>Ez a pillanat a tiéd, hogy pihenj.</item>
+        <item>Nem vagy egyedül ebben.</item>
+        <item>Minden nyugodt. Folytasd a napot.</item>
+        <item>Semmi teher. Csak egy emlékeztető.</item>
+        <item>Már most elég vagy.</item>
+        <item>A nyugalom, amit keresel, nincs a hírfolyamban.</item>
+        <item>Veled minden rendben van.</item>
+        <item>Pihentesd az elméd egy másodpercre.</item>
+        <item>Megérdemled ezt a törődést.</item>
+        <item>Most semmit sem kell megoldani.</item>
+        <item>Egy lélegzet. Aztán tovább.</item>
+        <item>Jól vagy. Ennyi az egész.</item>
+        <item>Nincs elvárás, nincs mérleg, nincs pontszám.</item>
+        <item>Egy csendes pillanat a nap közepén.</item>
+        <item>Most bánhatsz kedvesen magaddal.</item>
+        <item>Minden békés.</item>
+        <item>Semmivel sem kell sietni.</item>
+        <item>Ma megtetted, amit tudtál.</item>
+        <item>Semmi gond. Holnap folytatódik.</item>
+        <item>Ez a pillanat csak egy lélegzetvételnyi.</item>
+        <item>Biztonságban vagy, és ez elég.</item>
+        <item>Itt nincs ítélkezés.</item>
+        <item>Csak lélegezz, aztán menj és élj.</item>
+        <item>Ma nyugalom jár neked.</item>
+        <item>Bármilyen tempó rendben van.</item>
+        <item>Pihentesd egy kicsit a fejed.</item>
+        <item>Itt mindig szívesen látott vendég vagy.</item>
+        <item>Semmi ijedelem. Csak egy gyors megálló.</item>
+        <item>Ma az élet nem verseny.</item>
+        <item>Egyben vagy, és ez bőven elég.</item>
+        <item>Semmi baj azzal, hogy megpróbáltad.</item>
+        <item>Itt semmi sincs ellened.</item>
+        <item>Lélegezz, és folytasd lassan.</item>
+        <item>Úgy vagy jó, ahogy vagy.</item>
+        <item>Ez a béke pillanata.</item>
+        <item>Semmi elvárás. Menj tovább könnyed léptekkel.</item>
+        <item>Szabad pihenned.</item>
+        <item>Itt minden csendes.</item>
+        <item>Csak nyugodtan. A nap megvár.</item>
+        <item>Kedves vagy magadhoz, és ez erő.</item>
+        <item>Mit csinálnál most, ha ez az app nem létezne?</item>
+        <item>Azért vagy itt, mert akarod, vagy csak megszokásból?</item>
+        <item>Mit is kerestél tulajdonképpen?</item>
+        <item>Számítani fog ez holnap reggel?</item>
+        <item>Emlékezni fogsz arra, amit most látnál?</item>
+        <item>Mit csináltál, mielőtt a telefonért nyúltál?</item>
+        <item>Mennyi időt akarsz ma erre szánni?</item>
+        <item>Unatkozol, vagy fáradt vagy?</item>
+        <item>Mi lehetne helyette a délutánodból?</item>
+        <item>Megéri?</item>
+        <item>Konkrét okból nyitottad meg?</item>
+        <item>Mit halasztanál el megint, ha most belépnél?</item>
+        <item>Ki szeretnél lenni egy év múlva?</item>
+        <item>Mi tenne most igazán jót neked?</item>
+        <item>Valami elől menekülsz?</item>
+        <item>Mi lenne, ha nekiállnál annak, amit már régóta halogatsz?</item>
+        <item>Mi történne, ha egyszerűen bezárnád?</item>
+        <item>Van jobb dolgod is. Mi az?</item>
+        <item>Ez pihenés, vagy menekülés?</item>
+        <item>Mit kérne tőled a holnapi éned?</item>
+        <item>Éhes vagy, álmos, vagy csak unatkozol?</item>
+        <item>Mikor érezted magad utoljára jobban egy hírfolyamtól?</item>
+        <item>Mit szeretnél érezni a nap végén?</item>
+        <item>Mi hiányzik most?</item>
+        <item>Szükséged van rá, vagy csak kívánod?</item>
+        <item>Milyen apróság tenné most jobbá a napodat?</item>
+        <item>Mit kezdenél két szabad órával?</item>
+        <item>Tudod már, mit kellene most csinálnod?</item>
+        <item>Mibe kerül valójában ez a tizenöt perc?</item>
+        <item>Tényleg ezt akarod, vagy csak a kezed jár magától?</item>
+        <item>Mi érné meg most jobban?</item>
+        <item>Hogy vagy most, minden rendben?</item>
+        <item>Ha nyugodtan átgondolod, mi lenne most a legjobb döntés?</item>
+        <item>Büszke leszel erre a fél órára?</item>
+        <item>Mit csinálnál, ha senki sem látná?</item>
+        <item>Van valaki, akit most felhívhatnál?</item>
+        <item>Mit próbál most elkerülni a fejed?</item>
+        <item>Megéri ezért odaadni a délutánodat?</item>
+        <item>Van terved mára. Ez is benne van?</item>
+        <item>Mi lenne most a legklasszabb dolog, amit csinálhatnál?</item>
+        <item>Őszintén: jól vagy?</item>
+        <item>Mitől érné meg ez a hét?</item>
+        <item>Ezt akarod, vagy csak ezt szoktad csinálni?</item>
+        <item>Gondoltál már arra, mit szeretnél holnap csinálni?</item>
+        <item>Hányszor vetted ma már kézbe a telefont?</item>
+        <item>Minek örülnél egy óra múlva?</item>
+        <item>Be akarsz lépni, vagy csak robotpilótán jár az ujjad?</item>
+        <item>Mi az a fontos dolog, amit későbbre hagysz?</item>
+        <item>Mit szólna ehhez a tíz évvel ezelőtti önmagad?</item>
+        <item>Most tényleg pihensz?</item>
+        <item>Van valami, amit megtennél, ha merszed lenne?</item>
+        <item>Minek örülnél ma este, hogy megcsináltad?</item>
+        <item>Többet ér ez egy beszélgetésnél?</item>
+        <item>Mire van ma időd?</item>
+        <item>Milyen szokásod legyen fél év múlva?</item>
+        <item>Mi kéri valójában a figyelmedet?</item>
+        <item>Emlékezni szeretnél erre a délutánra, vagy elfelejteni?</item>
+        <item>Mire lehetne jól használni ezt a pillanatot?</item>
+        <item>Azért vagy itt, hogy láss valamit, vagy hogy ne érezz valamit?</item>
+        <item>Mitől aludnál ma jól?</item>
+        <item>Ez hozzáad a napodhoz, vagy elvesz belőle?</item>
+        <item>Tényleg tudni akarod, mi van ott?</item>
+        <item>Mi volt az utolsó jó dolog, amit képernyő nélkül csináltál?</item>
+        <item>Mit csinálnál egy internet nélküli délután?</item>
+        <item>Hova sietsz ennyire?</item>
+        <item>Milyen kis lépést tehetnél most?</item>
+        <item>Minek van nagyobb szüksége a figyelmedre ennél?</item>
+        <item>Vettél már ma mély levegőt?</item>
+        <item>Mi a terved a következő órára?</item>
+        <item>Ez közelebb visz valamihez, amit szeretnél?</item>
+        <item>Megtennéd ezt annak a szeme láttára, akit csodálsz?</item>
+        <item>Mi jó történt ma?</item>
+        <item>A napodból mennyi ment már el képernyőkre?</item>
+        <item>Vár rád egy félretett ötlet?</item>
+        <item>Mit szeretnél kezdeni ezzel a héttel?</item>
+        <item>Megéri a csendet zajra cserélni?</item>
+        <item>Ma alkotsz vagy fogyasztasz?</item>
+        <item>Melyik egyszerű dolog esne most jól?</item>
+        <item>Mit mondanál egy barátodnak ebben a helyzetben?</item>
+        <item>Van öt perced. Mire?</item>
+        <item>Mi zavar valójában?</item>
+        <item>Ez a legjobb, amit most tehetsz?</item>
+        <item>Te irányítod most ezt a pillanatot?</item>
+        <item>Melyik döntésre lennél büszke?</item>
+        <item>Mit szeretnél megcsinálni, mire véget ér a nap?</item>
+        <item>Emlékszel, miért telepítetted ezt?</item>
+        <item>Mi lenne, ha későbbre hagynád, és megnéznéd, kell-e még?</item>
+        <item>Mit tennél ma, ha bátrabb lennél?</item>
+        <item>A napod gyors vagy jó változatát szeretnéd?</item>
+        <item>Mi az, amit ma csak te tudsz megcsinálni?</item>
+        <item>Mi vár rád odakint?</item>
+        <item>Hálás voltál már ma valamiért?</item>
+        <item>Mennyit ér neked a következő fél óra?</item>
+        <item>Mit szeretnél magaddal vinni ebből a hétből?</item>
+        <item>Ez sürgős, vagy csak annak tűnik?</item>
+        <item>Azt csinálod, amit szeretnél?</item>
+        <item>Mi lenne jó befejezés ennek a napnak?</item>
+        <item>Mit csinálnál, ha kipihent lennél?</item>
+        <item>Most inkább görgetnél, vagy élnél?</item>
+        <item>Mi lenne, ha egyszerűen bezárnád, és meglátnád, mi történik?</item>
+    </string-array>
+</resources>

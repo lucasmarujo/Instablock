@@ -1,7 +1,9 @@
 import { Ionicons } from '@expo/vector-icons';
 import type { ReactNode } from 'react';
-import { Pressable, StyleSheet, Text, View } from 'react-native';
+import { I18nManager, Pressable, StyleSheet, Text, View } from 'react-native';
 
+import { useTextos } from '@/i18n/IdiomaContext';
+import { formatar } from '@/i18n/formatos';
 import { spacing, typography } from '@/theme/tokens';
 import { useTheme } from '@/theme/useTheme';
 
@@ -44,6 +46,7 @@ export function ListRow({
   recuoDireito,
 }: Props) {
   const theme = useTheme();
+  const t = useTextos();
   const corDoValor = {
     default: theme.colors.textSecondary,
     brand: theme.colors.textBrand,
@@ -72,7 +75,14 @@ export function ListRow({
         </Text>
       )}
       {accessory}
-      {chevron && <Ionicons name="chevron-forward" size={20} color={theme.colors.textTertiary} />}
+      {chevron && (
+        <Ionicons
+          name="chevron-forward"
+          size={20}
+          color={theme.colors.textTertiary}
+          style={I18nManager.isRTL ? styles.espelhado : undefined}
+        />
+      )}
     </>
   );
 
@@ -89,7 +99,9 @@ export function ListRow({
     <Pressable
       accessibilityRole={selected === undefined ? 'button' : 'radio'}
       accessibilityState={selected === undefined ? undefined : { checked: selected }}
-      accessibilityLabel={value ? `${label}, ${value}` : label}
+      accessibilityLabel={
+        value ? formatar(t.comum.rotuloComValor, { rotulo: label, valor: value }) : label
+      }
       accessibilityHint={description}
       onPress={onPress}
       style={({ pressed }) => [
@@ -129,5 +141,8 @@ const styles = StyleSheet.create({
   },
   valueForte: {
     fontWeight: typography.bodyStrong.fontWeight,
+  },
+  espelhado: {
+    transform: [{ scaleX: -1 }],
   },
 });

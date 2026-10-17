@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">%1$s ബ്ലോക്ക് ചെയ്തിരിക്കുന്നു.</string>
+    <string name="aceleralock_block_title_unknown">ഈ ആപ്പ് ബ്ലോക്ക് ചെയ്തിരിക്കുന്നു.</string>
+    <string name="aceleralock_block_close">അടയ്ക്കുക</string>
+    <string name="aceleralock_notification_channel">സംരക്ഷണം സജീവമാണ്</string>
+    <string name="aceleralock_notification_text">സംരക്ഷണം സജീവമാണ്</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: സൈറ്റ് ബ്ലോക്കിംഗ്</string>
+    <string name="aceleralock_site_accessibility_description">നിങ്ങൾ തിരഞ്ഞെടുത്ത സൈറ്റുകൾ ബ്ലോക്ക് ചെയ്യാൻ Chrome, Samsung Internet, Firefox, Edge, Brave എന്നിവയുടെ അഡ്രസ് ബാറിലെ വിലാസം മാത്രം വായിക്കുന്നു. ഒന്നും സേവ് ചെയ്യുന്നില്ല, ഒന്നും ഉപകരണത്തിന് പുറത്തേക്ക് പോകുന്നില്ല.</string>
+</resources>

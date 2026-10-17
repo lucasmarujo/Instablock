@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">%1$s está bloqueado.</string>
+    <string name="aceleralock_block_title_unknown">Esta app está bloqueada.</string>
+    <string name="aceleralock_block_close">Fechar</string>
+    <string name="aceleralock_notification_channel">Proteção ativa</string>
+    <string name="aceleralock_notification_text">Proteção ativa</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: bloqueio de sites</string>
+    <string name="aceleralock_site_accessibility_description">Lê apenas o endereço na barra do Chrome, Samsung Internet, Firefox, Edge e Brave para bloquear os sites que escolheste. Nada é guardado e nada sai do dispositivo.</string>
+</resources>

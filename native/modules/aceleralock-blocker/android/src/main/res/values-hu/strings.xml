@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">%1$s le van tiltva.</string>
+    <string name="aceleralock_block_title_unknown">Ez az app le van tiltva.</string>
+    <string name="aceleralock_block_close">Bezárás</string>
+    <string name="aceleralock_notification_channel">Védelem bekapcsolva</string>
+    <string name="aceleralock_notification_text">Védelem bekapcsolva</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: webhelyek letiltása</string>
+    <string name="aceleralock_site_accessibility_description">Csak a webcímet olvassa ki a Chrome, a Samsung Internet, a Firefox, az Edge és a Brave címsorából, hogy letiltsa az általad választott webhelyeket. Nem ment el semmit, és semmi sem hagyja el az eszközt.</string>
+</resources>

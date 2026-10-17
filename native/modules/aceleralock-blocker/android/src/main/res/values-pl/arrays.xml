@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Polski: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>Czas, którego tu nie spędzasz, wraca w całości do twojego życia.</item>
+        <item>Każda minuta poza tym ekranem znów jest twoja.</item>
+        <item>Te dwadzieścia minut zmieści się w jednym spacerze.</item>
+        <item>Dzień ma więcej miejsca, niż się wydaje, kiedy przewijanie się kończy.</item>
+        <item>Kawałek popołudnia właśnie do ciebie wrócił.</item>
+        <item>Godzina dziennie to piętnaście dni w roku.</item>
+        <item>Czas nie wraca, ale wciąż możesz wybrać, na co pójdzie.</item>
+        <item>Ta przerwa jest twoja. Nikt nie musi wiedzieć, co z nią zrobisz.</item>
+        <item>Poza aplikacją toczy się całe życie.</item>
+        <item>Zegar tyka tak samo po obu stronach tego ekranu.</item>
+        <item>Właśnie zyskujesz czas. Wydaj go na coś, co jutro zapamiętasz.</item>
+        <item>Nikt pod koniec dnia nie żałuje, że za mało przewijał feed.</item>
+        <item>Kwadrans tutaj to kwadrans gdziekolwiek indziej.</item>
+        <item>Przypomnij sobie, na co szło pół godziny dziesięć lat temu.</item>
+        <item>Twój czas to jedyne, czego nie odkupisz.</item>
+        <item>Całe popołudnie wciąż stoi przed tobą otworem.</item>
+        <item>Ta minuta może być początkiem czegoś innego.</item>
+        <item>Oddajesz sobie godziny, jedną po drugiej.</item>
+        <item>Czas zaoszczędzony tutaj nie znika. Pojawia się gdzie indziej.</item>
+        <item>Dziesięć minut to niewiele, dopóki nie zsumujesz ich z całego miesiąca.</item>
+        <item>Życie toczy się w zwykłym tempie, nie w tempie feedu.</item>
+        <item>Masz dziś więcej czasu niż wczoraj o tej porze.</item>
+        <item>To, co od dawna odkładasz, zmieści się dokładnie w tej przerwie.</item>
+        <item>Ta przerwa jest krótka. To, co z nią zrobisz, wcale nie musi być.</item>
+        <item>Dzień mieści naprawdę dużo, kiedy przewijanie nie stoi na drodze.</item>
+        <item>Reszta wieczoru właśnie znów należy do ciebie.</item>
+        <item>Czas to waluta. Tym razem postanawiasz jej nie wydawać.</item>
+        <item>Feed nigdy się nie kończy. Twój dzień owszem.</item>
+        <item>Pół godziny dziennie to cała książka w miesiąc.</item>
+        <item>Nic pilnego tam na ciebie nie czekało.</item>
+        <item>Ten czas zawsze był twój. Teraz znów jest przy tobie.</item>
+        <item>Poranek wciąż może być owocny, jeśli zacznie się teraz.</item>
+        <item>Nic nie tracisz. Zyskujesz chwilę przerwy.</item>
+        <item>Nikt nam nie odda czasu. To my musimy go zatrzymać.</item>
+        <item>Te minuty są więcej warte gdzie indziej i dobrze o tym wiesz.</item>
+        <item>To, co tam jest, poczeka. Twój czas nie poczeka.</item>
+        <item>Życie składa się z takich popołudni jak to.</item>
+        <item>Możesz skończyć dzień z czymś zrobionym, a nie tylko obejrzanym.</item>
+        <item>Dwie godziny dziennie to cały miesiąc w roku.</item>
+        <item>Czas, który chronisz dziś, zostaje ci na jutro.</item>
+        <item>To ta część dnia, o której decydujesz tylko ty.</item>
+        <item>Nikt nie napisał tam niczego wartego twojego popołudnia.</item>
+        <item>Trzydzieści minut dziennie przez rok zbuduje cokolwiek.</item>
+        <item>Masz właśnie dla siebie kawałek ciszy.</item>
+        <item>Dzień rośnie, kiedy feed się kurczy.</item>
+        <item>Ten czas to teraz surowiec. Zrób z niego coś.</item>
+        <item>Jakiś twój projekt czeka właśnie na tę chwilę.</item>
+        <item>To, co tu zyskujesz, nie pojawi się na żadnym ekranie, tylko w twoim życiu.</item>
+        <item>Wolny czas to rzadkość. Właśnie go sobie robisz.</item>
+        <item>Nikt u kresu życia nie prosił o jeszcze jedno przewinięcie.</item>
+        <item>Masz całe popołudnie i jeszcze nic z niego nie ubyło.</item>
+        <item>Rok to trzysta sześćdziesiąt pięć takich wyborów jak ten.</item>
+        <item>Ta przerwa jest mała, ale w całości należy do ciebie.</item>
+        <item>Czas płynie tak samo. Różnica jest w tym, co po nim zostaje.</item>
+        <item>Właśnie wyłączasz autopilota na pół godziny.</item>
+        <item>Reszta dnia dziękuje za ten przystanek.</item>
+        <item>Pięć minut tam niepostrzeżenie zamienia się w czterdzieści.</item>
+        <item>Znasz cenę tych pięciu minut. Dlatego tu jesteś.</item>
+        <item>Godzina, którą chronisz teraz, to ta, której szukasz wieczorem.</item>
+        <item>Nic tam nie stanie się lepsze przez to, że zobaczysz to teraz, a nie później.</item>
+        <item>Właśnie wybierasz, dokąd pójdzie następna minuta.</item>
+        <item>Ten czas zmieści rozmowę, spacer albo drzemkę.</item>
+        <item>Dzień jest owocny, kiedy godziny przestają przeciekać przez palce.</item>
+        <item>Następne pół godziny należy tylko do ciebie.</item>
+        <item>Jest wersja tego dnia, w której coś zrobisz. Zaczyna się teraz.</item>
+        <item>Czasu nie da się odłożyć. Można go tylko wydać lepiej albo gorzej.</item>
+        <item>Te minuty mogą stać się prawdziwym odpoczynkiem.</item>
+        <item>Właśnie schodzisz z bieżni, która nigdzie nie prowadzi.</item>
+        <item>Tydzień ma sto sześćdziesiąt osiem godzin. Ta jest twoja.</item>
+        <item>Feed zabiera czas po kawałeczku, żeby nikt nie poczuł straty.</item>
+        <item>Teraz możesz zrobić to, co codziennie zostaje na jutro.</item>
+        <item>Twoje popołudnie nie musi mieścić się w ekranie.</item>
+        <item>To wolny czas sprawia, że dzień wydaje się długi w dobrym sensie.</item>
+        <item>Najbliższą godzinę właśnie oddajesz sobie.</item>
+        <item>Za tydzień nic z tego, co tam teraz jest, nie zostanie ci w głowie.</item>
+        <item>To właśnie takie minuty budują albo rozmywają cały rok.</item>
+        <item>Czas jest twój. Nie trzeba go wydawać od razu.</item>
+        <item>Dzień bez przewijania mieści więcej.</item>
+        <item>Zegar nie odróżnia dobrego czasu od straconego. Ty to robisz.</item>
+        <item>Ta godzina jest warta tyle, co każda inna w twoim życiu.</item>
+        <item>Masz teraz czas. To rzadsze, niż się wydaje.</item>
+        <item>Chronić czas to jedyny sposób, żeby go mieć.</item>
+        <item>Cały wieczór wciąż przed tobą.</item>
+        <item>Te minuty to początek popołudnia, które zapamiętasz.</item>
+        <item>Udało ci się ominąć tę godzinną czarną dziurę.</item>
+        <item>Wszystko, co wymaga czasu, wymaga właśnie takiej decyzji.</item>
+        <item>Od teraz do kolacji zmieści się jeszcze wiele rzeczy.</item>
+        <item>Zdejmujesz nogę z gazu. Dzień zwalnia razem z tobą.</item>
+        <item>W twoim tygodniu jest miejsce. Po prostu zajmowało je coś innego.</item>
+        <item>Za każdym razem, gdy to zamykasz, dzień trochę się wydłuża.</item>
+        <item>Czas to prezent, który dajesz sobie za darmo.</item>
+        <item>Masz teraz to, czego podobno cały dzień ci brakuje.</item>
+        <item>Długie popołudnie składa się z krótkich decyzji takich jak ta.</item>
+        <item>Nikt nie zapyta, na co poszło to pół godziny.</item>
+        <item>Czas, którego dziś nie oddasz, jutro wciąż będzie przy tobie.</item>
+        <item>Dwadzieścia minut dziennie to sto dwadzieścia godzin w roku.</item>
+        <item>Chwila przed snem właśnie znów jest twoja.</item>
+        <item>Między jednym powiadomieniem a drugim jest mnóstwo życia.</item>
+        <item>Cały dzień jest twój, jeśli nie oddasz go po kawałku.</item>
+        <item>Udało ci się dotąd chronić swój czas. To kolejna taka chwila.</item>
+        <item>Twoja uwaga to najbardziej pożądane dobro na świecie. Tym razem wygrywasz.</item>
+        <item>Skupienie wraca po dwudziestu minutach. Nie oddawaj go teraz.</item>
+        <item>Głowa w całości jest warta więcej niż głowa pocięta na kawałki.</item>
+        <item>Przed chwilą twoja uwaga była skupiona na czymś innym.</item>
+        <item>Podzielona uwaga to nie uwaga. To tylko zmęczenie.</item>
+        <item>To, czym się zajmujesz, zasługuje na ciebie w całości.</item>
+        <item>Głębokie myślenie wymaga czasu bez przerw. To jest właśnie on.</item>
+        <item>Każda zmiana ekranu kosztuje więcej, niż pokazuje zegar.</item>
+        <item>Twojej głowie szło dobrze. Pozwól jej działać dalej.</item>
+        <item>Głęboka praca nie przetrwa przewijania feedu.</item>
+        <item>Feed zaprojektowano tak, by kradł twoją uwagę. I ty to widzisz.</item>
+        <item>Długa myśl potrzebuje ciszy, żeby się dokończyć.</item>
+        <item>Potrafisz utrzymać w głowie cały pomysł. Wystarczy miejsce.</item>
+        <item>Rozproszenie to nie odpoczynek. Odpoczynek naprawdę odpręża.</item>
+        <item>Twoje skupienie wciąż gdzieś tu jest. Wróć do niego.</item>
+        <item>Twoja uwaga nie jest dziś na sprzedaż.</item>
+        <item>Twoja głowa pokazuje, co najlepsze, dopiero po dwudziestej minucie.</item>
+        <item>Przerwanie w tej chwili jest droższe, niż się wydaje.</item>
+        <item>Stać cię na rzeczy, które wymagają skupienia. Zacznij od jego ochrony.</item>
+        <item>Nic tam nie potrzebuje pilnie twojej uwagi.</item>
+        <item>Godzina skupienia daje więcej niż cztery poszatkowane.</item>
+        <item>Twoja głowa działa lepiej, kiedy nie skacze z tematu na temat.</item>
+        <item>To, co zostało w połowie, wciąż można dziś skończyć.</item>
+        <item>Skupienie to nie siła woli. To otoczenie. Właśnie porządkujesz swoje.</item>
+        <item>Trudny problem ustępuje, kiedy przy nim zostajesz.</item>
+        <item>Twoja uwaga jest ograniczona. Dlatego jest tak cenna.</item>
+        <item>Nie musisz teraz o wszystkim wiedzieć.</item>
+        <item>Hałas tam zostanie. To twoja cisza jest rzadkością.</item>
+        <item>Wielkie rzeczy robili ludzie, którym nikt nie przeszkadzał.</item>
+        <item>Wróć do tego, czym się zajmujesz. Twoja głowa wciąż tam jest.</item>
+        <item>Jedno zadanie naraz idzie szybciej, niż się wydaje.</item>
+        <item>Chęć zerknięcia minie. Przerwana myśl czasem już nie wraca.</item>
+        <item>Masz w sobie więcej skupienia, niż ostatnio wykorzystujesz.</item>
+        <item>Dobre myślenie jest powolne. Niech takie będzie.</item>
+        <item>Twoja uwaga coś dziś zbudowała. Nie rozbieraj tego z ciekawości.</item>
+        <item>Co wymaga głowy, wymaga całej głowy.</item>
+        <item>Żaden feed nie nauczy cię tego, czego uczy godzina skupienia.</item>
+        <item>Każde zignorowane powiadomienie to odrobina więcej jasności.</item>
+        <item>Zrozumienie było tuż-tuż. Wróć tam.</item>
+        <item>Wypoczęta głowa to taka, której nikt nie szarpał przez cały dzień.</item>
+        <item>Twoja uwaga to materiał, z którego budujesz całą resztę.</item>
+        <item>Najtrudniej jest zacząć. To już za tobą. Nie zaczynaj od zera.</item>
+        <item>Daj sprawie spokój, a sama poukłada ci się w głowie.</item>
+        <item>Jasność przychodzi, kiedy cichnie szum.</item>
+        <item>Najlepsza praca tego dnia jeszcze przed tobą.</item>
+        <item>To nie brak czasu. To brak czasu w jednym kawałku.</item>
+        <item>Myślisz lepiej, niż pozwala ci na to feed.</item>
+        <item>Ten tekst, ten kod, ta rozmowa. Czekają na całą twoją uwagę.</item>
+        <item>Skupienie to mięsień. Rośnie w takie dni jak dziś.</item>
+        <item>Twoja głowa właśnie ci dziękuje.</item>
+        <item>Jedna rzecz w danej chwili to wciąż najbardziej zaawansowana technika świata.</item>
+        <item>To, co robisz uważnie, zostaje. Reszta mija.</item>
+        <item>Do myślenia nie ma skrótów. Jest tylko nieprzerwany czas.</item>
+        <item>Zasługujesz na to, żeby dokończyć myśl.</item>
+        <item>Twoja głowa była w świetnej formie. Trzymaj się tego wątku.</item>
+        <item>Ekran miga. Pomysły nie. Zostań przy pomysłach.</item>
+        <item>Jeden dzień skupienia jest wart trzech dni w biegu.</item>
+        <item>To nie twoje tempo jest problemem. To ciągłe przerywanie.</item>
+        <item>To, co dziś ważne, nie jest w feedzie.</item>
+        <item>Utrzymać kurs kosztuje mniej niż na niego wracać.</item>
+        <item>Cała twoja uwaga to prezent. Daj ją komuś, kto na nią zasługuje.</item>
+        <item>To w ciszy rodzą się dobre pomysły.</item>
+        <item>Coś dobrego było właśnie w toku.</item>
+        <item>Nikt nie myśli jasno z głową w dziesięciu miejscach naraz.</item>
+        <item>Głębia pojawia się dopiero po chwili spędzonej na powierzchni.</item>
+        <item>Skupienie nie polega na robieniu więcej. Polega na robieniu dobrze.</item>
+        <item>Masz dziś coś ważnego do zrobienia. To nie feed.</item>
+        <item>Pozwól głowie dokończyć zdanie, które zaczęła.</item>
+        <item>Godzina bez przerywania zmienia to, co możliwe w ciągu dnia.</item>
+        <item>To, co teraz wydaje się trudne, z ciągłą uwagą staje się łatwe.</item>
+        <item>Twoje skupienie to twoja przewaga. Niewielu jeszcze ma swoje.</item>
+        <item>Nie zamieniaj jednej ważnej rzeczy na wiele szybkich.</item>
+        <item>Ciekawość może poczekać. Skupienie nie poczeka.</item>
+        <item>Budujesz coś. Rób to dalej.</item>
+        <item>Przeskakiwanie między zadaniami wygląda na produktywne, a prawie nigdy nie jest.</item>
+        <item>Na najlepsze wykorzystanie twojej głowy dziś wciąż jest miejsce.</item>
+        <item>Uwagę, którą oszczędzasz teraz, zobaczysz potem w efektach.</item>
+        <item>Twój umysł to nie feed. Zatrzymuje to, czemu poświęcasz uwagę.</item>
+        <item>Sprawa warta całej twojej uwagi to rzadkość. Korzystaj.</item>
+        <item>Trudne nie znaczy niemożliwe. Po prostu zajmuje czas.</item>
+        <item>Od rozwiązania tamtego dzieli cię kilka minut.</item>
+        <item>Szum znika, kiedy przestajesz go karmić.</item>
+        <item>Zostań przy tym, co robisz, aż skończysz.</item>
+        <item>Jedno głębokie zanurzenie jest warte dziesięciu płytkich.</item>
+        <item>Twoja uwaga decyduje, co stanie się wspomnieniem.</item>
+        <item>Pamiętasz to, na co zwracasz uwagę. Tylko to.</item>
+        <item>Myślenie to najbardziej opłacalna rzecz, jaką dziś robisz.</item>
+        <item>Głowa bez pośpiechu rozwiązuje to, czego pospieszna nie widzi.</item>
+        <item>Dobra praca wymaga cierpliwości, nie szybkości.</item>
+        <item>Nic z tego, co tam teraz jest, nie trafi jutro do żadnej rozmowy.</item>
+        <item>Twoja dzisiejsza jasność umysłu zaczęła się od takich decyzji jak ta.</item>
+        <item>Przerywanie to najdroższy podatek na świecie.</item>
+        <item>Potrafisz zostać przy jednej rzeczy dłużej, niż myślisz.</item>
+        <item>Szczegół, który ci umykał, wyłania się w ciszy.</item>
+        <item>Skupienie wraca. Potrzebuje tylko kilku minut bez ekranu.</item>
+        <item>Potrafisz długo utrzymać uwagę. To feed zakłada, że nie.</item>
+        <item>Skończyć dziś jedną rzecz to więcej niż zacząć pięć.</item>
+        <item>Pełna uwaga to rzadki gość, także u ciebie.</item>
+        <item>Daj myśli odetchnąć.</item>
+        <item>Tego, co budujesz w skupieniu, nikt nie przewinie dalej.</item>
+        <item>Chęć otwarcia mija po kilku minutach. Zawsze mija.</item>
+        <item>Ten impuls ma datę ważności. Wygasa sam.</item>
+        <item>Nie musisz nic robić. Wystarczy poczekać, aż fala opadnie.</item>
+        <item>Ten pośpiech, który teraz czujesz, nie jest twój. Ktoś cię go nauczył.</item>
+        <item>Weź jeden oddech. Chęć jest już mniejsza niż minutę temu.</item>
+        <item>Impuls jest silny na początku i znika w połowie drogi.</item>
+        <item>To nie ty chcesz. To nawyk się upomina.</item>
+        <item>Przez chwilę jest niewygodnie. Potem mija.</item>
+        <item>To uczucie już znasz i za każdym razem dało się je przetrwać.</item>
+        <item>Chęć przychodzi falami. Fale się rozbijają.</item>
+        <item>Nikt nie musi słuchać pierwszego impulsu dnia.</item>
+        <item>Ten ucisk w piersi trwa krócej niż jedna piosenka.</item>
+        <item>Trzydziestosekundowy impuls to za mało, żeby tobą rządzić.</item>
+        <item>Pozwól chęci minąć i nic z nią nie rób.</item>
+        <item>Ten dyskomfort to nawyk, który puszcza. To postęp.</item>
+        <item>Nie walczysz. Po prostu czekasz.</item>
+        <item>Chęć przychodzi z hukiem, a odchodzi po cichu.</item>
+        <item>Policz do dwudziestu. Będzie już mniejsza.</item>
+        <item>Chcieć to nie to samo, co potrzebować.</item>
+        <item>Impuls chce natychmiastowej odpowiedzi. Nie dawaj mu żadnej.</item>
+        <item>To najtrudniejszy moment i jest krótki.</item>
+        <item>Nie musisz walczyć. Po prostu nie decyduj teraz.</item>
+        <item>Chęć znika, kiedy nikt jej nie karmi.</item>
+        <item>To niepokój, a nie głód treści.</item>
+        <item>Zauważ tę chęć, ale w nią nie wchodź.</item>
+        <item>Mózg zamawia to, co zwykle. Nie musisz podawać.</item>
+        <item>Za pięć minut nie będziesz pamiętać o tej ochocie.</item>
+        <item>Fala właśnie rośnie. Zawsze potem opada.</item>
+        <item>Najgorsze masz już za sobą.</item>
+        <item>Impuls kłamie co do swojej siły.</item>
+        <item>Wstań, napij się wody, wróć. Już go nie ma.</item>
+        <item>Chęć to nie rozkaz.</item>
+        <item>Możesz to czuć i nic nie robić. Wolno.</item>
+        <item>Ciało prosi o ruch, nie o ekran.</item>
+        <item>Ta zachcianka jest automatyczna. Twoja odpowiedź nie musi być.</item>
+        <item>Nic złego się nie stanie, jeśli poczekasz jeszcze chwilę.</item>
+        <item>Ochota rozpływa się sama, kiedy dasz jej trochę miejsca.</item>
+        <item>To tylko niepokój. Minie i nie potrzebuje ekranu.</item>
+        <item>Impuls to tylko podpowiedź. Decydujesz ty.</item>
+        <item>Jeszcze minuta i ta chęć będzie już czymś innym.</item>
+        <item>Trudna część trwa chwilę. Dobra część trwa cały dzień.</item>
+        <item>To słynne małe pchnięcie. Wcale nie pcha aż tak mocno.</item>
+        <item>Poczekaj bez oceniania. Chęć rozwieje się sama.</item>
+        <item>Twój mózg prosi o ten sam skrót co zawsze.</item>
+        <item>Nie musisz niczego pokonywać. Wystarczy przepuścić.</item>
+        <item>Każda przepuszczona fala zmniejsza następną.</item>
+        <item>Niepokój chce szybkiego rozwiązania. Tutaj go nie znajdzie.</item>
+        <item>Zostań w miejscu przez chwilę. Impuls nie zostanie.</item>
+        <item>Czekając, nic nie tracisz.</item>
+        <item>Nuda to nie nagły wypadek.</item>
+        <item>Pustka, którą teraz czujesz, jest normalna. Sama się wypełni.</item>
+        <item>Chęć, by coś sprawdzić, rzadko naprawdę dotyczy tego czegoś.</item>
+        <item>Jest ci niewygodnie, ale nic ci nie grozi.</item>
+        <item>Za chwilę to zelżeje.</item>
+        <item>Nawyk jest silny, ale jego zryw trwa krótko.</item>
+        <item>Przepuść tę jedną. Tylko tę.</item>
+        <item>Następnym razem będzie łatwiej właśnie dzięki temu razowi.</item>
+        <item>Nie musisz się do niczego przekonywać. Wystarczy czekać.</item>
+        <item>Szklanka wody pomoże bardziej niż przewijanie feedu.</item>
+        <item>To poczucie pilności jest fałszywe. Już to wiesz.</item>
+        <item>Impuls nie wytrzymuje, gdy zostaje bez odpowiedzi.</item>
+        <item>Odczekaj trzydzieści sekund. Potem zdecyduj jeszcze raz.</item>
+        <item>Jesteś na szczycie. Dalej jest już tylko z górki.</item>
+        <item>Nic nie wymaga teraz twojej reakcji.</item>
+        <item>Chęć to gość. Pójdzie sobie.</item>
+        <item>To nie ty jesteś impulsem. Ty go tylko obserwujesz.</item>
+        <item>Ciało się rozluźni, jeśli dasz mu minutę.</item>
+        <item>To tylko mózg szuka bodźca. Znajdzie inny.</item>
+        <item>Trzy głębokie oddechy zmieniają siłę tego uczucia.</item>
+        <item>Chęć się kurczy, kiedy patrzysz jej prosto w oczy.</item>
+        <item>Wytrzymasz tę minutę. Bywało trudniej, a dało się radę.</item>
+        <item>Uczucie dyskomfortu mija, nawet gdy nic nie robisz.</item>
+        <item>Ręka była szybsza od głowy. Zdarza się.</item>
+        <item>Żadnej decyzji nie trzeba podejmować w pierwszych dziesięciu sekundach.</item>
+        <item>Za chwilę nawet nie będziesz o tym pamiętać.</item>
+        <item>Wyzwalacz zadziałał. Reakcja wciąż zależy od ciebie.</item>
+        <item>Pozwól chęci być, ale jej nie słuchaj.</item>
+        <item>To nie przymus. To tylko przyzwyczajenie.</item>
+        <item>Poczekaj. Dosłownie tylko tyle musisz zrobić.</item>
+        <item>Głowa sama się uspokoi, jeśli nie dorzucisz do ognia.</item>
+        <item>Już czekasz. To już jest zwycięstwo.</item>
+        <item>Impuls traci siłę, gdy trafia na zamknięte drzwi.</item>
+        <item>Każda sekunda tutaj to sekunda przewagi.</item>
+        <item>Fala się rozbiła. Zobacz, jak już jest lżej.</item>
+        <item>Nie potrzebujesz powodu, żeby nie otwierać.</item>
+        <item>Zachcianka mija szybciej niż żal.</item>
+        <item>Rozciąganie pomoże tam, gdzie feed by nie pomógł.</item>
+        <item>Chęć odchodzi, kiedy to czytasz.</item>
+        <item>Nie decyduj teraz o niczym. Po prostu oddychaj.</item>
+        <item>Impuls sam przychodzi i sam odchodzi.</item>
+        <item>To jest najtrudniejsza część. I szybko mija.</item>
+        <item>Udało ci się wytrwać do tej chwili. Zostały sekundy.</item>
+        <item>Ciało prosi o ekran, gdy chce odpoczynku. Daj mu odpocząć.</item>
+        <item>Chęć maleje za każdym razem, gdy nie zostaje spełniona.</item>
+        <item>Poczekaj jeszcze trochę. To wszystko.</item>
+        <item>Chwila mija. Wybór zostaje.</item>
+        <item>Najwęższe miejsce właśnie masz za sobą.</item>
+        <item>Czuć chęć to rzecz ludzka. Nie ulegać jej – też.</item>
+        <item>Spokój wróci za chwilę, jeśli nie będziesz naciskać.</item>
+        <item>Zrobiło się lżej, prawda?</item>
+        <item>Ta decyzja zapadła w spokojnej chwili. Zaufaj jej.</item>
+        <item>Wczorajsza wersja ciebie zadbała o tę dzisiejszą.</item>
+        <item>Ten ekran to wiadomość od ciebie dla ciebie.</item>
+        <item>Nikt cię nie powstrzymuje. To tylko przypomnienie.</item>
+        <item>Osoba, którą chcesz być, nie spędza popołudnia na przewijaniu.</item>
+        <item>To był twój wybór. I nadal jest.</item>
+        <item>Należysz do osób, które zauważają i działają.</item>
+        <item>Nikt cię nie zmuszał do instalacji. To była twoja wola.</item>
+        <item>Twoje jutro podziękuje ci za tę chwilę.</item>
+        <item>Już jesteś kimś, kto chroni swój czas.</item>
+        <item>To nie kara. To umowa.</item>
+        <item>Ta zasada jest twoja. I działa.</item>
+        <item>Panowanie nad własną uwagą to codzienny wybór.</item>
+        <item>Nie musisz tu nikomu niczego udowadniać.</item>
+        <item>Osoba, którą chcesz być, zaczyna się od małych decyzji.</item>
+        <item>Jesteś po właściwej stronie tego ekranu.</item>
+        <item>Każde zamknięcie przybliża cię do osoby, którą chcesz być.</item>
+        <item>Nie definiuje cię to, na co masz ochotę. Definiuje cię to, co robisz.</item>
+        <item>Umowa ze sobą jest warta tyle, co każda inna.</item>
+        <item>Udało ci się dostrzec schemat i go zmienić. To rzadkie.</item>
+        <item>Znaczysz więcej niż aplikacje w twojej kieszeni.</item>
+        <item>To twoja zasada i stoi po twojej stronie.</item>
+        <item>Masz prawo zmienić nawyki.</item>
+        <item>Jesteś tym, co robisz regularnie.</item>
+        <item>Życie z większą przestrzenią to twój wybór.</item>
+        <item>To nie aplikacja tobą rządzi.</item>
+        <item>Twoja tożsamość nie zmieści się w feedzie.</item>
+        <item>Masz swój powód, dla którego to tu jest.</item>
+        <item>Przypomnij sobie ten powód. Wciąż jest aktualny.</item>
+        <item>Szanujesz własną decyzję.</item>
+        <item>Nikt nie decyduje za ciebie o twojej uwadze.</item>
+        <item>Widzisz, co się działo. To już wszystko zmienia.</item>
+        <item>Kierowanie własnym dniem to ciągła praca.</item>
+        <item>Nie jedziesz jako pasażer. Ty prowadzisz.</item>
+        <item>To wybór kogoś, kto traktuje siebie poważnie.</item>
+        <item>Odpowiadasz za siebie. I właśnie to robisz.</item>
+        <item>Twój czas do kogoś należy. Ta osoba właśnie to czyta.</item>
+        <item>Masz umowę ze sobą. Dotrzymaj jej.</item>
+        <item>Każda taka decyzja przybliża cię do tego, kim chcesz być.</item>
+        <item>Nie tracisz wolności. Korzystasz z niej.</item>
+        <item>To ty decydujesz, co teraz zrobić.</item>
+        <item>Nie potrzebujesz pozwolenia, żeby żyć inaczej.</item>
+        <item>Ta granica to troska, nie klatka.</item>
+        <item>Ta droga jest trudniejsza, ale bardziej twoja.</item>
+        <item>Osoba, którą podziwiasz, też powiedziałaby teraz nie.</item>
+        <item>Mieszkasz w swoim życiu, nie w aplikacji.</item>
+        <item>Twój czas, twoja głowa, twój wybór.</item>
+        <item>Dotrzymujesz słowa danego sobie. To się liczy.</item>
+        <item>Nikt nie zadba o twoją uwagę za ciebie.</item>
+        <item>Wiesz już, że potrafisz zmienić kurs.</item>
+        <item>Na tym polega autonomia: decydować wcześniej, nie pod wpływem impulsu.</item>
+        <item>Budujesz w sobie kogoś, kogo szanujesz.</item>
+        <item>To ta wersja ciebie, która planuje.</item>
+        <item>Nie jesteś tu przypadkiem. Ta blokada to twoje dzieło.</item>
+        <item>Słowo dane sobie ma wartość.</item>
+        <item>Masz własne zdanie o tym, jak spędzać swój dzień.</item>
+        <item>Aplikacja cię nie zna. Ty siebie znasz.</item>
+        <item>Działasz jak ktoś, kto ma własne życie w swoich rękach.</item>
+        <item>Konsekwencja we własnych decyzjach to wolność.</item>
+        <item>Tutaj to ty ustalasz zasady.</item>
+        <item>To ty dbasz o siebie.</item>
+        <item>To nie więzienie. To ochrona.</item>
+        <item>Twoja chęć zmiany jest starsza niż ten impuls.</item>
+        <item>Już jesteś osobą, którą próbujesz się stać.</item>
+        <item>Trudna decyzja już zapadła. Ta jest tą łatwą.</item>
+        <item>Masz kontrolę, a to dziś rzadkość.</item>
+        <item>Nikt nie musi wiedzieć. To sprawa między tobą a tobą.</item>
+        <item>Zasługujesz na to, by ufać własnemu słowu.</item>
+        <item>Ten wybór jest podpisany twoim imieniem.</item>
+        <item>Stajesz się osobą, która decyduje z wyprzedzeniem.</item>
+        <item>To nie rezygnacja. To wybór czegoś innego.</item>
+        <item>Masz swój kierunek. Ten ekran go wskazuje.</item>
+        <item>Prawdziwa wolność to brak ciągłego szarpania w różne strony.</item>
+        <item>To ty ustalasz, ile jest warta twoja uwaga.</item>
+        <item>Każde „nie” tutaj to „tak” dla czegoś twojego.</item>
+        <item>Trzymasz się planu, który powstał z troski o siebie.</item>
+        <item>Panowanie nad sobą wymaga pracy i jest tego warte.</item>
+        <item>Przyznać przed sobą, że chce się zmiany – to właśnie ta trudna część.</item>
+        <item>Osoba w lustrze dziś wieczorem będzie z tego zadowolona.</item>
+        <item>Algorytmowi nic się od ciebie nie należy.</item>
+        <item>Twoje życie nie jest niczyją treścią.</item>
+        <item>Jesteś dokładnie tam, gdzie chcesz być.</item>
+        <item>Granica postawiona sobie to najwyższa forma szacunku.</item>
+        <item>Masz plan na życie większy niż ten ekran.</item>
+        <item>To dojrzałość na żywo.</item>
+        <item>Dbasz o swoją przyszłość, nawet o tym nie wiedząc.</item>
+        <item>Każdy taki wybór wyostrza to, kim jesteś.</item>
+        <item>Nie musisz się tłumaczyć z tego, że nie otwierasz.</item>
+        <item>Twoje zobowiązanie jest wobec ciebie, nie wobec aplikacji.</item>
+        <item>Dobra decyzja zapadła wtedy, gdy nie było na nią ochoty.</item>
+        <item>Tak wygląda życie, za którego kierownicą siedzisz ty.</item>
+        <item>Stajesz się kimś, kim trudno manipulować.</item>
+        <item>Twoja uwaga jest w dobrych rękach. W twoich.</item>
+        <item>To był ruch kogoś, kto o siebie dba.</item>
+        <item>Plan jest twój. I właśnie teraz działa.</item>
+        <item>Jesteś sumą swoich małych wyborów.</item>
+        <item>Nikt nie odbierze ci ostatniego słowa.</item>
+        <item>To ty masz władzę nad swoim czasem.</item>
+        <item>To działa, bo tego chcesz.</item>
+        <item>Nawyk chce cię przerosnąć. Ty go przerastasz.</item>
+        <item>Jeszcze jedna. Tak właśnie rośnie wynik.</item>
+        <item>Małe i powtarzane wygrywa z wielkim i rzadkim.</item>
+        <item>Kolejny punkt właśnie trafia na twoje konto.</item>
+        <item>Nikt nie zmienia się od razu. Zmiana dzieje się w takie dni jak dziś.</item>
+        <item>To tysięczna część innego życia.</item>
+        <item>Jeden dobry dzień niczego nie zmienia. Sto dobrych dni zmienia wszystko.</item>
+        <item>Budujesz serię.</item>
+        <item>Od środka postęp prawie nigdy nie wygląda na postęp.</item>
+        <item>Suma tych wyborów jest większa niż każdy z nich.</item>
+        <item>Systematyczność jest nudna, ale działa.</item>
+        <item>Kolejny kamień w murze.</item>
+        <item>Ćwiczysz coś, co zostaje na dłużej.</item>
+        <item>Powtarzane wystarczająco często staje się automatyczne.</item>
+        <item>Nikt nie widzi tego zwycięstwa, ale liczy się tak samo.</item>
+        <item>Za kilka tygodni nie będzie nawet ochoty.</item>
+        <item>Dziś się liczy. Jutro też będzie się liczyć.</item>
+        <item>Łańcuch składa się z takich ogniw jak to.</item>
+        <item>Nowy nawyk właśnie się zapisuje.</item>
+        <item>Każde powtórzenie trochę rozluźnia stary nawyk.</item>
+        <item>To ci się już udawało. Zrób to jeszcze raz.</item>
+        <item>Powoli – tak rosną rzeczy, które trwają.</item>
+        <item>Zmiana dzieje się po cichu, poza zasięgiem wzroku.</item>
+        <item>Gromadzisz coś niewidocznego, ale prawdziwego.</item>
+        <item>Kolejny dzień we właściwym kierunku.</item>
+        <item>Efekt pojawi się później. Wybór jest dziś.</item>
+        <item>Jeden wybór naraz – tak to się robi.</item>
+        <item>Jesteś bliżej niż wczoraj.</item>
+        <item>Nie musi być idealnie. Musi być często.</item>
+        <item>Krzywa rośnie powoli, a potem szybko.</item>
+        <item>Jesteś w środku procesu. Tak on właśnie wygląda.</item>
+        <item>Każde małe „nie” buduje wielkie „tak”.</item>
+        <item>Nic w tym dramatycznego. Dlatego to działa.</item>
+        <item>Droga składa się z takich kroków jak ten.</item>
+        <item>Tworzysz nową wersję swojej codzienności.</item>
+        <item>Za miesiąc to będzie się wydawać łatwe.</item>
+        <item>To powtarzanie zamienia decyzję w sposób bycia.</item>
+        <item>Nowa ścieżka właśnie się utrwala.</item>
+        <item>Sto procent jest łatwiejsze niż dziewięćdziesiąt osiem.</item>
+        <item>Nie przerywaj dziś serii.</item>
+        <item>Robisz tę nudną część, a to ona się liczy.</item>
+        <item>Zmiany się nie czuje. Widać ją dopiero potem.</item>
+        <item>Kolejna cegła na swoim miejscu.</item>
+        <item>Uczysz mózg oczekiwać czegoś innego.</item>
+        <item>Cała technika to po prostu nie przestawać.</item>
+        <item>W ogólnym rachunku żadne z tych zwycięstw nie jest małe.</item>
+        <item>Nie musisz biec. Wystarczy się nie zatrzymywać.</item>
+        <item>Robi się już łatwiej, nawet jeśli tego nie zauważasz.</item>
+        <item>Tydzień takich wyborów już zmienia twój dzień.</item>
+        <item>Wydeptujesz w głowie nową ścieżkę.</item>
+        <item>Każdy raz się liczy, nawet kiedy wydaje się, że nie.</item>
+        <item>Nikt nie klaszcze, ale to działa.</item>
+        <item>Efekt narasta cicho i nie da się go zatrzymać.</item>
+        <item>Idzie ci to już lepiej niż w zeszłym miesiącu.</item>
+        <item>Dobry wybór dziś ułatwia ten jutrzejszy.</item>
+        <item>Tak wygląda konsekwencja od środka.</item>
+        <item>Kolejny dzień zebranej przewagi.</item>
+        <item>Jesteś w drodze, a droga jest długa. I dobrze.</item>
+        <item>To, co się powtarza, staje się łatwe.</item>
+        <item>Właśnie umacniasz osobę, którą się stajesz.</item>
+        <item>Dziś rachunek jest na twoją korzyść.</item>
+        <item>Małe zyski sumują się bez pytania o zgodę.</item>
+        <item>Nie chodzi o dziś. Chodzi o sumę.</item>
+        <item>Wykonujesz niewidzialną pracę.</item>
+        <item>Rób dalej. Dosłownie na tym polega sekret.</item>
+        <item>Każdy taki dzień zdejmuje trochę ciężaru.</item>
+        <item>Stary nawyk właśnie traci grunt.</item>
+        <item>Podlewasz coś, co jeszcze nie wykiełkowało.</item>
+        <item>Zmiana trwa, nawet jeśli tego nie widać.</item>
+        <item>Jeszcze raz. Zawsze chodziło tylko o to.</item>
+        <item>Budujesz zapas dobrych dni.</item>
+        <item>Z czasem to stanie się normalne.</item>
+        <item>Znów wybierasz. I znów to się liczy.</item>
+        <item>Miesiąc takich dni i jesteś inną osobą.</item>
+        <item>Dzisiejszy wysiłek zniknie. Efekt zostanie.</item>
+        <item>Nie jesteś już tą samą osobą, która to zaczynała.</item>
+        <item>Robić regularnie znaczy więcej niż robić dużo.</item>
+        <item>Każdy dzień to głos oddany na osobę, którą chcesz być.</item>
+        <item>Pozwalasz nowemu nawykowi zdobywać teren.</item>
+        <item>To nie musi być bohaterskie. Musi się po prostu dziać.</item>
+        <item>Właśnie wzmacniasz właściwą ścieżkę.</item>
+        <item>Powtarzanie to sposób, w jaki mózg uczy się wszystkiego.</item>
+        <item>Dziś plus wczoraj to już całkiem sporo.</item>
+        <item>Idzie ci dobrze, nawet jeśli tego nie czujesz.</item>
+        <item>Postęp mieszka w nudnych powtórzeniach.</item>
+        <item>Jeszcze jeden krótki krok na długiej drodze.</item>
+        <item>Sprawiasz, że to staje się naturalne.</item>
+        <item>Zostaje to, co dobre i robione wiele razy.</item>
+        <item>Siła bierze się z powtarzania, nie z wysiłku.</item>
+        <item>Jutrzejsza droga właśnie się skróciła.</item>
+        <item>Jeszcze jeden. Tylko tyle. I to wystarczy.</item>
+        <item>Zostawiasz za sobą ślad dobrych decyzji.</item>
+        <item>Systematyczność zamienia wysiłek w tożsamość.</item>
+        <item>Każdy dzień liczy się jako cały dzień.</item>
+        <item>Grasz w długą grę i wygrywasz.</item>
+        <item>To stanie się częścią ciebie, zanim to zauważysz.</item>
+        <item>Najlepsza inwestycja dnia właśnie się dokonała.</item>
+        <item>Linia utrzymana. Tak trzymaj.</item>
+        <item>Wytrwałość jest rzadsza niż talent.</item>
+        <item>Prawdziwa zmiana zawsze jest powolna i zawsze się opłaca.</item>
+        <item>Kolejny wybór w stronę twojego życia.</item>
+        <item>Twoje oczy dziękują za tę przerwę.</item>
+        <item>Wstań i się rozciągnij. Ciało prosiło o to, a nie o ekran.</item>
+        <item>Weź głęboki oddech. Już to coś zmienia.</item>
+        <item>Napij się wody. Pewnie właśnie tego brakowało.</item>
+        <item>Twoja szyja od dłuższego czasu jest przekrzywiona. Wyprostuj ją.</item>
+        <item>Dzisiejszy sen zaczyna się od ekranu, który odkładasz teraz.</item>
+        <item>Dobry sen to najbardziej produktywna rzecz na świecie.</item>
+        <item>Twoje ciało za długo jest w bezruchu.</item>
+        <item>Popatrz w dal przez dwadzieścia sekund. Oczy odpoczną.</item>
+        <item>Krótki spacer poprawia nastrój bardziej niż jakikolwiek feed.</item>
+        <item>Zmęczenie, które czujesz, może pochodzić po prostu od ekranu.</item>
+        <item>Twoje ciało prosi o ruch, kiedy głowa prosi o przewijanie.</item>
+        <item>Świeże powietrze załatwia to, czego ekran nie załatwi.</item>
+        <item>Ramiona w dół. Rozluźnij szczękę.</item>
+        <item>Bezwiednie napinasz ramiona.</item>
+        <item>Dziesięć minut słońca na skórze to bardzo dużo.</item>
+        <item>Ciało odpoczywa na leżąco, nie przy przewijaniu.</item>
+        <item>Wcześniejszy sen dziś to prezent na jutro.</item>
+        <item>Twoja postawa zmieniła się przez ostatnie dwadzieścia minut. Popraw ją.</item>
+        <item>Zmęczenie ekranem to nie prawdziwe zmęczenie. To coś innego.</item>
+        <item>Unieś ręce. Przeciągnij się. Gotowe, już lepiej.</item>
+        <item>Przy przewijaniu rzadziej mrugasz. Mrugnij teraz.</item>
+        <item>Ciało działa lepiej z prawdziwymi przerwami.</item>
+        <item>Runda wokół bloku przewietrzy głowę.</item>
+        <item>Twój kręgosłup ucieszy się z tej przerwy.</item>
+        <item>Odpoczynek to coś innego niż rozproszenie.</item>
+        <item>Wczorajszy kiepski sen zaczął się przy takim ekranie jak ten.</item>
+        <item>Rozciągnij szyję w obie strony. To zajmie dziesięć sekund.</item>
+        <item>Ruch radzi sobie z niepokojem lepiej niż treści.</item>
+        <item>Twoje ciało to jedyny dom, jaki masz.</item>
+        <item>Woda, światło i ruch. Prawie zawsze o to chodzi.</item>
+        <item>Ekran męczy, nawet gdy wygląda na odpoczynek.</item>
+        <item>Zamknij oczy na chwilę. Tylko tyle.</item>
+        <item>Oddychasz płytko. Weź trzy głębokie oddechy.</item>
+        <item>Prysznic załatwia więcej, niż się wydaje.</item>
+        <item>Twoje ciało za długo tkwi w jednym miejscu.</item>
+        <item>Prawdziwy odpoczynek obywa się bez ekranu.</item>
+        <item>Dwadzieścia minut spaceru zmienia cały dzień.</item>
+        <item>Głowa jest ciężka, bo ciało stoi w miejscu.</item>
+        <item>Suche oczy, sztywne ramiona. Pewnie już to czujesz.</item>
+        <item>Dwie minuty na nogach zresetują cię lepiej niż przewijanie.</item>
+        <item>Ciało prosi o sen, a głowa o bodźce. Posłuchaj ciała.</item>
+        <item>Światło ekranu psuje sen na długie godziny.</item>
+        <item>Rozprostuj nogi. To szybkie i działa.</item>
+        <item>Zasługujesz na odpoczynek, który naprawdę regeneruje.</item>
+        <item>Ruch to najtańszy antydepresant na świecie.</item>
+        <item>Twoje ciało zapamięta tę przespaną noc.</item>
+        <item>Powolny oddech uspokaja szybciej niż jakiekolwiek wideo.</item>
+        <item>To głód albo nuda. Sprawdź, które z nich.</item>
+        <item>Ciało się regeneruje, kiedy głowa zwalnia.</item>
+        <item>Dwadzieścia sekund patrzenia przez okno.</item>
+        <item>Twój nadgarstek i kciuk potrzebują wolnego.</item>
+        <item>Zmęczenie od ekranu przechodzi w marszu.</item>
+        <item>We śnie pamięć się porządkuje. Chroń go.</item>
+        <item>Potrzebujesz mniej bodźców, nie więcej.</item>
+        <item>Dwie minuty rozciągania dają więcej niż dziesięć minut wideo.</item>
+        <item>Twoje ciało daje ci teraz sygnał.</item>
+        <item>Powietrze, woda i ruch. Przepis się nie zmienił.</item>
+        <item>Połóż się na minutę na podłodze. Serio.</item>
+        <item>Ekran nie daje ci zasnąć, kiedy potrzebujesz snu.</item>
+        <item>Ciało prosi o przerwę, a ręka o ekran. Daj sobie przerwę.</item>
+        <item>Twoje oczy pracują od rana.</item>
+        <item>Dobrze przespana noc zmienia świat.</item>
+        <item>Wstań. Po prostu wstań. To już wystarczy.</item>
+        <item>Dzięki temu wyborowi będziesz lepiej spać.</item>
+        <item>Ciało dziękuje za to, co głowa uważa za nudne.</item>
+        <item>Rozciągnij plecy. Same się o to proszą.</item>
+        <item>Prawdziwy odpoczynek to cisza, nie kolejny bodziec.</item>
+        <item>Twoje ciało ma własny rytm, a ekran go ignoruje.</item>
+        <item>Spójrz na horyzont. Oczy potrzebują dystansu.</item>
+        <item>Napięcie w szczęce nie zniknie od przewijania.</item>
+        <item>Od jak dawna już siedzisz?</item>
+        <item>Ruch daje jasność. Zawsze dawał.</item>
+        <item>Zanim cokolwiek zdecydujesz, napij się wody.</item>
+        <item>Straconego snu nie odzyskasz dzięki treściom.</item>
+        <item>Twoje ciało działa dobrze, kiedy mu pozwalasz.</item>
+        <item>Krótka drzemka da więcej niż godzina feedu.</item>
+        <item>Głęboki oddech jest darmowy i działa od razu.</item>
+        <item>Ekran spina ciało bez ostrzeżenia.</item>
+        <item>Zmęczenie jest większe, niż musiałoby być.</item>
+        <item>Wstań i wyjrzyj przez okno. Pięć sekund.</item>
+        <item>Twoje ciało nie wyewoluowało po to, by bez ruchu wpatrywać się w światło.</item>
+        <item>Rozprostuj palce. Dziś sporo się napracowały.</item>
+        <item>Noc jest lepsza bez ekranu przed snem.</item>
+        <item>Ekran nie oferuje odpoczynku.</item>
+        <item>Twoje ciało prosi o naturę, a dostaje piksele.</item>
+        <item>Szklanka wody i trzy oddechy. Teraz.</item>
+        <item>Napięcie w ramieniu bierze się ze sposobu, w jaki trzymasz telefon.</item>
+        <item>Ciało się odpręża, kiedy uwaga przestaje gonić.</item>
+        <item>Za pięć minut poczujesz się lepiej.</item>
+        <item>Ruch zmienia chemię. Ekran zmienia tylko temat.</item>
+        <item>Twoje oczy zasługują na prawdziwy odpoczynek.</item>
+        <item>Spacer porządkuje myśli lepiej niż czytanie feedu.</item>
+        <item>Niebieskie światło teraz to gorszy sen później.</item>
+        <item>Potrzebujesz odpoczynku, nie kolejnych informacji.</item>
+        <item>Dwa głębokie oddechy, zanim zrobisz cokolwiek.</item>
+        <item>Twoje ciało jest mądrzejsze od impulsu.</item>
+        <item>Wstań i przejdź się do kuchni. Tyle wystarczy.</item>
+        <item>Daj odpocząć ciału, a głowa odpocznie razem z nim.</item>
+        <item>Obok ciebie są teraz ludzie z krwi i kości.</item>
+        <item>Jedna rozmowa jest warta więcej niż trzysta postów.</item>
+        <item>Zadzwoń do kogoś. Tak naprawdę, głosowo.</item>
+        <item>Ktoś, kogo kochasz, jest o jedną wiadomość od ciebie.</item>
+        <item>Ludzie z feedu nie wiedzą, że istniejesz.</item>
+        <item>Ci, którzy są z tobą w pokoju, zasługują na więcej.</item>
+        <item>Przytulenie załatwi to, czego nie załatwi żadne wideo.</item>
+        <item>Napisz do kogoś, o kim ostatnio zapominasz.</item>
+        <item>Twoja mama ucieszyłaby się dziś z telefonu.</item>
+        <item>W prawdziwym życiu są ludzie, którzy naprawdę odpowiadają.</item>
+        <item>Ten przyjaciel, który zniknął, wciąż może wrócić. Odezwij się.</item>
+        <item>Obecność to najrzadsza rzecz, jaką możesz dać.</item>
+        <item>Ktoś czeka, aż podniesiesz wzrok.</item>
+        <item>Dobre pytanie jest warte więcej niż godzina przewijania.</item>
+        <item>Ludzie wokół ciebie nie mają algorytmu.</item>
+        <item>Właśnie umyka ci rozmowa, która toczy się obok.</item>
+        <item>Nikogo z feedu nie będzie przy tobie, kiedy będziesz potrzebować.</item>
+        <item>Kawa z kimś zmienia tydzień bardziej niż jakikolwiek feed.</item>
+        <item>Twoje towarzystwo to prezent. Podaruj je komuś.</item>
+        <item>Spójrz na tych, którzy są z tobą.</item>
+        <item>Przyjaźń trzeba podlewać. Podlej ją dziś.</item>
+        <item>Osoba obok ciebie jest prawdziwa.</item>
+        <item>Ktoś, kto cię kocha, nie potrzebuje lajków.</item>
+        <item>Pamiętasz swoją ostatnią długą rozmowę?</item>
+        <item>Zaproś kogoś na spacer.</item>
+        <item>W najlepszych wspomnieniach rzadko jest ekran.</item>
+        <item>Ktoś ma teraz w tobie towarzystwo.</item>
+        <item>Wyślij wiadomość głosową komuś, kogo kochasz.</item>
+        <item>Ludzie się zmieniają, kiedy poświęcasz im uwagę.</item>
+        <item>Twoja obecność ma dziś dla kogoś znaczenie.</item>
+        <item>Po dobrej rozmowie czujesz się lepiej. Po feedzie nie.</item>
+        <item>Daj komuś znać, że o nim pamiętasz.</item>
+        <item>Spotkaj się z kimś, zamiast kogoś obserwować.</item>
+        <item>Silne więzi buduje się wspólnym czasem.</item>
+        <item>Możesz być powodem czyjegoś dobrego dnia.</item>
+        <item>Ten ktoś z rodziny, z kim nie rozmawiasz od miesięcy.</item>
+        <item>Szczera wiadomość jest warta więcej niż tysiąc wyświetleń.</item>
+        <item>Być razem to coś innego niż być online.</item>
+        <item>Ci, z którymi żyjesz na co dzień, zasługują na ciebie w całości.</item>
+        <item>Zaproś kogoś na kolację.</item>
+        <item>Prawdziwi ludzie mają twarz, głos i ograniczony czas.</item>
+        <item>Dla kogoś nikt cię nie zastąpi. Pokaż się.</item>
+        <item>Najważniejsza rozmowa dnia jeszcze przed tobą.</item>
+        <item>Gdzieś obok jest ktoś, kto też nie patrzy w ekran.</item>
+        <item>Słuchanie to najprostsza droga do czyjejś sympatii.</item>
+        <item>Ten przyjaciel przechodzi przez coś trudnego. Zapytaj.</item>
+        <item>Twoje dziecko, twój pies, twój sąsiad. Ktoś jest obok.</item>
+        <item>Sieci łączą cię z mnóstwem ludzi i z nikim naprawdę.</item>
+        <item>Popołudnie z kimś jest warte miesiąca feedu.</item>
+        <item>Możesz dziś kogoś rozśmieszyć. Naprawdę.</item>
+        <item>Pełna obecność to wielka rzadkość. Masz ją do dania.</item>
+        <item>Ktoś mówił o tobie w tym tygodniu. Odwzajemnij się.</item>
+        <item>Nikt w feedzie za tobą nie tęskni.</item>
+        <item>Pięciominutowy telefon zmienia komuś dzień.</item>
+        <item>Ludzie, którzy się liczą, nie piszą o tym postów.</item>
+        <item>Dzieli cię jedno pytanie od dobrej rozmowy.</item>
+        <item>Prawdziwe towarzystwo nie ma reklam w przerwie.</item>
+        <item>Ta osoba, która zawsze cię wspiera. Podziękuj jej dziś.</item>
+        <item>Patrzenie w oczy to wciąż najlepsza technologia.</item>
+        <item>Twoja rodzina to nie feed. Nie przewijaj jej.</item>
+        <item>Zaproś kogoś na wspólne nicnierobienie.</item>
+        <item>Ci, którzy są daleko, też zasługują na wieści od ciebie.</item>
+        <item>Poza tym miejscem są ludzie, którzy cię lubią.</item>
+        <item>Odkładana trudna rozmowa waży więcej niż feed.</item>
+        <item>Ciesz się tymi, którzy są blisko, póki są.</item>
+        <item>Ludzie pamiętają tych, którzy byli obok.</item>
+        <item>Zaproś przyjaciela na kawę bez okazji.</item>
+        <item>Gdzieś ktoś chce wiedzieć, co u ciebie.</item>
+        <item>Możesz teraz naprawdę kogoś wysłuchać.</item>
+        <item>Więź buduje się patrzeniem, nie przewijaniem.</item>
+        <item>Twoja uwaga to najlepszy prezent dla tych, których kochasz.</item>
+        <item>Człowiek jest wart więcej niż profil.</item>
+        <item>Rozmowa, która komuś się od ciebie należy. Niech będzie dziś.</item>
+        <item>Mieć dla kogoś czas to forma miłości.</item>
+        <item>Masz teraz czas dla kogoś.</item>
+        <item>Nikt, żegnając się z życiem, nie marzył o większej liczbie obserwujących.</item>
+        <item>Spotkaj kogoś znów, zamiast śledzić go z daleka.</item>
+        <item>Czułość czasem trzeba wypowiedzieć na głos.</item>
+        <item>Twoja stara paczka wciąż istnieje. Odezwij się do nich.</item>
+        <item>Ktoś obok ciebie chce porozmawiać.</item>
+        <item>Porównywanie to nie więź.</item>
+        <item>Możesz dziś po prostu być obok kogoś.</item>
+        <item>Liścik napisany odręcznie. Co za pomysł.</item>
+        <item>Ci, którzy naprawdę cię znają, nie siedzą w feedzie.</item>
+        <item>Spędź popołudnie z kimś.</item>
+        <item>Bliscy zasługują na to, co dajesz feedowi.</item>
+        <item>Znaczysz wiele dla kogoś, kto nic nie publikuje.</item>
+        <item>Zadzwoń i zapytaj, jak ktoś się naprawdę czuje.</item>
+        <item>Samotność nie mija od ekranu.</item>
+        <item>Zbliż się dziś do kogoś.</item>
+        <item>Wspólny posiłek jest wart całego popołudnia.</item>
+        <item>Twoja uwaga karmi relacje. Nakarm jedną z nich.</item>
+        <item>Ktoś właśnie teraz o tobie myśli.</item>
+        <item>Powiedz komuś, że go lubisz.</item>
+        <item>Przyjaźnie umierają od milczenia, nie od kłótni.</item>
+        <item>Masz obok siebie dobrych ludzi. Doceń to.</item>
+        <item>Ktoś potrzebuje towarzystwa, a ty możesz je dać.</item>
+        <item>Zostaw feed i idź do ludzi.</item>
+        <item>Ci, którzy cię kochają, chcą twojego czasu, nie profilu.</item>
+        <item>W pięć minut możesz komuś poprawić dzień.</item>
+        <item>Tworzenie męczy i napełnia. Konsumowanie odpręża i opróżnia.</item>
+        <item>Masz więcej do powiedzenia niż do oglądania.</item>
+        <item>Ktoś właśnie tworzy to, co miało cię zająć.</item>
+        <item>Napisz jedną linijkę. Tylko jedną.</item>
+        <item>Świat ma za dużo odbiorców i za mało twórców.</item>
+        <item>Twój pomysł wciąż czeka.</item>
+        <item>Możesz coś zrobić, zamiast oglądać coś zrobionego.</item>
+        <item>Każdą dobrą rzecz zrobił ktoś, kto akurat nie przewijał.</item>
+        <item>Twój pomysł jest wart więcej niż cały dzisiejszy feed.</item>
+        <item>Zacznij to, co odkładasz. Pięć minut wystarczy.</item>
+        <item>Zastygły projekt potrzebuje tylko pchnięcia.</item>
+        <item>Masz talent do czegoś innego niż przewijanie.</item>
+        <item>Zrób dziś coś, czego wczoraj nie było.</item>
+        <item>Tworzenie bawi bardziej niż oglądanie, trudno tylko zacząć.</item>
+        <item>Ten pusty zeszyt nie gryzie.</item>
+        <item>Najlepsze treści to te, które tworzysz.</item>
+        <item>Więcej się uczysz, robiąc, niż patrząc.</item>
+        <item>Zagraj na czymś, narysuj coś, ugotuj. Zrób coś rękami.</item>
+        <item>Twoja kreatywność znika, kiedy wypełniasz głowę feedem.</item>
+        <item>Istnieje twoje dzieło, którego nikt jeszcze nie stworzył.</item>
+        <item>Zacznij słabo. Potem będzie lepiej.</item>
+        <item>Akapit dziennie zamienia się w książkę.</item>
+        <item>Masz historię do opowiedzenia.</item>
+        <item>Robienie rzeczy to antidotum na pustkę.</item>
+        <item>Nuda to początek kreatywności. Pozwól jej być.</item>
+        <item>Twoja głowa wymyśla, kiedy przestajesz ją zapychać.</item>
+        <item>Ten opłacony kurs wciąż czeka.</item>
+        <item>Nauczenie się dziś czegoś nowego jest w zasięgu ręki.</item>
+        <item>Konsumowanie jest łatwe. Dlatego tak mało satysfakcjonuje.</item>
+        <item>Chcesz coś zrobić. Zacznij teraz.</item>
+        <item>Pięć minut ćwiczeń daje więcej niż godzina wideo.</item>
+        <item>Ten przepis, który chcesz wypróbować.</item>
+        <item>Pomysły przychodzą w ciszy, nie przy przewijaniu.</item>
+        <item>Możesz tworzyć, zamiast być widownią.</item>
+        <item>Mały projekt zmienia cały tydzień.</item>
+        <item>Zapisz, co chcesz robić, kiedy znajdzie się czas. Właśnie się znalazł.</item>
+        <item>Twoje ręce potrafią robić różne rzeczy. Użyj ich.</item>
+        <item>Zrób dziś coś niedoskonałego.</item>
+        <item>Nauka smakuje lepiej niż rozrywka.</item>
+        <item>To, co tworzysz, zostaje. To, co przewijasz, znika.</item>
+        <item>Ten instrument, który stoi w kącie.</item>
+        <item>Czeka na ciebie niedokończony projekt.</item>
+        <item>Tworzenie to przeciwieństwo porównywania się.</item>
+        <item>Zacznij od małego. Zacznij dziś.</item>
+        <item>Strona dziennie to inne życie.</item>
+        <item>Twoja wyobraźnia potrzebuje pustej przestrzeni.</item>
+        <item>Zrób coś, czym jutro chętnie się pochwalisz.</item>
+        <item>Satysfakcji z tworzenia nic nie zastąpi.</item>
+        <item>Stać cię na więcej niż konsumowanie.</item>
+        <item>To porzucone hobby wciąż istnieje.</item>
+        <item>Dwadzieścia minut ćwiczeń to dwadzieścia minut postępu.</item>
+        <item>Przewijając feed, nikt jeszcze w niczym nie stał się dobry.</item>
+        <item>Twoja następna umiejętność kiedyś się zaczyna. Niech to będzie teraz.</item>
+        <item>Rób swoje, nawet jeśli nikt nie patrzy.</item>
+        <item>Jest coś, czego chcesz się nauczyć. Zacznij.</item>
+        <item>Konsumowanie to oglądanie cudzego życia.</item>
+        <item>Masz ręce, głowę i czas. To wszystko, czego potrzebujesz.</item>
+        <item>Pierwsza wersja zawsze jest słaba. I tak ją zrób.</item>
+        <item>Ten język, którym marzy ci się mówić.</item>
+        <item>Tworzenie to sposób, w jaki nuda zamienia się w radość.</item>
+        <item>Odrobina dziennie zbuduje każdą umiejętność.</item>
+        <item>Masz w sobie coś, co chce wyjść na zewnątrz.</item>
+        <item>Opisz swój dzień. Tylko dla siebie.</item>
+        <item>Twoja kreatywność czeka, aż wyłączysz hałas.</item>
+        <item>Zrób dziś coś własnymi rękami.</item>
+        <item>Przyjemność z ukończenia czegoś nie przypomina niczego innego.</item>
+        <item>Ten projekt, który cię tak cieszył. Wciąż może cieszyć.</item>
+        <item>Żeby zacząć, nie musi ci od razu wychodzić.</item>
+        <item>Ugotuj coś nowego. To też tworzenie.</item>
+        <item>Życie robi się ciekawsze, kiedy coś robisz.</item>
+        <item>Nikt nie rodzi się mistrzem. Każdy zaczyna słabo.</item>
+        <item>Ten pomysł ze środka nocy. Zapisz go.</item>
+        <item>To, co umiesz, może się komuś przydać.</item>
+        <item>Zrób trochę dziś i trochę jutro.</item>
+        <item>Najlepszy moment na start już minął. Drugi najlepszy jest teraz.</item>
+        <item>Twoje dzieło samo się nie zrobi.</item>
+        <item>Ćwiczenie jest nudne, dopóki nie zaczyna wychodzić.</item>
+        <item>Chcesz tworzyć. Feed woli, żeby skończyło się na patrzeniu.</item>
+        <item>Ten rysunek, który czeka na dokończenie.</item>
+        <item>Robienie to najszybszy sposób nauki.</item>
+        <item>Masz głos. Zrób z niego użytek.</item>
+        <item>Naprawienie czegoś w domu to też tworzenie.</item>
+        <item>Twój następny sukces zaczyna się w zwykły dzień, taki jak dziś.</item>
+        <item>Zrób coś po swojemu, jak nikt inny.</item>
+        <item>Feed jest nieskończony. Twoje dzieło ma koniec i dlatego się liczy.</item>
+        <item>Możesz dziś coś posadzić. Dosłownie.</item>
+        <item>Ten arkusz, ten plan, to marzenie.</item>
+        <item>Tworzenie wymaga pracy i właśnie dlatego jest warte zachodu.</item>
+        <item>W tobie jest więcej ciekawych rzeczy niż w jakimkolwiek feedzie.</item>
+        <item>Poucz się przez dwadzieścia minut. To mało i dużo zarazem.</item>
+        <item>Ciekawość jest lepsza, kiedy zamienia się w praktykę.</item>
+        <item>Ta piosenka, której chcesz się nauczyć.</item>
+        <item>Zrób teraz coś prostego i pożytecznego.</item>
+        <item>Masz światu do zaoferowania coś dobrego.</item>
+        <item>Zacznij coś, za co jutro sobie podziękujesz.</item>
+        <item>Własny projekt zmienia relację z czasem.</item>
+        <item>Tworzenie to najlepszy sposób na zajęcie głowy.</item>
+        <item>Możesz dziś coś skończyć.</item>
+        <item>Weź w ręce coś prawdziwego.</item>
+        <item>Nic nie zastąpi poczucia, że coś jest zrobione.</item>
+        <item>To nic, że tu trafiasz. Teraz odetchnij.</item>
+        <item>Nikt niczego nie liczy. Po prostu idź dalej.</item>
+        <item>Radzisz sobie dobrze, nawet jeśli na to nie wygląda.</item>
+        <item>Bez pośpiechu i bez presji. Tylko przerwa.</item>
+        <item>To nie test. To tylko delikatne przypomnienie.</item>
+        <item>Próbujesz i to już wystarczy.</item>
+        <item>Wszystko w porządku. Zamknij i wróć do swojego dnia.</item>
+        <item>Tu nie chodzi o to, żeby zawsze się udawało.</item>
+        <item>Zasługujesz dziś na lekkość.</item>
+        <item>Bez dramatu. Tylko chwila na oddech.</item>
+        <item>To spokojne miejsce. Zostań tu na chwilę.</item>
+        <item>Robisz, co możesz. To się liczy.</item>
+        <item>Tu nie ma presji. Jest tylko troska.</item>
+        <item>Oddychaj. Nie dzieje się nic złego.</item>
+        <item>Już to, że tu jesteś, jest dobre.</item>
+        <item>Nikt cię nie ocenia. Ty też nie musisz.</item>
+        <item>Wszystko gra. Po prostu rób swoje.</item>
+        <item>Krok po kroku to właściwe tempo.</item>
+        <item>To nie musi ci wychodzić perfekcyjnie.</item>
+        <item>Powoli to też do przodu.</item>
+        <item>Ten ekran niczego od ciebie nie wymaga.</item>
+        <item>Potraktuj się teraz łagodnie.</item>
+        <item>Czuć chęć to nic złego. To normalne.</item>
+        <item>Dbasz o siebie. To piękne.</item>
+        <item>Bez alarmu, bez pośpiechu, bez strachu.</item>
+        <item>Jesteś człowiekiem. To dozwolone.</item>
+        <item>Nie musisz się nikomu tłumaczyć.</item>
+        <item>Weź głęboki wdech. Już po wszystkim.</item>
+        <item>Tu jest bezpiecznie.</item>
+        <item>To nic, jeśli dziś jest trudno.</item>
+        <item>Żaden dzień nie jest taki sam jak inny. Ten też nie.</item>
+        <item>Jesteś w drodze, nawet jeśli idziesz powoli.</item>
+        <item>Daj sobie na chwilę spokój z wymaganiami.</item>
+        <item>Wszystko jest dobrze. Tylko chwila oddechu.</item>
+        <item>Nie musisz zawsze czuć się dobrze.</item>
+        <item>Łagodność wobec siebie działa lepiej niż surowość.</item>
+        <item>Ta chwila spokojnie minie.</item>
+        <item>Trudną część dnia masz już za sobą.</item>
+        <item>Nic pilnego. Nic poważnego. Tylko przerwa.</item>
+        <item>Uśmiechnij się. To mniejsza sprawa, niż się wydaje.</item>
+        <item>Próbujesz, a to jest najważniejsze.</item>
+        <item>Nikomu nie musisz się rozliczać. Po prostu idź swoją drogą.</item>
+        <item>Wszystko jest w porządku. Naprawdę.</item>
+        <item>Zasługujesz na lekki dzień.</item>
+        <item>Oddychaj. Świat dalej się kręci.</item>
+        <item>Dziś bez pośpiechu.</item>
+        <item>Ten wybór daje ci spokój.</item>
+        <item>Możesz zaczynać od nowa tyle razy, ile trzeba.</item>
+        <item>To miejsce bez oczekiwań.</item>
+        <item>Daj procesowi czas.</item>
+        <item>Z niczym się nie spóźniasz.</item>
+        <item>To nic, że forma nie jest dziś stuprocentowa.</item>
+        <item>Ta przerwa to troska, nie upomnienie.</item>
+        <item>Możesz teraz po prostu iść dalej.</item>
+        <item>Bez napięcia. Tylko chwila.</item>
+        <item>To nic, jeśli to był odruch.</item>
+        <item>Nie potrzebujesz powodu, żeby czuć się dobrze.</item>
+        <item>Odetchnij i ruszaj dalej. Tak po prostu.</item>
+        <item>Tu nie ma żadnego problemu.</item>
+        <item>Robisz to dobrze.</item>
+        <item>Naprawdę wszystko gra. Idź w spokoju.</item>
+        <item>Ta chwila jest twoja, na odpoczynek.</item>
+        <item>Wiele osób przechodzi przez to samo.</item>
+        <item>Wszystko jest spokojnie. Wracaj do swojego dnia.</item>
+        <item>Bez ciężaru. Tylko przypomnienie.</item>
+        <item>Już teraz wystarczasz.</item>
+        <item>Spokoju, którego szukasz, nie ma w feedzie.</item>
+        <item>Z tobą wszystko jest w porządku.</item>
+        <item>Daj głowie odpocząć choć przez sekundę.</item>
+        <item>Zasługujesz na tę troskę.</item>
+        <item>Nic nie musi być teraz rozwiązane.</item>
+        <item>Weź jeden oddech. Potem idź dalej.</item>
+        <item>Wszystko z tobą dobrze. Tylko tyle.</item>
+        <item>Bez wymagań, bez rachunków, bez wyniku.</item>
+        <item>Chwila spokoju w środku dnia.</item>
+        <item>Możesz teraz okazać sobie życzliwość.</item>
+        <item>Wokół panuje spokój.</item>
+        <item>Na nic nie trzeba się spieszyć.</item>
+        <item>Dziś zrobione jest tyle, ile się dało.</item>
+        <item>W porządku. Jutro ciąg dalszy.</item>
+        <item>Ta chwila to tylko jeden oddech.</item>
+        <item>Jest bezpiecznie i to wystarczy.</item>
+        <item>Tutaj nikt nikogo nie ocenia.</item>
+        <item>Po prostu odetchnij i idź żyć.</item>
+        <item>Zasługujesz dziś na spokój.</item>
+        <item>Każde tempo jest w porządku.</item>
+        <item>Pozwól głowie trochę odpocząć.</item>
+        <item>Tu zawsze jest dla ciebie miejsce.</item>
+        <item>Bez obaw. Tylko krótki postój.</item>
+        <item>Dziś życie to nie wyścig.</item>
+        <item>Jesteś w jednym kawałku i to wystarczy.</item>
+        <item>Spróbować to zawsze w porządku.</item>
+        <item>Nic tu nie jest przeciwko tobie.</item>
+        <item>Oddychaj i rób dalej, powoli.</item>
+        <item>Jest dobrze tak, jak jest.</item>
+        <item>To chwila spokoju.</item>
+        <item>Bez żadnej presji. Idź dalej z lekkością.</item>
+        <item>Wolno ci odpocząć.</item>
+        <item>Tutaj wszystko jest spokojne.</item>
+        <item>Spokojnie. Dzień poczeka.</item>
+        <item>Życzliwość dla siebie to oznaka siły.</item>
+        <item>Na co poszłaby ta chwila, gdyby tej aplikacji nie było?</item>
+        <item>Jesteś tu z wyboru czy z przyzwyczajenia?</item>
+        <item>Czego właściwie szukasz?</item>
+        <item>Czy to będzie ważne jutro rano?</item>
+        <item>Czy będziesz pamiętać to, co tam teraz jest?</item>
+        <item>Co było przed sięgnięciem po telefon?</item>
+        <item>Ile czasu chcesz dziś na to poświęcić?</item>
+        <item>To nuda czy zmęczenie?</item>
+        <item>Czym mogłoby być twoje popołudnie zamiast tego?</item>
+        <item>Czy warto?</item>
+        <item>Jest jakiś konkretny powód, żeby to otwierać?</item>
+        <item>Co znów zostałoby odłożone, gdyby to teraz otworzyć?</item>
+        <item>Kim chcesz być za rok?</item>
+        <item>Co naprawdę dobrze by ci teraz zrobiło?</item>
+        <item>Uciekasz przed czymś?</item>
+        <item>Może zrobisz to, co od dawna odkładasz?</item>
+        <item>Co się stanie, jeśli po prostu to zamkniesz?</item>
+        <item>Masz coś lepszego do zrobienia. Co to takiego?</item>
+        <item>To odpoczynek czy ucieczka?</item>
+        <item>O co poprosiłaby cię jutrzejsza wersja ciebie?</item>
+        <item>Głód, senność czy nuda?</item>
+        <item>Kiedy ostatnio feed poprawił ci humor?</item>
+        <item>Co chcesz czuć pod koniec dnia?</item>
+        <item>Czego ci teraz brakuje?</item>
+        <item>Potrzebujesz tego czy tylko chcesz?</item>
+        <item>Jaka drobna rzecz poprawiłaby teraz twój dzień?</item>
+        <item>Co można by zrobić z dwiema wolnymi godzinami?</item>
+        <item>Już wiesz, czym warto się teraz zająć.</item>
+        <item>Ile naprawdę kosztuje ten kwadrans?</item>
+        <item>Chcesz tego, czy to tylko ręka działa sama?</item>
+        <item>Co byłoby teraz bardziej warte zachodu?</item>
+        <item>Wszystko u ciebie w porządku?</item>
+        <item>Jaki byłby teraz najlepszy wybór, na spokojnie?</item>
+        <item>Czy to pół godziny da ci powód do dumy?</item>
+        <item>Czym się zająć, gdyby nikt nie patrzył?</item>
+        <item>Jest ktoś, do kogo możesz teraz zadzwonić?</item>
+        <item>Czego twoja głowa próbuje uniknąć?</item>
+        <item>Warto oddać za to swoje popołudnie?</item>
+        <item>Masz plan na dziś. Czy to w nim jest?</item>
+        <item>Co byłoby teraz najfajniejsze do zrobienia?</item>
+        <item>Tak szczerze: jak się masz?</item>
+        <item>Co sprawiłoby, że ten tydzień będzie udany?</item>
+        <item>To jest to, czego chcesz, czy to, co po prostu robisz?</item>
+        <item>Wiesz już, co chcesz robić jutro?</item>
+        <item>Ile razy dziś telefon był już w twojej ręce?</item>
+        <item>Co da ci satysfakcję za godzinę?</item>
+        <item>Chcesz wejść czy to tylko palec na autopilocie?</item>
+        <item>Jaką ważną rzecz odkładasz na później?</item>
+        <item>Co pomyślałaby o tym wersja ciebie sprzed dziesięciu lat?</item>
+        <item>Czy to naprawdę odpoczynek?</item>
+        <item>Czy jest coś, na co potrzeba ci tylko odwagi?</item>
+        <item>Co chcesz mieć za sobą dziś wieczorem?</item>
+        <item>Czy to jest warte więcej niż rozmowa?</item>
+        <item>Na co masz dziś czas?</item>
+        <item>Jaki nawyk chcesz mieć za pół roku?</item>
+        <item>Co naprawdę domaga się twojej uwagi?</item>
+        <item>Wolisz to popołudnie zapamiętać czy zapomnieć?</item>
+        <item>Jak dobrze wykorzystać tę chwilę?</item>
+        <item>Jesteś tu, żeby coś zobaczyć, czy żeby czegoś nie czuć?</item>
+        <item>Co pomoże ci dziś dobrze zasnąć?</item>
+        <item>To dodaje coś do twojego dnia czy odejmuje?</item>
+        <item>Naprawdę chcesz wiedzieć, co tam jest?</item>
+        <item>Jaka była ostatnia dobra rzecz zrobiona bez ekranu?</item>
+        <item>Jak mogłoby wyglądać popołudnie bez internetu?</item>
+        <item>Dokąd ci się tak spieszy?</item>
+        <item>Jaki mały krok możesz teraz zrobić?</item>
+        <item>Co potrzebuje twojej uwagi bardziej niż to?</item>
+        <item>Czy dziś był już czas na głęboki oddech?</item>
+        <item>Jaki masz plan na najbliższą godzinę?</item>
+        <item>Czy to przybliża cię do czegoś, czego chcesz?</item>
+        <item>Jak by to wyglądało w oczach kogoś, kogo podziwiasz?</item>
+        <item>Co dobrego dziś się wydarzyło?</item>
+        <item>Ile z twojego dnia pochłonęły już ekrany?</item>
+        <item>Masz pomysł, który czeka na swoją kolej?</item>
+        <item>Co chcesz zrobić z tym tygodniem?</item>
+        <item>Czy warto zamienić ciszę na hałas?</item>
+        <item>Dziś tworzysz czy konsumujesz?</item>
+        <item>Jaka prosta rzecz by cię teraz ucieszyła?</item>
+        <item>Jaką radę dostałby od ciebie przyjaciel w tej sytuacji?</item>
+        <item>Masz pięć minut. Na co?</item>
+        <item>Co tak naprawdę cię gryzie?</item>
+        <item>Czy to najlepsze, co możesz teraz zrobić?</item>
+        <item>Czy panujesz nad tą chwilą?</item>
+        <item>Jaka decyzja dałaby ci powód do dumy?</item>
+        <item>Co chcesz mieć zrobione, kiedy dzień się skończy?</item>
+        <item>Pamiętasz, po co ta aplikacja tu jest?</item>
+        <item>Może odłożysz to na później i sprawdzisz, czy nadal chcesz?</item>
+        <item>Co by się dziś wydarzyło z odrobiną więcej odwagi?</item>
+        <item>Chcesz szybką czy dobrą wersję swojego dnia?</item>
+        <item>Co dziś możesz zrobić tylko ty?</item>
+        <item>Co czeka na ciebie na zewnątrz?</item>
+        <item>Było dziś coś, za co czujesz wdzięczność?</item>
+        <item>Ile jest dla ciebie warte najbliższe pół godziny?</item>
+        <item>Co chcesz zabrać ze sobą z tego tygodnia?</item>
+        <item>To pilne, czy tylko tak wygląda?</item>
+        <item>Robisz to, co chcesz robić?</item>
+        <item>Jakie byłoby dobre zakończenie tego dnia?</item>
+        <item>Na co starczyłoby sił po dobrym odpoczynku?</item>
+        <item>Wolisz teraz przewijać czy żyć?</item>
+        <item>Może po prostu zamkniesz i zobaczysz, co będzie?</item>
+    </string-array>
+</resources>

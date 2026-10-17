@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">%1$s đang bị chặn.</string>
+    <string name="aceleralock_block_title_unknown">Ứng dụng này đang bị chặn.</string>
+    <string name="aceleralock_block_close">Đóng</string>
+    <string name="aceleralock_notification_channel">Bảo vệ đang bật</string>
+    <string name="aceleralock_notification_text">Bảo vệ đang bật</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: chặn trang web</string>
+    <string name="aceleralock_site_accessibility_description">Chỉ đọc địa chỉ trên thanh địa chỉ của Chrome, Samsung Internet, Firefox, Edge và Brave để chặn những trang web bạn đã chọn. Không có gì được lưu lại và không có gì rời khỏi thiết bị.</string>
+</resources>

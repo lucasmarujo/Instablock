@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">%1$s ब्लॉक केले आहे.</string>
+    <string name="aceleralock_block_title_unknown">हे अॅप ब्लॉक केले आहे.</string>
+    <string name="aceleralock_block_close">बंद करा</string>
+    <string name="aceleralock_notification_channel">संरक्षण सुरू आहे</string>
+    <string name="aceleralock_notification_text">संरक्षण सुरू आहे</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: साइट ब्लॉकिंग</string>
+    <string name="aceleralock_site_accessibility_description">तुम्ही निवडलेल्या साइट ब्लॉक करण्यासाठी Chrome, Samsung Internet, Firefox, Edge आणि Brave च्या अॅड्रेस बारमधील फक्त पत्ता वाचते. काहीही सेव्ह होत नाही आणि काहीही उपकरणाबाहेर जात नाही.</string>
+</resources>

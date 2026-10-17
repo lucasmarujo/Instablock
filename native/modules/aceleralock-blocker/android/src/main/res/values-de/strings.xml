@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">%1$s ist gesperrt.</string>
+    <string name="aceleralock_block_title_unknown">Diese App ist gesperrt.</string>
+    <string name="aceleralock_block_close">Schließen</string>
+    <string name="aceleralock_notification_channel">Schutz aktiv</string>
+    <string name="aceleralock_notification_text">Schutz aktiv</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: Websites sperren</string>
+    <string name="aceleralock_site_accessibility_description">Liest nur die Adresse in der Adressleiste von Chrome, Samsung Internet, Firefox, Edge und Brave, um die Websites zu sperren, die du ausgewählt hast. Nichts wird gespeichert, und nichts verlässt das Gerät.</string>
+</resources>

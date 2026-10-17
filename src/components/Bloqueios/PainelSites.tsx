@@ -7,6 +7,8 @@ import { EmptyState } from '@/components/EmptyState';
 import { Grupo } from '@/components/Grupo';
 import { InlineAlert } from '@/components/InlineAlert';
 import { TextField } from '@/components/TextField';
+import { useTextos } from '@/i18n/IdiomaContext';
+import { formatar } from '@/i18n/formatos';
 import AceleralockBlocker, { type PermissionState } from '@/native/blocker';
 import { normalizarDominio } from '@/state/blockedSites';
 import { radius, spacing, typography } from '@/theme/tokens';
@@ -50,6 +52,8 @@ type Props = {
  */
 export function PainelSites({ cabecalho, restricted, permissions, onSalvo }: Props) {
   const theme = useTheme();
+  const t = useTextos();
+  const textos = t.bloqueios.sites;
   const [carga, setCarga] = useState<Carga>(lerDominios);
   const [entrada, setEntrada] = useState('');
   const [invalido, setInvalido] = useState(false);
@@ -117,9 +121,9 @@ export function PainelSites({ cabecalho, restricted, permissions, onSalvo }: Pro
 
         {precisaAcessibilidade && (
           <InlineAlert
-            title="Ative a leitura do navegador para bloquear sites"
-            message="O AceleraLock usa o serviço de acessibilidade do Android só para ler o endereço na barra do Chrome, Samsung Internet, Firefox, Edge e Brave e comparar com a sua lista. Não lê o conteúdo das páginas, não guarda o que você visita e nada sai do aparelho."
-            actionLabel="Ativar nas Configurações"
+            title={textos.avisoAcessibilidadeTitulo}
+            message={textos.avisoAcessibilidadeMensagem}
+            actionLabel={textos.ativarNasConfiguracoes}
             onAction={() =>
               Linking.sendIntent('android.settings.ACCESSIBILITY_SETTINGS').catch(() =>
                 Linking.openSettings()
@@ -130,24 +134,24 @@ export function PainelSites({ cabecalho, restricted, permissions, onSalvo }: Pro
 
         {carga.estado === 'erro' && (
           <Text style={[styles.corpo, { color: theme.colors.textSecondary }]}>
-            Não deu para ler a lista de sites. Saia e entre nesta tela para tentar de novo.
+            {textos.erroAoLer}
           </Text>
         )}
 
         {carga.estado === 'pronto' && (
           <>
             <TextField
-              label="Adicionar site"
+              label={textos.campoRotulo}
               value={entrada}
               onChangeText={(texto) => {
                 setEntrada(texto);
                 setInvalido(false);
               }}
-              placeholder="ex.: instagram.com"
-              accessibilityLabel="Endereço do site para bloquear"
+              placeholder={textos.campoPlaceholder}
+              accessibilityLabel={textos.campoRotuloFalado}
               leadingIcon="globe-outline"
-              helper="Bloqueia o site e todos os endereços dentro dele, como m.instagram.com."
-              error={invalido ? 'Digite o endereço de um site, como instagram.com.' : null}
+              helper={textos.campoAjuda}
+              error={invalido ? textos.campoErro : null}
               keyboardType="url"
               autoCapitalize="none"
               autoCorrect={false}
@@ -157,7 +161,7 @@ export function PainelSites({ cabecalho, restricted, permissions, onSalvo }: Pro
               trailing={
                 <Pressable
                   accessibilityRole="button"
-                  accessibilityLabel="Adicionar site"
+                  accessibilityLabel={textos.botaoAdicionarFalado}
                   accessibilityState={{ disabled: restricted }}
                   onPress={adicionar}
                   disabled={restricted}
@@ -175,20 +179,17 @@ export function PainelSites({ cabecalho, restricted, permissions, onSalvo }: Pro
                   <Text
                     style={[styles.rotuloAdicionar, { color: theme.colors.surfaces.brand.onFill }]}
                   >
-                    Adicionar
+                    {textos.botaoAdicionar}
                   </Text>
                 </Pressable>
               }
             />
 
             {carga.dominios.length === 0 ? (
-              <EmptyState
-                title="Nenhum site bloqueado ainda"
-                message="Digite o endereço do primeiro site que rouba seu tempo."
-              />
+              <EmptyState title={textos.vazioTitulo} message={textos.vazioMensagem} />
             ) : (
               <View style={styles.secao}>
-                <Grupo titulo={`Bloqueados · ${carga.dominios.length}`}>
+                <Grupo titulo={formatar(textos.secaoBloqueados, { n: carga.dominios.length })}>
                   {carga.dominios.map((dominio) => (
                     <View key={dominio} style={styles.linha}>
                       <View style={[styles.globo, { backgroundColor: theme.colors.bgSunken }]}>
@@ -203,13 +204,15 @@ export function PainelSites({ cabecalho, restricted, permissions, onSalvo }: Pro
                           {dominio}
                         </Text>
                         <Text style={[styles.legenda, { color: theme.colors.textSecondary }]}>
-                          {carga.salvos.includes(dominio) ? 'e subdomínios' : 'Bloqueia ao salvar'}
+                          {carga.salvos.includes(dominio)
+                            ? textos.legendaSalvo
+                            : textos.legendaBloqueiaAoSalvar}
                         </Text>
                       </View>
                       {!restricted && (
                         <Pressable
                           accessibilityRole="button"
-                          accessibilityLabel={`Remover ${dominio}`}
+                          accessibilityLabel={formatar(textos.removerFalado, { site: dominio })}
                           onPress={() => remover(dominio)}
                           style={styles.remover}
                         >
@@ -232,7 +235,7 @@ export function PainelSites({ cabecalho, restricted, permissions, onSalvo }: Pro
                     color={theme.colors.textBrand}
                   />
                   <Text style={[styles.textoStatus, { color: theme.colors.textBrand }]}>
-                    Leitura do navegador ativa · os sites estão bloqueados
+                    {textos.leituraAtiva}
                   </Text>
                 </View>
               )}
@@ -242,8 +245,8 @@ export function PainelSites({ cabecalho, restricted, permissions, onSalvo }: Pro
 
       {totalDeAlteracoes(alteracoes) > 0 && !restricted && (
         <BarraSalvar
-          titulo={tituloDaBarra(alteracoes)}
-          detalhe={descreverAlteracoes(alteracoes, (dominio) => dominio)}
+          titulo={tituloDaBarra(alteracoes, t)}
+          detalhe={descreverAlteracoes(alteracoes, (dominio) => dominio, t)}
           salvando={salvando}
           onSalvar={salvar}
         />

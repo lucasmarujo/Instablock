@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">%1$s ታግዷል።</string>
+    <string name="aceleralock_block_title_unknown">ይህ መተግበሪያ ታግዷል።</string>
+    <string name="aceleralock_block_close">ዝጋ</string>
+    <string name="aceleralock_notification_channel">ጥበቃ በርቷል</string>
+    <string name="aceleralock_notification_text">ጥበቃ በርቷል</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: የድር ጣቢያ ማገድ</string>
+    <string name="aceleralock_site_accessibility_description">ያመረጧቸውን ድር ጣቢያዎች ለማገድ በChrome፣ Samsung Internet፣ Firefox፣ Edge እና Brave የአድራሻ አሞሌ ላይ ያለውን አድራሻ ብቻ ያነባል። ምንም አይቀመጥም፣ ከመሣሪያው ምንም አይወጣም።</string>
+</resources>

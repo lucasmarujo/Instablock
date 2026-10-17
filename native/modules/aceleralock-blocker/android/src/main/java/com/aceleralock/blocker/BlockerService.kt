@@ -250,14 +250,14 @@ class BlockerService : Service() {
             manager.createNotificationChannel(
                 NotificationChannel(
                     BlockerTuning.NOTIFICATION_CHANNEL_ID,
-                    "Proteção ativa",
+                    getString(R.string.aceleralock_notification_channel),
                     NotificationManager.IMPORTANCE_LOW
                 )
             )
         }
         return Notification.Builder(this, BlockerTuning.NOTIFICATION_CHANNEL_ID)
             .setContentTitle("AceleraLock")
-            .setContentText("Proteção ativa")
+            .setContentText(getString(R.string.aceleralock_notification_text))
             .setOngoing(true)
             .setSmallIcon(android.R.drawable.ic_lock_lock)
             .build()

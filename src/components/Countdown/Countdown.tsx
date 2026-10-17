@@ -2,6 +2,8 @@ import { useState, type ReactNode } from 'react';
 import { Pressable, StyleSheet, Text, View } from 'react-native';
 
 import { Skeleton } from '@/components/Skeleton';
+import { formatar } from '@/i18n/formatos';
+import { useTextos } from '@/i18n/IdiomaContext';
 import { spacing, typography } from '@/theme/tokens';
 import { useTheme } from '@/theme/useTheme';
 
@@ -39,6 +41,7 @@ type Props = {
  */
 export function Countdown({ readRemainingMs, totalMs, completeSlot }: Props) {
   const theme = useTheme();
+  const t = useTextos();
   const { snapshot, refresh } = useCountdown(readRemainingMs);
   const [retrying, setRetrying] = useState(false);
 
@@ -53,7 +56,7 @@ export function Countdown({ readRemainingMs, totalMs, completeSlot }: Props) {
       <View
         style={styles.container}
         accessibilityRole="timer"
-        accessibilityLabel="Carregando tempo restante"
+        accessibilityLabel={t.espera.contagem.carregando}
         accessibilityLiveRegion="polite"
       >
         <Skeleton width={180} height={typography.timerHero.lineHeight} />
@@ -64,7 +67,9 @@ export function Countdown({ readRemainingMs, totalMs, completeSlot }: Props) {
   if (snapshot.status === 'error') {
     return (
       <View style={styles.container} accessibilityLiveRegion="polite">
-        <Text style={[styles.message, { color: theme.colors.textOnHero }]}>{snapshot.message}</Text>
+        <Text style={[styles.message, { color: theme.colors.textOnHero }]}>
+          {t.espera.contagem.erroLeitura}
+        </Text>
         <Pressable
           accessibilityRole="button"
           accessibilityState={{ busy: retrying }}
@@ -73,7 +78,7 @@ export function Countdown({ readRemainingMs, totalMs, completeSlot }: Props) {
           hitSlop={{ top: 4, bottom: 4, left: 4, right: 4 }}
         >
           <Text style={[styles.retryLabel, { color: theme.colors.textOnHeroBrand }]}>
-            Tentar de novo
+            {t.espera.contagem.tentarDeNovo}
           </Text>
         </Pressable>
       </View>
@@ -83,7 +88,9 @@ export function Countdown({ readRemainingMs, totalMs, completeSlot }: Props) {
   if (snapshot.status === 'complete') {
     return (
       <View style={styles.container} accessibilityLiveRegion="polite">
-        <Text style={[styles.title, { color: theme.colors.textOnHero }]}>Espera concluída</Text>
+        <Text style={[styles.title, { color: theme.colors.textOnHero }]}>
+          {t.espera.contagem.concluida}
+        </Text>
         {completeSlot}
       </View>
     );
@@ -113,7 +120,9 @@ export function Countdown({ readRemainingMs, totalMs, completeSlot }: Props) {
       >
         {formatRemainingClock(remainingMs)}
       </Text>
-      <Text style={[styles.restantes, { color: theme.colors.textOnHeroSecondary }]}>restantes</Text>
+      <Text style={[styles.restantes, { color: theme.colors.textOnHeroSecondary }]}>
+        {t.espera.contagem.restantes}
+      </Text>
     </View>
   );
 
@@ -122,7 +131,7 @@ export function Countdown({ readRemainingMs, totalMs, completeSlot }: Props) {
       style={styles.container}
       accessibilityRole="timer"
       accessibilityLiveRegion="polite"
-      accessibilityLabel={formatRemainingForScreenReader(bucketedMs)}
+      accessibilityLabel={formatRemainingForScreenReader(bucketedMs, t)}
     >
       {fracao === null ? (
         numero
@@ -140,8 +149,12 @@ export function Countdown({ readRemainingMs, totalMs, completeSlot }: Props) {
         style={[styles.label, { color: theme.colors.textOnHeroSecondary }]}
         importantForAccessibility="no"
       >
-        {formatRemainingShort(remainingMs)}
-        {totalMin ? ` de ${totalMin} min` : ''}
+        {totalMin
+          ? formatar(t.espera.contagem.restanteDeTotal, {
+              restante: formatRemainingShort(remainingMs, t),
+              total: totalMin,
+            })
+          : formatRemainingShort(remainingMs, t)}
       </Text>
     </View>
   );

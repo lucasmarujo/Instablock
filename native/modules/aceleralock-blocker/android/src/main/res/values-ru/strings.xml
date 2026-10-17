@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">Приложение %1$s заблокировано.</string>
+    <string name="aceleralock_block_title_unknown">Это приложение заблокировано.</string>
+    <string name="aceleralock_block_close">Закрыть</string>
+    <string name="aceleralock_notification_channel">Защита включена</string>
+    <string name="aceleralock_notification_text">Защита включена</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: блокировка сайтов</string>
+    <string name="aceleralock_site_accessibility_description">Считывает только адрес в адресной строке Chrome, Samsung Internet, Firefox, Edge и Brave, чтобы блокировать сайты, которые вы выбрали. Ничего не сохраняется и не покидает устройство.</string>
+</resources>

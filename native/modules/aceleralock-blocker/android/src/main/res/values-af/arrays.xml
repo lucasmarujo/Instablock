@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Afrikaans: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>Die tyd wat jy nie hier spandeer nie, kom heeltemal terug na jou lewe toe.</item>
+        <item>Elke minuut weg van hierdie skerm is weer jou eie minuut.</item>
+        <item>Hierdie twintig minute is genoeg vir ’n wandeling.</item>
+        <item>Die dag het meer ruimte as wat jy dink wanneer jy ophou blaai.</item>
+        <item>Jy het pas ’n stuk van jou middag teruggekry.</item>
+        <item>’n Uur per dag is vyftien dae per jaar.</item>
+        <item>Tyd kom nie terug nie, maar jy kan steeds kies waarheen dit gaan.</item>
+        <item>Hierdie blaaskans is joune. Niemand hoef te weet wat jy daarmee gedoen het nie.</item>
+        <item>Daar gebeur ’n hele lewe buite die app.</item>
+        <item>Die horlosie tik ewe vinnig aan albei kante van hierdie skerm.</item>
+        <item>Jy het nou tyd gekoop. Spandeer dit aan iets wat jy môre sal onthou.</item>
+        <item>Niemand wens aan die einde van die dag hulle het meer deur die nuusvoer geblaai nie.</item>
+        <item>Vyftien minute hier is vyftien minute enige ander plek.</item>
+        <item>Wat sou jy tien jaar gelede met hierdie halfuur gedoen het.</item>
+        <item>Jou tyd is die enigste ding wat jy nie weer kan koop nie.</item>
+        <item>Die hele middag lê nog oop voor jou.</item>
+        <item>Hierdie minuut kan die begin van iets anders wees.</item>
+        <item>Jy gee vir jouself ure terug, een op ’n slag.</item>
+        <item>Tyd wat jy hier spaar, verdwyn nie. Dit duik elders weer op.</item>
+        <item>Tien minute lyk min totdat jy dit vir ’n hele maand optel.</item>
+        <item>Die lewe beweeg teen ’n gewone pas, nie teen die nuusvoer se pas nie.</item>
+        <item>Jy het vandag meer tyd as gister om hierdie tyd.</item>
+        <item>Dit wat jy al lank uitstel, pas presies in hierdie blaaskans.</item>
+        <item>Hierdie pouse is kort, maar wat jy daarmee doen, kan lank hou.</item>
+        <item>Daar pas baie in ’n dag as die blaaiery uit die pad uit is.</item>
+        <item>Jy het pas die res van die aand teruggewen.</item>
+        <item>Tyd is die munt. Jy het pas besluit om dit nie uit te gee nie.</item>
+        <item>Die nuusvoer eindig nooit. Jou dag wel.</item>
+        <item>’n Halfuur per dag is ’n hele boek per maand.</item>
+        <item>Daar binne het niks dringends op jou gewag nie.</item>
+        <item>Hierdie tyd was nog altyd joune. Nou is dit terug by jou.</item>
+        <item>Die oggend kan nog baie oplewer as dit nou begin.</item>
+        <item>Jy het niks verloor nie. Jy het ’n blaaskans gewen.</item>
+        <item>Niemand gee vir ons tyd terug nie. Ons moet self daaraan vashou.</item>
+        <item>Hierdie minute is meer werd buite hier, en jy weet dit reeds.</item>
+        <item>Wat daar was, is steeds daar. Dis jou tyd wat nie bly staan nie.</item>
+        <item>’n Lewe word gebou uit middae soos hierdie.</item>
+        <item>Jy kan die dag eindig met iets wat jy gedoen het, nie net iets wat jy gesien het nie.</item>
+        <item>Twee uur per dag is ’n hele maand per jaar.</item>
+        <item>Die tyd wat jy vandag beskerm, is wat jy môre oorhet.</item>
+        <item>Dit is die deel van die dag waaroor net jy besluit.</item>
+        <item>Niemand het daar binne iets geskryf wat jou middag werd is nie.</item>
+        <item>Dertig minute per dag kan in ’n jaar enigiets bou.</item>
+        <item>Jy het pas ’n stukkie stilte gekoop.</item>
+        <item>Die dag word groter wanneer die nuusvoer kleiner word.</item>
+        <item>Hierdie tyd is nou grondstof. Maak iets daarmee.</item>
+        <item>Daar is ’n projek van jou wat presies op hierdie blaaskans wag.</item>
+        <item>Wat jy hier wen, wys op geen skerm nie, net in jou lewe.</item>
+        <item>Vrye tyd is skaars. Jy het pas ’n stukkie daarvan geskep.</item>
+        <item>Niemand het nog aan die einde van hulle lewe gevra om net nog ’n bietjie te blaai nie.</item>
+        <item>Jy het die hele middag, en dit is nog nie opgebruik nie.</item>
+        <item>’n Jaar is driehonderd vyf-en-sestig keuses soos hierdie.</item>
+        <item>Hierdie blaaskans is klein, maar dit is heeltemal joune.</item>
+        <item>Die tyd gaan in elk geval verby. Die verskil is wat daarna oorbly.</item>
+        <item>Jy het pas ’n halfuur van die outoloods afgehaal.</item>
+        <item>Die res van jou dag sê dankie vir hierdie pouse.</item>
+        <item>Vyf minute daar word veertig sonder dat iemand dit agterkom.</item>
+        <item>Jy ken die prys van daardie vyf minute. Daarom is jy hier.</item>
+        <item>Die uur wat jy nou beskerm, is die een waarna jy vanaand soek.</item>
+        <item>Niks daar binne word beter omdat jy dit nou eerder as later sien nie.</item>
+        <item>Jy het pas gekies waarheen die volgende minuut gaan.</item>
+        <item>Hierdie tyd is genoeg vir ’n gesprek, ’n wandeling of ’n slapie.</item>
+        <item>Die dag lewer meer op wanneer die ure ophou wegglip.</item>
+        <item>Jy is die enigste eienaar van die volgende halfuur.</item>
+        <item>Daar is ’n weergawe van vandag waarin jy iets gedoen het. Dit begin nou.</item>
+        <item>Tyd stapel nie op nie. Jy kan dit net beter of slegter gebruik.</item>
+        <item>Hierdie minute kan ware rus word.</item>
+        <item>Jy het pas van ’n trapmeul afgeklim wat nêrens heen gaan nie.</item>
+        <item>’n Week het honderd agt-en-sestig uur. Hierdie een is joune.</item>
+        <item>Die nuusvoer vat jou tyd in stukkies sodat niemand dit mis nie.</item>
+        <item>Nou kan jy doen wat elke dag na môre geskuif word.</item>
+        <item>Jou middag hoef nie in ’n skerm te pas nie.</item>
+        <item>Die tyd wat oorbly, laat die dag op die goeie manier lank voel.</item>
+        <item>Jy het pas die volgende uur aan jouself teruggegee.</item>
+        <item>Niks wat jy nou sou sien, sou oor ’n week nog in jou kop wees nie.</item>
+        <item>Dit is die soort minuut wat ’n jaar bou of laat verbrokkel.</item>
+        <item>Jy het tyd gewen. Jy hoef dit nie vinnig te spandeer nie.</item>
+        <item>’n Dag sonder blaai is ’n dag waarin meer pas.</item>
+        <item>Die horlosie skei nie goeie tyd van vermorste tyd nie. Jy wel.</item>
+        <item>Hierdie uur is net soveel werd soos enige ander uur in jou lewe.</item>
+        <item>Jy het nou tyd. Dit is skaarser as wat dit lyk.</item>
+        <item>Om tyd te bewaar, is die enigste manier om tyd te hê.</item>
+        <item>Die hele aand lê nog voor.</item>
+        <item>Hierdie minute is die begin van ’n middag wat jy sal onthou.</item>
+        <item>Jy het pas daardie gat van ’n uur vermy.</item>
+        <item>Alles wat tyd vra, vra presies hierdie soort besluit.</item>
+        <item>Tussen nou en aandete is daar nog tyd vir baie dinge.</item>
+        <item>Jy het jou voet van die petrol afgehaal. Die dag gaan saam stadiger.</item>
+        <item>Jou week het ruimte. Iets anders het dit net beset.</item>
+        <item>Elke keer as jy hier toemaak, groei die dag ’n bietjie.</item>
+        <item>Tyd is die geskenk wat jy jouself gee sonder om iets te betaal.</item>
+        <item>Jy het nou presies wat jy heeldag sê jy nie het nie.</item>
+        <item>’n Lang middag bestaan uit kort besluite soos hierdie.</item>
+        <item>Niemand gaan vra wat jy met hierdie halfuur gedoen het nie.</item>
+        <item>Die tyd wat jy vandag nie weggee nie, sal môre nog by jou wees.</item>
+        <item>Twintig minute per dag is honderd-en-twintig uur per jaar.</item>
+        <item>Jy het pas die tydjie voor slaaptyd teruggekry.</item>
+        <item>Daar is baie lewe tussen een kennisgewing en die volgende.</item>
+        <item>Die hele dag is joune as jy dit nie stuk vir stuk weggee nie.</item>
+        <item>Jy het tot hier gekom deur tyd te beskerm. Dis nog een.</item>
+        <item>Jou aandag is die mees gesogte ding ter wêreld. Jy het pas gewen.</item>
+        <item>Fokus neem twintig minute om terug te kom. Moenie dit nou weggee nie.</item>
+        <item>’n Kop wat heel is, is meer werd as een wat versnipper is.</item>
+        <item>Jy was op iets gefokus voordat jy hierheen gekom het.</item>
+        <item>Verdeelde aandag is nie aandag nie. Dis net moegheid.</item>
+        <item>Waarmee jy besig was, verdien jou heeltemal.</item>
+        <item>Diep dink vra tyd sonder onderbrekings. Dis hierdie tyd.</item>
+        <item>Elke skermwisseling kos meer as wat die horlosie wys.</item>
+        <item>Jou gedagtes was lekker op dreef. Laat hulle aangaan.</item>
+        <item>Diep werk oorleef nie ’n blaai deur die nuusvoer nie.</item>
+        <item>Die nuusvoer is ontwerp om jou aandag te steel. Jy het dit raakgesien.</item>
+        <item>’n Lang gedagte het stilte nodig om klaar te kom.</item>
+        <item>Jy kan ’n hele idee in jou kop hou. Jy het net ruimte nodig.</item>
+        <item>Afleiding is nie rus nie. Regte rus herlaai jou.</item>
+        <item>Die konsentrasie wat jy gehad het, is nog hier rond. Gaan terug daarna.</item>
+        <item>Jou aandag is nie vandag te koop nie.</item>
+        <item>Die beste van jou kop kom ná die twintigste minuut na vore.</item>
+        <item>Om nou te onderbreek, kos meer as wat dit lyk.</item>
+        <item>Jy is in staat tot dinge wat fokus vra. Begin deur dit te beskerm.</item>
+        <item>Niks daar binne het dringend jou aandag nodig nie.</item>
+        <item>Een gefokusde uur lewer meer op as vier opgekapte ure.</item>
+        <item>Jou kop werk beter wanneer dit nie heeltyd van onderwerp wissel nie.</item>
+        <item>Wat half klaar is, kan vandag nog afgehandel word.</item>
+        <item>Fokus is nie wilskrag nie. Dis omgewing. Jy het pas joune reggemaak.</item>
+        <item>Daardie moeilike probleem gee mee wanneer jy daarby bly.</item>
+        <item>Jou aandag is beperk. Daarom is dit so kosbaar.</item>
+        <item>Jy hoef nie nou van alles te weet nie.</item>
+        <item>Die geraas sal daar bly. Dis jou stilte wat skaars is.</item>
+        <item>Groot dinge is gedoen deur mense wat nie onderbreek is nie.</item>
+        <item>Gaan terug na waarmee jy besig was. Jou kop is nog daar.</item>
+        <item>Een taak op ’n slag is vinniger as wat dit lyk.</item>
+        <item>Die drang om te kyk gaan verby. ’n Onderbroke idee kom soms nie terug nie.</item>
+        <item>Jou vermoë om te konsentreer is groter as wat jy deesdae gebruik.</item>
+        <item>Goed dink gaan stadig. Laat dit maar stadig gaan.</item>
+        <item>Jou aandag het vandag iets opgebou. Moenie dit uit nuuskierigheid afbreek nie.</item>
+        <item>Wat jou kop vra, vra jou hele kop.</item>
+        <item>Geen nuusvoer leer jou wat ’n uur se fokus jou leer nie.</item>
+        <item>Elke kennisgewing wat jy ignoreer, gee jou ’n bietjie meer helderheid.</item>
+        <item>Jy was op die punt om dit te snap. Gaan terug daarheen.</item>
+        <item>’n Uitgeruste kop is een wat nie heeldag rondgeruk is nie.</item>
+        <item>Jou aandag is die boustof vir alles anders wat jy maak.</item>
+        <item>Begin is die moeilikste. Jy het reeds begin. Moenie weer van voor af begin nie.</item>
+        <item>Laat die saak met rus, en dit los homself in jou kop op.</item>
+        <item>Helderheid kom wanneer die geraas ophou.</item>
+        <item>Jou beste werk van die dag het nog nie gebeur nie.</item>
+        <item>Dis nie ’n tekort aan tyd nie. Dis ’n tekort aan ononderbroke tyd.</item>
+        <item>Jy dink beter as wat die nuusvoer jou toelaat.</item>
+        <item>Daardie teks, daardie kode, daardie gesprek. Hulle wag op jou volle aandag.</item>
+        <item>Konsentrasie is ’n spier. Dit groei met dae soos vandag.</item>
+        <item>Jou kop het pas dankie gesê.</item>
+        <item>Een ding op ’n slag is steeds die mees gevorderde tegniek wat bestaan.</item>
+        <item>Wat jy met aandag doen, bly. Die res gaan verby.</item>
+        <item>Daar is geen kortpad om te dink nie. Net tyd sonder onderbrekings.</item>
+        <item>Jy verdien dit om ’n gedagtegang klaar te maak.</item>
+        <item>Jou gedagtes was skerp. Hou vas aan daardie draad.</item>
+        <item>Die skerm flikker. Idees nie. Bly by die idees.</item>
+        <item>Een dag met fokus is soveel werd soos drie dae van rondhardloop.</item>
+        <item>Jy is nie stadig nie. Jy is net heeltyd onderbreek.</item>
+        <item>Wat vandag saak maak, is nie in die nuusvoer nie.</item>
+        <item>Om op koers te bly, is goedkoper as om weer op koers te kom.</item>
+        <item>Jou volle aandag is ’n geskenk. Gee dit aan wie dit verdien.</item>
+        <item>Goeie idees verskyn in die stilte.</item>
+        <item>Jy was in die middel van iets goeds.</item>
+        <item>Niemand dink helder met hulle kop op tien plekke nie.</item>
+        <item>Diepte kom eers ná ’n ruk op die oppervlak.</item>
+        <item>Fokus gaan nie oor meer doen nie. Dit gaan oor goed doen.</item>
+        <item>Jy het vandag iets belangriks. Die nuusvoer is dit nie.</item>
+        <item>Laat jou kop die sin voltooi wat dit begin het.</item>
+        <item>’n Uur sonder onderbreking verander wat in ’n dag moontlik is.</item>
+        <item>Wat nou moeilik lyk, word makliker met aanhoudende aandag.</item>
+        <item>Jou konsentrasie is jou voorsprong. Min mense het nog hulle s’n.</item>
+        <item>Moenie een belangrike ding vir baie vinnige dinge verruil nie.</item>
+        <item>Nuuskierigheid kan wag. Fokus wag nie.</item>
+        <item>Jy is besig om iets te bou. Hou aan.</item>
+        <item>Om van taak te wissel voel produktief, maar dit is amper nooit so nie.</item>
+        <item>Die beste gebruik van jou kop vandag is nog beskikbaar.</item>
+        <item>Die aandag wat jy nou bewaar, wys later in die resultaat.</item>
+        <item>Jou kop is nie ’n nuusvoer nie. Dit onthou waaraan jy aandag gee.</item>
+        <item>Iets wat jou volle aandag verdien, is skaars. Maak die meeste daarvan.</item>
+        <item>Moeilik is nie onmoontlik nie. Dit vat net langer.</item>
+        <item>Jy is net ’n paar minute weg van ’n deurbraak.</item>
+        <item>Die geraas verdwyn wanneer jy ophou om dit te voed.</item>
+        <item>Bly by waarmee jy besig was totdat dit klaar is.</item>
+        <item>Een diep duik is tien vlak duike werd.</item>
+        <item>Jou aandag besluit wat ’n herinnering word.</item>
+        <item>Jy onthou waaraan jy aandag gegee het. Net dit.</item>
+        <item>Dink is die winsgewendste ding wat jy vandag doen.</item>
+        <item>’n Kop sonder haas los op wat ’n haastige kop nie raaksien nie.</item>
+        <item>Goeie werk vra geduld, nie spoed nie.</item>
+        <item>Niks wat jy nou sou sien, sou môre in ’n gesprek opkom nie.</item>
+        <item>Jou helder kop vandag het met besluite soos hierdie begin.</item>
+        <item>Onderbrekings is die duurste belasting wat bestaan.</item>
+        <item>Jy kan langer by een ding bly as wat jy dink.</item>
+        <item>Daardie detail wat jou ontglip het, kom in die stilte na vore.</item>
+        <item>Fokus kom terug. Dit het net ’n paar minute sonder ’n skerm nodig.</item>
+        <item>Jy kan lank aandag gee. Die nuusvoer wed net dat jy nie kan nie.</item>
+        <item>Om vandag een ding klaar te maak, is meer werd as om vyf te begin.</item>
+        <item>Jou volle aandag is skaars, selfs vir jouself.</item>
+        <item>Gee jou gedagtes ruimte om asem te haal.</item>
+        <item>Wat jy met fokus bou, kan niemand wegblaai nie.</item>
+        <item>Die drang om oop te maak gaan oor ’n paar minute verby. Dit gaan altyd verby.</item>
+        <item>Hierdie impuls het ’n vervaldatum. Dit verval vanself.</item>
+        <item>Jy hoef niks te doen nie. Wag net dat die golf gaan lê.</item>
+        <item>Die dringendheid wat jy nou voel, is nie joune nie. Dit is aangeleer.</item>
+        <item>Haal een keer asem. Die drang is al kleiner as ’n minuut gelede.</item>
+        <item>Die impuls is sterk aan die begin en verdwyn halfpad.</item>
+        <item>Dis nie jy wat wil nie. Dis die gewoonte wat vra.</item>
+        <item>Dit voel net ’n rukkie ongemaklik. Dan gaan dit verby.</item>
+        <item>Jy het dit al voorheen gevoel en elke keer oorleef.</item>
+        <item>Die drang kom in golwe. Golwe breek.</item>
+        <item>Niemand hoef die eerste impuls van die dag te gehoorsaam nie.</item>
+        <item>Hierdie drukking op jou bors hou korter as ’n liedjie.</item>
+        <item>Jy is groter as ’n impuls van dertig sekondes.</item>
+        <item>Laat die drang verbygaan sonder om iets daarmee te doen.</item>
+        <item>Die ongemak nou is die gewoonte wat sy greep verloor. Dit is vordering.</item>
+        <item>Jy weerstaan nie. Jy wag net.</item>
+        <item>Die drang kom sterk aan en gaan stil weg.</item>
+        <item>Tel tot twintig. Dan sal dit al kleiner wees.</item>
+        <item>Om iets te wil hê, is nie dieselfde as om dit nodig te hê nie.</item>
+        <item>Die impuls wil dadelik ’n antwoord hê. Moenie een gee nie.</item>
+        <item>Dit is die moeilikste oomblik, en dit is kort.</item>
+        <item>Jy hoef nie te veg nie. Moet net nie nou besluit nie.</item>
+        <item>Die drang verdwyn wanneer niemand dit voed nie.</item>
+        <item>Dit is angstigheid, nie honger na inhoud nie.</item>
+        <item>Let op die drang sonder om daardeur meegesleur te word.</item>
+        <item>Jou brein vra vir die gewone. Jy hoef dit nie op te dien nie.</item>
+        <item>Oor vyf minute onthou jy nie eens dat jy dit wou oopmaak nie.</item>
+        <item>Die golf styg nou. Dit sak altyd weer.</item>
+        <item>Jy is al anderkant die ergste deel.</item>
+        <item>Die impuls lieg oor hoe sterk dit is.</item>
+        <item>Staan op, drink water, kom terug. Dit is al weg.</item>
+        <item>’n Drang is nie ’n bevel nie.</item>
+        <item>Jy kan dit voel en niks doen nie. Dit mag.</item>
+        <item>Jou lyf vra beweging, nie ’n skerm nie.</item>
+        <item>Hierdie begeerte is outomaties. Jou reaksie hoef nie te wees nie.</item>
+        <item>Niks slegs gebeur as jy nog ’n bietjie wag nie.</item>
+        <item>Die drang verdwyn vanself as jy dit ruimte gee.</item>
+        <item>Jy is net angstig. Dit gaan verby en het nie ’n skerm nodig nie.</item>
+        <item>Die impuls is ’n voorstel. Jy is die een wat besluit.</item>
+        <item>Nog een minuut, en die drang is al iets anders.</item>
+        <item>Die moeilike deel duur kort. Die goeie deel hou die hele dag.</item>
+        <item>Dis die bekende stootjie. Dit stoot nie so hard nie.</item>
+        <item>Wag sonder om te oordeel. Die drang los vanself op.</item>
+        <item>Jou brein vra vir die gewone kortpad.</item>
+        <item>Jy hoef niks te oorwin nie. Laat dit net verbygaan.</item>
+        <item>Elke golf wat jy laat verbygaan, maak die volgende een kleiner.</item>
+        <item>Angs wil ’n vinnige oplossing hê. Dit gaan dit nie hier kry nie.</item>
+        <item>Staan ’n oomblik stil. Die impuls bly nie staan nie.</item>
+        <item>Jy verloor niks deur te wag nie.</item>
+        <item>Verveling is nie ’n noodgeval nie.</item>
+        <item>Dis normaal om nou leeg te voel. Dit vul vanself weer op.</item>
+        <item>Die drang om iets na te gaan, gaan selde oor daardie iets.</item>
+        <item>Jy voel ongemaklik, maar jy is nie in gevaar nie.</item>
+        <item>Hierdie gevoel sal binne oomblikke verslap.</item>
+        <item>Die gewoonte is sterk, maar dit hou nie lank nie.</item>
+        <item>Laat hierdie een verbygaan. Net hierdie een.</item>
+        <item>Volgende keer sal makliker wees danksy hierdie keer.</item>
+        <item>Jy hoef jouself van niks te oortuig nie. Wag net.</item>
+        <item>’n Glas water help meer as om deur die nuusvoer te blaai.</item>
+        <item>Die dringendheid is vals, en jy weet dit al.</item>
+        <item>Die impuls hou nie lank uit sonder ’n antwoord nie.</item>
+        <item>Wag dertig sekondes. Besluit dan weer.</item>
+        <item>Jy is op die hoogtepunt. Van hier af gaan dit net afdraand.</item>
+        <item>Niks vra nou ’n reaksie van jou nie.</item>
+        <item>Die drang is ’n besoeker. Dit gaan weer weg.</item>
+        <item>Jy is nie die impuls nie. Jy is die een wat dit dophou.</item>
+        <item>Jou lyf ontspan as jy dit ’n minuut gee.</item>
+        <item>Dis net jou brein wat na prikkels soek. Dit sal iets anders kry.</item>
+        <item>Drie diep asemteue verander hoe sterk dit voel.</item>
+        <item>Die drang krimp wanneer jy dit reguit in die oë kyk.</item>
+        <item>Jy kan hierdie minuut hanteer. Jy het al erger deurgemaak.</item>
+        <item>Die ongemak gaan verby, selfs as jy niks doen nie.</item>
+        <item>Jou hand was vinniger as jou kop. Dit gebeur.</item>
+        <item>Geen besluit hoef in die eerste tien sekondes geneem te word nie.</item>
+        <item>Oor ’n paar oomblikke sal jy dit nie eens onthou nie.</item>
+        <item>Iets het die drang aangewakker. Die antwoord is steeds joune.</item>
+        <item>Laat die drang bestaan sonder om daarna te luister.</item>
+        <item>Dis nie ’n hunkering nie. Dis gewoonte.</item>
+        <item>Wag. Dis letterlik al wat jy hoef te doen.</item>
+        <item>Jou kop kalmeer vanself as jy nie nog hout op die vuur gooi nie.</item>
+        <item>Jy wag al. Dit is reeds die oorwinning.</item>
+        <item>Die impuls verloor sy krag wanneer dit ’n toe deur kry.</item>
+        <item>Elke sekonde hier is ’n sekonde voorsprong.</item>
+        <item>Die golf het gebreek. Let op hoe dit al ligter voel.</item>
+        <item>Jy het geen rede nodig om dit nie oop te maak nie.</item>
+        <item>Die begeerte gaan vinniger verby as die spyt.</item>
+        <item>’n Strekoefening help waar die nuusvoer nie sou help nie.</item>
+        <item>Die drang verdwyn terwyl jy dit lees.</item>
+        <item>Moenie nou iets besluit nie. Haal net asem.</item>
+        <item>Die impuls kom vanself en gaan vanself.</item>
+        <item>Hierdie deel is die moeilikste. En dit is gou verby.</item>
+        <item>Jy het tot hier uitgehou. Net nog ’n paar sekondes.</item>
+        <item>Jou lyf vra ’n skerm wanneer dit eintlik rus wil hê. Gee dit rus.</item>
+        <item>Die drang word kleiner elke keer as jy nie daaraan toegee nie.</item>
+        <item>Wag nog ’n bietjie. Dis al.</item>
+        <item>Die oomblik gaan verby. Die keuse bly.</item>
+        <item>Jy is pas deur die nouste deel.</item>
+        <item>Om ’n drang te voel, is menslik. Om nie daarna te luister nie, ook.</item>
+        <item>Die kalmte kom gou terug as jy nie druk nie.</item>
+        <item>Dit voel al ligter, nie waar nie.</item>
+        <item>Jy het dit besluit toe jy kalm was. Vertrou die een wat besluit het.</item>
+        <item>Die jy van gister het na die jy van nou omgesien.</item>
+        <item>Hierdie skerm is ’n boodskap van jou aan jouself.</item>
+        <item>Niemand keer jou nie. Jy word net herinner.</item>
+        <item>Die mens wat jy wil wees, blaai nie die hele middag nie.</item>
+        <item>Hierdie keuse was joune. Dit is steeds joune.</item>
+        <item>Jy is die soort mens wat raakgesien en opgetree het.</item>
+        <item>Niemand het jou gedwing om dit te installeer nie. Jy wou.</item>
+        <item>Môre se jy sal dankbaar wees vir vandag se jy.</item>
+        <item>Jy beskerm reeds jou eie tyd. Dis wie jy is.</item>
+        <item>Dit is nie straf nie. Dis ’n ooreenkoms.</item>
+        <item>Jy het hierdie reël geskryf. Dit werk.</item>
+        <item>Om baas van jou eie aandag te wees, is ’n daaglikse keuse.</item>
+        <item>Jy hoef hier vir niemand iets te bewys nie.</item>
+        <item>Die mens wat jy wil wees, begin by klein besluite.</item>
+        <item>Jy is aan die regte kant van hierdie skerm.</item>
+        <item>Elke keer as jy hier toemaak, word jy meer die mens wat jy wil wees.</item>
+        <item>Jy is nie wat jy lus voor voel nie. Jy is wat jy doen.</item>
+        <item>’n Afspraak met jouself tel net soveel soos enige ander.</item>
+        <item>Jy het ’n patroon herken en dit verander. Dit is skaars.</item>
+        <item>Jy is groter as die apps in jou sak.</item>
+        <item>Dit is jou reël, en dit staan aan jou kant.</item>
+        <item>Jy het die reg om jou gewoontes te verander.</item>
+        <item>Wat jy keer op keer doen, is wie jy is.</item>
+        <item>Jy het gekies vir ’n lewe met meer ruimte.</item>
+        <item>Die app is nie jou baas nie.</item>
+        <item>Wie jy is, pas nie in ’n nuusvoer nie.</item>
+        <item>Jy is die een wat dit om ’n goeie rede geïnstalleer het.</item>
+        <item>Onthou die rede. Dit geld steeds.</item>
+        <item>Jy hou by ’n besluit wat jy self geneem het.</item>
+        <item>Niemand besluit namens jou waaraan jy aandag gee nie.</item>
+        <item>Jy het agtergekom wat aan die gebeur was. Dit verander reeds alles.</item>
+        <item>Om baas van jou eie dag te wees, is aanhoudende werk.</item>
+        <item>Jy is nie ’n passasier nie. Jy bestuur.</item>
+        <item>Hierdie keuse wys jy neem jouself ernstig op.</item>
+        <item>Jy is verantwoordelik vir jouself, en jy wys dit nou.</item>
+        <item>Jou tyd het ’n eienaar. Dié eienaar lees nou hierdie woorde.</item>
+        <item>Jy het met jouself ’n afspraak gemaak. Hou daarby.</item>
+        <item>Elke besluit soos hierdie bring jou nader aan wie jy wil wees.</item>
+        <item>Jy verloor nie vryheid nie. Jy gebruik dit.</item>
+        <item>Jy is die een wat besluit wat nou gebeur.</item>
+        <item>Jy het nie toestemming nodig om anders te leef nie.</item>
+        <item>Hierdie grens is sorg, nie ’n hok nie.</item>
+        <item>Jy het ’n moeiliker pad gekies, maar een wat meer joune is.</item>
+        <item>Die mens wat jy bewonder, sou nou ook nee sê.</item>
+        <item>Jy woon in jou lewe, nie in die app nie.</item>
+        <item>Dis jou tyd, jou kop, jou keuse.</item>
+        <item>Jy hou jou woord aan jouself. Dit tel.</item>
+        <item>Niemand gaan namens jou na jou aandag kyk nie.</item>
+        <item>Jy het al bewys dat jy van koers kan verander.</item>
+        <item>Dit is selfstandigheid: om vooraf te besluit, nie op ’n impuls nie.</item>
+        <item>Jy bou aan iemand wat jy respekteer.</item>
+        <item>Dit is die weergawe van jou wat vooruit beplan.</item>
+        <item>Jy het nie per toeval hier beland nie. Jy het dit self opgestel.</item>
+        <item>Jou woord aan jouself is iets werd.</item>
+        <item>Jy het jou eie mening oor hoe jy jou dag wil deurbring.</item>
+        <item>Die app ken jou nie. Jy ken jouself.</item>
+        <item>Jy tree op soos die baas van jou eie lewe.</item>
+        <item>Om by jou eie besluit te hou, is vryheid.</item>
+        <item>Jy skryf hier die reëls.</item>
+        <item>Dit is jy wat na jouself omsien.</item>
+        <item>Jy is nie vasgevang nie. Jy is beskerm.</item>
+        <item>Jou wens om te verander is ouer as hierdie impuls.</item>
+        <item>Jy is reeds wie jy probeer wees.</item>
+        <item>Die moeilike besluit is reeds geneem. Hierdie een is die maklike.</item>
+        <item>Jy is in beheer, en dit is deesdae skaars.</item>
+        <item>Niemand hoef te weet nie. Dit is tussen jou en jouself.</item>
+        <item>Jy verdien dit om op jou eie woord te kan vertrou.</item>
+        <item>Jou naam staan op hierdie keuse.</item>
+        <item>Jy het die soort mens geword wat vooraf besluit.</item>
+        <item>Dit is nie opgee nie. Dit is om iets anders te kies.</item>
+        <item>Jy het ’n rigting. Hierdie skerm wys daarheen.</item>
+        <item>Ware vryheid is om nie heeltyd rondgeruk te word nie.</item>
+        <item>Jy bepaal self wat jou aandag werd is.</item>
+        <item>Elke nee hier is ’n ja vir iets anders van jou.</item>
+        <item>Jy bly getrou aan ’n plan wat jy met sorg gemaak het.</item>
+        <item>Om jou eie baas te wees, kos moeite, en dit is die moeite werd.</item>
+        <item>Jy het erken dat jy wou verander. Dit is reeds die moeilike deel.</item>
+        <item>Die mens in die spieël vanaand gaan hiervan hou.</item>
+        <item>Jy skuld die algoritme niks nie.</item>
+        <item>Jou lewe is niemand se inhoud nie.</item>
+        <item>Jy is presies waar jy besluit het om te wees.</item>
+        <item>Die grens wat jy vir jouself stel, is die mees respekvolle een wat bestaan.</item>
+        <item>Jy het ’n lewensplan wat groter is as hierdie skerm.</item>
+        <item>Dit is volwassenheid, hier en nou.</item>
+        <item>Jy sorg vir jou toekoms sonder dat jy dit agterkom.</item>
+        <item>Elke keuse soos hierdie slyp wie jy is.</item>
+        <item>Jy hoef nie te verduidelik waarom jy dit nie oopmaak nie.</item>
+        <item>Jou verbintenis is met jouself, nie met die app nie.</item>
+        <item>Jy het die regte besluit geneem toe die drang nie daar was nie.</item>
+        <item>Dit is jou lewe, met jou agter die stuur.</item>
+        <item>Jy het iemand geword wat moeilik is om te manipuleer.</item>
+        <item>Jou aandag het ’n eienaar, en dié is wakker.</item>
+        <item>Jy het pas goed na jouself gekyk.</item>
+        <item>Die plan is joune. Dit werk op hierdie oomblik.</item>
+        <item>Jy is die som van jou klein keuses.</item>
+        <item>Niemand vat die laaste woord by jou weg nie.</item>
+        <item>Jy is die gesag oor jou eie tyd.</item>
+        <item>Dit werk omdat jy wou hê dit moet werk.</item>
+        <item>Jy is groter as die gewoonte wat groter as jy wil wees.</item>
+        <item>Nog een. Dis hoe die telling groei.</item>
+        <item>Klein en gereeld klop groot en selde.</item>
+        <item>Jy het pas nog ’n punt bygetel.</item>
+        <item>Niemand verander in een slag nie. Dit gebeur op dae soos vandag.</item>
+        <item>Dit is een duisendste van ’n ander lewe.</item>
+        <item>Een goeie dag verander niks nie. Honderd goeie dae verander alles.</item>
+        <item>Jy bou ’n reeks op.</item>
+        <item>Van binne voel vordering amper nooit soos vordering nie.</item>
+        <item>Die som van hierdie keuses is groter as elkeen op sy eie.</item>
+        <item>Volharding is vervelig, en dit werk.</item>
+        <item>Nog ’n klip in die muur.</item>
+        <item>Jy oefen iets in wat bly.</item>
+        <item>As jy dit genoeg herhaal, word dit outomaties.</item>
+        <item>Niemand sien hierdie oorwinning nie, maar dit tel net so veel.</item>
+        <item>Oor ’n paar weke sal jy nie eens meer die drang voel nie.</item>
+        <item>Vandag tel. Môre sal ook tel.</item>
+        <item>’n Ketting bestaan uit skakels soos hierdie.</item>
+        <item>Die nuwe gewoonte word nou geskryf.</item>
+        <item>Elke herhaling maak die ou gewoonte ’n bietjie losser.</item>
+        <item>Jy het dit al voorheen gedoen. Doen dit weer.</item>
+        <item>Stadig is die spoed van dinge wat hou.</item>
+        <item>Verandering gebeur waar niemand kyk nie.</item>
+        <item>Jy bou iets op wat onsigbaar en eg is.</item>
+        <item>Nog ’n dag in die regte rigting.</item>
+        <item>Die resultaat kom later. Die keuse is vandag.</item>
+        <item>Een keuse op ’n slag. Dis hoe dit gedoen word.</item>
+        <item>Jy is nader as gister.</item>
+        <item>Dit hoef nie perfek te wees nie. Dit moet net gereeld wees.</item>
+        <item>Die kurwe styg eers stadig en dan vinnig.</item>
+        <item>Jy is in die middel van die proses. Dis hoe dit voel.</item>
+        <item>Elke klein nee bou aan ’n groot ja.</item>
+        <item>Niks hiervan is dramaties nie. Dis presies hoekom dit werk.</item>
+        <item>Die pad bestaan uit treë soos hierdie.</item>
+        <item>Jy skep ’n nuwe soort roetine.</item>
+        <item>Oor ’n maand sal dit maklik voel.</item>
+        <item>Herhaling is wat ’n besluit in ’n leefwyse verander.</item>
+        <item>Jy het pas die nuwe pad versterk.</item>
+        <item>Honderd persent is makliker as agt-en-negentig.</item>
+        <item>Moenie vandag die reeks breek nie.</item>
+        <item>Jy doen die vervelige deel, en dis die deel wat tel.</item>
+        <item>Ons voel nie die verandering nie. Ons sien dit later.</item>
+        <item>Nog ’n baksteen gelê.</item>
+        <item>Jy leer jou brein om iets anders te verwag.</item>
+        <item>Om aan te hou, is die hele tegniek.</item>
+        <item>Saam getel, is geen van hierdie oorwinnings klein nie.</item>
+        <item>Jy hoef nie te hardloop nie. Moet net nie stop nie.</item>
+        <item>Dit word al makliker, en jy het dit nie eens agtergekom nie.</item>
+        <item>’n Week hiervan verander reeds jou dag.</item>
+        <item>Jy baan ’n nuwe pad in jou kop.</item>
+        <item>Elke keer tel, selfs wanneer dit nie so voel nie.</item>
+        <item>Niemand klap hande nie, maar dit werk.</item>
+        <item>Dit stapel stil en onstuitbaar op.</item>
+        <item>Jy is reeds sterker hierin as verlede maand.</item>
+        <item>’n Goeie keuse vandag maak môre s’n makliker.</item>
+        <item>So voel konsekwentheid van binne.</item>
+        <item>Nog ’n dag se voorsprong bygevoeg.</item>
+        <item>Jy is op pad, en die pad is lank. Dis reg so.</item>
+        <item>Wat herhaal word, word maklik.</item>
+        <item>Jy het pas versterk wie jy besig is om te word.</item>
+        <item>Die telling is vandag in jou guns.</item>
+        <item>Klein winste tel op sonder om toestemming te vra.</item>
+        <item>Dit gaan nie oor vandag nie. Dit gaan oor die geheel.</item>
+        <item>Jy doen die onsigbare werk.</item>
+        <item>Hou aan. Dit is letterlik die geheim.</item>
+        <item>Elke dag soos hierdie lig ’n bietjie van die gewig af.</item>
+        <item>Die ou gewoonte verloor nou terrein.</item>
+        <item>Jy gee water aan iets wat nog nie opgekom het nie.</item>
+        <item>Die verandering gebeur, al lyk dit nie so nie.</item>
+        <item>Nog een keer. Dit was nog altyd net dit.</item>
+        <item>Jy bou ’n voorraad goeie dae op.</item>
+        <item>Met tyd word dit normaal.</item>
+        <item>Jy het pas weer gekies. En weer tel dit.</item>
+        <item>Een maand hiervan, en jy is ’n ander mens.</item>
+        <item>Vandag se moeite verdwyn. Die resultaat bly.</item>
+        <item>Jy is nie meer die mens wat hiermee begin het nie.</item>
+        <item>Om dit altyd te doen, is meer werd as om baie te doen.</item>
+        <item>Elke dag is ’n stem vir wie jy wil wees.</item>
+        <item>Jy laat die nuwe gewoonte veld wen.</item>
+        <item>Dit hoef nie heldhaftig te wees nie. Dit moet net gebeur.</item>
+        <item>Jy het pas die regte pad sterker gemaak.</item>
+        <item>Herhaling is hoe die brein enigiets leer.</item>
+        <item>Vandag plus gister is al heelwat.</item>
+        <item>Jy doen goed, selfs wanneer jy dit nie voel nie.</item>
+        <item>Vordering woon in die vervelige herhalings.</item>
+        <item>Nog ’n kort tree op die lang pad.</item>
+        <item>Jy maak dit natuurlik.</item>
+        <item>’n Goeie ding wat baie keer gedoen word, is wat oorbly.</item>
+        <item>Krag kom van weer doen, nie van hard doen nie.</item>
+        <item>Jy het pas môre se pad korter gemaak.</item>
+        <item>Nog een. Net dit. En dit is genoeg.</item>
+        <item>Jy laat ’n spoor van goeie besluite agter.</item>
+        <item>Volharding verander moeite in identiteit.</item>
+        <item>Elke dag tel as ’n volle dag.</item>
+        <item>Jy speel die lang spel, en jy wen.</item>
+        <item>Dit gaan deel word van wie jy is sonder dat jy dit agterkom.</item>
+        <item>Die beste belegging van die dag is pas gemaak.</item>
+        <item>Jy het pas koers gehou.</item>
+        <item>Aanhou is skaarser as talent.</item>
+        <item>Ware verandering is altyd stadig en altyd die moeite werd.</item>
+        <item>Nog ’n keuse in die rigting van jou lewe.</item>
+        <item>Jou oë is dankbaar vir hierdie pouse.</item>
+        <item>Staan op en rek jou uit. Dis wat jou lyf gevra het, nie ’n skerm nie.</item>
+        <item>Haal diep asem. Net dit verander al iets.</item>
+        <item>Drink water. Dis waarskynlik wat kortgekom het.</item>
+        <item>Jou nek is al ’n ruk lank skeef. Maak dit reg.</item>
+        <item>Vanaand se slaap begin by die skerms van nou.</item>
+        <item>Om goed te slaap, is die produktiefste ding wat bestaan.</item>
+        <item>Jou lyf sit al te lank stil.</item>
+        <item>Kyk vir twintig sekondes ver weg. Jou oë ontspan.</item>
+        <item>’n Kort wandeling verander jou bui meer as enige nuusvoer.</item>
+        <item>Die moegheid wat jy voel, kom dalk net van die skerm.</item>
+        <item>Jou lyf vra beweging wanneer jou kop vra om te blaai.</item>
+        <item>Vars lug los dinge op wat die skerm nie kan nie.</item>
+        <item>Skouers af. Kakebeen los.</item>
+        <item>Jy trek jou skouers op sonder om dit te besef.</item>
+        <item>Tien minute son op jou vel is baie werd.</item>
+        <item>Jou lyf rus wanneer jy lê, nie wanneer jy blaai nie.</item>
+        <item>Om vanaand vroeg te gaan slaap, is ’n geskenk vir môre.</item>
+        <item>Jou postuur het die afgelope twintig minute verander. Sit regop.</item>
+        <item>Skermmoegheid is nie regte moegheid nie. Dis iets anders.</item>
+        <item>Lig jou arms. Rek uit. Klaar, dit voel al beter.</item>
+        <item>Jy knipper minder wanneer jy blaai. Knipper nou.</item>
+        <item>Jou lyf werk beter met regte pouses.</item>
+        <item>’n Draai om die blok maak jou kop helder.</item>
+        <item>Jou rug gaan van hierdie onderbreking hou.</item>
+        <item>Rus is iets anders as afleiding.</item>
+        <item>Gisteraand se swak slaap het by ’n skerm soos hierdie begin.</item>
+        <item>Rek jou nek na albei kante toe. Dit vat tien sekondes.</item>
+        <item>Beweging help beter teen angs as inhoud.</item>
+        <item>Jou lyf is die enigste huis wat jy het.</item>
+        <item>Water, lig en beweging. Dis amper altyd dit.</item>
+        <item>Die skerm maak jou moeg, selfs wanneer dit soos rus voel.</item>
+        <item>Maak jou oë ’n oomblik toe. Net dit.</item>
+        <item>Jy haal vlak asem. Haal drie keer diep asem.</item>
+        <item>’n Stort help met meer dinge as wat jy dink.</item>
+        <item>Jou lyf is al te lank op dieselfde plek.</item>
+        <item>Regte rus het geen skerm nie.</item>
+        <item>Twintig minute se stap verander die hele dag.</item>
+        <item>Jou kop voel swaar omdat jou lyf stilsit.</item>
+        <item>Droë oë, stywe skouers. Jy het dit seker al agtergekom.</item>
+        <item>Twee minute opstaan herlaai jou meer as om te blaai.</item>
+        <item>Jou lyf vra slaap en jou kop vra prikkels. Luister na jou lyf.</item>
+        <item>Die lig van die skerm versteur jou slaap vir ure.</item>
+        <item>Rek jou bene. Dis vinnig en dit werk.</item>
+        <item>Jy verdien rus wat jou regtig laat rus.</item>
+        <item>Beweging is die goedkoopste opkikker wat daar is.</item>
+        <item>Jou lyf gaan hierdie nag se slaap onthou.</item>
+        <item>Stadige asemhaling kalmeer jou vinniger as enige video.</item>
+        <item>Jy is honger of verveeld. Vind uit watter een.</item>
+        <item>Jou lyf herstel wanneer jou kop stilstaan.</item>
+        <item>Twintig sekondes by die venster uitkyk.</item>
+        <item>Jou pols en duim het ’n blaaskans nodig.</item>
+        <item>Skermmoegheid verdwyn as jy loop.</item>
+        <item>In jou slaap orden jou geheue homself. Beskerm dit.</item>
+        <item>Jy het minder prikkels nodig, nie meer nie.</item>
+        <item>Twee minute se rekoefeninge is meer werd as tien minute video.</item>
+        <item>Jou lyf gee jou nou ’n teken.</item>
+        <item>Lug, water en beweging. Die resep het nie verander nie.</item>
+        <item>Gaan lê ’n minuut op die vloer. Regtig.</item>
+        <item>Die skerm hou jou wakker wanneer jy moet slaap.</item>
+        <item>Jou lyf vra ’n pouse en jou hand vra ’n skerm. Gee die pouse.</item>
+        <item>Jou oë werk al van vroeg af.</item>
+        <item>’n Goeie nag se slaap verander die wêreld.</item>
+        <item>Staan op. Net opstaan. Dit is al genoeg.</item>
+        <item>Jy gaan beter slaap danksy hierdie keuse.</item>
+        <item>Jou lyf is dankbaar vir wat jou kop vervelig vind.</item>
+        <item>Rek jou rug. Dit vra daarvoor.</item>
+        <item>Ware rus is stilte, nie nog ’n prikkel nie.</item>
+        <item>Jou lyf het sy eie ritme, en die skerm ignoreer dit.</item>
+        <item>Kyk na die horison. Jou oë het afstand nodig.</item>
+        <item>Die spanning in jou kakebeen verdwyn nie deur te blaai nie.</item>
+        <item>Hoe lank sit jy nou al.</item>
+        <item>Beweging bring helderheid. Dit het nog altyd.</item>
+        <item>Drink water voordat jy enigiets besluit.</item>
+        <item>Verlore slaap kry jy nie met inhoud terug nie.</item>
+        <item>Jou lyf werk goed as jy dit toelaat.</item>
+        <item>’n Kort slapie lewer meer op as ’n uur in die nuusvoer.</item>
+        <item>Diep asemhaal is gratis en werk dadelik.</item>
+        <item>Die skerm laat jou lyf ongemerk styf trek.</item>
+        <item>Jy is moeër as wat jy hoef te wees.</item>
+        <item>Staan op en kyk by die venster uit. Vyf sekondes.</item>
+        <item>Jou lyf het nie ontwikkel om stil te sit en na lig te staar nie.</item>
+        <item>Rek jou vingers. Hulle het vandag hard gewerk.</item>
+        <item>Die nag is beter sonder ’n skerm voor slaaptyd.</item>
+        <item>Rus is nie wat die skerm bied nie.</item>
+        <item>Jou lyf vra vir natuur en kry pixels.</item>
+        <item>’n Glas water en drie asemteue. Doen dit nou.</item>
+        <item>Die spanning in jou skouer kom van hoe jy jou foon vashou.</item>
+        <item>Jou lyf ontspan wanneer jou aandag ophou jaag.</item>
+        <item>Oor vyf minute gaan jy beter voel.</item>
+        <item>Beweging verander jou chemie. ’n Skerm verander net die onderwerp.</item>
+        <item>Jou oë verdien regte rus.</item>
+        <item>Stap orden jou gedagtes beter as om die nuusvoer te lees.</item>
+        <item>Blou lig nou beteken swak slaap later.</item>
+        <item>Jy het rus nodig, nie nog inligting nie.</item>
+        <item>Twee diep asemteue voor enigiets anders.</item>
+        <item>Jou lyf is wyser as die impuls.</item>
+        <item>Staan op en stap kombuis toe. Dis genoeg.</item>
+        <item>Laat jou lyf rus, en jou kop rus saam.</item>
+        <item>Daar is mense van vlees en bloed naby jou.</item>
+        <item>Een gesprek is meer werd as driehonderd plasings.</item>
+        <item>Bel iemand. Met jou stem, regtig.</item>
+        <item>Iemand vir wie jy lief is, is net een boodskap ver.</item>
+        <item>Die mense in die nuusvoer weet nie eens jy bestaan nie.</item>
+        <item>Wie saam met jou in die vertrek is, verdien meer.</item>
+        <item>’n Drukkie doen wat geen video kan doen nie.</item>
+        <item>Stuur ’n boodskap aan iemand wat jy die laaste tyd vergeet.</item>
+        <item>Jou ma sal vandag bly wees oor ’n oproep.</item>
+        <item>Die regte lewe het mense wat regtig antwoord.</item>
+        <item>Daardie vriend wat verdwyn het, kan nog terugkom. Stuur ’n boodskap.</item>
+        <item>Teenwoordigheid is die skaarsste ding wat jy kan gee.</item>
+        <item>Iemand wag dat jy opkyk.</item>
+        <item>’n Goeie vraag is meer werd as ’n uur se blaai.</item>
+        <item>Die mense om jou het geen algoritme nie.</item>
+        <item>Daar is ’n gesprek aan die gang wat jy misloop.</item>
+        <item>Niemand in die nuusvoer sal daar wees wanneer jy hulle nodig het nie.</item>
+        <item>Koffie saam met iemand verander jou week meer as enige nuusvoer.</item>
+        <item>Jou geselskap is ’n geskenk. Gee dit weg.</item>
+        <item>Kyk na wie by jou is.</item>
+        <item>Vriendskap moet natgegooi word. Gooi dit vandag nat.</item>
+        <item>Die mens langs jou is eg.</item>
+        <item>Wie vir jou lief is, het nie ’n duimpie nodig nie.</item>
+        <item>Onthou jy jou laaste lang gesprek.</item>
+        <item>Nooi iemand om saam te gaan stap.</item>
+        <item>Die beste herinneringe het selde ’n skerm in.</item>
+        <item>Jy is nou iemand se geselskap.</item>
+        <item>Stuur ’n stemboodskap aan iemand vir wie jy lief is.</item>
+        <item>Mense verander wanneer jy aandag aan hulle gee.</item>
+        <item>Jou teenwoordigheid beteken vandag iets vir iemand.</item>
+        <item>’n Goeie gesprek laat jou beter voel. Die nuusvoer nie.</item>
+        <item>Iemand moet weet dat jy aan hulle gedink het.</item>
+        <item>Ontmoet iemand eerder as om iemand te volg.</item>
+        <item>Sterk bande word gesmee deur tyd saam.</item>
+        <item>Jy kan die rede wees vir iemand se goeie dag.</item>
+        <item>Daardie familielid met wie jy al maande nie gepraat het nie.</item>
+        <item>Een opregte boodskap is meer werd as duisend kyke.</item>
+        <item>Om saam te wees, is iets anders as om gekoppel te wees.</item>
+        <item>Die mense met wie jy saamleef, verdien jou volle teenwoordigheid.</item>
+        <item>Nooi iemand vir aandete.</item>
+        <item>Regte mense het ’n gesig, ’n stem en beperkte tyd.</item>
+        <item>Vir iemand is jy onvervangbaar. Daag op.</item>
+        <item>Die belangrikste gesprek van jou dag het nog nie plaasgevind nie.</item>
+        <item>Naby jou is iemand wat ook nie op ’n skerm is nie.</item>
+        <item>Om na iemand te luister, is die maklikste manier om geliefd te wees.</item>
+        <item>Daardie vriend gaan deur iets. Vra uit.</item>
+        <item>Jou kind, jou hond, jou buurman. Iemand is daar.</item>
+        <item>Sosiale media koppel jou aan baie mense en aan niemand nie.</item>
+        <item>’n Middag saam met iemand is ’n maand se nuusvoer werd.</item>
+        <item>Jy kan vandag iemand laat lag. Regtig lag.</item>
+        <item>Volle teenwoordigheid is baie skaars. Jy het dit om te gee.</item>
+        <item>Iemand het hierdie week oor jou gepraat. Gee iets terug.</item>
+        <item>Niemand in die nuusvoer mis jou nie.</item>
+        <item>’n Oproep van vyf minute verander iemand se dag.</item>
+        <item>Die mense wat saak maak, plaas nie daaroor nie.</item>
+        <item>Een vraag, en jy is in ’n goeie gesprek.</item>
+        <item>Regte geselskap het nie advertensies tussenin nie.</item>
+        <item>Daardie mens wat jou altyd ondersteun. Sê vandag dankie.</item>
+        <item>Oogkontak is steeds die beste tegnologie.</item>
+        <item>Jou familie is nie ’n nuusvoer nie. Moenie verby hulle blaai nie.</item>
+        <item>Nooi iemand om saam niks te doen nie.</item>
+        <item>Wie ver weg is, verdien ook om van jou te hoor.</item>
+        <item>Buite hierdie skerm is daar mense wat van jou hou.</item>
+        <item>’n Moeilike gesprek wat jy uitstel, weeg swaarder as die nuusvoer.</item>
+        <item>Geniet die mense naby jou terwyl hulle daar is.</item>
+        <item>Mense onthou wie daar was.</item>
+        <item>Nooi ’n vriend sommer net vir koffie.</item>
+        <item>Iemand iewers wil weet hoe dit met jou gaan.</item>
+        <item>Jy kan nou regtig na iemand luister.</item>
+        <item>Verbintenis bou jy deur te kyk, nie deur te blaai nie.</item>
+        <item>Jou aandag is die beste geskenk vir dié vir wie jy lief is.</item>
+        <item>’n Mens is meer werd as ’n profiel.</item>
+        <item>Daardie gesprek wat jy iemand skuld. Vandag is die dag.</item>
+        <item>Om beskikbaar te wees, is ’n vorm van liefde.</item>
+        <item>Jy het nou tyd vir iemand.</item>
+        <item>Niemand het nog afskeid van die lewe geneem en gewens hulle het meer volgers gehad nie.</item>
+        <item>Kuier weer by iemand eerder as om hulle van ver af te volg.</item>
+        <item>Liefde moet soms hardop gesê word.</item>
+        <item>Jou ou vriendekring bestaan nog. Kontak hulle.</item>
+        <item>Iemand langs jou wil graag gesels.</item>
+        <item>Vergelyking is nie verbintenis nie.</item>
+        <item>Jy kan vandag teenwoordig wees.</item>
+        <item>’n Briefie met die hand geskryf. Wat ’n idee.</item>
+        <item>Die mense wat jou regtig ken, is nie in die nuusvoer nie.</item>
+        <item>Deel die middag met iemand.</item>
+        <item>Die mense naby jou verdien wat jy aan die nuusvoer gee.</item>
+        <item>Jy is belangrik vir iemand wat nooit iets plaas nie.</item>
+        <item>Bel en vra hoe dit regtig met hulle gaan.</item>
+        <item>Eensaamheid gaan nie weg met meer skermtyd nie.</item>
+        <item>Kom vandag nader aan iemand.</item>
+        <item>’n Ete saam is die hele middag werd.</item>
+        <item>Jou aandag voed verhoudings. Voed een vandag.</item>
+        <item>Iemand dink op hierdie oomblik aan jou.</item>
+        <item>Sê vir iemand dat jy van hulle hou.</item>
+        <item>Vriendskappe sterf aan stilte, nie aan rusie nie.</item>
+        <item>Daar is goeie mense naby jou. Geniet hulle.</item>
+        <item>Iemand het geselskap nodig, en jy kan dit gee.</item>
+        <item>Los die nuusvoer en gaan kry mense.</item>
+        <item>Wie vir jou lief is, wil jou tyd hê, nie jou profiel nie.</item>
+        <item>Jy kan iemand se dag binne vyf minute beter maak.</item>
+        <item>Skep put jou uit en vul jou op. Verbruik ontspan jou en maak jou leeg.</item>
+        <item>Jy het meer om te sê as om te sien.</item>
+        <item>Iemand skep nou wat jy sou gekyk het.</item>
+        <item>Skryf een reël. Net een.</item>
+        <item>Die wêreld het te veel verbruikers en te min skeppers.</item>
+        <item>Daardie idee van jou wag steeds.</item>
+        <item>Jy kan iets maak eerder as om na klaargemaakte dinge te kyk.</item>
+        <item>Elke goeie ding is gemaak deur iemand wat nie besig was om te blaai nie.</item>
+        <item>Jou idee is meer werd as vandag se hele nuusvoer.</item>
+        <item>Begin met dit wat jy uitstel. Vyf minute is genoeg.</item>
+        <item>Die projek wat stilstaan, het net ’n stoot nodig.</item>
+        <item>Jy het talent vir iets anders as blaai.</item>
+        <item>Maak vandag iets wat gister nog nie bestaan het nie.</item>
+        <item>Skep is lekkerder as kyk; die begin is net moeilik.</item>
+        <item>Daardie leë notaboek byt nie.</item>
+        <item>Die beste inhoud is wat jy self maak.</item>
+        <item>Jy leer meer deur te doen as deur te kyk.</item>
+        <item>Speel ’n instrument, teken, kook. Doen iets met jou hande.</item>
+        <item>Jou kreatiwiteit verdwyn wanneer jy jou kop met die nuusvoer volprop.</item>
+        <item>Daar is ’n werk van jou wat nog niemand gemaak het nie.</item>
+        <item>Begin swak. Dit word later beter.</item>
+        <item>Een paragraaf per dag word ’n boek.</item>
+        <item>Jy het ’n storie om te vertel.</item>
+        <item>Om dinge te maak, is die teenmiddel vir leegheid.</item>
+        <item>Verveling is die begin van kreatiwiteit. Laat dit maar wees.</item>
+        <item>Jou kop begin uitvind wanneer jy ophou om dit vol te stop.</item>
+        <item>Daardie kursus waarvoor jy betaal het, wag nog.</item>
+        <item>Dit is moontlik om vandag iets nuuts te leer.</item>
+        <item>Verbruik is maklik. Daarom bevredig dit so min.</item>
+        <item>Jy wil iets maak. Begin nou.</item>
+        <item>Vyf minute se oefening is meer werd as ’n uur se video.</item>
+        <item>Daardie resep wat jy wil probeer.</item>
+        <item>Idees kom in die stilte, nie in die blaai nie.</item>
+        <item>Jy kan die skrywer wees eerder as die gehoor.</item>
+        <item>’n Klein projek verander die hele week.</item>
+        <item>Skryf neer wat jy sou doen as jy tyd gehad het. Jy het.</item>
+        <item>Jou hande kan dinge maak. Gebruik hulle.</item>
+        <item>Maak vandag iets onvolmaak.</item>
+        <item>Leer is lekkerder as om vermaak te word.</item>
+        <item>Wat jy skep, bly. Wat jy verbyblaai, verdwyn.</item>
+        <item>Daardie instrument wat in die hoek staan.</item>
+        <item>Daar wag ’n onvoltooide projek op jou.</item>
+        <item>Skep is die teenoorgestelde van vergelyk.</item>
+        <item>Begin klein. Begin vandag.</item>
+        <item>Een bladsy per dag is ’n ander lewe.</item>
+        <item>Jou verbeelding het leë ruimte nodig.</item>
+        <item>Doen iets waarop jy môre trots sal wees.</item>
+        <item>Niks vervang die bevrediging van skep nie.</item>
+        <item>Jy kan meer as net verbruik.</item>
+        <item>Daardie stokperdjie wat jy laat vaar het, bestaan nog.</item>
+        <item>Twintig minute se oefening is twintig minute se vordering.</item>
+        <item>Niemand word goed in iets net deur te blaai nie.</item>
+        <item>Jou volgende vaardigheid begin iewers. Laat dit nou wees.</item>
+        <item>Doen dit, al sien niemand nie.</item>
+        <item>Daar is iets wat jy wil leer. Begin.</item>
+        <item>Verbruik is om na ander mense se lewe te kyk.</item>
+        <item>Jy het hande, ’n kop en tyd. Dis al wat jy nodig het.</item>
+        <item>Die eerste konsep is altyd swak. Skryf dit tog.</item>
+        <item>Daardie taal wat jy nog altyd wou praat.</item>
+        <item>Skep is hoe verveling in vreugde verander.</item>
+        <item>’n Bietjie elke dag bou enige vaardigheid.</item>
+        <item>Daar is iets in jou wat uit wil.</item>
+        <item>Skryf oor jou dag. Net vir jouself.</item>
+        <item>Jou kreatiwiteit wag dat jy die geraas afskakel.</item>
+        <item>Maak vandag iets met jou hande.</item>
+        <item>Die genot om iets klaar te maak, is met niks te vergelyk nie.</item>
+        <item>Daardie projek wat jou so opgewonde gemaak het. Dit kan steeds.</item>
+        <item>Jy hoef nie goed te wees om te begin nie.</item>
+        <item>Kook iets nuuts. Dit is ook skep.</item>
+        <item>Die lewe word interessanter wanneer jy dinge doen.</item>
+        <item>Niemand word gebore met die kennis nie. Almal begin swak.</item>
+        <item>Daardie middernagtelike idee. Skryf dit neer.</item>
+        <item>Jy kan iemand help met wat jy kan doen.</item>
+        <item>Doen vandag ’n bietjie en môre ’n bietjie.</item>
+        <item>Die beste tyd om te begin, is verby. Die tweede beste is nou.</item>
+        <item>Jou werk gaan nie vanself gebeur nie.</item>
+        <item>Oefen is vervelig totdat jy goed word.</item>
+        <item>Jy wil skep. Die nuusvoer wil hê jy moet net kyk.</item>
+        <item>Daardie tekening waarmee jy begin het.</item>
+        <item>Doen is die vinnigste manier om te leer.</item>
+        <item>Jy het ’n stem. Gebruik dit vir iets.</item>
+        <item>Om iets in die huis reg te maak, is ook skep.</item>
+        <item>Jou volgende prestasie begin op ’n gewone dag soos vandag.</item>
+        <item>Doen iets wat net jy sou doen.</item>
+        <item>Die nuusvoer is eindeloos. Jou werk het ’n einde, en daarom maak dit saak.</item>
+        <item>Jy kan vandag iets plant. Letterlik.</item>
+        <item>Daardie sigblad, daardie plan, daardie droom.</item>
+        <item>Skep kos moeite, en dis wat dit die moeite werd maak.</item>
+        <item>Jy is interessanter as enige nuusvoer.</item>
+        <item>Studeer twintig minute. Dis min, en dis baie.</item>
+        <item>Nuuskierigheid is op sy beste wanneer dit oefening word.</item>
+        <item>Daardie liedjie wat jy wou leer speel.</item>
+        <item>Doen nou iets eenvoudigs en nuttigs.</item>
+        <item>Jy het iets goeds om vir die wêreld te bied.</item>
+        <item>Begin met iets waarvoor jy later dankbaar sal wees.</item>
+        <item>’n Persoonlike projek verander jou verhouding met tyd.</item>
+        <item>Skep is die beste manier om jou kop besig te hou.</item>
+        <item>Jy kan vandag iets klaarmaak.</item>
+        <item>Sit jou hande aan iets eg.</item>
+        <item>Niks vervang die gevoel van iets wat jy klaar gedoen het nie.</item>
+        <item>Dis oukei dat jy hier uitgekom het. Haal nou asem.</item>
+        <item>Niemand hou telling nie. Gaan net aan.</item>
+        <item>Dit gaan goed met jou, al lyk dit nie so nie.</item>
+        <item>Geen haas en geen druk nie. Net ’n pouse.</item>
+        <item>Dit is nie ’n toets nie. Net ’n sagte herinnering.</item>
+        <item>Jy probeer, en dit is reeds genoeg.</item>
+        <item>Alles is reg. Maak toe en gaan aan met jou dag.</item>
+        <item>Hier gaan dit nie daaroor om altyd reg te kry nie.</item>
+        <item>Jy verdien ’n ligte gemoed vandag.</item>
+        <item>Geen drama nie. Net ’n oomblik om asem te haal.</item>
+        <item>Dis ’n rustige plek. Bly ’n oomblik.</item>
+        <item>Jy doen jou bes. Dit tel.</item>
+        <item>Hier is geen eise nie. Net sorg.</item>
+        <item>Haal asem. Daar gebeur niks verkeerd nie.</item>
+        <item>Jy het tot hier gekom, en dit is al goed.</item>
+        <item>Niemand oordeel nie. Jy hoef ook nie.</item>
+        <item>Alles is in orde. Gaan net voort.</item>
+        <item>Een tree op ’n slag is die regte pas.</item>
+        <item>Jy hoef nie hierin perfek te wees nie.</item>
+        <item>Stadig is ook vorentoe.</item>
+        <item>Hierdie skerm eis niks van jou nie.</item>
+        <item>Wees nou sag met jouself.</item>
+        <item>Dis oukei om die drang te voel. Dit hoort daarby.</item>
+        <item>Jy sorg vir jouself. Dit is mooi.</item>
+        <item>Geen alarm, geen haas, geen skrik nie.</item>
+        <item>Jy is ’n mens. Dis toegelaat.</item>
+        <item>Jy hoef aan niemand iets te verduidelik nie.</item>
+        <item>Haal diep asem. Dit is al verby.</item>
+        <item>Jy is veilig hier.</item>
+        <item>Dis oukei as vandag moeilik is.</item>
+        <item>Geen twee dae is dieselfde nie. Vandag ook nie.</item>
+        <item>Jy is op koers, al gaan dit stadig.</item>
+        <item>Gee die selfkritiek ’n bietjie rus.</item>
+        <item>Alles is reg. Net ’n asemteug.</item>
+        <item>Jy hoef nie altyd oukei te wees nie.</item>
+        <item>Sagtheid teenoor jouself werk beter as strengheid.</item>
+        <item>Hierdie oomblik sal rustig verbygaan.</item>
+        <item>Jy het vandag al die moeilike deel gedoen.</item>
+        <item>Niks dringends nie. Niks ernstigs nie. Net ’n pouse.</item>
+        <item>Glimlag. Dit is kleiner as wat dit lyk.</item>
+        <item>Jy probeer, en dis wat saak maak.</item>
+        <item>Jy hoef aan niemand verantwoording te doen nie. Gaan net aan.</item>
+        <item>Alles is reg. Regtig.</item>
+        <item>Jy verdien ’n ligte dag.</item>
+        <item>Haal asem. Die wêreld draai steeds.</item>
+        <item>Vandag is daar geen haas nie.</item>
+        <item>Jy is in vrede met hierdie keuse.</item>
+        <item>Dis oukei om oor te begin, so dikwels as wat jy moet.</item>
+        <item>Hier word niks van jou geëis nie.</item>
+        <item>Wees geduldig met die proses.</item>
+        <item>Jy is nie agter met enigiets nie.</item>
+        <item>Dis oukei om nie honderd persent te wees nie.</item>
+        <item>Hierdie pouse is sorg, nie ’n teregwysing nie.</item>
+        <item>Jy kan nou eenvoudig aangaan.</item>
+        <item>Geen spanning nie. Net ’n oomblik.</item>
+        <item>Dis oukei as dit outomaties gebeur het.</item>
+        <item>Jy het geen rede nodig om goed te voel nie.</item>
+        <item>Haal asem en gaan aan. So eenvoudig is dit.</item>
+        <item>Hier is geen probleem nie.</item>
+        <item>Jy doen dit reg.</item>
+        <item>Dis regtig oukei. Gaan in vrede.</item>
+        <item>Hierdie oomblik is joune om te rus.</item>
+        <item>Jy is nie alleen hierin nie.</item>
+        <item>Alles is rustig. Gaan voort met jou dag.</item>
+        <item>Geen las nie. Net ’n herinnering.</item>
+        <item>Jy is reeds genoeg.</item>
+        <item>Die kalmte waarna jy soek, is nie in die nuusvoer nie.</item>
+        <item>Daar is niks fout met jou nie.</item>
+        <item>Laat jou gedagtes vir ’n sekonde rus.</item>
+        <item>Jy verdien hierdie sorg.</item>
+        <item>Niks hoef nou opgelos te word nie.</item>
+        <item>Haal een keer asem. Gaan dan aan.</item>
+        <item>Jy is oukei. Dis al.</item>
+        <item>Geen eise, geen rekeninge, geen telbord nie.</item>
+        <item>’n Oomblik van kalmte in die middel van die dag.</item>
+        <item>Jy mag nou vriendelik met jouself wees.</item>
+        <item>Alles is vreedsaam.</item>
+        <item>Daar is vir niks haas nie.</item>
+        <item>Jy het vandag gedoen wat jy kon.</item>
+        <item>Dis oukei. Môre gaan dit voort.</item>
+        <item>Hierdie oomblik is net een asemteug.</item>
+        <item>Jy is veilig, en dis genoeg.</item>
+        <item>Hier word niemand geoordeel nie.</item>
+        <item>Haal net asem en gaan leef.</item>
+        <item>Jy verdien vandag rus en vrede.</item>
+        <item>Elke pas is goed genoeg.</item>
+        <item>Gee jou kop ’n bietjie rus.</item>
+        <item>Jy is altyd welkom hier.</item>
+        <item>Geen skrik nie. Net ’n vinnige stilstand.</item>
+        <item>Die lewe is vandag nie ’n wedren nie.</item>
+        <item>Jy is heel, en dit is genoeg.</item>
+        <item>Dis goed dat jy probeer het.</item>
+        <item>Niks hier is teen jou nie.</item>
+        <item>Haal asem en gaan stadig voort.</item>
+        <item>Jy is goed soos jy is.</item>
+        <item>Dit is ’n oomblik van vrede.</item>
+        <item>Geen druk hoegenaamd nie. Gaan lig voort.</item>
+        <item>Jy mag maar rus.</item>
+        <item>Dis rustig hier.</item>
+        <item>Vat dit rustig. Die dag sal wag.</item>
+        <item>Jy is sag met jouself, en dit is krag.</item>
+        <item>Wat sou jy nou doen as hierdie app nie bestaan het nie.</item>
+        <item>Is jy hier omdat jy wil of uit gewoonte.</item>
+        <item>Waarna het jy nou eintlik gesoek.</item>
+        <item>Sal dit môreoggend nog saak maak.</item>
+        <item>Sal jy onthou wat jy nou sou sien.</item>
+        <item>Waarmee was jy besig voordat jy jou foon gevat het.</item>
+        <item>Hoeveel tyd wil jy vandag hieraan gee.</item>
+        <item>Is jy verveeld of moeg.</item>
+        <item>Wat kon jou middag eerder wees.</item>
+        <item>Is dit die moeite werd.</item>
+        <item>Het jy dit om ’n spesifieke rede oopgemaak.</item>
+        <item>Wat sou jy weer uitstel as jy nou ingaan.</item>
+        <item>Wie wil jy oor ’n jaar wees.</item>
+        <item>Wat sou jou nou regtig goed doen.</item>
+        <item>Probeer jy van iets wegkom.</item>
+        <item>Wat van daardie ding wat jy al so lank uitstel.</item>
+        <item>Wat sou gebeur as jy dit net toemaak.</item>
+        <item>Jy het iets beters om te doen. Wat is dit.</item>
+        <item>Is dit rus of is dit ontvlugting.</item>
+        <item>Wat sou môre se jy vra dat jy nou doen.</item>
+        <item>Is jy honger, vaak of verveeld.</item>
+        <item>Wanneer het die nuusvoer jou laas beter laat voel.</item>
+        <item>Wat wil jy aan die einde van die dag voel.</item>
+        <item>Wat kort jy nou eintlik.</item>
+        <item>Het jy dit nodig, of wil jy dit net hê.</item>
+        <item>Watter klein dingetjie sou jou dag nou beter maak.</item>
+        <item>Wat sou jy met twee vrye ure doen.</item>
+        <item>Jy weet reeds waarmee jy eintlik besig wil wees.</item>
+        <item>Wat kos hierdie vyftien minute jou regtig.</item>
+        <item>Wil jy dit hê, of is dit net jou hand wat dwaal.</item>
+        <item>Wat sou nou meer die moeite werd wees.</item>
+        <item>Gaan dit goed met jou daar.</item>
+        <item>Wat sou nou, rustig bedink, die beste keuse wees.</item>
+        <item>Sal jy trots wees op hierdie halfuur.</item>
+        <item>Wat sou jy doen as niemand kyk nie.</item>
+        <item>Is daar iemand wat jy nou kan bel.</item>
+        <item>Wat probeer jou kop vermy.</item>
+        <item>Is dit die moeite werd om jou middag daarvoor te verruil.</item>
+        <item>Jy het ’n plan vir vandag. Is dit deel daarvan.</item>
+        <item>Wat sou nou die lekkerste ding wees om te doen.</item>
+        <item>Gaan dit regtig goed met jou.</item>
+        <item>Wat sou hierdie week die moeite werd maak.</item>
+        <item>Is dit wat jy wil hê, of net wat jy gewoonlik doen.</item>
+        <item>Het jy al gedink aan wat jy môre wil doen.</item>
+        <item>Hoeveel keer het jy vandag al jou foon opgetel.</item>
+        <item>Waaroor sou jy oor ’n uur tevrede wees.</item>
+        <item>Wil jy ingaan, of is jou vinger net op outoloods.</item>
+        <item>Watter belangrike ding skuif jy na later.</item>
+        <item>Wat sou jy van tien jaar gelede hiervan dink.</item>
+        <item>Rus jy regtig.</item>
+        <item>Is daar iets wat jy sou doen as jy die moed gehad het.</item>
+        <item>Wat sal jy vanaand wens jy gedoen het.</item>
+        <item>Is dit meer werd as ’n gesprek.</item>
+        <item>Waarvoor het jy vandag tyd.</item>
+        <item>Watter gewoonte wil jy oor ses maande hê.</item>
+        <item>Wat vra eintlik jou aandag.</item>
+        <item>Wil jy hierdie middag liewer onthou of vergeet.</item>
+        <item>Wat sou ’n goeie gebruik van hierdie oomblik wees.</item>
+        <item>Is jy hier om iets te sien of om iets nie te voel nie.</item>
+        <item>Wat sou jou vanaand goed laat slaap.</item>
+        <item>Voeg dit by jou dag, of trek dit af.</item>
+        <item>Wil jy regtig weet wat daar is.</item>
+        <item>Wat was die laaste goeie ding wat jy sonder ’n skerm gedoen het.</item>
+        <item>Wat sou jy op ’n middag sonder internet doen.</item>
+        <item>Waarvoor is jy so haastig.</item>
+        <item>Watter klein treetjie kan jy nou gee.</item>
+        <item>Wat het jou aandag meer nodig as dit.</item>
+        <item>Het jy vandag al diep asemgehaal.</item>
+        <item>Wat is jou plan vir die volgende uur.</item>
+        <item>Bring dit jou nader aan iets wat jy wil hê.</item>
+        <item>Sou jy dit doen voor iemand wat jy bewonder.</item>
+        <item>Wat het vandag goed gegaan.</item>
+        <item>Hoeveel van jou dag het al aan skerms gegaan.</item>
+        <item>Het jy ’n idee wat stil lê en wag.</item>
+        <item>Wat wil jy met hierdie week doen.</item>
+        <item>Is dit die moeite werd om stilte vir geraas te verruil.</item>
+        <item>Skep jy vandag, of verbruik jy.</item>
+        <item>Watter eenvoudige ding sou jou nou goed doen.</item>
+        <item>Wat sou jy vir ’n vriend in hierdie situasie sê.</item>
+        <item>Jy het vyf minute. Waarvoor.</item>
+        <item>Wat pla jou eintlik.</item>
+        <item>Is dit die beste wat jy nou kan doen.</item>
+        <item>Jy is in beheer van hierdie oomblik.</item>
+        <item>Watter besluit sou jou trots maak.</item>
+        <item>Wat wil jy gedoen hê teen die tyd dat die dag verby is.</item>
+        <item>Onthou jy hoekom jy dit geïnstalleer het.</item>
+        <item>Wat as jy dit vir later los en kyk of jy dit dan nog wil hê.</item>
+        <item>Wat sou jy vandag doen as jy meer moed gehad het.</item>
+        <item>Wil jy die vinnige weergawe van jou dag hê, of die goeie een.</item>
+        <item>Wat is die een ding wat net jy vandag kan doen.</item>
+        <item>Wat wag buite op jou.</item>
+        <item>Was jy vandag al vir iets dankbaar.</item>
+        <item>Hoeveel is die volgende halfuur vir jou werd.</item>
+        <item>Wat wil jy uit hierdie week saamneem.</item>
+        <item>Is dit dringend, of lyk dit net so.</item>
+        <item>Doen jy wat jy wil doen.</item>
+        <item>Wat sou ’n goeie einde vir hierdie dag wees.</item>
+        <item>Wat sou jy doen as jy uitgerus was.</item>
+        <item>Wil jy nou liewer blaai of leef.</item>
+        <item>Maak dit sommer toe en kyk wat gebeur.</item>
+    </string-array>
+</resources>

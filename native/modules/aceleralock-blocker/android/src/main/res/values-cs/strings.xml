@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">Aplikace %1$s je zablokovaná.</string>
+    <string name="aceleralock_block_title_unknown">Tahle aplikace je zablokovaná.</string>
+    <string name="aceleralock_block_close">Zavřít</string>
+    <string name="aceleralock_notification_channel">Ochrana je zapnutá</string>
+    <string name="aceleralock_notification_text">Ochrana je zapnutá</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: blokování webů</string>
+    <string name="aceleralock_site_accessibility_description">Čte jen adresu v adresním řádku prohlížečů Chrome, Samsung Internet, Firefox, Edge a Brave a blokuje tak weby, které máš vybrané. Nic se neukládá a nic neopouští zařízení.</string>
+</resources>

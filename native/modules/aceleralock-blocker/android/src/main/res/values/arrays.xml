@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  English: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>The time you don’t spend here goes straight back into your life.</item>
+        <item>Every minute away from this screen is yours again.</item>
+        <item>These twenty minutes are enough for a walk.</item>
+        <item>The day has more room than it seems once the scrolling stops.</item>
+        <item>You just got a piece of your afternoon back.</item>
+        <item>An hour a day adds up to fifteen days a year.</item>
+        <item>Time doesn’t come back, but you can still choose where it goes.</item>
+        <item>This break is yours. No one needs to know what you do with it.</item>
+        <item>A whole life is happening outside the app.</item>
+        <item>The clock runs the same on both sides of this screen.</item>
+        <item>You just bought yourself time. Spend it on something you’ll remember tomorrow.</item>
+        <item>No one ends the day wishing they had scrolled more.</item>
+        <item>Fifteen minutes here are fifteen minutes anywhere else.</item>
+        <item>Think of what you’d have done with this half hour ten years ago.</item>
+        <item>Your time is the one thing you can’t buy back.</item>
+        <item>The whole afternoon is still wide open in front of you.</item>
+        <item>This minute could be the start of something else.</item>
+        <item>You’re giving hours back to yourself, one at a time.</item>
+        <item>Time saved here doesn’t vanish. It shows up somewhere else.</item>
+        <item>Ten minutes seem like nothing until you add up a month of them.</item>
+        <item>Life happens at its own pace, not the feed’s.</item>
+        <item>You have more time today than you did at this hour yesterday.</item>
+        <item>That thing you’ve been putting off fits right into this break.</item>
+        <item>This pause is short. What you do with it might not be.</item>
+        <item>A day holds a lot once scrolling gets out of the way.</item>
+        <item>You just won back the rest of your evening.</item>
+        <item>Time is the currency. You just decided not to spend it.</item>
+        <item>The feed never ends. Your day does.</item>
+        <item>Half an hour a day is a whole book a month.</item>
+        <item>Nothing urgent was waiting for you in there.</item>
+        <item>This time was always yours. Now it’s back with you.</item>
+        <item>The morning can still be a good one if it starts now.</item>
+        <item>You haven’t missed anything. You’ve gained a break.</item>
+        <item>No one hands us time back. We have to hold on to it ourselves.</item>
+        <item>These minutes are worth more out there, and you already know it.</item>
+        <item>Whatever was in there will still be there. Your time won’t.</item>
+        <item>A life is made of afternoons like this one.</item>
+        <item>You can end the day with something done instead of something watched.</item>
+        <item>Two hours a day is a whole month a year.</item>
+        <item>The time you protect today is what you’ll have left tomorrow.</item>
+        <item>This is the part of the day only you get to decide.</item>
+        <item>Nothing anyone wrote in there is worth your afternoon.</item>
+        <item>Thirty minutes a day can build almost anything in a year.</item>
+        <item>You just bought yourself a bit of quiet.</item>
+        <item>The day gets bigger when the feed gets smaller.</item>
+        <item>This time is raw material now. Make something with it.</item>
+        <item>One of your projects has been waiting for exactly this break.</item>
+        <item>What you gain here won’t show up on any screen, only in your life.</item>
+        <item>Free time is rare. You just made some.</item>
+        <item>No one at the end of their life ever asked for one more scroll.</item>
+        <item>You have the whole afternoon, and none of it is spent yet.</item>
+        <item>A year is three hundred and sixty-five choices like this one.</item>
+        <item>This break is small, but it’s entirely yours.</item>
+        <item>Time passes the same either way. The difference is what’s left after.</item>
+        <item>You just took half an hour off autopilot.</item>
+        <item>The rest of your day thanks you for this stop.</item>
+        <item>Five minutes in there turn into forty before anyone notices.</item>
+        <item>You know what those five minutes really cost. That’s why you’re here.</item>
+        <item>The hour you protect now is the one you’ll be looking for tonight.</item>
+        <item>Nothing in there gets better because you see it now instead of later.</item>
+        <item>You just chose where your next minute goes.</item>
+        <item>This time is enough for a chat, a walk, or a nap.</item>
+        <item>The day goes further when the hours stop slipping away.</item>
+        <item>The next half hour belongs to you and no one else.</item>
+        <item>There’s a version of today where you got something done. It starts now.</item>
+        <item>Time doesn’t pile up. It only gets spent better or worse.</item>
+        <item>These minutes can become real rest.</item>
+        <item>You just stepped off a treadmill that goes nowhere.</item>
+        <item>A week has a hundred and sixty-eight hours. This one is yours.</item>
+        <item>The feed takes time in tiny pieces so no one misses it.</item>
+        <item>Now you can do the thing that gets pushed to tomorrow every day.</item>
+        <item>Your afternoon doesn’t have to fit inside a screen.</item>
+        <item>Spare time is what makes a day feel long in the good way.</item>
+        <item>You just gave the next hour back to yourself.</item>
+        <item>Nothing you’d see right now would still be on your mind in a week.</item>
+        <item>This is the kind of minute that builds a year or wears it away.</item>
+        <item>You’ve gained time. No need to spend it fast.</item>
+        <item>A day without scrolling has room for more.</item>
+        <item>The clock doesn’t sort good time from wasted time. You do.</item>
+        <item>This hour is worth as much as any other in your life.</item>
+        <item>You have time right now. That’s rarer than it sounds.</item>
+        <item>Saving time is the only way to have time.</item>
+        <item>The whole evening is still ahead of you.</item>
+        <item>These minutes are the start of an afternoon you’ll remember.</item>
+        <item>You just dodged that hour-long rabbit hole.</item>
+        <item>Everything that takes time takes exactly this kind of decision.</item>
+        <item>There’s still room for a lot between now and dinner.</item>
+        <item>You eased off the accelerator. The day slows down with you.</item>
+        <item>Your week has room. Something else was taking it up.</item>
+        <item>Every time you close this, the day grows a little.</item>
+        <item>Time is a gift you give yourself without spending a thing.</item>
+        <item>Right now you have exactly what you keep saying you don’t have.</item>
+        <item>A long afternoon is made of short decisions like this one.</item>
+        <item>No one will ask what you did with this half hour.</item>
+        <item>The time you don’t give away today will still be with you tomorrow.</item>
+        <item>Twenty minutes a day adds up to a hundred and twenty hours a year.</item>
+        <item>You just reclaimed the quiet time before bed.</item>
+        <item>There’s a lot of life between one notification and the next.</item>
+        <item>The whole day is yours if you don’t hand it over piece by piece.</item>
+        <item>You’ve made it this far protecting your time. Here’s one more.</item>
+        <item>Your attention is the most fought-over thing in the world. You just won.</item>
+        <item>Focus takes twenty minutes to come back. Don’t give it away now.</item>
+        <item>A whole mind is worth more than one cut into pieces.</item>
+        <item>You were focused on something before you came here.</item>
+        <item>Divided attention isn’t attention. It’s just tiredness.</item>
+        <item>What you were doing deserves all of you.</item>
+        <item>Deep thinking needs uninterrupted time. This is it.</item>
+        <item>Every switch between screens costs more than the clock shows.</item>
+        <item>Your mind was doing well. Let it keep going.</item>
+        <item>Deep work doesn’t survive a trip through the feed.</item>
+        <item>The feed was designed to take your attention. You noticed.</item>
+        <item>A long thought needs quiet to finish.</item>
+        <item>You can hold a whole idea in your head. It just needs room.</item>
+        <item>Distraction isn’t rest. Rest actually rests you.</item>
+        <item>The focus you had is still nearby. Go back to it.</item>
+        <item>Your attention isn’t for sale today.</item>
+        <item>Your best thinking shows up after the twentieth minute.</item>
+        <item>Breaking off now costs more than it seems.</item>
+        <item>You can do things that take real focus. Start by protecting it.</item>
+        <item>Nothing in there urgently needs your attention.</item>
+        <item>One focused hour gets more done than four scattered ones.</item>
+        <item>Your mind works better when it isn’t jumping between topics.</item>
+        <item>What you left half done can still be finished today.</item>
+        <item>Focus isn’t willpower. It’s your surroundings, and you just tidied yours.</item>
+        <item>That hard problem gives way when you stay with it.</item>
+        <item>Your attention is limited. That’s why it’s worth so much.</item>
+        <item>You don’t need to know everything right now.</item>
+        <item>The noise will still be there. Your quiet is the rare thing.</item>
+        <item>Great things were made by people who weren’t interrupted.</item>
+        <item>Go back to what you were doing. Your mind is still there.</item>
+        <item>One task at a time is faster than it seems.</item>
+        <item>The urge to look passes. An interrupted idea sometimes doesn’t come back.</item>
+        <item>Your capacity to focus is bigger than what you’ve been using.</item>
+        <item>Good thinking is slow. Let it be slow.</item>
+        <item>Your attention built something today. Don’t take it apart out of curiosity.</item>
+        <item>What needs your mind needs all of it.</item>
+        <item>No feed will teach you what an hour of focus can.</item>
+        <item>Every notification you skip is a little more clarity.</item>
+        <item>You were close to figuring it out. Go back to it.</item>
+        <item>A rested mind is one that hasn’t been pulled around all day.</item>
+        <item>Your attention is what you build everything else with.</item>
+        <item>Starting is the hard part. You already started. Don’t go back to zero.</item>
+        <item>Leave the problem alone for a while and your mind will work it out.</item>
+        <item>Clarity shows up when the noise stops.</item>
+        <item>Your best work of the day hasn’t happened yet.</item>
+        <item>It’s not a lack of time. It’s a lack of unbroken time.</item>
+        <item>You think better than the feed lets you.</item>
+        <item>That essay, that code, that conversation. They’re waiting for all of you.</item>
+        <item>Focus is a muscle. It grows with days like today.</item>
+        <item>Your mind just said thank you.</item>
+        <item>One thing at a time is still the most advanced technique there is.</item>
+        <item>What you do with attention lasts. The rest fades.</item>
+        <item>There’s no shortcut to thinking. Only time without interruptions.</item>
+        <item>You deserve to finish a thought.</item>
+        <item>Your mind was sharp. Keep that edge.</item>
+        <item>Screens flicker. Ideas don’t. Stay with the ideas.</item>
+        <item>One focused day is worth three rushed ones.</item>
+        <item>You’re not slow. You were just being interrupted.</item>
+        <item>What matters today isn’t in the feed.</item>
+        <item>Staying on track is easier than getting back on it.</item>
+        <item>Your full attention is a gift. Give it to what deserves it.</item>
+        <item>Quiet is where good ideas turn up.</item>
+        <item>You were in the middle of something good.</item>
+        <item>No one thinks clearly with their mind in ten places.</item>
+        <item>Depth only comes after some time at the surface.</item>
+        <item>Focus isn’t about doing more. It’s about doing it well.</item>
+        <item>You have something important today. The feed isn’t it.</item>
+        <item>Let your mind finish the sentence it started.</item>
+        <item>An hour without interruptions changes what the day can hold.</item>
+        <item>What feels hard now gets easier with steady attention.</item>
+        <item>Your focus is your advantage. Few people still have theirs.</item>
+        <item>Don’t trade one important thing for lots of quick ones.</item>
+        <item>Curiosity can wait. Focus won’t.</item>
+        <item>You’re building something. Keep going.</item>
+        <item>Switching tasks feels productive and almost never is.</item>
+        <item>The best use of your mind today is still available.</item>
+        <item>The attention you save now shows up in the results later.</item>
+        <item>Your mind isn’t a feed. It keeps what you pay attention to.</item>
+        <item>Something that deserves all of you is rare. Make the most of it.</item>
+        <item>Hard isn’t impossible. It just takes longer.</item>
+        <item>You’re a few minutes away from cracking it.</item>
+        <item>The noise fades when you stop feeding it.</item>
+        <item>Stay with what you were doing until it’s done.</item>
+        <item>One deep dive is worth ten shallow ones.</item>
+        <item>Your attention decides what becomes a memory.</item>
+        <item>You remember what you paid attention to. Only that.</item>
+        <item>Thinking is the most worthwhile thing you’ll do today.</item>
+        <item>An unhurried mind solves what a rushed one can’t see.</item>
+        <item>Good work asks for patience, not speed.</item>
+        <item>Nothing you’d see now would come up in conversation tomorrow.</item>
+        <item>Your clear head today started with decisions like this one.</item>
+        <item>Interruptions are the most expensive tax there is.</item>
+        <item>You can stay with one thing longer than you think.</item>
+        <item>That detail you kept missing shows up in the quiet.</item>
+        <item>Focus comes back. It just needs a few minutes away from screens.</item>
+        <item>You’re capable of long attention. The feed is betting you’re not.</item>
+        <item>Finishing one thing today beats starting five.</item>
+        <item>Your full attention is rare, even for you.</item>
+        <item>Give your thoughts room to breathe.</item>
+        <item>No one can scroll past what you build with focus.</item>
+        <item>The urge to open it passes in a few minutes. It always does.</item>
+        <item>This impulse has a shelf life. It wears off on its own.</item>
+        <item>You don’t have to do anything. Just wait for the wave to pass.</item>
+        <item>The urgency you feel right now isn’t yours. It was taught to you.</item>
+        <item>Take one breath. The urge is already smaller than a minute ago.</item>
+        <item>The urge is strongest at the start and fades partway through.</item>
+        <item>It’s not you wanting it. It’s the habit asking.</item>
+        <item>It’s uncomfortable for a little while. Then it passes.</item>
+        <item>You’ve felt this before and come through every time.</item>
+        <item>Urges come in waves. Waves break.</item>
+        <item>No one has to obey the first impulse of the day.</item>
+        <item>That tight feeling in your chest lasts less than a song.</item>
+        <item>You’re bigger than a thirty-second impulse.</item>
+        <item>Let the urge pass without acting on it.</item>
+        <item>This discomfort is the habit letting go. That’s progress.</item>
+        <item>You’re not resisting. You’re just waiting.</item>
+        <item>The urge arrives loud and leaves quietly.</item>
+        <item>Count to twenty. It’ll already be smaller.</item>
+        <item>Wanting something isn’t the same as needing it.</item>
+        <item>The impulse wants an answer right away. Don’t give it one.</item>
+        <item>This is the hardest moment, and it’s a short one.</item>
+        <item>You don’t need to fight. Just don’t decide right now.</item>
+        <item>The urge dies down when nobody feeds it.</item>
+        <item>This is anxiety, not a hunger for content.</item>
+        <item>Notice the urge without stepping into it.</item>
+        <item>Your brain is ordering the usual. You don’t have to serve it.</item>
+        <item>Five minutes from now, you won’t even remember wanting to open it.</item>
+        <item>The wave is rising now. It always comes back down.</item>
+        <item>You’re already past the worst part.</item>
+        <item>The urge lies about how strong it is.</item>
+        <item>Get up, drink some water, come back. It’s already gone.</item>
+        <item>An urge isn’t an order.</item>
+        <item>You can feel this and do nothing about it. That’s allowed.</item>
+        <item>Your body is asking for movement, not a screen.</item>
+        <item>This craving is automatic. Your response doesn’t have to be.</item>
+        <item>Nothing bad happens if you wait a little longer.</item>
+        <item>The urge goes away on its own if you give it space.</item>
+        <item>You’re just feeling anxious. It passes, and it doesn’t need a screen.</item>
+        <item>An impulse is a suggestion. You’re the one who decides.</item>
+        <item>One more minute and the urge will be something else.</item>
+        <item>The hard part is brief. The good part lasts all day.</item>
+        <item>This is that familiar little nudge. It doesn’t push as hard as it seems.</item>
+        <item>Wait without judging. The urge dissolves by itself.</item>
+        <item>Your brain is asking for its usual shortcut.</item>
+        <item>You don’t have to win anything. Just let it pass.</item>
+        <item>Every wave you let pass makes the next one smaller.</item>
+        <item>Anxiety wants a quick fix. It won’t find one here.</item>
+        <item>Stay still for a moment. The impulse won’t.</item>
+        <item>You’re not missing anything by waiting.</item>
+        <item>Boredom isn’t an emergency.</item>
+        <item>Feeling empty right now is normal. That space fills itself back up.</item>
+        <item>The urge to check something is rarely about the something.</item>
+        <item>You’re uncomfortable, not in danger.</item>
+        <item>This will ease up in a moment.</item>
+        <item>The habit is strong, but it doesn’t last long.</item>
+        <item>Let this one go. Just this one.</item>
+        <item>Next time will be easier because of this one.</item>
+        <item>You don’t have to talk yourself into anything. Just wait.</item>
+        <item>A glass of water helps more than a scroll through the feed.</item>
+        <item>The urgency is fake, and you already know that.</item>
+        <item>An impulse can’t hold out without an answer.</item>
+        <item>Wait thirty seconds. Then decide again.</item>
+        <item>You’re at the peak. From here, it only eases off.</item>
+        <item>Nothing needs a reaction from you right now.</item>
+        <item>The urge is a visitor. It will leave.</item>
+        <item>You’re not the impulse. You’re the one watching it.</item>
+        <item>Your body relaxes if you give it a minute.</item>
+        <item>That’s just your brain looking for stimulation. It’ll find something else.</item>
+        <item>Three deep breaths change how strong this feels.</item>
+        <item>The urge shrinks when you look straight at it.</item>
+        <item>You can handle this minute. You’ve handled harder ones.</item>
+        <item>The discomfort passes even if you do nothing.</item>
+        <item>Your hand was quicker than your head. It happens.</item>
+        <item>No decision has to be made in the first ten seconds.</item>
+        <item>In a few moments you won’t even remember this.</item>
+        <item>The trigger went off. The response is still yours.</item>
+        <item>Let the urge be there without obeying it.</item>
+        <item>This isn’t a craving. It’s just routine.</item>
+        <item>Wait. That’s literally all you need to do.</item>
+        <item>Your mind calms down on its own if you don’t add fuel to the fire.</item>
+        <item>You’re already waiting. That’s the win.</item>
+        <item>An impulse loses its strength when it meets a closed door.</item>
+        <item>Every second here puts you a little further ahead.</item>
+        <item>The wave has broken. Notice how much lighter it feels.</item>
+        <item>You don’t need a reason not to open it.</item>
+        <item>Desire passes faster than regret does.</item>
+        <item>A quick stretch fixes what the feed never would.</item>
+        <item>The urge is leaving while you read this.</item>
+        <item>Don’t decide anything now. Just breathe.</item>
+        <item>The impulse comes on its own and goes on its own.</item>
+        <item>This is the hardest bit. And it’s quick.</item>
+        <item>You’ve held on this long. Only seconds to go.</item>
+        <item>Your body asks for a screen when it wants rest. Give it rest.</item>
+        <item>The urge gets smaller every time it goes unanswered.</item>
+        <item>Wait a little longer. That’s all.</item>
+        <item>The moment passes. The choice stays.</item>
+        <item>You just made it through the narrowest part.</item>
+        <item>Feeling the urge is human. So is not obeying it.</item>
+        <item>Calm comes back in a moment if you don’t push.</item>
+        <item>It feels lighter now, doesn’t it?</item>
+        <item>You decided this when you were calm. Trust the person who decided.</item>
+        <item>Yesterday’s you looked out for the you of right now.</item>
+        <item>This screen is a note from you to yourself.</item>
+        <item>You’re not being stopped. You’re being reminded.</item>
+        <item>The person you want to be doesn’t spend the afternoon scrolling.</item>
+        <item>This choice was yours. It still is.</item>
+        <item>You’re the kind of person who noticed and did something about it.</item>
+        <item>No one made you install this. You wanted to.</item>
+        <item>The you of tomorrow will be glad you did this.</item>
+        <item>You’re already someone who protects their own time.</item>
+        <item>This isn’t a punishment. It’s an agreement.</item>
+        <item>You wrote this rule. It’s working.</item>
+        <item>Owning your attention is a choice you make every day.</item>
+        <item>You don’t have to prove anything to anyone here.</item>
+        <item>The person you want to be starts with small decisions.</item>
+        <item>You’re on the right side of this screen.</item>
+        <item>Each time you close this, you become more of who you want to be.</item>
+        <item>You aren’t what you crave. You’re what you do.</item>
+        <item>A promise to yourself counts as much as any other.</item>
+        <item>You spotted a pattern and changed it. That’s rare.</item>
+        <item>You’re bigger than the apps in your pocket.</item>
+        <item>This is your rule, and it’s on your side.</item>
+        <item>You have every right to change your habits.</item>
+        <item>What you do again and again is who you are.</item>
+        <item>You chose a life with more room in it.</item>
+        <item>The app isn’t the one in charge of you.</item>
+        <item>Who you are doesn’t fit in a feed.</item>
+        <item>You’re the person who installed this for a reason.</item>
+        <item>Remember why. The reason still stands.</item>
+        <item>You’re keeping a decision you made.</item>
+        <item>No one decides where your attention goes but you.</item>
+        <item>You noticed what was happening. That alone changes everything.</item>
+        <item>Owning your day is ongoing work.</item>
+        <item>You’re not a passenger. You’re driving.</item>
+        <item>This is the choice of someone who takes themselves seriously.</item>
+        <item>You’re responsible for yourself. And you’re showing it.</item>
+        <item>Your time has an owner, and they’re reading this right now.</item>
+        <item>You made a deal with yourself. Keep it.</item>
+        <item>Every decision like this brings you closer to who you want to be.</item>
+        <item>You’re not losing freedom. You’re using it.</item>
+        <item>What happens next is your call.</item>
+        <item>You don’t need permission to live differently.</item>
+        <item>This limit is care, not a cage.</item>
+        <item>You chose a harder path that’s more truly yours.</item>
+        <item>Someone you admire would say no right now too.</item>
+        <item>You live in your life, not in the app.</item>
+        <item>Your time, your mind, your choice.</item>
+        <item>You’re keeping your word to yourself. That counts.</item>
+        <item>No one else is going to look after your attention for you.</item>
+        <item>You’ve already shown you can change course.</item>
+        <item>This is what autonomy looks like: deciding ahead, not on impulse.</item>
+        <item>You’re becoming someone you respect.</item>
+        <item>This is the version of you that plans ahead.</item>
+        <item>You didn’t end up here by accident. You set this up.</item>
+        <item>Your word to yourself matters.</item>
+        <item>You have your own ideas about how to spend your day.</item>
+        <item>The app doesn’t know you. You do.</item>
+        <item>You’re acting like someone who owns their life.</item>
+        <item>Following through on your own decision is freedom.</item>
+        <item>You’re the one who writes the rules here.</item>
+        <item>This is you taking care of you.</item>
+        <item>You’re not trapped. You’re protected.</item>
+        <item>Your wish to change is older than this impulse.</item>
+        <item>You already are who you’re trying to be.</item>
+        <item>The hard decision is already made. This is just the easy one.</item>
+        <item>You’re in control, and that’s rare these days.</item>
+        <item>No one has to know. This is between you and you.</item>
+        <item>You deserve to trust your own word.</item>
+        <item>Your name is on this choice.</item>
+        <item>You’ve become the kind of person who decides ahead of time.</item>
+        <item>This isn’t giving something up. It’s choosing something else.</item>
+        <item>You have a direction. This screen points the way.</item>
+        <item>Real freedom is not being pulled at all the time.</item>
+        <item>You’re the one who sets the value of your attention.</item>
+        <item>Every no here is a yes to something else of yours.</item>
+        <item>You’re staying true to a plan you made with care.</item>
+        <item>Being your own person takes work, and it’s worth it.</item>
+        <item>You admitted you wanted to change. That was the hard part.</item>
+        <item>The person in the mirror tonight will appreciate this.</item>
+        <item>You don’t owe the algorithm anything.</item>
+        <item>Your life isn’t anyone’s content.</item>
+        <item>You’re exactly where you decided to be.</item>
+        <item>A limit you set for yourself is the most respectful kind there is.</item>
+        <item>Your plans for your life are bigger than this screen.</item>
+        <item>This is maturity in real time.</item>
+        <item>You’re looking after your future without even noticing.</item>
+        <item>Every choice like this sharpens who you are.</item>
+        <item>You don’t have to explain why you didn’t open it.</item>
+        <item>Your commitment is to yourself, not to the app.</item>
+        <item>You made the right decision back when you weren’t feeling the urge.</item>
+        <item>This is your life, with you at the wheel.</item>
+        <item>You’ve become someone who’s hard to manipulate.</item>
+        <item>Your attention has an owner, and they’re paying attention.</item>
+        <item>You just acted like someone who takes care of themselves.</item>
+        <item>The plan is yours. It’s working right now.</item>
+        <item>You’re the sum of your small choices.</item>
+        <item>No one can take the last word away from you.</item>
+        <item>You’re the authority on your own time.</item>
+        <item>It’s working because you wanted it to.</item>
+        <item>You’re bigger than the habit that wants to be bigger than you.</item>
+        <item>One more. That’s how the count grows.</item>
+        <item>Small and repeated beats big and rare.</item>
+        <item>You just scored one more point.</item>
+        <item>No one changes all at once. Change happens on days like today.</item>
+        <item>This is one small part of a different life.</item>
+        <item>One good day changes nothing. A hundred good days change everything.</item>
+        <item>You’re building a streak.</item>
+        <item>From the inside, progress almost never feels like progress.</item>
+        <item>These choices add up to more than any one of them.</item>
+        <item>Consistency is boring, and it works.</item>
+        <item>One more stone in the wall.</item>
+        <item>You’re training something that lasts.</item>
+        <item>Repeat this enough and it becomes automatic.</item>
+        <item>No one sees this win, but it counts all the same.</item>
+        <item>A few weeks from now, you might not even feel the urge.</item>
+        <item>Today counts. Tomorrow will count too.</item>
+        <item>A chain is made of links like this one.</item>
+        <item>The new habit is being written right now.</item>
+        <item>Each repetition loosens the old habit a little.</item>
+        <item>You’ve done this before. Do it again.</item>
+        <item>Slow is the speed of things that last.</item>
+        <item>Change happens out of sight.</item>
+        <item>You’re building up something invisible and real.</item>
+        <item>One more day in the right direction.</item>
+        <item>The results show up later. The choice is today.</item>
+        <item>One choice at a time is how it’s done.</item>
+        <item>You’re closer than you were yesterday.</item>
+        <item>It doesn’t have to be perfect. It has to be often.</item>
+        <item>The curve rises slowly, then all at once.</item>
+        <item>You’re in the middle of the process. This is what it looks like.</item>
+        <item>Every small no builds a big yes.</item>
+        <item>None of this is dramatic. That’s why it works.</item>
+        <item>The path is made of steps like this one.</item>
+        <item>You’re creating a new kind of routine.</item>
+        <item>A month from now, this will feel easy.</item>
+        <item>Repetition is what turns a decision into a way of being.</item>
+        <item>You just reinforced the new path.</item>
+        <item>A hundred percent is easier than ninety-eight.</item>
+        <item>Don’t break the streak today.</item>
+        <item>You’re doing the boring part, which is the part that counts.</item>
+        <item>We don’t feel change happening. We see it later.</item>
+        <item>Another brick laid.</item>
+        <item>You’re teaching your brain to expect something else.</item>
+        <item>Keeping at it is the whole technique.</item>
+        <item>Added together, none of these wins is small.</item>
+        <item>You don’t need to rush. You just need to not stop.</item>
+        <item>This is already getting easier, and you haven’t even noticed.</item>
+        <item>A week of this already changes your day.</item>
+        <item>You’re carving a new path in your mind.</item>
+        <item>Every time counts, even when it doesn’t feel like it.</item>
+        <item>No one’s applauding, but it’s working.</item>
+        <item>It builds up quietly and doesn’t stop.</item>
+        <item>You’re already stronger at this than last month.</item>
+        <item>A good choice today makes tomorrow’s easier.</item>
+        <item>This is what consistency feels like from the inside.</item>
+        <item>Another day added to your lead.</item>
+        <item>You’re on the way, and it’s a long way. That’s okay.</item>
+        <item>What you repeat becomes easy.</item>
+        <item>You just reinforced who you’re becoming.</item>
+        <item>The numbers are on your side today.</item>
+        <item>Small gains add up without asking permission.</item>
+        <item>It’s not about today. It’s about the total.</item>
+        <item>You’re doing the invisible work.</item>
+        <item>Keep going. That’s literally the secret.</item>
+        <item>Each day like this takes off a little of the weight.</item>
+        <item>The old habit is losing ground right now.</item>
+        <item>You’re watering something that hasn’t sprouted yet.</item>
+        <item>Change is happening, even if it doesn’t look like it.</item>
+        <item>One more time. That’s all it ever was.</item>
+        <item>You’re building up a store of good days.</item>
+        <item>This becomes normal with time.</item>
+        <item>You just chose again. And again counts.</item>
+        <item>A month of this and you’re a different person.</item>
+        <item>Today’s effort fades. The result stays.</item>
+        <item>You’re no longer the person who started this.</item>
+        <item>Doing it always is worth more than doing a lot.</item>
+        <item>Every day is a vote for who you want to be.</item>
+        <item>You’re letting the new habit gain ground.</item>
+        <item>This doesn’t have to be heroic. It just has to happen.</item>
+        <item>You just made the right path stronger.</item>
+        <item>Repetition is how the brain learns anything.</item>
+        <item>Today plus yesterday already adds up to a lot.</item>
+        <item>You’re doing well, even when it doesn’t feel that way.</item>
+        <item>Progress lives in the dull repetitions.</item>
+        <item>One more short step on a long road.</item>
+        <item>You’re making this feel natural.</item>
+        <item>A good thing done many times is what lasts.</item>
+        <item>Strength comes from doing it again, not from doing it hard.</item>
+        <item>You just made tomorrow’s path shorter.</item>
+        <item>One more. That’s it. And it’s enough.</item>
+        <item>You’re leaving a trail of good decisions.</item>
+        <item>Consistency turns effort into identity.</item>
+        <item>Each day counts as a whole day.</item>
+        <item>You’re playing the long game, and winning it.</item>
+        <item>This will become who you are before you notice.</item>
+        <item>The best investment of the day was just made.</item>
+        <item>You just held the line.</item>
+        <item>Sticking with it is rarer than talent.</item>
+        <item>Real change is always slow and always worth it.</item>
+        <item>One more choice in the direction of your life.</item>
+        <item>Your eyes are grateful for this break.</item>
+        <item>Get up and stretch. That’s what your body wanted, not a screen.</item>
+        <item>Take a deep breath. That alone changes something.</item>
+        <item>Drink some water. It’s probably what you were missing.</item>
+        <item>Your neck has been bent for a while. Straighten up.</item>
+        <item>Tonight’s sleep starts with the screens you look at now.</item>
+        <item>Sleeping well is the most productive thing there is.</item>
+        <item>Your body has been still for too long.</item>
+        <item>Look into the distance for twenty seconds. Your eyes will relax.</item>
+        <item>A short walk lifts your mood more than any feed.</item>
+        <item>The tiredness you feel might just be the screen.</item>
+        <item>Your body asks to move when your head asks to scroll.</item>
+        <item>Fresh air fixes things a screen can’t.</item>
+        <item>Drop your shoulders. Unclench your jaw.</item>
+        <item>You’re tensing your shoulders without noticing.</item>
+        <item>Ten minutes of sun on your skin goes a long way.</item>
+        <item>Your body rests lying down, not scrolling.</item>
+        <item>Going to bed early tonight is a gift to tomorrow.</item>
+        <item>Your posture has slipped in the last twenty minutes. Sit up.</item>
+        <item>Screen fatigue isn’t real tiredness. It’s something else.</item>
+        <item>Raise your arms. Stretch. There, that’s better.</item>
+        <item>You blink less when you scroll. Blink now.</item>
+        <item>Your body works better with real breaks.</item>
+        <item>A walk around the block clears your head.</item>
+        <item>Your spine will like this interruption.</item>
+        <item>Rest is different from distraction.</item>
+        <item>Last night’s bad sleep started on a screen like this one.</item>
+        <item>Stretch your neck to both sides. It takes ten seconds.</item>
+        <item>Movement eases anxiety better than content does.</item>
+        <item>Your body is the only home you have.</item>
+        <item>Water, light, and movement. It’s almost always that.</item>
+        <item>Screens wear you out even when they feel like rest.</item>
+        <item>Close your eyes for a moment. That’s all.</item>
+        <item>Your breathing is shallow. Take three deep breaths.</item>
+        <item>A shower fixes more than you’d think.</item>
+        <item>You’ve been sitting in the same spot for too long.</item>
+        <item>Real rest doesn’t involve a screen.</item>
+        <item>A twenty-minute walk changes the whole day.</item>
+        <item>Your head feels heavy because your body isn’t moving.</item>
+        <item>Dry eyes, stiff shoulders. You’ve noticed.</item>
+        <item>Standing up for two minutes resets you more than a scroll.</item>
+        <item>Your body wants sleep and your mind wants stimulation. Listen to your body.</item>
+        <item>Screen light disrupts your sleep for hours.</item>
+        <item>Stretch your legs. It’s quick, and it works.</item>
+        <item>You deserve rest that actually feels restful.</item>
+        <item>Moving your body is the cheapest mood lift there is.</item>
+        <item>Your body will remember this night’s sleep.</item>
+        <item>Slow breathing calms you faster than any video.</item>
+        <item>You’re either hungry or bored. Figure out which.</item>
+        <item>Your body recovers when your mind slows down.</item>
+        <item>Twenty seconds looking out the window.</item>
+        <item>Your wrist and thumb need a break.</item>
+        <item>Screen tiredness fades with a walk.</item>
+        <item>Sleep is where memory gets sorted. Protect it.</item>
+        <item>You need less stimulation, not more.</item>
+        <item>Two minutes of stretching beats ten minutes of video.</item>
+        <item>Your body is giving you a signal right now.</item>
+        <item>Air, water, and movement. The recipe hasn’t changed.</item>
+        <item>Lie on the floor for a minute. Really.</item>
+        <item>Screens keep you awake when you need to sleep.</item>
+        <item>Your body wants a break and your hand wants a screen. Choose the break.</item>
+        <item>Your eyes have been working since this morning.</item>
+        <item>A good night’s sleep changes the world.</item>
+        <item>Stand up. Just stand up. That’s enough.</item>
+        <item>You’ll sleep better because of this choice.</item>
+        <item>Your body thanks you for what your mind finds boring.</item>
+        <item>Stretch your back. It’s asking for it.</item>
+        <item>Real rest is quiet, not more stimulation.</item>
+        <item>Your body has its own rhythm, and screens ignore it.</item>
+        <item>Look at the horizon. Your eyes need distance.</item>
+        <item>Scrolling won’t loosen that tension in your jaw.</item>
+        <item>How long have you been sitting, anyway?</item>
+        <item>Movement brings clarity. It always has.</item>
+        <item>Drink some water before you decide anything.</item>
+        <item>Lost sleep can’t be made up with content.</item>
+        <item>Your body works well when you let it.</item>
+        <item>A short nap does more for you than an hour of feed.</item>
+        <item>A deep breath is free and instant.</item>
+        <item>Screens make your body tense without warning.</item>
+        <item>You’re more tired than you need to be.</item>
+        <item>Get up and look out the window. Five seconds.</item>
+        <item>Your body didn’t evolve to sit still staring at light.</item>
+        <item>Stretch your fingers. They’ve worked hard today.</item>
+        <item>Evenings are better without a screen before bed.</item>
+        <item>Rest isn’t what a screen offers.</item>
+        <item>Your body asks for nature and gets pixels.</item>
+        <item>A glass of water and three breaths. Do it now.</item>
+        <item>The tension in your shoulder comes from how you hold your phone.</item>
+        <item>Your body relaxes when your attention stops racing.</item>
+        <item>You’ll feel better five minutes from now.</item>
+        <item>Movement changes your chemistry. A screen only changes the subject.</item>
+        <item>Your eyes deserve a real rest.</item>
+        <item>Walking sorts out your thoughts better than reading a feed.</item>
+        <item>Blue light now means bad sleep later.</item>
+        <item>You need rest, not more information.</item>
+        <item>Two deep breaths before anything else.</item>
+        <item>Your body is wiser than the impulse.</item>
+        <item>Get up and walk to the kitchen. That’s plenty.</item>
+        <item>Rest your body and your mind rests with it.</item>
+        <item>There are real, flesh-and-blood people near you right now.</item>
+        <item>One conversation is worth more than three hundred posts.</item>
+        <item>Call someone. An actual voice call.</item>
+        <item>Someone you love is just one message away.</item>
+        <item>The people in your feed don’t know you exist.</item>
+        <item>Whoever is in the room with you deserves more.</item>
+        <item>A hug fixes what no video can.</item>
+        <item>Message someone you’ve been forgetting.</item>
+        <item>Your mother would love a call today.</item>
+        <item>Real life has people who really answer.</item>
+        <item>That friend who drifted away can still come back. Reach out.</item>
+        <item>Being present is the rarest thing you can give.</item>
+        <item>Someone is waiting for you to look up.</item>
+        <item>One good question is worth more than an hour of scrolling.</item>
+        <item>The people around you don’t come with an algorithm.</item>
+        <item>There’s a conversation happening that you’re missing.</item>
+        <item>No one from the feed will be there when you need them.</item>
+        <item>Coffee with someone changes your week more than any feed.</item>
+        <item>Your company is a gift. Go give it.</item>
+        <item>Look at whoever is with you.</item>
+        <item>Friendships need watering. Water one today.</item>
+        <item>The person next to you is real.</item>
+        <item>The people who love you don’t need likes.</item>
+        <item>Think back to your last long conversation.</item>
+        <item>Ask someone to go for a walk.</item>
+        <item>The best memories rarely have a screen in them.</item>
+        <item>You’re someone’s company right now.</item>
+        <item>Send a voice message to someone you love.</item>
+        <item>People change when you pay attention to them.</item>
+        <item>Your presence matters to someone today.</item>
+        <item>A good conversation leaves you better off. The feed doesn’t.</item>
+        <item>Someone needs to know you thought of them.</item>
+        <item>Meet someone instead of following someone.</item>
+        <item>Strong bonds are made of time spent together.</item>
+        <item>You could be the reason someone has a good day.</item>
+        <item>That relative you haven’t talked to in months.</item>
+        <item>One sincere message is worth more than a thousand views.</item>
+        <item>Being together is different from being connected.</item>
+        <item>The people you live with deserve all of you.</item>
+        <item>Invite someone over for dinner.</item>
+        <item>Real people have faces, voices, and limited time.</item>
+        <item>You’re irreplaceable to someone. Show up.</item>
+        <item>The most important conversation of your day hasn’t happened yet.</item>
+        <item>Someone near you is screen-free too.</item>
+        <item>Listening to someone is the simplest way to be loved.</item>
+        <item>That friend is going through something. Ask.</item>
+        <item>Your child, your dog, the people next door. Someone is right there.</item>
+        <item>Social media connects you to lots of people and none of them.</item>
+        <item>An afternoon with someone is worth a month of feed.</item>
+        <item>You could make someone laugh today. For real.</item>
+        <item>Full presence is incredibly rare. You have some to give.</item>
+        <item>Someone talked about you this week. Do the same for them.</item>
+        <item>The feed won’t miss you while you’re away.</item>
+        <item>A five-minute phone call can change someone’s day.</item>
+        <item>The people who matter don’t post about it.</item>
+        <item>You’re one question away from a good conversation.</item>
+        <item>Real company doesn’t come with ads in between.</item>
+        <item>That person who always backs you up. Thank them today.</item>
+        <item>Eye contact is still the best technology.</item>
+        <item>Your family isn’t a feed. Don’t scroll past them.</item>
+        <item>Invite someone to do nothing together.</item>
+        <item>People far away deserve to hear from you too.</item>
+        <item>There are people who care about you outside of this.</item>
+        <item>A hard conversation put off weighs more than any feed.</item>
+        <item>Enjoy the people nearby while they’re here.</item>
+        <item>People remember who was there for them.</item>
+        <item>Invite a friend for coffee for no reason.</item>
+        <item>Someone somewhere wants to hear from you.</item>
+        <item>You can really listen to someone right now.</item>
+        <item>Connection is built by looking up, not scrolling.</item>
+        <item>Your attention is the best gift for the people you love.</item>
+        <item>A person is worth more than a profile.</item>
+        <item>That conversation you owe someone. Today’s the day.</item>
+        <item>Being available is a kind of love.</item>
+        <item>You have time for someone right now.</item>
+        <item>No one ever left this life wishing for more followers.</item>
+        <item>See someone again instead of following them from afar.</item>
+        <item>Affection sometimes needs to be said out loud.</item>
+        <item>Your old crew is still around. Call them.</item>
+        <item>Someone close to you wants to talk.</item>
+        <item>Comparison isn’t connection.</item>
+        <item>You can be present for someone today.</item>
+        <item>A handwritten note. What an idea.</item>
+        <item>The people who really know you aren’t in the feed.</item>
+        <item>Share the afternoon with someone.</item>
+        <item>The people close to you deserve what you give the feed.</item>
+        <item>You matter to someone who doesn’t post.</item>
+        <item>Call and ask how they’re really doing.</item>
+        <item>More screen time won’t ease loneliness.</item>
+        <item>Get closer to someone today.</item>
+        <item>A meal together is worth the whole afternoon.</item>
+        <item>Your attention feeds relationships. Feed one.</item>
+        <item>Someone is thinking of you right now.</item>
+        <item>Tell someone you care about them.</item>
+        <item>Friendships fade from silence, not from fights.</item>
+        <item>You have good people around you. Enjoy them.</item>
+        <item>Someone needs company, and you can offer yours.</item>
+        <item>Leave the feed and go find people.</item>
+        <item>The people who love you want your time, not your profile.</item>
+        <item>You can brighten someone’s day in five minutes.</item>
+        <item>Creating tires you out and fills you up. Consuming relaxes you and leaves you empty.</item>
+        <item>You have more to say than to see.</item>
+        <item>Someone is making the thing you were about to watch.</item>
+        <item>Write one line. Just one.</item>
+        <item>The world has too many consumers and too few creators.</item>
+        <item>That idea of yours is still waiting.</item>
+        <item>You can make something instead of watching something already made.</item>
+        <item>Every good thing was made by someone who wasn’t scrolling.</item>
+        <item>Your idea is worth more than today’s entire feed.</item>
+        <item>Start the thing you keep putting off. Five minutes is enough.</item>
+        <item>That stalled project just needs a push.</item>
+        <item>You have a talent for something other than scrolling.</item>
+        <item>Make something today that didn’t exist yesterday.</item>
+        <item>Creating is more fun than watching. Starting is the only cost.</item>
+        <item>That blank notebook doesn’t bite.</item>
+        <item>The best content is the content you make.</item>
+        <item>You learn more by doing than by watching.</item>
+        <item>Play an instrument, draw, cook. Do something with your hands.</item>
+        <item>Your creativity fades when you fill your head with feed.</item>
+        <item>There’s a piece of work only you can make, and no one has made it yet.</item>
+        <item>Start badly. It gets better.</item>
+        <item>A paragraph a day becomes a book.</item>
+        <item>You have a story to tell.</item>
+        <item>Making things is the antidote to emptiness.</item>
+        <item>Boredom is where creativity begins. Let it be.</item>
+        <item>Your mind starts inventing when you stop filling it.</item>
+        <item>That course you paid for is waiting.</item>
+        <item>You can learn something new today.</item>
+        <item>Consuming is easy. That’s why it’s so unsatisfying.</item>
+        <item>You want to make something. Start now.</item>
+        <item>Five minutes of practice beats an hour of video.</item>
+        <item>That recipe you’ve been wanting to try.</item>
+        <item>Ideas come in the quiet, not in the scroll.</item>
+        <item>You can be the author instead of the audience.</item>
+        <item>A small project can change your week.</item>
+        <item>Write down what you’d do if you had time. You do.</item>
+        <item>Your hands know how to make things. Use them.</item>
+        <item>Make something imperfect today.</item>
+        <item>Learning feels better than being entertained.</item>
+        <item>What you create stays. What you scroll disappears.</item>
+        <item>That instrument sitting in the corner.</item>
+        <item>You have an unfinished project waiting for you.</item>
+        <item>Creating is the opposite of comparing yourself.</item>
+        <item>Start small. Start today.</item>
+        <item>A page a day is a different life.</item>
+        <item>Your imagination needs empty space.</item>
+        <item>Do something today you’ll be proud of tomorrow.</item>
+        <item>Nothing replaces the satisfaction of making something.</item>
+        <item>You’re capable of more than consuming.</item>
+        <item>That hobby you dropped is still there.</item>
+        <item>Twenty minutes of practice is twenty minutes of progress.</item>
+        <item>No one gets good at anything by scrolling a feed.</item>
+        <item>Your next skill starts at some point. Let that point be now.</item>
+        <item>Make it, even if no one sees it.</item>
+        <item>There’s something you want to learn. Start.</item>
+        <item>Consuming is watching other people live.</item>
+        <item>You have hands, a mind, and time. That’s all you need.</item>
+        <item>First drafts are always rough. Write one anyway.</item>
+        <item>That language you wanted to speak.</item>
+        <item>Creating is how boredom turns into joy.</item>
+        <item>A little each day builds any skill.</item>
+        <item>There’s something inside you that wants out.</item>
+        <item>Write about your day. Just for you.</item>
+        <item>Your creativity is waiting for you to turn down the noise.</item>
+        <item>Make something with your hands today.</item>
+        <item>The joy of finishing something is like nothing else.</item>
+        <item>That project that used to excite you. It still can.</item>
+        <item>You don’t have to be good to start.</item>
+        <item>Cook something new. That’s creating too.</item>
+        <item>Life gets more interesting when you make things.</item>
+        <item>No one is born knowing how. Everyone starts out bad at it.</item>
+        <item>That late-night idea. Write it down.</item>
+        <item>What you know how to do could help someone.</item>
+        <item>Do a little today and a little tomorrow.</item>
+        <item>The best time to start has passed. The second best is now.</item>
+        <item>Your work won’t make itself.</item>
+        <item>Practice is boring until it gets good.</item>
+        <item>You want to create. The feed wants you to just watch.</item>
+        <item>That drawing you started.</item>
+        <item>Doing is the fastest way to learn.</item>
+        <item>You have a voice. Use it for something.</item>
+        <item>Fixing something at home counts as creating too.</item>
+        <item>Your next achievement starts on an ordinary day like today.</item>
+        <item>Do something only you would do.</item>
+        <item>The feed is endless. Your work has an end, and that’s why it matters.</item>
+        <item>You could plant something today. Literally.</item>
+        <item>That spreadsheet, that plan, that dream.</item>
+        <item>Creating takes effort, and that’s what makes it worth it.</item>
+        <item>You’re more interesting than any feed.</item>
+        <item>Study for twenty minutes. It’s not much, and it’s a lot.</item>
+        <item>Curiosity is better when it turns into practice.</item>
+        <item>That song you wanted to learn.</item>
+        <item>Do one simple, useful thing now.</item>
+        <item>You have something good to offer the world.</item>
+        <item>Start the thing you’ll be glad you started.</item>
+        <item>A personal project changes how you relate to time.</item>
+        <item>Creating is the best way to keep your mind busy.</item>
+        <item>You can finish something today.</item>
+        <item>Put your hands on something real.</item>
+        <item>Nothing beats the feeling of having done it.</item>
+        <item>It’s okay that you came here. Now breathe.</item>
+        <item>No one is keeping score. Just keep moving.</item>
+        <item>You’re doing fine, even if it doesn’t seem like it.</item>
+        <item>No rush, no pressure. Just a pause.</item>
+        <item>This isn’t a test. It’s just a gentle reminder.</item>
+        <item>You’re trying, and that’s enough.</item>
+        <item>Everything’s fine. Close this and get on with your day.</item>
+        <item>None of this is about getting it right every time.</item>
+        <item>You deserve to feel light today.</item>
+        <item>No drama. Just a moment to breathe.</item>
+        <item>This is a calm place. Stay a moment.</item>
+        <item>You’re doing the best you can. That counts.</item>
+        <item>No pressure here. Only care.</item>
+        <item>Breathe. Nothing is going wrong.</item>
+        <item>You made it this far, and that’s already good.</item>
+        <item>No one is judging. You don’t need to either.</item>
+        <item>Everything is in order. Just carry on.</item>
+        <item>One step at a time is the right pace.</item>
+        <item>You don’t have to be perfect at this.</item>
+        <item>Going slowly is still going.</item>
+        <item>This screen doesn’t ask anything of you.</item>
+        <item>Be gentle with yourself right now.</item>
+        <item>It’s fine to feel the urge. It’s part of it.</item>
+        <item>You’re taking care of yourself. That’s a beautiful thing.</item>
+        <item>No alarm, no rush, no scare.</item>
+        <item>You’re human. That’s allowed.</item>
+        <item>You don’t owe anyone an explanation.</item>
+        <item>Breathe deeply. It has already passed.</item>
+        <item>You’re safe here.</item>
+        <item>It’s okay if today is hard.</item>
+        <item>No two days are the same. This one isn’t either.</item>
+        <item>You’re on your way, even if it’s slow.</item>
+        <item>Go easy on yourself for a bit.</item>
+        <item>All is well. Just take a breather.</item>
+        <item>You don’t have to be okay all the time.</item>
+        <item>Being kind to yourself works better than being hard on yourself.</item>
+        <item>This moment will pass gently.</item>
+        <item>You’ve already done the hard part today.</item>
+        <item>Nothing urgent. Nothing serious. Just a pause.</item>
+        <item>Smile. This is smaller than it seems.</item>
+        <item>You’re trying, and that’s what matters.</item>
+        <item>No one to answer to. Just go on.</item>
+        <item>It’s all right. Really.</item>
+        <item>You deserve an easy day.</item>
+        <item>Breathe. The world keeps turning.</item>
+        <item>No hurry today.</item>
+        <item>You’re at peace with this choice.</item>
+        <item>It’s fine to start over as many times as you need.</item>
+        <item>This is a place without pressure.</item>
+        <item>Be patient with the process.</item>
+        <item>You’re not behind on anything.</item>
+        <item>It’s okay not to be at a hundred percent.</item>
+        <item>This pause is care, not correction.</item>
+        <item>You can simply move on now.</item>
+        <item>No tension. Just a moment.</item>
+        <item>It’s okay if that was automatic.</item>
+        <item>You don’t need a reason to feel okay.</item>
+        <item>Breathe and carry on. It’s that simple.</item>
+        <item>No problems here.</item>
+        <item>You’re doing this right.</item>
+        <item>Truly, it’s fine. Go in peace.</item>
+        <item>This moment is yours to rest in.</item>
+        <item>You’re not alone in this.</item>
+        <item>Everything is calm. Go on with your day.</item>
+        <item>No weight. Just a reminder.</item>
+        <item>You’re already enough.</item>
+        <item>The calm you’re looking for isn’t in the feed.</item>
+        <item>There’s nothing wrong with you.</item>
+        <item>Rest your mind for a second.</item>
+        <item>You deserve this care.</item>
+        <item>Nothing needs solving right now.</item>
+        <item>Take one breath. Then move on.</item>
+        <item>You’re okay. That’s all.</item>
+        <item>No demands, no tallies, no scoreboard.</item>
+        <item>A moment of calm in the middle of the day.</item>
+        <item>You can be kind to yourself now.</item>
+        <item>Everything is at peace.</item>
+        <item>No rush for anything.</item>
+        <item>You did what you could today.</item>
+        <item>That’s fine. You can pick it up tomorrow.</item>
+        <item>This instant is just one breath.</item>
+        <item>You’re safe, and that’s enough.</item>
+        <item>Nobody is judging here.</item>
+        <item>Just breathe and go live.</item>
+        <item>You deserve some peace today.</item>
+        <item>Any pace is fine.</item>
+        <item>Give your head a little rest.</item>
+        <item>You’re always welcome here.</item>
+        <item>Nothing scary. Just a quick stop.</item>
+        <item>Life isn’t a race today.</item>
+        <item>You’re whole, and that’s plenty.</item>
+        <item>There’s nothing wrong with having tried.</item>
+        <item>Nothing here is against you.</item>
+        <item>Breathe and keep going, slowly.</item>
+        <item>You’re fine just as you are.</item>
+        <item>This is a moment of peace.</item>
+        <item>No pressure at all. Go lightly.</item>
+        <item>You’re allowed to rest.</item>
+        <item>All quiet here.</item>
+        <item>Take it easy. The day can wait.</item>
+        <item>Being kind to yourself is a kind of strength.</item>
+        <item>What would you do right now if this app didn’t exist?</item>
+        <item>Are you here because you want to be, or out of habit?</item>
+        <item>What were you looking for, again?</item>
+        <item>Will this matter tomorrow morning?</item>
+        <item>Would you remember what you were about to see?</item>
+        <item>What were you doing before you picked up your phone?</item>
+        <item>How much time do you want to give this today?</item>
+        <item>Are you bored, or tired?</item>
+        <item>What could your afternoon be instead?</item>
+        <item>Is it worth it?</item>
+        <item>Did you open it for a specific reason?</item>
+        <item>What would you be putting off again if you went in now?</item>
+        <item>Who do you want to be a year from now?</item>
+        <item>What would truly do you good right now?</item>
+        <item>Is there something you’re trying to avoid?</item>
+        <item>How about doing that thing you’ve been putting off?</item>
+        <item>What would happen if you just closed it?</item>
+        <item>You have something better to do. What is it?</item>
+        <item>Is this rest, or an escape?</item>
+        <item>What would tomorrow’s you ask you to do?</item>
+        <item>Are you hungry, sleepy, or bored?</item>
+        <item>When did the feed last leave you feeling better?</item>
+        <item>What do you want to feel at the end of the day?</item>
+        <item>What’s missing right now?</item>
+        <item>Do you need this, or do you just want it?</item>
+        <item>What small thing would make your day better right now?</item>
+        <item>What would you do with two free hours?</item>
+        <item>Do you already know what you’d rather be doing?</item>
+        <item>What do these fifteen minutes really cost?</item>
+        <item>Do you want this, or are your hands just restless?</item>
+        <item>What would be more worthwhile right now?</item>
+        <item>Is everything all right with you?</item>
+        <item>Calmly, what would be the best choice right now?</item>
+        <item>Will you be proud of this half hour?</item>
+        <item>What would you do if no one were watching?</item>
+        <item>Is there someone you could call right now?</item>
+        <item>What is your mind trying to avoid?</item>
+        <item>Is this worth trading your afternoon for?</item>
+        <item>You have a plan for today. Does it include this?</item>
+        <item>What would be the most fun thing to do right now?</item>
+        <item>Honestly, are you doing okay?</item>
+        <item>What would make this week worth it?</item>
+        <item>Is this what you want, or just what you do?</item>
+        <item>Have you thought about what you want to do tomorrow?</item>
+        <item>How often have you reached for your phone today?</item>
+        <item>What would leave you feeling satisfied an hour from now?</item>
+        <item>Do you want to go in, or is your thumb on autopilot?</item>
+        <item>What’s the important thing you’re leaving for later?</item>
+        <item>What would you from ten years ago think of this?</item>
+        <item>Are you actually resting?</item>
+        <item>Is there something you’d do if you were brave enough?</item>
+        <item>What would you like to have done by tonight?</item>
+        <item>Is it worth more than a conversation?</item>
+        <item>What do you have time for today?</item>
+        <item>What habit do you want to have six months from now?</item>
+        <item>What really needs your attention?</item>
+        <item>Would you rather remember this afternoon or forget it?</item>
+        <item>What would be a good use of this moment?</item>
+        <item>Are you here to see something, or to avoid feeling something?</item>
+        <item>What would help you sleep well tonight?</item>
+        <item>Does this add to your day or take away from it?</item>
+        <item>Do you really want to know what’s in there?</item>
+        <item>What’s the last good thing you did without a screen?</item>
+        <item>What would you do with an afternoon offline?</item>
+        <item>What’s the rush?</item>
+        <item>What small step could you take right now?</item>
+        <item>What needs your attention more than this?</item>
+        <item>Have you taken a deep breath today?</item>
+        <item>What’s your plan for the next hour?</item>
+        <item>Does this bring you closer to something you want?</item>
+        <item>Would you do this in front of someone you admire?</item>
+        <item>What good thing happened today?</item>
+        <item>How much of your day has gone to screens so far?</item>
+        <item>Do you have an idea sitting there, waiting?</item>
+        <item>What do you want to do with this week?</item>
+        <item>Is it worth trading quiet for noise?</item>
+        <item>Are you creating or consuming today?</item>
+        <item>What simple thing would feel good right now?</item>
+        <item>What would you tell a friend in this situation?</item>
+        <item>You have five minutes. For what?</item>
+        <item>What’s really bothering you?</item>
+        <item>Is this the best thing you could be doing right now?</item>
+        <item>Are you in charge of this moment?</item>
+        <item>Which decision would you be proud of?</item>
+        <item>What do you want to have done when the day is over?</item>
+        <item>Do you remember why you installed this?</item>
+        <item>How about leaving it for later and seeing if you still want it?</item>
+        <item>What would you do today if you felt a little braver?</item>
+        <item>Do you want the quick version of your day or the good one?</item>
+        <item>What’s the one thing only you can do today?</item>
+        <item>What’s waiting for you out there?</item>
+        <item>Have you felt grateful for anything today?</item>
+        <item>What is the next half hour worth to you?</item>
+        <item>What do you want to take away from this week?</item>
+        <item>Is this urgent, or does it just feel that way?</item>
+        <item>Are you doing what you want to be doing?</item>
+        <item>What would be a good ending for this day?</item>
+        <item>What would you do if you were well rested?</item>
+        <item>Would you rather scroll or live right now?</item>
+        <item>Why not just close it and see what happens?</item>
+    </string-array>
+</resources>

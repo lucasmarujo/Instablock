@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">%1$s бөгөттөлгөн.</string>
+    <string name="aceleralock_block_title_unknown">Бул колдонмо бөгөттөлгөн.</string>
+    <string name="aceleralock_block_close">Жабуу</string>
+    <string name="aceleralock_notification_channel">Коргоо иштеп жатат</string>
+    <string name="aceleralock_notification_text">Коргоо иштеп жатат</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: сайттарды бөгөттөө</string>
+    <string name="aceleralock_site_accessibility_description">Сен тандаган сайттарды бөгөттөө үчүн Chrome, Samsung Internet, Firefox, Edge жана Brave дарек тилкесиндеги даректи гана окуйт. Эч нерсе сакталбайт жана эч нерсе түзмөктөн чыкпайт.</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">Lietotne %1$s ir bloķēta.</string>
+    <string name="aceleralock_block_title_unknown">Šī lietotne ir bloķēta.</string>
+    <string name="aceleralock_block_close">Aizvērt</string>
+    <string name="aceleralock_notification_channel">Aizsardzība ieslēgta</string>
+    <string name="aceleralock_notification_text">Aizsardzība ieslēgta</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: vietņu bloķēšana</string>
+    <string name="aceleralock_site_accessibility_description">Nolasa tikai adresi Chrome, Samsung Internet, Firefox, Edge un Brave adreses joslā, lai bloķētu tevis izvēlētās vietnes. Nekas netiek saglabāts, un nekas neatstāj ierīci.</string>
+</resources>

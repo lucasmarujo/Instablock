@@ -175,6 +175,26 @@ Só depois pluga no hook, e por último no componente.
 - `useReducedMotion` é respeitado onde houver animação (ver
   `OnboardingFlow.tsx`). Animação nova precisa lidar com isso.
 
+### 4.8 Texto e idioma
+
+O app fala 73 idiomas (`src/i18n/idiomas.ts`, porquê em `docs/decisoes.md`,
+"Idioma do aparelho").
+
+- **Nenhum texto de UI literal em componente.** Texto nasce em
+  `src/i18n/textos/pt-BR.ts` e é lido com `const t = useTextos()`.
+- Lógica pura que monta texto recebe `t: Textos` como **último parâmetro
+  obrigatório**; o teste passa `ptBR`. Importe `src/i18n/` por caminho relativo
+  na lógica pura, como o resto dela.
+- Frase inteira com marcador (`formatar(t.x, { nome })`), nunca pedaços
+  concatenados — a ordem das palavras muda por idioma. Contagem com
+  `contar(t, entrada, n)`, lista com `juntarLista`, hora com `formatarHoraDoDia`.
+- Sem `Intl`, `toLocaleDateString` ou `toLocaleTimeString`: dia, mês, hora e
+  plural já estão no catálogo de cada idioma.
+- Texto novo no pt-BR exige o mesmo texto nos outros 72 catálogos (`tsc` acusa a
+  chave que falta). Texto novo do overlay nativo exige as 73 pastas `values-*`
+  (`tests/frasesMotivacionais.test.ts` acusa).
+- Ícone direcional (chevron, seta) espelha com `I18nManager.isRTL`.
+
 ---
 
 ## 5. Convenções de código — Kotlin (módulo nativo)
@@ -317,6 +337,10 @@ Consequências operacionais:
 12. **"Consertar" o encerramento da concessão no boot.** Reabriria o flanco
     "desligar o aparelho pra preservar o saldo" — indistinguível de reboot
     legítimo.
+13. **"Corrigir" a tag do Android para o BCP-47 (`he`, `id`, `fil`) no
+    `app.json`.** Ela vira `resourceConfigurations` e precisa bater com a pasta
+    (`values-iw`, `values-in`, `values-b+fil`): a tag "certa" apagaria a
+    tradução do APK sem erro nenhum.
 
 ---
 
@@ -351,6 +375,8 @@ Antes de mexer na camada `android/`: leia
 | Veredito da tela raiz | `src/state/verdict.ts` + `src/state/useProtectionVerdict.ts` |
 | Mapeamento veredito → rotas | `app/_layout.tsx` |
 | Tokens de cor/espaço/typography | `src/theme/tokens.ts` |
+| Textos da UI e idiomas | `src/i18n/textos/pt-BR.ts` (fonte), `src/i18n/idiomas.ts` |
+| Textos do overlay nativo | `native/.../res/values-pt/` (fonte), `values/` (inglês, padrão) |
 | Tema do React Navigation | `src/theme/navigationTheme.ts` |
 | Preferência claro/escuro | `src/theme/ThemePreferenceContext.tsx` + `preferenciaTema.ts` |
 | Ponte fina pro módulo nativo | `src/native/blocker.ts` |

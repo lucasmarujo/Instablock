@@ -16,10 +16,12 @@ import {
   proporcaoDasHoras,
   proporcaoDoToque,
   rotuloDoBloqueio,
+  tempoTelaExemplo,
   textoOfertaRestrito,
   tituloDaConclusao,
   tituloPermissoesFaltando,
 } from '../src/components/Onboarding/passos';
+import { ptBR } from '../src/i18n/textos/pt-BR';
 
 test('progressoDoPasso: primeira execucao conta de 1 a 5', () => {
   assert.deepEqual(progressoDoPasso(1, 1), { atual: 1, total: 5 });
@@ -38,9 +40,9 @@ test('HORAS_ATALHOS ficam dentro da faixa do slider', () => {
 });
 
 test('tituloDaConclusao diz o que foi bloqueado', () => {
-  assert.equal(tituloDaConclusao(['Instagram']), 'Instagram bloqueado.');
-  assert.equal(tituloDaConclusao(['Instagram', 'TikTok']), '2 apps bloqueados.');
-  assert.equal(tituloDaConclusao([]), 'Bloqueio criado.');
+  assert.equal(tituloDaConclusao(['Instagram'], ptBR), 'Instagram bloqueado.');
+  assert.equal(tituloDaConclusao(['Instagram', 'TikTok'], ptBR), '2 apps bloqueados.');
+  assert.equal(tituloDaConclusao([], ptBR), 'Bloqueio criado.');
 });
 
 test('primeira execucao comeca na secao 1 (nome)', () => {
@@ -135,30 +137,41 @@ test('barreira: sem sonda nativa as duas permissoes contam como faltando', () =>
 });
 
 test('tituloPermissoesFaltando: singular e plural', () => {
-  assert.equal(tituloPermissoesFaltando(1), 'Falta 1 permissão para bloquear');
-  assert.equal(tituloPermissoesFaltando(2), 'Faltam 2 permissões para bloquear');
+  assert.equal(tituloPermissoesFaltando(1, ptBR), 'Falta 1 permissão para bloquear');
+  assert.equal(tituloPermissoesFaltando(2, ptBR), 'Faltam 2 permissões para bloquear');
 });
 
 test('rotuloDoBloqueio diz quantos apps o toque bloqueia', () => {
-  assert.equal(rotuloDoBloqueio(0), 'Bloquear');
-  assert.equal(rotuloDoBloqueio(1), 'Bloquear 1 app');
-  assert.equal(rotuloDoBloqueio(3), 'Bloquear 3 apps');
+  assert.equal(rotuloDoBloqueio(0, ptBR), 'Bloquear');
+  assert.equal(rotuloDoBloqueio(1, ptBR), 'Bloquear 1 app');
+  assert.equal(rotuloDoBloqueio(3, ptBR), 'Bloquear 3 apps');
 });
 
 test('legendaDaConclusao conta os outros apps alem do mostrado', () => {
-  assert.equal(legendaDaConclusao(1), 'A partir de agora');
-  assert.equal(legendaDaConclusao(2), 'E mais 1 app, a partir de agora');
-  assert.equal(legendaDaConclusao(4), 'E mais 3 apps, a partir de agora');
+  assert.equal(legendaDaConclusao(1, ptBR), 'A partir de agora');
+  assert.equal(legendaDaConclusao(2, ptBR), 'E mais 1 app, a partir de agora');
+  assert.equal(legendaDaConclusao(4, ptBR), 'E mais 3 apps, a partir de agora');
 });
 
 test('textoOfertaRestrito nomeia o app escolhido e a espera configurada', () => {
   assert.equal(
-    textoOfertaRestrito(['Instagram'], 30),
+    textoOfertaRestrito(['Instagram'], 30, ptBR),
     'Sem ele, você tira o Instagram da lista na hora. Com ele, mudar a lista pede 30 min de espera — tempo para a vontade passar.'
   );
 });
 
 test('textoOfertaRestrito: varios apps viram "um app", e a espera vem da politica', () => {
-  assert.match(textoOfertaRestrito(['Instagram', 'TikTok'], 45), /tira um app da lista/);
-  assert.match(textoOfertaRestrito([], 45), /pede 45 min de espera/);
+  assert.match(textoOfertaRestrito(['Instagram', 'TikTok'], 45, ptBR), /tira um app da lista/);
+  assert.match(textoOfertaRestrito([], 45, ptBR), /pede 45 min de espera/);
+});
+
+test('regressao: semana de exemplo comeca na segunda, com as iniciais do idioma', () => {
+  assert.deepEqual(
+    tempoTelaExemplo(ptBR).map((dia) => dia.rotulo),
+    ['S', 'T', 'Q', 'Q', 'S', 'S', 'D']
+  );
+  assert.deepEqual(
+    tempoTelaExemplo(ptBR).map((dia) => dia.horas),
+    [3.2, 4.6, 3.9, 5.4, 4.1, 6.8, 5.7]
+  );
 });

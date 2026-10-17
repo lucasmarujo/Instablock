@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Română: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>Timpul pe care nu-l petreci aici se întoarce întreg în viața ta.</item>
+        <item>Fiecare minut departe de ecranul ăsta e din nou al tău.</item>
+        <item>Cele douăzeci de minute încap într-o plimbare.</item>
+        <item>Ziua are mai mult loc decât pare când nu mai dai scroll.</item>
+        <item>Tocmai ți-ai recuperat o bucată din după-amiază.</item>
+        <item>O oră pe zi înseamnă cincisprezece zile pe an.</item>
+        <item>Timpul nu se întoarce, dar încă poți alege încotro merge.</item>
+        <item>Pauza asta e a ta. Nimeni nu trebuie să știe ce ai făcut cu ea.</item>
+        <item>O viață întreagă se întâmplă în afara aplicației.</item>
+        <item>Ceasul merge la fel de ambele părți ale ecranului.</item>
+        <item>Tocmai ți-ai cumpărat timp. Cheltuiește-l pe ceva ce-ți vei aminti mâine.</item>
+        <item>Nimeni nu ajunge la final de zi dorindu-și să fi derulat mai mult feedul.</item>
+        <item>Cincisprezece minute aici sunt cincisprezece minute oriunde altundeva.</item>
+        <item>Ce ai fi făcut acum zece ani cu jumătatea asta de oră.</item>
+        <item>Timpul tău e singurul lucru pe care nu-l poți cumpăra înapoi.</item>
+        <item>Toată după-amiaza e încă deschisă în fața ta.</item>
+        <item>Minutul ăsta poate fi începutul altui lucru.</item>
+        <item>Îți dai ore înapoi, una câte una.</item>
+        <item>Timpul economisit aici nu dispare. Reapare în altă parte.</item>
+        <item>Zece minute par puțin până aduni minutele dintr-o lună.</item>
+        <item>Viața merge în ritmul ei normal, nu în cel al feedului.</item>
+        <item>Azi ai mai mult timp decât aveai ieri la ora asta.</item>
+        <item>Ce tot amâni încape exact în pauza asta.</item>
+        <item>Pauza asta e scurtă. Ce faci cu ea poate să nu fie.</item>
+        <item>O zi cuprinde multe când scrollul iese din cale.</item>
+        <item>Tocmai ai câștigat înapoi restul serii.</item>
+        <item>Timpul e moneda. Tocmai ai hotărât să n-o cheltuiești.</item>
+        <item>Feedul nu se termină niciodată. Ziua ta, da.</item>
+        <item>Jumătate de oră pe zi înseamnă o carte întreagă pe lună.</item>
+        <item>Nimic urgent nu te aștepta acolo.</item>
+        <item>Timpul ăsta era deja al tău. Acum s-a întors la tine.</item>
+        <item>Dimineața încă poate fi spornică dacă începe acum.</item>
+        <item>N-ai pierdut nimic. Ai câștigat o pauză.</item>
+        <item>Nimeni nu ne dă timpul înapoi. Noi suntem cei care îl păstrăm.</item>
+        <item>Minutele astea valorează mai mult în afara aplicației, și deja știi asta.</item>
+        <item>Ce era acolo rămâne acolo. Timpul tău, însă, nu rămâne.</item>
+        <item>O viață e făcută din după-amiezi ca asta.</item>
+        <item>Poți încheia ziua cu ceva făcut, nu cu ceva văzut.</item>
+        <item>Două ore pe zi înseamnă o lună întreagă pe an.</item>
+        <item>Timpul pe care îl protejezi azi e cel care îți rămâne mâine.</item>
+        <item>Asta e partea zilei pe care o hotărăști doar tu.</item>
+        <item>Nimeni n-a scris acolo nimic care să merite după-amiaza ta.</item>
+        <item>Treizeci de minute pe zi construiesc orice într-un an.</item>
+        <item>Tocmai ți-ai cumpărat o bucată de liniște.</item>
+        <item>Ziua crește când feedul scade.</item>
+        <item>Timpul ăsta e acum materie primă. Fă ceva cu el.</item>
+        <item>Un proiect de-al tău așteaptă exact pauza asta.</item>
+        <item>Ce câștigi aici nu apare pe niciun ecran, doar în viața ta.</item>
+        <item>Timpul liber e rar. Tocmai ți l-ai creat.</item>
+        <item>Nimeni, la capătul vieții, n-a cerut încă un scroll.</item>
+        <item>Ai toată după-amiaza, și încă n-ai cheltuit-o.</item>
+        <item>Un an înseamnă trei sute șaizeci și cinci de alegeri ca asta.</item>
+        <item>Răgazul ăsta e mic, dar e în întregime al tău.</item>
+        <item>Timpul trece la fel. Diferența e ce rămâne după.</item>
+        <item>Tocmai ai scos o jumătate de oră de pe pilot automat.</item>
+        <item>Restul zilei îți mulțumește pentru oprirea asta.</item>
+        <item>Cinci minute acolo devin patruzeci fără să observe nimeni.</item>
+        <item>Știi cât costă cele cinci minute. De asta ești aici.</item>
+        <item>Ora pe care o protejezi acum e cea pe care o cauți seara.</item>
+        <item>Nimic de acolo nu devine mai bun dacă îl vezi acum în loc de mai târziu.</item>
+        <item>Tocmai ai ales unde se duce următorul minut.</item>
+        <item>Timpul ăsta încape într-o discuție, o plimbare, un pui de somn.</item>
+        <item>Ziua îți ajunge când orele nu se mai scurg printre degete.</item>
+        <item>Următoarea jumătate de oră e doar a ta.</item>
+        <item>Există o variantă a zilei de azi în care ai făcut ceva. Începe acum.</item>
+        <item>Timpul nu se adună. Doar se cheltuiește mai bine sau mai rău.</item>
+        <item>Minutele astea pot deveni odihnă adevărată.</item>
+        <item>Tocmai ai coborât de pe o bandă care nu duce nicăieri.</item>
+        <item>O săptămână are o sută șaizeci și opt de ore. Ora asta e a ta.</item>
+        <item>Feedul îți ia timpul în bucățele, ca să nu simți lipsa.</item>
+        <item>Acum poți face ce lași în fiecare zi pe mâine.</item>
+        <item>După-amiaza ta nu trebuie să încapă într-un ecran.</item>
+        <item>Timpul care rămâne face ca ziua să pară lungă, în sensul bun.</item>
+        <item>Tocmai ți-ai dat înapoi ora care urmează.</item>
+        <item>Nimic din ce ai vedea acum nu ți-ar mai fi în minte peste o săptămână.</item>
+        <item>E genul de minut care construiește sau destramă un an.</item>
+        <item>Ai câștigat timp. Nu trebuie să-l cheltuiești repede.</item>
+        <item>O zi fără scroll e o zi în care încap mai multe.</item>
+        <item>Ceasul nu desparte timpul bun de cel irosit. Tu o faci.</item>
+        <item>Ora asta valorează cât oricare alta din viața ta.</item>
+        <item>Acum ai timp. E mai rar decât pare.</item>
+        <item>Să-ți păstrezi timpul e singurul fel de a avea timp.</item>
+        <item>Toată seara e încă înaintea ta.</item>
+        <item>Minutele astea sunt începutul unei după-amiezi pe care o s-o ții minte.</item>
+        <item>Tocmai ai ocolit groapa aceea de o oră.</item>
+        <item>Tot ce cere timp cere exact genul ăsta de decizie.</item>
+        <item>Până la cină mai e timp pentru multe.</item>
+        <item>Ai luat piciorul de pe accelerație. Ziua încetinește odată cu tine.</item>
+        <item>Săptămâna ta are loc. Doar că era ocupat de altceva.</item>
+        <item>De fiecare dată când închizi aici, ziua mai crește puțin.</item>
+        <item>Timpul e cadoul pe care ți-l faci fără să cheltuiești nimic.</item>
+        <item>Acum ai exact ce spui toată ziua că nu ai.</item>
+        <item>O după-amiază lungă e făcută din decizii scurte ca asta.</item>
+        <item>Nimeni n-o să te întrebe ce ai făcut cu jumătatea asta de oră.</item>
+        <item>Timpul pe care nu-l dai azi o să fie tot al tău și mâine.</item>
+        <item>Douăzeci de minute pe zi fac o sută douăzeci de ore pe an.</item>
+        <item>Tocmai ți-ai recuperat răgazul de dinainte de somn.</item>
+        <item>Între o notificare și alta e multă viață.</item>
+        <item>Toată ziua încape aici dacă n-o dai bucată cu bucată.</item>
+        <item>Ai ajuns până aici protejându-ți timpul. Iată încă o bucată.</item>
+        <item>Atenția ta e cel mai râvnit bun din lume. Tocmai ai câștigat.</item>
+        <item>Concentrarea are nevoie de douăzeci de minute ca să revină. N-o da acum.</item>
+        <item>O minte întreagă valorează mai mult decât una fărâmițată.</item>
+        <item>Te concentrai pe ceva înainte să ajungi aici.</item>
+        <item>Atenția împărțită nu e atenție. E doar oboseală.</item>
+        <item>Ce făceai merită toată atenția ta.</item>
+        <item>Gândirea profundă cere timp fără întreruperi. Ăsta e timpul acela.</item>
+        <item>Fiecare schimbare de ecran costă mai mult decât arată ceasul.</item>
+        <item>Mintea ta mergea bine. Las-o să continue.</item>
+        <item>Munca profundă nu supraviețuiește unui scroll prin feed.</item>
+        <item>Feedul e făcut ca să-ți ia atenția. Tu ai observat.</item>
+        <item>Un gând lung are nevoie de liniște ca să se încheie.</item>
+        <item>Poți ține o idee întreagă în minte. Ai nevoie doar de spațiu.</item>
+        <item>Distragerea nu e odihnă. Odihna te odihnește.</item>
+        <item>Concentrarea pe care o aveai e încă pe-aproape. Întoarce-te la ea.</item>
+        <item>Atenția ta nu e de vânzare azi.</item>
+        <item>Ce e mai bun în mintea ta apare după al douăzecilea minut.</item>
+        <item>O întrerupere acum costă mai mult decât pare.</item>
+        <item>Ești în stare de lucruri care cer concentrare. Începe prin a o proteja.</item>
+        <item>Nimic de acolo nu are nevoie urgentă de atenția ta.</item>
+        <item>O oră de concentrare face mai mult decât patru ore fărâmițate.</item>
+        <item>Mintea ta merge mai bine când nu sare de la un subiect la altul.</item>
+        <item>Ce a rămas la jumătate încă poate fi terminat azi.</item>
+        <item>Concentrarea nu ține de voință. Ține de mediu. Tocmai ți l-ai pus în ordine.</item>
+        <item>Problema aceea grea cedează când rămâi cu ea.</item>
+        <item>Atenția ta e limitată. De asta valorează atât de mult.</item>
+        <item>Nu trebuie să știi totul acum.</item>
+        <item>Zgomotul o să fie tot acolo. Liniștea ta e cea rară.</item>
+        <item>Lucrurile mari au fost făcute de oameni pe care nu i-a întrerupt nimeni.</item>
+        <item>Întoarce-te la ce făceai. Mintea ta e încă acolo.</item>
+        <item>Câte o sarcină pe rând e mai rapid decât pare.</item>
+        <item>Graba de a te uita trece. Ideea întreruptă uneori nu se mai întoarce.</item>
+        <item>Te poți concentra mai mult decât o faci în ultima vreme.</item>
+        <item>Gândul bun e lent. Lasă-l să fie lent.</item>
+        <item>Atenția ta a construit ceva azi. Nu-l dărâma din curiozitate.</item>
+        <item>Ce cere minte cere mintea întreagă.</item>
+        <item>Niciun feed nu te învață ce te învață o oră de concentrare.</item>
+        <item>Fiecare notificare refuzată aduce un pic mai multă claritate.</item>
+        <item>Erai aproape să înțelegi. Întoarce-te acolo.</item>
+        <item>O minte odihnită e una pe care n-a tras-o nimeni de colo-colo toată ziua.</item>
+        <item>Atenția ta e materialul din care construiești tot restul.</item>
+        <item>Greu e să începi. Tu ai început deja. Nu o lua de la zero.</item>
+        <item>Lasă subiectul în pace și o să se limpezească singur în mintea ta.</item>
+        <item>Claritatea apare când zgomotul se oprește.</item>
+        <item>Cea mai bună muncă a zilei tale încă nu s-a întâmplat.</item>
+        <item>Nu-ți lipsește timpul. Îți lipsește timpul neîntrerupt.</item>
+        <item>Gândești mai bine decât te lasă feedul să gândești.</item>
+        <item>Textul acela, codul acela, discuția aceea. Au nevoie de tine cu totul.</item>
+        <item>Concentrarea e un mușchi. Crește în zile ca asta.</item>
+        <item>Mintea ta tocmai ți-a mulțumit.</item>
+        <item>Un singur lucru odată rămâne cea mai avansată tehnică.</item>
+        <item>Ce faci cu atenție rămâne. Restul trece.</item>
+        <item>Nu există scurtătură pentru gândire. Doar timp fără întreruperi.</item>
+        <item>Meriți să duci un gând până la capăt.</item>
+        <item>Mintea ta era ascuțită. Nu pierde firul.</item>
+        <item>Ecranul clipește. Ideile, nu. Rămâi cu ideile.</item>
+        <item>O zi cu concentrare face cât trei zile în fugă.</item>
+        <item>Nu e vorba că mergi încet. Doar că te tot întrerupea ceva.</item>
+        <item>Ce contează azi nu e în feed.</item>
+        <item>E mai ușor să-ți ții direcția decât s-o regăsești.</item>
+        <item>Atenția ta întreagă e un dar. Dă-l cui îl merită.</item>
+        <item>În liniște apar ideile bune.</item>
+        <item>Erai în mijlocul a ceva bun.</item>
+        <item>Nimeni nu gândește limpede cu mintea în zece locuri.</item>
+        <item>Profunzimea apare abia după un timp petrecut la suprafață.</item>
+        <item>Concentrarea nu înseamnă să faci mai mult. Înseamnă să faci bine.</item>
+        <item>Azi ai ceva important de făcut. Și nu e feedul.</item>
+        <item>Lasă-ți mintea să termine fraza pe care a început-o.</item>
+        <item>O oră fără întreruperi schimbă ce e posibil într-o zi.</item>
+        <item>Ce pare greu acum devine ușor cu atenție continuă.</item>
+        <item>Concentrarea e avantajul tău. Puțini și-o mai păstrează.</item>
+        <item>Nu schimba un lucru important pe multe lucruri rapide.</item>
+        <item>Curiozitatea poate aștepta. Concentrarea, nu.</item>
+        <item>Construiești ceva. Continuă.</item>
+        <item>Să sari de la o sarcină la alta pare productiv, dar aproape niciodată nu e.</item>
+        <item>Cel mai bun mod de a-ți folosi mintea azi e încă la îndemână.</item>
+        <item>Atenția pe care o păstrezi acum se vede mai târziu în rezultat.</item>
+        <item>Mintea ta nu e un feed. Păstrează ce primește atenția ta.</item>
+        <item>E rar să ai ceva care să merite toată atenția ta. Profită.</item>
+        <item>Greu nu înseamnă imposibil. Doar că durează.</item>
+        <item>Mai ai câteva minute până rezolvi lucrul acela.</item>
+        <item>Zgomotul dispare când nu-l mai hrănești.</item>
+        <item>Rămâi la ce făceai până termini.</item>
+        <item>O scufundare adâncă face cât zece la suprafață.</item>
+        <item>Atenția ta hotărăște ce devine amintire.</item>
+        <item>Ții minte ce ai urmărit cu atenție. Nimic altceva.</item>
+        <item>Gânditul e cel mai rentabil lucru pe care îl faci azi.</item>
+        <item>O minte fără grabă rezolvă ce o minte grăbită nici nu vede.</item>
+        <item>Munca bună cere răbdare, nu viteză.</item>
+        <item>Nimic din ce ai vedea acum n-ar ajunge mâine într-o discuție.</item>
+        <item>Limpezimea minții tale de azi a început cu decizii ca asta.</item>
+        <item>Întreruperea e cel mai scump impozit care există.</item>
+        <item>Poți sta pe un singur lucru mai mult decât îți imaginezi.</item>
+        <item>Detaliul care îți scăpa apare în liniște.</item>
+        <item>Concentrarea revine. Are nevoie doar de câteva minute fără ecran.</item>
+        <item>Atenția ta poate dura mult. Feedul pariază pe contrariu.</item>
+        <item>Să termini un lucru azi valorează mai mult decât să începi cinci.</item>
+        <item>Atenția ta deplină e rară chiar și pentru tine.</item>
+        <item>Lasă gândul să respire.</item>
+        <item>Ce construiești cu concentrare nu se pierde într-un scroll.</item>
+        <item>Cheful de a deschide aplicația trece în câteva minute. Trece mereu.</item>
+        <item>Impulsul ăsta are termen de valabilitate. Expiră singur.</item>
+        <item>Nu trebuie să faci nimic. Doar să aștepți să treacă valul.</item>
+        <item>Urgența pe care o simți acum nu e a ta. E una învățată.</item>
+        <item>Respiră o dată. Pofta e deja mai mică decât acum un minut.</item>
+        <item>Impulsul e puternic la început și dispare pe la jumătatea drumului.</item>
+        <item>Nu tu vrei. Obiceiul cere.</item>
+        <item>E neplăcut doar pentru puțin timp. Apoi trece.</item>
+        <item>Ai mai simțit asta și ai trecut peste de fiecare dată.</item>
+        <item>Pofta vine în valuri. Valurile se sparg.</item>
+        <item>Nimeni nu e obligat să asculte de primul impuls al zilei.</item>
+        <item>Strânsoarea asta în piept ține mai puțin decât un cântec.</item>
+        <item>Ești mai mult decât un impuls de treizeci de secunde.</item>
+        <item>Lasă pofta să treacă fără să faci nimic cu ea.</item>
+        <item>Disconfortul de acum e obiceiul care își slăbește strânsoarea. Asta e progres.</item>
+        <item>Nu te împotrivești. Doar aștepți.</item>
+        <item>Pofta vine cu putere și pleacă în liniște.</item>
+        <item>Numără până la douăzeci. Pofta va fi deja mai mică.</item>
+        <item>Să-ți dorești ceva nu e același lucru cu a avea nevoie de el.</item>
+        <item>Impulsul vrea un răspuns pe loc. Nu-i da niciunul.</item>
+        <item>Ăsta e momentul cel mai greu, și e scurt.</item>
+        <item>Nu trebuie să lupți. Doar să nu hotărăști acum.</item>
+        <item>Pofta se stinge când n-o hrănește nimeni.</item>
+        <item>Asta e anxietate, nu foame de conținut.</item>
+        <item>Observă pofta fără să intri în ea.</item>
+        <item>Creierul cere ce cere de obicei. Nu trebuie să-l servești.</item>
+        <item>Cinci minute și nici nu-ți mai amintești că voiai s-o deschizi.</item>
+        <item>Valul crește acum. Mereu se retrage.</item>
+        <item>Ai trecut deja de partea cea mai grea.</item>
+        <item>Impulsul minte despre cât de puternic e.</item>
+        <item>Ridică-te, bea apă, revino. Impulsul a trecut deja.</item>
+        <item>Pofta nu e un ordin.</item>
+        <item>Poți simți asta și să nu faci nimic. E voie.</item>
+        <item>Corpul cere mișcare, nu ecran.</item>
+        <item>Dorința asta e automată. Răspunsul tău nu trebuie să fie.</item>
+        <item>Nu se întâmplă nimic rău dacă mai aștepți puțin.</item>
+        <item>Pofta dispare singură dacă îi lași loc.</item>
+        <item>E doar neliniște. Trece și n-are nevoie de ecran.</item>
+        <item>Impulsul e doar o sugestie. Tu hotărăști.</item>
+        <item>Încă un minut și pofta e deja altceva.</item>
+        <item>Partea grea ține puțin. Partea bună ține toată ziua.</item>
+        <item>Ăsta e faimosul ghiont. Nu împinge chiar atât de tare.</item>
+        <item>Așteaptă fără să judeci. Pofta se destramă singură.</item>
+        <item>Creierul tău cere scurtătura obișnuită.</item>
+        <item>Nu trebuie să învingi nimic. Doar să lași să treacă.</item>
+        <item>Fiecare val pe care îl lași să treacă îl face mai mic pe următorul.</item>
+        <item>Neliniștea vrea o soluție rapidă. N-o să găsească una aici.</item>
+        <item>Oprește-te o clipă. Impulsul nu rămâne.</item>
+        <item>Nu pierzi nimic dacă aștepți.</item>
+        <item>Plictiseala nu e o urgență.</item>
+        <item>E normal să simți un gol acum. Se umple singur.</item>
+        <item>Pofta de a verifica ceva rareori ține de acel ceva.</item>
+        <item>Ți-e incomod, nu ești în pericol.</item>
+        <item>O să se domolească în câteva clipe.</item>
+        <item>Obiceiul e puternic, dar ține puțin.</item>
+        <item>Las-o pe asta să treacă. Doar pe asta.</item>
+        <item>Data viitoare o să fie mai ușor datorită clipei de acum.</item>
+        <item>Nu trebuie să te convingi de nimic. Doar să aștepți.</item>
+        <item>Un pahar cu apă rezolvă mai mult decât un scroll prin feed.</item>
+        <item>Urgența e falsă, și știi deja asta.</item>
+        <item>Impulsul nu suportă să rămână fără răspuns.</item>
+        <item>Așteaptă treizeci de secunde. Apoi hotărăște din nou.</item>
+        <item>Ești în vârf. De aici încolo e doar coborâre.</item>
+        <item>Nimic nu-ți cere reacția acum.</item>
+        <item>Pofta e un musafir. Pleacă.</item>
+        <item>Tu nu ești impulsul. Tu doar îl observi.</item>
+        <item>Corpul se relaxează dacă îi dai un minut.</item>
+        <item>E doar creierul în căutare de stimuli. Găsește altceva.</item>
+        <item>Trei respirații adânci schimbă intensitatea a ceea ce simți.</item>
+        <item>Pofta se micșorează când o privești în față.</item>
+        <item>Poți duce minutul ăsta. Ai dus și mai rele.</item>
+        <item>Disconfortul trece chiar dacă nu faci nimic.</item>
+        <item>Mâna a fost mai rapidă decât mintea. Se întâmplă.</item>
+        <item>Nicio decizie nu trebuie luată în primele zece secunde.</item>
+        <item>În câteva clipe nici n-o să-ți mai amintești de asta.</item>
+        <item>Declanșatorul a fost apăsat. Răspunsul rămâne al tău.</item>
+        <item>Lasă pofta să existe, fără s-o asculți.</item>
+        <item>Nu e o nevoie. E un obicei.</item>
+        <item>Așteaptă. Asta e literalmente tot ce ai de făcut.</item>
+        <item>Mintea se liniștește singură dacă nu mai pui lemne pe foc.</item>
+        <item>Deja aștepți. Asta e deja victoria.</item>
+        <item>Impulsul își pierde puterea când dă de o ușă închisă.</item>
+        <item>Fiecare secundă aici e o secundă de avantaj.</item>
+        <item>Valul s-a spart. Vezi cât de ușor e deja.</item>
+        <item>N-ai nevoie de un motiv ca să n-o deschizi.</item>
+        <item>Dorința trece mai repede decât regretul.</item>
+        <item>O întindere rezolvă ce feedul n-ar rezolva.</item>
+        <item>Pofta pleacă în timp ce citești asta.</item>
+        <item>Nu hotărî nimic acum. Doar respiră.</item>
+        <item>Impulsul vine singur și pleacă singur.</item>
+        <item>Partea asta e cea mai grea. Și trece repede.</item>
+        <item>Ai rezistat până aici. Mai sunt doar câteva secunde.</item>
+        <item>Corpul cere ecran când vrea odihnă. Dă-i odihnă.</item>
+        <item>Pofta scade de fiecare dată când nu e ascultată.</item>
+        <item>Mai așteaptă puțin. Doar atât.</item>
+        <item>Clipa trece. Alegerea rămâne.</item>
+        <item>Tocmai ai trecut prin partea cea mai strâmtă.</item>
+        <item>Să simți pofta e omenesc. La fel de omenesc e să n-o asculți.</item>
+        <item>Liniștea revine în câteva clipe dacă nu forțezi.</item>
+        <item>A devenit mai ușor, nu-i așa.</item>
+        <item>Ai hotărât asta într-un moment de liniște. Ai încredere în acea decizie.</item>
+        <item>Ieri ai avut grijă de clipa asta.</item>
+        <item>Ecranul ăsta e un mesaj de la tine pentru tine.</item>
+        <item>Nimeni nu te oprește. Doar ți se amintește.</item>
+        <item>Omul care vrei să fii nu-și petrece după-amiaza dând scroll.</item>
+        <item>Alegerea asta a fost a ta. Și încă este.</item>
+        <item>Ești genul de om care a observat și a acționat.</item>
+        <item>Nimeni nu te-a obligat să instalezi asta. Tu ai vrut.</item>
+        <item>Mâine o să te bucuri de ce alegi acum.</item>
+        <item>Ești deja cineva care își protejează timpul.</item>
+        <item>Asta nu e o pedeapsă. E o înțelegere.</item>
+        <item>Tu ai scris regula asta. Și funcționează.</item>
+        <item>Să-ți stăpânești atenția e o alegere de fiecare zi.</item>
+        <item>Aici nu trebuie să dovedești nimic nimănui.</item>
+        <item>Persoana care vrei să fii începe cu decizii mici.</item>
+        <item>Ești de partea bună a ecranului.</item>
+        <item>De fiecare dată când închizi aici, devii mai mult cine vrei să fii.</item>
+        <item>Nu ești ce-ți vine să faci. Ești ce faci.</item>
+        <item>O înțelegere cu tine valorează cât oricare alta.</item>
+        <item>Ai recunoscut un tipar și l-ai schimbat. Asta e rar.</item>
+        <item>Ești mai mult decât aplicațiile din buzunarul tău.</item>
+        <item>E regula ta, și e de partea ta.</item>
+        <item>Ai dreptul să-ți schimbi obiceiurile.</item>
+        <item>Ceea ce faci în mod repetat e ceea ce ești.</item>
+        <item>Ai ales o viață cu mai mult loc.</item>
+        <item>Nu aplicația îți dă ordine.</item>
+        <item>Identitatea ta nu încape într-un feed.</item>
+        <item>Tu ești persoana care a instalat asta dintr-un motiv.</item>
+        <item>Amintește-ți motivul. Încă e valabil.</item>
+        <item>Respecți o decizie pe care ai luat-o tu.</item>
+        <item>Nimeni nu hotărăște în locul tău unde se duce atenția ta.</item>
+        <item>Ai observat ce se întâmpla. Asta deja schimbă totul.</item>
+        <item>Să fii la cârma propriei zile e o muncă continuă.</item>
+        <item>Nu stai pe locul din dreapta. Tu ești la volan.</item>
+        <item>E alegerea cuiva care se ia în serios.</item>
+        <item>Răspunzi de tine. Și chiar o faci.</item>
+        <item>Timpul tău are un stăpân. Tocmai citește asta.</item>
+        <item>Ai făcut o înțelegere cu tine. Respect-o.</item>
+        <item>Fiecare decizie de felul ăsta te apropie de cine vrei să fii.</item>
+        <item>Nu-ți pierzi libertatea. O folosești.</item>
+        <item>Tu hotărăști ce faci acum.</item>
+        <item>N-ai nevoie de permisiune ca să trăiești altfel.</item>
+        <item>Limita asta e grijă, nu o cușcă.</item>
+        <item>Ai ales un drum mai greu, dar mai al tău.</item>
+        <item>Și omul pe care îl admiri ar spune nu acum.</item>
+        <item>Tu locuiești în viața ta, nu în aplicație.</item>
+        <item>E timpul tău, mintea ta, alegerea ta.</item>
+        <item>Îți ții promisiunea față de tine. Asta contează.</item>
+        <item>Nimeni n-o să aibă grijă de atenția ta în locul tău.</item>
+        <item>Ai dovedit deja că poți schimba direcția.</item>
+        <item>Asta e autonomia: să hotărăști dinainte, nu din impuls.</item>
+        <item>Construiești pe cineva pe care îl respecți.</item>
+        <item>Asta e varianta ta care plănuiește.</item>
+        <item>N-ai ajuns aici din întâmplare. Tu ai pus totul la punct.</item>
+        <item>Cuvântul pe care ți-l dai ție contează.</item>
+        <item>Ai propria părere despre cum să-ți petreci ziua.</item>
+        <item>Aplicația nu te cunoaște. Tu te cunoști.</item>
+        <item>Acționezi ca cineva care își conduce propria viață.</item>
+        <item>Să te ții de propria decizie înseamnă libertate.</item>
+        <item>Aici tu scrii regulile.</item>
+        <item>Asta înseamnă să ai grijă de tine.</item>
+        <item>Nu e o închisoare. E o protecție.</item>
+        <item>Dorința ta de schimbare e mai veche decât impulsul ăsta.</item>
+        <item>Ești deja cine încerci să fii.</item>
+        <item>Decizia grea a fost deja luată. Asta e doar cea ușoară.</item>
+        <item>Ai controlul, iar asta e rar în zilele noastre.</item>
+        <item>Nu trebuie să știe nimeni. E ceva între tine și tine.</item>
+        <item>Meriți să ai încredere în propriul cuvânt.</item>
+        <item>Numele tău e pe alegerea asta.</item>
+        <item>Ai devenit genul de om care hotărăște dinainte.</item>
+        <item>Nu renunți la ceva. Alegi altceva.</item>
+        <item>Ai o direcție. Ecranul ăsta arată spre ea.</item>
+        <item>Libertatea adevărată înseamnă să nu te tragă nimic încoace și încolo tot timpul.</item>
+        <item>Tu stabilești cât valorează atenția ta.</item>
+        <item>Fiecare nu de aici e un da pentru altceva al tău.</item>
+        <item>Te ții de un plan pe care l-ai făcut cu grijă.</item>
+        <item>Să decizi tu pentru tine cere efort și merită.</item>
+        <item>Ai recunoscut că vrei să te schimbi. Asta e deja partea grea.</item>
+        <item>Omul din oglindă o să se bucure de asta diseară.</item>
+        <item>Nu datorezi nimic algoritmului.</item>
+        <item>Viața ta nu e conținutul nimănui.</item>
+        <item>Ești exact unde ai hotărât să fii.</item>
+        <item>Limita pe care ți-o pui tu e cea mai respectuoasă dintre toate.</item>
+        <item>Ai un proiect de viață mai mare decât ecranul ăsta.</item>
+        <item>Asta e maturitate în timp real.</item>
+        <item>Ai grijă de viitorul tău fără să-ți dai seama.</item>
+        <item>Fiecare alegere de felul ăsta îți șlefuiește felul de a fi.</item>
+        <item>Nu trebuie să te justifici că n-o deschizi.</item>
+        <item>Angajamentul tău e față de tine, nu față de aplicație.</item>
+        <item>Ai luat decizia bună când nu aveai chef de ea.</item>
+        <item>Asta e viața ta, condusă de tine.</item>
+        <item>Ai devenit cineva greu de manipulat.</item>
+        <item>Atenția ta are un stăpân, iar el e cu ochii în patru.</item>
+        <item>Tocmai ai făcut ce face cineva care are grijă de sine.</item>
+        <item>Planul e al tău. Și funcționează chiar acum.</item>
+        <item>Ești suma alegerilor tale mărunte.</item>
+        <item>Nimeni nu-ți ia ultimul cuvânt.</item>
+        <item>Tu ești autoritatea când vine vorba de timpul tău.</item>
+        <item>Funcționează pentru că ai vrut tu să funcționeze.</item>
+        <item>Ești mai mare decât obiceiul care vrea să fie mai mare decât tine.</item>
+        <item>Încă una. Așa crește contul.</item>
+        <item>Mic și repetat bate mare și rar.</item>
+        <item>Tocmai ai mai adunat un punct.</item>
+        <item>Nimeni nu se schimbă dintr-odată. Se schimbă în zile ca azi.</item>
+        <item>Asta e a mia parte dintr-o viață diferită.</item>
+        <item>O zi bună nu schimbă nimic. O sută de zile bune schimbă totul.</item>
+        <item>Construiești o serie.</item>
+        <item>Din interior, progresul aproape niciodată nu pare progres.</item>
+        <item>Suma acestor alegeri e mai mare decât fiecare dintre ele.</item>
+        <item>Constanța e plictisitoare și funcționează.</item>
+        <item>Încă o piatră în zid.</item>
+        <item>Antrenezi ceva care rămâne.</item>
+        <item>Repetat de destule ori, devine automat.</item>
+        <item>Nimeni nu vede victoria asta, dar contează la fel.</item>
+        <item>Peste câteva săptămâni nici n-o să-ți mai vină.</item>
+        <item>Azi contează. Și mâine o să conteze.</item>
+        <item>Un lanț se face din verigi ca asta.</item>
+        <item>Obiceiul nou se scrie chiar acum.</item>
+        <item>Fiecare repetare slăbește puțin obiceiul vechi.</item>
+        <item>Ai mai făcut asta. Fă-o din nou.</item>
+        <item>Încet e viteza lucrurilor care durează.</item>
+        <item>Schimbarea se petrece departe de ochi.</item>
+        <item>Aduni ceva invizibil și real.</item>
+        <item>Încă o zi în direcția bună.</item>
+        <item>Rezultatul apare mai târziu. Alegerea e azi.</item>
+        <item>Câte o alegere pe rând, așa se face.</item>
+        <item>Ești mai aproape decât erai ieri.</item>
+        <item>Nu trebuie să fie perfect. Trebuie să fie des.</item>
+        <item>Curba urcă încet, apoi urcă repede.</item>
+        <item>Ești la mijlocul procesului. Așa arată el.</item>
+        <item>Fiecare nu mic construiește un da mare.</item>
+        <item>Nimic din toate astea nu e dramatic. De asta funcționează.</item>
+        <item>Drumul e făcut din pași ca ăsta.</item>
+        <item>Îți creezi o rutină nouă.</item>
+        <item>Peste o lună o să ți se pară ușor.</item>
+        <item>Repetiția transformă decizia în fel de a fi.</item>
+        <item>Tocmai ai întărit drumul cel nou.</item>
+        <item>O sută la sută e mai ușor decât nouăzeci și opt.</item>
+        <item>Nu rupe seria azi.</item>
+        <item>Faci partea plictisitoare, adică exact cea care contează.</item>
+        <item>Schimbarea nu se simte. Se vede mai târziu.</item>
+        <item>Încă o cărămidă pusă la locul ei.</item>
+        <item>Îți înveți creierul să aștepte altceva.</item>
+        <item>Să continui e toată tehnica.</item>
+        <item>Puse la un loc, niciuna dintre victoriile astea nu e mică.</item>
+        <item>Nu trebuie să alergi. Trebuie doar să nu te oprești.</item>
+        <item>Deja devine mai ușor și nici n-ai observat.</item>
+        <item>O săptămână așa și deja ți se schimbă ziua.</item>
+        <item>Îți formezi un drum nou în minte.</item>
+        <item>Fiecare dată contează, chiar și când nu pare.</item>
+        <item>Nimeni nu aplaudă, dar funcționează.</item>
+        <item>Acumularea e tăcută și de neoprit.</item>
+        <item>La asta te descurci deja mai bine decât luna trecută.</item>
+        <item>O alegere bună azi o ușurează pe cea de mâine.</item>
+        <item>Așa arată constanța pe dinăuntru.</item>
+        <item>Încă o zi de avantaj adunat.</item>
+        <item>Ești pe drum, iar drumul e lung. E în regulă.</item>
+        <item>Ce se repetă devine ușor.</item>
+        <item>Tocmai ai întărit omul care devii.</item>
+        <item>Azi socoteala e în favoarea ta.</item>
+        <item>Câștigurile mici se adună fără să ceară voie.</item>
+        <item>Nu e vorba de azi. E vorba de total.</item>
+        <item>Faci munca pe care n-o vede nimeni.</item>
+        <item>Continuă. Asta e, literalmente, secretul.</item>
+        <item>Fiecare zi ca asta mai ia din greutate.</item>
+        <item>Obiceiul vechi pierde teren chiar acum.</item>
+        <item>Uzi ceva ce încă n-a încolțit.</item>
+        <item>Schimbarea are loc, chiar dacă nu pare.</item>
+        <item>Încă o dată. Mereu a fost doar atât.</item>
+        <item>Îți faci o rezervă de zile bune.</item>
+        <item>Cu timpul, asta devine normal.</item>
+        <item>Tocmai ai ales din nou. Și din nou contează.</item>
+        <item>O lună așa și ești alt om.</item>
+        <item>Efortul de azi dispare. Rezultatul rămâne.</item>
+        <item>Nu mai ești cine erai când ai început.</item>
+        <item>Să faci mereu valorează mai mult decât să faci mult.</item>
+        <item>Fiecare zi e un vot pentru cine vrei să fii.</item>
+        <item>Lași obiceiul nou să câștige teren.</item>
+        <item>Nu trebuie să fie eroic. Trebuie doar să se întâmple.</item>
+        <item>Tocmai ai consolidat drumul bun.</item>
+        <item>Prin repetiție învață creierul orice.</item>
+        <item>Azi plus ieri înseamnă deja destul.</item>
+        <item>Te descurci bine chiar și când nu simți asta.</item>
+        <item>Progresul stă în repetițiile fără farmec.</item>
+        <item>Încă un pas mic pe un drum lung.</item>
+        <item>Faci din asta ceva firesc.</item>
+        <item>Un lucru bun făcut de multe ori e ce rămâne.</item>
+        <item>Puterea vine din a face din nou, nu din a face tare.</item>
+        <item>Tocmai ai scurtat drumul de mâine.</item>
+        <item>Încă unul. Doar atât. Și e de ajuns.</item>
+        <item>Lași în urmă un șir de decizii bune.</item>
+        <item>Constanța transformă efortul în identitate.</item>
+        <item>Fiecare zi contează ca o zi întreagă.</item>
+        <item>Joci pe termen lung și câștigi.</item>
+        <item>O să devină parte din tine fără să observi.</item>
+        <item>Cea mai bună investiție a zilei tocmai a fost făcută.</item>
+        <item>Tocmai te-ai ținut de drum.</item>
+        <item>Continuitatea e mai rară decât talentul.</item>
+        <item>Schimbarea adevărată e mereu lentă și merită mereu.</item>
+        <item>Încă o alegere în direcția vieții tale.</item>
+        <item>Ochii tăi îți mulțumesc pentru pauza asta.</item>
+        <item>Ridică-te și întinde-te. Corpul cerea asta, nu ecran.</item>
+        <item>Respiră adânc. Doar atât și deja se schimbă ceva.</item>
+        <item>Bea apă. Probabil asta îți lipsea.</item>
+        <item>Gâtul tău stă strâmb de ceva vreme. Îndreaptă-l.</item>
+        <item>Somnul din noaptea asta începe cu ecranele de acum.</item>
+        <item>Un somn bun e cel mai productiv lucru care există.</item>
+        <item>Corpul tău stă nemișcat de prea mult timp.</item>
+        <item>Privește în depărtare douăzeci de secunde. Ochii se relaxează.</item>
+        <item>O plimbare scurtă îți schimbă starea mai mult decât orice feed.</item>
+        <item>Oboseala pe care o simți poate fi doar de la ecran.</item>
+        <item>Corpul cere mișcare când mintea cere scroll.</item>
+        <item>Aerul curat rezolvă lucruri pe care ecranul nu le rezolvă.</item>
+        <item>Umerii jos. Maxilarul relaxat.</item>
+        <item>Îți încordezi umerii fără să-ți dai seama.</item>
+        <item>Zece minute de soare pe piele valorează mult.</item>
+        <item>Corpul se odihnește întins, nu dând scroll.</item>
+        <item>Să te culci devreme azi e un cadou pentru mâine.</item>
+        <item>Postura ți s-a schimbat în ultimele douăzeci de minute. Corecteaz-o.</item>
+        <item>Oboseala de ecran nu e oboseală adevărată. E altceva.</item>
+        <item>Ridică brațele. Întinde-te. Gata, deja e mai bine.</item>
+        <item>Clipești mai rar când dai scroll. Clipește acum.</item>
+        <item>Corpul funcționează mai bine cu pauze adevărate.</item>
+        <item>O tură în jurul blocului îți limpezește mintea.</item>
+        <item>Coloana ta o să se bucure de întreruperea asta.</item>
+        <item>Odihna e altceva decât distragerea.</item>
+        <item>Somnul prost de azi-noapte a început pe un ecran ca ăsta.</item>
+        <item>Întinde-ți gâtul în ambele părți. Durează zece secunde.</item>
+        <item>Mișcarea alungă neliniștea mai bine decât conținutul.</item>
+        <item>Corpul tău e singura casă pe care o ai.</item>
+        <item>Apă, lumină și mișcare. Aproape mereu asta e.</item>
+        <item>Ecranul obosește chiar și când pare odihnă.</item>
+        <item>Închide ochii o clipă. Doar atât.</item>
+        <item>Respiri superficial. Respiră adânc de trei ori.</item>
+        <item>Un duș rezolvă mai multe decât pare.</item>
+        <item>Corpul tău stă în același loc de prea mult timp.</item>
+        <item>Odihna adevărată nu are ecran.</item>
+        <item>Douăzeci de minute de mers pe jos schimbă toată ziua.</item>
+        <item>Ai capul greu pentru că trupul stă pe loc.</item>
+        <item>Ochi uscați, umeri încordați. Ai observat deja.</item>
+        <item>Să te ridici două minute te resetează mai mult decât un scroll.</item>
+        <item>Corpul cere somn, iar mintea cere stimuli. Ascultă de corp.</item>
+        <item>Lumina ecranului îți strică somnul ore întregi.</item>
+        <item>Întinde-ți picioarele. E rapid și funcționează.</item>
+        <item>Meriți o odihnă care chiar te odihnește.</item>
+        <item>Mișcarea e cel mai ieftin antidepresiv care există.</item>
+        <item>Corpul tău o să țină minte noaptea asta de somn.</item>
+        <item>Respirația lentă te calmează mai repede decât orice video.</item>
+        <item>Ți-e foame sau te plictisești. Află care dintre ele.</item>
+        <item>Corpul își revine când mintea se oprește.</item>
+        <item>Douăzeci de secunde privind pe fereastră.</item>
+        <item>Încheietura și degetul mare au nevoie de o pauză.</item>
+        <item>Oboseala de la ecran trece mergând pe jos.</item>
+        <item>În somn își face memoria ordine. Protejează-l.</item>
+        <item>Ai nevoie de mai puțini stimuli, nu de mai mulți.</item>
+        <item>Două minute de întinderi valorează mai mult decât zece de video.</item>
+        <item>Corpul tău îți dă un semnal acum.</item>
+        <item>Aer, apă și mișcare. Rețeta nu s-a schimbat.</item>
+        <item>Întinde-te pe jos un minut. Serios.</item>
+        <item>Ecranul îți alungă somnul tocmai când ai nevoie de el.</item>
+        <item>Corpul cere pauză, iar mâna cere ecran. Dă-i pauza.</item>
+        <item>Ochii tăi muncesc de dimineață.</item>
+        <item>O noapte de somn bun schimbă lumea.</item>
+        <item>Ridică-te. Doar ridică-te. E deja suficient.</item>
+        <item>O să dormi mai bine datorită alegerii ăsteia.</item>
+        <item>Corpul îți mulțumește pentru ce mintea găsește plictisitor.</item>
+        <item>Întinde-ți spatele. Îți cere asta.</item>
+        <item>Odihna reală e liniște, nu încă un stimul.</item>
+        <item>Corpul tău are ritmul lui, iar ecranul îl ignoră.</item>
+        <item>Privește spre orizont. Ochii au nevoie de distanță.</item>
+        <item>Încordarea din maxilar nu trece dând scroll.</item>
+        <item>De cât timp stai pe scaun, de fapt.</item>
+        <item>Mișcarea aduce claritate. Mereu a adus.</item>
+        <item>Bea apă înainte să hotărăști ceva.</item>
+        <item>Somnul pierdut nu se recuperează cu conținut.</item>
+        <item>Corpul tău merge bine când îl lași.</item>
+        <item>Un pui de somn scurt face mai mult decât o oră de feed.</item>
+        <item>Respirația adâncă e gratuită și imediată.</item>
+        <item>Ecranul îți încordează corpul fără să te anunțe.</item>
+        <item>Oboseala ta e mai mare decât ar trebui să fie.</item>
+        <item>Ridică-te și uită-te pe fereastră. Cinci secunde.</item>
+        <item>Corpul tău n-a evoluat ca să stea nemișcat privind o lumină.</item>
+        <item>Întinde-ți degetele. Au muncit destul azi.</item>
+        <item>Noaptea e mai bună fără ecran înainte de culcare.</item>
+        <item>Ecranul nu-ți oferă odihnă.</item>
+        <item>Corpul tău cere natură și primește pixeli.</item>
+        <item>Un pahar cu apă și trei respirații. Fă-le acum.</item>
+        <item>Încordarea din umăr vine din felul în care ții telefonul.</item>
+        <item>Corpul se destinde când atenția nu mai aleargă.</item>
+        <item>În cinci minute o să te simți mai bine.</item>
+        <item>Mișcarea schimbă chimia. Ecranul schimbă doar subiectul.</item>
+        <item>Ochii tăi merită o odihnă adevărată.</item>
+        <item>Mersul pe jos îți ordonează gândurile mai bine decât feedul.</item>
+        <item>Lumina albastră de acum înseamnă somn prost mai târziu.</item>
+        <item>Ai nevoie de odihnă, nu de mai multe informații.</item>
+        <item>Două respirații adânci înainte de orice.</item>
+        <item>Corpul tău e mai înțelept decât impulsul.</item>
+        <item>Ridică-te și mergi până la bucătărie. E destul.</item>
+        <item>Odihnește-ți corpul și mintea se odihnește odată cu el.</item>
+        <item>Lângă tine sunt acum oameni în carne și oase.</item>
+        <item>O discuție valorează mai mult decât trei sute de postări.</item>
+        <item>Sună pe cineva. Chiar la telefon, cu vocea ta.</item>
+        <item>Cineva drag e la doar un mesaj distanță.</item>
+        <item>Oamenii din feed nu știu că exiști.</item>
+        <item>Cine e în aceeași cameră cu tine merită mai mult.</item>
+        <item>O îmbrățișare rezolvă ce niciun video nu rezolvă.</item>
+        <item>Scrie-i cuiva pe care l-ai cam uitat în ultima vreme.</item>
+        <item>Mama ta s-ar bucura de un telefon azi.</item>
+        <item>În viața reală sunt oameni care chiar îți răspund.</item>
+        <item>Prietenul acela dispărut încă se poate întoarce. Caută-l.</item>
+        <item>Prezența e cel mai rar lucru pe care îl poți oferi.</item>
+        <item>Cineva așteaptă să ridici privirea.</item>
+        <item>O întrebare bună valorează mai mult decât o oră de scroll.</item>
+        <item>Oamenii din jurul tău n-au algoritm.</item>
+        <item>Pierzi o discuție care are loc chiar acum.</item>
+        <item>Nimeni din feed n-o să fie acolo când o să ai nevoie.</item>
+        <item>O cafea cu cineva îți schimbă săptămâna mai mult decât orice feed.</item>
+        <item>Compania ta e un dar. Oferă-l.</item>
+        <item>Uită-te la cine e cu tine.</item>
+        <item>Prietenia trebuie udată. Ud-o azi.</item>
+        <item>Omul de lângă tine e real.</item>
+        <item>Cine te iubește n-are nevoie de like-uri.</item>
+        <item>Îți amintești ultima discuție lungă pe care ai avut-o.</item>
+        <item>Cheamă pe cineva la o plimbare.</item>
+        <item>Cele mai frumoase amintiri rareori au un ecran în ele.</item>
+        <item>Acum ești compania cuiva.</item>
+        <item>Trimite un mesaj vocal cuiva drag.</item>
+        <item>Oamenii se schimbă când le dai atenție.</item>
+        <item>Prezența ta contează azi pentru cineva.</item>
+        <item>O discuție bună te face să te simți mai bine. Feedul, nu.</item>
+        <item>Cineva are nevoie să afle că ți-ai amintit de el.</item>
+        <item>Întâlnește-te cu cineva în loc să urmărești pe cineva.</item>
+        <item>Legăturile puternice se fac din timp petrecut împreună.</item>
+        <item>Poți fi motivul pentru care cineva are o zi bună.</item>
+        <item>Ruda aceea cu care n-ai mai vorbit de luni de zile.</item>
+        <item>Un mesaj sincer valorează mai mult decât o mie de vizualizări.</item>
+        <item>A fi împreună e altceva decât a fi online.</item>
+        <item>Cei care trăiesc lângă tine merită să fii cu totul acolo.</item>
+        <item>Invită pe cineva la cină.</item>
+        <item>Oamenii reali au chip, voce și timp limitat.</item>
+        <item>Pentru cineva ești de neînlocuit. Fă-te văzut.</item>
+        <item>Cea mai importantă discuție a zilei tale încă n-a avut loc.</item>
+        <item>Lângă tine e cineva fără ecran în mână.</item>
+        <item>Ascultarea e cea mai simplă cale spre inima cuiva.</item>
+        <item>Prietenul acela trece prin ceva. Întreabă-l.</item>
+        <item>Copilul tău, câinele tău, vecinul tău. Cineva e acolo.</item>
+        <item>Rețelele te leagă de mulți oameni și de niciunul.</item>
+        <item>O după-amiază cu cineva face cât o lună de feed.</item>
+        <item>Azi poți face pe cineva să râdă. De-adevăratelea.</item>
+        <item>Prezența deplină e foarte rară. Tu ai una de oferit.</item>
+        <item>Cineva a vorbit despre tine săptămâna asta. Întoarce gestul.</item>
+        <item>Nimeni din feed nu simte lipsa ta.</item>
+        <item>Un telefon de cinci minute schimbă ziua cuiva.</item>
+        <item>Oamenii care contează nu postează despre asta.</item>
+        <item>Ești la o întrebare distanță de o discuție bună.</item>
+        <item>Compania adevărată nu are reclame la mijloc.</item>
+        <item>Omul care te susține mereu. Mulțumește-i azi.</item>
+        <item>Privitul în ochi e încă cea mai bună tehnologie.</item>
+        <item>Familia ta nu e un feed. Nu trece în fugă pe lângă ea.</item>
+        <item>Invită pe cineva să nu faceți nimic împreună.</item>
+        <item>Și cei de departe merită vești de la tine.</item>
+        <item>Ai oameni care țin la tine în afara aplicației.</item>
+        <item>O discuție grea amânată apasă mai mult decât feedul.</item>
+        <item>Bucură-te de cei din jur cât sunt aici.</item>
+        <item>Oamenii își amintesc de cine a fost alături de ei.</item>
+        <item>Cheamă un prieten la o cafea, fără niciun motiv.</item>
+        <item>Undeva, cineva vrea să știe ce faci.</item>
+        <item>Acum poți să asculți pe cineva cu adevărat.</item>
+        <item>Legătura se construiește privind, nu derulând.</item>
+        <item>Atenția ta e cel mai bun cadou pentru cei dragi.</item>
+        <item>Un om valorează mai mult decât un profil.</item>
+        <item>Discuția pe care i-o datorezi cuiva. Azi e ziua.</item>
+        <item>Disponibilitatea e o formă de iubire.</item>
+        <item>Acum ai timp pentru cineva.</item>
+        <item>Nimeni nu și-a luat rămas-bun de la viață vrând mai mulți urmăritori.</item>
+        <item>Vezi-te din nou cu cineva în loc să-l urmărești de departe.</item>
+        <item>Uneori, afecțiunea trebuie spusă cu voce tare.</item>
+        <item>Gașca ta dintotdeauna încă există. Cheam-o.</item>
+        <item>Cineva de lângă tine vrea să stea de vorbă.</item>
+        <item>Comparația nu e conexiune.</item>
+        <item>Azi poți să fii acolo pentru cineva.</item>
+        <item>Un bilet scris de mână. Ce idee.</item>
+        <item>Cine te cunoaște cu adevărat nu e în feed.</item>
+        <item>Împarte după-amiaza cu cineva.</item>
+        <item>Oamenii apropiați merită ce îi dai feedului.</item>
+        <item>Contezi pentru cineva care nu postează.</item>
+        <item>Sună pe cineva și întreabă-l cum se simte cu adevărat.</item>
+        <item>Singurătatea nu trece cu mai mult ecran.</item>
+        <item>Apropie-te azi de cineva.</item>
+        <item>O masă luată împreună face cât toată după-amiaza.</item>
+        <item>Atenția ta hrănește relațiile. Hrănește una.</item>
+        <item>Cineva se gândește la tine chiar acum.</item>
+        <item>Spune-i cuiva că ții la el.</item>
+        <item>Prieteniile mor din tăcere, nu din ceartă.</item>
+        <item>Ai oameni buni în jur. Bucură-te de ei.</item>
+        <item>Cineva are nevoie de companie, și tu i-o poți oferi.</item>
+        <item>Lasă feedul și ieși printre oameni.</item>
+        <item>Cine te iubește vrea timpul tău, nu profilul tău.</item>
+        <item>Poți face ziua cuiva mai bună în cinci minute.</item>
+        <item>Creația obosește și umple. Consumul odihnește și golește.</item>
+        <item>Ai mai multe de spus decât de văzut.</item>
+        <item>Cineva creează acum ce ai fi urmărit tu.</item>
+        <item>Scrie un rând. Doar unul.</item>
+        <item>Lumea are prea mulți consumatori și prea puțini creatori.</item>
+        <item>Ideea aceea a ta încă așteaptă.</item>
+        <item>Poți face ceva în loc să te uiți la ceva gata făcut.</item>
+        <item>Orice lucru bun a fost făcut de cineva care nu dădea scroll.</item>
+        <item>Ideea ta valorează mai mult decât tot feedul de azi.</item>
+        <item>Începe ce tot amâni. Cinci minute ajung.</item>
+        <item>Proiectul oprit are nevoie doar de un imbold.</item>
+        <item>Ai talent la ceva care nu e scrollul.</item>
+        <item>Fă azi ceva ce ieri nu exista.</item>
+        <item>Să creezi e mai distractiv decât să privești, doar începutul e greu.</item>
+        <item>Caietul acela gol nu mușcă.</item>
+        <item>Cel mai bun conținut e cel pe care îl faci tu.</item>
+        <item>Înveți mai mult făcând decât privind.</item>
+        <item>Cântă la un instrument, desenează, gătește. Fă ceva cu mâinile.</item>
+        <item>Creativitatea ta dispare când îți umpli mintea cu feed.</item>
+        <item>Există o operă a ta pe care n-a făcut-o încă nimeni.</item>
+        <item>Începe prost. Apoi se îmbunătățește.</item>
+        <item>Un paragraf pe zi devine o carte.</item>
+        <item>Ai o poveste de spus.</item>
+        <item>Să faci lucruri e antidotul golului.</item>
+        <item>Plictiseala e începutul creativității. Las-o să existe.</item>
+        <item>Mintea ta inventează când nu o mai umpli.</item>
+        <item>Cursul acela pe care l-ai plătit te așteaptă.</item>
+        <item>E posibil să înveți azi ceva nou.</item>
+        <item>Consumul e ușor. De asta satisface atât de puțin.</item>
+        <item>Vrei să faci ceva. Începe acum.</item>
+        <item>Cinci minute de exercițiu valorează mai mult decât o oră de video.</item>
+        <item>Rețeta aceea pe care vrei s-o încerci.</item>
+        <item>Ideile vin în liniște, nu în scroll.</item>
+        <item>Poți să creezi tu, în loc să fii doar public.</item>
+        <item>Un proiect mic îți schimbă săptămâna.</item>
+        <item>Scrie ce ai face dacă ai avea timp. Ai.</item>
+        <item>Mâinile tale știu să facă lucruri. Folosește-le.</item>
+        <item>Fă azi ceva imperfect.</item>
+        <item>Învățatul e mai plăcut decât divertismentul.</item>
+        <item>Ce creezi rămâne. Ce derulezi dispare.</item>
+        <item>Instrumentul acela rezemat în colț.</item>
+        <item>Un proiect neterminat te așteaptă.</item>
+        <item>Să creezi e opusul comparației.</item>
+        <item>Începe cu puțin. Începe azi.</item>
+        <item>O pagină pe zi înseamnă o altă viață.</item>
+        <item>Imaginația ta are nevoie de spațiu gol.</item>
+        <item>Fă ceva de care să te mândrești mâine.</item>
+        <item>Bucuria de a crea nu poate fi înlocuită.</item>
+        <item>Ești în stare de mai mult decât să consumi.</item>
+        <item>Hobby-ul acela părăsit încă există.</item>
+        <item>Douăzeci de minute de exercițiu înseamnă douăzeci de minute de progres.</item>
+        <item>Nimeni n-a devenit bun la ceva dând scroll prin feed.</item>
+        <item>Următoarea ta abilitate începe la un moment dat. Să fie acum.</item>
+        <item>Fă-o, chiar dacă nu vede nimeni.</item>
+        <item>E ceva ce vrei să înveți. Începe.</item>
+        <item>Să consumi înseamnă să privești viața altora.</item>
+        <item>Ai mâini, minte și timp. E tot ce-ți trebuie.</item>
+        <item>Prima ciornă e mereu proastă. Scrie-o oricum.</item>
+        <item>Limba aceea pe care voiai s-o vorbești.</item>
+        <item>Prin creație, plictiseala devine bucurie.</item>
+        <item>Puțin în fiecare zi construiește orice abilitate.</item>
+        <item>Ai ceva înăuntru care vrea să iasă la iveală.</item>
+        <item>Scrie despre ziua ta. Doar pentru tine.</item>
+        <item>Creativitatea ta așteaptă să oprești zgomotul.</item>
+        <item>Lucrează azi ceva cu mâinile tale.</item>
+        <item>Plăcerea de a termina ceva nu seamănă cu nimic altceva.</item>
+        <item>Proiectul acela care te entuziasma. Încă te poate entuziasma.</item>
+        <item>Nu trebuie să te pricepi ca să începi.</item>
+        <item>Gătește ceva nou. Și asta e creație.</item>
+        <item>Viața devine mai interesantă când faci lucruri.</item>
+        <item>Nimeni nu se naște învățat. Toată lumea începe stângaci.</item>
+        <item>Ideea aceea din miez de noapte. Noteaz-o.</item>
+        <item>Poți fi de folos cuiva cu ce știi să faci.</item>
+        <item>Fă puțin azi și puțin mâine.</item>
+        <item>Cel mai bun moment ca să începi a trecut. Al doilea cel mai bun e acum.</item>
+        <item>Opera ta n-o să se facă singură.</item>
+        <item>Exersatul e plictisitor până începe să-ți iasă.</item>
+        <item>Tu vrei să creezi. Feedul vrea doar să te uiți.</item>
+        <item>Desenul acela pe care l-ai început.</item>
+        <item>Să faci e cel mai rapid mod de a învăța.</item>
+        <item>Ai o voce. Folosește-o pentru ceva.</item>
+        <item>Să repari ceva prin casă e tot creație.</item>
+        <item>Următoarea ta reușită începe într-o zi obișnuită, ca azi.</item>
+        <item>Fă ceva ce doar tu ai face.</item>
+        <item>Feedul e infinit. Opera ta are un sfârșit, și de asta contează.</item>
+        <item>Poți planta ceva azi. La propriu.</item>
+        <item>Tabelul acela, planul acela, visul acela.</item>
+        <item>Creația cere muncă, și tocmai de asta merită.</item>
+        <item>În tine e mai mult de descoperit decât în orice feed.</item>
+        <item>Studiază douăzeci de minute. E puțin și e mult.</item>
+        <item>Curiozitatea e mai bună când devine practică.</item>
+        <item>Cântecul acela pe care voiai să-l înveți.</item>
+        <item>Fă acum un lucru util și simplu.</item>
+        <item>Ai ceva bun de oferit lumii.</item>
+        <item>Începe ce o să te bucuri mai târziu că ai început.</item>
+        <item>Un proiect personal îți schimbă relația cu timpul.</item>
+        <item>Creația e cel mai bun mod de a-ți ocupa mintea.</item>
+        <item>Poți termina ceva azi.</item>
+        <item>Pune mâna pe ceva real.</item>
+        <item>Nimic nu înlocuiește senzația de lucru făcut.</item>
+        <item>E în regulă că ai ajuns aici. Acum respiră.</item>
+        <item>Nimeni nu ține socoteala. Doar mergi înainte.</item>
+        <item>Mergi bine, chiar dacă nu pare așa.</item>
+        <item>Fără grabă și fără presiune. Doar o pauză.</item>
+        <item>Nu e un test. E doar un memento blând.</item>
+        <item>Încerci, și asta e deja destul.</item>
+        <item>Totul e în regulă. Închide și vezi-ți de zi.</item>
+        <item>Aici nu e vorba să-ți iasă mereu totul.</item>
+        <item>Azi meriți să-ți fie ușor.</item>
+        <item>Fără dramă. Doar o clipă ca să respiri.</item>
+        <item>E un loc liniștit. Rămâi o clipă.</item>
+        <item>Faci tot ce poți. Asta contează.</item>
+        <item>Nicio presiune aici. Doar grijă.</item>
+        <item>Respiră. Nu e nimic în neregulă.</item>
+        <item>Ai ajuns până aici, și asta e deja bine.</item>
+        <item>Nu te judecă nimeni. Nici tu n-ar trebui.</item>
+        <item>Totul e în ordine. Continuă.</item>
+        <item>Câte un pas pe rând e ritmul potrivit.</item>
+        <item>Nu trebuie să-ți iasă perfect.</item>
+        <item>Încet tot înseamnă că mergi înainte.</item>
+        <item>Ecranul ăsta nu-ți cere nimic.</item>
+        <item>Poartă-te frumos cu tine acum.</item>
+        <item>E normal să simți pofta. Face parte din proces.</item>
+        <item>Ai grijă de tine. E frumos.</item>
+        <item>Fără alarmă, fără grabă, fără sperieturi.</item>
+        <item>Ești om. E voie să fii.</item>
+        <item>Nu trebuie să dai explicații nimănui.</item>
+        <item>Respiră adânc. A trecut deja.</item>
+        <item>Aici ești în siguranță.</item>
+        <item>E în regulă dacă azi e greu.</item>
+        <item>Nicio zi nu seamănă cu alta. Nici asta.</item>
+        <item>Ești pe drum, chiar dacă încet.</item>
+        <item>Lasă puțin deoparte presiunea.</item>
+        <item>Totul e bine. Doar o gură de aer.</item>
+        <item>Nu trebuie să fii mereu bine.</item>
+        <item>Blândețea cu tine merge mai bine decât asprimea.</item>
+        <item>Clipa asta o să treacă liniștit.</item>
+        <item>Partea grea de azi ai făcut-o deja.</item>
+        <item>Nimic urgent. Nimic grav. Doar o pauză.</item>
+        <item>Zâmbește. E mai mic decât pare.</item>
+        <item>Important e că încerci.</item>
+        <item>N-ai de dat socoteală. Vezi-ți de drum.</item>
+        <item>E în regulă. Pe bune.</item>
+        <item>Meriți o zi ușoară.</item>
+        <item>Respiră. Lumea se învârte mai departe.</item>
+        <item>Azi nu te grăbește nimic.</item>
+        <item>Alegerea asta te lasă în pace cu tine.</item>
+        <item>Poți s-o iei de la capăt de câte ori e nevoie.</item>
+        <item>Aici e un loc fără presiune.</item>
+        <item>Ai răbdare cu procesul.</item>
+        <item>Nu ai rămas în urmă cu nimic.</item>
+        <item>E în regulă să nu fii sută la sută.</item>
+        <item>Pauza asta e un gest de grijă, nu o corectare.</item>
+        <item>Acum poți pur și simplu să mergi mai departe.</item>
+        <item>Fără încordare. Doar o clipă.</item>
+        <item>E în regulă dacă a fost din reflex.</item>
+        <item>N-ai nevoie de un motiv ca să fii bine.</item>
+        <item>Respiră și continuă. E simplu.</item>
+        <item>Nicio problemă aici.</item>
+        <item>Faci totul cum trebuie.</item>
+        <item>Chiar e în regulă. Mergi în pace.</item>
+        <item>Clipa asta e a ta, ca să te odihnești.</item>
+        <item>Nu doar tu treci prin asta.</item>
+        <item>Totul e liniștit. Continuă-ți ziua.</item>
+        <item>Fără apăsare. Doar un memento.</item>
+        <item>Ești deja de ajuns.</item>
+        <item>Liniștea pe care o cauți nu e în feed.</item>
+        <item>Cu tine totul e în regulă.</item>
+        <item>Odihnește-ți mintea o secundă.</item>
+        <item>Meriți grija asta.</item>
+        <item>Nimic nu trebuie rezolvat acum.</item>
+        <item>Respiră o dată. Apoi mergi mai departe.</item>
+        <item>Ești bine. Atât.</item>
+        <item>Fără pretenții, fără socoteli, fără scor.</item>
+        <item>O clipă de liniște în mijlocul zilei.</item>
+        <item>Îți poți arăta acum puțină blândețe.</item>
+        <item>E pace acum.</item>
+        <item>N-ai de ce să te grăbești.</item>
+        <item>Azi ai făcut ce ai putut.</item>
+        <item>E bine așa. Mâine e altă zi.</item>
+        <item>Clipa asta e doar o respirație.</item>
+        <item>Ești în siguranță, și asta ajunge.</item>
+        <item>Aici nu judecă nimeni.</item>
+        <item>Doar respiră și du-te să trăiești.</item>
+        <item>Azi meriți liniște.</item>
+        <item>Orice ritm e bun.</item>
+        <item>Lasă-ți capul să se odihnească puțin.</item>
+        <item>Aici ai mereu locul tău.</item>
+        <item>Nicio sperietură. Doar o oprire scurtă.</item>
+        <item>Azi viața nu e o cursă.</item>
+        <item>Ești cu totul aici, și e destul.</item>
+        <item>E bine că ai încercat.</item>
+        <item>Nimic de aici nu e împotriva ta.</item>
+        <item>Respiră și continuă încet.</item>
+        <item>Ești bine așa cum ești.</item>
+        <item>E o clipă de pace.</item>
+        <item>Fără nicio apăsare. Mergi cu pas ușor.</item>
+        <item>Ai voie să te odihnești.</item>
+        <item>Pe aici e liniște.</item>
+        <item>Ia-o încet. Ziua te așteaptă.</item>
+        <item>Blândețea față de tine e o formă de putere.</item>
+        <item>Ce ai face acum dacă aplicația asta n-ar exista.</item>
+        <item>Ești aici pentru că vrei sau din obișnuință.</item>
+        <item>Ce căutai, de fapt.</item>
+        <item>O să conteze asta mâine dimineață.</item>
+        <item>O să-ți amintești ce ai vedea acum.</item>
+        <item>Ce făceai înainte să iei telefonul în mână.</item>
+        <item>Cât timp vrei să-i dai azi.</item>
+        <item>E plictiseală sau oboseală.</item>
+        <item>Ce ar putea fi după-amiaza ta în loc de asta.</item>
+        <item>Chiar merită.</item>
+        <item>Ai deschis-o cu un motiv anume.</item>
+        <item>Ce ai amâna încă o dată dacă ai intra acum.</item>
+        <item>Cine vrei să fii peste un an.</item>
+        <item>Ce ți-ar face cu adevărat bine acum.</item>
+        <item>Fugi de ceva.</item>
+        <item>Ce-ar fi să faci lucrul acela pe care tot îl amâni.</item>
+        <item>Ce s-ar întâmpla dacă pur și simplu ai închide.</item>
+        <item>Ai ceva mai bun de făcut. Ce anume.</item>
+        <item>E odihnă sau e fugă.</item>
+        <item>Ce te-ar ruga să faci varianta ta de mâine.</item>
+        <item>Ți-e foame, ți-e somn sau te plictisești.</item>
+        <item>Când te-a făcut feedul ultima oară să te simți mai bine.</item>
+        <item>Ce vrei să simți la sfârșitul zilei.</item>
+        <item>Ce-ți lipsește acum.</item>
+        <item>Ai nevoie de asta sau doar vrei.</item>
+        <item>Ce lucru mic ți-ar face ziua mai bună acum.</item>
+        <item>Ce ai face cu două ore libere.</item>
+        <item>Știi deja ce ar trebui să faci.</item>
+        <item>Cât costă de fapt cele cincisprezece minute.</item>
+        <item>Vrei asta sau doar mâna se mișcă singură.</item>
+        <item>Ce ar merita mai mult acum.</item>
+        <item>E totul în regulă la tine.</item>
+        <item>Care ar fi cea mai bună alegere acum, la rece.</item>
+        <item>O să te mândrești cu jumătatea asta de oră.</item>
+        <item>Ce ai face dacă nu te-ar vedea nimeni.</item>
+        <item>E cineva pe care l-ai putea suna acum.</item>
+        <item>Ce încearcă mintea ta să evite.</item>
+        <item>Merită să-ți dai după-amiaza pe asta.</item>
+        <item>Ai un plan pentru azi. Asta face parte din el.</item>
+        <item>Care ar fi cel mai fain lucru de făcut acum.</item>
+        <item>Sincer, ești bine.</item>
+        <item>Ce ar face săptămâna asta să merite.</item>
+        <item>E ce vrei sau e ce faci de obicei.</item>
+        <item>Te-ai gândit deja ce vrei să faci mâine.</item>
+        <item>De câte ori ai luat azi telefonul în mână.</item>
+        <item>Ce te-ar mulțumi peste o oră.</item>
+        <item>Vrei să intri sau doar degetul merge pe pilot automat.</item>
+        <item>Care e lucrul important pe care îl lași pe mai târziu.</item>
+        <item>Ce ar crede despre asta varianta ta de acum zece ani.</item>
+        <item>Chiar te odihnești.</item>
+        <item>E ceva ce ai face dacă ai avea curaj.</item>
+        <item>Ce ți-ar plăcea să fi făcut în seara asta.</item>
+        <item>Valorează mai mult decât o discuție.</item>
+        <item>Pentru ce ai timp azi.</item>
+        <item>Ce obicei vrei să ai peste șase luni.</item>
+        <item>Ce îți cere cu adevărat atenția.</item>
+        <item>Preferi să-ți amintești de după-amiaza asta sau s-o uiți.</item>
+        <item>Cum ai putea folosi bine clipa asta.</item>
+        <item>Ești aici ca să vezi ceva sau ca să nu simți ceva.</item>
+        <item>Ce te-ar ajuta să dormi bine la noapte.</item>
+        <item>Asta adaugă sau scade din ziua ta.</item>
+        <item>Chiar vrei să știi ce e acolo.</item>
+        <item>Care e ultimul lucru bun pe care l-ai făcut fără ecran.</item>
+        <item>Ce ai face într-o după-amiază fără internet.</item>
+        <item>Încotro te grăbești.</item>
+        <item>Ce pas mic ai putea face acum.</item>
+        <item>Ce are nevoie de atenția ta mai mult decât asta.</item>
+        <item>Ai respirat adânc azi.</item>
+        <item>Care e planul tău pentru ora următoare.</item>
+        <item>Asta te apropie de ceva ce îți dorești.</item>
+        <item>Ai face asta în fața cuiva pe care îl admiri.</item>
+        <item>Ce lucru bun s-a întâmplat azi.</item>
+        <item>Cât din ziua ta s-a dus deja pe ecrane.</item>
+        <item>Ai o idee pusă pe pauză, care așteaptă.</item>
+        <item>Ce vrei să faci cu săptămâna asta.</item>
+        <item>Merită să schimbi liniștea pe zgomot.</item>
+        <item>Azi creezi sau consumi.</item>
+        <item>Ce lucru simplu ți-ar prinde bine acum.</item>
+        <item>Ce i-ai spune unui prieten în situația asta.</item>
+        <item>Ai cinci minute. Pentru ce.</item>
+        <item>Ce te deranjează de fapt.</item>
+        <item>E asta cel mai bun lucru pe care îl poți face acum.</item>
+        <item>Tu controlezi clipa asta.</item>
+        <item>Cu ce decizie te-ai mândri mai târziu.</item>
+        <item>Ce vrei să fi făcut când se termină ziua.</item>
+        <item>Îți amintești de ce ai instalat asta.</item>
+        <item>Ce-ar fi s-o lași pe mai târziu și să vezi dacă încă vrei.</item>
+        <item>Ce ai face azi dacă ai avea mai mult curaj.</item>
+        <item>Vrei varianta rapidă sau varianta bună a zilei tale.</item>
+        <item>Care e lucrul pe care doar tu îl poți face azi.</item>
+        <item>Ce te așteaptă afară.</item>
+        <item>Ai mulțumit azi pentru ceva.</item>
+        <item>Cât valorează pentru tine următoarea jumătate de oră.</item>
+        <item>Ce vrei să rămână cu tine din săptămâna asta.</item>
+        <item>E urgent sau doar pare.</item>
+        <item>Faci ce vrei să faci.</item>
+        <item>Care ar fi un final bun pentru ziua asta.</item>
+        <item>Ce ai face cu mintea odihnită.</item>
+        <item>Acum preferi să dai scroll sau să trăiești.</item>
+        <item>Ce-ar fi să închizi pur și simplu și să vezi ce se întâmplă.</item>
+    </string-array>
+</resources>

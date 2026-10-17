@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">%1$s diblokir.</string>
+    <string name="aceleralock_block_title_unknown">Aplikasi ini diblokir.</string>
+    <string name="aceleralock_block_close">Tutup</string>
+    <string name="aceleralock_notification_channel">Perlindungan aktif</string>
+    <string name="aceleralock_notification_text">Perlindungan aktif</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: blokir situs</string>
+    <string name="aceleralock_site_accessibility_description">Hanya membaca alamat di bilah Chrome, Samsung Internet, Firefox, Edge, dan Brave untuk memblokir situs yang kamu pilih. Tidak ada yang disimpan dan tidak ada yang keluar dari perangkat.</string>
+</resources>

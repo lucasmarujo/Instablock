@@ -4,6 +4,8 @@
  * — importar `@/native/blocker` chamaria `requireNativeModule` no teste.
  */
 
+import type { Textos } from '../../i18n/catalogo';
+
 type Permissoes = {
   usageAccess: boolean;
   overlay: boolean;
@@ -24,45 +26,36 @@ export type ItemDePermissao = {
   intent: string | null;
 };
 
-const ITENS: Omit<ItemDePermissao, 'concedida'>[] = [
+type TextosDaPermissao = Textos['ajustes']['permissoes']['acessoAoUso'];
+
+const ITENS: {
+  chave: keyof Permissoes;
+  textos: (t: Textos) => TextosDaPermissao;
+  intent: string | null;
+}[] = [
   {
     chave: 'usageAccess',
-    titulo: 'Acesso ao uso',
-    descricao: 'Mede o tempo de tela',
-    rotuloConcedida: 'Concedida',
-    rotuloAcao: 'Corrigir',
+    textos: (t) => t.ajustes.permissoes.acessoAoUso,
     intent: 'android.settings.USAGE_ACCESS_SETTINGS',
   },
   {
     chave: 'overlay',
-    titulo: 'Sobrepor outros apps',
-    descricao: 'Mostra a tela de bloqueio',
-    rotuloConcedida: 'Concedida',
-    rotuloAcao: 'Corrigir',
+    textos: (t) => t.ajustes.permissoes.sobreporApps,
     intent: 'android.settings.action.MANAGE_OVERLAY_PERMISSION',
   },
   {
     chave: 'accessibility',
-    titulo: 'Leitura do navegador',
-    descricao: 'Bloqueia os sites',
-    rotuloConcedida: 'Ativa',
-    rotuloAcao: 'Ativar',
+    textos: (t) => t.ajustes.permissoes.leituraDoNavegador,
     intent: 'android.settings.ACCESSIBILITY_SETTINGS',
   },
   {
     chave: 'batteryExempt',
-    titulo: 'Bateria sem otimização',
-    descricao: 'Evita que o Android pare a proteção',
-    rotuloConcedida: 'Sim',
-    rotuloAcao: 'Corrigir',
+    textos: (t) => t.ajustes.permissoes.bateriaSemOtimizacao,
     intent: 'android.settings.IGNORE_BATTERY_OPTIMIZATION_SETTINGS',
   },
   {
     chave: 'notifications',
-    titulo: 'Notificações',
-    descricao: 'Mantém o aviso de proteção ativa',
-    rotuloConcedida: 'Ativadas',
-    rotuloAcao: 'Ativar',
+    textos: (t) => t.ajustes.permissoes.notificacoes,
     intent: null,
   },
 ];
@@ -75,10 +68,22 @@ const ITENS: Omit<ItemDePermissao, 'concedida'>[] = [
  */
 export function itensDePermissao(
   permissoes: Permissoes | null,
-  plataforma: 'android' | 'ios'
+  plataforma: 'android' | 'ios',
+  t: Textos
 ): ItemDePermissao[] {
   return ITENS.filter((item) => plataforma === 'android' || item.chave !== 'accessibility').map(
-    (item) => ({ ...item, concedida: permissoes?.[item.chave] === true })
+    ({ chave, textos, intent }) => {
+      const { titulo, descricao, concedida, acao } = textos(t);
+      return {
+        chave,
+        titulo,
+        descricao,
+        concedida: permissoes?.[chave] === true,
+        rotuloConcedida: concedida,
+        rotuloAcao: acao,
+        intent,
+      };
+    }
   );
 }
 

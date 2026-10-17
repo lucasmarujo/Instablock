@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Bahasa Melayu: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>Masa yang tidak anda habiskan di sini kembali sepenuhnya kepada hidup anda.</item>
+        <item>Setiap minit di luar skrin ini kembali menjadi milik anda.</item>
+        <item>Dua puluh minit ini cukup untuk sekali berjalan kaki.</item>
+        <item>Hari anda lebih lapang daripada yang disangka apabila tatalan berhenti.</item>
+        <item>Anda baru sahaja mendapatkan semula sebahagian petang anda.</item>
+        <item>Sejam sehari bersamaan lima belas hari setahun.</item>
+        <item>Masa tidak berpatah balik, tetapi anda masih boleh memilih ke mana ia pergi.</item>
+        <item>Ruang masa ini milik anda. Tiada siapa perlu tahu apa yang anda buat dengannya.</item>
+        <item>Ada seluruh kehidupan sedang berlaku di luar apl ini.</item>
+        <item>Jam berdetik sama laju di kedua-dua belah skrin ini.</item>
+        <item>Anda baru membeli masa. Gunakannya untuk sesuatu yang anda ingat esok.</item>
+        <item>Tiada siapa tiba di penghujung hari dan berharap dia menatal suapan lebih lama.</item>
+        <item>Lima belas minit di sini sama dengan lima belas minit di mana-mana tempat lain.</item>
+        <item>Fikirkan apa yang anda buat dengan setengah jam ini sepuluh tahun dahulu.</item>
+        <item>Masa ialah satu-satunya perkara yang tidak dapat anda beli semula.</item>
+        <item>Sepanjang petang masih terbentang di hadapan anda.</item>
+        <item>Minit ini boleh menjadi permulaan sesuatu yang lain.</item>
+        <item>Anda sedang memulangkan masa kepada diri sendiri, sejam demi sejam.</item>
+        <item>Masa yang dijimatkan di sini tidak hilang. Ia muncul semula di tempat lain.</item>
+        <item>Sepuluh minit nampak sedikit sehingga anda menjumlahkannya selama sebulan.</item>
+        <item>Hidup berjalan pada kelajuan biasa, bukan kelajuan suapan.</item>
+        <item>Hari ini anda ada lebih banyak masa berbanding semalam pada waktu yang sama.</item>
+        <item>Perkara yang anda asyik tangguhkan muat tepat dalam ruang masa ini.</item>
+        <item>Jeda ini singkat. Apa yang anda buat dengannya mungkin bertahan lama.</item>
+        <item>Sehari mampu memuatkan banyak perkara apabila tatalan tidak menghalang.</item>
+        <item>Anda baru sahaja mendapat semula baki malam ini.</item>
+        <item>Masa ialah mata wangnya. Anda baru memutuskan untuk tidak membelanjakannya.</item>
+        <item>Suapan tidak pernah habis. Hari anda ada penghujungnya.</item>
+        <item>Setengah jam sehari cukup untuk sebuah buku sebulan.</item>
+        <item>Tiada apa yang mendesak sedang menunggu anda di dalam sana.</item>
+        <item>Masa ini memang milik anda. Kini ia kembali kepada anda.</item>
+        <item>Pagi ini masih boleh bermakna jika ia bermula sekarang.</item>
+        <item>Anda tidak terlepas apa-apa. Anda mendapat ruang rehat.</item>
+        <item>Tiada siapa memulangkan masa kepada kita. Kitalah yang menjaganya.</item>
+        <item>Minit-minit ini lebih berharga di luar sana, dan anda sudah tahu.</item>
+        <item>Apa yang ada di sana akan tetap ada. Masa anda yang tidak akan menunggu.</item>
+        <item>Sebuah kehidupan terbina daripada petang-petang seperti ini.</item>
+        <item>Anda boleh menamatkan hari dengan sesuatu yang dibuat, bukan sekadar ditonton.</item>
+        <item>Dua jam sehari bersamaan sebulan penuh setahun.</item>
+        <item>Masa yang anda jaga hari ini ialah masa yang tinggal untuk esok.</item>
+        <item>Inilah bahagian hari yang hanya anda tentukan.</item>
+        <item>Tiada apa yang ditulis di dalam sana yang setimpal dengan petang anda.</item>
+        <item>Tiga puluh minit sehari mampu membina apa sahaja dalam setahun.</item>
+        <item>Anda baru sahaja membeli secebis ketenangan.</item>
+        <item>Hari menjadi lebih panjang apabila suapan menjadi lebih pendek.</item>
+        <item>Masa ini kini bahan mentah. Bina sesuatu dengannya.</item>
+        <item>Ada projek anda yang sedang menunggu ruang masa seperti ini.</item>
+        <item>Apa yang anda peroleh di sini tidak muncul di mana-mana skrin, hanya dalam hidup anda.</item>
+        <item>Masa lapang memang jarang. Anda baru sahaja menciptanya.</item>
+        <item>Tiada siapa di penghujung hayat meminta satu tatalan lagi.</item>
+        <item>Anda ada sepanjang petang, dan ia belum lagi digunakan.</item>
+        <item>Setahun ialah tiga ratus enam puluh lima pilihan seperti ini.</item>
+        <item>Ruang masa ini kecil, tetapi ia milik anda sepenuhnya.</item>
+        <item>Masa berlalu sama sahaja. Bezanya ialah apa yang tinggal selepas itu.</item>
+        <item>Anda baru sahaja menyelamatkan setengah jam daripada autopilot.</item>
+        <item>Baki hari anda berterima kasih atas hentian ini.</item>
+        <item>Lima minit di sana menjadi empat puluh tanpa disedari.</item>
+        <item>Anda tahu harga lima minit itu. Sebab itu anda ada di sini.</item>
+        <item>Jam yang anda jaga sekarang ialah jam yang anda cari pada waktu malam.</item>
+        <item>Tiada apa di dalam sana menjadi lebih baik kerana anda melihatnya sekarang, bukan nanti.</item>
+        <item>Anda baru sahaja memilih ke mana minit seterusnya pergi.</item>
+        <item>Masa ini cukup untuk berbual, berjalan kaki atau tidur sekejap.</item>
+        <item>Hari menjadi bermakna apabila jam berhenti mengalir pergi.</item>
+        <item>Anda satu-satunya pemilik setengah jam yang akan datang.</item>
+        <item>Ada versi hari ini yang anda isi dengan sesuatu. Ia bermula sekarang.</item>
+        <item>Masa tidak boleh disimpan. Ia hanya digunakan dengan lebih baik atau lebih buruk.</item>
+        <item>Minit-minit ini boleh menjadi rehat yang sebenar.</item>
+        <item>Anda baru sahaja keluar dari putaran yang tidak membawa ke mana-mana.</item>
+        <item>Seminggu ada seratus enam puluh lapan jam. Jam yang ini milik anda.</item>
+        <item>Suapan mencuri masa sedikit demi sedikit supaya tiada siapa perasan.</item>
+        <item>Sekarang anda boleh buat perkara yang setiap hari ditangguhkan ke esok.</item>
+        <item>Petang anda tidak perlu dimuatkan ke dalam sebuah skrin.</item>
+        <item>Masa yang berbaki itulah yang membuatkan hari terasa panjang dengan cara yang baik.</item>
+        <item>Anda baru sahaja memulangkan sejam yang akan datang kepada diri sendiri.</item>
+        <item>Apa yang anda akan lihat sekarang tidak akan anda ingat seminggu lagi.</item>
+        <item>Minit seperti inilah yang membina atau meleraikan setahun.</item>
+        <item>Anda mendapat masa. Tidak perlu terburu-buru menghabiskannya.</item>
+        <item>Hari tanpa tatalan ialah hari yang muat lebih banyak perkara.</item>
+        <item>Jam tidak membezakan masa berharga dengan masa terbuang. Anda yang membezakannya.</item>
+        <item>Jam ini sama berharganya dengan mana-mana jam lain dalam hidup anda.</item>
+        <item>Anda ada masa sekarang. Itu lebih jarang daripada yang disangka.</item>
+        <item>Menjaga masa ialah satu-satunya cara untuk memiliki masa.</item>
+        <item>Sepanjang malam masih menanti di hadapan.</item>
+        <item>Minit-minit ini permulaan petang yang akan anda kenang.</item>
+        <item>Anda baru sahaja terselamat daripada terperangkap sejam di sana.</item>
+        <item>Setiap perkara yang memerlukan masa memerlukan keputusan seperti ini.</item>
+        <item>Masa antara sekarang dan makan malam masih cukup untuk banyak perkara.</item>
+        <item>Anda sudah melepaskan pedal minyak. Hari pun turut menjadi perlahan.</item>
+        <item>Minggu anda ada ruang. Cuma tadi ia diisi oleh perkara lain.</item>
+        <item>Setiap kali anda menutup di sini, hari anda bertambah sedikit.</item>
+        <item>Masa ialah hadiah untuk diri sendiri yang tidak memerlukan belanja.</item>
+        <item>Anda kini ada tepat apa yang sepanjang hari anda kata tiada.</item>
+        <item>Petang yang panjang terbina daripada keputusan ringkas seperti ini.</item>
+        <item>Tiada siapa akan bertanya apa yang anda buat dengan setengah jam ini.</item>
+        <item>Masa yang tidak anda serahkan hari ini masih bersama anda esok.</item>
+        <item>Dua puluh minit sehari bersamaan seratus dua puluh jam setahun.</item>
+        <item>Anda baru sahaja mendapatkan semula masa sebelum tidur.</item>
+        <item>Banyak kehidupan berlaku di antara satu pemberitahuan dengan yang lain.</item>
+        <item>Seluruh hari muat di sini jika anda tidak menyerahkannya sedikit demi sedikit.</item>
+        <item>Anda sudah banyak menjaga masa sejauh ini. Ini satu lagi.</item>
+        <item>Perhatian anda ialah aset paling direbut di dunia. Anda baru sahaja menang.</item>
+        <item>Fokus mengambil masa dua puluh minit untuk kembali. Jangan lepaskannya sekarang.</item>
+        <item>Fikiran yang utuh lebih berharga daripada fikiran yang bercebis-cebis.</item>
+        <item>Anda sedang menumpukan perhatian pada sesuatu sebelum datang ke sini.</item>
+        <item>Perhatian yang berbelah bahagi bukan perhatian. Ia cuma keletihan.</item>
+        <item>Apa yang anda sedang buat tadi layak mendapat diri anda sepenuhnya.</item>
+        <item>Berfikir secara mendalam memerlukan masa tanpa gangguan. Inilah masanya.</item>
+        <item>Setiap pertukaran skrin lebih mahal harganya daripada yang ditunjukkan jam.</item>
+        <item>Minda anda sedang berjalan lancar. Biarkan ia teruskan.</item>
+        <item>Kerja yang mendalam tidak bertahan dengan satu tatalan suapan.</item>
+        <item>Suapan direka untuk mencuri perhatian anda. Anda menyedarinya.</item>
+        <item>Fikiran yang panjang memerlukan ketenangan untuk selesai.</item>
+        <item>Anda mampu memegang satu idea penuh dalam fikiran. Cuma perlukan ruang.</item>
+        <item>Gangguan bukan rehat. Rehat yang sebenar memulihkan.</item>
+        <item>Tumpuan yang anda ada tadi masih di situ. Kembalilah kepadanya.</item>
+        <item>Perhatian anda tidak untuk dijual hari ini.</item>
+        <item>Fikiran terbaik anda muncul selepas minit kedua puluh.</item>
+        <item>Terganggu sekarang lebih mahal harganya daripada yang disangka.</item>
+        <item>Anda mampu melakukan perkara yang memerlukan fokus. Mulakan dengan menjaganya.</item>
+        <item>Tiada apa di dalam sana memerlukan perhatian anda dengan segera.</item>
+        <item>Sejam yang fokus menghasilkan lebih banyak daripada empat jam yang terputus-putus.</item>
+        <item>Fikiran anda berfungsi lebih baik apabila tidak berpindah-pindah topik.</item>
+        <item>Apa yang tertinggal separuh jalan masih boleh disiapkan hari ini.</item>
+        <item>Fokus bukan soal kemahuan. Ia soal persekitaran. Anda baru sahaja menyusun persekitaran anda.</item>
+        <item>Masalah sukar itu akan terurai apabila anda terus bersamanya.</item>
+        <item>Perhatian anda terhad. Sebab itulah ia begitu berharga.</item>
+        <item>Anda tidak perlu tahu semuanya sekarang.</item>
+        <item>Kebisingan itu akan terus ada. Ketenangan anda yang jarang ditemui.</item>
+        <item>Perkara besar dihasilkan oleh orang yang tidak diganggu.</item>
+        <item>Kembali kepada apa yang anda buat tadi. Fikiran anda masih di sana.</item>
+        <item>Satu tugas pada satu masa lebih pantas daripada yang disangka.</item>
+        <item>Desakan untuk melihat akan berlalu. Idea yang terputus kadangkala tidak kembali.</item>
+        <item>Keupayaan tumpuan anda lebih besar daripada yang anda gunakan sekarang.</item>
+        <item>Berfikir dengan baik memang perlahan. Biarkan ia perlahan.</item>
+        <item>Perhatian anda sudah membina sesuatu hari ini. Jangan robohkannya kerana ingin tahu.</item>
+        <item>Perkara yang memerlukan fikiran memerlukan seluruh fikiran anda.</item>
+        <item>Tiada suapan yang dapat mengajar apa yang diajar oleh sejam fokus.</item>
+        <item>Setiap pemberitahuan yang diabaikan membawa sedikit lagi kejelasan.</item>
+        <item>Anda hampir memahaminya tadi. Kembalilah ke sana.</item>
+        <item>Minda yang segar ialah minda yang tidak ditarik ke sana sini sepanjang hari.</item>
+        <item>Perhatian anda ialah bahan untuk membina segala yang lain.</item>
+        <item>Yang sukar ialah bermula. Anda sudah bermula. Jangan mula semula dari kosong.</item>
+        <item>Biarkan perkara itu tenang dan ia akan selesai sendiri dalam fikiran anda.</item>
+        <item>Kejelasan muncul apabila kebisingan berhenti.</item>
+        <item>Kerja terbaik anda hari ini belum lagi berlaku.</item>
+        <item>Bukan kekurangan masa. Kekurangan masa yang tidak terputus.</item>
+        <item>Anda berfikir lebih baik daripada yang dibenarkan oleh suapan.</item>
+        <item>Tulisan itu, kod itu, perbualan itu. Semuanya menunggu anda sepenuhnya.</item>
+        <item>Tumpuan ialah otot. Ia menjadi kuat dengan hari seperti hari ini.</item>
+        <item>Fikiran anda baru sahaja berterima kasih.</item>
+        <item>Satu perkara pada satu masa masih teknik paling canggih yang ada.</item>
+        <item>Apa yang anda buat dengan perhatian akan kekal. Yang lain berlalu.</item>
+        <item>Tiada jalan pintas untuk berfikir. Hanya masa tanpa gangguan.</item>
+        <item>Anda layak menyudahkan satu aliran fikiran.</item>
+        <item>Minda anda sedang tajam. Jangan lepaskan rentak itu.</item>
+        <item>Skrin berkelip. Idea tidak. Kekal bersama idea anda.</item>
+        <item>Sehari yang fokus menyamai tiga hari yang kelam-kabut.</item>
+        <item>Anda bukan lambat. Anda cuma asyik diganggu.</item>
+        <item>Perkara yang penting hari ini tiada dalam suapan.</item>
+        <item>Kekal di landasan lebih murah daripada mencarinya semula.</item>
+        <item>Perhatian penuh anda ialah hadiah. Berikan kepada yang layak.</item>
+        <item>Dalam ketenanganlah idea yang baik muncul.</item>
+        <item>Anda sedang berada di tengah-tengah sesuatu yang baik.</item>
+        <item>Tiada siapa boleh berfikir dengan jelas jika fikirannya di sepuluh tempat.</item>
+        <item>Kedalaman hanya muncul selepas beberapa ketika di permukaan.</item>
+        <item>Fokus bukan tentang membuat lebih banyak. Ia tentang membuat dengan baik.</item>
+        <item>Anda ada satu perkara penting hari ini. Bukan suapan.</item>
+        <item>Biarkan fikiran anda menghabiskan ayat yang telah dimulakannya.</item>
+        <item>Sejam tanpa gangguan mengubah apa yang mungkin dalam sehari.</item>
+        <item>Apa yang nampak sukar sekarang menjadi mudah dengan perhatian berterusan.</item>
+        <item>Tumpuan anda ialah kelebihan anda. Tidak ramai yang masih memilikinya.</item>
+        <item>Jangan tukar satu perkara penting dengan banyak perkara pantas.</item>
+        <item>Rasa ingin tahu boleh menunggu. Fokus tidak menunggu.</item>
+        <item>Anda sedang membina sesuatu. Teruskan.</item>
+        <item>Bertukar-tukar tugas nampak produktif, tetapi hampir tidak pernah begitu.</item>
+        <item>Penggunaan terbaik fikiran anda hari ini masih tersedia.</item>
+        <item>Perhatian yang anda simpan sekarang akan terlihat pada hasilnya nanti.</item>
+        <item>Minda anda bukan suapan. Ia menyimpan apa yang anda beri perhatian.</item>
+        <item>Jarang ada perkara yang layak mendapat anda sepenuhnya. Manfaatkannya.</item>
+        <item>Sukar bukan mustahil. Cuma ambil masa.</item>
+        <item>Anda hanya beberapa minit lagi untuk menyelesaikan perkara itu.</item>
+        <item>Kebisingan hilang apabila anda berhenti menyuapnya.</item>
+        <item>Teruskan apa yang anda buat tadi sehingga selesai.</item>
+        <item>Satu selaman dalam lebih berbaloi daripada sepuluh selaman cetek.</item>
+        <item>Perhatian anda menentukan apa yang menjadi kenangan.</item>
+        <item>Anda ingat apa yang anda beri perhatian. Hanya itu.</item>
+        <item>Berfikir ialah perkara paling menguntungkan yang anda lakukan hari ini.</item>
+        <item>Fikiran yang tenang menyelesaikan apa yang tidak dilihat oleh fikiran yang tergesa-gesa.</item>
+        <item>Kerja yang baik menuntut kesabaran, bukan kelajuan.</item>
+        <item>Tiada apa yang anda akan lihat sekarang akan menjadi bahan perbualan esok.</item>
+        <item>Kejelasan fikiran anda hari ini bermula dengan keputusan seperti ini.</item>
+        <item>Gangguan ialah cukai paling mahal yang wujud.</item>
+        <item>Anda mampu bertahan pada satu perkara lebih lama daripada yang anda sangka.</item>
+        <item>Butiran yang terlepas daripada anda tadi akan muncul dalam ketenangan.</item>
+        <item>Fokus akan kembali. Ia cuma perlukan beberapa minit tanpa skrin.</item>
+        <item>Anda mampu memberi perhatian yang lama. Suapan sahaja yang bertaruh sebaliknya.</item>
+        <item>Menyiapkan satu perkara hari ini lebih bernilai daripada memulakan lima.</item>
+        <item>Perhatian penuh anda jarang berlaku, malah untuk diri anda sendiri.</item>
+        <item>Beri ruang untuk fikiran bernafas.</item>
+        <item>Apa yang anda bina dengan fokus tidak boleh ditatal pergi oleh sesiapa.</item>
+        <item>Keinginan untuk membuka akan berlalu dalam beberapa minit. Ia sentiasa berlalu.</item>
+        <item>Dorongan ini ada tarikh luputnya. Ia akan luput sendiri.</item>
+        <item>Anda tidak perlu buat apa-apa. Cuma tunggu ombak itu surut.</item>
+        <item>Desakan yang anda rasa sekarang bukan milik anda. Ia diajar kepada anda.</item>
+        <item>Tarik nafas sekali. Keinginan itu sudah lebih kecil daripada seminit tadi.</item>
+        <item>Dorongan itu kuat pada mulanya dan hilang di pertengahan jalan.</item>
+        <item>Bukan anda yang mahu. Tabiat yang meminta.</item>
+        <item>Rasa tidak selesa ini sekejap sahaja. Kemudian ia berlalu.</item>
+        <item>Anda pernah merasainya sebelum ini dan berjaya melaluinya setiap kali.</item>
+        <item>Keinginan datang seperti ombak. Ombak akan pecah.</item>
+        <item>Tiada siapa perlu menurut dorongan pertama hari ini.</item>
+        <item>Rasa sesak di dada ini berlalu lebih cepat daripada sebuah lagu.</item>
+        <item>Anda lebih besar daripada dorongan tiga puluh saat.</item>
+        <item>Biarkan keinginan itu berlalu tanpa melayannya.</item>
+        <item>Rasa tidak selesa ini ialah tabiat yang sedang melonggar. Itulah kemajuan.</item>
+        <item>Anda bukan sedang melawan. Anda cuma sedang menunggu.</item>
+        <item>Keinginan datang dengan kuat dan pergi dengan senyap.</item>
+        <item>Kira sampai dua puluh. Ia sudah akan berkurang.</item>
+        <item>Rasa ingin tidak sama dengan perlu.</item>
+        <item>Dorongan itu mahukan jawapan segera. Jangan berikan apa-apa.</item>
+        <item>Inilah detik paling sukar, dan ia singkat.</item>
+        <item>Anda tidak perlu bertarung. Cuma jangan buat keputusan sekarang.</item>
+        <item>Keinginan hilang apabila tiada siapa melayannya.</item>
+        <item>Ini rasa cemas, bukan lapar akan kandungan.</item>
+        <item>Perhatikan keinginan itu tanpa terjun ke dalamnya.</item>
+        <item>Otak meminta yang biasa. Anda tidak wajib menghidangkannya.</item>
+        <item>Lima minit lagi, anda pun lupa yang anda mahu membukanya.</item>
+        <item>Ombak sedang naik sekarang. Ia sentiasa turun semula.</item>
+        <item>Anda sudah melepasi bahagian yang paling teruk.</item>
+        <item>Dorongan itu berbohong tentang kekuatannya sendiri.</item>
+        <item>Bangun, minum air, kembali. Ia sudah pergi.</item>
+        <item>Keinginan bukan arahan.</item>
+        <item>Anda boleh merasainya dan tidak buat apa-apa. Itu dibenarkan.</item>
+        <item>Badan meminta pergerakan, bukan skrin.</item>
+        <item>Keinginan ini automatik. Tindak balas anda tidak semestinya begitu.</item>
+        <item>Tiada perkara buruk berlaku jika anda tunggu sedikit lagi.</item>
+        <item>Keinginan itu reda dengan sendirinya jika anda beri ruang.</item>
+        <item>Anda cuma rasa cemas. Ia akan berlalu dan tidak memerlukan skrin.</item>
+        <item>Dorongan itu hanya cadangan. Andalah yang membuat keputusan.</item>
+        <item>Seminit lagi dan keinginan itu sudah berubah.</item>
+        <item>Bahagian yang sukar sekejap sahaja. Bahagian yang baik kekal sepanjang hari.</item>
+        <item>Inilah tolakan kecil yang terkenal itu. Ia tidaklah sekuat mana.</item>
+        <item>Tunggu tanpa menghakimi. Keinginan itu akan lebur sendiri.</item>
+        <item>Otak anda sedang meminta jalan pintas yang biasa.</item>
+        <item>Anda tidak perlu menewaskan apa-apa. Biarkan sahaja ia berlalu.</item>
+        <item>Setiap ombak yang anda biarkan berlalu menjadikan ombak seterusnya lebih kecil.</item>
+        <item>Rasa cemas mahukan penyelesaian pantas. Ia tidak akan menemuinya di sini.</item>
+        <item>Diam seketika. Dorongan itu tidak akan kekal.</item>
+        <item>Anda tidak terlepas apa-apa dengan menunggu.</item>
+        <item>Rasa bosan bukan kecemasan.</item>
+        <item>Rasa kosong sekarang itu biasa. Ia akan terisi sendiri.</item>
+        <item>Keinginan untuk menyemak sesuatu jarang sekali tentang benda itu.</item>
+        <item>Anda rasa tidak selesa, bukan dalam bahaya.</item>
+        <item>Rasa ini akan longgar sebentar lagi.</item>
+        <item>Tabiat itu kuat, tetapi singkat.</item>
+        <item>Biarkan yang ini berlalu. Yang ini sahaja.</item>
+        <item>Lain kali akan lebih mudah kerana kali ini.</item>
+        <item>Anda tidak perlu meyakinkan diri tentang apa-apa. Tunggu sahaja.</item>
+        <item>Segelas air lebih membantu daripada satu tatalan suapan.</item>
+        <item>Desakan itu palsu, dan anda sudah tahu.</item>
+        <item>Dorongan itu tidak tahan dibiarkan tanpa jawapan.</item>
+        <item>Tunggu tiga puluh saat. Kemudian buat keputusan semula.</item>
+        <item>Anda berada di puncaknya. Selepas ini semuanya menurun.</item>
+        <item>Tiada apa yang memerlukan reaksi anda sekarang.</item>
+        <item>Keinginan itu tetamu. Ia akan pulang.</item>
+        <item>Anda bukan dorongan itu. Anda yang memerhatikannya.</item>
+        <item>Badan akan tenang jika anda beri seminit.</item>
+        <item>Ini cuma otak mencari rangsangan. Ia akan jumpa yang lain.</item>
+        <item>Tarik nafas dalam-dalam tiga kali, dan rasa ini berubah.</item>
+        <item>Keinginan mengecil apabila anda menghadapinya secara berdepan.</item>
+        <item>Anda mampu melalui minit ini. Anda pernah melalui yang lebih teruk.</item>
+        <item>Rasa tidak senang itu berlalu walaupun anda tidak buat apa-apa.</item>
+        <item>Tangan lebih pantas daripada fikiran. Itu biasa.</item>
+        <item>Tiada keputusan yang perlu dibuat dalam sepuluh saat pertama.</item>
+        <item>Sebentar lagi anda pun tidak akan ingat tentang ini.</item>
+        <item>Picunya sudah ditekan. Tindak balasnya masih milik anda.</item>
+        <item>Biarkan keinginan itu wujud tanpa menurutinya.</item>
+        <item>Ini bukan dahaga yang sebenar. Ini cuma kebiasaan.</item>
+        <item>Tunggu. Itu sahaja yang perlu anda lakukan.</item>
+        <item>Fikiran akan tenang sendiri jika anda tidak menambah kayu api.</item>
+        <item>Anda sudah pun menunggu. Itu sudah satu kemenangan.</item>
+        <item>Dorongan hilang kuasanya apabila bertemu pintu yang tertutup.</item>
+        <item>Setiap saat di sini ialah satu saat kelebihan.</item>
+        <item>Ombak sudah pecah. Lihat betapa ringannya sekarang.</item>
+        <item>Anda tidak perlukan sebab untuk tidak membukanya.</item>
+        <item>Keinginan berlalu lebih cepat daripada penyesalan.</item>
+        <item>Sedikit regangan badan menyelesaikan apa yang suapan tidak mampu.</item>
+        <item>Keinginan itu sedang pergi semasa anda membaca ini.</item>
+        <item>Jangan putuskan apa-apa sekarang. Bernafas sahaja.</item>
+        <item>Dorongan datang sendiri dan pergi sendiri.</item>
+        <item>Inilah bahagian paling sukar. Dan ia cepat berlalu.</item>
+        <item>Anda sudah bertahan sejauh ini. Tinggal beberapa saat lagi.</item>
+        <item>Badan meminta skrin apabila ia mahukan rehat. Berikan rehat.</item>
+        <item>Keinginan semakin kecil setiap kali ia tidak dituruti.</item>
+        <item>Tunggu sebentar lagi. Itu sahaja.</item>
+        <item>Detik itu berlalu. Pilihan anda kekal.</item>
+        <item>Anda baru sahaja melepasi bahagian yang sempit.</item>
+        <item>Rasa ingin itu manusiawi. Tidak menurutinya pun begitu.</item>
+        <item>Ketenangan kembali sebentar lagi jika anda tidak memaksa.</item>
+        <item>Sudah terasa lebih ringan, bukan?</item>
+        <item>Anda memutuskan ini ketika tenang. Percayalah pada diri yang membuat keputusan itu.</item>
+        <item>Diri anda semalam menjaga diri anda hari ini.</item>
+        <item>Skrin ini pesanan daripada anda untuk diri anda sendiri.</item>
+        <item>Anda bukan dihalang. Anda sedang diingatkan.</item>
+        <item>Diri yang anda impikan tidak menghabiskan petang dengan menatal.</item>
+        <item>Pilihan ini milik anda. Ia masih milik anda.</item>
+        <item>Anda jenis orang yang sedar lalu bertindak.</item>
+        <item>Tiada siapa memaksa anda memasang ini. Anda yang mahu.</item>
+        <item>Diri anda esok akan menghargai diri anda sekarang.</item>
+        <item>Anda sudah menjadi seseorang yang menjaga masanya sendiri.</item>
+        <item>Ini bukan hukuman. Ini janji anda sendiri.</item>
+        <item>Anda yang menulis peraturan ini. Ia sedang berfungsi.</item>
+        <item>Menguasai perhatian sendiri ialah pilihan setiap hari.</item>
+        <item>Anda tidak perlu membuktikan apa-apa kepada sesiapa di sini.</item>
+        <item>Diri yang anda mahu jadi bermula dengan keputusan kecil.</item>
+        <item>Anda berada di sebelah skrin yang betul.</item>
+        <item>Setiap kali anda menutup di sini, anda semakin menjadi diri yang anda mahu.</item>
+        <item>Anda bukan apa yang anda ingini. Anda ialah apa yang anda lakukan.</item>
+        <item>Janji dengan diri sendiri sama bernilainya dengan janji lain.</item>
+        <item>Anda mengenal pasti satu corak dan mengubahnya. Itu jarang berlaku.</item>
+        <item>Anda lebih besar daripada apl di dalam poket anda.</item>
+        <item>Ini peraturan anda, dan ia berpihak kepada anda.</item>
+        <item>Anda berhak mengubah tabiat.</item>
+        <item>Apa yang anda lakukan berulang kali itulah diri anda.</item>
+        <item>Anda memilih untuk hidup dengan lebih banyak ruang.</item>
+        <item>Bukan apl yang mengawal anda.</item>
+        <item>Identiti anda tidak muat dalam sebuah suapan.</item>
+        <item>Andalah orang yang memasang ini atas satu sebab.</item>
+        <item>Ingat sebabnya. Ia masih bermakna.</item>
+        <item>Anda sedang menghormati keputusan anda sendiri.</item>
+        <item>Tiada siapa yang menentukan perhatian anda bagi pihak anda.</item>
+        <item>Anda sedar apa yang sedang berlaku. Itu sudah mengubah segalanya.</item>
+        <item>Menguasai hari sendiri ialah usaha yang berterusan.</item>
+        <item>Anda bukan penumpang. Anda pemandunya.</item>
+        <item>Ini pilihan orang yang memandang serius dirinya sendiri.</item>
+        <item>Anda bertanggungjawab atas diri anda. Dan anda sedang melakukannya.</item>
+        <item>Masa anda ada pemiliknya. Dia sedang membaca ini.</item>
+        <item>Anda sudah berjanji dengan diri sendiri. Tunaikannya.</item>
+        <item>Setiap keputusan seperti ini mendekatkan anda kepada diri yang anda mahu.</item>
+        <item>Anda tidak kehilangan kebebasan. Anda sedang menggunakannya.</item>
+        <item>Andalah yang menentukan apa yang perlu dibuat sekarang.</item>
+        <item>Anda tidak perlukan izin untuk hidup secara berbeza.</item>
+        <item>Had ini satu bentuk penjagaan, bukan sangkar.</item>
+        <item>Anda memilih jalan yang lebih sukar dan lebih milik anda.</item>
+        <item>Orang yang anda kagumi juga akan berkata tidak sekarang.</item>
+        <item>Anda tinggal dalam hidup anda, bukan dalam apl.</item>
+        <item>Masa anda, fikiran anda, pilihan anda.</item>
+        <item>Anda sedang menunaikan janji kepada diri sendiri. Itu bermakna.</item>
+        <item>Tiada orang lain yang akan menjaga perhatian anda untuk anda.</item>
+        <item>Anda sudah membuktikan anda mampu menukar haluan.</item>
+        <item>Inilah autonomi: memutuskan lebih awal, bukan ketika didorong.</item>
+        <item>Anda sedang membina seseorang yang anda hormati.</item>
+        <item>Inilah versi diri anda yang merancang.</item>
+        <item>Anda bukan tiba di sini secara kebetulan. Anda yang menyediakannya.</item>
+        <item>Janji anda kepada diri sendiri ada nilainya.</item>
+        <item>Anda ada pendapat sendiri tentang cara menggunakan hari anda.</item>
+        <item>Apl itu tidak mengenali anda. Anda mengenali diri anda.</item>
+        <item>Anda sedang bertindak sebagai tuan kepada hidup anda sendiri.</item>
+        <item>Setia pada keputusan sendiri ialah kebebasan.</item>
+        <item>Andalah yang menulis peraturan di sini.</item>
+        <item>Inilah anda sedang menjaga diri sendiri.</item>
+        <item>Anda tidak terperangkap. Anda dilindungi.</item>
+        <item>Keinginan anda untuk berubah lebih lama wujudnya daripada dorongan ini.</item>
+        <item>Anda sudah pun menjadi diri yang anda cuba capai.</item>
+        <item>Keputusan yang sukar sudah dibuat. Yang ini cuma yang mudah.</item>
+        <item>Anda yang mengawal, dan itu jarang berlaku pada zaman ini.</item>
+        <item>Tiada siapa perlu tahu. Ini antara anda dengan diri anda.</item>
+        <item>Anda layak mempercayai janji anda sendiri.</item>
+        <item>Nama anda tertulis pada pilihan ini.</item>
+        <item>Anda sudah menjadi orang yang membuat keputusan lebih awal.</item>
+        <item>Ini bukan mengalah. Ini memilih sesuatu yang lain.</item>
+        <item>Anda ada hala tuju. Skrin ini menunjuk ke arahnya.</item>
+        <item>Kebebasan sebenar ialah tidak ditarik sepanjang masa.</item>
+        <item>Andalah yang menetapkan nilai perhatian anda.</item>
+        <item>Setiap tidak di sini ialah ya untuk sesuatu yang lain milik anda.</item>
+        <item>Anda sedang setia pada rancangan yang anda buat dengan penuh kasih.</item>
+        <item>Menguasai diri sendiri memerlukan usaha, dan ia berbaloi.</item>
+        <item>Anda mengakui anda mahu berubah. Itulah bahagian yang sukar.</item>
+        <item>Orang di dalam cermin malam ini akan menyukainya.</item>
+        <item>Anda tidak berhutang apa-apa kepada algoritma.</item>
+        <item>Hidup anda bukan kandungan sesiapa.</item>
+        <item>Anda berada tepat di tempat yang anda putuskan.</item>
+        <item>Had yang anda tetapkan untuk diri sendiri ialah yang paling penuh hormat.</item>
+        <item>Anda ada impian hidup yang lebih besar daripada skrin ini.</item>
+        <item>Inilah kematangan secara langsung.</item>
+        <item>Anda sedang menjaga masa depan anda tanpa sedar.</item>
+        <item>Setiap pilihan seperti ini memperhalusi diri anda.</item>
+        <item>Anda tidak perlu memberi penjelasan kerana tidak membukanya.</item>
+        <item>Komitmen anda adalah kepada diri sendiri, bukan kepada apl.</item>
+        <item>Anda membuat keputusan yang betul ketika tiada keinginan.</item>
+        <item>Inilah hidup anda, dipandu oleh anda.</item>
+        <item>Anda sudah menjadi seseorang yang sukar dimanipulasi.</item>
+        <item>Perhatian anda ada pemiliknya, dan dia berjaga-jaga.</item>
+        <item>Anda baru sahaja bertindak seperti orang yang menjaga dirinya.</item>
+        <item>Rancangan ini milik anda. Ia sedang berjalan sekarang.</item>
+        <item>Anda ialah hasil tambah pilihan-pilihan kecil anda.</item>
+        <item>Tiada siapa boleh merampas kata putus daripada anda.</item>
+        <item>Anda yang berkuasa atas masa anda.</item>
+        <item>Ia berkesan kerana anda mahu ia berkesan.</item>
+        <item>Anda lebih besar daripada tabiat yang mahu menjadi lebih besar daripada anda.</item>
+        <item>Satu lagi. Begitulah kiraannya bertambah.</item>
+        <item>Kecil dan berulang mengalahkan besar dan jarang.</item>
+        <item>Anda baru sahaja menambah satu mata lagi.</item>
+        <item>Tiada siapa berubah sekali gus. Perubahan berlaku pada hari seperti ini.</item>
+        <item>Inilah satu per seribu daripada kehidupan yang berbeza.</item>
+        <item>Sehari yang baik tidak mengubah apa-apa. Seratus hari yang baik mengubah segalanya.</item>
+        <item>Anda sedang membina satu rentetan.</item>
+        <item>Kemajuan hampir tidak pernah terasa seperti kemajuan dari dalam.</item>
+        <item>Jumlah pilihan-pilihan ini lebih besar daripada setiap satunya.</item>
+        <item>Konsisten itu membosankan, tetapi berkesan.</item>
+        <item>Satu lagi batu pada tembok.</item>
+        <item>Anda sedang melatih sesuatu yang kekal.</item>
+        <item>Apabila cukup diulang, ini menjadi automatik.</item>
+        <item>Tiada siapa nampak kemenangan ini, tetapi ia tetap dikira.</item>
+        <item>Beberapa minggu lagi, anda mungkin langsung tidak rasa ingin.</item>
+        <item>Hari ini dikira. Esok juga akan dikira.</item>
+        <item>Seutas rantai terbina daripada mata rantai seperti ini.</item>
+        <item>Tabiat baharu sedang ditulis sekarang.</item>
+        <item>Setiap ulangan melonggarkan sedikit tabiat lama.</item>
+        <item>Anda pernah melakukannya. Lakukan sekali lagi.</item>
+        <item>Perlahan ialah kelajuan bagi perkara yang tahan lama.</item>
+        <item>Perubahan berlaku jauh dari pandangan.</item>
+        <item>Anda sedang mengumpul sesuatu yang tidak kelihatan tetapi nyata.</item>
+        <item>Satu hari lagi ke arah yang betul.</item>
+        <item>Hasilnya muncul kemudian. Pilihannya hari ini.</item>
+        <item>Satu pilihan pada satu masa, begitulah caranya.</item>
+        <item>Anda lebih dekat berbanding semalam.</item>
+        <item>Tidak perlu sempurna. Perlu kerap.</item>
+        <item>Lengkungnya naik perlahan, kemudian naik dengan pantas.</item>
+        <item>Anda sedang di pertengahan proses. Memang begitulah rupanya.</item>
+        <item>Setiap tidak yang kecil membina ya yang besar.</item>
+        <item>Semua ini tidak dramatik. Sebab itulah ia berkesan.</item>
+        <item>Perjalanan terbina daripada langkah seperti ini.</item>
+        <item>Anda sedang mencipta versi baharu rutin anda.</item>
+        <item>Ini akan terasa mudah sebulan dari sekarang.</item>
+        <item>Pengulanganlah yang mengubah keputusan menjadi cara hidup.</item>
+        <item>Anda baru sahaja mengukuhkan laluan baharu.</item>
+        <item>Seratus peratus lebih mudah daripada sembilan puluh lapan.</item>
+        <item>Jangan putuskan rentetan ini hari ini.</item>
+        <item>Anda sedang membuat bahagian yang membosankan, iaitu bahagian yang penting.</item>
+        <item>Kita tidak merasai perubahan. Kita melihatnya kemudian.</item>
+        <item>Satu lagi bata tersusun.</item>
+        <item>Anda sedang melatih otak untuk menjangka sesuatu yang lain.</item>
+        <item>Meneruskan ialah keseluruhan tekniknya.</item>
+        <item>Tiada satu pun kemenangan ini kecil jika dijumlahkan.</item>
+        <item>Anda tidak perlu berlari. Cuma jangan berhenti.</item>
+        <item>Ini sudah semakin mudah dan anda tidak pun perasan.</item>
+        <item>Seminggu begini sudah mengubah hari anda.</item>
+        <item>Anda sedang membentuk laluan baharu dalam fikiran.</item>
+        <item>Setiap kali tetap dikira, walaupun nampak seperti tidak.</item>
+        <item>Tiada siapa bertepuk tangan, tetapi ia berkesan.</item>
+        <item>Pengumpulan ini senyap dan tidak dapat dihentikan.</item>
+        <item>Anda sudah lebih kuat dalam hal ini berbanding bulan lalu.</item>
+        <item>Satu pilihan baik hari ini memudahkan pilihan esok.</item>
+        <item>Beginilah rasanya konsistensi dari dalam.</item>
+        <item>Satu hari lagi kelebihan yang terkumpul.</item>
+        <item>Anda di atas jalan, dan jalannya panjang. Tidak mengapa.</item>
+        <item>Apa yang diulang akan menjadi mudah.</item>
+        <item>Anda baru sahaja mengukuhkan diri yang sedang anda bentuk.</item>
+        <item>Kiraan berpihak kepada anda hari ini.</item>
+        <item>Kejayaan kecil bertambah tanpa meminta izin.</item>
+        <item>Ini bukan tentang hari ini. Ini tentang jumlahnya.</item>
+        <item>Anda sedang melakukan kerja yang tidak kelihatan.</item>
+        <item>Teruskan. Itulah rahsianya, betul-betul.</item>
+        <item>Setiap hari seperti ini mengurangkan sedikit beban.</item>
+        <item>Tabiat lama sedang kehilangan tempatnya sekarang.</item>
+        <item>Anda sedang menyiram sesuatu yang belum bertunas.</item>
+        <item>Perubahan sedang berlaku walaupun tidak nampak.</item>
+        <item>Sekali lagi. Selama ini memang itu sahaja.</item>
+        <item>Anda sedang membina simpanan hari-hari yang baik.</item>
+        <item>Lama-kelamaan ini akan menjadi biasa.</item>
+        <item>Anda baru sahaja memilih sekali lagi. Dan sekali lagi itu dikira.</item>
+        <item>Sebulan begini dan anda menjadi orang yang berbeza.</item>
+        <item>Usaha hari ini akan hilang. Hasilnya kekal.</item>
+        <item>Anda bukan lagi orang yang memulakan semua ini.</item>
+        <item>Melakukannya selalu lebih bernilai daripada melakukannya banyak.</item>
+        <item>Setiap hari ialah satu undi untuk diri yang anda mahu.</item>
+        <item>Anda sedang membiarkan tabiat baharu menguasai lebih banyak ruang.</item>
+        <item>Ini tidak perlu heroik. Ia cuma perlu berlaku.</item>
+        <item>Anda baru sahaja menguatkan laluan yang betul.</item>
+        <item>Ulangan ialah cara otak mempelajari apa sahaja.</item>
+        <item>Hari ini ditambah semalam sudah cukup banyak.</item>
+        <item>Anda sedang melakukannya dengan baik walaupun tidak terasa.</item>
+        <item>Kemajuan tinggal dalam ulangan yang hambar.</item>
+        <item>Satu lagi langkah pendek ke arah yang jauh.</item>
+        <item>Anda sedang menjadikan ini sesuatu yang semula jadi.</item>
+        <item>Perkara baik yang dibuat berkali-kali itulah yang kekal.</item>
+        <item>Kekuatan datang daripada mengulanginya, bukan daripada melakukannya dengan kuat.</item>
+        <item>Anda baru sahaja memendekkan perjalanan esok.</item>
+        <item>Satu lagi. Itu sahaja. Dan itu sudah cukup.</item>
+        <item>Anda sedang meninggalkan jejak keputusan yang baik.</item>
+        <item>Konsistensi mengubah usaha menjadi identiti.</item>
+        <item>Setiap hari dikira sebagai sehari penuh.</item>
+        <item>Anda dalam permainan jangka panjang, dan anda sedang menang.</item>
+        <item>Ini akan menjadi diri anda tanpa anda sedari.</item>
+        <item>Pelaburan terbaik hari ini baru sahaja dibuat.</item>
+        <item>Anda baru sahaja kekal pada landasan.</item>
+        <item>Kesinambungan lebih jarang daripada bakat.</item>
+        <item>Perubahan sebenar sentiasa perlahan dan sentiasa berbaloi.</item>
+        <item>Satu lagi pilihan ke arah hidup anda.</item>
+        <item>Mata anda berterima kasih atas rehat ini.</item>
+        <item>Bangun dan regangkan badan. Itu yang badan minta, bukan skrin.</item>
+        <item>Tarik nafas dalam-dalam. Itu sahaja sudah mengubah sesuatu.</item>
+        <item>Minum air. Mungkin itulah yang kurang.</item>
+        <item>Leher anda sudah lama senget. Luruskannya.</item>
+        <item>Tidur malam ini bermula dengan skrin yang anda lihat sekarang.</item>
+        <item>Tidur yang lena ialah perkara paling produktif yang ada.</item>
+        <item>Badan anda sudah terlalu lama tidak bergerak.</item>
+        <item>Pandang jauh selama dua puluh saat. Mata anda akan rehat.</item>
+        <item>Berjalan sebentar mengubah emosi lebih daripada mana-mana suapan.</item>
+        <item>Penat yang anda rasa mungkin hanya kerana skrin.</item>
+        <item>Badan anda mahu bergerak ketika fikiran mahu menatal.</item>
+        <item>Udara segar menyelesaikan perkara yang skrin tidak mampu.</item>
+        <item>Turunkan bahu. Longgarkan rahang.</item>
+        <item>Anda sedang menegangkan bahu tanpa sedar.</item>
+        <item>Sepuluh minit cahaya matahari pada kulit amat berharga.</item>
+        <item>Badan berehat ketika berbaring, bukan ketika menatal.</item>
+        <item>Tidur awal malam ini ialah hadiah untuk esok.</item>
+        <item>Postur anda berubah dalam dua puluh minit tadi. Betulkannya.</item>
+        <item>Penat kerana skrin bukan penat yang sebenar. Ia sesuatu yang lain.</item>
+        <item>Angkat tangan. Regangkan. Nah, sudah lebih baik.</item>
+        <item>Mata anda kurang berkelip ketika menatal. Kelipkan sekarang.</item>
+        <item>Badan berfungsi lebih baik dengan rehat yang sebenar.</item>
+        <item>Sepusingan di sekitar kawasan rumah menjernihkan fikiran.</item>
+        <item>Tulang belakang anda akan menyukai hentian ini.</item>
+        <item>Rehat berbeza dengan gangguan.</item>
+        <item>Tidur yang tidak lena semalam bermula di skrin seperti ini.</item>
+        <item>Regangkan leher ke kiri dan ke kanan. Ia cuma ambil sepuluh saat.</item>
+        <item>Pergerakan meredakan rasa cemas lebih baik daripada kandungan.</item>
+        <item>Badan anda satu-satunya rumah yang anda ada.</item>
+        <item>Air, cahaya dan pergerakan. Hampir selalu itu jawapannya.</item>
+        <item>Skrin memenatkan walaupun terasa seperti rehat.</item>
+        <item>Pejamkan mata sebentar. Itu sahaja.</item>
+        <item>Pernafasan anda cetek. Tarik nafas dalam-dalam tiga kali.</item>
+        <item>Mandi menyelesaikan lebih banyak perkara daripada yang disangka.</item>
+        <item>Badan anda sudah terlalu lama di tempat yang sama.</item>
+        <item>Rehat yang sebenar tidak melibatkan skrin.</item>
+        <item>Berjalan kaki dua puluh minit mengubah sepanjang hari.</item>
+        <item>Kepala anda terasa berat kerana badan tidak bergerak.</item>
+        <item>Mata kering, bahu tegang. Anda perasan, bukan?</item>
+        <item>Bangun selama dua minit lebih menyegarkan daripada satu tatalan.</item>
+        <item>Badan meminta tidur dan minda meminta rangsangan. Dengarlah badan.</item>
+        <item>Cahaya skrin mengganggu tidur anda berjam-jam lamanya.</item>
+        <item>Regangkan kaki. Cepat dan berkesan.</item>
+        <item>Anda layak mendapat rehat yang benar-benar merehatkan.</item>
+        <item>Pergerakan ialah ubat semangat paling murah yang ada.</item>
+        <item>Badan anda akan ingat tidur malam ini.</item>
+        <item>Pernafasan perlahan menenangkan lebih cepat daripada mana-mana video.</item>
+        <item>Anda lapar atau bosan. Kenal pasti yang mana.</item>
+        <item>Badan pulih apabila fikiran berhenti.</item>
+        <item>Dua puluh saat memandang ke luar tingkap.</item>
+        <item>Pergelangan tangan dan ibu jari anda perlukan cuti.</item>
+        <item>Penat kerana skrin hilang apabila anda berjalan.</item>
+        <item>Ketika tidurlah ingatan tersusun. Jagalah tidur anda.</item>
+        <item>Anda perlukan kurang rangsangan, bukan lebih.</item>
+        <item>Regangan dua minit lebih bernilai daripada sepuluh minit video.</item>
+        <item>Badan anda sedang memberi isyarat sekarang.</item>
+        <item>Udara, air dan pergerakan. Resipinya tidak berubah.</item>
+        <item>Baring di lantai seminit. Serius.</item>
+        <item>Skrin membuatkan anda berjaga ketika anda perlu tidur.</item>
+        <item>Badan meminta rehat dan tangan meminta skrin. Berikan rehat itu.</item>
+        <item>Mata anda sudah bekerja sejak pagi.</item>
+        <item>Malam yang lena tidurnya mengubah dunia.</item>
+        <item>Bangun. Bangun sahaja. Itu sudah memadai.</item>
+        <item>Anda akan tidur lebih lena kerana pilihan ini.</item>
+        <item>Badan berterima kasih atas apa yang fikiran rasa membosankan.</item>
+        <item>Regangkan belakang anda. Ia sudah lama meminta.</item>
+        <item>Rehat yang sebenar ialah ketenangan, bukan rangsangan lain.</item>
+        <item>Badan anda ada rentaknya sendiri, dan skrin tidak mempedulikannya.</item>
+        <item>Pandang ke kaki langit. Mata perlukan jarak.</item>
+        <item>Ketegangan rahang tidak akan hilang dengan menatal.</item>
+        <item>Sudah berapa lama anda duduk sebenarnya?</item>
+        <item>Pergerakan membawa kejelasan. Sejak dahulu lagi.</item>
+        <item>Minum air sebelum memutuskan apa-apa.</item>
+        <item>Tidur yang hilang tidak dapat diganti dengan kandungan.</item>
+        <item>Badan anda berfungsi dengan baik apabila anda membenarkannya.</item>
+        <item>Tidur sekejap lebih berfaedah daripada sejam menatal suapan.</item>
+        <item>Tarik nafas dalam-dalam itu percuma dan serta-merta.</item>
+        <item>Skrin menegangkan badan tanpa amaran.</item>
+        <item>Anda lebih penat daripada yang sepatutnya.</item>
+        <item>Bangun dan pandang ke luar tingkap. Lima saat.</item>
+        <item>Badan anda tidak berevolusi untuk kaku merenung cahaya.</item>
+        <item>Regangkan jari. Ia sudah banyak bekerja hari ini.</item>
+        <item>Malam lebih baik tanpa skrin sebelum tidur.</item>
+        <item>Rehat bukanlah apa yang ditawarkan oleh skrin.</item>
+        <item>Badan anda meminta alam semula jadi tetapi menerima piksel.</item>
+        <item>Segelas air dan tiga tarikan nafas. Lakukan sekarang.</item>
+        <item>Ketegangan di bahu datang daripada cara anda memegang telefon.</item>
+        <item>Badan menjadi tenang apabila perhatian berhenti berlari.</item>
+        <item>Anda akan rasa lebih baik lima minit lagi.</item>
+        <item>Pergerakan mengubah kimia badan. Skrin cuma mengubah topik.</item>
+        <item>Mata anda layak mendapat rehat yang sebenar.</item>
+        <item>Berjalan menyusun fikiran lebih baik daripada membaca suapan.</item>
+        <item>Cahaya biru sekarang bermakna tidur yang terganggu nanti.</item>
+        <item>Anda perlukan rehat, bukan lebih banyak maklumat.</item>
+        <item>Dua tarikan nafas dalam sebelum apa-apa pun.</item>
+        <item>Badan anda lebih bijak daripada dorongan itu.</item>
+        <item>Bangun dan berjalan ke dapur. Itu sudah cukup.</item>
+        <item>Rehatkan badan, dan fikiran turut berehat.</item>
+        <item>Ada manusia sebenar di dekat anda sekarang.</item>
+        <item>Satu perbualan lebih bernilai daripada tiga ratus hantaran.</item>
+        <item>Telefon seseorang. Bercakap betul-betul.</item>
+        <item>Seseorang yang anda sayangi hanya sejauh satu mesej.</item>
+        <item>Orang dalam suapan tidak tahu anda wujud.</item>
+        <item>Orang yang berada di bilik yang sama dengan anda layak mendapat lebih.</item>
+        <item>Pelukan menyelesaikan apa yang tidak dapat diselesaikan oleh video.</item>
+        <item>Hantar mesej kepada orang yang semakin anda lupakan.</item>
+        <item>Ibu anda tentu suka menerima panggilan hari ini.</item>
+        <item>Kehidupan sebenar ada orang yang benar-benar membalas.</item>
+        <item>Kawan yang menghilang itu masih boleh kembali. Hubungi dia.</item>
+        <item>Kehadiran ialah perkara paling jarang yang boleh anda berikan.</item>
+        <item>Ada seseorang sedang menunggu anda mengangkat muka.</item>
+        <item>Satu soalan yang baik lebih bernilai daripada sejam menatal.</item>
+        <item>Orang di sekeliling anda tidak ada algoritma.</item>
+        <item>Anda sedang terlepas perbualan yang sedang berlaku.</item>
+        <item>Tiada sesiapa dalam suapan akan ada ketika anda memerlukan.</item>
+        <item>Minum kopi bersama seseorang mengubah minggu anda lebih daripada mana-mana suapan.</item>
+        <item>Kebersamaan dengan anda ialah hadiah. Hulurkannya.</item>
+        <item>Pandang orang yang sedang bersama anda.</item>
+        <item>Persahabatan perlu disiram. Siramlah hari ini.</item>
+        <item>Orang di sebelah anda itu nyata.</item>
+        <item>Orang yang menyayangi anda tidak perlukan tanda suka.</item>
+        <item>Anda ingat bila kali terakhir anda berbual panjang?</item>
+        <item>Ajak seseorang berjalan kaki.</item>
+        <item>Kenangan terbaik jarang melibatkan skrin.</item>
+        <item>Anda sedang menjadi teman seseorang sekarang.</item>
+        <item>Hantar mesej suara kepada orang yang anda sayangi.</item>
+        <item>Orang berubah apabila anda memberi perhatian kepada mereka.</item>
+        <item>Kehadiran anda bernilai bagi seseorang hari ini.</item>
+        <item>Perbualan yang baik membuatkan anda lebih baik. Suapan tidak.</item>
+        <item>Seseorang perlu tahu yang anda teringatkan dia.</item>
+        <item>Jumpa seseorang, jangan sekadar mengikutinya di skrin.</item>
+        <item>Ikatan yang kuat terbina daripada masa bersama.</item>
+        <item>Anda boleh menjadi sebab hari seseorang menjadi baik.</item>
+        <item>Ahli keluarga yang sudah berbulan-bulan tidak anda hubungi itu.</item>
+        <item>Satu mesej yang ikhlas lebih bernilai daripada seribu tontonan.</item>
+        <item>Bersama berbeza dengan sekadar terhubung.</item>
+        <item>Orang yang hidup bersama anda layak mendapat anda sepenuhnya.</item>
+        <item>Ajak seseorang makan malam.</item>
+        <item>Manusia sebenar ada wajah, suara dan masa yang terhad.</item>
+        <item>Anda tidak boleh diganti bagi seseorang. Hadirlah.</item>
+        <item>Perbualan paling penting hari ini belum lagi berlaku.</item>
+        <item>Di dekat anda ada seseorang yang juga tanpa skrin.</item>
+        <item>Mendengar seseorang ialah cara paling mudah untuk disayangi.</item>
+        <item>Kawan itu sedang melalui sesuatu. Tanyalah khabarnya.</item>
+        <item>Anak anda, haiwan peliharaan anda, jiran anda. Ada yang menanti di situ.</item>
+        <item>Media sosial menghubungkan anda dengan ramai orang, tetapi tiada seorang pun yang benar-benar dekat.</item>
+        <item>Satu petang bersama seseorang menyamai sebulan suapan.</item>
+        <item>Anda boleh membuat seseorang ketawa hari ini. Ketawa yang sebenar.</item>
+        <item>Kehadiran sepenuhnya amat jarang. Anda ada satu untuk diberikan.</item>
+        <item>Ada orang menyebut tentang anda minggu ini. Balaslah kebaikannya.</item>
+        <item>Tiada sesiapa dalam suapan merindui anda.</item>
+        <item>Panggilan telefon lima minit mengubah hari seseorang.</item>
+        <item>Orang yang benar-benar penting tidak memaparkannya di media sosial.</item>
+        <item>Hanya satu soalan lagi untuk memulakan perbualan yang baik.</item>
+        <item>Teman sebenar tidak diselang-seli iklan.</item>
+        <item>Orang yang sentiasa menyokong anda. Ucapkan terima kasih hari ini.</item>
+        <item>Bertentang mata masih teknologi terbaik.</item>
+        <item>Keluarga anda bukan suapan. Jangan sekadar menatal melepasi mereka.</item>
+        <item>Ajak seseorang bersantai bersama tanpa buat apa-apa.</item>
+        <item>Orang yang jauh juga layak mendapat khabar daripada anda.</item>
+        <item>Ada orang yang menyayangi anda di luar sana.</item>
+        <item>Perbualan sukar yang ditangguhkan lebih berat daripada suapan.</item>
+        <item>Hargai orang di sekeliling anda selagi mereka ada.</item>
+        <item>Orang mengingati sesiapa yang hadir.</item>
+        <item>Ajak kawan minum kopi tanpa sebab.</item>
+        <item>Seseorang di suatu tempat ingin tahu khabar anda.</item>
+        <item>Anda boleh benar-benar mendengar seseorang sekarang.</item>
+        <item>Hubungan terbina dengan memandang, bukan menatal.</item>
+        <item>Perhatian anda ialah hadiah terbaik untuk orang yang anda sayangi.</item>
+        <item>Seorang manusia lebih bernilai daripada sebuah profil.</item>
+        <item>Perbualan yang anda hutang kepada seseorang. Hari inilah masanya.</item>
+        <item>Bersedia untuk orang lain ialah satu bentuk kasih sayang.</item>
+        <item>Anda ada masa untuk seseorang sekarang.</item>
+        <item>Tiada siapa meninggalkan dunia sambil mahukan lebih ramai pengikut.</item>
+        <item>Temui semula seseorang dan jangan sekadar memerhati dari jauh.</item>
+        <item>Kasih sayang kadangkala perlu diucapkan dengan kuat.</item>
+        <item>Geng lama anda masih ada. Ajak mereka.</item>
+        <item>Seseorang di sisi anda mahu berbual.</item>
+        <item>Membandingkan bukan berhubung.</item>
+        <item>Anda boleh benar-benar hadir hari ini.</item>
+        <item>Nota tulisan tangan. Idea yang bagus.</item>
+        <item>Orang yang benar-benar mengenali anda tiada dalam suapan.</item>
+        <item>Habiskan petang bersama seseorang.</item>
+        <item>Orang yang dekat dengan anda layak mendapat apa yang anda berikan kepada suapan.</item>
+        <item>Anda penting bagi seseorang yang tidak menghantar apa-apa ke media sosial.</item>
+        <item>Telefon dan tanya khabar sebenar orang itu.</item>
+        <item>Kesunyian tidak hilang dengan lebih banyak skrin.</item>
+        <item>Rapatkan diri dengan seseorang hari ini.</item>
+        <item>Makan bersama berbaloi sepanjang petang.</item>
+        <item>Perhatian anda menyuburkan hubungan. Suburkan satu hari ini.</item>
+        <item>Ada seseorang sedang memikirkan anda sekarang juga.</item>
+        <item>Beritahu seseorang bahawa anda menyayanginya.</item>
+        <item>Persahabatan mati kerana senyap, bukan kerana bergaduh.</item>
+        <item>Anda dikelilingi orang yang baik. Hargailah mereka.</item>
+        <item>Seseorang perlukan teman, dan anda boleh menjadi teman itu.</item>
+        <item>Tinggalkan suapan dan berjumpalah dengan orang.</item>
+        <item>Orang yang menyayangi anda mahukan masa anda, bukan profil anda.</item>
+        <item>Anda boleh menceriakan hari seseorang dalam lima minit.</item>
+        <item>Mencipta memenatkan tetapi mengisi. Menonton merehatkan tetapi mengosongkan.</item>
+        <item>Anda ada lebih banyak untuk diperkatakan daripada untuk ditonton.</item>
+        <item>Ada orang sedang mencipta apa yang anda mahu tonton tadi.</item>
+        <item>Tulis satu baris. Satu sahaja.</item>
+        <item>Dunia ada terlalu ramai pengguna dan terlalu sedikit pencipta.</item>
+        <item>Idea anda itu masih menunggu.</item>
+        <item>Anda boleh membuat sesuatu, bukan sekadar melihat hasil orang lain.</item>
+        <item>Setiap perkara yang baik dihasilkan oleh orang yang tidak sedang menatal.</item>
+        <item>Idea anda lebih bernilai daripada seluruh suapan hari ini.</item>
+        <item>Mulakan perkara yang anda tangguhkan. Lima minit sudah memadai.</item>
+        <item>Projek yang terhenti itu cuma perlukan sedikit dorongan.</item>
+        <item>Anda berbakat dalam sesuatu yang bukan menatal skrin.</item>
+        <item>Buat sesuatu hari ini yang belum wujud semalam.</item>
+        <item>Mencipta lebih seronok daripada menonton, cuma susah untuk bermula.</item>
+        <item>Buku nota kosong itu tidak menggigit.</item>
+        <item>Kandungan terbaik ialah yang anda hasilkan sendiri.</item>
+        <item>Anda belajar lebih banyak dengan membuat berbanding menonton.</item>
+        <item>Main alat muzik, melukis, memasak. Buat sesuatu dengan tangan.</item>
+        <item>Kreativiti anda hilang apabila fikiran dipenuhi suapan.</item>
+        <item>Ada karya anda yang belum dihasilkan oleh sesiapa.</item>
+        <item>Mulakan walaupun kurang baik. Nanti ia bertambah baik.</item>
+        <item>Satu perenggan sehari akan menjadi sebuah buku.</item>
+        <item>Anda ada kisah untuk diceritakan.</item>
+        <item>Membuat sesuatu ialah penawar rasa kosong.</item>
+        <item>Bosan ialah permulaan kreativiti. Biarkan ia wujud.</item>
+        <item>Fikiran anda mencipta apabila anda berhenti memenuhinya.</item>
+        <item>Kursus yang sudah anda bayar itu sedang menunggu.</item>
+        <item>Belajar sesuatu yang baharu hari ini memang boleh.</item>
+        <item>Sekadar menonton itu mudah. Sebab itulah ia kurang memuaskan.</item>
+        <item>Anda mahu membuat sesuatu. Mulakan sekarang.</item>
+        <item>Lima minit berlatih lebih bernilai daripada sejam video.</item>
+        <item>Resipi yang anda mahu cuba itu.</item>
+        <item>Idea datang dalam ketenangan, bukan ketika menatal.</item>
+        <item>Anda boleh menjadi pengarang, bukan penonton.</item>
+        <item>Projek kecil mengubah minggu anda.</item>
+        <item>Tulis apa yang anda akan buat jika ada masa. Anda ada masa.</item>
+        <item>Tangan anda tahu membuat sesuatu. Gunakannya.</item>
+        <item>Buat sesuatu yang tidak sempurna hari ini.</item>
+        <item>Belajar lebih menyeronokkan daripada dihiburkan.</item>
+        <item>Apa yang anda cipta kekal. Apa yang anda tatal hilang.</item>
+        <item>Alat muzik yang tersandar di sudut itu.</item>
+        <item>Ada projek yang belum siap sedang menunggu anda.</item>
+        <item>Mencipta ialah lawan kepada membandingkan diri.</item>
+        <item>Mulakan kecil. Mulakan hari ini.</item>
+        <item>Satu halaman sehari ialah kehidupan yang berbeza.</item>
+        <item>Imaginasi anda perlukan ruang kosong.</item>
+        <item>Buat sesuatu yang akan anda banggakan esok.</item>
+        <item>Kepuasan mencipta tiada gantinya.</item>
+        <item>Anda mampu melakukan lebih daripada sekadar menonton.</item>
+        <item>Hobi yang anda tinggalkan itu masih ada.</item>
+        <item>Dua puluh minit berlatih ialah dua puluh minit kemajuan.</item>
+        <item>Tiada siapa menjadi mahir dalam apa-apa dengan menatal suapan.</item>
+        <item>Kemahiran anda yang seterusnya akan bermula pada suatu masa. Biarlah sekarang.</item>
+        <item>Buatlah, walaupun tiada siapa yang melihat.</item>
+        <item>Ada sesuatu yang anda mahu pelajari. Mulakan.</item>
+        <item>Sekadar menonton bermakna melihat hidup orang lain.</item>
+        <item>Anda ada tangan, fikiran dan masa. Itu sahaja yang diperlukan.</item>
+        <item>Draf pertama sentiasa kurang baik. Tulislah juga.</item>
+        <item>Bahasa yang anda teringin untuk bertutur itu.</item>
+        <item>Mencipta ialah cara bosan bertukar menjadi gembira.</item>
+        <item>Sedikit setiap hari membina apa jua kemahiran.</item>
+        <item>Ada sesuatu dalam diri anda yang mahu keluar.</item>
+        <item>Tulis tentang hari anda. Untuk diri anda sahaja.</item>
+        <item>Kreativiti anda sedang menunggu anda mematikan kebisingan.</item>
+        <item>Buat sesuatu dengan tangan anda hari ini.</item>
+        <item>Nikmat menyiapkan sesuatu tiada tandingannya.</item>
+        <item>Projek yang dahulu membuat anda teruja. Ia masih boleh membuat anda teruja.</item>
+        <item>Anda tidak perlu pandai untuk bermula.</item>
+        <item>Masak sesuatu yang baharu. Itu juga satu ciptaan.</item>
+        <item>Hidup lebih menarik apabila anda membuat sesuatu.</item>
+        <item>Tiada siapa lahir dengan pandai. Semua orang bermula dengan kekok.</item>
+        <item>Idea yang datang pada awal pagi itu. Catatkannya.</item>
+        <item>Anda boleh membantu seseorang dengan apa yang anda tahu buat.</item>
+        <item>Buat sedikit hari ini dan sedikit lagi esok.</item>
+        <item>Masa terbaik untuk bermula sudah berlalu. Masa kedua terbaik ialah sekarang.</item>
+        <item>Karya anda tidak akan siap dengan sendirinya.</item>
+        <item>Berlatih memang membosankan sehingga anda menjadi mahir.</item>
+        <item>Anda mahu mencipta. Suapan mahu anda sekadar melihat.</item>
+        <item>Lukisan yang anda mulakan itu.</item>
+        <item>Membuat ialah cara paling pantas untuk belajar.</item>
+        <item>Anda ada suara. Gunakannya untuk sesuatu.</item>
+        <item>Membaiki sesuatu di rumah juga satu ciptaan.</item>
+        <item>Pencapaian anda yang seterusnya bermula pada hari biasa seperti hari ini.</item>
+        <item>Buat sesuatu yang hanya anda akan buat.</item>
+        <item>Suapan tiada penghujung. Karya anda ada penghujung, sebab itu ia bermakna.</item>
+        <item>Anda boleh menanam sesuatu hari ini. Benar-benar menanam.</item>
+        <item>Hamparan itu, rancangan itu, impian itu.</item>
+        <item>Mencipta memerlukan usaha, dan itulah yang menjadikannya berbaloi.</item>
+        <item>Anda lebih menarik daripada mana-mana suapan.</item>
+        <item>Belajar dua puluh minit. Sedikit tetapi banyak.</item>
+        <item>Rasa ingin tahu lebih bermakna apabila menjadi amalan.</item>
+        <item>Lagu yang anda mahu belajar itu.</item>
+        <item>Buat satu perkara yang mudah dan berguna sekarang.</item>
+        <item>Anda ada sesuatu yang baik untuk ditawarkan kepada dunia.</item>
+        <item>Mulakan perkara yang nanti anda syukuri kerana telah dimulakan.</item>
+        <item>Projek peribadi mengubah hubungan anda dengan masa.</item>
+        <item>Mencipta ialah cara terbaik untuk mengisi fikiran.</item>
+        <item>Anda boleh menyiapkan sesuatu hari ini.</item>
+        <item>Letakkan tangan anda pada sesuatu yang nyata.</item>
+        <item>Tiada apa yang dapat menggantikan rasa telah berjaya membuatnya.</item>
+        <item>Tidak mengapa anda datang ke sini. Sekarang tarik nafas.</item>
+        <item>Tiada siapa yang mengira apa-apa. Teruskan sahaja.</item>
+        <item>Anda sedang baik-baik sahaja, walaupun tidak nampak begitu.</item>
+        <item>Tiada tergesa-gesa, tiada tuntutan. Cuma jeda.</item>
+        <item>Ini bukan ujian. Ini cuma peringatan yang lembut.</item>
+        <item>Anda sedang mencuba, dan itu sudah memadai.</item>
+        <item>Semuanya baik. Tutup dan teruskan hari anda.</item>
+        <item>Di sini bukan soal sentiasa betul.</item>
+        <item>Anda layak rasa ringan hari ini.</item>
+        <item>Tiada drama. Cuma seketika untuk bernafas.</item>
+        <item>Ini tempat yang tenang. Duduklah sebentar.</item>
+        <item>Anda sedang melakukan yang terbaik. Itu bermakna.</item>
+        <item>Tiada tuntutan di sini. Hanya kepedulian.</item>
+        <item>Bernafaslah. Tiada apa yang salah sedang berlaku.</item>
+        <item>Anda sudah sampai sejauh ini, dan itu sudah bagus.</item>
+        <item>Tiada siapa yang menghakimi. Anda pun tidak perlu.</item>
+        <item>Semuanya teratur. Teruskan sahaja.</item>
+        <item>Selangkah demi selangkah ialah rentak yang betul.</item>
+        <item>Anda tidak perlu sempurna dalam hal ini.</item>
+        <item>Perlahan pun tetap bergerak ke hadapan.</item>
+        <item>Skrin ini tidak menuntut apa-apa daripada anda.</item>
+        <item>Berlembutlah dengan diri anda sekarang.</item>
+        <item>Tidak mengapa rasa ingin. Itu sebahagian daripadanya.</item>
+        <item>Anda sedang menjaga diri. Itu indah.</item>
+        <item>Tiada cemas, tiada gopoh, tiada kejutan.</item>
+        <item>Anda manusia. Itu dibenarkan.</item>
+        <item>Tidak perlu memberi penjelasan kepada sesiapa.</item>
+        <item>Tarik nafas dalam-dalam. Ia sudah berlalu.</item>
+        <item>Anda selamat di sini.</item>
+        <item>Tidak mengapa jika hari ini terasa sukar.</item>
+        <item>Tiada hari yang sama. Hari ini pun begitu.</item>
+        <item>Anda berada di landasan, walaupun perlahan.</item>
+        <item>Rehatkan sebentar tuntutan terhadap diri.</item>
+        <item>Semuanya baik. Cuma satu tarikan nafas.</item>
+        <item>Anda tidak perlu sentiasa baik-baik sahaja.</item>
+        <item>Berlembut dengan diri sendiri lebih berkesan daripada bersikap keras.</item>
+        <item>Detik ini akan berlalu dengan tenang.</item>
+        <item>Anda sudah melakukan bahagian yang sukar hari ini.</item>
+        <item>Tiada yang mendesak. Tiada yang serius. Cuma jeda.</item>
+        <item>Senyumlah. Ini lebih kecil daripada yang disangka.</item>
+        <item>Anda sedang mencuba, dan itulah yang penting.</item>
+        <item>Tiada apa yang perlu dijelaskan. Teruskan langkah.</item>
+        <item>Semuanya baik. Sungguh.</item>
+        <item>Anda layak mendapat hari yang ringan.</item>
+        <item>Bernafaslah. Dunia terus berputar.</item>
+        <item>Tiada apa yang perlu dikejar hari ini.</item>
+        <item>Anda tenang dengan pilihan ini.</item>
+        <item>Tidak mengapa bermula semula seberapa kerap yang perlu.</item>
+        <item>Ini tempat tanpa tuntutan.</item>
+        <item>Bersabarlah dengan prosesnya.</item>
+        <item>Anda tidak ketinggalan dalam apa-apa.</item>
+        <item>Tidak mengapa jika tidak seratus peratus.</item>
+        <item>Jeda ini satu bentuk penjagaan, bukan teguran.</item>
+        <item>Anda boleh teruskan sahaja sekarang.</item>
+        <item>Tiada ketegangan. Cuma seketika.</item>
+        <item>Tidak mengapa jika itu berlaku secara automatik.</item>
+        <item>Anda tidak perlukan sebab untuk berasa baik.</item>
+        <item>Tarik nafas dan teruskan. Semudah itu.</item>
+        <item>Tiada masalah di sini.</item>
+        <item>Anda melakukannya dengan betul.</item>
+        <item>Tidak mengapa, sungguh. Pergilah dengan tenang.</item>
+        <item>Detik ini milik anda untuk berehat.</item>
+        <item>Anda tidak keseorangan dalam hal ini.</item>
+        <item>Semuanya tenang. Teruskan hari anda.</item>
+        <item>Tiada beban. Cuma peringatan.</item>
+        <item>Anda sudah cukup.</item>
+        <item>Ketenangan yang anda cari tiada dalam suapan.</item>
+        <item>Tiada yang salah dengan anda.</item>
+        <item>Rehatkan minda sesaat.</item>
+        <item>Anda layak mendapat penjagaan ini.</item>
+        <item>Tiada apa yang perlu diselesaikan sekarang.</item>
+        <item>Tarik nafas sekali. Kemudian teruskan.</item>
+        <item>Anda baik-baik sahaja. Itu sahaja.</item>
+        <item>Tiada tuntutan, tiada kiraan, tiada papan markah.</item>
+        <item>Seketika tenang di tengah-tengah hari.</item>
+        <item>Anda boleh bersikap baik kepada diri sendiri sekarang.</item>
+        <item>Semuanya aman.</item>
+        <item>Tidak perlu tergesa-gesa untuk apa-apa.</item>
+        <item>Anda sudah buat apa yang termampu hari ini.</item>
+        <item>Tidak mengapa. Esok masih ada.</item>
+        <item>Detik ini hanya satu hembusan nafas.</item>
+        <item>Anda selamat, dan itu sudah cukup.</item>
+        <item>Tiada penghakiman di sini.</item>
+        <item>Bernafas sahaja, kemudian pergilah menjalani hidup.</item>
+        <item>Anda layak mendapat ketenangan hari ini.</item>
+        <item>Apa jua rentaknya, tidak mengapa.</item>
+        <item>Rehatkan kepala sebentar.</item>
+        <item>Anda sentiasa dialu-alukan di sini.</item>
+        <item>Jangan terkejut. Ini cuma hentian sebentar.</item>
+        <item>Hidup bukan perlumbaan hari ini.</item>
+        <item>Anda utuh, dan itu sudah memadai.</item>
+        <item>Tidak mengapa, anda sudah mencuba.</item>
+        <item>Tiada apa di sini yang menentang anda.</item>
+        <item>Tarik nafas dan teruskan perlahan-lahan.</item>
+        <item>Anda sudah baik seadanya.</item>
+        <item>Ini detik yang damai.</item>
+        <item>Tiada sebarang tuntutan. Teruskan dengan hati yang ringan.</item>
+        <item>Anda dibenarkan berehat.</item>
+        <item>Semuanya tenang di sini.</item>
+        <item>Bertenanglah. Hari ini masih menunggu.</item>
+        <item>Anda berlembut dengan diri sendiri, dan itu satu kekuatan.</item>
+        <item>Apa yang anda akan buat sekarang jika apl ini tidak wujud?</item>
+        <item>Anda di sini kerana mahu atau kerana kebiasaan?</item>
+        <item>Apa sebenarnya yang anda cari tadi?</item>
+        <item>Adakah ini masih penting esok pagi?</item>
+        <item>Adakah anda akan ingat apa yang anda mahu lihat tadi?</item>
+        <item>Apa yang anda sedang buat sebelum mencapai telefon?</item>
+        <item>Berapa banyak masa yang anda mahu berikan untuk ini hari ini?</item>
+        <item>Anda bosan atau penat?</item>
+        <item>Petang anda boleh menjadi apa jika bukan ini?</item>
+        <item>Berbaloikah?</item>
+        <item>Anda membukanya atas sebab tertentu?</item>
+        <item>Apa yang akan tertangguh lagi jika anda masuk sekarang?</item>
+        <item>Siapa yang anda mahu jadi setahun dari sekarang?</item>
+        <item>Apa yang benar-benar baik untuk anda sekarang?</item>
+        <item>Adakah anda sedang lari daripada sesuatu?</item>
+        <item>Bagaimana kalau anda buat perkara yang asyik ditangguhkan itu?</item>
+        <item>Apa akan berlaku jika anda tutup sahaja?</item>
+        <item>Anda ada sesuatu yang lebih baik untuk dibuat. Apa dia?</item>
+        <item>Ini rehat atau pelarian?</item>
+        <item>Apa yang diri anda esok akan minta anda lakukan?</item>
+        <item>Anda lapar, mengantuk atau bosan?</item>
+        <item>Bilakah kali terakhir suapan membuatkan anda rasa lebih baik?</item>
+        <item>Apa yang anda mahu rasa di penghujung hari?</item>
+        <item>Apa yang kurang sekarang?</item>
+        <item>Anda perlukannya atau sekadar mahu?</item>
+        <item>Perkara kecil apa yang boleh menceriakan hari anda sekarang?</item>
+        <item>Apa yang anda akan buat dengan dua jam lapang?</item>
+        <item>Anda sudah tahu apa yang patut anda buat, bukan?</item>
+        <item>Berapakah harga sebenar lima belas minit ini?</item>
+        <item>Anda mahukannya, atau tangan anda sahaja yang bergerak sendiri?</item>
+        <item>Apa yang lebih berbaloi sekarang?</item>
+        <item>Semuanya baik di sana?</item>
+        <item>Dengan tenang, apakah pilihan terbaik sekarang?</item>
+        <item>Adakah anda akan bangga dengan setengah jam ini?</item>
+        <item>Apa yang anda akan buat jika tiada siapa melihat?</item>
+        <item>Ada sesiapa yang boleh anda hubungi sekarang?</item>
+        <item>Apa yang fikiran anda cuba elakkan?</item>
+        <item>Berbaloikah menukar petang anda dengan ini?</item>
+        <item>Anda ada rancangan untuk hari ini. Adakah ini termasuk?</item>
+        <item>Apa perkara paling seronok untuk dibuat sekarang?</item>
+        <item>Sejujurnya, anda baik-baik sahaja?</item>
+        <item>Apa yang akan menjadikan minggu ini berbaloi?</item>
+        <item>Ini yang anda mahu, atau yang biasa anda buat?</item>
+        <item>Sudahkah anda fikir apa yang mahu dibuat esok?</item>
+        <item>Berapa kali anda sudah mencapai telefon hari ini?</item>
+        <item>Apa yang akan membuatkan anda puas hati sejam lagi?</item>
+        <item>Anda mahu masuk, atau jari anda sekadar bergerak secara automatik?</item>
+        <item>Apakah perkara penting yang anda tangguhkan?</item>
+        <item>Apa pendapat diri anda sepuluh tahun dahulu tentang ini?</item>
+        <item>Anda benar-benar sedang berehat?</item>
+        <item>Ada sesuatu yang anda akan buat jika anda berani?</item>
+        <item>Apa yang anda mahu sudah lakukan malam ini?</item>
+        <item>Adakah ini lebih bernilai daripada sebuah perbualan?</item>
+        <item>Anda ada masa untuk apa hari ini?</item>
+        <item>Tabiat apa yang anda mahu ada enam bulan lagi?</item>
+        <item>Apa yang benar-benar memerlukan perhatian anda?</item>
+        <item>Anda lebih suka mengingati atau melupakan petang ini?</item>
+        <item>Apakah cara yang baik untuk menggunakan detik ini?</item>
+        <item>Anda di sini untuk melihat sesuatu atau untuk tidak merasai sesuatu?</item>
+        <item>Apa yang akan membantu anda tidur lena malam ini?</item>
+        <item>Ini menambah atau mengurangkan hari anda?</item>
+        <item>Anda betul-betul mahu tahu apa yang ada di sana?</item>
+        <item>Apa perkara baik terakhir yang anda buat tanpa skrin?</item>
+        <item>Apa yang anda akan buat pada petang tanpa internet?</item>
+        <item>Anda tergesa-gesa untuk apa?</item>
+        <item>Langkah kecil apa yang boleh anda ambil sekarang?</item>
+        <item>Apa yang lebih memerlukan perhatian anda berbanding ini?</item>
+        <item>Sudahkah anda menarik nafas dalam-dalam hari ini?</item>
+        <item>Apa rancangan anda untuk sejam akan datang?</item>
+        <item>Adakah ini mendekatkan anda kepada sesuatu yang anda mahu?</item>
+        <item>Adakah anda akan buat ini di hadapan orang yang anda kagumi?</item>
+        <item>Apa perkara baik yang berlaku hari ini?</item>
+        <item>Berapa banyak hari anda sudah diberikan kepada skrin?</item>
+        <item>Ada idea anda yang terbiar menunggu?</item>
+        <item>Apa yang anda mahu buat dengan minggu ini?</item>
+        <item>Berbaloikah menukar ketenangan dengan kebisingan?</item>
+        <item>Anda mencipta atau sekadar menonton hari ini?</item>
+        <item>Perkara mudah apa yang baik untuk anda sekarang?</item>
+        <item>Apa yang anda akan katakan kepada kawan dalam situasi ini?</item>
+        <item>Anda ada lima minit. Untuk apa?</item>
+        <item>Apa yang sebenarnya mengganggu anda?</item>
+        <item>Inikah perkara terbaik yang boleh anda buat sekarang?</item>
+        <item>Adakah anda yang mengawal detik ini?</item>
+        <item>Keputusan apa yang akan anda banggakan?</item>
+        <item>Apa yang anda mahu sudah lakukan apabila hari berakhir?</item>
+        <item>Anda ingat kenapa anda memasang ini?</item>
+        <item>Bagaimana kalau tunggu dahulu dan lihat sama ada anda masih mahu?</item>
+        <item>Apa yang anda akan buat jika anda lebih berani hari ini?</item>
+        <item>Anda mahu versi pantas atau versi terbaik hari anda?</item>
+        <item>Apakah perkara yang hanya anda boleh buat hari ini?</item>
+        <item>Apa yang sedang menunggu anda di luar sana?</item>
+        <item>Sudahkah anda bersyukur atas sesuatu hari ini?</item>
+        <item>Berapa nilai setengah jam akan datang bagi anda?</item>
+        <item>Apa yang anda mahu bawa daripada minggu ini?</item>
+        <item>Ini mendesak atau cuma nampak mendesak?</item>
+        <item>Adakah anda sedang melakukan apa yang anda mahu?</item>
+        <item>Apakah penutup yang baik untuk hari ini?</item>
+        <item>Apa yang anda akan buat jika anda cukup rehat?</item>
+        <item>Anda lebih suka menatal atau menjalani hidup sekarang?</item>
+        <item>Bagaimana kalau tutup sahaja dan lihat apa yang berlaku?</item>
+    </string-array>
+</resources>

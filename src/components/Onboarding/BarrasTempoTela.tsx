@@ -15,6 +15,9 @@ import {
   escalaDoGrafico,
   formatarDuracaoCompacta,
 } from '@/components/TempoTela/tempoTela';
+import type { Textos } from '@/i18n/catalogo';
+import { formatar } from '@/i18n/formatos';
+import { useTextos } from '@/i18n/IdiomaContext';
 import { duration, easing, radius, spacing, typography } from '@/theme/tokens';
 import { useTheme } from '@/theme/useTheme';
 
@@ -57,6 +60,31 @@ const ALTURA_MINIMA = 6;
  * nas duas plataformas.
  */
 const TRACOS_DA_LINHA = 26;
+
+function rotuloAcessivel(
+  legenda: string,
+  dados: Dado[],
+  estimativaHoras: number | null,
+  t: Textos
+): string {
+  const textos = t.onboarding.graficoTempoTela;
+  const dias = dados
+    .map((dado) =>
+      formatar(textos.diaAcessivel, {
+        dia: dado.rotulo,
+        valor: dado.horas === null ? textos.diaSemLeitura : descreverDuracao(dado.horas * 3600, t),
+      })
+    )
+    .join(t.lista.separador);
+  if (estimativaHoras === null) {
+    return formatar(textos.rotuloAcessivel, { legenda, dias });
+  }
+  return formatar(textos.rotuloAcessivelComEstimativa, {
+    legenda,
+    dias,
+    estimativa: descreverDuracao(estimativaHoras * 3600, t),
+  });
+}
 
 function Barra({
   dado,
@@ -113,6 +141,7 @@ export function BarrasTempoTela({
   variante = 'completo',
 }: Props) {
   const theme = useTheme();
+  const t = useTextos();
   const medidas = MEDIDAS[variante];
   const exemplo = variante === 'exemplo';
 
@@ -133,16 +162,12 @@ export function BarrasTempoTela({
       style={styles.caixa}
       accessible
       accessibilityRole="image"
-      accessibilityLabel={`${legenda}. ${dados
-        .map(
-          (dado) =>
-            `${dado.rotulo}: ${dado.horas === null ? 'sem leitura' : descreverDuracao(dado.horas * 3600)}`
-        )
-        .join(', ')}${
-        mostrarEstimativa
-          ? `. Você estimou ${descreverDuracao((estimativaHoras ?? 0) * 3600)} por dia`
-          : ''
-      }`}
+      accessibilityLabel={rotuloAcessivel(
+        legenda,
+        dados,
+        mostrarEstimativa ? (estimativaHoras ?? 0) : null,
+        t
+      )}
     >
       <View style={[styles.grade, { height: medidas.altura }]}>
         {dados.map((dado, indice) => (
@@ -198,6 +223,7 @@ export function BarrasTempoTela({
               {mostrarValor && (
                 <Text
                   numberOfLines={1}
+                  adjustsFontSizeToFit
                   style={[
                     styles.valor,
                     {
@@ -210,10 +236,12 @@ export function BarrasTempoTela({
                     },
                   ]}
                 >
-                  {dado.horas === null ? '—' : formatarDuracaoCompacta(dado.horas * 3600)}
+                  {dado.horas === null ? '—' : formatarDuracaoCompacta(dado.horas * 3600, t)}
                 </Text>
               )}
               <Text
+                numberOfLines={1}
+                adjustsFontSizeToFit
                 style={[
                   styles.rotulo,
                   {

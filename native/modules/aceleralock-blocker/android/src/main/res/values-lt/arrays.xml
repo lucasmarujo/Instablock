@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Lietuvių: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>Laikas, kurio čia nepraleidi, visas grįžta į tavo gyvenimą.</item>
+        <item>Kiekviena minutė be šio ekrano vėl tampa tavo minute.</item>
+        <item>Į šias dvidešimt minučių telpa pasivaikščiojimas.</item>
+        <item>Kai liaujiesi slinkti, dienoje atsiranda daugiau vietos, nei atrodė.</item>
+        <item>Ką tik susigrąžinai dalį savo popietės.</item>
+        <item>Valanda per dieną – tai penkiolika dienų per metus.</item>
+        <item>Laikas negrįžta, bet dar gali pasirinkti, kur jį skirti.</item>
+        <item>Ši pertrauka – tavo. Niekam nereikia žinoti, ką su ja nuveikei.</item>
+        <item>Už programėlės ribų vyksta visas gyvenimas.</item>
+        <item>Laikrodis tiksi vienodai abipus šio ekrano.</item>
+        <item>Ką tik laimėjai laiko. Skirk jį tam, ką prisiminsi rytoj.</item>
+        <item>Dienos pabaigoje niekas nesigaili, kad per mažai slinko srautą.</item>
+        <item>Penkiolika minučių čia – tai penkiolika minučių bet kur kitur.</item>
+        <item>Pagalvok, ką su šiuo pusvalandžiu darytum prieš dešimt metų.</item>
+        <item>Laikas – vienintelis dalykas, kurio negali nusipirkti iš naujo.</item>
+        <item>Prieš tave dar visa atvira popietė.</item>
+        <item>Ši minutė gali tapti kažko kito pradžia.</item>
+        <item>Valandas sau grąžini po vieną.</item>
+        <item>Čia sutaupytas laikas nedingsta. Jis atsiras kitur.</item>
+        <item>Dešimt minučių atrodo nedaug, kol nesusumuoji viso mėnesio.</item>
+        <item>Gyvenimas teka savo greičiu, o ne srauto greičiu.</item>
+        <item>Šiandien šiuo metu turi daugiau laiko nei vakar.</item>
+        <item>Tai, ką vis atidėlioji, kaip tik telpa į šią pertrauką.</item>
+        <item>Ši pauzė trumpa. O tai, ką su ja padarysi, gali likti ilgam.</item>
+        <item>Kai slinkimas nebetrukdo, į dieną telpa labai daug.</item>
+        <item>Ką tik susigrąžinai likusį vakarą.</item>
+        <item>Laikas – tai valiuta. Ką tik nusprendei jos nešvaistyti.</item>
+        <item>Srautas niekada nesibaigia. Tavo diena – baigiasi.</item>
+        <item>Pusvalandis per dieną – tai visa knyga per mėnesį.</item>
+        <item>Ten viduje tavęs nelaukė nieko skubaus.</item>
+        <item>Šis laikas ir taip buvo tavo. Dabar jis vėl pas tave.</item>
+        <item>Rytas dar gali būti naudingas, jei jis prasidės dabar.</item>
+        <item>Nieko nepraradai. Laimėjai pertrauką.</item>
+        <item>Niekas mums laiko negrąžina. Jį išsaugome patys.</item>
+        <item>Šios minutės vertesnės ne čia, ir tu tai jau žinai.</item>
+        <item>Kas ten buvo, ten ir liks. O tavo laikas – ne.</item>
+        <item>Gyvenimas susideda iš tokių popiečių kaip ši.</item>
+        <item>Diena gali baigtis tuo, ką padarei, o ne tuo, ką pamatei.</item>
+        <item>Dvi valandos per dieną – tai visas mėnuo per metus.</item>
+        <item>Laikas, kurį saugai šiandien, liks tau rytoj.</item>
+        <item>Tai ta dienos dalis, apie kurią sprendi tik tu.</item>
+        <item>Ten niekas neparašė nieko, kas būtų verta tavo popietės.</item>
+        <item>Trisdešimt minučių per dieną per metus leidžia sukurti bet ką.</item>
+        <item>Ką tik įsigijai gabalėlį tylos.</item>
+        <item>Diena ilgėja, kai srautas trumpėja.</item>
+        <item>Šis laikas dabar – tai žaliava. Sukurk iš jo ką nors.</item>
+        <item>Kažkuris tavo sumanymas laukia būtent šios pertraukos.</item>
+        <item>Tai, ką čia laimi, nesimato jokiame ekrane – tik tavo gyvenime.</item>
+        <item>Laisvas laikas – retenybė. Ką tik jo susikūrei.</item>
+        <item>Gyvenimo pabaigoje niekas neprašė dar kartą paslinkti ekraną.</item>
+        <item>Turi visą popietę, ir ji dar neiššvaistyta.</item>
+        <item>Metai – tai trys šimtai šešiasdešimt penki tokie pasirinkimai.</item>
+        <item>Ši pertrauka maža, bet ji visa tavo.</item>
+        <item>Laikas bėga vienodai. Skirtumas – tai, kas lieka po jo.</item>
+        <item>Ką tik ištraukei pusvalandį iš autopiloto.</item>
+        <item>Likusi diena dėkoja už šį sustojimą.</item>
+        <item>Ten penkios minutės nepastebimai virsta keturiasdešimčia.</item>
+        <item>Žinai, kiek kainuoja tos penkios minutės. Todėl ir esi čia.</item>
+        <item>Valanda, kurią apsaugai dabar, – ta pati, kurios vakare ieškai.</item>
+        <item>Ten niekas nepagerės nuo to, kad pažiūrėsi dabar, o ne vėliau.</item>
+        <item>Ką tik pasirinkai, kur keliaus kita minutė.</item>
+        <item>Į šį laiką telpa pokalbis, pasivaikščiojimas ar trumpas snaudulys.</item>
+        <item>Diena tampa vaisinga, kai valandos liaujasi tekėti pro pirštus.</item>
+        <item>Kitas pusvalandis priklauso tik tau.</item>
+        <item>Yra šios dienos versija, kurioje tu kažką nuveikei. Ji prasideda dabar.</item>
+        <item>Laiko nesukaupsi. Jį gali tik praleisti geriau arba prasčiau.</item>
+        <item>Šios minutės gali tapti tikru poilsiu.</item>
+        <item>Ką tik nulipai nuo bėgimo takelio, kuris niekur neveda.</item>
+        <item>Savaitėje yra šimtas šešiasdešimt aštuonios valandos. Ši – tavo.</item>
+        <item>Srautas vagia laiką mažais gabalėliais, kad niekas nepasigestų.</item>
+        <item>Dabar gali padaryti tai, ką kasdien atidedi rytdienai.</item>
+        <item>Tavo popietė neprivalo tilpti į ekraną.</item>
+        <item>Būtent likęs laikas padaro dieną ilgą – gerąja prasme.</item>
+        <item>Ką tik grąžinai sau kitą valandą.</item>
+        <item>Po savaitės neprisimintum nieko, ką dabar pamatytum.</item>
+        <item>Būtent tokios minutės sukuria arba ištirpdo metus.</item>
+        <item>Laimėjai laiko. Nereikia jo skubiai išleisti.</item>
+        <item>Diena be slinkimo – diena, į kurią telpa daugiau.</item>
+        <item>Laikrodis neskiria gero laiko nuo iššvaistyto. Skiri tu.</item>
+        <item>Ši valanda verta tiek pat, kiek bet kuri kita tavo gyvenimo valanda.</item>
+        <item>Dabar turi laiko. Tai rečiau, nei atrodo.</item>
+        <item>Saugoti laiką – vienintelis būdas jo turėti.</item>
+        <item>Visas vakaras dar priešaky.</item>
+        <item>Šios minutės – popietės, kurią prisiminsi, pradžia.</item>
+        <item>Ką tik išvengei tos valandos duobės.</item>
+        <item>Viskas, kam reikia laiko, reikalauja būtent tokio sprendimo.</item>
+        <item>Iki vakarienės dar spėsi labai daug.</item>
+        <item>Atleidai akseleratorių. Kartu sulėtėja ir diena.</item>
+        <item>Tavo savaitėje yra vietos. Ją tiesiog užėmė kažkas kita.</item>
+        <item>Kaskart, kai tai uždarai, diena truputį pailgėja.</item>
+        <item>Laikas – dovana, kurią sau įteiki ir kuri nieko nekainuoja.</item>
+        <item>Dabar turi būtent tai, ko, kaip visą dieną sakai, tau trūksta.</item>
+        <item>Ilga popietė susideda iš tokių trumpų sprendimų kaip šis.</item>
+        <item>Niekas neklaus, ką veikei su šiuo pusvalandžiu.</item>
+        <item>Laikas, kurio šiandien neatiduodi, rytoj vis dar bus su tavimi.</item>
+        <item>Dvidešimt minučių per dieną – tai šimtas dvidešimt valandų per metus.</item>
+        <item>Ką tik susigrąžinai laiką prieš miegą.</item>
+        <item>Tarp dviejų pranešimų telpa daug gyvenimo.</item>
+        <item>Visa diena gali būti tavo, jei neatiduosi jos gabalėliais.</item>
+        <item>Iki šiol vis saugojai savo laiką. Ir štai – dar kartą.</item>
+        <item>Tavo dėmesys – geidžiamiausias pasaulio turtas. Ką tik laimėjai.</item>
+        <item>Susikaupimui sugrįžti reikia dvidešimties minučių. Neatiduok jo dabar.</item>
+        <item>Sutelktas protas vertesnis už sudraskytą į gabalėlius.</item>
+        <item>Prieš ateinant čia tavo mintys buvo sutelktos į kažką kita.</item>
+        <item>Išskaidytas dėmesys – ne dėmesys. Tai tik nuovargis.</item>
+        <item>Tai, ką darei, nusipelno viso tavo dėmesio.</item>
+        <item>Giliam mąstymui reikia nepertraukiamo laiko. Štai jis.</item>
+        <item>Kiekvienas ekrano perjungimas kainuoja daugiau, nei rodo laikrodis.</item>
+        <item>Tavo mintims sekėsi gerai. Leisk joms tęsti.</item>
+        <item>Gilus darbas neatlaiko srauto slinkinėjimo.</item>
+        <item>Srautas sukurtas tam, kad pavogtų tavo dėmesį. Tu tai pastebėjai.</item>
+        <item>Ilgai minčiai užbaigti reikia tylos.</item>
+        <item>Gali išlaikyti galvoje visą idėją. Tereikia vietos.</item>
+        <item>Išsiblaškymas – ne poilsis. Poilsis tikrai pailsina.</item>
+        <item>Tavo susikaupimas dar kažkur netoliese. Grįžk prie jo.</item>
+        <item>Šiandien tavo dėmesys neparduodamas.</item>
+        <item>Geriausios tavo mintys ateina po dvidešimtos minutės.</item>
+        <item>Pertraukti dabar kainuoja brangiau, nei atrodo.</item>
+        <item>Tau pavyksta tai, kam reikia susikaupimo. Pradėk nuo to, kad jį apsaugotum.</item>
+        <item>Ten nieko nėra, kam skubiai reikėtų tavo dėmesio.</item>
+        <item>Viena sutelkta valanda duoda daugiau nei keturios sukapotos.</item>
+        <item>Tavo galva dirba geriau, kai nešokinėja nuo temos prie temos.</item>
+        <item>Tai, kas liko nebaigta, dar galima užbaigti šiandien.</item>
+        <item>Susikaupimas – ne valios jėga. Tai aplinka. Ką tik susitvarkei savąją.</item>
+        <item>Tas sunkus uždavinys pasiduoda, kai prie jo pasilieki.</item>
+        <item>Tavo dėmesys ribotas. Todėl jis toks vertingas.</item>
+        <item>Tau nebūtina visko žinoti dabar pat.</item>
+        <item>Triukšmas niekur nedings. Reta yra tavo tyla.</item>
+        <item>Didelius dalykus sukūrė žmonės, kurių niekas nepertraukė.</item>
+        <item>Grįžk prie to, ką darei. Tavo mintys vis dar ten.</item>
+        <item>Viena užduotis vienu metu – greičiau, nei atrodo.</item>
+        <item>Noras pažiūrėti praeina. Pertraukta mintis kartais nebegrįžta.</item>
+        <item>Tavo gebėjimas susikaupti didesnis, nei pastaruoju metu juo naudojiesi.</item>
+        <item>Geras mąstymas lėtas. Leisk jam būti lėtam.</item>
+        <item>Šiandien tavo dėmesys kažką sukūrė. Neišardyk to iš smalsumo.</item>
+        <item>Kam reikia galvos, tam reikia visos galvos.</item>
+        <item>Joks srautas neišmokys to, ko išmoko valanda susikaupimo.</item>
+        <item>Kiekvienas atmestas pranešimas – šiek tiek daugiau aiškumo.</item>
+        <item>Buvai visai arti supratimo. Grįžk ten.</item>
+        <item>Pailsėjęs protas – tai protas, kurio niekas netampė visą dieną.</item>
+        <item>Tavo dėmesys – medžiaga, iš kurios statai visa kita.</item>
+        <item>Sunkiausia pradėti. Tu jau pradėjai. Nepradėk iš naujo.</item>
+        <item>Palik klausimą ramybėje, ir jis tavo galvoje išsispręs pats.</item>
+        <item>Aiškumas atsiranda, kai triukšmas nutyla.</item>
+        <item>Geriausias tavo dienos darbas dar priešaky.</item>
+        <item>Trūksta ne laiko. Trūksta nepertraukiamo laiko.</item>
+        <item>Tu mąstai geriau, nei leidžia srautas.</item>
+        <item>Tas tekstas, tas kodas, tas pokalbis. Jie laukia viso tavo dėmesio.</item>
+        <item>Susikaupimas – tai raumuo. Jis stiprėja tokiomis dienomis kaip šiandien.</item>
+        <item>Tavo galva ką tik padėkojo.</item>
+        <item>Po vieną dalyką – vis dar pažangiausia technika pasaulyje.</item>
+        <item>Kas daroma dėmesingai, lieka. Visa kita praeina.</item>
+        <item>Mąstymui trumpo kelio nėra. Tik nepertraukiamas laikas.</item>
+        <item>Tu nusipelnei užbaigti mintį.</item>
+        <item>Tavo protas buvo aštrus. Neprarask šios gijos.</item>
+        <item>Ekranas mirksi. Idėjos – ne. Pasilik su idėjomis.</item>
+        <item>Viena diena su susikaupimu atstoja tris skubėjimo dienas.</item>
+        <item>Tu mąstai ne lėtai. Tiesiog tave vis pertraukdavo.</item>
+        <item>Tai, kas šiandien svarbu, nėra sraute.</item>
+        <item>Išlaikyti kryptį pigiau nei į ją sugrįžti.</item>
+        <item>Visas tavo dėmesys – dovana. Dovanok jį tam, kas jo nusipelno.</item>
+        <item>Geros idėjos gimsta tyloje.</item>
+        <item>Tu kaip tik darei kažką gero.</item>
+        <item>Niekas gerai nemąsto, kai mintys dešimtyje vietų.</item>
+        <item>Gylis atsiranda tik pabuvus kurį laiką paviršiuje.</item>
+        <item>Susikaupimas – ne tam, kad padarytum daugiau. O tam, kad padarytum gerai.</item>
+        <item>Šiandien turi kai ką svarbaus. Ir tai ne srautas.</item>
+        <item>Leisk savo galvai užbaigti pradėtą sakinį.</item>
+        <item>Nepertraukiama valanda keičia tai, kas per dieną įmanoma.</item>
+        <item>Kas dabar atrodo sunku, tampa lengva su nuolatiniu dėmesiu.</item>
+        <item>Gebėjimas susikaupti – tavo pranašumas. Nedaug kas jį dar išsaugojo.</item>
+        <item>Nekeisk vieno svarbaus dalyko į daugybę greitų.</item>
+        <item>Smalsumas gali palaukti. Susikaupimas nelauks.</item>
+        <item>Tu kažką kuri. Tęsk.</item>
+        <item>Šokinėti tarp užduočių atrodo produktyvu, bet beveik niekada taip nėra.</item>
+        <item>Geriausias būdas šiandien panaudoti galvą vis dar laukia.</item>
+        <item>Dėmesys, kurį saugai dabar, vėliau atsispindės rezultate.</item>
+        <item>Tavo protas – ne srautas. Jis išsaugo tai, kam skiri dėmesį.</item>
+        <item>Reta, kad kas nors nusipelnytų viso tavo dėmesio. Pasinaudok.</item>
+        <item>Sunku – nereiškia neįmanoma. Tiesiog ilgiau užtrunka.</item>
+        <item>Liko vos kelios minutės, kol tai įveiksi.</item>
+        <item>Triukšmas išnyksta, kai liaujiesi jį maitinti.</item>
+        <item>Būk su tuo, ką darei, kol baigsi.</item>
+        <item>Vienas gilus nėrimas atperka dešimt paviršutiniškų.</item>
+        <item>Tavo dėmesys lemia, kas taps prisiminimu.</item>
+        <item>Prisimeni tai, kam skyrei dėmesį. Tik tai.</item>
+        <item>Mąstymas – naudingiausias dalykas, kurį šiandien darai.</item>
+        <item>Neskubanti galva išsprendžia tai, ko skubanti net nemato.</item>
+        <item>Geram darbui reikia kantrybės, ne greičio.</item>
+        <item>Apie nieką, ką dabar pamatytum, rytoj nepapasakotum.</item>
+        <item>Šiandienis tavo minčių aiškumas prasidėjo nuo tokių sprendimų kaip šis.</item>
+        <item>Pertraukimas – brangiausias mokestis pasaulyje.</item>
+        <item>Prie vieno dalyko gali išbūti ilgiau, nei manai.</item>
+        <item>Ta smulkmena, kuri vis išslysdavo, tyloje išryškėja.</item>
+        <item>Susikaupimas sugrįžta. Jam tereikia kelių minučių be ekrano.</item>
+        <item>Tu gali ilgai išlaikyti dėmesį. Tik srautas lažinasi, kad ne.</item>
+        <item>Užbaigti vieną dalyką šiandien vertingiau nei pradėti penkis.</item>
+        <item>Visiškas dėmesys retas net ir tau.</item>
+        <item>Leisk minčiai atsikvėpti.</item>
+        <item>To, kas sukurta susikaupus, niekas nenuslinks žemyn.</item>
+        <item>Noras atidaryti praeina per kelias minutes. Visada praeina.</item>
+        <item>Šis impulsas turi galiojimo laiką. Jis baigiasi savaime.</item>
+        <item>Nieko daryti nereikia. Tik palaukti, kol banga atslūgs.</item>
+        <item>Skuba, kurią dabar jauti, ne tavo. Jos tave išmokė.</item>
+        <item>Įkvėpk. Noras jau silpnesnis nei prieš minutę.</item>
+        <item>Impulsas stiprus pradžioje ir išnyksta pusiaukelėje.</item>
+        <item>Tai ne tu nori. Tai įprotis prašo.</item>
+        <item>Nepatogu bus neilgai. Paskui praeis.</item>
+        <item>Jau jautei tai anksčiau ir kaskart ištvėrei.</item>
+        <item>Noras ateina bangomis. O bangos sudūžta.</item>
+        <item>Niekas neprivalo paklusti pirmam dienos impulsui.</item>
+        <item>Šis spaudimas krūtinėje trunka trumpiau nei viena daina.</item>
+        <item>Trisdešimties sekundžių impulsas tavęs nevaldo.</item>
+        <item>Leisk norui praeiti ir nieko su juo nedaryk.</item>
+        <item>Šis nepatogumas – tai atsileidžiantis įprotis. Tai pažanga.</item>
+        <item>Tu nesipriešini. Tu tiesiog lauki.</item>
+        <item>Noras ateina stiprus ir išeina tyliai.</item>
+        <item>Suskaičiuok iki dvidešimties. Noras jau bus silpnesnis.</item>
+        <item>Jausti norą – ne tas pats, kas turėti poreikį.</item>
+        <item>Impulsas nori atsakymo tuoj pat. Neduok jokio.</item>
+        <item>Tai sunkiausia akimirka, ir ji trumpa.</item>
+        <item>Tau nereikia kovoti. Tik nespręsk dabar.</item>
+        <item>Noras išblėsta, kai niekas jo nemaitina.</item>
+        <item>Tai nerimas, o ne turinio alkis.</item>
+        <item>Pastebėk norą, bet nepasiduok jam.</item>
+        <item>Smegenys prašo to paties kaip visada. Tu neprivalai paklusti.</item>
+        <item>Po penkių minučių net neprisiminsi, kad norėjai atidaryti.</item>
+        <item>Banga dabar kyla. Ji visada nuslūgsta.</item>
+        <item>Sunkiausią dalį jau įveikei.</item>
+        <item>Impulsas meluoja apie savo jėgą.</item>
+        <item>Atsistok, išgerk vandens, grįžk. Jo jau nebėra.</item>
+        <item>Noras – ne įsakymas.</item>
+        <item>Gali tai jausti ir nieko nedaryti. Tai leidžiama.</item>
+        <item>Kūnas prašo judesio, o ne ekrano.</item>
+        <item>Šis troškimas automatiškas. Tavo atsakas neprivalo toks būti.</item>
+        <item>Nieko blogo nenutiks, jei dar šiek tiek palauksi.</item>
+        <item>Jei duosi erdvės, noras išnyks savaime.</item>
+        <item>Tai tik nerimas. Jis praeis, ir ekrano jam nereikia.</item>
+        <item>Impulsas – tik pasiūlymas. Sprendi tu.</item>
+        <item>Dar minutė, ir noras jau bus kažkas kita.</item>
+        <item>Sunkioji dalis trunka neilgai. Geroji – visą dieną.</item>
+        <item>Tai tas garsusis stumtelėjimas. Jis stumia ne taip jau stipriai.</item>
+        <item>Palauk ir nesmerk. Noras ištirps pats.</item>
+        <item>Tavo smegenys prašo įprasto lengvo kelio.</item>
+        <item>Nieko nugalėti nereikia. Tik leisti praeiti.</item>
+        <item>Kiekviena praleista banga sumažina kitą.</item>
+        <item>Nerimas nori greito sprendimo. Čia jo neras.</item>
+        <item>Akimirką pabūk ramiai. Impulsas tiek neištvers.</item>
+        <item>Kol lauki, nieko nepraleidi.</item>
+        <item>Nuobodulys – ne nelaimė.</item>
+        <item>Jausti tuštumą dabar – normalu. Ji užsipildys pati.</item>
+        <item>Noras kažką patikrinti retai būna apie tą kažką.</item>
+        <item>Tau nepatogu, bet tau negresia joks pavojus.</item>
+        <item>Tuoj atlėgs.</item>
+        <item>Įprotis stiprus, bet trumpalaikis.</item>
+        <item>Praleisk šį kartą. Tik šį.</item>
+        <item>Kitą kartą bus lengviau – būtent dėl šio karto.</item>
+        <item>Nieko sau įrodinėti nereikia. Tik palaukti.</item>
+        <item>Stiklinė vandens padeda labiau nei srauto slinkimas.</item>
+        <item>Ši skuba netikra, ir tu tai jau žinai.</item>
+        <item>Impulsas neištveria, kai lieka be atsako.</item>
+        <item>Palauk trisdešimt sekundžių. Tada spręsk iš naujo.</item>
+        <item>Dabar pati viršūnė. Toliau – tik žemyn.</item>
+        <item>Niekas dabar nereikalauja tavo reakcijos.</item>
+        <item>Noras – tik svečias. Jis išeis.</item>
+        <item>Tu – ne impulsas. Tu jį tik stebi.</item>
+        <item>Kūnas atsipalaiduoja, jei duodi jam minutę.</item>
+        <item>Tai tik smegenys ieško dirgiklio. Jos ras kitą.</item>
+        <item>Trys gilūs įkvėpimai pakeičia šio jausmo stiprumą.</item>
+        <item>Noras susitraukia, kai pažvelgi jam tiesiai į akis.</item>
+        <item>Ištversi šią minutę. Ištvėrei ir sunkesnių.</item>
+        <item>Diskomfortas praeina, net jei nieko nedarai.</item>
+        <item>Ranka buvo greitesnė už galvą. Taip būna.</item>
+        <item>Per pirmąsias dešimt sekundžių nereikia priimti jokio sprendimo.</item>
+        <item>Po kelių akimirkų apie tai net neprisiminsi.</item>
+        <item>Dirgiklis suveikė. Atsakas vis dar priklauso tau.</item>
+        <item>Leisk norui būti, bet jo neklausyk.</item>
+        <item>Tai ne alkis. Tik papratimas.</item>
+        <item>Palauk. Tai tiesiog viskas, ko reikia.</item>
+        <item>Galva nurimsta pati, jei nemeti į ugnį malkų.</item>
+        <item>Tu jau lauki. Tai jau pergalė.</item>
+        <item>Impulsas netenka jėgų, atsimušęs į uždarytas duris.</item>
+        <item>Kiekviena sekundė čia – sekundė pranašumo.</item>
+        <item>Banga sudužo. Pajusk, kaip jau lengviau.</item>
+        <item>Tau nereikia priežasties, kad neatidarytum.</item>
+        <item>Troškimas praeina greičiau nei gailestis.</item>
+        <item>Pasirąžymas padeda ten, kur srautas nepadėtų.</item>
+        <item>Kol tai skaitai, noras jau traukiasi.</item>
+        <item>Dabar nieko nespręsk. Tik kvėpuok.</item>
+        <item>Impulsas ateina pats ir išeina pats.</item>
+        <item>Čia – pati sunkiausia vieta. Ir ji greitai praeina.</item>
+        <item>Ištvėrei iki čia. Liko vos kelios sekundės.</item>
+        <item>Kūnas prašo ekrano, kai nori poilsio. Duok jam poilsio.</item>
+        <item>Noras silpnėja kaskart, kai jo neišpildai.</item>
+        <item>Palauk dar truputį. Tik tiek.</item>
+        <item>Akimirka praeina. Pasirinkimas lieka.</item>
+        <item>Ką tik praėjai siauriausią vietą.</item>
+        <item>Jausti norą – žmogiška. Jo neklausyti – taip pat.</item>
+        <item>Ramybė netrukus sugrįš, jei jos neskubinsi.</item>
+        <item>Juk palengvėjo, tiesa.</item>
+        <item>Tai nusprendei ramią akimirką. Pasitikėk tuo sprendimu.</item>
+        <item>Vakar priimtas tavo sprendimas šiandien tavimi rūpinasi.</item>
+        <item>Šis ekranas – žinutė, kurią parašei sau.</item>
+        <item>Tau niekas nedraudžia. Tau tik primenama.</item>
+        <item>Žmogus, kuriuo nori tapti, popietės ekrane nepraleidžia.</item>
+        <item>Šis pasirinkimas buvo tavo. Ir toks liko.</item>
+        <item>Tu iš tų žmonių, kurie pastebėjo ir pasielgė.</item>
+        <item>Niekas nevertė tavęs to įsidiegti. Tu to norėjai.</item>
+        <item>Rytoj tau bus už ką sau padėkoti.</item>
+        <item>Tu jau esi žmogus, kuris saugo savo laiką.</item>
+        <item>Tai ne bausmė. Tai susitarimas.</item>
+        <item>Šią taisyklę parašei tu. Ir ji veikia.</item>
+        <item>Valdyti savo dėmesį – kasdienis pasirinkimas.</item>
+        <item>Čia niekam nieko nereikia įrodinėti.</item>
+        <item>Žmogus, kuriuo nori būti, prasideda nuo mažų sprendimų.</item>
+        <item>Tu esi tinkamoje šio ekrano pusėje.</item>
+        <item>Kaskart, kai tai uždarai, vis labiau tampi tuo, kuo nori būti.</item>
+        <item>Tave apibrėžia ne tai, ko nori, o tai, ką darai.</item>
+        <item>Susitarimas su savimi vertas tiek pat, kiek ir bet kuris kitas.</item>
+        <item>Atpažinai savo elgesio modelį ir jį pakeitei. Tai retas dalykas.</item>
+        <item>Programėlės tavo kišenėje nėra stipresnės už tave.</item>
+        <item>Tai tavo taisyklė, ir ji tavo pusėje.</item>
+        <item>Turi teisę keisti įpročius.</item>
+        <item>Tai, ką darai nuolat, ir yra tu.</item>
+        <item>Pasirinkai gyvenimą, kuriame daugiau erdvės.</item>
+        <item>Ne programėlė tave valdo.</item>
+        <item>Tavo tapatybė netelpa į srautą.</item>
+        <item>Tu tai įsidiegei ne be priežasties.</item>
+        <item>Prisimink priežastį. Ji vis dar galioja.</item>
+        <item>Tu laikaisi savo sprendimo.</item>
+        <item>Niekas nesprendžia už tave, kam skirti dėmesį.</item>
+        <item>Pastebėjai, kas vyksta. Tai jau viską keičia.</item>
+        <item>Valdyti savo dieną – nuolatinis darbas.</item>
+        <item>Tu ne keleivio vietoje. Vairuoji tu.</item>
+        <item>Taip renkasi tie, kurie save vertina rimtai.</item>
+        <item>Už save atsakai tu. Ir tai darai.</item>
+        <item>Tavo laikas kažkam priklauso – tam, kas dabar tai skaito.</item>
+        <item>Susitarei su savimi. Tesėk.</item>
+        <item>Kiekvienas toks sprendimas priartina tave prie to, kuo nori būti.</item>
+        <item>Tu neprarandi laisvės. Tu ja naudojiesi.</item>
+        <item>Ką daryti dabar, sprendi tu.</item>
+        <item>Tau nereikia leidimo gyventi kitaip.</item>
+        <item>Ši riba – rūpestis, o ne narvas.</item>
+        <item>Pasirinkai sunkesnį, bet labiau savą kelią.</item>
+        <item>Žmogus, kuriuo žaviesi, dabar irgi pasakytų „ne“.</item>
+        <item>Tu gyveni savo gyvenime, o ne programėlėje.</item>
+        <item>Tavo laikas, tavo galva, tavo pasirinkimas.</item>
+        <item>Tu tesi pažadą sau. Tai svarbu.</item>
+        <item>Niekas kitas tavo dėmesiu nepasirūpins.</item>
+        <item>Jau įrodei, kad gali pakeisti kryptį.</item>
+        <item>Savarankiškumas – tai spręsti iš anksto, o ne pasidavus impulsui.</item>
+        <item>Tu kuri žmogų, kurį gerbi.</item>
+        <item>Tai ta tavo versija, kuri planuoja.</item>
+        <item>Čia atsidūrei ne atsitiktinai. Tai sugalvojai tu.</item>
+        <item>Tavo žodis sau – galioja.</item>
+        <item>Turi savo nuomonę apie tai, kaip leisti dieną.</item>
+        <item>Programėlė tavęs nepažįsta. Tu save pažįsti.</item>
+        <item>Savo gyvenimo vairas – tavo rankose.</item>
+        <item>Laikytis savo sprendimo – tai laisvė.</item>
+        <item>Taisykles čia rašai tu.</item>
+        <item>Tai tu rūpiniesi savimi.</item>
+        <item>Tai ne kalėjimas. Tai apsauga.</item>
+        <item>Tavo noras keistis senesnis už šį impulsą.</item>
+        <item>Tu jau esi tuo, kuo bandai tapti.</item>
+        <item>Sunkus sprendimas jau priimtas. Šis – tik lengvas.</item>
+        <item>Viską kontroliuoji tu, o šiais laikais tai reta.</item>
+        <item>Niekam nereikia žinoti. Tai tik tarp tavęs ir tavęs.</item>
+        <item>Tu nusipelnei pasitikėti savo žodžiu.</item>
+        <item>Po šiuo pasirinkimu – tavo vardas.</item>
+        <item>Tapai žmogumi, kuris sprendžia iš anksto.</item>
+        <item>Tai ne atsisakymas. Tai kitoks pasirinkimas.</item>
+        <item>Turi kryptį. Šis ekranas rodo į ją.</item>
+        <item>Tikra laisvė – kai tavęs nuolat niekas netampo.</item>
+        <item>Tavo dėmesio vertę nustatai tu.</item>
+        <item>Kiekvienas „ne“ čia – tai „taip“ kažkam kitam tavo gyvenime.</item>
+        <item>Tu laikaisi plano, kurį kūrei su meile.</item>
+        <item>Valdyti save sunku, bet verta.</item>
+        <item>Pripažinai, kad nori keistis. Tai ir yra sunkiausia dalis.</item>
+        <item>Šįvakar žmogui veidrodyje tai patiks.</item>
+        <item>Algoritmui tu nieko neprivalai.</item>
+        <item>Tavo gyvenimas – ne kažkieno turinys.</item>
+        <item>Esi būtent ten, kur nusprendei būti.</item>
+        <item>Riba, kurią nustatai sau, – pati pagarbiausia iš visų.</item>
+        <item>Tavo gyvenimo planai didesni už šį ekraną.</item>
+        <item>Tai brandumas realiuoju laiku.</item>
+        <item>Net nepastebi, kaip rūpiniesi savo ateitimi.</item>
+        <item>Kiekvienas toks pasirinkimas tave vis labiau išgrynina.</item>
+        <item>Nereikia aiškintis, kodėl neatidarai.</item>
+        <item>Tavo įsipareigojimas – sau, o ne programėlei.</item>
+        <item>Teisingą sprendimą priėmei tada, kai nieko netraukė.</item>
+        <item>Tai tavo gyvenimas, ir jį vairuoji tu.</item>
+        <item>Tave tapo sunku manipuliuoti.</item>
+        <item>Tavo dėmesį saugai tu, ir saugai budriai.</item>
+        <item>Ką tik pasielgei kaip žmogus, kuris rūpinasi savimi.</item>
+        <item>Planas – tavo. Ir jis veikia dabar.</item>
+        <item>Tu – savo mažų pasirinkimų suma.</item>
+        <item>Paskutinio žodžio iš tavęs niekas neatims.</item>
+        <item>Tik tu turi galią spręsti apie savo laiką.</item>
+        <item>Tai veikia, nes tu norėjai, kad veiktų.</item>
+        <item>Įprotis nori būti už tave stipresnis. Jam tai nepavyksta.</item>
+        <item>Dar vienas kartas. Taip ir auga rezultatas.</item>
+        <item>Maži ir dažni žingsniai nugali didelius ir retus.</item>
+        <item>Ką tik pelnei dar vieną tašką.</item>
+        <item>Niekas nepasikeičia iš karto. Keičiamasi tokiomis dienomis kaip šiandien.</item>
+        <item>Tai tūkstantoji kitokio gyvenimo dalis.</item>
+        <item>Viena gera diena nieko nekeičia. Šimtas gerų dienų keičia viską.</item>
+        <item>Tu kuri seriją.</item>
+        <item>Iš vidaus pažanga beveik niekada neatrodo kaip pažanga.</item>
+        <item>Šių pasirinkimų suma didesnė už kiekvieną iš jų.</item>
+        <item>Pastovumas nuobodus, bet veikia.</item>
+        <item>Dar vienas akmuo sienoje.</item>
+        <item>Tu treniruoji tai, kas išlieka.</item>
+        <item>Pakankamai kartų pakartojus, tai tampa automatiška.</item>
+        <item>Šios pergalės niekas nemato, bet ji vis tiek skaičiuojasi.</item>
+        <item>Dar kelios savaitės, ir noras net nekils.</item>
+        <item>Šiandiena svarbi. Rytdiena irgi bus svarbi.</item>
+        <item>Grandinė susideda iš tokių grandžių kaip ši.</item>
+        <item>Naujas įprotis rašomas būtent dabar.</item>
+        <item>Kiekvienas pakartojimas truputį susilpnina seną įprotį.</item>
+        <item>Tu tai jau darei anksčiau. Padaryk dar kartą.</item>
+        <item>Lėtas tempas – tai tvarių dalykų greitis.</item>
+        <item>Pokytis vyksta nematomai.</item>
+        <item>Tu kaupi kažką nematomo, bet tikro.</item>
+        <item>Dar viena diena teisinga kryptimi.</item>
+        <item>Rezultatas pasimatys vėliau. Pasirinkimas – šiandien.</item>
+        <item>Po vieną pasirinkimą – štai kaip tai daroma.</item>
+        <item>Šiandien esi arčiau nei vakar.</item>
+        <item>Nebūtina tobulai. Svarbu dažnai.</item>
+        <item>Kreivė pradžioje kyla lėtai, o paskui – greitai.</item>
+        <item>Tu esi proceso viduryje. Toks jis ir yra.</item>
+        <item>Kiekvienas mažas „ne“ sukuria didelį „taip“.</item>
+        <item>Čia nėra nieko dramatiško. Todėl tai ir veikia.</item>
+        <item>Kelias susideda iš tokių žingsnių kaip šis.</item>
+        <item>Tu kuri naują savo dienotvarkės versiją.</item>
+        <item>Po mėnesio tai atrodys lengva.</item>
+        <item>Kartojimas paverčia sprendimą būdo bruožu.</item>
+        <item>Ką tik sustiprinai naująjį kelią.</item>
+        <item>Šimtas procentų lengviau nei devyniasdešimt aštuoni.</item>
+        <item>Nenutrauk serijos šiandien.</item>
+        <item>Tu darai nuobodžiąją dalį – būtent ji ir svarbiausia.</item>
+        <item>Pokyčio nejaučiame. Jį pamatome vėliau.</item>
+        <item>Dar viena plyta savo vietoje.</item>
+        <item>Moki savo smegenis laukti kažko kito.</item>
+        <item>Visa technika – tiesiog tęsti.</item>
+        <item>Bendroje sumoje nė viena tokia pergalė nėra maža.</item>
+        <item>Nereikia bėgti. Svarbu nesustoti.</item>
+        <item>Tai jau darosi lengviau, o tu net nepastebėjai.</item>
+        <item>Savaitė tokių dienų jau keičia tavo kasdienybę.</item>
+        <item>Tavo galvoje formuojasi naujas takas.</item>
+        <item>Kiekvienas kartas svarbus, net kai atrodo, kad ne.</item>
+        <item>Niekas neploja, bet tai veikia.</item>
+        <item>Kaupimasis tylus ir nesustabdomas.</item>
+        <item>Tau tai jau sekasi geriau nei praėjusį mėnesį.</item>
+        <item>Geras pasirinkimas šiandien palengvina rytdienos pasirinkimą.</item>
+        <item>Štai kaip pastovumas atrodo iš vidaus.</item>
+        <item>Dar viena diena sukaupto pranašumo.</item>
+        <item>Tu esi kelyje, o kelias ilgas. Ir tai gerai.</item>
+        <item>Kas kartojama, tampa lengva.</item>
+        <item>Ką tik sustiprinai tai, kuo tampi.</item>
+        <item>Šiandien rezultatas tavo naudai.</item>
+        <item>Maži laimėjimai sumuojasi neprašydami leidimo.</item>
+        <item>Svarbu ne šiandiena. Svarbi visuma.</item>
+        <item>Tu dirbi nematomą darbą.</item>
+        <item>Tęsk. Tai ir yra visa paslaptis.</item>
+        <item>Kiekviena tokia diena nuima dalį naštos.</item>
+        <item>Senas įprotis dabar traukiasi.</item>
+        <item>Tu laistai tai, kas dar nesudygo.</item>
+        <item>Pokytis vyksta, net jei to neatrodo.</item>
+        <item>Dar kartą. Visada tik tiek ir reikėjo.</item>
+        <item>Tu kaupi gerų dienų atsargas.</item>
+        <item>Ilgainiui tai taps įprasta.</item>
+        <item>Ką tik vėl pasirinkai. Ir tai vėl svarbu.</item>
+        <item>Mėnuo tokių dienų – ir tu jau kitas žmogus.</item>
+        <item>Šiandienės pastangos pasimirš. Rezultatas liks.</item>
+        <item>Nuo pradžios tu jau labai pasikeitei.</item>
+        <item>Daryti nuolat vertingiau nei daryti daug.</item>
+        <item>Kiekviena diena – balsas už tai, kuo nori būti.</item>
+        <item>Leidi naujam įpročiui užkariauti vis daugiau vietos.</item>
+        <item>Tam nereikia didvyriškumo. Tereikia, kad tai įvyktų.</item>
+        <item>Ką tik sutvirtinai teisingą kelią.</item>
+        <item>Smegenys bet ko išmoksta kartodamos.</item>
+        <item>Šiandiena ir vakarykštė diena kartu – jau nemažai.</item>
+        <item>Tau sekasi gerai, net kai to nejauti.</item>
+        <item>Pažanga slypi nuobodžiuose pakartojimuose.</item>
+        <item>Dar vienas trumpas žingsnis ilgu keliu.</item>
+        <item>Tai tau tampa natūralu.</item>
+        <item>Išlieka tai, kas gera ir daroma daug kartų.</item>
+        <item>Jėga ateina iš kartojimo, o ne iš įtampos.</item>
+        <item>Ką tik sutrumpinai rytdienos kelią.</item>
+        <item>Dar vienas. Tik tiek. Ir to pakanka.</item>
+        <item>Už tavęs lieka gerų sprendimų pėdsakai.</item>
+        <item>Pastovumas paverčia pastangas tapatybe.</item>
+        <item>Kiekviena diena skaičiuojasi kaip visa diena.</item>
+        <item>Tu žaidi ilgą žaidimą ir jį laimi.</item>
+        <item>Tai taps tavo dalimi, net nepastebėsi kaip.</item>
+        <item>Geriausia dienos investicija ką tik padaryta.</item>
+        <item>Ką tik išlaikei kursą.</item>
+        <item>Tęstinumas retesnis už talentą.</item>
+        <item>Tikras pokytis visada lėtas ir visada vertas.</item>
+        <item>Dar vienas pasirinkimas tavo gyvenimo kryptimi.</item>
+        <item>Tavo akys dėkoja už šią pertrauką.</item>
+        <item>Atsistok ir pasitempk. Kūnas prašė būtent to, o ne ekrano.</item>
+        <item>Giliai įkvėpk. Jau vien tai kažką keičia.</item>
+        <item>Išgerk vandens. Turbūt to ir trūko.</item>
+        <item>Tavo kaklas jau kurį laiką sulenktas. Ištiesink jį.</item>
+        <item>Šios nakties miegas prasideda nuo dabartinio ekrano.</item>
+        <item>Gerai išsimiegoti – produktyviausias dalykas pasaulyje.</item>
+        <item>Tavo kūnas per ilgai nejuda.</item>
+        <item>Dvidešimt sekundžių pažiūrėk į tolį. Akys atsipalaiduos.</item>
+        <item>Trumpas pasivaikščiojimas pakelia nuotaiką labiau nei bet koks srautas.</item>
+        <item>Nuovargis, kurį jauti, gali būti tiesiog nuo ekrano.</item>
+        <item>Kai galva prašo slinkti, kūnas prašo judėti.</item>
+        <item>Grynas oras išsprendžia tai, ko neišsprendžia ekranas.</item>
+        <item>Nuleisk pečius. Atpalaiduok žandikaulį.</item>
+        <item>Tu įtempi pečius ir to nepastebi.</item>
+        <item>Dešimt minučių saulės ant odos – labai daug.</item>
+        <item>Kūnas ilsisi gulėdamas, o ne slinkdamas ekraną.</item>
+        <item>Anksti atsigulti šiandien – dovana rytojui.</item>
+        <item>Per pastarąsias dvidešimt minučių tavo laikysena pasikeitė. Pataisyk ją.</item>
+        <item>Nuovargis nuo ekrano – ne tikras nuovargis. Tai kažkas kita.</item>
+        <item>Pakelk rankas. Išsitempk. Štai, jau geriau.</item>
+        <item>Kai slenki ekraną, mirksi rečiau. Sumirksėk dabar.</item>
+        <item>Kūnas veikia geriau, kai daro tikras pertraukas.</item>
+        <item>Ratas aplink kvartalą praskaidrina galvą.</item>
+        <item>Tavo stuburui ši pertrauka patiks.</item>
+        <item>Poilsis – ne tas pats, kas išsiblaškymas.</item>
+        <item>Vakarykštis prastas miegas prasidėjo prie tokio pat ekrano.</item>
+        <item>Patempk kaklą į abi puses. Tai užtruks dešimt sekundžių.</item>
+        <item>Judėjimas nuramina nerimą geriau nei turinys.</item>
+        <item>Tavo kūnas – vieninteliai tavo namai.</item>
+        <item>Vanduo, šviesa ir judėjimas. Beveik visada to ir reikia.</item>
+        <item>Ekranas vargina, net kai atrodo, kad ilsiesi.</item>
+        <item>Akimirkai užsimerk. Tik tiek.</item>
+        <item>Tu kvėpuoji paviršutiniškai. Tris kartus giliai įkvėpk.</item>
+        <item>Dušas padeda daugiau, nei atrodo.</item>
+        <item>Tavo kūnas per ilgai vienoje vietoje.</item>
+        <item>Tikrame poilsyje ekrano nėra.</item>
+        <item>Dvidešimt minučių pasivaikščiojimo pakeičia visą dieną.</item>
+        <item>Galva sunki, nes kūnas nejuda.</item>
+        <item>Sausos akys, įtempti pečiai. Juk pastebėjai.</item>
+        <item>Dvi minutės ant kojų perkrauna geriau nei slinkimas.</item>
+        <item>Kūnas prašo miego, o protas – dirgiklių. Klausyk kūno.</item>
+        <item>Ekrano šviesa trikdo tavo miegą dar kelias valandas.</item>
+        <item>Ištiesk kojas. Greita ir veiksminga.</item>
+        <item>Tu nusipelnei poilsio, kuris tikrai pailsina.</item>
+        <item>Judėjimas – pigiausias antidepresantas pasaulyje.</item>
+        <item>Tavo kūnas prisimins šią išmiegotą naktį.</item>
+        <item>Lėtas kvėpavimas nuramina greičiau nei bet koks vaizdo įrašas.</item>
+        <item>Tau gal norisi valgyti, o gal tiesiog nuobodu. Išsiaiškink.</item>
+        <item>Kūnas atsigauna, kai galva sustoja.</item>
+        <item>Dvidešimt sekundžių žvilgsnio pro langą.</item>
+        <item>Tavo riešui ir nykščiui reikia atokvėpio.</item>
+        <item>Ekrano nuovargis išgaruoja einant.</item>
+        <item>Miegant atmintis susitvarko. Saugok miegą.</item>
+        <item>Tau reikia mažiau dirgiklių, o ne daugiau.</item>
+        <item>Dvi minutės tempimo pratimų vertesnės už dešimt minučių vaizdo įrašų.</item>
+        <item>Tavo kūnas dabar siunčia tau ženklą.</item>
+        <item>Oras, vanduo ir judėjimas. Receptas nepasikeitė.</item>
+        <item>Minutei atsigulk ant grindų. Rimtai.</item>
+        <item>Ekranas neleidžia tau užmigti, kai reikia miegoti.</item>
+        <item>Kūnas prašo pertraukos, o ranka – ekrano. Duok pertrauką.</item>
+        <item>Tavo akys dirba nuo pat ryto.</item>
+        <item>Gerai išmiegota naktis keičia pasaulį.</item>
+        <item>Atsistok. Tiesiog atsistok. Jau to užtenka.</item>
+        <item>Dėl šio pasirinkimo išsimiegosi geriau.</item>
+        <item>Kūnas dėkoja už tai, kas galvai atrodo nuobodu.</item>
+        <item>Patempk nugarą. Ji to prašo.</item>
+        <item>Tikras poilsis – tai tyla, o ne kitas dirgiklis.</item>
+        <item>Tavo kūnas turi savo ritmą, o ekranas jo nepaiso.</item>
+        <item>Pažvelk į horizontą. Akims reikia tolio.</item>
+        <item>Žandikaulio įtampa nuo slinkimo nepraeis.</item>
+        <item>Ar pameni, kiek laiko jau sėdi?</item>
+        <item>Judėjimas suteikia aiškumo. Visada suteikdavo.</item>
+        <item>Prieš bet kokį sprendimą išgerk vandens.</item>
+        <item>Prarasto miego turinys nesugrąžins.</item>
+        <item>Tavo kūnas veikia gerai, kai jam leidi.</item>
+        <item>Trumpas pogulis duoda daugiau nei valanda sraute.</item>
+        <item>Giliai įkvėpti – nemokama ir veikia iškart.</item>
+        <item>Ekranas nepastebimai įtempia kūną.</item>
+        <item>Tavo nuovargis didesnis, nei turėtų būti.</item>
+        <item>Atsistok ir pažiūrėk pro langą. Penkias sekundes.</item>
+        <item>Tavo kūnas evoliucionavo ne tam, kad nejudėdamas spoksotų į šviesą.</item>
+        <item>Ištiesk pirštus. Šiandien jie daug dirbo.</item>
+        <item>Naktis geresnė, kai prieš miegą nėra ekrano.</item>
+        <item>Ekranas siūlo ne poilsį.</item>
+        <item>Tavo kūnas prašo gamtos, o gauna pikselius.</item>
+        <item>Stiklinė vandens ir trys įkvėpimai. Dabar.</item>
+        <item>Pečių įtampa – nuo to, kaip laikai telefoną.</item>
+        <item>Kūnas atsipalaiduoja, kai dėmesys liaujasi lakstyti.</item>
+        <item>Po penkių minučių jausiesi geriau.</item>
+        <item>Judėjimas keičia chemiją. Ekranas keičia tik temą.</item>
+        <item>Tavo akys nusipelnė tikro poilsio.</item>
+        <item>Vaikščiojimas sutvarko mintis geriau nei srauto skaitymas.</item>
+        <item>Mėlyna šviesa dabar – prastas miegas vėliau.</item>
+        <item>Tau reikia poilsio, o ne dar daugiau informacijos.</item>
+        <item>Pirmiausia – du gilūs įkvėpimai.</item>
+        <item>Tavo kūnas išmintingesnis už impulsą.</item>
+        <item>Atsistok ir nueik iki virtuvės. To pakaks.</item>
+        <item>Leisk pailsėti kūnui, ir kartu pailsės galva.</item>
+        <item>Šalia tavęs dabar yra gyvų žmonių.</item>
+        <item>Vienas pokalbis vertesnis už tris šimtus įrašų.</item>
+        <item>Paskambink kam nors. Tikrai, balsu.</item>
+        <item>Žmogus, kurį myli, – vos per vieną žinutę nuo tavęs.</item>
+        <item>Žmonės sraute nežino, kad tu egzistuoji.</item>
+        <item>Tie, kurie su tavimi viename kambaryje, nusipelno daugiau.</item>
+        <item>Apkabinimas išsprendžia tai, ko neišspręs joks vaizdo įrašas.</item>
+        <item>Parašyk tam, kurį pastaruoju metu pamiršti.</item>
+        <item>Tavo mamai šiandien patiktų tavo skambutis.</item>
+        <item>Tikrame gyvenime žmonės atsako iš tikrųjų.</item>
+        <item>Tas dingęs draugas dar gali sugrįžti. Pakviesk jį.</item>
+        <item>Buvimas šalia – rečiausia, ką gali duoti.</item>
+        <item>Kažkas laukia, kol pakelsi akis.</item>
+        <item>Geras klausimas vertesnis už valandą slinkimo.</item>
+        <item>Aplinkiniai žmonės neturi algoritmo.</item>
+        <item>Šalia vyksta pokalbis, o tu jį praleidi.</item>
+        <item>Niekas iš srauto nebus šalia, kai tau prireiks.</item>
+        <item>Kava su kuo nors pakeičia savaitę labiau nei bet koks srautas.</item>
+        <item>Tavo draugija – dovana. Padovanok ją.</item>
+        <item>Pažvelk į tuos, kurie su tavimi.</item>
+        <item>Draugystę reikia laistyti. Palaistyk šiandien.</item>
+        <item>Žmogus šalia tavęs – tikras.</item>
+        <item>Tiems, kurie tave myli, nereikia patiktukų.</item>
+        <item>Ar prisimeni savo paskutinį ilgą pokalbį?</item>
+        <item>Pakviesk ką nors pasivaikščioti.</item>
+        <item>Geriausiuose prisiminimuose ekranų retai būna.</item>
+        <item>Kažkam dabar svarbu, kad esi šalia.</item>
+        <item>Nusiųsk balso žinutę žmogui, kurį myli.</item>
+        <item>Žmonės keičiasi, kai skiri jiems dėmesio.</item>
+        <item>Šiandien tavo buvimas kažkam brangus.</item>
+        <item>Po gero pokalbio jautiesi geriau. Po srauto – ne.</item>
+        <item>Kažkam svarbu sužinoti, kad tu prisiminei.</item>
+        <item>Ne sek kažką, o susitik su kuo nors.</item>
+        <item>Stiprūs ryšiai kuriami kartu praleistu laiku.</item>
+        <item>Gali tapti priežastimi, kodėl kažkieno diena bus gera.</item>
+        <item>Tas giminaitis, su kuriuo nesikalbėjai jau kelis mėnesius.</item>
+        <item>Viena nuoširdi žinutė vertesnė už tūkstantį peržiūrų.</item>
+        <item>Būti kartu – ne tas pats, kas būti prisijungus.</item>
+        <item>Žmonės, su kuriais gyveni, nusipelno viso tavo dėmesio.</item>
+        <item>Pakviesk ką nors vakarienės.</item>
+        <item>Tikri žmonės turi veidą, balsą ir ribotą laiką.</item>
+        <item>Kažkam tavęs niekas negali pakeisti. Pasirodyk.</item>
+        <item>Svarbiausias tavo dienos pokalbis dar priešaky.</item>
+        <item>Šalia tavęs irgi yra kažkas be ekrano.</item>
+        <item>Išklausyti kitą – lengviausias būdas pelnyti meilę.</item>
+        <item>Tam draugui dabar nelengva. Paklausk, kaip jis.</item>
+        <item>Tavo vaikas, šuo, kaimynas. Kažkas yra šalia.</item>
+        <item>Tinklai sujungia tave su daugybe žmonių ir su nė vienu iš jų.</item>
+        <item>Popietė su kuo nors vertesnė už mėnesį sraute.</item>
+        <item>Šiandien gali ką nors prajuokinti. Iš tikrųjų.</item>
+        <item>Visiškas buvimas šalia – didžiulė retenybė. Ir tu gali jį padovanoti.</item>
+        <item>Šią savaitę kažkas apie tave kalbėjo. Atsilygink.</item>
+        <item>Sraute tavęs niekas nepasigenda.</item>
+        <item>Penkių minučių skambutis gali pakeisti kažkieno dieną.</item>
+        <item>Svarbūs žmonės apie tai nerašo įrašų.</item>
+        <item>Iki gero pokalbio – vienas klausimas.</item>
+        <item>Tikroje draugijoje nėra reklamų.</item>
+        <item>Tas žmogus, kuris visada tave palaiko. Padėkok jam šiandien.</item>
+        <item>Žiūrėti į akis – vis dar geriausia technologija.</item>
+        <item>Tavo šeima – ne srautas, kurį galima praslinkti.</item>
+        <item>Pakviesk ką nors kartu nieko neveikti.</item>
+        <item>Ir toli esantys nusipelno žinių iš tavęs.</item>
+        <item>Už šio ekrano yra žmonių, kuriems tu patinki.</item>
+        <item>Atidėtas sunkus pokalbis slegia labiau nei srautas.</item>
+        <item>Džiaukis tais, kurie šalia, kol jie šalia.</item>
+        <item>Žmonės prisimena tuos, kurie buvo šalia.</item>
+        <item>Be jokios priežasties pakviesk draugą kavos.</item>
+        <item>Kažkas kažkur nori išgirsti, kaip tau sekasi.</item>
+        <item>Dabar gali ką nors tikrai išklausyti.</item>
+        <item>Ryšys kuriamas žiūrint vienas į kitą, o ne slenkant ekraną.</item>
+        <item>Tavo dėmesys – geriausia dovana tiems, kuriuos myli.</item>
+        <item>Žmogus vertesnis už profilį.</item>
+        <item>Tas pokalbis, kurį seniai žadėjai. Šiandien.</item>
+        <item>Rasti laiko kitam – viena iš meilės formų.</item>
+        <item>Dabar turi laiko kažkam.</item>
+        <item>Niekas, atsisveikindamas su gyvenimu, nenorėjo daugiau sekėjų.</item>
+        <item>Vėl susitik su kuo nors, užuot stebėjus iš toli.</item>
+        <item>Švelnius žodžius kartais reikia ištarti garsiai.</item>
+        <item>Tavo senoji kompanija vis dar yra. Pakviesk juos.</item>
+        <item>Kažkas šalia tavęs nori pasikalbėti.</item>
+        <item>Lyginimasis – ne ryšys.</item>
+        <item>Šiandien gali tiesiog būti šalia.</item>
+        <item>Ranka parašytas raštelis. Kokia puiki mintis.</item>
+        <item>Tų, kurie tave tikrai pažįsta, sraute nėra.</item>
+        <item>Praleisk popietę su kuo nors.</item>
+        <item>Artimi žmonės nusipelno to, ką atiduodi srautui.</item>
+        <item>Tavęs reikia žmogui, kuris nieko neskelbia.</item>
+        <item>Paskambink ir paklausk, kaip žmogui iš tikrųjų sekasi.</item>
+        <item>Vienatvė nepraeina nuo dar daugiau ekrano.</item>
+        <item>Šiandien prisiartink prie kažko.</item>
+        <item>Bendras valgis vertas visos popietės.</item>
+        <item>Tavo dėmesys maitina santykius. Pamaitink vieną.</item>
+        <item>Kažkas apie tave galvoja būtent dabar.</item>
+        <item>Pasakyk kam nors, kad tau tas žmogus brangus.</item>
+        <item>Draugystės miršta nuo tylos, o ne nuo barnių.</item>
+        <item>Šalia tavęs yra gerų žmonių. Džiaukis jais.</item>
+        <item>Kažkam reikia draugijos, o tu gali ją suteikti.</item>
+        <item>Palik srautą ir susitik su žmonėmis.</item>
+        <item>Tie, kurie tave myli, nori tavo laiko, o ne tavo profilio.</item>
+        <item>Per penkias minutes gali kažkam pagerinti dieną.</item>
+        <item>Kūryba vargina, bet pripildo. Vartojimas ramina, bet ištuština.</item>
+        <item>Tu turi daugiau ką pasakyti nei pamatyti.</item>
+        <item>Kažkas dabar kuria tai, ką tu ketinai žiūrėti.</item>
+        <item>Parašyk vieną eilutę. Tik vieną.</item>
+        <item>Pasaulyje per daug vartotojų ir per mažai kūrėjų.</item>
+        <item>Ta tavo idėja vis dar laukia.</item>
+        <item>Gali kažką sukurti, užuot žiūrėjus į kitų sukurtą.</item>
+        <item>Kiekvieną gerą dalyką sukūrė kažkas, kas tuo metu neslinko ekrano.</item>
+        <item>Tavo idėja vertesnė už visą šiandienos srautą.</item>
+        <item>Pradėk tai, ką atidėlioji. Užtenka penkių minučių.</item>
+        <item>Sustojusiam sumanymui tereikia stumtelėjimo.</item>
+        <item>Turi talentą kažkam kitam nei ekrano slinkimas.</item>
+        <item>Sukurk šiandien tai, ko vakar nebuvo.</item>
+        <item>Kurti smagiau nei žiūrėti – sunku tik pradėti.</item>
+        <item>Tas tuščias sąsiuvinis nekanda.</item>
+        <item>Geriausias turinys – tas, kurį kuri tu.</item>
+        <item>Darant išmokstama daugiau nei žiūrint.</item>
+        <item>Pagrok, nupiešk, išvirk. Padaryk ką nors rankomis.</item>
+        <item>Kūrybiškumas dingsta, kai prikemši galvą srauto.</item>
+        <item>Yra kūrinys, kurio dar niekas nesukūrė – tavo.</item>
+        <item>Pradėk prastai. Paskui pagerės.</item>
+        <item>Po pastraipą per dieną – ir turi knygą.</item>
+        <item>Tu turi istoriją, kurią verta papasakoti.</item>
+        <item>Kurti – geriausias vaistas nuo tuštumos.</item>
+        <item>Nuobodulys – kūrybiškumo pradžia. Leisk jam būti.</item>
+        <item>Galva ima kurti, kai liaujiesi ją kimšti.</item>
+        <item>Tas apmokėtas kursas vis dar laukia.</item>
+        <item>Šiandien įmanoma išmokti kažką naujo.</item>
+        <item>Vartoti lengva. Todėl tai taip menkai teikia pasitenkinimo.</item>
+        <item>Nori kažką nuveikti. Pradėk dabar.</item>
+        <item>Penkios minutės praktikos vertesnės už valandą vaizdo įrašų.</item>
+        <item>Tas receptas, kurį seniai nori išbandyti.</item>
+        <item>Idėjos ateina tyloje, o ne slenkant.</item>
+        <item>Gali kurti, o ne tik žiūrėti iš salės.</item>
+        <item>Mažas sumanymas pakeičia savaitę.</item>
+        <item>Užrašyk, ką darytum, jei turėtum laiko. O jo turi.</item>
+        <item>Tavo rankos moka daug ką. Pasinaudok jomis.</item>
+        <item>Šiandien padaryk ką nors netobulai.</item>
+        <item>Mokytis smagiau nei tiesiog pramogauti.</item>
+        <item>Tai, ką sukuri, lieka. Tai, ką praslenki, dingsta.</item>
+        <item>Tas instrumentas, dūlantis kampe.</item>
+        <item>Tavęs laukia nebaigtas sumanymas.</item>
+        <item>Kurti – priešinga lyginimuisi.</item>
+        <item>Pradėk nuo mažo. Pradėk šiandien.</item>
+        <item>Puslapis per dieną – ir gyvenimas kitoks.</item>
+        <item>Tavo vaizduotei reikia tuščios erdvės.</item>
+        <item>Padaryk tai, kuo rytoj galėsi didžiuotis.</item>
+        <item>Kūrybos teikiamo pasitenkinimo niekas nepakeis.</item>
+        <item>Tu gali daugiau nei tik vartoti.</item>
+        <item>Tas apleistas pomėgis niekur nedingo.</item>
+        <item>Dvidešimt minučių praktikos – dvidešimt minučių pažangos.</item>
+        <item>Slenkant srautą dar niekas nieko gerai neišmoko.</item>
+        <item>Kitas tavo įgūdis kada nors prasidės. Tegul tai būna dabar.</item>
+        <item>Daryk, net jei niekas nemato.</item>
+        <item>Yra kažkas, ko nori išmokti. Pradėk.</item>
+        <item>Vartoti – tai žiūrėti į kitų gyvenimą.</item>
+        <item>Turi rankas, galvą ir laiko. Daugiau nieko nereikia.</item>
+        <item>Pirmas juodraštis visada prastas. Vis tiek jį parašyk.</item>
+        <item>Ta kalba, kuria norėjai kalbėti.</item>
+        <item>Kūryba – tai būdas nuobodulį paversti džiaugsmu.</item>
+        <item>Po truputį kasdien – ir išmoksi bet ko.</item>
+        <item>Tavyje yra kažkas, kas nori išeiti į šviesą.</item>
+        <item>Parašyk apie savo dieną. Tik sau.</item>
+        <item>Tavo kūrybiškumas laukia, kol išjungsi triukšmą.</item>
+        <item>Šiandien nuveik ką nors savo rankomis.</item>
+        <item>Malonumas ką nors užbaigti nepanašus į jokį kitą.</item>
+        <item>Tas sumanymas, kuris tave taip žavėjo. Jis vis dar gali žavėti.</item>
+        <item>Kad pradėtum, nebūtina mokėti gerai.</item>
+        <item>Pagamink ką nors naujo. Tai irgi kūryba.</item>
+        <item>Gyvenimas tampa įdomesnis, kai kažką darai.</item>
+        <item>Niekas negimsta mokėdamas. Visi pradeda nuo nevykusių bandymų.</item>
+        <item>Ta idėja, aplankiusi paryčiais. Užsirašyk ją.</item>
+        <item>Tai, ką moki, gali kažkam padėti.</item>
+        <item>Truputį padaryk šiandien ir truputį rytoj.</item>
+        <item>Geriausias metas pradėti jau praėjo. Antras geriausias – dabar.</item>
+        <item>Tavo kūrinys pats savaime neatsiras.</item>
+        <item>Praktikuotis nuobodu, kol pradeda sektis.</item>
+        <item>Tu nori kurti. Srautas nori, kad tik žiūrėtum.</item>
+        <item>Tas piešinys, kurį pradėjai.</item>
+        <item>Daryti – greičiausias būdas išmokti.</item>
+        <item>Tu turi balsą. Panaudok jį kam nors.</item>
+        <item>Sutaisyti ką nors namuose – irgi kūryba.</item>
+        <item>Kitas tavo pasiekimas prasideda tokią paprastą dieną kaip šiandien.</item>
+        <item>Padaryk tai, ką padarytum tik tu.</item>
+        <item>Srautas begalinis. Tavo kūrinys turi pabaigą – todėl jis ir svarbus.</item>
+        <item>Šiandien gali ką nors pasodinti. Tiesiogine prasme.</item>
+        <item>Ta lentelė, tas planas, ta svajonė.</item>
+        <item>Kurti sunku – būtent todėl tai ir vertinga.</item>
+        <item>Tavyje daugiau įdomumo nei bet kokiame sraute.</item>
+        <item>Pasimokyk dvidešimt minučių. Tai mažai ir kartu daug.</item>
+        <item>Smalsumas geriausias, kai virsta praktika.</item>
+        <item>Ta daina, kurią norėjai išmokti.</item>
+        <item>Padaryk dabar ką nors paprasto ir naudingo.</item>
+        <item>Turi kažką gero, ką gali pasiūlyti pasauliui.</item>
+        <item>Pradėk tai, už ką vėliau sau padėkosi.</item>
+        <item>Asmeninis sumanymas pakeičia santykį su laiku.</item>
+        <item>Kūryba – geriausias būdas užimti galvą.</item>
+        <item>Šiandien gali kažką užbaigti.</item>
+        <item>Paimk į rankas kažką tikro.</item>
+        <item>Niekas neatstoja jausmo, kad padarei.</item>
+        <item>Nieko tokio, kad čia atėjai. Dabar įkvėpk.</item>
+        <item>Niekas nieko neskaičiuoja. Tiesiog eik toliau.</item>
+        <item>Tau sekasi gerai, net jei taip neatrodo.</item>
+        <item>Be skubos ir be priekaištų. Tik pauzė.</item>
+        <item>Tai ne egzaminas. Tik švelnus priminimas.</item>
+        <item>Tu stengiesi, ir to jau pakanka.</item>
+        <item>Viskas gerai. Uždaryk ir tęsk savo dieną.</item>
+        <item>Čia niekas nereikalauja visada pataikyti.</item>
+        <item>Šiandien nusipelnei lengvumo.</item>
+        <item>Be dramų. Tik akimirka atsikvėpti.</item>
+        <item>Čia rami vieta. Pabūk akimirką.</item>
+        <item>Darai viską, ką gali. Tai svarbu.</item>
+        <item>Čia jokių priekaištų. Tik rūpestis.</item>
+        <item>Kvėpuok. Nieko blogo nevyksta.</item>
+        <item>Atėjai iki čia, ir tai jau gerai.</item>
+        <item>Niekas tavęs neteisia. Ir tau nereikia.</item>
+        <item>Viskas tvarkoje. Tiesiog tęsk.</item>
+        <item>Žingsnis po žingsnio – tinkamas tempas.</item>
+        <item>Čia nereikia tobulumo.</item>
+        <item>Eiti lėtai – irgi eiti.</item>
+        <item>Šis ekranas nieko iš tavęs nereikalauja.</item>
+        <item>Dabar elkis su savimi švelniai.</item>
+        <item>Jausti norą – normalu. Taip būna.</item>
+        <item>Tu rūpiniesi savimi. Tai gražu.</item>
+        <item>Be pavojaus signalų, be skubos, be išgąsčio.</item>
+        <item>Tu – žmogus. Ir tai visai normalu.</item>
+        <item>Niekam nereikia aiškintis.</item>
+        <item>Giliai įkvėpk. Jau praėjo.</item>
+        <item>Čia tau saugu.</item>
+        <item>Nieko tokio, jei šiandien sunku.</item>
+        <item>Nė viena diena nepanaši į kitą. Ir ši – ne.</item>
+        <item>Tu esi kelyje, net jei eini lėtai.</item>
+        <item>Truputį atleisk sau reikalavimus.</item>
+        <item>Viskas gerai. Tik atokvėpis.</item>
+        <item>Nebūtina visada jaustis gerai.</item>
+        <item>Švelnumas sau veikia geriau nei griežtumas.</item>
+        <item>Ši akimirka ramiai praeis.</item>
+        <item>Sunkiausią šios dienos dalį jau padarei.</item>
+        <item>Nieko skubaus. Nieko rimto. Tik pauzė.</item>
+        <item>Nusišypsok. Tai ne taip rimta, kaip atrodo.</item>
+        <item>Tu bandai – ir tai svarbiausia.</item>
+        <item>Nereikia niekam atsiskaityti. Tiesiog judėk pirmyn.</item>
+        <item>Viskas gerai. Tikrai.</item>
+        <item>Tu nusipelnei lengvos dienos.</item>
+        <item>Kvėpuok. Pasaulis sukasi toliau.</item>
+        <item>Šiandien niekur neskubėk.</item>
+        <item>Su šiuo pasirinkimu tau ramu.</item>
+        <item>Galima pradėti iš naujo tiek kartų, kiek reikia.</item>
+        <item>Čia vieta be priekaištų.</item>
+        <item>Turėk kantrybės procesui.</item>
+        <item>Tu niekur nevėluoji.</item>
+        <item>Nieko tokio, jei nesijauti šimtu procentų.</item>
+        <item>Ši pauzė – rūpestis, o ne pataisymas.</item>
+        <item>Dabar gali tiesiog eiti toliau.</item>
+        <item>Be įtampos. Tik akimirka.</item>
+        <item>Nieko tokio, jei tai buvo automatiškai.</item>
+        <item>Kad jaustumeisi gerai, priežasties nereikia.</item>
+        <item>Įkvėpk ir tęsk. Štai ir viskas.</item>
+        <item>Čia jokių problemų.</item>
+        <item>Tu darai teisingai.</item>
+        <item>Tikrai viskas gerai. Eik ramiai.</item>
+        <item>Ši akimirka – tavo poilsiui.</item>
+        <item>Daug kas jaučia tą patį. Ne tik tu.</item>
+        <item>Viskas ramu. Tęsk savo dieną.</item>
+        <item>Be naštos. Tik priminimas.</item>
+        <item>Tavęs jau pakanka.</item>
+        <item>Ramybės, kurios ieškai, sraute nėra.</item>
+        <item>Su tavimi viskas gerai.</item>
+        <item>Sekundėlei leisk protui pailsėti.</item>
+        <item>Tu nusipelnei šio rūpesčio.</item>
+        <item>Nieko nereikia spręsti dabar.</item>
+        <item>Vieną kartą įkvėpk. Tada tęsk.</item>
+        <item>Tau viskas gerai. Tik tiek.</item>
+        <item>Be priekaištų, be skaičiavimų, be rezultatų lentelės.</item>
+        <item>Ramybės akimirka dienos viduryje.</item>
+        <item>Dabar gali sau padovanoti šiek tiek švelnumo.</item>
+        <item>Aplink taika ir ramybė.</item>
+        <item>Niekur nereikia skubėti.</item>
+        <item>Šiandien padarei, ką galėjai.</item>
+        <item>Nieko tokio. Rytoj tęsi toliau.</item>
+        <item>Ši akimirka – tik vienas įkvėpimas.</item>
+        <item>Tau saugu, ir to pakanka.</item>
+        <item>Čia niekas nieko nesmerkia.</item>
+        <item>Tiesiog įkvėpk ir eik gyventi.</item>
+        <item>Šiandien nusipelnei ramybės.</item>
+        <item>Bet koks tempas tinka.</item>
+        <item>Truputį leisk pailsėti galvai.</item>
+        <item>Čia tavęs visada laukiama.</item>
+        <item>Jokio išgąsčio. Tik trumpas sustojimas.</item>
+        <item>Šiandien gyvenimas – ne lenktynės.</item>
+        <item>Esi čia visa savo esybe – ir to užtenka.</item>
+        <item>Gerai, kad pabandei.</item>
+        <item>Čia niekas nėra prieš tave.</item>
+        <item>Įkvėpk ir tęsk lėtai.</item>
+        <item>Tavyje nieko nereikia taisyti.</item>
+        <item>Tai ramybės akimirka.</item>
+        <item>Jokių reikalavimų. Eik toliau lengvai.</item>
+        <item>Tau leidžiama pailsėti.</item>
+        <item>Čia viskas ramu.</item>
+        <item>Neskubėk. Diena palauks.</item>
+        <item>Tu švelniai elgiesi su savimi, o tai – stiprybė.</item>
+        <item>Ką darytum dabar, jei šios programėlės nebūtų?</item>
+        <item>Esi čia, nes nori, ar iš įpročio?</item>
+        <item>Ko gi tu ieškojai?</item>
+        <item>Ar tai bus svarbu rytoj ryte?</item>
+        <item>Ar prisiminsi tai, ką dabar pamatytum?</item>
+        <item>Ką veikei, kol nepaėmei telefono?</item>
+        <item>Kiek laiko šiandien nori tam skirti?</item>
+        <item>Tau nuobodu ar tiesiog pavargai?</item>
+        <item>Kokia galėtų būti tavo popietė vietoj to?</item>
+        <item>Ar verta?</item>
+        <item>Ar atidarei dėl kokios nors konkrečios priežasties?</item>
+        <item>Ką dar kartą atidėtum, jei dabar įeitum?</item>
+        <item>Kuo nori būti po metų?</item>
+        <item>Kas tau dabar iš tikrųjų padėtų?</item>
+        <item>Gal nuo kažko bėgi?</item>
+        <item>Gal imkis to, ką vis atidėlioji?</item>
+        <item>Kas nutiktų, jei tiesiog uždarytum?</item>
+        <item>Turi geresnių darbų. Kokių?</item>
+        <item>Tai poilsis ar pabėgimas?</item>
+        <item>Ko tavęs paprašytų rytojaus tavo versija?</item>
+        <item>Tau norisi valgyti, miegoti ar tiesiog nuobodu?</item>
+        <item>Kada paskutinį kartą po srauto jauteisi geriau?</item>
+        <item>Ką nori jausti dienos pabaigoje?</item>
+        <item>Ko tau dabar trūksta?</item>
+        <item>Tau to reikia ar tik norisi?</item>
+        <item>Koks smulkus dalykas dabar pagerintų tavo dieną?</item>
+        <item>Ką veiktum su dviem laisvomis valandomis?</item>
+        <item>Ar jau žinai, ką turėtum daryti?</item>
+        <item>Kokia tikroji šių penkiolikos minučių kaina?</item>
+        <item>Tu to nori, ar tiesiog ranka pati juda?</item>
+        <item>Kam dabar labiau verta skirti laiką?</item>
+        <item>Ar pas tave viskas gerai?</item>
+        <item>Koks būtų geriausias pasirinkimas, ramiai pagalvojus?</item>
+        <item>Ar didžiuosiesi šiuo pusvalandžiu?</item>
+        <item>Ką darytum, jei niekas nematytų?</item>
+        <item>Ar yra kas nors, kam galėtum dabar paskambinti?</item>
+        <item>Ko tavo galva bando išvengti?</item>
+        <item>Ar verta už tai atiduoti savo popietę?</item>
+        <item>Turi planą šiai dienai. Ar jame yra tai?</item>
+        <item>Kas būtų smagiausia nuveikti dabar?</item>
+        <item>Atvirai: ar tau viskas gerai?</item>
+        <item>Kas padarytų šią savaitę vertingą?</item>
+        <item>Ar to nori, ar tiesiog taip įpratai?</item>
+        <item>Ar jau pagalvojai, ką nori veikti rytoj?</item>
+        <item>Kiek kartų šiandien jau paėmei telefoną?</item>
+        <item>Kas po valandos suteiktų tau pasitenkinimą?</item>
+        <item>Tu nori įeiti, ar tiesiog pirštas veikia automatiškai?</item>
+        <item>Kokį svarbų dalyką atidedi vėlesniam laikui?</item>
+        <item>Ką apie tai pasakytum tu prieš dešimt metų?</item>
+        <item>Ar tu tikrai ilsiesi?</item>
+        <item>Ar yra kažkas, ką darytum, jei užtektų drąsos?</item>
+        <item>Ką norėtum nuveikti iki šio vakaro?</item>
+        <item>Ar tai vertingiau už pokalbį?</item>
+        <item>Kam šiandien turi laiko?</item>
+        <item>Kokį įprotį nori turėti po šešių mėnesių?</item>
+        <item>Kas iš tikrųjų prašo tavo dėmesio?</item>
+        <item>Šią popietę norėtum prisiminti ar pamiršti?</item>
+        <item>Kaip būtų gerai panaudoti šią akimirką?</item>
+        <item>Esi čia, kad kažką pamatytum, ar kad kažko nejaustum?</item>
+        <item>Kas padėtų tau šiąnakt gerai išsimiegoti?</item>
+        <item>Tai prideda tavo dienai ar atima iš jos?</item>
+        <item>Ar tikrai nori žinoti, kas ten?</item>
+        <item>Koks paskutinis geras dalykas, kurį padarei be ekrano?</item>
+        <item>Ką veiktum popietę be interneto?</item>
+        <item>Kur tu taip skubi?</item>
+        <item>Kokį mažą žingsnį galėtum žengti dabar?</item>
+        <item>Kam tavo dėmesio reikia labiau nei šitam?</item>
+        <item>Ar šiandien jau giliai įkvėpei?</item>
+        <item>Koks tavo planas kitai valandai?</item>
+        <item>Ar tai priartina tave prie to, ko nori?</item>
+        <item>Ar darytum tai prie žmogaus, kuriuo žaviesi?</item>
+        <item>Kas gero šiandien nutiko?</item>
+        <item>Kiek tavo dienos jau atiteko ekranams?</item>
+        <item>Ar turi idėją, kuri laukia savo eilės?</item>
+        <item>Ką nori nuveikti šią savaitę?</item>
+        <item>Ar verta iškeisti tylą į triukšmą?</item>
+        <item>Šiandien kuri ar vartoji?</item>
+        <item>Koks paprastas dalykas dabar tave pradžiugintų?</item>
+        <item>Ką tokioje situacijoje pasakytum draugui?</item>
+        <item>Turi penkias minutes. Kam jas skirsi?</item>
+        <item>Kas tave iš tikrųjų slegia?</item>
+        <item>Ar tai geriausia, ką dabar gali padaryti?</item>
+        <item>Ar šią akimirką valdai tu?</item>
+        <item>Kokiu sprendimu didžiuotumeisi?</item>
+        <item>Ką nori nuveikti, kol diena dar nesibaigė?</item>
+        <item>Ar pameni, kodėl tai įsidiegei?</item>
+        <item>Gal atidėk vėlesniam laikui ir pažiūrėk, ar dar norėsi?</item>
+        <item>Ką darytum, jei šiandien turėtum daugiau drąsos?</item>
+        <item>Nori greitos ar geros savo dienos versijos?</item>
+        <item>Ką šiandien gali padaryti tik tu?</item>
+        <item>Kas tavęs laukia lauke?</item>
+        <item>Ar šiandien jau už ką nors padėkojai?</item>
+        <item>Kiek tau vertas kitas pusvalandis?</item>
+        <item>Ką nori išsinešti iš šios savaitės?</item>
+        <item>Tai skubu ar tik atrodo?</item>
+        <item>Ar darai tai, ką nori daryti?</item>
+        <item>Kokia būtų gera šios dienos pabaiga?</item>
+        <item>Ką veiktum, jei nejaustum nuovargio?</item>
+        <item>Ką renkiesi dabar – slinkti ar gyventi?</item>
+        <item>O gal tiesiog uždaryk ir pažiūrėk, kas nutiks.</item>
+    </string-array>
+</resources>

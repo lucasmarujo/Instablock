@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">Aplikacija %1$s je blokirana.</string>
+    <string name="aceleralock_block_title_unknown">Ova aplikacija je blokirana.</string>
+    <string name="aceleralock_block_close">Zatvori</string>
+    <string name="aceleralock_notification_channel">Zaštita je uključena</string>
+    <string name="aceleralock_notification_text">Zaštita je uključena</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: blokiranje web-stranica</string>
+    <string name="aceleralock_site_accessibility_description">Čita samo adresu u adresnoj traci preglednika Chrome, Samsung Internet, Firefox, Edge i Brave radi blokiranja web-stranica koje odabereš. Ništa se ne sprema i ništa ne napušta uređaj.</string>
+</resources>

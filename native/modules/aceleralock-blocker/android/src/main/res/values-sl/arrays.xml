@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Slovenščina: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>Čas, ki ga ne porabiš tukaj, se cel vrne v tvoje življenje.</item>
+        <item>Vsaka minuta stran od tega zaslona je spet tvoja.</item>
+        <item>Teh dvajset minut je ravno dovolj za sprehod.</item>
+        <item>Ko se drsenje ustavi, ima dan več prostora, kot se zdi.</item>
+        <item>Košček popoldneva je spet tvoj.</item>
+        <item>Ura na dan je petnajst dni na leto.</item>
+        <item>Čas se ne vrača, lahko pa še izbereš, kam bo šel.</item>
+        <item>Ta premor je tvoj. Nikomur ni treba vedeti, kaj z njim počneš.</item>
+        <item>Zunaj aplikacije se dogaja celo življenje.</item>
+        <item>Ura teče enako na obeh straneh tega zaslona.</item>
+        <item>Zdaj imaš v rokah nekaj časa. Porabi ga za nekaj, kar ostane v spominu do jutri.</item>
+        <item>Nihče si ob koncu dneva ne želi še več drsenja po objavah.</item>
+        <item>Petnajst minut tukaj je petnajst minut kjerkoli drugje.</item>
+        <item>Pomisli, koliko bi ti pred desetimi leti pomenilo teh pol ure.</item>
+        <item>Čas je edino, česar ne moreš kupiti nazaj.</item>
+        <item>Ves popoldan je še odprt pred tabo.</item>
+        <item>Ta minuta je lahko začetek nečesa drugega.</item>
+        <item>Ure vračaš sebi, eno za drugo.</item>
+        <item>Čas, prihranjen tukaj, ne izgine. Pojavi se drugje.</item>
+        <item>Deset minut se zdi malo, dokler jih ne sešteješ za cel mesec.</item>
+        <item>Življenje teče z običajno hitrostjo, ne s hitrostjo objav.</item>
+        <item>Danes imaš ob tej uri več časa kot včeraj.</item>
+        <item>Tisto, kar odlagaš, se ravno prilega temu premoru.</item>
+        <item>Ta premor je kratek. Kar narediš z njim, morda ni.</item>
+        <item>V dan gre veliko stvari, ko drsenje ni več vmes.</item>
+        <item>Ves preostali večer se ti je pravkar vrnil.</item>
+        <item>Čas je valuta. In ta trenutek se odločaš, da je ne zapraviš.</item>
+        <item>Objave se nikoli ne končajo. Tvoj dan se konča.</item>
+        <item>Pol ure na dan je cela knjiga na mesec.</item>
+        <item>Tam notri te ni čakalo nič nujnega.</item>
+        <item>Ta čas je bil že tvoj. Zdaj je spet pri tebi.</item>
+        <item>Jutro je lahko še plodno, če se začne zdaj.</item>
+        <item>Ničesar ne izgubljaš. Dobivaš premor.</item>
+        <item>Nihče nam ne vrača časa. Obdržimo ga lahko le sami.</item>
+        <item>Te minute so zunaj vredne več in to že veš.</item>
+        <item>Kar je bilo tam, bo tam tudi ostalo. Tvoj čas pa ne.</item>
+        <item>Življenje je sestavljeno iz takšnih popoldnevov.</item>
+        <item>Dan lahko končaš z nečim narejenim namesto z nečim videnim.</item>
+        <item>Dve uri na dan pomenita cel mesec na leto.</item>
+        <item>Čas, ki ga zaščitiš danes, ti ostane jutri.</item>
+        <item>To je del dneva, o katerem odločaš samo ti.</item>
+        <item>Tam notri ni nihče napisal ničesar, kar bi bilo vredno tvojega popoldneva.</item>
+        <item>S tridesetimi minutami na dan v enem letu zgradiš karkoli.</item>
+        <item>Tole je košček tišine, samo zate.</item>
+        <item>Ko je objav manj, je dan daljši.</item>
+        <item>Ta čas je zdaj surovina. Naredi nekaj iz njega.</item>
+        <item>Neki tvoj projekt čaka ravno na ta premor.</item>
+        <item>Kar pridobiš tukaj, se ne pokaže na nobenem zaslonu, le v tvojem življenju.</item>
+        <item>Prostega časa je malo. Ravnokar ga je nekaj več.</item>
+        <item>Nihče si ob koncu življenja ni želel še enega drsenja po zaslonu.</item>
+        <item>Imaš ves popoldan in še nič ga ni porabljenega.</item>
+        <item>Leto ima tristo petinšestdeset takšnih odločitev.</item>
+        <item>Ta premor je majhen, a v celoti tvoj.</item>
+        <item>Čas teče enako. Razlika je v tem, kar ostane potem.</item>
+        <item>Pol ure ni več v rokah avtopilota.</item>
+        <item>Preostanek dneva se ti zahvaljuje za ta postanek.</item>
+        <item>Pet minut tam se neopazno spremeni v štirideset.</item>
+        <item>Poznaš ceno teh petih minut. Zato si tukaj.</item>
+        <item>Ura, ki jo zaščitiš zdaj, je tista, ki jo zvečer iščeš.</item>
+        <item>Nič tam notri ni boljše, če ga vidiš zdaj namesto pozneje.</item>
+        <item>Ravnokar izbiraš, kam gre naslednja minuta.</item>
+        <item>Ta čas je dovolj za pogovor, sprehod ali dremež.</item>
+        <item>Dan je ploden, ko ure nehajo polzeti skozi prste.</item>
+        <item>Naslednjih pol ure pripada samo tebi.</item>
+        <item>Obstaja različica tega dne, v kateri nekaj ustvariš. Začne se zdaj.</item>
+        <item>Časa ni mogoče nakopičiti. Lahko ga le porabiš bolje ali slabše.</item>
+        <item>Te minute lahko postanejo pravi počitek.</item>
+        <item>Pravkar stopaš s tekočega traku, ki ne vodi nikamor.</item>
+        <item>Teden ima sto oseminšestdeset ur. Ta je tvoja.</item>
+        <item>Objave ti jemljejo čas po koščkih, da nihče ne opazi.</item>
+        <item>Zdaj lahko narediš tisto, kar vsak dan prestaviš na jutri.</item>
+        <item>Tvojemu popoldnevu se ni treba stisniti v zaslon.</item>
+        <item>Čas, ki ostane, naredi dan dolg na dober način.</item>
+        <item>Naslednja ura se vrača k tebi.</item>
+        <item>Nič od tega, kar je tam zdaj, ti čez teden dni ne bi ostalo v glavi.</item>
+        <item>To je takšna minuta, ki leto zgradi ali razkroji.</item>
+        <item>Čas je tvoj. Ni ga treba hitro porabiti.</item>
+        <item>Dan brez drsenja je dan, v katerega gre več.</item>
+        <item>Ura ne loči dobro porabljenega časa od zapravljenega. To narediš ti.</item>
+        <item>Ta ura je vredna toliko kot katerakoli druga v tvojem življenju.</item>
+        <item>Zdaj imaš čas. To je redkejše, kot se zdi.</item>
+        <item>Edini način, da imaš čas, je, da ga čuvaš.</item>
+        <item>Ves večer je še pred tabo.</item>
+        <item>Te minute so začetek popoldneva, ki ti bo ostal v spominu.</item>
+        <item>Tokrat se izogneš tisti enourni luknji.</item>
+        <item>Vse, kar zahteva čas, zahteva prav takšno odločitev.</item>
+        <item>Do večerje je še čas za marsikaj.</item>
+        <item>Dvigneš nogo s plina. Dan se upočasni skupaj s tabo.</item>
+        <item>Tvoj teden ima prostor. Le zasedlo ga je nekaj drugega.</item>
+        <item>Vsakič, ko tukaj zapreš, se dan malo podaljša.</item>
+        <item>Čas je darilo, ki ga podariš sebi, in ne stane niti centa.</item>
+        <item>Zdaj imaš točno tisto, za kar ves dan praviš, da ti manjka.</item>
+        <item>Dolg popoldan je sestavljen iz kratkih odločitev, kot je ta.</item>
+        <item>Nihče te ne bo vprašal, kako porabiš to polurico.</item>
+        <item>Čas, ki ga danes ne oddaš, bo jutri še vedno pri tebi.</item>
+        <item>Dvajset minut na dan je sto dvajset ur na leto.</item>
+        <item>Mirni čas pred spanjem je spet tvoj.</item>
+        <item>Med dvema obvestiloma se skriva veliko življenja.</item>
+        <item>Ves dan je tvoj, če ga ne razdaš po koščkih.</item>
+        <item>Do zdaj ti je uspelo čuvati čas. To je še en košček.</item>
+        <item>Tvoja pozornost je najbolj iskana dobrina na svetu. Tokrat zmaga ostane pri tebi.</item>
+        <item>Zbranost se vrača dvajset minut. Ne oddaj je zdaj.</item>
+        <item>Cela glava je vredna več kot razkosana.</item>
+        <item>Še malo prej je imelo tvojo pozornost nekaj drugega.</item>
+        <item>Razdeljena pozornost ni pozornost. Je samo utrujenost.</item>
+        <item>Tisto, s čimer se ukvarjaš, si zasluži tvojo celotno pozornost.</item>
+        <item>Globoko razmišljanje potrebuje čas brez prekinitev. To je ta čas.</item>
+        <item>Vsak preskok med zasloni stane več, kot pokaže ura.</item>
+        <item>Tvoj um je bil v dobrem ritmu. Naj nadaljuje.</item>
+        <item>Poglobljeno delo ne preživi drsenja po objavah.</item>
+        <item>Objave so zasnovane tako, da ti vzamejo pozornost. In to opaziš.</item>
+        <item>Dolga misel potrebuje tišino, da se izteče.</item>
+        <item>Celo zamisel zmoreš držati v glavi. Potrebuješ le prostor.</item>
+        <item>Raztresenost ni počitek. Počitek spočije.</item>
+        <item>Tvoja zbranost je še vedno tu nekje. Vrni se k njej.</item>
+        <item>Tvoja pozornost danes ni naprodaj.</item>
+        <item>Najboljše iz tvoje glave pride na dan po dvajseti minuti.</item>
+        <item>Prekinitev zdaj stane več, kot se zdi.</item>
+        <item>Zmoreš stvari, ki zahtevajo zbranost. Začni tako, da jo zaščitiš.</item>
+        <item>Nič tam notri nujno ne potrebuje tvoje pozornosti.</item>
+        <item>Ura zbranosti zaleže več kot štiri razdrobljene ure.</item>
+        <item>Tvoja glava deluje bolje, ko ne skače s teme na temo.</item>
+        <item>Kar je ostalo napol narejeno, lahko še danes dokončaš.</item>
+        <item>Zbranost ni moč volje. Je okolje. In svoje okolje zdaj urejaš.</item>
+        <item>Tisti težki problem popusti, ko ostaneš pri njem.</item>
+        <item>Tvoja pozornost je omejena. Zato je toliko vredna.</item>
+        <item>Ni ti treba zdaj vedeti vsega.</item>
+        <item>Hrup bo še vedno tam. Redka je tvoja tišina.</item>
+        <item>Velike stvari so naredili ljudje, ki jih ni nihče prekinjal.</item>
+        <item>Vrni se k svojemu opravilu. Tvoja glava je še vedno tam.</item>
+        <item>Eno opravilo naenkrat je hitrejše, kot se zdi.</item>
+        <item>Nuja po pogledu mine. Prekinjena zamisel se včasih ne vrne.</item>
+        <item>Zmoreš več zbranosti, kot je trenutno uporabljaš.</item>
+        <item>Dobro razmišljanje je počasno. Naj bo počasno.</item>
+        <item>Tvoja pozornost je danes nekaj zgradila. Ne podri tega iz radovednosti.</item>
+        <item>Kar zahteva glavo, zahteva vso glavo.</item>
+        <item>Nobene objave te ne naučijo tega, kar te nauči ura zbranosti.</item>
+        <item>Vsako zavrnjeno obvestilo prinese malo več jasnosti.</item>
+        <item>Rešitev je bila blizu. Vrni se k njej.</item>
+        <item>Spočit um je um, ki ga ni nič vleklo sem ter tja ves dan.</item>
+        <item>Tvoja pozornost je material, iz katerega gradiš vse drugo.</item>
+        <item>Najtežji je začetek. Ta je že za tabo. Ne začenjaj znova od nič.</item>
+        <item>Pusti stvar pri miru in v glavi se bo razrešila sama.</item>
+        <item>Jasnost pride, ko hrup utihne.</item>
+        <item>Najboljše delo tvojega dne se še ni zgodilo.</item>
+        <item>Ne manjka ti časa. Manjka ti nepretrganega časa.</item>
+        <item>Razmišljaš bolje, kot ti dovolijo objave.</item>
+        <item>Tisto besedilo, tista koda, tisti pogovor. Čakajo na tvojo polno pozornost.</item>
+        <item>Zbranost je mišica. Krepi se z dnevi, kot je današnji.</item>
+        <item>Tvoja glava se ti ravnokar zahvaljuje.</item>
+        <item>Ena stvar naenkrat je še vedno najnaprednejša tehnika, kar jih obstaja.</item>
+        <item>Kar narediš s pozornostjo, ostane. Vse drugo mine.</item>
+        <item>Za razmišljanje ni bližnjice. Le čas brez prekinitev.</item>
+        <item>Zaslužiš si, da misel izpelješ do konca.</item>
+        <item>Tvoj um je bil oster. Ohrani to ostrino.</item>
+        <item>Zaslon utripa. Zamisli ne. Ostani pri zamislih.</item>
+        <item>En zbran dan je vreden toliko kot trije v naglici.</item>
+        <item>Počasnost ni tvoja težava. Samo prekinjali so te.</item>
+        <item>Tisto, kar je danes pomembno, ni med objavami.</item>
+        <item>Ostati na poti je ceneje kot se vračati nanjo.</item>
+        <item>Tvoja polna pozornost je darilo. Podari jo tistim, ki si jo zaslužijo.</item>
+        <item>Dobre zamisli se rodijo v tišini.</item>
+        <item>Nekaj dobrega je bilo ravno v teku.</item>
+        <item>Nihče ne razmišlja dobro, ko ima glavo na desetih krajih.</item>
+        <item>Globina se pokaže šele po določenem času na površini.</item>
+        <item>Pri zbranosti ne gre za to, da narediš več. Gre za to, da narediš dobro.</item>
+        <item>Danes te čaka nekaj pomembnega. To niso objave.</item>
+        <item>Pusti glavi, da dokonča stavek, ki ga je začela.</item>
+        <item>Ura brez prekinitev spremeni, kaj je v dnevu mogoče.</item>
+        <item>Kar se zdaj zdi težko, z vztrajno pozornostjo postane lahko.</item>
+        <item>Tvoja zbranost je tvoja prednost. Le redki jo še imajo.</item>
+        <item>Ne zamenjaj ene pomembne stvari za veliko hitrih.</item>
+        <item>Radovednost lahko počaka. Zbranost ne čaka.</item>
+        <item>Nekaj gradiš. Kar nadaljuj.</item>
+        <item>Preskakovanje med opravili se zdi produktivno, pa skoraj nikoli ni.</item>
+        <item>Najboljša raba tvoje glave je danes še na voljo.</item>
+        <item>Pozornost, ki jo prihraniš zdaj, se pozneje pokaže v rezultatu.</item>
+        <item>Tvoj um ni tok objav. Shrani tisto, čemur nameniš pozornost.</item>
+        <item>Redko si kaj zares zasluži vso tvojo pozornost. Izkoristi to.</item>
+        <item>Težko ni nemogoče. Le dlje traja.</item>
+        <item>Samo nekaj minut te loči od preboja.</item>
+        <item>Hrup izgine, ko ga nehaš hraniti.</item>
+        <item>Ostani pri svojem opravilu, dokler ga ne končaš.</item>
+        <item>En globok potop odtehta deset plitvih.</item>
+        <item>Tvoja pozornost odloča, kaj postane spomin.</item>
+        <item>Ostane ti le tisto, kar je imelo tvojo pozornost. Nič drugega.</item>
+        <item>Razmišljanje je danes tvoja najdonosnejša naložba.</item>
+        <item>Glava brez naglice reši tisto, česar prenagljena ne vidi.</item>
+        <item>Dobro delo zahteva potrpežljivost, ne hitrosti.</item>
+        <item>Nič, kar čaka tam, ne bo jutri tema pogovora.</item>
+        <item>Tvoja današnja jasnost se je začela z odločitvami, kot je ta.</item>
+        <item>Prekinitve so najdražji davek, kar jih obstaja.</item>
+        <item>Pri eni stvari zdržiš dlje, kot si predstavljaš.</item>
+        <item>Tista podrobnost, ki ti je uhajala, se pokaže v tišini.</item>
+        <item>Zbranost se vrne. Potrebuje le nekaj minut brez zaslona.</item>
+        <item>Zmoreš dolgo pozornost. Objave pa stavijo, da ne.</item>
+        <item>Danes dokončati eno stvar je vredno več kot jih začeti pet.</item>
+        <item>Tvoja polna pozornost je redka celo zate.</item>
+        <item>Pusti misli, da zadiha.</item>
+        <item>Kar zgradiš z zbranostjo, ne izgine z enim potegom prsta.</item>
+        <item>Želja po odpiranju mine v nekaj minutah. Vedno mine.</item>
+        <item>Ta nagib ima rok trajanja. Poteče sam od sebe.</item>
+        <item>Ni ti treba storiti ničesar. Le počakaj, da se val umiri.</item>
+        <item>Nuja, ki jo čutiš zdaj, ni tvoja. Naučili so te je.</item>
+        <item>Enkrat globoko vdihni. Želja je že manjša kot pred minuto.</item>
+        <item>Nagib je na začetku močan in sredi poti izgine.</item>
+        <item>To ne želiš ti. To prosi navada.</item>
+        <item>Nelagodno je le kratek čas. Potem mine.</item>
+        <item>Ta občutek ni nov in vsakič ga preživiš.</item>
+        <item>Želja prihaja v valovih. Valovi se razbijejo.</item>
+        <item>Nikomur ni treba ubogati prvega nagiba dneva.</item>
+        <item>Ta stiska v prsih traja manj kot ena pesem.</item>
+        <item>Nagib, ki traja trideset sekund, je manjši od tebe.</item>
+        <item>Pusti željo mimo in z njo ne stori ničesar.</item>
+        <item>Nelagodje zdaj je navada, ki popušča. To je napredek.</item>
+        <item>Ne upiraš se. Samo čakaš.</item>
+        <item>Želja pride glasno in odide tiho.</item>
+        <item>Preštej do dvajset. Že bo manjša.</item>
+        <item>Želeti ni isto kot potrebovati.</item>
+        <item>Nagib hoče takojšen odgovor. Ne daj mu nobenega.</item>
+        <item>To je najtežji trenutek in je kratek.</item>
+        <item>Ni se ti treba boriti. Le ne odloči se zdaj.</item>
+        <item>Želja izgine, ko je nihče ne hrani.</item>
+        <item>To je tesnoba, ne lakota po vsebini.</item>
+        <item>Opazi željo, a ne stopi vanjo.</item>
+        <item>Možgani hočejo običajno. Ni ti treba streči.</item>
+        <item>Še pet minut in ne spomniš se več, da te je mikalo odpreti.</item>
+        <item>Val se zdaj dviguje. Vedno se spet spusti.</item>
+        <item>Najhujši del je že za tabo.</item>
+        <item>Nagib laže o svoji moči.</item>
+        <item>Vstani, popij kozarec vode in se vrni. Nagiba že ni več.</item>
+        <item>Želja ni ukaz.</item>
+        <item>Lahko to čutiš in ne storiš ničesar. To je dovoljeno.</item>
+        <item>Telo si želi gibanja, ne zaslona.</item>
+        <item>Ta želja je samodejna. Tvoj odziv ni nujno.</item>
+        <item>Nič slabega se ne zgodi, če počakaš še malo.</item>
+        <item>Želja sama izgine, če ji pustiš prostor.</item>
+        <item>Samo nemir je. Mine in ne potrebuje zaslona.</item>
+        <item>Nagib je le predlog. Odločaš ti.</item>
+        <item>Še minuta in želja je že nekaj drugega.</item>
+        <item>Težki del traja malo. Dobri del traja ves dan.</item>
+        <item>To je tisti znani mali sunek. Pa sploh ne potiska tako močno.</item>
+        <item>Počakaj brez obsojanja. Želja se razblini sama.</item>
+        <item>Tvoji možgani prosijo za običajno bližnjico.</item>
+        <item>Ničesar ti ni treba premagati. Le pusti, da mine.</item>
+        <item>Vsak val, ki ga spustiš mimo, naredi naslednjega manjšega.</item>
+        <item>Tesnoba hoče hitro rešitev. Tukaj je ne bo našla.</item>
+        <item>Ostani za hip pri miru. Nagib ne ostane.</item>
+        <item>S čakanjem ne zamudiš ničesar.</item>
+        <item>Dolgčas ni nujen primer.</item>
+        <item>Občutek praznine je zdaj normalen. Sam se zapolni.</item>
+        <item>Želja po preverjanju se le redko zares tiče tistega, kar preverjaš.</item>
+        <item>Nelagodno ti je, nisi pa v nevarnosti.</item>
+        <item>Čez trenutek bo popustilo.</item>
+        <item>Navada je močna, a kratka.</item>
+        <item>Pusti mimo to. Samo to.</item>
+        <item>Naslednjič bo lažje, prav zaradi tega trenutka.</item>
+        <item>Ni se ti treba o ničemer prepričevati. Samo počakaj.</item>
+        <item>Kozarec vode reši več kot drsenje po objavah.</item>
+        <item>Ta nuja je lažna in to že veš.</item>
+        <item>Nagib ne prenese, da ostane brez odgovora.</item>
+        <item>Počakaj trideset sekund. Potem se odloči znova.</item>
+        <item>Zdaj je vrhunec. Od tu naprej je pot samo še navzdol.</item>
+        <item>Nič zdaj ne zahteva tvojega odziva.</item>
+        <item>Želja je obiskovalka. Odšla bo.</item>
+        <item>Ti nisi nagib. Ti ga le opazuješ.</item>
+        <item>Telo se sprosti, če mu daš minuto.</item>
+        <item>To so le možgani, ki iščejo dražljaj. Našli bodo drugega.</item>
+        <item>Trije globoki vdihi spremenijo, kako močno to čutiš.</item>
+        <item>Želja se skrči, ko jo pogledaš naravnost v oči.</item>
+        <item>To minuto zdržiš. Za tabo so že hujše.</item>
+        <item>Nelagodje mine, tudi če ne storiš ničesar.</item>
+        <item>Roka je bila hitrejša od glave. Zgodi se.</item>
+        <item>V prvih desetih sekundah ni treba sprejeti nobene odločitve.</item>
+        <item>Še nekaj trenutkov in tega niti ne pomniš več.</item>
+        <item>Sprožilec je pritisnjen. Odziv je še vedno tvoj.</item>
+        <item>Pusti, da želja obstaja, a je ne ubogaj.</item>
+        <item>To ni hlepenje. To je navada.</item>
+        <item>Počakaj. To je dobesedno vse, kar je treba.</item>
+        <item>Glava se umiri sama, če ne mečeš več polen na ogenj.</item>
+        <item>Že čakaš. To je že zmaga.</item>
+        <item>Nagib izgubi moč, ko naleti na zaprta vrata.</item>
+        <item>Vsaka sekunda tukaj je sekunda prednosti.</item>
+        <item>Val se je razbil. Opazi, kako je že lažje.</item>
+        <item>Ne potrebuješ razloga, da ne odpreš.</item>
+        <item>Poželenje mine hitreje kot obžalovanje.</item>
+        <item>Malo raztezanja reši tisto, česar objave ne bi.</item>
+        <item>Medtem ko bereš tole, želja že odhaja.</item>
+        <item>Zdaj ne odločaj ničesar. Samo dihaj.</item>
+        <item>Nagib pride sam in odide sam.</item>
+        <item>Tole je najtežje. In hitro mine.</item>
+        <item>Najdlje je za tabo. Ostalo je le še nekaj sekund.</item>
+        <item>Telo prosi za zaslon, ko si želi počitka. Privošči mu počitek.</item>
+        <item>Želja je vsakič manjša, ko je ne uslišiš.</item>
+        <item>Počakaj še malo. To je vse.</item>
+        <item>Trenutek mine. Odločitev ostane.</item>
+        <item>Najožji del poti je ravnokar za tabo.</item>
+        <item>Čutiti željo je človeško. Ne ubogati je prav tako.</item>
+        <item>Mir se vrne v hipu, če ne siliš.</item>
+        <item>Že je lažje, kajne?</item>
+        <item>Ta odločitev je nastala v mirnem trenutku. Zaupaj ji.</item>
+        <item>Tvoj včerajšnji jaz je poskrbel za današnjega.</item>
+        <item>Ta zaslon je sporočilo od tebe za tebe.</item>
+        <item>Nič te ne ovira. Le opominja te.</item>
+        <item>Oseba, kakršna želiš biti, ne predrsa celega popoldneva.</item>
+        <item>To je bila tvoja odločitev. In še vedno je.</item>
+        <item>Si oseba, ki je nekaj opazila in ukrepala.</item>
+        <item>Nihče te ni silil, da to namestiš. To je bila tvoja želja.</item>
+        <item>Tvoj jutrišnji jaz bo hvaležen današnjemu.</item>
+        <item>Že zdaj si nekdo, ki varuje svoj čas.</item>
+        <item>To ni kazen. To je dogovor.</item>
+        <item>To pravilo je tvoje. In deluje.</item>
+        <item>Upravljati svojo pozornost je vsakodnevna izbira.</item>
+        <item>Tu ti ni treba nikomur ničesar dokazovati.</item>
+        <item>Oseba, kakršna želiš biti, se začne pri majhnih odločitvah.</item>
+        <item>Na pravi strani tega zaslona si.</item>
+        <item>Vsakič, ko tukaj zapreš, si bližje temu, kar želiš biti.</item>
+        <item>Nisi tisto, kar si želiš. Si tisto, kar narediš.</item>
+        <item>Dogovor s sabo velja enako kot vsak drug.</item>
+        <item>Prepoznati vzorec in ga spremeniti je redko. In ti to počneš.</item>
+        <item>Aplikacije v tvojem žepu so manjše od tebe.</item>
+        <item>To je tvoje pravilo in je na tvoji strani.</item>
+        <item>Imaš pravico spremeniti navade.</item>
+        <item>Kar počneš znova in znova, to si ti.</item>
+        <item>Tvoja izbira je življenje z več prostora.</item>
+        <item>Aplikacija ti ne ukazuje.</item>
+        <item>Tvoja identiteta je večja od toka objav.</item>
+        <item>Si oseba, ki je to namestila z razlogom.</item>
+        <item>Spomni se razloga. Še vedno velja.</item>
+        <item>Spoštuješ svojo odločitev.</item>
+        <item>Nihče ne odloča o tvoji pozornosti namesto tebe.</item>
+        <item>Opaziš, kaj se dogaja. To že spremeni vse.</item>
+        <item>Krmariti svoj dan je delo, ki se nikoli ne konča.</item>
+        <item>Ne sediš zadaj. Ti voziš.</item>
+        <item>To je izbira nekoga, ki se jemlje resno.</item>
+        <item>Zase odgovarjaš ti. In to tudi počneš.</item>
+        <item>Tvoj čas nekomu pripada. Prav zdaj bere tole.</item>
+        <item>Dogovor je tvoj. Spoštuj ga.</item>
+        <item>Vsaka taka odločitev te približa temu, kar želiš biti.</item>
+        <item>Ne izgubljaš svobode. Uporabljaš jo.</item>
+        <item>Kaj sledi zdaj, odločaš ti.</item>
+        <item>Za drugačno življenje ne potrebuješ dovoljenja.</item>
+        <item>Ta meja je skrb, ne kletka.</item>
+        <item>Tvoja pot je težja, a bolj tvoja.</item>
+        <item>Oseba, ki jo občuduješ, bi zdaj tudi rekla ne.</item>
+        <item>Živiš v svojem življenju, ne v aplikaciji.</item>
+        <item>Tvoj čas, tvoja glava, tvoja odločitev.</item>
+        <item>Držiš obljubo sebi. To šteje.</item>
+        <item>Nihče ne bo skrbel za tvojo pozornost namesto tebe.</item>
+        <item>Že je dokazano, da zmoreš spremeniti smer.</item>
+        <item>To je samostojnost: odločiti se vnaprej, ne v hipu.</item>
+        <item>Gradiš osebo, ki jo spoštuješ.</item>
+        <item>To je tista različica tebe, ki načrtuje.</item>
+        <item>Tu nisi po naključju. Vse to je tvoje delo.</item>
+        <item>Beseda, dana sebi, velja.</item>
+        <item>Imaš svoje mnenje o tem, kako preživeti dan.</item>
+        <item>Aplikacija te ne pozna. Ti se poznaš.</item>
+        <item>Ravnaš kot nekdo, ki ima življenje v svojih rokah.</item>
+        <item>Držati se svoje odločitve je svoboda.</item>
+        <item>Tu pravila pišeš ti.</item>
+        <item>To je tvoja skrb zase.</item>
+        <item>To ni zapor. To je zaščita.</item>
+        <item>Tvoja želja po spremembi je starejša od tega nagiba.</item>
+        <item>Že si to, kar poskušaš postati.</item>
+        <item>Težka odločitev je že sprejeta. Ta je le še lahka.</item>
+        <item>Nadzor je v tvojih rokah in to je danes redkost.</item>
+        <item>Nikomur ni treba vedeti. To ostane med tabo in tabo.</item>
+        <item>Zaslužiš si, da lahko zaupaš lastni besedi.</item>
+        <item>Na tej odločitvi je tvoje ime.</item>
+        <item>Zdaj si oseba, ki se odloči vnaprej.</item>
+        <item>To ni odpoved. To je izbira nečesa drugega.</item>
+        <item>Imaš smer. Ta zaslon kaže proti njej.</item>
+        <item>Prava svoboda je, da te ne vleče ves čas sem in tja.</item>
+        <item>Vrednost svoje pozornosti določaš ti.</item>
+        <item>Vsak „ne“ tukaj je „da“ nečemu drugemu v tvojem življenju.</item>
+        <item>Držiš se načrta, ki je nastal s skrbjo.</item>
+        <item>Imeti sebe v rokah je naporno, a se splača.</item>
+        <item>Priznati si, da si želiš spremembe, je najtežji del. Ta je za tabo.</item>
+        <item>Oseba v ogledalu bo nocoj tega vesela.</item>
+        <item>Algoritmu ne dolguješ ničesar.</item>
+        <item>Tvoje življenje ni nikogaršnja vsebina.</item>
+        <item>Si točno tam, kamor so te pripeljale tvoje odločitve.</item>
+        <item>Meja, ki si jo postaviš, je najbolj spoštljiva meja od vseh.</item>
+        <item>Tvoj življenjski načrt je večji od tega zaslona.</item>
+        <item>To je zrelost v živo.</item>
+        <item>Skrbiš za svojo prihodnost, tudi če se tega ne zavedaš.</item>
+        <item>Vsaka taka izbira izbrusi, kdo si.</item>
+        <item>Ni ti treba pojasnjevati, zakaj ne odpreš.</item>
+        <item>Tvoja zaveza velja tebi, ne aplikaciji.</item>
+        <item>Prava odločitev je padla takrat, ko želje ni bilo.</item>
+        <item>To je tvoje življenje, ki ga vodiš ti.</item>
+        <item>Tebe ni več lahko vleči za nos.</item>
+        <item>Tvoja pozornost je v dobrih rokah. V tvojih.</item>
+        <item>Prav zdaj ravnaš kot nekdo, ki skrbi zase.</item>
+        <item>Načrt je tvoj. In prav zdaj deluje.</item>
+        <item>Si vsota svojih majhnih odločitev.</item>
+        <item>Nihče ti ne vzame zadnje besede.</item>
+        <item>Nad svojim časom imaš oblast ti.</item>
+        <item>Deluje, ker si želiš, da deluje.</item>
+        <item>Navada bi rada bila večja od tebe. Pa ni.</item>
+        <item>Še ena. Tako se nabira.</item>
+        <item>Majhno in pogosto premaga veliko in redko.</item>
+        <item>Še ena točka zate.</item>
+        <item>Nihče se ne spremeni čez noč. Spremeni se v dnevih, kot je današnji.</item>
+        <item>To je tisočinka drugačnega življenja.</item>
+        <item>En dober dan ne spremeni ničesar. Sto dobrih dni spremeni vse.</item>
+        <item>Gradiš niz.</item>
+        <item>Od znotraj napredek skoraj nikoli ne deluje kot napredek.</item>
+        <item>Vsota teh odločitev je večja od vsake posebej.</item>
+        <item>Vztrajnost je dolgočasna in deluje.</item>
+        <item>Še en kamen v zidu.</item>
+        <item>Uriš nekaj, kar ostane.</item>
+        <item>Če se dovolj ponavlja, postane samodejno.</item>
+        <item>Te zmage nihče ne vidi, a šteje enako.</item>
+        <item>Še nekaj tednov in želja te sploh ne bo več obiskovala.</item>
+        <item>Danes šteje. Jutri bo štelo tudi.</item>
+        <item>Veriga je sestavljena iz takšnih členov.</item>
+        <item>Nova navada se piše prav zdaj.</item>
+        <item>Vsaka ponovitev malo zrahlja staro navado.</item>
+        <item>To ti je že uspelo. Naredi še enkrat.</item>
+        <item>Počasi je hitrost stvari, ki trajajo.</item>
+        <item>Sprememba se dogaja neopazno.</item>
+        <item>Nabiraš nekaj nevidnega in resničnega.</item>
+        <item>Še en dan v pravi smeri.</item>
+        <item>Rezultat pride pozneje. Odločitev je danes.</item>
+        <item>Tako gre: ena odločitev naenkrat.</item>
+        <item>Danes si bližje kot včeraj.</item>
+        <item>Ni treba, da je popolno. Treba je, da je pogosto.</item>
+        <item>Krivulja se dviga počasi, potem pa hitro.</item>
+        <item>Si sredi procesa. Takšen pač je.</item>
+        <item>Vsak majhen „ne“ gradi velik „da“.</item>
+        <item>Nič od tega ni dramatično. Prav zato deluje.</item>
+        <item>Pot je sestavljena iz takšnih korakov.</item>
+        <item>Ustvarjaš novo različico vsakdana.</item>
+        <item>Čez mesec dni se bo to zdelo lahko.</item>
+        <item>Ponavljanje spremeni odločitev v način življenja.</item>
+        <item>Nova pot je ravnokar postala trdnejša.</item>
+        <item>Sto odstotkov je lažje kot osemindevetdeset.</item>
+        <item>Danes ne prekini niza.</item>
+        <item>Opravljaš dolgočasni del. Prav ta šteje.</item>
+        <item>Spremembe ne čutimo. Vidimo jo pozneje.</item>
+        <item>Še ena opeka na svojem mestu.</item>
+        <item>Možgane učiš, da pričakujejo nekaj drugega.</item>
+        <item>Vsa tehnika je v tem, da nadaljuješ.</item>
+        <item>Nobena od teh zmag ni majhna, ko jih sešteješ.</item>
+        <item>Ni ti treba teči. Le ne ustavi se.</item>
+        <item>To je že lažje, pa tega niti ne opaziš.</item>
+        <item>Že teden dni tega spremeni tvoj dan.</item>
+        <item>V glavi utiraš novo pot.</item>
+        <item>Vsakič šteje, tudi ko se ne zdi tako.</item>
+        <item>Nihče ne ploska, a deluje.</item>
+        <item>Kopičenje je tiho in neustavljivo.</item>
+        <item>Danes ti to gre bolje kot prejšnji mesec.</item>
+        <item>Dobra odločitev danes olajša jutrišnjo.</item>
+        <item>Tako je videti doslednost od znotraj.</item>
+        <item>Še en dan nabrane prednosti.</item>
+        <item>Si na poti in pot je dolga. To je v redu.</item>
+        <item>Kar se ponavlja, postane lahko.</item>
+        <item>Prav zdaj utrjuješ to, kar postajaš.</item>
+        <item>Danes je račun v tvoj prid.</item>
+        <item>Majhni dobički se seštevajo, ne da bi prosili za dovoljenje.</item>
+        <item>Ne gre za danes. Gre za vsoto.</item>
+        <item>Opravljaš nevidno delo.</item>
+        <item>Nadaljuj. To je dobesedno vsa skrivnost.</item>
+        <item>Vsak tak dan odvzame malo teže.</item>
+        <item>Stara navada prav zdaj izgublja prostor.</item>
+        <item>Zalivaš nekaj, kar še ni vzklilo.</item>
+        <item>Sprememba se dogaja, čeprav se ne zdi tako.</item>
+        <item>Še enkrat. Vedno je šlo samo za to.</item>
+        <item>Nabiraš zalogo dobrih dni.</item>
+        <item>Sčasoma to postane običajno.</item>
+        <item>Spet se odločaš. In spet šteje.</item>
+        <item>En tak mesec in si druga oseba.</item>
+        <item>Današnji trud izgine. Rezultat ostane.</item>
+        <item>Od začetka se je v tebi že veliko spremenilo.</item>
+        <item>Delati vedno je vredno več kot delati veliko.</item>
+        <item>Vsak dan je glas za to, kar želiš postati.</item>
+        <item>Novi navadi daješ, da se širi.</item>
+        <item>Ni treba, da je junaško. Treba je le, da se zgodi.</item>
+        <item>Prava pot je spet malo močnejša.</item>
+        <item>Možgani se vsega naučijo s ponavljanjem.</item>
+        <item>Danes in včeraj skupaj že naneseta veliko.</item>
+        <item>Dobro ti gre, tudi ko tega ne čutiš.</item>
+        <item>Napredek živi v dolgočasnih ponovitvah.</item>
+        <item>Še en kratek korak na dolgi poti.</item>
+        <item>To postaja tvoja druga narava.</item>
+        <item>Kar ostane, je dobra stvar, narejena velikokrat.</item>
+        <item>Moč pride iz ponavljanja, ne iz napora.</item>
+        <item>Jutrišnja pot je pravkar postala krajša.</item>
+        <item>Še en. Samo to. In dovolj je.</item>
+        <item>Za sabo puščaš sled dobrih odločitev.</item>
+        <item>Vztrajnost spremeni trud v identiteto.</item>
+        <item>Vsak dan šteje kot cel dan.</item>
+        <item>Igraš dolgo igro in v njej zmaguješ.</item>
+        <item>To bo postalo del tebe, še preden opaziš.</item>
+        <item>Najboljša naložba dneva je pravkar opravljena.</item>
+        <item>Svojega se držiš.</item>
+        <item>Doslednost je redkejša od talenta.</item>
+        <item>Prava sprememba je vedno počasna in se vedno splača.</item>
+        <item>Še ena odločitev v smeri tvojega življenja.</item>
+        <item>Tvoje oči so hvaležne za ta premor.</item>
+        <item>Vstani in se pretegni. Telo je prosilo za to, ne za zaslon.</item>
+        <item>Globoko vdihni. Že to nekaj spremeni.</item>
+        <item>Popij malo vode. Verjetno je manjkalo prav to.</item>
+        <item>Vrat je že nekaj časa sključen. Zravnaj ga.</item>
+        <item>Nocojšnji spanec se začne pri zaslonih, ki jih gledaš zdaj.</item>
+        <item>Dober spanec je najbolj produktivna stvar na svetu.</item>
+        <item>Tvoje telo je že predolgo pri miru.</item>
+        <item>Dvajset sekund glej v daljavo. Oči se sprostijo.</item>
+        <item>Kratek sprehod popravi razpoloženje bolj kot katerikoli tok objav.</item>
+        <item>Utrujenost, ki jo čutiš, je morda le od zaslona.</item>
+        <item>Ko glava prosi za drsenje, telo prosi za gibanje.</item>
+        <item>Svež zrak reši, česar zaslon ne more.</item>
+        <item>Ramena dol. Čeljust sproščena.</item>
+        <item>Nehote stiskaš ramena.</item>
+        <item>Deset minut sonca na koži je vredno veliko.</item>
+        <item>Telo počiva, ko ležiš, ne ko drsiš.</item>
+        <item>Zgodnji spanec nocoj je darilo za jutri.</item>
+        <item>Tvoja drža se je v zadnjih dvajsetih minutah spremenila. Popravi jo.</item>
+        <item>Utrujenost od zaslona ni prava utrujenost. Je nekaj drugega.</item>
+        <item>Dvigni roke. Pretegni se. No, že je bolje.</item>
+        <item>Med drsenjem manj mežikaš. Pomežikni zdaj.</item>
+        <item>Telo deluje bolje s pravimi odmori.</item>
+        <item>Krog okoli bloka zbistri glavo.</item>
+        <item>Tvoja hrbtenica bo vesela te prekinitve.</item>
+        <item>Počitek ni isto kot zamotitev.</item>
+        <item>Sinočnji slab spanec se je začel pred takšnim zaslonom.</item>
+        <item>Raztegni vrat na obe strani. Traja deset sekund.</item>
+        <item>Gibanje pomiri tesnobo bolje kot vsebina.</item>
+        <item>Tvoje telo je edini dom, ki ga imaš.</item>
+        <item>Voda, svetloba in gibanje. Skoraj vedno gre za to.</item>
+        <item>Zaslon utruja, tudi ko se zdi kot počitek.</item>
+        <item>Za hip zapri oči. Samo to.</item>
+        <item>Dihaš plitvo. Trikrat globoko vdihni.</item>
+        <item>Prha reši več, kot se zdi.</item>
+        <item>Tvoje telo je že predolgo na istem mestu.</item>
+        <item>Pravi počitek je brez zaslona.</item>
+        <item>Dvajset minut hoje spremeni ves dan.</item>
+        <item>Glava je težka, ker telo miruje.</item>
+        <item>Suhe oči, trda ramena. Poznaš to.</item>
+        <item>Dve minuti na nogah te osvežita bolj kot drsenje.</item>
+        <item>Telo prosi za spanec, glava za dražljaje. Prisluhni telesu.</item>
+        <item>Svetloba zaslona ti še ure moti spanec.</item>
+        <item>Pretegni noge. Hitro je in deluje.</item>
+        <item>Zaslužiš si počitek, ki res spočije.</item>
+        <item>Gibanje je najcenejši antidepresiv na svetu.</item>
+        <item>Telo si bo to noč spanca zapomnilo.</item>
+        <item>Počasno dihanje pomiri hitreje kot katerikoli video.</item>
+        <item>Je to lakota ali dolgčas? Ugotovi, kaj od tega.</item>
+        <item>Telo si opomore, ko se glava ustavi.</item>
+        <item>Dvajset sekund pogleda skozi okno.</item>
+        <item>Zapestje in palec potrebujeta odmor.</item>
+        <item>Utrujenost od zaslona izgine med hojo.</item>
+        <item>Med spanjem se spomin uredi. Varuj svoj spanec.</item>
+        <item>Potrebuješ manj dražljajev, ne več.</item>
+        <item>Dve minuti raztezanja sta vredni več kot deset minut videa.</item>
+        <item>Tvoje telo ti prav zdaj daje znak.</item>
+        <item>Zrak, voda in gibanje. Recept se ni spremenil.</item>
+        <item>Za minuto se uleži na tla. Resno.</item>
+        <item>Zaslon ti krade spanec, ko ga najbolj potrebuješ.</item>
+        <item>Telo prosi za premor, roka za zaslon. Izberi premor.</item>
+        <item>Tvoje oči delajo že od jutra.</item>
+        <item>Dobro prespana noč spremeni svet.</item>
+        <item>Vstani. Samo vstani. To je že dovolj.</item>
+        <item>Zaradi te izbire bo tvoj spanec boljši.</item>
+        <item>Telo je hvaležno za tisto, kar se glavi zdi dolgočasno.</item>
+        <item>Pretegni hrbet. Kar prosi za to.</item>
+        <item>Pravi počitek je tišina, ne nov dražljaj.</item>
+        <item>Tvoje telo ima svoj ritem, zaslon pa se zanj ne meni.</item>
+        <item>Poglej proti obzorju. Oči potrebujejo daljavo.</item>
+        <item>Napetost v čeljusti ne bo popustila ob drsenju.</item>
+        <item>Koliko časa že sediš?</item>
+        <item>Gibanje prinaša jasnost. Vedno jo je.</item>
+        <item>Preden se za karkoli odločiš, popij vodo.</item>
+        <item>Izgubljenega spanca ne nadoknadiš z vsebino.</item>
+        <item>Tvoje telo dobro deluje, če mu pustiš.</item>
+        <item>Kratek dremež prinese več kot ura objav.</item>
+        <item>Globok vdih je brezplačen in deluje takoj.</item>
+        <item>Zaslon telo neopazno zakrči.</item>
+        <item>Utrujenost je večja, kot bi morala biti.</item>
+        <item>Vstani in poglej skozi okno. Pet sekund.</item>
+        <item>Telo se ni razvilo za negibno strmenje v svetlobo.</item>
+        <item>Raztegni prste. Danes so se kar nadelali.</item>
+        <item>Noč je boljša brez zaslona pred spanjem.</item>
+        <item>Zaslon ponuja marsikaj, le počitka ne.</item>
+        <item>Telo prosi za naravo, dobi pa piksle.</item>
+        <item>Kozarec vode in trije vdihi. Kar zdaj.</item>
+        <item>Napetost v ramenu je od tega, kako držiš telefon.</item>
+        <item>Telo se sprosti, ko pozornost neha dirkati.</item>
+        <item>Čez pet minut ti bo bolje.</item>
+        <item>Gibanje spremeni kemijo. Zaslon spremeni le temo.</item>
+        <item>Tvoje oči si zaslužijo pravi počitek.</item>
+        <item>Hoja uredi misli bolje kot branje objav.</item>
+        <item>Modra svetloba zdaj je slab spanec pozneje.</item>
+        <item>Potrebuješ počitek, ne še več informacij.</item>
+        <item>Dva globoka vdiha, preden narediš karkoli.</item>
+        <item>Tvoje telo je modrejše od nagiba.</item>
+        <item>Vstani in pojdi do kuhinje. To je dovolj.</item>
+        <item>Spočij telo in glava se spočije z njim.</item>
+        <item>Blizu tebe so zdaj ljudje iz mesa in krvi.</item>
+        <item>En pogovor je vreden več kot tristo objav.</item>
+        <item>Pokliči nekoga. Zares, z glasom.</item>
+        <item>Nekdo, ki ti je drag, je oddaljen le eno sporočilo.</item>
+        <item>Ljudje v objavah ne vedo, da obstajaš.</item>
+        <item>Kdor je s tabo v istem prostoru, si zasluži več.</item>
+        <item>Objem reši, česar ne reši noben video.</item>
+        <item>Piši nekomu, na katerega zadnje čase pozabljaš.</item>
+        <item>Tvoja mama bi bila danes vesela klica.</item>
+        <item>V resničnem življenju so ljudje, ki zares odgovorijo.</item>
+        <item>Tisti prijatelj, ki je izginil, se še lahko vrne. Oglasi se mu.</item>
+        <item>Prisotnost je najredkejše, kar lahko podariš.</item>
+        <item>Nekdo čaka, da dvigneš pogled.</item>
+        <item>Dobro vprašanje je vredno več kot ura drsenja.</item>
+        <item>Ljudje okoli tebe nimajo algoritma.</item>
+        <item>Prav zdaj ti uhaja pogovor, ki se dogaja ob tebi.</item>
+        <item>Ko bo hudo, nihče iz objav ne bo ob tebi.</item>
+        <item>Kava z nekom spremeni teden bolj kot katerikoli tok objav.</item>
+        <item>Tvoja družba je darilo. Podari jo.</item>
+        <item>Poglej tistega, ki je s tabo.</item>
+        <item>Prijateljstvo je treba zalivati. Zalij ga danes.</item>
+        <item>Oseba ob tebi je resnična.</item>
+        <item>Kdor te ima rad, ne potrebuje všečkov.</item>
+        <item>Se še spomniš zadnjega dolgega pogovora?</item>
+        <item>Povabi nekoga na sprehod.</item>
+        <item>V najlepših spominih je redko kakšen zaslon.</item>
+        <item>Prav zdaj si nekomu družba.</item>
+        <item>Pošlji glasovno sporočilo nekomu, ki ga ljubiš.</item>
+        <item>Ljudje se spremenijo, ko jim nameniš pozornost.</item>
+        <item>Tvoja prisotnost danes nekomu veliko pomeni.</item>
+        <item>Po dobrem pogovoru ti je bolje. Po objavah ne.</item>
+        <item>Nekdo mora izvedeti, da misliš nanj.</item>
+        <item>Dobi se z nekom, namesto da ga spremljaš.</item>
+        <item>Močne vezi se stkejo iz skupnega časa.</item>
+        <item>Lahko si razlog za nekogaršnji dober dan.</item>
+        <item>Tisti sorodnik, s katerim se že mesece ne slišita.</item>
+        <item>Iskreno sporočilo je vredno več kot tisoč ogledov.</item>
+        <item>Biti skupaj ni isto kot biti na spletu.</item>
+        <item>Kdor živi s tabo, si zasluži tvojo polno prisotnost.</item>
+        <item>Povabi nekoga na večerjo.</item>
+        <item>Resnični ljudje imajo obraz, glas in omejen čas.</item>
+        <item>Za nekoga te nihče ne more nadomestiti. Pokaži se.</item>
+        <item>Najpomembnejši pogovor tvojega dne se še ni zgodil.</item>
+        <item>Nekje blizu je nekdo, ki tudi ne gleda v zaslon.</item>
+        <item>Prisluhniti nekomu je najlažja pot do tega, da te imajo radi.</item>
+        <item>Tisti prijatelj ima ravno težko obdobje. Vprašaj ga.</item>
+        <item>Otrok, pes, sosed. Nekdo je tu.</item>
+        <item>Omrežja te povežejo z veliko ljudmi in hkrati z nikomer.</item>
+        <item>Popoldne z nekom je vredno mesec objav.</item>
+        <item>Danes lahko nekoga spraviš v smeh. Zares.</item>
+        <item>Polna prisotnost je zelo redka. Ti jo lahko podariš.</item>
+        <item>Nekdo je ta teden govoril o tebi. Oglasi se mu tudi ti.</item>
+        <item>Nihče v objavah te ne pogreša.</item>
+        <item>Petminutni klic nekomu spremeni dan.</item>
+        <item>Ljudje, ki res štejejo, o tem ne objavljajo.</item>
+        <item>Do dobrega pogovora te loči eno samo vprašanje.</item>
+        <item>Prava družba nima oglasov vmes.</item>
+        <item>Tista oseba, ki te vedno podpira. Zahvali se ji danes.</item>
+        <item>Pogled v oči je še vedno najboljša tehnologija.</item>
+        <item>Tvoja družina ni tok objav. Ne drsi mimo nje.</item>
+        <item>Povabi nekoga, da skupaj ne počneta ničesar.</item>
+        <item>Tudi tisti, ki so daleč, si zaslužijo glas od tebe.</item>
+        <item>Zunaj tega zaslona so ljudje, ki te imajo radi.</item>
+        <item>Odložen težak pogovor teži bolj kot objave.</item>
+        <item>Uživaj v ljudeh okoli sebe, dokler so tu.</item>
+        <item>Ljudje si zapomnijo tiste, ki so bili ob njih.</item>
+        <item>Povabi prijatelja na kavo, kar tako.</item>
+        <item>Nekje nekdo želi slišati, kako si.</item>
+        <item>Zdaj lahko nekomu zares prisluhneš.</item>
+        <item>Vez se gradi s pogledom, ne z drsenjem.</item>
+        <item>Tvoja pozornost je najlepše darilo za ljudi, ki jih ljubiš.</item>
+        <item>Človek je vreden več kot profil.</item>
+        <item>Tisti pogovor, ki ga nekomu dolguješ. Danes je pravi dan.</item>
+        <item>Biti na voljo je oblika ljubezni.</item>
+        <item>Zdaj imaš čas za nekoga.</item>
+        <item>Nihče se ni poslovil od življenja z željo po več sledilcih.</item>
+        <item>Spet se srečaj z nekom, ki ga zdaj spremljaš le od daleč.</item>
+        <item>Naklonjenost je treba včasih izreči na glas.</item>
+        <item>Tvoja stara druščina še obstaja. Pokliči jih.</item>
+        <item>Nekdo ob tebi bi se rad pogovarjal.</item>
+        <item>Primerjanje ni povezanost.</item>
+        <item>Danes si lahko nekomu blizu.</item>
+        <item>Na roko napisan listek. Kakšna zamisel.</item>
+        <item>Kdor te zares pozna, ni med objavami.</item>
+        <item>Preživi popoldne z nekom.</item>
+        <item>Ljudje blizu tebe si zaslužijo to, kar daješ objavam.</item>
+        <item>Nekomu, ki ne objavlja, veliko pomeniš.</item>
+        <item>Pokliči in vprašaj, kako je zares.</item>
+        <item>Osamljenost ne mine z več zaslona.</item>
+        <item>Danes se nekomu približaj.</item>
+        <item>Skupen obrok je vreden celega popoldneva.</item>
+        <item>Tvoja pozornost hrani odnose. Nahrani enega.</item>
+        <item>Prav zdaj nekdo misli nate.</item>
+        <item>Povej nekomu, da ti je pri srcu.</item>
+        <item>Prijateljstva umrejo od molka, ne od prepira.</item>
+        <item>Okoli tebe so dobri ljudje. Bodi z njimi.</item>
+        <item>Nekdo potrebuje družbo, ti pa jo lahko ponudiš.</item>
+        <item>Pusti objave in pojdi med ljudi.</item>
+        <item>Kdor te ljubi, hoče tvoj čas, ne tvojega profila.</item>
+        <item>V petih minutah lahko nekomu polepšaš dan.</item>
+        <item>Ustvarjanje utrudi in napolni. Gledanje spočije in izprazni.</item>
+        <item>Več imaš povedati kot pogledati.</item>
+        <item>Nekdo ustvarja tisto, kar ti samo gledaš.</item>
+        <item>Napiši eno vrstico. Samo eno.</item>
+        <item>Svet ima preveč potrošnikov in premalo ustvarjalcev.</item>
+        <item>Tista tvoja zamisel še vedno čaka.</item>
+        <item>Lahko nekaj narediš, namesto da gledaš narejeno.</item>
+        <item>Vsako dobro stvar je naredil nekdo, ki ni drsel po zaslonu.</item>
+        <item>Tvoja zamisel je vredna več kot vse današnje objave.</item>
+        <item>Začni tisto, kar odlagaš. Dovolj je pet minut.</item>
+        <item>Zastali projekt potrebuje le malo zagona.</item>
+        <item>Imaš talent za nekaj, kar ni drsenje po zaslonu.</item>
+        <item>Danes naredi nekaj, česar včeraj še ni bilo.</item>
+        <item>Ustvarjati je zabavnejše kot gledati. Težak je le začetek.</item>
+        <item>Tisti prazni zvezek ne grize.</item>
+        <item>Najboljša vsebina je tista, ki jo ustvariš ti.</item>
+        <item>Več se naučiš z delom kot z gledanjem.</item>
+        <item>Zaigraj na inštrument, riši, kuhaj. Naredi nekaj z rokami.</item>
+        <item>Ustvarjalnost izgine, ko si glavo napolniš z objavami.</item>
+        <item>Obstaja tvoje delo, ki ga še nihče ni ustvaril.</item>
+        <item>Začni slabo. Potem bo bolje.</item>
+        <item>En odstavek na dan postane knjiga.</item>
+        <item>Imaš zgodbo, ki jo je vredno povedati.</item>
+        <item>Ustvarjanje je protistrup za praznino.</item>
+        <item>Dolgčas je začetek ustvarjalnosti. Pusti ga, naj bo.</item>
+        <item>Glava začne izumljati, ko je nehaš polniti.</item>
+        <item>Tisti plačani tečaj še čaka.</item>
+        <item>Danes se lahko naučiš nekaj novega.</item>
+        <item>Gledati je lahko. Zato tako malo zadovolji.</item>
+        <item>Nekaj si želiš narediti. Začni zdaj.</item>
+        <item>Pet minut vaje je vrednih več kot ura videa.</item>
+        <item>Tisti recept, ki ga želiš preizkusiti.</item>
+        <item>Zamisli pridejo v tišini, ne med drsenjem.</item>
+        <item>Lahko pišeš zgodbo, namesto da jo samo spremljaš.</item>
+        <item>Majhen projekt spremeni cel teden.</item>
+        <item>Zapiši, za kaj ti zmanjkuje časa. Zdaj ga imaš.</item>
+        <item>Tvoje roke znajo ustvarjati. Uporabi jih.</item>
+        <item>Danes naredi nekaj nepopolnega.</item>
+        <item>Učiti se je lepše kot se samo zabavati.</item>
+        <item>Kar ustvariš, ostane. Kar predrsaš, izgine.</item>
+        <item>Tisti inštrument, ki se praši v kotu.</item>
+        <item>Nedokončan projekt te še čaka.</item>
+        <item>Ustvarjanje je nasprotje primerjanja.</item>
+        <item>Začni z malim. Začni danes.</item>
+        <item>Ena stran na dan je drugačno življenje.</item>
+        <item>Domišljija potrebuje prazen prostor.</item>
+        <item>Naredi nekaj, kar te bo jutri navdalo s ponosom.</item>
+        <item>Zadovoljstva ob ustvarjanju ne nadomesti nič.</item>
+        <item>Zmoreš več kot le gledati.</item>
+        <item>Tisti opuščeni konjiček še vedno obstaja.</item>
+        <item>Dvajset minut vaje je dvajset minut napredka.</item>
+        <item>Z drsenjem po objavah še nihče ni v ničemer postal dober.</item>
+        <item>Tvoja naslednja veščina se mora nekoč začeti. Naj bo to zdaj.</item>
+        <item>Ustvarjaj, tudi če nihče ne gleda.</item>
+        <item>Nekaj se želiš naučiti. Začni.</item>
+        <item>Gledati objave pomeni gledati življenje drugih.</item>
+        <item>Imaš roke, glavo in čas. To je vse, kar potrebuješ.</item>
+        <item>Prvi osnutek je vedno slab. Vseeno ga napiši.</item>
+        <item>Tisti jezik, ki se ga želiš naučiti.</item>
+        <item>Z ustvarjanjem se dolgčas spremeni v veselje.</item>
+        <item>Malo vsak dan zgradi katerokoli veščino.</item>
+        <item>V tebi je nekaj, kar hoče ven.</item>
+        <item>Piši o svojem dnevu. Samo zase.</item>
+        <item>Tvoja ustvarjalnost čaka, da utišaš hrup.</item>
+        <item>Danes ustvari nekaj s svojimi rokami.</item>
+        <item>Veselje ob dokončani stvari ni podobno ničemur drugemu.</item>
+        <item>Tisti projekt, ki te je navduševal. Še vedno te lahko.</item>
+        <item>Za začetek ti ni treba ničesar znati.</item>
+        <item>Skuhaj nekaj novega. Tudi to je ustvarjanje.</item>
+        <item>Življenje postane zanimivejše, ko ustvarjaš.</item>
+        <item>Noben učen še ni padel z neba. Vsak začne slabo.</item>
+        <item>Tista zamisel sredi noči. Zapiši jo.</item>
+        <item>S tem, kar znaš, lahko nekomu pomagaš.</item>
+        <item>Naredi malo danes in malo jutri.</item>
+        <item>Najboljši trenutek za začetek je že mimo. Drugi najboljši je zdaj.</item>
+        <item>Tvoje delo se ne bo naredilo samo.</item>
+        <item>Vaja je dolgočasna, dokler ne začne prinašati sadov.</item>
+        <item>Želiš ustvarjati. Objave hočejo, da samo gledaš.</item>
+        <item>Tista napol narisana risba.</item>
+        <item>Delo je najhitrejša pot do znanja.</item>
+        <item>Imaš svoj glas. Uporabi ga za nekaj.</item>
+        <item>Tudi popravilo doma je ustvarjanje.</item>
+        <item>Tvoj naslednji dosežek se začne na običajen dan, kot je današnji.</item>
+        <item>Naredi nekaj, kar je lahko samo tvoje.</item>
+        <item>Objave so neskončne. Tvoje delo ima konec, zato šteje.</item>
+        <item>Danes lahko nekaj posadiš. Dobesedno.</item>
+        <item>Tista preglednica, tisti načrt, tiste sanje.</item>
+        <item>Ustvarjanje zahteva trud in prav zato je vredno.</item>
+        <item>V tebi je več zanimivega kot v katerihkoli objavah.</item>
+        <item>Uči se dvajset minut. To je malo in hkrati veliko.</item>
+        <item>Radovednost je lepša, ko postane praksa.</item>
+        <item>Tista pesem, ki se jo želiš naučiti.</item>
+        <item>Zdaj naredi nekaj preprostega in koristnega.</item>
+        <item>Svetu imaš ponuditi nekaj dobrega.</item>
+        <item>Začni nekaj, kar ti bo pozneje v veselje.</item>
+        <item>Osebni projekt spremeni tvoj odnos do časa.</item>
+        <item>Ustvarjanje je najboljši način, da zaposliš glavo.</item>
+        <item>Danes lahko nekaj dokončaš.</item>
+        <item>Primi v roke nekaj resničnega.</item>
+        <item>Nič ne nadomesti občutka, da je nekaj narejeno.</item>
+        <item>Čisto v redu je, da si tu. Zdaj pa vdihni.</item>
+        <item>Nihče ničesar ne šteje. Samo pojdi naprej.</item>
+        <item>Dobro ti gre, tudi če se ne zdi tako.</item>
+        <item>Brez naglice in brez pritiska. Samo premor.</item>
+        <item>To ni preizkus. Le prijazen opomnik.</item>
+        <item>Trudiš se in to je dovolj.</item>
+        <item>Vse je v redu. Zapri in nadaljuj dan.</item>
+        <item>Tu ne gre za to, da ti vedno uspe.</item>
+        <item>Danes si zaslužiš lahkotnost.</item>
+        <item>Brez drame. Le trenutek za vdih.</item>
+        <item>To je miren kraj. Ostani za hip.</item>
+        <item>Delaš po svojih najboljših močeh. To šteje.</item>
+        <item>Tu ni nobenih zahtev. Samo skrb.</item>
+        <item>Dihaj. Nič narobe se ne dogaja.</item>
+        <item>Do tu ti je že uspelo in to je dobro.</item>
+        <item>Nihče te ne obsoja. Ne obsojaj se niti ti.</item>
+        <item>Vse je v najlepšem redu. Kar nadaljuj.</item>
+        <item>Korak za korakom je pravi ritem.</item>
+        <item>Pri tem ni treba, da ti gre popolno.</item>
+        <item>Tudi počasi je naprej.</item>
+        <item>Ta zaslon od tebe ne zahteva ničesar.</item>
+        <item>Zdaj ravnaj s sabo nežno.</item>
+        <item>Čutiti željo je v redu. Spada zraven.</item>
+        <item>Skrbiš zase. To je lepo.</item>
+        <item>Brez alarma, brez naglice, brez strahu.</item>
+        <item>Si človek. To je dovoljeno.</item>
+        <item>Nikomur ti ni treba ničesar pojasnjevati.</item>
+        <item>Globoko vdihni. Že je mimo.</item>
+        <item>Tukaj si na varnem.</item>
+        <item>Nič hudega, če je danes težko.</item>
+        <item>Noben dan ni enak drugemu. Tudi današnji ne.</item>
+        <item>Na poti si, čeprav počasi.</item>
+        <item>Za nekaj časa nehaj pritiskati nase.</item>
+        <item>Vse je prav. Samo kratek oddih.</item>
+        <item>Ni ti treba, da ti je vedno dobro.</item>
+        <item>Prijaznost do sebe deluje bolje kot strogost.</item>
+        <item>Ta trenutek bo mirno minil.</item>
+        <item>Težji del je danes že opravljen.</item>
+        <item>Nič nujnega. Nič hudega. Samo premor.</item>
+        <item>Nasmehni se. To je manjše, kot se zdi.</item>
+        <item>Poskušaš in to je tisto, kar šteje.</item>
+        <item>Nič ti ni treba poročati. Kar pojdi naprej.</item>
+        <item>Vse je v redu. Zares.</item>
+        <item>Zaslužiš si lahkoten dan.</item>
+        <item>Dihaj. Svet se vrti naprej.</item>
+        <item>Danes se nikamor ne mudi.</item>
+        <item>Ta izbira ti prinaša mir.</item>
+        <item>Začeti znova je v redu, kolikorkrat je treba.</item>
+        <item>Tu nihče ničesar ne zahteva.</item>
+        <item>Daj procesu čas.</item>
+        <item>Nikjer ne zamujaš.</item>
+        <item>Čisto v redu je, če nisi pri sto odstotkih.</item>
+        <item>Ta premor je skrb, ne graja.</item>
+        <item>Zdaj lahko preprosto greš naprej.</item>
+        <item>Brez napetosti. Le trenutek.</item>
+        <item>Nič hudega, če je šlo samodejno.</item>
+        <item>Za dobro počutje ne potrebuješ razloga.</item>
+        <item>Vdihni in pojdi naprej. Tako preprosto je.</item>
+        <item>Tu ni nobene težave.</item>
+        <item>Delaš prav.</item>
+        <item>Res je v redu. Pojdi v miru.</item>
+        <item>Ta trenutek je tvoj za počitek.</item>
+        <item>Veliko ljudi se spopada z istim.</item>
+        <item>Vse je mirno. Nadaljuj svoj dan.</item>
+        <item>Brez teže. Le opomnik.</item>
+        <item>Že zdaj si dovolj.</item>
+        <item>Mir, ki ga iščeš, ni v objavah.</item>
+        <item>S tabo je vse v redu.</item>
+        <item>Za sekundo spočij misli.</item>
+        <item>Zaslužiš si to skrb.</item>
+        <item>Zdaj ni treba ničesar rešiti.</item>
+        <item>Enkrat vdihni. Potem nadaljuj.</item>
+        <item>V redu si. To je vse.</item>
+        <item>Brez zahtev, brez računov, brez točk.</item>
+        <item>Trenutek miru sredi dneva.</item>
+        <item>Zdaj si lahko privoščiš malo nežnosti.</item>
+        <item>Vse je spokojno.</item>
+        <item>Nikamor se ti ne mudi.</item>
+        <item>Danes daješ od sebe, kar zmoreš.</item>
+        <item>V redu je. Jutri se nadaljuje.</item>
+        <item>Ta trenutek je le en vdih.</item>
+        <item>Na varnem si in to zadošča.</item>
+        <item>Tu ni prostora za obsojanje.</item>
+        <item>Samo vdihni in pojdi živet.</item>
+        <item>Danes si zaslužiš mir.</item>
+        <item>Vsak ritem je v redu.</item>
+        <item>Malo spočij glavo.</item>
+        <item>Ta kraj je vedno odprt zate.</item>
+        <item>Brez skrbi. Le kratek postanek.</item>
+        <item>Danes življenje ni dirka.</item>
+        <item>Si to, kar si, in to je dovolj.</item>
+        <item>Poskusiti je bilo čisto v redu.</item>
+        <item>Nič tu ni proti tebi.</item>
+        <item>Vdihni in nadaljuj počasi.</item>
+        <item>Tako, kot je, je v redu.</item>
+        <item>To je trenutek miru.</item>
+        <item>Nobenega pritiska. Pojdi naprej z lahkoto.</item>
+        <item>Smeš počivati.</item>
+        <item>Tukaj je vse mirno.</item>
+        <item>Brez naglice. Dan počaka.</item>
+        <item>Nežnost do sebe je tvoja moč.</item>
+        <item>Kako bi bila videti ta ura, če te aplikacije ne bi bilo?</item>
+        <item>Si tu iz želje ali iz navade?</item>
+        <item>Kaj pravzaprav iščeš?</item>
+        <item>Bo to jutri zjutraj še pomembno?</item>
+        <item>Bo kaj od tega, kar je tam, ostalo v spominu?</item>
+        <item>Kaj je bilo na vrsti, preden je roka segla po telefonu?</item>
+        <item>Koliko časa želiš danes nameniti temu?</item>
+        <item>Je to dolgčas ali utrujenost?</item>
+        <item>Kaj bi lahko bilo tvoje popoldne namesto tega?</item>
+        <item>Se to splača?</item>
+        <item>Imaš za to kakšen poseben razlog?</item>
+        <item>Kaj bo spet prestavljeno, če zdaj odpreš?</item>
+        <item>Kdo želiš biti čez eno leto?</item>
+        <item>Kaj bi ti zdaj res dobro delo?</item>
+        <item>Bežiš pred čim?</item>
+        <item>Kaj pa, če zdaj narediš tisto, kar ves čas odlagaš?</item>
+        <item>Kaj se zgodi, če preprosto zapreš?</item>
+        <item>Čaka te nekaj boljšega. Kaj je to?</item>
+        <item>Je to počitek ali beg?</item>
+        <item>Kaj bi ti svetovala jutrišnja različica tebe?</item>
+        <item>Lakota, zaspanost ali dolgčas?</item>
+        <item>Kdaj so ti objave nazadnje izboljšale dan?</item>
+        <item>Kaj želiš čutiti ob koncu dneva?</item>
+        <item>Kaj ti zdaj manjka?</item>
+        <item>To potrebuješ ali si samo želiš?</item>
+        <item>Katera malenkost bi ti zdaj polepšala dan?</item>
+        <item>Kaj vse bi se dalo narediti v dveh prostih urah?</item>
+        <item>Saj veš, kaj te zdaj zares čaka.</item>
+        <item>Kakšna je prava cena teh petnajstih minut?</item>
+        <item>Si to želiš ali je roka le nemirna?</item>
+        <item>Kaj bi bilo zdaj bolj vredno?</item>
+        <item>Je pri tebi vse v redu?</item>
+        <item>Če zdaj mirno premisliš, katera izbira je najboljša?</item>
+        <item>Bo ta polurica vredna ponosa?</item>
+        <item>Kaj počneš, ko nihče ne gleda?</item>
+        <item>Je kdo, ki ga lahko zdaj pokličeš?</item>
+        <item>Čemu se tvoja glava poskuša izogniti?</item>
+        <item>Je to vredno tvojega popoldneva?</item>
+        <item>Imaš načrt za danes. Je to v njem?</item>
+        <item>Kaj bi bilo zdaj najbolj zabavno početi?</item>
+        <item>Iskreno, kako se počutiš?</item>
+        <item>Kaj bi dalo temu tednu smisel?</item>
+        <item>Je to tisto, kar želiš, ali tisto, kar počneš iz navade?</item>
+        <item>Veš že, kaj želiš početi jutri?</item>
+        <item>Kolikokrat je danes roka že segla po telefonu?</item>
+        <item>Kaj bi ti čez eno uro prineslo zadovoljstvo?</item>
+        <item>Res želiš odpreti ali prst dela na avtopilotu?</item>
+        <item>Katero pomembno stvar prestavljaš na pozneje?</item>
+        <item>Kaj bi o tem rekla tvoja različica izpred desetih let?</item>
+        <item>Ali zares počivaš?</item>
+        <item>Je kaj, za kar ti manjka le malo poguma?</item>
+        <item>Kaj si želiš nocoj imeti za sabo?</item>
+        <item>Je to vredno več kot pogovor?</item>
+        <item>Za kaj imaš danes čas?</item>
+        <item>Katero navado želiš imeti čez šest mesecev?</item>
+        <item>Kaj zares prosi za tvojo pozornost?</item>
+        <item>Naj bo to popoldne za zapomniti ali za pozabiti?</item>
+        <item>Kaj bi bilo dobro narediti s tem trenutkom?</item>
+        <item>Si tu, da nekaj vidiš, ali da nečesa ne čutiš?</item>
+        <item>Kaj bi ti nocoj pomagalo dobro spati?</item>
+        <item>Ti to dan obogati ali ga osiromaši?</item>
+        <item>Res želiš vedeti, kaj je tam?</item>
+        <item>Kaj lepega se ti je nazadnje zgodilo brez zaslona?</item>
+        <item>Kakšno bi bilo tvoje popoldne brez interneta?</item>
+        <item>Kam se ti tako mudi?</item>
+        <item>Kateri majhen korak lahko narediš zdaj?</item>
+        <item>Kaj potrebuje tvojo pozornost bolj kot to?</item>
+        <item>Je bil danes že kakšen globok vdih?</item>
+        <item>Kakšen je tvoj načrt za naslednjo uro?</item>
+        <item>Te to približa nečemu, kar si želiš?</item>
+        <item>Kaj bi o tem rekel nekdo, ki ga občuduješ?</item>
+        <item>Kaj dobrega se je danes zgodilo?</item>
+        <item>Koliko tvojega dne je že šlo za zaslone?</item>
+        <item>Imaš kakšno zamisel, ki čaka na vrsto?</item>
+        <item>Kaj želiš narediti s tem tednom?</item>
+        <item>Se splača tišino zamenjati za hrup?</item>
+        <item>Danes ustvarjaš ali samo gledaš?</item>
+        <item>Katera preprosta stvar bi ti zdaj dobro dela?</item>
+        <item>Kaj bi od tebe slišal prijatelj v takem položaju?</item>
+        <item>Imaš pet minut. Za kaj?</item>
+        <item>Kaj te v resnici muči?</item>
+        <item>Je to res najboljše, kar lahko zdaj narediš?</item>
+        <item>Imaš ta trenutek v svojih rokah?</item>
+        <item>Katera odločitev bi ti bila v ponos?</item>
+        <item>Kaj želiš imeti narejeno, ko se dan konča?</item>
+        <item>Se še spomniš, zakaj je ta aplikacija na tvojem telefonu?</item>
+        <item>Kaj pa, če prestaviš na pozneje in vidiš, ali si še želiš?</item>
+        <item>Kje bi ti danes prav prišlo malo več poguma?</item>
+        <item>Želiš hitro ali dobro različico svojega dneva?</item>
+        <item>Kaj lahko danes narediš samo ti?</item>
+        <item>Kaj te čaka zunaj?</item>
+        <item>Komu ali čemu se lahko danes zahvališ?</item>
+        <item>Koliko ti je vredna naslednja polurica?</item>
+        <item>Kaj želiš odnesti iz tega tedna?</item>
+        <item>Je to nujno ali se le zdi?</item>
+        <item>Počneš to, kar želiš početi?</item>
+        <item>Kakšen bi bil dober konec tega dne?</item>
+        <item>Kaj bi zdaj izbrala spočita glava?</item>
+        <item>Zdaj raje drsiš ali živiš?</item>
+        <item>Kaj pa, če preprosto zapreš in vidiš, kaj se zgodi?</item>
+    </string-array>
+</resources>

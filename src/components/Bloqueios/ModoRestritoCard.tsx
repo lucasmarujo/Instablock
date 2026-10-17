@@ -2,6 +2,8 @@ import { Ionicons } from '@expo/vector-icons';
 import { StyleSheet, Text, View } from 'react-native';
 
 import { Interruptor } from '@/components/Interruptor';
+import { useTextos } from '@/i18n/IdiomaContext';
+import { contar } from '@/i18n/formatos';
 
 import { radius, spacing, typography } from '@/theme/tokens';
 import { useTheme } from '@/theme/useTheme';
@@ -19,6 +21,8 @@ type Props = {
  */
 export function ModoRestritoCard({ restricted, waitMinutes, onAlternar }: Props) {
   const theme = useTheme();
+  const t = useTextos();
+  const textos = t.bloqueios.modoRestrito;
 
   return (
     <View style={styles.bloco}>
@@ -47,28 +51,28 @@ export function ModoRestritoCard({ restricted, waitMinutes, onAlternar }: Props)
         </View>
         <View style={styles.textos}>
           <Text style={[styles.titulo, { color: theme.colors.textPrimary }]}>
-            {restricted ? 'Modo restrito ligado' : 'Modo restrito'}
+            {restricted ? textos.tituloLigado : textos.titulo}
           </Text>
           <Text style={[styles.descricao, { color: theme.colors.textSecondary }]}>
-            {restricted
-              ? `A lista está travada. Desligar pede ${waitMinutes} min de espera.`
-              : `Quando ligado, mudar a lista pede ${waitMinutes} min de espera.`}
+            {contar(
+              t,
+              restricted ? textos.descricaoLigado : textos.descricaoDesligado,
+              waitMinutes
+            )}
           </Text>
         </View>
         <Interruptor
           valor={restricted}
           onChange={onAlternar}
-          accessibilityLabel="Modo restrito"
-          accessibilityHint={
-            restricted ? 'Abre a confirmação para começar a espera' : 'Liga na hora'
-          }
+          accessibilityLabel={textos.rotuloInterruptor}
+          accessibilityHint={restricted ? textos.dicaQuandoLigado : textos.dicaQuandoDesligado}
         />
       </View>
       {restricted && (
         <View style={styles.nota}>
           <Ionicons name="information-circle-outline" size={16} color={theme.colors.textTertiary} />
           <Text style={[styles.textoNota, { color: theme.colors.textSecondary }]}>
-            Os interruptores ficam travados até a espera terminar.
+            {textos.notaInterruptoresTravados}
           </Text>
         </View>
       )}

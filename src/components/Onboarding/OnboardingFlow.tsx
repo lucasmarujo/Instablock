@@ -1,9 +1,20 @@
 import { Ionicons } from '@expo/vector-icons';
 import { useCallback, useEffect, useState, type ReactNode } from 'react';
-import { Linking, Platform, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import {
+  I18nManager,
+  Linking,
+  Platform,
+  Pressable,
+  ScrollView,
+  StyleSheet,
+  Text,
+  View,
+} from 'react-native';
 import Animated, {
+  FadeInLeft,
   FadeInRight,
   FadeOutLeft,
+  FadeOutRight,
   useAnimatedStyle,
   useReducedMotion,
   useSharedValue,
@@ -19,6 +30,9 @@ import { IconeApp } from '@/components/IconeApp';
 import { Interruptor } from '@/components/Interruptor';
 import { Skeleton } from '@/components/Skeleton';
 import { TextField } from '@/components/TextField';
+import type { Textos } from '@/i18n/catalogo';
+import { contar, formatar } from '@/i18n/formatos';
+import { useTextos } from '@/i18n/IdiomaContext';
 import AceleralockBlocker, { type InstalledApp } from '@/native/blocker';
 import { mergeBlockedPackages } from '@/state/blockedApps';
 import { markOnboardingComplete, saveDailyHours, saveUserName } from '@/state/onboardingStorage';
@@ -35,13 +49,13 @@ import {
   HORAS_MIN,
   HORAS_PADRAO,
   PASSO_ULTIMO,
-  TEMPO_TELA_EXEMPLO,
   filtrarApps,
   legendaDaConclusao,
   normalizarNome,
   permissoesFaltando,
   progressoDoPasso,
   rotuloDoBloqueio,
+  tempoTelaExemplo,
   textoOfertaRestrito,
   tituloDaConclusao,
   tituloPermissoesFaltando,
@@ -58,10 +72,11 @@ const INTENT: Record<CorePermission, string> = {
   overlay: 'android.settings.action.MANAGE_OVERLAY_PERMISSION',
 };
 
-const ROTULO_PERMISSAO: Record<CorePermission, string> = {
-  usageAccess: 'Acesso ao uso',
-  overlay: 'Sobrepor outros apps',
-};
+function rotuloDaPermissao(permissao: CorePermission, t: Textos): string {
+  return permissao === 'usageAccess'
+    ? t.onboarding.escolha.permissaoAcessoAoUso
+    : t.onboarding.escolha.permissaoSobreposicao;
+}
 
 async function abrirSettings(permissao: CorePermission) {
   if (Platform.OS === 'ios') {
@@ -86,14 +101,25 @@ type Props = {
 
 const APPS_VISIVEIS = 3;
 
-const O_QUE_A_PERMISSAO_VE: { icone: keyof typeof Ionicons.glyphMap; texto: string }[] = [
-  { icone: 'checkmark-circle-outline', texto: 'Vê quanto tempo cada app ficou aberto.' },
-  { icone: 'close-circle-outline', texto: 'Não vê o que você faz dentro deles.' },
-  { icone: 'phone-portrait-outline', texto: 'Nada sai do seu celular.' },
-];
+/**
+ * A secao entra pelo lado de onde a leitura vem: da direita no portugues, da
+ * esquerda no arabe e no hebraico — avancar e sempre "ir pra frente".
+ */
+const ENTRADA_DA_SECAO = I18nManager.isRTL ? FadeInLeft : FadeInRight;
+const SAIDA_DA_SECAO = I18nManager.isRTL ? FadeOutRight : FadeOutLeft;
+
+function oQueAPermissaoVe(t: Textos): { icone: keyof typeof Ionicons.glyphMap; texto: string }[] {
+  const textos = t.onboarding.acessoAoUso;
+  return [
+    { icone: 'checkmark-circle-outline', texto: textos.veOTempo },
+    { icone: 'close-circle-outline', texto: textos.naoVeODentro },
+    { icone: 'phone-portrait-outline', texto: textos.nadaSai },
+  ];
+}
 
 export function OnboardingFlow({ passoInicial, passo, onPasso, onVoltar }: Props) {
   const theme = useTheme();
+  const t = useTextos();
   const reduzido = useReducedMotion();
   const { permissions, restricted, refresh } = useProtectionVerdictContext();
 
@@ -213,16 +239,16 @@ export function OnboardingFlow({ passoInicial, passo, onPasso, onVoltar }: Props
 
   switch (passo) {
     case 1:
-      titulo = 'Como você quer ser chamado?';
-      subtitulo = 'Só para o app te cumprimentar.';
+      titulo = t.onboarding.nome.titulo;
+      subtitulo = t.onboarding.nome.subtitulo;
       conteudo = (
         <View style={styles.blocoNome}>
           <TextField
-            label="Seu nome"
+            label={t.onboarding.nome.rotuloCampo}
             value={nome}
             onChangeText={setNome}
-            placeholder="seu nome"
-            accessibilityLabel="Seu nome"
+            placeholder={t.onboarding.nome.placeholder}
+            accessibilityLabel={t.onboarding.nome.rotuloAcessivel}
             tamanho="lg"
             autoFocus
             autoCapitalize="words"
@@ -232,41 +258,45 @@ export function OnboardingFlow({ passoInicial, passo, onPasso, onVoltar }: Props
           <View style={styles.privacidade}>
             <Ionicons name="lock-closed-outline" size={14} color={theme.colors.textTertiary} />
             <Text style={[styles.textoPrivacidade, { color: theme.colors.textTertiary }]}>
-              Fica salvo só neste celular.
+              {t.onboarding.nome.privacidade}
             </Text>
           </View>
         </View>
       );
       rodape = (
-        <Button label="Continuar" disabled={!normalizarNome(nome)} onPress={() => avancar(2)} />
+        <Button
+          label={t.onboarding.continuar}
+          disabled={!normalizarNome(nome)}
+          onPress={() => avancar(2)}
+        />
       );
       break;
 
     case 2:
-      titulo = 'Quanto tempo de tela você acha que tem por dia?';
-      subtitulo = 'Um chute honesto. Depois o app compara com o real.';
+      titulo = t.onboarding.horas.titulo;
+      subtitulo = t.onboarding.horas.subtitulo;
       conteudo = (
         <View style={styles.blocoHoras}>
           <View style={[styles.cartao, cartaoNeutro(theme), styles.cartaoHoras]}>
             <View style={styles.numeroCaixa}>
               <Text style={[styles.numero, { color: theme.colors.textBrand }]}>{horas}</Text>
               <Text style={[styles.unidade, { color: theme.colors.textSecondary }]}>
-                {horas === 1 ? 'hora por dia' : 'horas por dia'}
+                {contar(t, t.onboarding.horas.unidadeAoLadoDoNumero, horas)}
               </Text>
             </View>
             <SliderHoras horas={horas} onChange={setHoras} />
             <View style={styles.escala}>
               <Text style={[styles.textoEscala, { color: theme.colors.textTertiary }]}>
-                {HORAS_MIN} h
+                {formatar(t.onboarding.horas.horasAbreviadas, { n: HORAS_MIN })}
               </Text>
               <Text style={[styles.textoEscala, { color: theme.colors.textTertiary }]}>
-                {HORAS_MAX} h
+                {formatar(t.onboarding.horas.horasAbreviadas, { n: HORAS_MAX })}
               </Text>
             </View>
           </View>
           <View style={styles.atalhos}>
             <Text style={[styles.rotuloAtalhos, { color: theme.colors.textSecondary }]}>
-              Ou toque num valor:
+              {t.onboarding.horas.rotuloAtalhos}
             </Text>
             <View style={styles.linhaAtalhos}>
               {HORAS_ATALHOS.map((valor) => {
@@ -276,7 +306,7 @@ export function OnboardingFlow({ passoInicial, passo, onPasso, onVoltar }: Props
                     key={valor}
                     accessibilityRole="radio"
                     accessibilityState={{ checked: ativo }}
-                    accessibilityLabel={`${valor} horas por dia`}
+                    accessibilityLabel={contar(t, t.onboarding.horas.atalhoAcessivel, valor)}
                     onPress={() => setHoras(valor)}
                     style={[
                       styles.chip,
@@ -304,7 +334,7 @@ export function OnboardingFlow({ passoInicial, passo, onPasso, onVoltar }: Props
                           : { color: theme.colors.textPrimary, fontWeight: '500' },
                       ]}
                     >
-                      {valor} h
+                      {formatar(t.onboarding.horas.horasAbreviadas, { n: valor })}
                     </Text>
                   </Pressable>
                 );
@@ -313,40 +343,40 @@ export function OnboardingFlow({ passoInicial, passo, onPasso, onVoltar }: Props
           </View>
         </View>
       );
-      rodape = <Button label="Continuar" onPress={() => avancar(3)} />;
+      rodape = <Button label={t.onboarding.continuar} onPress={() => avancar(3)} />;
       break;
 
     case 3:
-      titulo = 'Vamos medir seu tempo de tela real';
+      titulo = t.onboarding.acessoAoUso.titulo;
       subtitulo =
         Platform.OS === 'ios'
-          ? 'Para isso, o iPhone pede a sua autorização.'
-          : 'Para isso, o Android pede a permissão de acesso ao uso.';
+          ? t.onboarding.acessoAoUso.subtituloIos
+          : t.onboarding.acessoAoUso.subtituloAndroid;
       conteudo = (
         <View style={styles.blocoCartoes}>
           <View style={[styles.cartao, cartaoNeutro(theme), styles.cartaoExemplo]}>
             <View style={styles.cabecalhoExemplo}>
               <Text style={[styles.tituloCartao, { color: theme.colors.textPrimary }]}>
-                O que você vai ver
+                {t.onboarding.acessoAoUso.tituloExemplo}
               </Text>
               <View style={[styles.selo, { backgroundColor: theme.colors.bgSunken }]}>
                 <Text style={[styles.textoSelo, { color: theme.colors.textSecondary }]}>
-                  EXEMPLO
+                  {t.onboarding.acessoAoUso.seloExemplo}
                 </Text>
               </View>
             </View>
             <BarrasTempoTela
-              dados={TEMPO_TELA_EXEMPLO.map((dado, indice) => ({
+              dados={tempoTelaExemplo(t).map((dado, indice, todos) => ({
                 ...dado,
-                destaque: indice === TEMPO_TELA_EXEMPLO.length - 1,
+                destaque: indice === todos.length - 1,
               }))}
-              legenda="Exemplo — libere o acesso ao uso para ver o seu"
+              legenda={t.onboarding.acessoAoUso.legendaExemplo}
               variante="exemplo"
             />
           </View>
           <View style={[styles.cartao, cartaoNeutro(theme), styles.cartaoLista]}>
-            {O_QUE_A_PERMISSAO_VE.map((item) => (
-              <View key={item.texto} style={styles.itemLista}>
+            {oQueAPermissaoVe(t).map((item) => (
+              <View key={item.icone} style={styles.itemLista}>
                 <Ionicons
                   name={item.icone}
                   size={20}
@@ -368,7 +398,9 @@ export function OnboardingFlow({ passoInicial, passo, onPasso, onVoltar }: Props
       rodape = (
         <>
           <Button
-            label={permissions?.usageAccess ? 'Continuar' : 'Liberar acesso ao uso'}
+            label={
+              permissions?.usageAccess ? t.onboarding.continuar : t.onboarding.acessoAoUso.liberar
+            }
             onPress={() => {
               // Ja concedida: o toque e so o aceite explicito de seguir. Nao
               // manda pro Settings — abrir uma tela que nao tem nada pra
@@ -388,7 +420,7 @@ export function OnboardingFlow({ passoInicial, passo, onPasso, onVoltar }: Props
               style={({ pressed }) => [styles.agoraNao, { opacity: pressed ? 0.6 : 1 }]}
             >
               <Text style={[styles.textoAgoraNao, { color: theme.colors.textSecondary }]}>
-                Agora não
+                {t.onboarding.acessoAoUso.agoraNao}
               </Text>
             </Pressable>
           )}
@@ -397,8 +429,10 @@ export function OnboardingFlow({ passoInicial, passo, onPasso, onVoltar }: Props
       break;
 
     case 4:
-      titulo = nome ? `${nome}, o que você quer bloquear?` : 'O que você quer bloquear?';
-      subtitulo = 'Escolha pelo menos um app. Dá para mudar depois.';
+      titulo = nome
+        ? formatar(t.onboarding.escolha.tituloComNome, { nome })
+        : t.onboarding.escolha.titulo;
+      subtitulo = t.onboarding.escolha.subtitulo;
       conteudo = (
         <View style={styles.blocoCartoes}>
           {faltando.length > 0 && (
@@ -412,7 +446,7 @@ export function OnboardingFlow({ passoInicial, passo, onPasso, onVoltar }: Props
               ]}
             >
               <Text style={[styles.tituloCartao, { color: theme.colors.textWarning }]}>
-                {tituloPermissoesFaltando(faltando.length)}
+                {tituloPermissoesFaltando(faltando.length, t)}
               </Text>
               {(['usageAccess', 'overlay'] as const).map((chave) => {
                 const concedida = !faltando.includes(chave);
@@ -425,14 +459,21 @@ export function OnboardingFlow({ passoInicial, passo, onPasso, onVoltar }: Props
                       color={concedida ? theme.colors.textBrand : theme.colors.iconWarning}
                     />
                     <Text style={[styles.textoPermissao, { color: theme.colors.textPrimary }]}>
-                      {ROTULO_PERMISSAO[chave]}
+                      {rotuloDaPermissao(chave, t)}
                     </Text>
                     {concedida ? (
-                      <Text style={[styles.pronto, { color: theme.colors.textBrand }]}>Pronto</Text>
+                      <Text style={[styles.pronto, { color: theme.colors.textBrand }]}>
+                        {t.onboarding.escolha.permissaoPronta}
+                      </Text>
                     ) : (
                       <Pressable
                         accessibilityRole="button"
-                        accessibilityLabel={`Liberar ${ROTULO_PERMISSAO[chave]}`}
+                        accessibilityLabel={formatar(
+                          t.onboarding.escolha.liberarPermissaoAcessivel,
+                          {
+                            permissao: rotuloDaPermissao(chave, t),
+                          }
+                        )}
                         hitSlop={4}
                         onPress={() => void abrirSettings(chave)}
                         style={({ pressed }) => [
@@ -450,7 +491,7 @@ export function OnboardingFlow({ passoInicial, passo, onPasso, onVoltar }: Props
                             { color: theme.colors.surfaces.brand.onFill },
                           ]}
                         >
-                          Liberar
+                          {t.onboarding.escolha.liberarPermissao}
                         </Text>
                       </Pressable>
                     )}
@@ -463,8 +504,8 @@ export function OnboardingFlow({ passoInicial, passo, onPasso, onVoltar }: Props
           <TextField
             value={busca}
             onChangeText={setBusca}
-            placeholder="Buscar app"
-            accessibilityLabel="Buscar app pelo nome"
+            placeholder={t.onboarding.escolha.buscaPlaceholder}
+            accessibilityLabel={t.onboarding.escolha.buscaAcessivel}
             leadingIcon="search"
             tamanho="sm"
             autoCapitalize="none"
@@ -480,8 +521,7 @@ export function OnboardingFlow({ passoInicial, passo, onPasso, onVoltar }: Props
 
           {carga.estado === 'erro' && (
             <Text style={[styles.corpoTexto, { color: theme.colors.textSecondary }]}>
-              Não deu para ler a lista de apps do aparelho. Saia e entre nesta tela para tentar de
-              novo.
+              {t.onboarding.escolha.erroAoListar}
             </Text>
           )}
 
@@ -498,7 +538,7 @@ export function OnboardingFlow({ passoInicial, passo, onPasso, onVoltar }: Props
                       { color: theme.colors.textSecondary },
                     ]}
                   >
-                    Nenhum app com esse nome.
+                    {t.onboarding.escolha.semResultado}
                   </Text>
                 ) : (
                   visiveis.map((app, indice) => (
@@ -528,16 +568,14 @@ export function OnboardingFlow({ passoInicial, passo, onPasso, onVoltar }: Props
       rodape = (
         <>
           <Button
-            label={rotuloDoBloqueio(marcados.size)}
+            label={rotuloDoBloqueio(marcados.size, t)}
             loading={salvando}
             disabled={marcados.size === 0 || !permissions?.coreGranted}
             onPress={criarBloqueio}
           />
           {marcados.size > 0 && faltando.length > 0 && (
             <Text style={[styles.legendaRodape, { color: theme.colors.textSecondary }]}>
-              {faltando.length === 1
-                ? 'Libere a permissão acima para continuar.'
-                : 'Libere as permissões acima para continuar.'}
+              {contar(t, t.onboarding.escolha.liberePermissoes, faltando.length)}
             </Text>
           )}
         </>
@@ -547,8 +585,8 @@ export function OnboardingFlow({ passoInicial, passo, onPasso, onVoltar }: Props
     case 5: {
       const rotulos = escolhidos.map((app) => app.label);
       const { waitMinutes } = AceleralockBlocker.protectionState();
-      titulo = tituloDaConclusao(rotulos);
-      subtitulo = 'Quando bater a vontade de abrir, o AceleraLock fica no caminho.';
+      titulo = tituloDaConclusao(rotulos, t);
+      subtitulo = t.onboarding.conclusao.subtitulo;
       conteudo = (
         <View style={styles.blocoCartoes}>
           <CartaoBloqueado
@@ -567,40 +605,46 @@ export function OnboardingFlow({ passoInicial, passo, onPasso, onVoltar }: Props
                       color={theme.colors.textOnHeroFriction}
                     />
                     <Text style={[styles.tituloOferta, { color: theme.colors.textOnHero }]}>
-                      Modo restrito
+                      {t.onboarding.ofertaRestrito.titulo}
                     </Text>
                   </View>
                   <View style={[styles.seloOferta, { backgroundColor: theme.colors.bgHeroRaised }]}>
                     <Text style={[styles.textoSelo, { color: theme.colors.textOnHeroFriction }]}>
-                      RECOMENDADO
+                      {t.onboarding.ofertaRestrito.selo}
                     </Text>
                   </View>
                 </View>
                 <Text style={[styles.corpoOferta, { color: theme.colors.textOnHeroSecondary }]}>
-                  {textoOfertaRestrito(rotulos, waitMinutes)}
+                  {textoOfertaRestrito(rotulos, waitMinutes, t)}
                 </Text>
                 <View
                   style={[styles.linhaInterruptor, { borderTopColor: theme.colors.lineOnHero }]}
                 >
                   <Text style={[styles.rotuloInterruptor, { color: theme.colors.textOnHero }]}>
-                    Ligar modo restrito
+                    {t.onboarding.ofertaRestrito.ligar}
                   </Text>
                   <Interruptor
                     valor={ligarRestrito}
                     onChange={setLigarRestrito}
-                    accessibilityLabel="Ligar modo restrito"
+                    accessibilityLabel={t.onboarding.ofertaRestrito.ligarAcessivel}
                     superficie="hero"
                   />
                 </View>
               </HeroCard>
               <Text style={[styles.legendaOferta, { color: theme.colors.textTertiary }]}>
-                Ligar é imediato. Dá para mudar depois em Bloqueios.
+                {t.onboarding.ofertaRestrito.legenda}
               </Text>
             </>
           )}
         </View>
       );
-      rodape = <Button label="Ir para o início" loading={salvando} onPress={finalizar} />;
+      rodape = (
+        <Button
+          label={t.onboarding.conclusao.irParaOInicio}
+          loading={salvando}
+          onPress={finalizar}
+        />
+      );
       break;
     }
   }
@@ -611,11 +655,16 @@ export function OnboardingFlow({ passoInicial, passo, onPasso, onVoltar }: Props
         {onVoltar ? (
           <Pressable
             accessibilityRole="button"
-            accessibilityLabel="Voltar"
+            accessibilityLabel={t.onboarding.cabecalho.voltar}
             onPress={onVoltar}
             style={styles.voltar}
           >
-            <Ionicons name="arrow-back" size={22} color={theme.colors.textPrimary} />
+            <Ionicons
+              name="arrow-back"
+              size={22}
+              color={theme.colors.textPrimary}
+              style={I18nManager.isRTL && styles.espelhado}
+            />
           </Pressable>
         ) : (
           <View style={styles.voltar} />
@@ -624,7 +673,7 @@ export function OnboardingFlow({ passoInicial, passo, onPasso, onVoltar }: Props
           style={styles.segmentos}
           accessible
           accessibilityRole="progressbar"
-          accessibilityLabel={`Passo ${atual} de ${total}`}
+          accessibilityLabel={formatar(t.onboarding.cabecalho.progressoAcessivel, { atual, total })}
           accessibilityValue={{ min: 1, max: total, now: atual }}
         >
           {Array.from({ length: total }, (_, indice) => (
@@ -641,19 +690,15 @@ export function OnboardingFlow({ passoInicial, passo, onPasso, onVoltar }: Props
           ))}
         </View>
         <Text style={[styles.contador, { color: theme.colors.textSecondary }]}>
-          {atual} de {total}
+          {formatar(t.onboarding.cabecalho.contador, { atual, total })}
         </Text>
       </View>
 
       <Animated.View
         key={passo}
         style={styles.secao}
-        entering={
-          reduzido ? FadeInRight.duration(duration.instant) : FadeInRight.duration(duration.base)
-        }
-        exiting={
-          reduzido ? FadeOutLeft.duration(duration.instant) : FadeOutLeft.duration(duration.fast)
-        }
+        entering={ENTRADA_DA_SECAO.duration(reduzido ? duration.instant : duration.base)}
+        exiting={SAIDA_DA_SECAO.duration(reduzido ? duration.instant : duration.fast)}
       >
         <ScrollView
           contentContainerStyle={styles.corpo}
@@ -693,6 +738,7 @@ function CartaoBloqueado({
   reduzido: boolean;
 }) {
   const theme = useTheme();
+  const t = useTextos();
   const entrada = useSharedValue(reduzido ? 1 : 0);
 
   useEffect(() => {
@@ -709,15 +755,17 @@ function CartaoBloqueado({
       <IconeApp iconUri={app?.iconUri ?? null} tamanho={48} />
       <View style={styles.textosFinal}>
         <Text style={[styles.nomeFinal, { color: theme.colors.textPrimary }]} numberOfLines={1}>
-          {app?.label ?? 'Aplicativo'}
+          {app?.label ?? t.onboarding.conclusao.appSemNome}
         </Text>
         <Text style={[styles.legendaFinal, { color: theme.colors.textSecondary }]}>
-          {legendaDaConclusao(total)}
+          {legendaDaConclusao(total, t)}
         </Text>
       </View>
       <View style={[styles.seloBloqueado, { backgroundColor: theme.colors.bgBrandSubtle }]}>
         <Ionicons name="shield-outline" size={14} color={theme.colors.textBrand} />
-        <Text style={[styles.textoBloqueado, { color: theme.colors.textBrand }]}>Bloqueado</Text>
+        <Text style={[styles.textoBloqueado, { color: theme.colors.textBrand }]}>
+          {t.onboarding.conclusao.seloBloqueado}
+        </Text>
       </View>
     </Animated.View>
   );
@@ -740,6 +788,9 @@ const styles = StyleSheet.create({
     height: 48,
     alignItems: 'center',
     justifyContent: 'center',
+  },
+  espelhado: {
+    transform: [{ scaleX: -1 }],
   },
   segmentos: {
     flex: 1,

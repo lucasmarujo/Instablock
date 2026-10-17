@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">%1$s ब्लक गरिएको छ।</string>
+    <string name="aceleralock_block_title_unknown">यो एप ब्लक गरिएको छ।</string>
+    <string name="aceleralock_block_close">बन्द गर्नुहोस्</string>
+    <string name="aceleralock_notification_channel">सुरक्षा सक्रिय</string>
+    <string name="aceleralock_notification_text">सुरक्षा सक्रिय</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: साइट ब्लक</string>
+    <string name="aceleralock_site_accessibility_description">तपाईंले रोजेका साइटहरू ब्लक गर्न Chrome, Samsung Internet, Firefox, Edge र Brave को ठेगाना पट्टीको ठेगाना मात्र पढ्छ। केही पनि सेभ हुँदैन र केही पनि उपकरणबाट बाहिर जाँदैन।</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">I-%1$s ivaliwe.</string>
+    <string name="aceleralock_block_title_unknown">Le app ivaliwe.</string>
+    <string name="aceleralock_block_close">Vala</string>
+    <string name="aceleralock_notification_channel">Ukuvikelwa kuvuliwe</string>
+    <string name="aceleralock_notification_text">Ukuvikelwa kuvuliwe</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: ukuvimbela amasayithi</string>
+    <string name="aceleralock_site_accessibility_description">Ifunda kuphela ikheli ebhaeni ye-Chrome, Samsung Internet, Firefox, Edge ne-Brave ukuze ivimbele amasayithi owakhethile. Akukho okugcinwayo futhi akukho okuphuma kudivayisi.</string>
+</resources>

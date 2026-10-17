@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Eesti: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>Aeg, mida sa siin ei kuluta, tuleb tervenisti sinu ellu tagasi.</item>
+        <item>Iga minut sellest ekraanist eemal on jälle sinu oma.</item>
+        <item>Need kakskümmend minutit mahuvad ühte jalutuskäiku.</item>
+        <item>Kui kerimine lakkab, on päevas rohkem ruumi, kui tundub.</item>
+        <item>Sa said just tüki oma pärastlõunast tagasi.</item>
+        <item>Üks tund päevas teeb aastas viisteist päeva.</item>
+        <item>Aeg tagasi ei tule, aga sa saad veel valida, kuhu see läheb.</item>
+        <item>See vaheaeg on sinu. Keegi ei pea teadma, mida sa sellega tegid.</item>
+        <item>Väljaspool äppi käib terve elu.</item>
+        <item>Kell tiksub mõlemal pool ekraani ühtmoodi.</item>
+        <item>Sa võitsid just aega. Kuluta see millelegi, mida homme mäletad.</item>
+        <item>Keegi ei soovi päeva lõpus, et oleks voogu rohkem kerinud.</item>
+        <item>Viisteist minutit siin on viisteist minutit ükskõik kus mujal.</item>
+        <item>Mõtle, mida sa oleksid selle pooltunniga kümme aastat tagasi teinud.</item>
+        <item>Aeg on ainus asi, mida sa tagasi osta ei saa.</item>
+        <item>Terve pärastlõuna on veel sinu ees lahti.</item>
+        <item>See minut võib olla millegi muu algus.</item>
+        <item>Sa annad endale tunde tagasi, ühe korraga.</item>
+        <item>Siin säästetud aeg ei kao. See ilmub mujal uuesti välja.</item>
+        <item>Kümme minutit tundub vähe, kuni liidad kokku terve kuu omad.</item>
+        <item>Elu käib tavalises tempos, mitte voo tempos.</item>
+        <item>Sul on täna rohkem aega kui eile samal kellaajal.</item>
+        <item>See, mida sa oled edasi lükanud, mahub täpselt sellesse vahesse.</item>
+        <item>See paus on lühike. See, mida sa sellega teed, ei pruugi olla.</item>
+        <item>Päeva mahub palju, kui kerimine eest ära läheb.</item>
+        <item>Sa said just ülejäänud õhtu tagasi.</item>
+        <item>Aeg on valuuta. Sa otsustasid just seda mitte kulutada.</item>
+        <item>Voog ei lõpe kunagi. Sinu päev lõpeb.</item>
+        <item>Pool tundi päevas teeb kuus terve raamatu.</item>
+        <item>Seal sees ei oodanud sind midagi kiireloomulist.</item>
+        <item>See aeg oli niikuinii sinu. Nüüd on see sul tagasi.</item>
+        <item>Hommikust võib veel asja saada, kui see algab praegu.</item>
+        <item>Sa ei jäänud millestki ilma. Sa võitsid hingetõmbe.</item>
+        <item>Keegi ei anna meile aega tagasi. Me peame seda ise hoidma.</item>
+        <item>Need minutid on mujal rohkem väärt ja sa tead seda juba.</item>
+        <item>Mis seal oli, see seal ka püsib. Sinu aeg aga ei püsi.</item>
+        <item>Elu koosneb just sellistest pärastlõunatest.</item>
+        <item>Sa võid päeva lõpetada millegi tehtuga, mitte millegi nähtuga.</item>
+        <item>Kaks tundi päevas teeb aastas terve kuu.</item>
+        <item>Aeg, mida sa täna kaitsed, on see, mis sul homme üle jääb.</item>
+        <item>See on päeva osa, mille üle otsustad ainult sina.</item>
+        <item>Keegi pole sinna kirjutanud midagi, mis oleks väärt sinu pärastlõunat.</item>
+        <item>Kolmkümmend minutit päevas aitab aastaga ükskõik mida üles ehitada.</item>
+        <item>Sa said just endale tükikese vaikust.</item>
+        <item>Päev läheb suuremaks, kui voog jääb väiksemaks.</item>
+        <item>See aeg on nüüd tooraine. Tee sellest midagi.</item>
+        <item>Üks sinu projekt ootab just seda vaba hetke.</item>
+        <item>See, mida sa siin võidad, ei paista ühelgi ekraanil, ainult sinu elus.</item>
+        <item>Vaba aeg on haruldane. Sa lõid seda just juurde.</item>
+        <item>Keegi pole elu lõpus palunud veel üht kerimist.</item>
+        <item>Sul on terve pärastlõuna ja see on veel kulutamata.</item>
+        <item>Aasta on kolmsada kuuskümmend viis sellist valikut.</item>
+        <item>See vahe on väike, aga täielikult sinu oma.</item>
+        <item>Aeg möödub ühtmoodi. Vahe on selles, mis pärast alles jääb.</item>
+        <item>Sa võtsid just pool tundi autopiloodilt ära.</item>
+        <item>Ülejäänud päev tänab sind selle peatuse eest.</item>
+        <item>Viis minutit seal muutub märkamatult neljakümneks.</item>
+        <item>Sa tead nende viie minuti hinda. Sellepärast sa siin oledki.</item>
+        <item>Tund, mida sa praegu kaitsed, on see, mida sa õhtul taga otsid.</item>
+        <item>Seal sees ei muutu miski paremaks sellest, et vaatad seda praegu, mitte hiljem.</item>
+        <item>Sa valisid just, kuhu järgmine minut läheb.</item>
+        <item>See aeg mahub vestlusse, jalutuskäiku või lõunauinakusse.</item>
+        <item>Päevast saab asja, kui tunnid enam käest ei libise.</item>
+        <item>Järgmise pooltunni ainus omanik oled sina.</item>
+        <item>Sellel päeval on versioon, kus sa tegid midagi. See algab praegu.</item>
+        <item>Aega ei saa koguda. Seda saab ainult paremini või halvemini kulutada.</item>
+        <item>Neist minutitest võib saada päris puhkus.</item>
+        <item>Sa astusid just maha jooksulindilt, mis ei vii kuhugi.</item>
+        <item>Nädalas on sada kuuskümmend kaheksa tundi. See siin on sinu.</item>
+        <item>Voog võtab aega pisikeste tükkidena, et keegi puudust ei tunneks.</item>
+        <item>Nüüd saad teha selle, mis iga päev homsesse jääb.</item>
+        <item>Sinu pärastlõuna ei pea ekraani sisse ära mahtuma.</item>
+        <item>Üle jäänud aeg teeb päeva heas mõttes pikaks.</item>
+        <item>Sa andsid just järgmise tunni endale tagasi.</item>
+        <item>Mitte miski, mida sa praegu näeksid, ei oleks nädala pärast enam su peas.</item>
+        <item>Just sellised minutid ehitavad aasta üles või lahustavad selle.</item>
+        <item>Sa võitsid aega. Seda ei pea kiiresti ära kulutama.</item>
+        <item>Kerimiseta päeva mahub rohkem.</item>
+        <item>Kell ei erista head aega raisatud ajast. Sina eristad.</item>
+        <item>See tund on sama väärt kui iga teine tund sinu elus.</item>
+        <item>Sul on praegu aega. See on haruldasem, kui tundub.</item>
+        <item>Aega on sul ainult siis, kui sa seda hoiad.</item>
+        <item>Terve õhtu on veel ees.</item>
+        <item>Need minutid on algus pärastlõunale, mida sa mäletama jääd.</item>
+        <item>Sa pääsesid just sellest tunnipikkusest august.</item>
+        <item>Kõik, mis nõuab aega, nõuab just sellist otsust.</item>
+        <item>Praeguse hetke ja õhtusöögi vahele mahub veel palju.</item>
+        <item>Sa võtsid jala gaasipedaalilt. Päev aeglustub koos sinuga.</item>
+        <item>Sinu nädalas on ruumi. See oli lihtsalt millegi muuga täidetud.</item>
+        <item>Iga kord, kui sa siin sulged, kasvab päev natuke.</item>
+        <item>Aeg on kingitus, mille teed endale midagi kulutamata.</item>
+        <item>Sul on praegu täpselt see, mida sa terve päeva ütled endal puuduvat.</item>
+        <item>Pikk pärastlõuna koosneb lühikestest otsustest nagu see.</item>
+        <item>Keegi ei küsi, mida sa selle pooltunniga tegid.</item>
+        <item>Aeg, mida sa täna ära ei anna, on sul homme veel alles.</item>
+        <item>Kakskümmend minutit päevas teeb aastas sada kakskümmend tundi.</item>
+        <item>Sa said just tagasi aja enne magamaminekut.</item>
+        <item>Kahe teavituse vahel on palju elu.</item>
+        <item>Terve päev on sinu, kui sa seda tükkhaaval ära ei anna.</item>
+        <item>Sa oled aega kaitstes siia jõudnud. See on veel üks samm.</item>
+        <item>Sinu tähelepanu on maailma kõige ihaldatum vara. Sa just võitsid.</item>
+        <item>Keskendumise taastumiseks kulub kakskümmend minutit. Ära anna seda praegu ära.</item>
+        <item>Terviklik mõte on väärt rohkem kui sada killustatud mõtet.</item>
+        <item>Sa olid enne siia tulekut millelegi keskendunud.</item>
+        <item>Jagatud tähelepanu pole tähelepanu. See on lihtsalt väsimus.</item>
+        <item>See, mida sa tegid, väärib sind täielikult.</item>
+        <item>Sügav mõtlemine vajab segamatut aega. See on just see aeg.</item>
+        <item>Iga ekraanivahetus maksab rohkem, kui kell näitab.</item>
+        <item>Su mõte liikus hästi. Lase sel jätkata.</item>
+        <item>Süvatöö ei ela üle voo kerimist.</item>
+        <item>Voog on loodud sinu tähelepanu püüdma. Sa märkasid seda.</item>
+        <item>Pikk mõte vajab lõpuni jõudmiseks vaikust.</item>
+        <item>Sa suudad terve idee peas hoida. Vaja on vaid ruumi.</item>
+        <item>Tähelepanu hajutamine pole puhkus. Puhkus päriselt puhkab.</item>
+        <item>Sinu keskendumine on veel kuskil alles. Pöördu selle juurde tagasi.</item>
+        <item>Sinu tähelepanu pole täna müügiks.</item>
+        <item>Sinu parimad mõtted tulevad pärast kahekümnendat minutit.</item>
+        <item>Praegu katkestamine läheb maksma rohkem, kui tundub.</item>
+        <item>Sa suudad asju, mis nõuavad keskendumist. Alusta selle kaitsmisest.</item>
+        <item>Seal sees ei vaja miski kiiresti sinu tähelepanu.</item>
+        <item>Üks keskendunud tund annab rohkem kui neli tükeldatud tundi.</item>
+        <item>Su pea töötab paremini, kui see ei pea teemat vahetama.</item>
+        <item>Pooleli jäänu saab veel täna lõpetada.</item>
+        <item>Keskendumine pole tahtejõud. See on keskkond. Sa just korrastasid enda oma.</item>
+        <item>See keeruline probleem annab järele, kui sa selle juurde jääd.</item>
+        <item>Sinu tähelepanu on piiratud. Sellepärast on see nii väärtuslik.</item>
+        <item>Sa ei pea kõigest kohe teadma.</item>
+        <item>Müra jääb sinna alles. Haruldane on hoopis sinu vaikus.</item>
+        <item>Suuri asju on teinud inimesed, keda ei segatud.</item>
+        <item>Mine tagasi selle juurde, mida tegid. Su mõtted on veel seal.</item>
+        <item>Üks ülesanne korraga on kiirem, kui tundub.</item>
+        <item>Kiusatus vaadata möödub. Katkestatud mõte ei pruugi tagasi tulla.</item>
+        <item>Sinu keskendumisvõime on suurem, kui sa viimasel ajal kasutad.</item>
+        <item>Hästi mõtlemine on aeglane. Lase sel aeglane olla.</item>
+        <item>Sinu tähelepanu on täna midagi üles ehitanud. Ära lõhu seda uudishimust.</item>
+        <item>Mis nõuab mõtlemist, nõuab kogu sinu pead.</item>
+        <item>Ükski voog ei õpeta sulle seda, mida õpetab tund keskendumist.</item>
+        <item>Iga tähelepanuta jäetud teavitus toob natuke rohkem selgust.</item>
+        <item>Sa olid mõistmisele lähedal. Mine sinna tagasi.</item>
+        <item>Puhanud mõistus on see, mida pole terve päeva sikutatud.</item>
+        <item>Tähelepanu on materjal, millest sa ehitad kõik muu.</item>
+        <item>Raske on alustada. Sa oled juba alustanud. Ära alusta nullist uuesti.</item>
+        <item>Jäta teema rahule ja see laheneb su peas iseenesest.</item>
+        <item>Selgus tuleb, kui müra vaibub.</item>
+        <item>Sinu päeva parim töö on alles ees.</item>
+        <item>Asi pole ajapuuduses. Puudu on katkematust ajast.</item>
+        <item>Sa mõtled paremini, kui voog sul lubab.</item>
+        <item>See tekst, see kood, see vestlus. Need ootavad sind tervikuna.</item>
+        <item>Keskendumine on lihas. See kasvab selliste päevadega nagu täna.</item>
+        <item>Su pea just tänas sind.</item>
+        <item>Üks asi korraga on endiselt kõige arenenum tehnika.</item>
+        <item>Mida teed tähelepanuga, see jääb. Muu möödub.</item>
+        <item>Mõtlemiseks pole otseteed. On vaid segamatu aeg.</item>
+        <item>Sa väärid oma mõttekäigu lõpuni viimist.</item>
+        <item>Su mõte oli terav. Ära lase sel niidil katkeda.</item>
+        <item>Ekraan vilgub. Ideed mitte. Jää ideede juurde.</item>
+        <item>Üks keskendunud päev on väärt kolme tormamist täis päeva.</item>
+        <item>Sa ei ole aeglane. Sind lihtsalt segati pidevalt.</item>
+        <item>Tänane oluline teema pole voos.</item>
+        <item>Kursil püsida on odavam kui sinna tagasi pöörduda.</item>
+        <item>Sinu jagamatu tähelepanu on kingitus. Anna see sellele, kes seda väärib.</item>
+        <item>Head ideed sünnivad vaikuses.</item>
+        <item>Sa olid millegi hea keskel.</item>
+        <item>Keegi ei mõtle selgelt, kui pea on kümnes kohas korraga.</item>
+        <item>Sügavus avaneb alles pärast mõnda aega pinnal.</item>
+        <item>Keskendumine ei tähenda rohkem tegemist. See tähendab hästi tegemist.</item>
+        <item>Sul on täna üks oluline asi. Voog see ei ole.</item>
+        <item>Lase oma mõttel lõpetada lause, mida ta alustas.</item>
+        <item>Üks segamatu tund muudab, mis päeva jooksul võimalik on.</item>
+        <item>Mis praegu tundub raske, muutub järjepideva tähelepanuga kergeks.</item>
+        <item>Keskendumisvõime on sinu eelis. Vähestel on see veel alles.</item>
+        <item>Ära vaheta üht olulist asja paljude kiirete vastu.</item>
+        <item>Uudishimu võib oodata. Keskendumine ei oota.</item>
+        <item>Sa ehitad midagi. Jätka.</item>
+        <item>Ülesannete vahel hüppamine tundub tootlik, aga peaaegu kunagi pole.</item>
+        <item>Sinu pea parim kasutus täna on veel saadaval.</item>
+        <item>Tähelepanu, mida sa praegu hoiad, paistab hiljem tulemuses välja.</item>
+        <item>Su mõistus ei ole voog. See talletab seda, millele tähelepanu pöörad.</item>
+        <item>Teema, mis väärib sind tervenisti, on haruldane. Kasuta seda.</item>
+        <item>Raske ei tähenda võimatut. See võtab lihtsalt aega.</item>
+        <item>Sa oled vaid mõne minuti kaugusel läbimurdest.</item>
+        <item>Müra kaob, kui sa seda enam ei toida.</item>
+        <item>Jää selle juurde, mida tegid, kuni see on valmis.</item>
+        <item>Üks sügav sukeldumine on väärt kümmet madalat.</item>
+        <item>Sinu tähelepanu otsustab, millest saab mälestus.</item>
+        <item>Sa mäletad seda, millele tähelepanu pöörasid. Ainult seda.</item>
+        <item>Mõtlemine on tänase päeva kõige tasuvam tegevus.</item>
+        <item>Rahulik pea lahendab selle, mida kiirustav pea ei näegi.</item>
+        <item>Hea töö nõuab kannatlikkust, mitte kiirust.</item>
+        <item>Mitte miski, mida sa praegu näeksid, ei jõuaks homme ühtegi vestlusse.</item>
+        <item>Sinu tänane selgus sai alguse just sellistest otsustest.</item>
+        <item>Katkestus on kõige kallim maks, mis olemas on.</item>
+        <item>Sa suudad ühe asja juures püsida kauem, kui arvad.</item>
+        <item>See detail, mis sul käest libises, ilmub vaikuses välja.</item>
+        <item>Keskendumine tuleb tagasi. Vaja on vaid paari minutit ilma ekraanita.</item>
+        <item>Sa suudad kaua keskenduda. Voog lihtsalt panustab, et ei suuda.</item>
+        <item>Ühe asja lõpetamine täna on väärt rohkem kui viie alustamine.</item>
+        <item>Täielik kohalolu on haruldane isegi sinu enda jaoks.</item>
+        <item>Lase mõttel hingata.</item>
+        <item>Seda, mille sa keskendunult ehitad, ei keri keegi mööda.</item>
+        <item>Tung avada möödub mõne minutiga. See möödub alati.</item>
+        <item>Sellel impulsil on säilivusaeg. See aegub iseenesest.</item>
+        <item>Sa ei pea midagi tegema. Oota lihtsalt, kuni laine vaibub.</item>
+        <item>See kiirustunne pole sinu oma. See on sulle õpetatud.</item>
+        <item>Hinga korra sügavalt. Tung on juba väiksem kui minut tagasi.</item>
+        <item>Impulss on alguses tugev ja kaob poolel teel.</item>
+        <item>See ei ole sinu soov. See on harjumus, mis küsib.</item>
+        <item>Ebamugav on vaid natukeseks. Siis läheb üle.</item>
+        <item>Sa oled seda varemgi tundnud ja iga kord hakkama saanud.</item>
+        <item>Tung tuleb lainetena. Lained murduvad.</item>
+        <item>Keegi ei pea kuuletuma päeva esimesele impulsile.</item>
+        <item>See pitsitus rinnus kestab vähem kui üks laul.</item>
+        <item>Sa oled suurem kui kolmekümnesekundiline impulss.</item>
+        <item>Lase tungil mööduda, ilma et sellega midagi teeksid.</item>
+        <item>Praegune ebamugavus on harjumuse haarde lõdvenemine. See on edasiminek.</item>
+        <item>Sa ei pane vastu. Sa lihtsalt ootad.</item>
+        <item>Tung tuleb tormiliselt ja lahkub vaikselt.</item>
+        <item>Loe kahekümneni. Tung on siis juba väiksem.</item>
+        <item>Tahtmine ei ole sama mis vajamine.</item>
+        <item>Impulss nõuab kohest vastust. Ära anna seda.</item>
+        <item>See on kõige raskem hetk ja see on lühike.</item>
+        <item>Sa ei pea võitlema. Lihtsalt ära otsusta praegu.</item>
+        <item>Tung kaob, kui keegi seda ei toida.</item>
+        <item>See on ärevus, mitte nälg sisu järele.</item>
+        <item>Pane tungi tähele, aga ära lase end sellest kaasa viia.</item>
+        <item>Aju tellib tavalist. Sa ei pea seda serveerima.</item>
+        <item>Viie minuti pärast ei mäleta sa enam, et tahtsid avada.</item>
+        <item>Laine tõuseb praegu. Ta laskub alati jälle alla.</item>
+        <item>Sa oled halvimast osast juba üle.</item>
+        <item>Impulss valetab oma tugevuse kohta.</item>
+        <item>Tõuse, joo vett, tule tagasi. Ta on juba läinud.</item>
+        <item>Tung ei ole käsk.</item>
+        <item>Sa võid seda tunda ja mitte midagi teha. See on lubatud.</item>
+        <item>Keha tahab liikumist, mitte ekraani.</item>
+        <item>See soov on automaatne. Sinu vastus ei pea olema.</item>
+        <item>Midagi halba ei juhtu, kui ootad veel natuke.</item>
+        <item>Tung kaob iseenesest, kui annad talle ruumi.</item>
+        <item>Sa oled lihtsalt ärevil. See läheb üle ega vaja ekraani.</item>
+        <item>Impulss on vaid ettepanek. Otsustad sina.</item>
+        <item>Veel üks minut ja tung on juba midagi muud.</item>
+        <item>Raske osa kestab lühidalt. Hea osa kestab terve päeva.</item>
+        <item>See on see kuulus väike müks. Tegelikult ei ole see nii tugev.</item>
+        <item>Oota ennast hukka mõistmata. Tung hajub iseenesest.</item>
+        <item>Su aju küsib tavalist otseteed.</item>
+        <item>Sa ei pea midagi võitma. Lase lihtsalt mööda minna.</item>
+        <item>Iga laine, mille mööda lased, teeb järgmise väiksemaks.</item>
+        <item>Ärevus tahab kiiret lahendust. Siit ta seda ei leia.</item>
+        <item>Jää hetkeks paigale. Impulss ei jää.</item>
+        <item>Oodates ei jää sa millestki ilma.</item>
+        <item>Igavus ei ole hädaolukord.</item>
+        <item>Tühjustunne on praegu normaalne. See täitub iseenesest.</item>
+        <item>Tung midagi kontrollida on harva tegelikult selle asja pärast.</item>
+        <item>Sul on ebamugav, aga sa pole ohus.</item>
+        <item>See leebub hetke pärast.</item>
+        <item>Harjumus on tugev, aga lühiajaline.</item>
+        <item>Lase see üks mööda. Ainult see üks.</item>
+        <item>Järgmine kord on tänu sellele lihtsam.</item>
+        <item>Sa ei pea end milleski veenma. Lihtsalt oota.</item>
+        <item>Klaas vett aitab rohkem kui voo kerimine.</item>
+        <item>See kiirus on näiline ja sa tead seda.</item>
+        <item>Impulss ei talu vastuseta jäämist.</item>
+        <item>Oota kolmkümmend sekundit. Siis otsusta uuesti.</item>
+        <item>Sa oled tipus. Siit edasi läheb ainult allamäge.</item>
+        <item>Miski ei nõua praegu sinu reaktsiooni.</item>
+        <item>Tung on külaline. Ta läheb ära.</item>
+        <item>Sa ei ole impulss. Sa oled see, kes seda jälgib.</item>
+        <item>Keha lõdvestub, kui annad talle minuti.</item>
+        <item>See on lihtsalt aju, mis otsib ärgitust. Ta leiab mõne muu.</item>
+        <item>Kolm sügavat hingetõmmet muudavad selle tugevust.</item>
+        <item>Tung kahaneb, kui vaatad talle otse otsa.</item>
+        <item>Sa pead selle minuti vastu. Oled vastu pidanud ka hullematele.</item>
+        <item>Ebamugavus möödub ka siis, kui sa midagi ei tee.</item>
+        <item>Käsi oli peast kiirem. Seda juhtub.</item>
+        <item>Ühtki otsust ei pea langetama esimese kümne sekundiga.</item>
+        <item>Mõne hetke pärast ei mäleta sa seda enam.</item>
+        <item>Päästik vajutati. Vastus on endiselt sinu.</item>
+        <item>Lase tungil olla, aga ära kuuletu talle.</item>
+        <item>See pole isu. See on lihtsalt komme.</item>
+        <item>Oota. See on sõna otseses mõttes kõik, mida pead tegema.</item>
+        <item>Pea rahuneb iseenesest, kui sa tulle enam puid ei viska.</item>
+        <item>Sa juba ootad. See ongi võit.</item>
+        <item>Impulss kaotab jõu, kui jõuab suletud ukseni.</item>
+        <item>Iga sekund siin on sekund edumaad.</item>
+        <item>Laine murdus. Pane tähele, kui palju kergem juba on.</item>
+        <item>Sul pole avamata jätmiseks põhjust vaja.</item>
+        <item>Soov möödub kiiremini kui kahetsus.</item>
+        <item>Venitus aitab seal, kus voog ei aitaks.</item>
+        <item>Tung lahkub juba sel ajal, kui sa seda loed.</item>
+        <item>Ära praegu midagi otsusta. Lihtsalt hinga.</item>
+        <item>Impulss tuleb ise ja läheb ise.</item>
+        <item>See siin on kõige raskem osa. Ja see on kiire.</item>
+        <item>Sa oled siiani vastu pidanud. Jäänud on vaid sekundid.</item>
+        <item>Keha küsib ekraani, kui tahab tegelikult puhata. Anna talle puhkust.</item>
+        <item>Tung jääb iga kord väiksemaks, kui sa talle järele ei anna.</item>
+        <item>Oota veel veidi. See on kõik.</item>
+        <item>Hetk möödub. Valik jääb.</item>
+        <item>Sa läbisid just kõige kitsama koha.</item>
+        <item>Tunda tungi on inimlik. Sellele mitte alluda samuti.</item>
+        <item>Rahu tuleb hetkega tagasi, kui sa ei sunni.</item>
+        <item>Läks kergemaks, eks?</item>
+        <item>Sa otsustasid selle rahulikuna. Usalda seda, kes otsustas.</item>
+        <item>Eilne sina hoolitses praeguse sinu eest.</item>
+        <item>See ekraan on sinu sõnum iseendale.</item>
+        <item>Sind ei takistata. Sulle tuletatakse meelde.</item>
+        <item>See, kes sa tahad olla, ei veeda pärastlõunat kerides.</item>
+        <item>See valik oli sinu. Ja on endiselt.</item>
+        <item>Sa oled inimene, kes märkas ja tegutses.</item>
+        <item>Keegi ei sundinud sind seda paigaldama. Sa ise tahtsid.</item>
+        <item>Homne sina on praegusele sinule tänulik.</item>
+        <item>Sa oled juba keegi, kes kaitseb oma aega.</item>
+        <item>See ei ole karistus. See on kokkulepe.</item>
+        <item>Sa kirjutasid selle reegli. See töötab.</item>
+        <item>Oma tähelepanu peremees olla on igapäevane valik.</item>
+        <item>Sa ei pea siin kellelegi midagi tõestama.</item>
+        <item>Inimene, kes sa tahad olla, saab alguse väikestest otsustest.</item>
+        <item>Sa oled selle ekraani õigel poolel.</item>
+        <item>Iga kord, kui siin sulged, saad rohkem selleks, kes tahad olla.</item>
+        <item>Sa ei ole see, mida sa ihaldad. Sa oled see, mida teed.</item>
+        <item>Kokkulepe iseendaga on sama tähtis kui iga teine.</item>
+        <item>Sa märkasid mustrit ja muutsid seda. See on haruldane.</item>
+        <item>Sa oled suurem kui äpid sinu taskus.</item>
+        <item>See on sinu reegel ja see on sinu poolel.</item>
+        <item>Sul on õigus oma harjumusi muuta.</item>
+        <item>See, mida sa korduvalt teed, ongi see, kes sa oled.</item>
+        <item>Sa valisid elu, kus on rohkem ruumi.</item>
+        <item>Äpp ei ole sinu ülemus.</item>
+        <item>Sinu identiteet ei mahu voogu.</item>
+        <item>Sa oled see, kes paigaldas selle põhjusega.</item>
+        <item>Meenuta põhjust. See kehtib endiselt.</item>
+        <item>Sa austad oma otsust.</item>
+        <item>Keegi ei otsusta sinu tähelepanu üle sinu eest.</item>
+        <item>Sa märkasid, mis toimub. See muudab juba kõike.</item>
+        <item>Oma päeva peremees olla on pidev töö.</item>
+        <item>Sa pole reisija. Rooli taga oled sina.</item>
+        <item>See on valik inimeselt, kes võtab end tõsiselt.</item>
+        <item>Sa vastutad enda eest. Ja sa teed seda.</item>
+        <item>Sinu ajal on omanik. Ta loeb seda praegu.</item>
+        <item>Sa leppisid iseendaga kokku. Pea sellest kinni.</item>
+        <item>Iga selline otsus viib sind lähemale sellele, kes tahad olla.</item>
+        <item>Sa ei kaota vabadust. Sa kasutad seda.</item>
+        <item>Mida praegu teha, otsustad sina.</item>
+        <item>Sa ei vaja luba, et teisiti elada.</item>
+        <item>See piir on hoolitsus, mitte puur.</item>
+        <item>Sa valisid raskema, aga rohkem sinu oma tee.</item>
+        <item>Inimene, keda sa imetled, ütleks praegu samuti ei.</item>
+        <item>Sa elad oma elus, mitte äpis.</item>
+        <item>Sinu aeg, sinu pea, sinu valik.</item>
+        <item>Sa pead endale antud sõna. See loeb.</item>
+        <item>Keegi teine ei hoia sinu tähelepanu sinu eest.</item>
+        <item>Sa oled juba tõestanud, et suudad kurssi muuta.</item>
+        <item>Iseseisvus ongi see: otsustada ette, mitte impulsi ajel.</item>
+        <item>Sa ehitad kedagi, keda sa austad.</item>
+        <item>See on see sina, kes planeerib.</item>
+        <item>Sa ei sattunud siia juhuslikult. Sa seadsid selle ise üles.</item>
+        <item>Iseendale antud sõnal on kaalu.</item>
+        <item>Sul on oma arvamus selle kohta, kuidas oma päeva veeta.</item>
+        <item>Äpp ei tunne sind. Sina tunned.</item>
+        <item>Sa käitud nagu oma elu peremees.</item>
+        <item>Oma otsusest kinni pidamine on vabadus.</item>
+        <item>Reeglid kirjutad siin sina.</item>
+        <item>See oled sina, kes hoolitseb enda eest.</item>
+        <item>Sa ei ole lõksus. Sa oled kaitstud.</item>
+        <item>Sinu soov muutuda on vanem kui see impulss.</item>
+        <item>Sa oled juba see, kelleks püüad saada.</item>
+        <item>Raske otsus on juba tehtud. See siin on lihtne.</item>
+        <item>Ohjad on sinu käes ja see on tänapäeval haruldane.</item>
+        <item>Keegi ei pea teadma. See jääb sinu ja sinu vahele.</item>
+        <item>Sa väärid, et saaksid oma sõna usaldada.</item>
+        <item>Sellel valikul on sinu nimi.</item>
+        <item>Sinust on saanud inimene, kes otsustab ette.</item>
+        <item>See ei ole loobumine. See on millegi muu valimine.</item>
+        <item>Sul on suund. See ekraan näitab sinna.</item>
+        <item>Päris vabadus on see, kui sind kogu aeg ei sikutata.</item>
+        <item>Sina määrad oma tähelepanu väärtuse.</item>
+        <item>Iga ei siin on jah millelegi muule, mis on sinu oma.</item>
+        <item>Sa oled truu plaanile, mille tegid hoolega.</item>
+        <item>Iseenda peremees olla on töö, aga see tasub end ära.</item>
+        <item>Sa tunnistasid, et tahad muutust. See ongi raske osa.</item>
+        <item>Inimesele peeglis meeldib see täna õhtul.</item>
+        <item>Sa ei võlgne algoritmile midagi.</item>
+        <item>Sinu elu pole kellegi sisu.</item>
+        <item>Sa oled täpselt seal, kus otsustasid olla.</item>
+        <item>Piir, mille sa endale sead, on kõige lugupidavam piir üldse.</item>
+        <item>Sinu elul on suurem plaan kui see ekraan.</item>
+        <item>See on küpsus reaalajas.</item>
+        <item>Sa hoolitsed oma tuleviku eest isegi seda märkamata.</item>
+        <item>Iga selline valik lihvib seda, kes sa oled.</item>
+        <item>Sa ei pea seletama, miks sa ei avanud.</item>
+        <item>Sinu lubadus on iseendale, mitte äpile.</item>
+        <item>Sa tegid õige otsuse siis, kui sul tungi polnud.</item>
+        <item>See on sinu elu ja juhid seda sina.</item>
+        <item>Sinust on saanud keegi, keda on raske manipuleerida.</item>
+        <item>Sinu tähelepanul on omanik ja ta on valvel.</item>
+        <item>Sa käitusid just nagu inimene, kes enda eest hoolitseb.</item>
+        <item>Plaan on sinu. Ja praegu see töötab.</item>
+        <item>Sa oled oma väikeste valikute summa.</item>
+        <item>Keegi ei võta sinult viimast sõna.</item>
+        <item>Sinu aja üle valitsed sina.</item>
+        <item>See töötab, sest sa tahtsid, et see töötaks.</item>
+        <item>Sa oled suurem kui harjumus, mis tahab sinust suurem olla.</item>
+        <item>Veel üks. Nii summa kasvabki.</item>
+        <item>Väike ja korduv võidab suure ja haruldase.</item>
+        <item>Sa said just veel ühe punkti juurde.</item>
+        <item>Keegi ei muutu korraga. Muutus tuleb selliste päevadega nagu täna.</item>
+        <item>See on üks tuhandik teistsugusest elust.</item>
+        <item>Üks hea päev ei muuda midagi. Sada head päeva muudavad kõik.</item>
+        <item>Sa ehitad üles seeriat.</item>
+        <item>Seestpoolt ei tundu edasiminek peaaegu kunagi edasiminekuna.</item>
+        <item>Nende valikute summa on suurem kui ükski neist eraldi.</item>
+        <item>Järjepidevus on igav, aga töötab.</item>
+        <item>Veel üks kivi müüris.</item>
+        <item>Sa treenid midagi, mis jääb püsima.</item>
+        <item>Piisavalt korrates muutub see automaatseks.</item>
+        <item>Keegi seda võitu ei näe, aga see loeb ikka.</item>
+        <item>Mõne nädala pärast ei tunne sa isegi tungi.</item>
+        <item>Täna loeb. Homme loeb ka.</item>
+        <item>Kett koosneb lülidest nagu see.</item>
+        <item>Uut harjumust kirjutatakse just praegu.</item>
+        <item>Iga kordus lõdvendab vana harjumuse haaret natuke.</item>
+        <item>Sa oled seda varem teinud. Tee seda uuesti.</item>
+        <item>Aeglane on püsivate asjade kiirus.</item>
+        <item>Muutus toimub märkamatult.</item>
+        <item>Sa kogud midagi nähtamatut, aga tõelist.</item>
+        <item>Veel üks päev õiges suunas.</item>
+        <item>Tulemus tuleb hiljem. Valik on täna.</item>
+        <item>Üks valik korraga, nii see käibki.</item>
+        <item>Sa oled lähemal kui eile.</item>
+        <item>See ei pea olema täiuslik. See peab olema sage.</item>
+        <item>Kõver tõuseb alguses aeglaselt ja siis kiiresti.</item>
+        <item>Sa oled teekonna keskel. Just selline see ongi.</item>
+        <item>Iga väike ei ehitab suure jah.</item>
+        <item>Selles pole midagi dramaatilist. Sellepärast see töötabki.</item>
+        <item>Tee koosneb sammudest nagu see.</item>
+        <item>Sa lood uut rutiini.</item>
+        <item>Kuu aja pärast tundub see lihtne.</item>
+        <item>Kordamine muudab otsuse olemuseks.</item>
+        <item>Sa kinnistasid just uut rada.</item>
+        <item>Sada protsenti on lihtsam kui üheksakümmend kaheksa.</item>
+        <item>Ära katkesta täna seeriat.</item>
+        <item>Sa teed igavat osa ja just see loebki.</item>
+        <item>Muutust ei tunne. Seda näeb alles hiljem.</item>
+        <item>Veel üks tellis paigas.</item>
+        <item>Sa õpetad oma aju ootama midagi muud.</item>
+        <item>Jätkamine ongi kogu tehnika.</item>
+        <item>Kokkuvõttes pole ükski selline võit väike.</item>
+        <item>Sa ei pea jooksma. Sa pead lihtsalt mitte peatuma.</item>
+        <item>See läheb juba kergemaks ja sa ei märganudki.</item>
+        <item>Nädal seda muudab juba sinu päeva.</item>
+        <item>Sa rajad oma peas uut teed.</item>
+        <item>Iga kord loeb, isegi kui tundub, et ei loe.</item>
+        <item>Keegi ei aplodeeri, aga see töötab.</item>
+        <item>Kogunemine on vaikne ja peatamatu.</item>
+        <item>Sa oled selles juba tugevam kui eelmisel kuul.</item>
+        <item>Hea valik täna teeb homse valiku lihtsamaks.</item>
+        <item>Just nii tundub järjepidevus seestpoolt.</item>
+        <item>Veel üks päev kogunenud edumaad.</item>
+        <item>Sa oled teel ja tee on pikk. Pole hullu.</item>
+        <item>Mis kordub, see muutub lihtsaks.</item>
+        <item>Sa kinnitasid just seda, kelleks sa saamas oled.</item>
+        <item>Täna on arve sinu kasuks.</item>
+        <item>Väikesed võidud liituvad luba küsimata.</item>
+        <item>Asi pole tänases päevas. Asi on summas.</item>
+        <item>Sa teed nähtamatut tööd.</item>
+        <item>Jätka. See ongi sõna otseses mõttes saladus.</item>
+        <item>Iga selline päev võtab natuke raskust maha.</item>
+        <item>Vana harjumus kaotab praegu pinda.</item>
+        <item>Sa kastad midagi, mis pole veel tärganud.</item>
+        <item>Muutus toimub, isegi kui see nii ei paista.</item>
+        <item>Veel üks kord. Alati on asi olnud ainult selles.</item>
+        <item>Sa kogud heade päevade varu.</item>
+        <item>Aja jooksul muutub see tavaliseks.</item>
+        <item>Sa valisid just uuesti. Ja ka see kord loeb.</item>
+        <item>Kuu aega nii ja sa oled teine inimene.</item>
+        <item>Tänane pingutus ununeb. Tulemus jääb.</item>
+        <item>Sa pole enam see, kes sellega alustas.</item>
+        <item>Alati tegemine on väärt rohkem kui palju tegemine.</item>
+        <item>Iga päev on hääl selle poolt, kes sa tahad olla.</item>
+        <item>Sa lased uuel harjumusel pinda võita.</item>
+        <item>See ei pea olema kangelaslik. See peab lihtsalt juhtuma.</item>
+        <item>Sa tugevdasid just õiget rada.</item>
+        <item>Kordamine on see, kuidas aju õpib ükskõik mida.</item>
+        <item>Täna ja eile kokku on juba päris palju.</item>
+        <item>Sul läheb hästi ka siis, kui sa seda ei tunne.</item>
+        <item>Edasiminek peitub igavates kordustes.</item>
+        <item>Veel üks lühike samm pikal teel.</item>
+        <item>Sa muudad selle loomulikuks.</item>
+        <item>Alles jääb hea asi, mida on tehtud palju kordi.</item>
+        <item>Jõud tuleb uuesti tegemisest, mitte kõvasti tegemisest.</item>
+        <item>Sa lühendasid just homset teed.</item>
+        <item>Veel üks. Ainult see. Ja sellest piisab.</item>
+        <item>Sa jätad endast maha heade otsuste jälje.</item>
+        <item>Järjepidevus muudab pingutuse identiteediks.</item>
+        <item>Iga päev loeb terve päevana.</item>
+        <item>Sa mängid pikka mängu ja võidad seda.</item>
+        <item>Sellest saab märkamatult osa sinust.</item>
+        <item>Päeva parim investeering on just tehtud.</item>
+        <item>Sa pidasid just joont.</item>
+        <item>Järjekindlus on haruldasem kui anne.</item>
+        <item>Päris muutus on alati aeglane ja alati seda väärt.</item>
+        <item>Veel üks valik sinu elu suunas.</item>
+        <item>Su silmad on selle pausi eest tänulikud.</item>
+        <item>Tõuse ja venita. Keha palus just seda, mitte ekraani.</item>
+        <item>Hinga sügavalt. Juba see üksi muudab midagi.</item>
+        <item>Joo vett. Tõenäoliselt just seda oligi puudu.</item>
+        <item>Su kael on juba tükk aega viltu olnud. Aja end sirgu.</item>
+        <item>Tänaöine uni algab praegustest ekraanidest.</item>
+        <item>Hästi magamine on kõige tootlikum asi üldse.</item>
+        <item>Su keha on liiga kaua paigal olnud.</item>
+        <item>Vaata kakskümmend sekundit kaugusse. Silmad lõdvestuvad.</item>
+        <item>Lühike jalutuskäik tõstab tuju rohkem kui ükski voog.</item>
+        <item>Väsimus, mida tunned, võib olla lihtsalt ekraanist.</item>
+        <item>Keha tahab liikuda, kui pea tahab kerida.</item>
+        <item>Värske õhk lahendab asju, mida ekraan ei lahenda.</item>
+        <item>Õlad alla. Lõug lõdvaks.</item>
+        <item>Sa tõmbad õlgu märkamatult pingesse.</item>
+        <item>Kümme minutit päikest nahal on palju väärt.</item>
+        <item>Keha puhkab pikali olles, mitte kerides.</item>
+        <item>Täna vara magama minek on kingitus homsele.</item>
+        <item>Su rüht on viimase kahekümne minutiga muutunud. Paranda seda.</item>
+        <item>Ekraaniväsimus pole päris väsimus. See on midagi muud.</item>
+        <item>Tõsta käed üles. Siruta. Näed, juba parem.</item>
+        <item>Kerides pilgutad silmi harvem. Pilguta nüüd.</item>
+        <item>Keha töötab paremini päris pausidega.</item>
+        <item>Ring ümber kvartali teeb pea selgeks.</item>
+        <item>Su selgroog jääb selle vaheajaga rahule.</item>
+        <item>Puhkus ja ajaviide on eri asjad.</item>
+        <item>Eilne halb uni algas just sellisest ekraanist.</item>
+        <item>Venita kaela mõlemale poole. See võtab kümme sekundit.</item>
+        <item>Liikumine leevendab ärevust paremini kui sisu.</item>
+        <item>Su keha on ainus kodu, mis sul on.</item>
+        <item>Vesi, valgus ja liikumine. Peaaegu alati on asi selles.</item>
+        <item>Ekraan väsitab ka siis, kui tundub puhkusena.</item>
+        <item>Sule hetkeks silmad. Muud polegi vaja.</item>
+        <item>Sa hingad pinnapealselt. Hinga kolm korda sügavalt.</item>
+        <item>Dušš aitab rohkem, kui arvata võiks.</item>
+        <item>Su keha on liiga kaua ühes kohas olnud.</item>
+        <item>Päris puhkuses pole ekraani.</item>
+        <item>Kakskümmend minutit kõndimist muudab terve päeva.</item>
+        <item>Pea on raske, sest keha seisab paigal.</item>
+        <item>Kuivad silmad, kanged õlad. Oled märganud.</item>
+        <item>Kaheks minutiks püsti tõusmine taaskäivitab rohkem kui kerimine.</item>
+        <item>Keha tahab und, mõistus tahab ärgitust. Kuula keha.</item>
+        <item>Ekraani valgus segab su und veel tunde.</item>
+        <item>Siruta jalgu. See on kiire ja toimib.</item>
+        <item>Sa väärid puhkust, mis päriselt puhkab.</item>
+        <item>Liikumine on kõige odavam tujutõstja, mis olemas on.</item>
+        <item>Su keha mäletab seda ööund.</item>
+        <item>Aeglane hingamine rahustab kiiremini kui ükski video.</item>
+        <item>Kas sul on nälg või igav? Uuri järele, kumb.</item>
+        <item>Keha taastub, kui pea puhkab.</item>
+        <item>Kakskümmend sekundit aknast välja vaadates.</item>
+        <item>Su ranne ja pöial vajavad vaheaega.</item>
+        <item>Ekraaniväsimus kaob kõndides.</item>
+        <item>Unes korrastub mälu. Kaitse oma und.</item>
+        <item>Sul on vaja vähem ärgitust, mitte rohkem.</item>
+        <item>Kaheminutiline venitus on väärt rohkem kui kümme minutit videot.</item>
+        <item>Su keha annab sulle praegu märku.</item>
+        <item>Õhk, vesi ja liikumine. Retsept pole muutunud.</item>
+        <item>Heida minutiks põrandale pikali. Päriselt.</item>
+        <item>Ekraan hoiab sind ärkvel, kui sul oleks vaja magada.</item>
+        <item>Keha palub pausi, käsi otsib ekraani. Anna pausi.</item>
+        <item>Su silmad on hommikust saati tööd teinud.</item>
+        <item>Hästi magatud öö muudab maailma.</item>
+        <item>Tõuse. Lihtsalt tõuse. Sellest juba piisab.</item>
+        <item>Tänu sellele valikule magad paremini.</item>
+        <item>Keha on tänulik selle eest, mida pea igavaks peab.</item>
+        <item>Venita selga. See palub seda.</item>
+        <item>Päris puhkus on vaikus, mitte uus ärgitus.</item>
+        <item>Su kehal on oma rütm ja ekraan eirab seda.</item>
+        <item>Vaata silmapiirile. Silmad vajavad kaugust.</item>
+        <item>Pinge lõualuus kerimisest ei kao.</item>
+        <item>Kui kaua sa oledki juba istunud?</item>
+        <item>Liikumine toob selgust. Alati on toonud.</item>
+        <item>Joo vett, enne kui midagi otsustad.</item>
+        <item>Kaotatud und ei saa sisuga tagasi.</item>
+        <item>Su keha töötab hästi, kui sa tal lased.</item>
+        <item>Lühike uinak annab rohkem kui tund voogu.</item>
+        <item>Sügav hingamine on tasuta ja mõjub kohe.</item>
+        <item>Ekraan tekitab kehas märkamatult pinget.</item>
+        <item>Sa oled väsinum, kui peaksid olema.</item>
+        <item>Tõuse ja vaata aknast välja. Viis sekundit.</item>
+        <item>Su keha pole arenenud selleks, et paigal istudes valgust vahtida.</item>
+        <item>Siruta sõrmi. Need on täna palju tööd teinud.</item>
+        <item>Öö on parem, kui enne magamaminekut ekraani ei vaata.</item>
+        <item>Ekraan ei paku puhkust.</item>
+        <item>Su keha igatseb loodust, aga saab piksleid.</item>
+        <item>Klaas vett ja kolm hingetõmmet. Tee seda nüüd.</item>
+        <item>Pinge õlas tuleb sellest, kuidas sa telefoni hoiad.</item>
+        <item>Keha lõdvestub, kui tähelepanu enam ei tõtta.</item>
+        <item>Viie minuti pärast tunned end paremini.</item>
+        <item>Liikumine muudab keemiat. Ekraan muudab ainult teemat.</item>
+        <item>Su silmad väärivad päris puhkust.</item>
+        <item>Kõndimine korrastab mõtteid paremini kui voo lugemine.</item>
+        <item>Sinine valgus praegu tähendab hiljem halba und.</item>
+        <item>Sa vajad puhkust, mitte rohkem infot.</item>
+        <item>Enne kõike muud kaks sügavat hingetõmmet.</item>
+        <item>Su keha on impulsist targem.</item>
+        <item>Tõuse ja kõnni kööki. Sellest piisab.</item>
+        <item>Puhka keha ja pea puhkab kaasa.</item>
+        <item>Su lähedal on praegu päris inimesed, lihast ja luust.</item>
+        <item>Üks vestlus on väärt rohkem kui kolmsada postitust.</item>
+        <item>Helista kellelegi. Päriselt, häälega.</item>
+        <item>Keegi, keda sa armastad, on vaid ühe sõnumi kaugusel.</item>
+        <item>Inimesed voos ei tea, et sa olemas oled.</item>
+        <item>See, kes on sinuga samas toas, väärib rohkem.</item>
+        <item>Kallistus aitab seal, kus ükski video ei aita.</item>
+        <item>Saada sõnum sellele, kelle oled viimasel ajal unustanud.</item>
+        <item>Su ema rõõmustaks täna kõne üle.</item>
+        <item>Päris elus on inimesed, kes päriselt vastavad.</item>
+        <item>See kadunud sõber võib veel tagasi tulla. Kutsu teda.</item>
+        <item>Kohalolu on kõige haruldasem asi, mida saad anda.</item>
+        <item>Keegi ootab, et sa üles vaataksid.</item>
+        <item>Üks hea küsimus on väärt rohkem kui tund kerimist.</item>
+        <item>Inimestel su ümber pole algoritmi.</item>
+        <item>Sinust läheb mööda vestlus, mis toimub just praegu.</item>
+        <item>Keegi voost ei ole seal, kui sul abi vaja.</item>
+        <item>Kohv kellegagi muudab nädalat rohkem kui ükski voog.</item>
+        <item>Sinu seltskond on kingitus. Anna see edasi.</item>
+        <item>Vaata seda, kes on sinuga.</item>
+        <item>Sõprust tuleb kasta. Kasta seda täna.</item>
+        <item>Inimene su kõrval on päris.</item>
+        <item>See, kes sind armastab, ei vaja meeldimisi.</item>
+        <item>Kas mäletad oma viimast pikka vestlust?</item>
+        <item>Kutsu keegi jalutama.</item>
+        <item>Parimates mälestustes on harva ekraani.</item>
+        <item>Sa oled praegu kellegi seltskond.</item>
+        <item>Saada häälsõnum kellelegi, keda armastad.</item>
+        <item>Inimesed muutuvad, kui sa neile tähelepanu pöörad.</item>
+        <item>Sinu kohalolu on täna kellelegi väärtuslik.</item>
+        <item>Hea vestlus teeb su olemise paremaks. Voog mitte.</item>
+        <item>Keegi peab teada saama, et sa temale mõtlesid.</item>
+        <item>Kohtu kellegagi, selle asemel et kedagi jälgida.</item>
+        <item>Tugevad sidemed sünnivad koos veedetud ajast.</item>
+        <item>Sinust võib saada põhjus, miks kellelgi on hea päev.</item>
+        <item>See sugulane, kellega sa pole kuude kaupa rääkinud.</item>
+        <item>Üks siiras sõnum on väärt rohkem kui tuhat vaatamist.</item>
+        <item>Koos olemine pole sama mis ühenduses olemine.</item>
+        <item>Need, kes sinuga koos elavad, väärivad sind tervikuna.</item>
+        <item>Kutsu keegi õhtusöögile.</item>
+        <item>Päris inimestel on nägu, hääl ja piiratud aeg.</item>
+        <item>Kellegi jaoks oled sa asendamatu. Ole kohal.</item>
+        <item>Sinu päeva kõige olulisem vestlus on veel ees.</item>
+        <item>Su lähedal on keegi, kes on samuti ekraanist vaba.</item>
+        <item>Kellegi ärakuulamine on lihtsaim viis olla hinnatud.</item>
+        <item>Too sõber on millegi keerulisega silmitsi. Küsi temalt.</item>
+        <item>Su laps, su koer, su naaber. Keegi on seal.</item>
+        <item>Sotsiaalmeedia ühendab sind paljudega ja mitte kellegagi.</item>
+        <item>Pärastlõuna kellegagi on väärt kuu aega voogu.</item>
+        <item>Sa võid täna kedagi naerma ajada. Päriselt.</item>
+        <item>Täielik kohalolu on ülimalt haruldane. Sul on seda anda.</item>
+        <item>Keegi rääkis sinust sel nädalal. Vasta samaga.</item>
+        <item>Voos ei igatse sind keegi.</item>
+        <item>Viieminutiline kõne muudab kellegi päeva.</item>
+        <item>Inimesed, kes on olulised, sellest ei postita.</item>
+        <item>Heast vestlusest lahutab sind vaid üks küsimus.</item>
+        <item>Päris seltskonnas pole reklaamipause.</item>
+        <item>Täna tasub tänada inimest, kes sind alati toetab.</item>
+        <item>Silma vaatamine on endiselt parim tehnoloogia.</item>
+        <item>Sinu pere pole voog. Ära keri neist mööda.</item>
+        <item>Kutsu keegi koos mitte midagi tegema.</item>
+        <item>Ka kaugel olijad väärivad sinust uudiseid.</item>
+        <item>Väljaspool seda ekraani on inimesi, kellele sa meeldid.</item>
+        <item>Edasi lükatud raske vestlus kaalub rohkem kui voog.</item>
+        <item>Naudi lähedasi, kuni nad on lähedal.</item>
+        <item>Inimesed mäletavad neid, kes olid kohal.</item>
+        <item>Kutsu sõber niisama kohvile.</item>
+        <item>Keegi kuskil tahab sinust kuulda.</item>
+        <item>Sa saad praegu kedagi päriselt kuulata.</item>
+        <item>Side sünnib vaadates, mitte kerides.</item>
+        <item>Su tähelepanu on parim kingitus neile, keda armastad.</item>
+        <item>Inimene on väärt rohkem kui profiil.</item>
+        <item>Vestlus, mille võlgned kellelegi. Täna on selleks päev.</item>
+        <item>Olemas olla on üks armastuse vorme.</item>
+        <item>Sul on praegu kellegi jaoks aega.</item>
+        <item>Keegi pole elust lahkudes soovinud rohkem jälgijaid.</item>
+        <item>Otsi kellegagi taaskohtumist, mitte ära jälgi teda kaugelt.</item>
+        <item>Hoolimist tuleb vahel ka valjusti välja öelda.</item>
+        <item>Su vana sõpruskond on endiselt olemas. Kutsu nad kokku.</item>
+        <item>Keegi su kõrval tahaks rääkida.</item>
+        <item>Võrdlemine pole lähedus.</item>
+        <item>Sa võid täna olla kohal.</item>
+        <item>Käsitsi kirjutatud kiri. Milline mõte.</item>
+        <item>Need, kes sind päriselt tunnevad, ei ole voos.</item>
+        <item>Jaga pärastlõunat kellegagi.</item>
+        <item>Lähedased väärivad seda, mida sa voole annad.</item>
+        <item>Sa oled oluline kellelegi, kes ei postita.</item>
+        <item>Helista ja küsi, kuidas tal päriselt läheb.</item>
+        <item>Üksildus ei kao ekraaniga.</item>
+        <item>Astu täna kellelegi lähemale.</item>
+        <item>Ühine söögikord on väärt terve pärastlõuna.</item>
+        <item>Tähelepanu toidab suhteid. Toida üht neist.</item>
+        <item>Keegi mõtleb sinule just praegu.</item>
+        <item>Ütle kellelegi, et ta on sulle kallis.</item>
+        <item>Sõprused surevad vaikusest, mitte tülidest.</item>
+        <item>Su ümber on head inimesed. Naudi neid.</item>
+        <item>Keegi vajab seltsi ja sa saad seda pakkuda.</item>
+        <item>Jäta voog ja kohtu inimestega.</item>
+        <item>See, kes sind armastab, tahab sinu aega, mitte sinu profiili.</item>
+        <item>Sa saad viie minutiga kellegi päeva paremaks teha.</item>
+        <item>Loomine väsitab, aga täidab. Tarbimine puhkab, aga tühjendab.</item>
+        <item>Sul on rohkem öelda kui vaadata.</item>
+        <item>Keegi loob seda, mida sa vaatama hakkaksid.</item>
+        <item>Kirjuta üks rida. Ainult üks.</item>
+        <item>Maailmas on liiga palju tarbijaid ja liiga vähe loojaid.</item>
+        <item>See sinu idee ootab endiselt.</item>
+        <item>Sa võid ise midagi teha, selle asemel et vaadata valmis asju.</item>
+        <item>Iga hea asja on teinud keegi, kes sel ajal ei kerinud.</item>
+        <item>Sinu idee on väärt rohkem kui kogu tänane voog.</item>
+        <item>Alusta seda, mida edasi lükkad. Viiest minutist piisab.</item>
+        <item>Seisev projekt vajab vaid väikest tõuget.</item>
+        <item>Sul on anne millekski muuks kui ekraani kerimiseks.</item>
+        <item>Tee täna midagi, mida eile polnud olemas.</item>
+        <item>Loomine on lõbusam kui vaatamine, raske on ainult alustada.</item>
+        <item>See tühi märkmik ei hammusta.</item>
+        <item>Parim sisu on see, mida sa ise teed.</item>
+        <item>Tehes õpid rohkem kui vaadates.</item>
+        <item>Mängi pilli, joonista, kokka. Tee midagi kätega.</item>
+        <item>Su loovus kaob, kui täidad pea vooga.</item>
+        <item>On olemas sinu teos, mida keegi pole veel teinud.</item>
+        <item>Alusta halvasti. Hiljem läheb paremaks.</item>
+        <item>Üks lõik päevas saab raamatuks.</item>
+        <item>Sul on lugu, mida jutustada.</item>
+        <item>Tegutsemine on tühjuse vastumürk.</item>
+        <item>Igavus on loovuse algus. Lase sel olla.</item>
+        <item>Su pea hakkab leiutama, kui lõpetad selle täitmise.</item>
+        <item>See kursus, mille eest maksid, ootab sind.</item>
+        <item>Täna on võimalik midagi uut õppida.</item>
+        <item>Tarbida on lihtne. Sellepärast see nii vähe rahuldust pakubki.</item>
+        <item>Sa tahad midagi teha. Alusta kohe.</item>
+        <item>Viis minutit harjutamist on väärt rohkem kui tund videoid.</item>
+        <item>See retsept, mida sa tahad proovida.</item>
+        <item>Ideed tulevad vaikuses, mitte kerides.</item>
+        <item>Sa võid olla autor, mitte publik.</item>
+        <item>Väike projekt muudab terve nädala.</item>
+        <item>Kirjuta üles, mida teeksid, kui sul oleks aega. Sul on.</item>
+        <item>Su käed oskavad asju teha. Kasuta neid.</item>
+        <item>Tee täna midagi ebatäiuslikku.</item>
+        <item>Õppimine on mõnusam kui meelelahutus.</item>
+        <item>Mida lood, see jääb. Mida kerid, see kaob.</item>
+        <item>See pill, mis seisab nurgas.</item>
+        <item>Sind ootab üks lõpetamata projekt.</item>
+        <item>Loomine on võrdlemise vastand.</item>
+        <item>Alusta väikselt. Alusta täna.</item>
+        <item>Üks lehekülg päevas on teistsugune elu.</item>
+        <item>Su kujutlusvõime vajab tühja ruumi.</item>
+        <item>Tee midagi, mille üle homme uhke oled.</item>
+        <item>Loomisrõõmu ei asenda miski.</item>
+        <item>Sa suudad enamat kui ainult tarbida.</item>
+        <item>See unarusse jäänud hobi on ikka olemas.</item>
+        <item>Kakskümmend minutit harjutamist on kakskümmend minutit arengut.</item>
+        <item>Voogu kerides ei saa keegi milleski heaks.</item>
+        <item>Sinu järgmine oskus algab mingil hetkel. Olgu see hetk praegu.</item>
+        <item>Tee, isegi kui keegi ei näe.</item>
+        <item>On midagi, mida sa tahad õppida. Alusta.</item>
+        <item>Tarbimine on teiste elu pealtvaatamine.</item>
+        <item>Sul on käed, pea ja aeg. Rohkem polegi vaja.</item>
+        <item>Esimene mustand on alati halb. Tee see ikkagi ära.</item>
+        <item>See keel, mida sa tahtsid rääkida.</item>
+        <item>Loomine on see, kuidas igavus muutub rõõmuks.</item>
+        <item>Natuke iga päev ehitab üles ükskõik millise oskuse.</item>
+        <item>Sinu sees on midagi, mis tahab välja pääseda.</item>
+        <item>Kirjuta oma päevast. Ainult enda jaoks.</item>
+        <item>Su loovus ootab, et sa müra välja lülitaksid.</item>
+        <item>Tee täna midagi oma kätega.</item>
+        <item>Millegi lõpetamise rõõm on täiesti omaette tunne.</item>
+        <item>See projekt, mis sind kunagi vaimustas. See võib vaimustada ka praegu.</item>
+        <item>Alustamiseks ei pea sa hea olema.</item>
+        <item>Valmista midagi uut. Ka see on loomine.</item>
+        <item>Elu muutub huvitavamaks, kui sa asju teed.</item>
+        <item>Keegi ei sünni oskajana. Kõik alustavad kehvasti.</item>
+        <item>See öine idee. Pane see kirja.</item>
+        <item>Sa võid oma oskustega kellelegi kasulik olla.</item>
+        <item>Tee natuke täna ja natuke homme.</item>
+        <item>Parim aeg alustamiseks on möödas. Paremuselt teine on praegu.</item>
+        <item>Sinu teos ei valmi iseenesest.</item>
+        <item>Harjutamine on igav seni, kuni asi välja tulema hakkab.</item>
+        <item>Sa tahad luua. Voog tahab, et sa ainult vaataksid.</item>
+        <item>See joonistus, mida sa alustasid.</item>
+        <item>Tegemine on kiireim viis õppida.</item>
+        <item>Sul on hääl. Kasuta seda millegi jaoks.</item>
+        <item>Kodus millegi parandamine on samuti loomine.</item>
+        <item>Su järgmine saavutus algab tavalisel päeval nagu täna.</item>
+        <item>Tee midagi, mida teeksid ainult sina.</item>
+        <item>Voog on lõputu. Sinu teosel on lõpp ja seepärast see loebki.</item>
+        <item>Sa võid täna midagi istutada. Sõna otseses mõttes.</item>
+        <item>See tabel, see plaan, see unistus.</item>
+        <item>Loomine nõuab tööd ja just see teeb selle väärtuslikuks.</item>
+        <item>Sa oled huvitavam kui ükski voog.</item>
+        <item>Õpi kakskümmend minutit. See on vähe ja samas palju.</item>
+        <item>Uudishimu on parim siis, kui sellest saab tegu.</item>
+        <item>See lugu, mida sa tahtsid selgeks saada.</item>
+        <item>Tee praegu üks lihtne ja kasulik asi.</item>
+        <item>Sul on maailmale midagi head pakkuda.</item>
+        <item>Alusta seda, mille alustamise eest oled hiljem tänulik.</item>
+        <item>Isiklik projekt muudab su suhet ajaga.</item>
+        <item>Loomine on parim viis pead tegevuses hoida.</item>
+        <item>Sa võid täna midagi lõpetada.</item>
+        <item>Pane käed külge millelegi päris asjale.</item>
+        <item>Miski ei asenda tunnet, et said hakkama.</item>
+        <item>Pole hullu, et siia jõudsid. Nüüd hinga.</item>
+        <item>Keegi ei pea arvet. Lihtsalt mine edasi.</item>
+        <item>Sul läheb hästi, isegi kui see nii ei tundu.</item>
+        <item>Ei mingit kiirustamist ega nõudmist. Lihtsalt paus.</item>
+        <item>See pole eksam. See on lihtsalt sõbralik meeldetuletus.</item>
+        <item>Sa püüad ja sellest juba piisab.</item>
+        <item>Kõik on korras. Sulge ja jätka oma päeva.</item>
+        <item>Siin ei ole asi selles, et alati õigesti teha.</item>
+        <item>Sa väärid täna kergust.</item>
+        <item>Ilma draamata. Lihtsalt hetk hingamiseks.</item>
+        <item>See on rahulik koht. Jää hetkeks.</item>
+        <item>Sa teed nii hästi, kui saad. See loeb.</item>
+        <item>Siin ei nõuta midagi. Siin hoolitakse.</item>
+        <item>Hinga. Midagi valesti ei ole.</item>
+        <item>Sa oled siia jõudnud ja see on juba hea.</item>
+        <item>Keegi ei mõista hukka. Ära tee seda ka ise.</item>
+        <item>Kõik on joonul. Lihtsalt jätka.</item>
+        <item>Üks samm korraga on õige tempo.</item>
+        <item>Sa ei pea selles täiuslik olema.</item>
+        <item>Aeglaselt minek on ka minek.</item>
+        <item>See ekraan ei nõua sinult midagi.</item>
+        <item>Ole praegu enda vastu lahke.</item>
+        <item>Tungi tunda on täiesti normaalne. See käib asja juurde.</item>
+        <item>Sa hoolitsed enda eest. See on ilus.</item>
+        <item>Ei mingit häiret, kiirustamist ega ehmatust.</item>
+        <item>Sa oled inimene. See on lubatud.</item>
+        <item>Sa ei pea end kellelegi selgitama.</item>
+        <item>Hinga sügavalt. See on juba möödas.</item>
+        <item>Siin oled sa turvalises kohas.</item>
+        <item>Pole midagi, kui täna on raske.</item>
+        <item>Ükski päev pole teisega sarnane. See ka mitte.</item>
+        <item>Sa oled teel, isegi kui aeglaselt.</item>
+        <item>Lase nõudlikkusel natuke puhata.</item>
+        <item>Kõik on hästi. Lihtsalt üks hingetõmme.</item>
+        <item>Sa ei pea alati heas vormis olema.</item>
+        <item>Lahkus iseenda vastu toimib paremini kui rangus.</item>
+        <item>See hetk möödub rahulikult.</item>
+        <item>Sa oled täna raske osa juba ära teinud.</item>
+        <item>Pole midagi kiiret. Pole midagi tõsist. Lihtsalt paus.</item>
+        <item>Naerata. See on väiksem, kui tundub.</item>
+        <item>Sa püüad ja just see on oluline.</item>
+        <item>Sa ei pea kellelegi aru andma. Mine lihtsalt edasi.</item>
+        <item>Kõik on hästi. Päriselt.</item>
+        <item>Sa väärid kerget päeva.</item>
+        <item>Hinga. Maailm keerleb edasi.</item>
+        <item>Täna pole kuhugi kiiret.</item>
+        <item>Selle valikuga on sul hea ja rahulik olla.</item>
+        <item>Uuesti alustada võib nii mitu korda, kui vaja.</item>
+        <item>See on koht, kus sinult midagi ei nõuta.</item>
+        <item>Ole protsessiga kannatlik.</item>
+        <item>Sa ei jää millestki maha.</item>
+        <item>Täiesti okei on mitte olla sada protsenti.</item>
+        <item>See paus on hoolitsus, mitte parandus.</item>
+        <item>Nüüd võid lihtsalt edasi minna.</item>
+        <item>Ilma pingeta. Lihtsalt üks hetk.</item>
+        <item>Pole midagi, kui see juhtus automaatselt.</item>
+        <item>Sa ei vaja põhjust, et hästi olla.</item>
+        <item>Hinga ja jätka. Nii lihtne see ongi.</item>
+        <item>Siin pole mingit probleemi.</item>
+        <item>Sa teed seda õigesti.</item>
+        <item>Kõik on tõesti hästi. Mine rahus.</item>
+        <item>See hetk on sinu jaoks, et puhata.</item>
+        <item>Sa ei ole sellega üksi.</item>
+        <item>Kõik on rahulik. Jätka päeva.</item>
+        <item>Ei mingit koormat. Lihtsalt meeldetuletus.</item>
+        <item>Sa oled juba piisav.</item>
+        <item>Rahu, mida sa otsid, ei ole voos.</item>
+        <item>Sinuga on kõik korras.</item>
+        <item>Lase mõistusel hetkeks puhata.</item>
+        <item>Sa väärid seda hoolt.</item>
+        <item>Midagi ei pea praegu lahendama.</item>
+        <item>Hinga üks kord. Siis mine edasi.</item>
+        <item>Sa oled korras. Muud polegi.</item>
+        <item>Ei nõudmisi, ei arveid, ei punktitabelit.</item>
+        <item>Rahulik hetk keset päeva.</item>
+        <item>Sa võid praegu enda vastu hea olla.</item>
+        <item>Kõik on rahus.</item>
+        <item>Mitte millegagi pole kiiret.</item>
+        <item>Sa tegid täna, mis suutsid.</item>
+        <item>Pole hullu. Homme saab jätkata.</item>
+        <item>See hetk on vaid üks hingetõmme.</item>
+        <item>Sa oled turvas ja sellest piisab.</item>
+        <item>Siin ei mõisteta kedagi hukka.</item>
+        <item>Lihtsalt hinga ja mine ela.</item>
+        <item>Sa väärid täna rahu.</item>
+        <item>Sobib iga tempo.</item>
+        <item>Puhka natuke oma pead.</item>
+        <item>Sa oled siia alati oodatud.</item>
+        <item>Pole põhjust ehmuda. Lihtsalt lühike peatus.</item>
+        <item>Täna pole elu võidujooks.</item>
+        <item>Sa oled tervik ja sellest piisab.</item>
+        <item>On hea, et sa proovisid.</item>
+        <item>Miski siin ei ole sinu vastu.</item>
+        <item>Hinga ja jätka aeglaselt.</item>
+        <item>Sa oled hea just sellisena, nagu oled.</item>
+        <item>See on rahuhetk.</item>
+        <item>Mitte mingeid nõudmisi. Jätka kerge südamega.</item>
+        <item>Sul on lubatud puhata.</item>
+        <item>Siin on kõik vaikne ja rahulik.</item>
+        <item>Võta rahulikult. Päev ootab.</item>
+        <item>Sa oled enda vastu lahke ja see on tugevus.</item>
+        <item>Mida sa praegu teeksid, kui seda äppi poleks?</item>
+        <item>Kas sa oled siin tahtmisest või harjumusest?</item>
+        <item>Mida sa õigupoolest otsisid?</item>
+        <item>Kas see on homme hommikul oluline?</item>
+        <item>Kas sa mäletaksid seda, mida praegu näeksid?</item>
+        <item>Mida sa tegid enne, kui telefoni kätte võtsid?</item>
+        <item>Kui palju aega tahad sa sellele täna anda?</item>
+        <item>Kas sul on igav või oled sa väsinud?</item>
+        <item>Milline võiks su pärastlõuna olla selle asemel?</item>
+        <item>Kas see on seda väärt?</item>
+        <item>Kas sa avasid selle mingil kindlal põhjusel?</item>
+        <item>Mida sa jälle edasi lükkaksid, kui praegu sisse läheksid?</item>
+        <item>Kes sa tahad olla aasta pärast?</item>
+        <item>Mis teeks sulle praegu päriselt head?</item>
+        <item>Kas sa põgened millegi eest?</item>
+        <item>Mis oleks, kui teeksid ära selle, mida oled edasi lükanud?</item>
+        <item>Mis juhtuks, kui sa lihtsalt sulgeksid?</item>
+        <item>Sul on midagi paremat teha. Mis see on?</item>
+        <item>Kas see on puhkus või põgenemine?</item>
+        <item>Mida homne sina paluks sul praegu teha?</item>
+        <item>Kas sul on nälg, uni või igav?</item>
+        <item>Millal viimati tegi voog su olemise paremaks?</item>
+        <item>Mida sa tahad päeva lõpus tunda?</item>
+        <item>Mis sul praegu puudu on?</item>
+        <item>Kas sa vajad seda või lihtsalt tahad?</item>
+        <item>Milline väike asi teeks su päeva praegu paremaks?</item>
+        <item>Mida sa teeksid kahe vaba tunniga?</item>
+        <item>Sa tead juba, mida sa peaksid tegema.</item>
+        <item>Mis on nende viieteistkümne minuti tegelik hind?</item>
+        <item>Kas sa tahad seda või on lihtsalt käed tegevuseta?</item>
+        <item>Mis oleks praegu rohkem seda väärt?</item>
+        <item>Kas sul on kõik hästi?</item>
+        <item>Mis oleks rahulikult mõeldes praegu parim valik?</item>
+        <item>Kas sa oled selle pooltunni üle uhke?</item>
+        <item>Mida sa teeksid, kui keegi ei näeks?</item>
+        <item>Kas on keegi, kellele saaksid praegu helistada?</item>
+        <item>Mida su pea püüab vältida?</item>
+        <item>Kas tasub oma pärastlõunat selle vastu vahetada?</item>
+        <item>Sul on tänaseks plaan. Kas see kuulub sinna?</item>
+        <item>Mis oleks praegu kõige lahedam asi, mida teha?</item>
+        <item>Kas sul on ausalt öeldes kõik hästi?</item>
+        <item>Mis teeks selle nädala väärtuslikuks?</item>
+        <item>Kas see on see, mida sa tahad, või see, mida sa harjumusest teed?</item>
+        <item>Kas sa oled mõelnud, mida homme teha tahad?</item>
+        <item>Mitu korda oled täna juba telefoni kätte võtnud?</item>
+        <item>Mis teeks sind tunni aja pärast rahulolevaks?</item>
+        <item>Kas sa tahad sisse minna või liigub näpp lihtsalt automaatselt?</item>
+        <item>Mis on see oluline asi, mida sa hilisemaks jätad?</item>
+        <item>Mida arvaks sellest kümne aasta tagune sina?</item>
+        <item>Kas sa tõesti puhkad?</item>
+        <item>Kas on midagi, mida sa teeksid, kui julgeksid?</item>
+        <item>Mida sa tahaksid täna õhtuks tehtud olevat?</item>
+        <item>Kas see on väärt rohkem kui üks vestlus?</item>
+        <item>Milleks sul täna aega on?</item>
+        <item>Millist harjumust tahad kuue kuu pärast omada?</item>
+        <item>Mis tegelikult sinu tähelepanu vajab?</item>
+        <item>Kas sa eelistad seda pärastlõunat mäletada või unustada?</item>
+        <item>Milleks oleks hea seda hetke kasutada?</item>
+        <item>Kas sa oled siin, et midagi näha, või et midagi mitte tunda?</item>
+        <item>Mis aitaks sul täna hästi magada?</item>
+        <item>Kas see lisab su päevale või võtab sellest?</item>
+        <item>Kas sa tõesti tahad teada, mis seal on?</item>
+        <item>Mis oli viimane hea asi, mida tegid ilma ekraanita?</item>
+        <item>Mida sa teeksid pärastlõunal ilma internetita?</item>
+        <item>Kuhu sul nii kiire on?</item>
+        <item>Millise väikese sammu saaksid praegu astuda?</item>
+        <item>Mis vajab sinu tähelepanu rohkem kui see?</item>
+        <item>Kas sa oled täna juba sügavalt hinganud?</item>
+        <item>Mis on su plaan järgmiseks tunniks?</item>
+        <item>Kas see viib sind lähemale millelegi, mida tahad?</item>
+        <item>Kas teeksid seda inimese ees, keda imetled?</item>
+        <item>Mis head täna juhtus?</item>
+        <item>Kui suur osa su päevast on juba ekraanidele läinud?</item>
+        <item>Sind ootab üks seisma jäänud idee.</item>
+        <item>Mida sa tahad selle nädalaga teha?</item>
+        <item>Kas tasub vaikust müra vastu vahetada?</item>
+        <item>Kas sa täna lood või tarbid?</item>
+        <item>Milline lihtne asi teeks sulle praegu head?</item>
+        <item>Mida sa ütleksid sellises olukorras sõbrale?</item>
+        <item>Sul on viis minutit. Milleks?</item>
+        <item>Mis sind tegelikult vaevab?</item>
+        <item>Kas see on parim, mida saad praegu teha?</item>
+        <item>Sina juhid seda hetke.</item>
+        <item>Milline otsus teeks sind uhkeks?</item>
+        <item>Mida sa tahad päeva lõpuks tehtud olevat?</item>
+        <item>Kas mäletad, miks selle paigaldasid?</item>
+        <item>Mis oleks, kui jätaksid selle hilisemaks ja vaataksid, kas veel tahad?</item>
+        <item>Mida sa teeksid, kui sul oleks täna rohkem julgust?</item>
+        <item>Kas tahad oma päevast kiiret või head versiooni?</item>
+        <item>Mis on see asi, mida täna saad teha ainult sina?</item>
+        <item>Mis sind väljas ootab?</item>
+        <item>Kas sa oled täna juba millegi eest tänulik olnud?</item>
+        <item>Kui palju on järgmine pooltund sulle väärt?</item>
+        <item>Mida sa tahad sellest nädalast kaasa võtta?</item>
+        <item>Kas see on kiire või ainult tundub nii?</item>
+        <item>Kas sa teed seda, mida tahad teha?</item>
+        <item>Milline oleks sellele päevale hea lõpp?</item>
+        <item>Mida sa teeksid, kui oleksid välja puhanud?</item>
+        <item>Kas sa tahad praegu kerida või elada?</item>
+        <item>Mis oleks, kui lihtsalt sulgeksid ja vaataksid, mis juhtub?</item>
+    </string-array>
+</resources>

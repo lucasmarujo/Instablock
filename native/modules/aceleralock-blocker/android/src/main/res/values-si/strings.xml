@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">%1$s අවහිර කර ඇත.</string>
+    <string name="aceleralock_block_title_unknown">මේ ඇප් එක අවහිර කර ඇත.</string>
+    <string name="aceleralock_block_close">වසන්න</string>
+    <string name="aceleralock_notification_channel">ආරක්ෂාව සක්‍රියයි</string>
+    <string name="aceleralock_notification_text">ආරක්ෂාව සක්‍රියයි</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: වෙබ් අඩවි අවහිර කිරීම</string>
+    <string name="aceleralock_site_accessibility_description">ඔබ තෝරාගත් වෙබ් අඩවි අවහිර කිරීම සඳහා Chrome, Samsung Internet, Firefox, Edge සහ Brave හි ලිපින තීරුවේ ඇති ලිපිනය පමණක් කියවයි. කිසිවක් සුරකින්නේ නැත, කිසිවක් උපාංගයෙන් පිටතට නොයයි.</string>
+</resources>

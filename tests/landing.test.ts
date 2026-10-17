@@ -37,11 +37,12 @@ import {
   descreverAlteracoes,
   tituloDaBarra as tituloDaBarraDoApp,
 } from '../src/components/Bloqueios/bloqueios';
+import { ptBR } from '../src/i18n/textos/pt-BR';
 import { amber, brand, neutral, temaNeutral } from '../src/theme/tokens';
 
 const ROOT = path.join(import.meta.dirname, '..');
 const LANDING = path.join(ROOT, 'web/landing');
-const ARRAYS_XML = 'native/modules/aceleralock-blocker/android/src/main/res/values/arrays.xml';
+const ARRAYS_XML = 'native/modules/aceleralock-blocker/android/src/main/res/values-pt/arrays.xml';
 
 function lerLanding(relativo: string): string {
   return readFileSync(path.join(LANDING, relativo), 'utf8');
@@ -54,14 +55,14 @@ function scriptsDaLanding(): string[] {
 test('feliz: cronometro da landing mostra o mesmo texto do app em cada segundo de ate duas horas', () => {
   for (let segundos = 0; segundos <= 7200; segundos += 1) {
     assert.equal(relogio(segundos), formatRemainingClock(segundos * 1000));
-    assert.equal(faltam(segundos), formatRemainingShort(segundos * 1000));
+    assert.equal(faltam(segundos), formatRemainingShort(segundos * 1000, ptBR));
   }
 });
 
 test('regressao: fracao quebrada de segundo arredonda pra cima como no app, "00:00" so no fim', () => {
   for (const segundos of [0.001, 0.5, 59.2, 1103.4, -3]) {
     assert.equal(relogio(segundos), formatRemainingClock(segundos * 1000));
-    assert.equal(faltam(segundos), formatRemainingShort(segundos * 1000));
+    assert.equal(faltam(segundos), formatRemainingShort(segundos * 1000, ptBR));
   }
 });
 
@@ -86,22 +87,22 @@ test('feliz: anel da espera enche na mesma proporcao do app, inclusive nas borda
 
 test('feliz: tempo de tela da landing usa o formato do app ("3h 53min", "41min", "45s")', () => {
   for (let segundos = -60; segundos <= 26 * 3600; segundos += 7) {
-    assert.equal(duracao(segundos), formatarDuracao(segundos));
+    assert.equal(duracao(segundos), formatarDuracao(segundos, ptBR));
   }
   for (const segundos of [Number.NaN, Number.POSITIVE_INFINITY, 0.4, 3600, 233 * 60]) {
-    assert.equal(duracao(segundos), formatarDuracao(segundos));
+    assert.equal(duracao(segundos), formatarDuracao(segundos, ptBR));
   }
 });
 
 test('feliz: hora da folha de horarios livres bate com o app, dando a volta na meia-noite', () => {
   for (let minuto = -3000; minuto <= 3000; minuto += 1) {
-    assert.equal(hora(minuto), formatarHora(minuto));
+    assert.equal(hora(minuto), formatarHora(minuto, ptBR));
   }
 });
 
 test('feliz: legenda de horarios livres da landing bate com a do app', () => {
   for (let quantidade = -1; quantidade <= 9; quantidade += 1) {
-    assert.equal(legendaComHorarios(quantidade), legendaComHorariosDoApp(quantidade));
+    assert.equal(legendaComHorarios(quantidade), legendaComHorariosDoApp(quantidade, ptBR));
   }
 });
 
@@ -109,10 +110,10 @@ test('feliz: barra de salvar descreve as entradas com as palavras do app', () =>
   const nomes = ['Instagram', 'TikTok', 'YouTube', 'X'];
   for (let n = 0; n <= nomes.length; n += 1) {
     const entram = nomes.slice(0, n);
-    assert.equal(tituloDaBarra(n), tituloDaBarraDoApp({ entram, saem: [] }));
+    assert.equal(tituloDaBarra(n), tituloDaBarraDoApp({ entram, saem: [] }, ptBR));
     assert.equal(
       descreverEntradas(entram),
-      descreverAlteracoes({ entram, saem: [] }, (nome) => nome)
+      descreverAlteracoes({ entram, saem: [] }, (nome) => nome, ptBR)
     );
   }
 });

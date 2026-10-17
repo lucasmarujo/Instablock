@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Íslenska: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>Tíminn sem þú eyðir ekki hér kemur allur aftur til þín.</item>
+        <item>Hver mínúta utan þessa skjás er aftur þín eigin mínúta.</item>
+        <item>Þessar tuttugu mínútur duga í göngutúr.</item>
+        <item>Dagurinn á meira rými en þú heldur þegar flettingunum linnir.</item>
+        <item>Þú varst að endurheimta bita af síðdeginu.</item>
+        <item>Ein klukkustund á dag eru fimmtán dagar á ári.</item>
+        <item>Tíminn kemur ekki aftur, en þú getur samt valið hvert hann fer.</item>
+        <item>Þetta hlé er þitt. Enginn þarf að vita hvað þú gerir við það.</item>
+        <item>Heilt líf er í gangi fyrir utan appið.</item>
+        <item>Klukkan gengur jafnhratt báðum megin við skjáinn.</item>
+        <item>Þú keyptir þér tíma núna. Notaðu hann í eitthvað sem þú manst á morgun.</item>
+        <item>Enginn óskar þess í lok dags að hafa flett meira.</item>
+        <item>Fimmtán mínútur hér eru fimmtán mínútur hvar sem er annars staðar.</item>
+        <item>Hvað hefðir þú gert við þessa hálftíma fyrir tíu árum.</item>
+        <item>Tíminn þinn er það eina sem þú getur ekki keypt aftur.</item>
+        <item>Allt síðdegið liggur enn opið fyrir framan þig.</item>
+        <item>Þessi mínúta gæti verið upphafið að einhverju öðru.</item>
+        <item>Þú ert að gefa sjálfum þér klukkutímana til baka, einn í einu.</item>
+        <item>Tíminn sem þú sparar hér hverfur ekki. Hann birtist annars staðar.</item>
+        <item>Tíu mínútur virðast lítið þar til þú leggur saman heilan mánuð.</item>
+        <item>Lífið líður á venjulegum hraða, ekki á hraða flettiskjásins.</item>
+        <item>Þú átt meiri tíma í dag en þú áttir í gær á sama tíma.</item>
+        <item>Það sem þú hefur frestað passar nákvæmlega í þetta hlé.</item>
+        <item>Þessi pása er stutt. Það sem þú gerir við hana þarf ekki að vera það.</item>
+        <item>Dagurinn rúmar margt þegar skrunið er farið úr miðjunni.</item>
+        <item>Þú varst að vinna aftur það sem eftir er kvöldsins.</item>
+        <item>Tími er gjaldmiðill. Þú ákvaðst rétt í þessu að eyða honum ekki.</item>
+        <item>Straumurinn tekur aldrei enda. Dagurinn þinn gerir það.</item>
+        <item>Hálftími á dag verður að heilli bók á mánuði.</item>
+        <item>Ekkert áríðandi beið þín þarna inni.</item>
+        <item>Þessi tími var alltaf þinn. Nú er hann kominn aftur til þín.</item>
+        <item>Morguninn getur enn nýst vel ef hann byrjar núna.</item>
+        <item>Þú misstir ekki af neinu. Þú fékkst hlé.</item>
+        <item>Enginn skilar okkur tímanum. Við verðum að halda í hann sjálf.</item>
+        <item>Þessar mínútur eru meira virði utan appsins og þú veist það.</item>
+        <item>Það sem var þarna er enn þar. Tíminn þinn er það ekki.</item>
+        <item>Lífið er búið til úr síðdegjum eins og þessu.</item>
+        <item>Þú getur endað daginn á einhverju gerðu í stað einhvers séðs.</item>
+        <item>Tvær klukkustundir á dag eru heill mánuður á ári.</item>
+        <item>Tíminn sem þú verndar í dag er sá sem er eftir á morgun.</item>
+        <item>Þetta er sá hluti dagsins sem aðeins þú ræður yfir.</item>
+        <item>Enginn skrifaði neitt þarna inni sem er síðdegis þíns virði.</item>
+        <item>Þrjátíu mínútur á dag byggja hvað sem er á einu ári.</item>
+        <item>Þú varst að kaupa þér smá þögn.</item>
+        <item>Dagurinn stækkar þegar straumurinn minnkar.</item>
+        <item>Þessi tími er hráefni núna. Gerðu eitthvað úr honum.</item>
+        <item>Verkefnið þitt bíður nákvæmlega eftir þessu hléi.</item>
+        <item>Það sem þú vinnur hér sést ekki á neinum skjá, aðeins í lífinu þínu.</item>
+        <item>Frjáls tími er sjaldgæfur. Þú bjóst einn til rétt í þessu.</item>
+        <item>Enginn hefur við lífslok óskað þess að hafa flett einu sinni enn.</item>
+        <item>Þú átt allt síðdegið og enn hefur ekkert af því farið til spillis.</item>
+        <item>Eitt ár eru þrjú hundruð sextíu og fimm val eins og þetta.</item>
+        <item>Þetta hlé er lítið en það er algjörlega þitt.</item>
+        <item>Tíminn líður jafnt. Munurinn er það sem situr eftir.</item>
+        <item>Þú tókst hálftíma af sjálfstýringunni.</item>
+        <item>Það sem eftir er dagsins þakkar fyrir þetta stopp.</item>
+        <item>Fimm mínútur þar verða að fjörutíu án þess að nokkur taki eftir.</item>
+        <item>Þú þekkir verðið á þessum fimm mínútum. Þess vegna ertu hér.</item>
+        <item>Klukkustundin sem þú verndar núna er sú sem þú leitar að á kvöldin.</item>
+        <item>Ekkert þarna inni verður betra af því að þú sjáir það núna frekar en seinna.</item>
+        <item>Þú valdir rétt í þessu hvert næsta mínúta fer.</item>
+        <item>Þessi tími rúmar spjall, göngutúr eða lúr.</item>
+        <item>Dagurinn nýtist þegar klukkustundirnar hætta að leka burt.</item>
+        <item>Næsti hálftími er alfarið í þínum höndum.</item>
+        <item>Til er útgáfa af þessum degi þar sem þú gerðir eitthvað. Hún byrjar núna.</item>
+        <item>Tími safnast ekki upp. Hann er bara betur eða verr nýttur.</item>
+        <item>Þessar mínútur geta orðið að raunverulegri hvíld.</item>
+        <item>Þú steigst af hlaupabretti sem fer ekkert.</item>
+        <item>Vika hefur eitt hundrað sextíu og átta klukkustundir. Þessi er þín.</item>
+        <item>Straumurinn tekur tímann í litlum bitum svo enginn finni fyrir því.</item>
+        <item>Nú geturðu gert það sem þú frestar alltaf til morguns.</item>
+        <item>Síðdegið þitt þarf ekki að rúmast inni í skjá.</item>
+        <item>Tíminn sem er afgangs gerir daginn langan á góðan hátt.</item>
+        <item>Þú skilaðir sjálfum þér næstu klukkustund.</item>
+        <item>Ekkert af því sem þú hefðir séð núna yrði í huga þínum eftir viku.</item>
+        <item>Þetta er mínútan sem byggir upp ár eða leysir það upp.</item>
+        <item>Þú vannst tíma. Þú þarft ekki að eyða honum hratt.</item>
+        <item>Dagur án skruns er dagur sem rúmar meira.</item>
+        <item>Klukkan aðgreinir ekki góðan tíma frá glötuðum. Það gerir þú.</item>
+        <item>Þessi klukkustund er jafn mikils virði og hver önnur í lífi þínu.</item>
+        <item>Þú átt tíma núna. Það er sjaldgæfara en það virðist.</item>
+        <item>Að geyma tíma er eina leiðin til að eiga tíma.</item>
+        <item>Allt kvöldið er enn framundan.</item>
+        <item>Þessar mínútur eru byrjunin á síðdegi sem þú munt muna.</item>
+        <item>Þú forðaðist rétt í þessu klukkutíma holuna.</item>
+        <item>Allt sem krefst tíma krefst nákvæmlega svona ákvörðunar.</item>
+        <item>Tíminn fram að kvöldmat nýtist enn í ótal margt.</item>
+        <item>Þú tókst fótinn af bensíngjöfinni. Dagurinn hægir á sér með þér.</item>
+        <item>Vikan þín á pláss. Eitthvað annað var að taka það.</item>
+        <item>Í hvert sinn sem þú lokar hér stækkar dagurinn örlítið.</item>
+        <item>Tími er gjöfin sem þú gefur sjálfum þér án þess að eyða neinu.</item>
+        <item>Þú átt núna einmitt það sem þú segir allan daginn að þú eigir ekki.</item>
+        <item>Langt síðdegi er búið til úr stuttum ákvörðunum eins og þessari.</item>
+        <item>Enginn mun spyrja hvað þú gerðir við þennan hálftíma.</item>
+        <item>Tíminn sem þú gefur ekki í dag verður enn hjá þér á morgun.</item>
+        <item>Tuttugu mínútur á dag eru eitt hundrað og tuttugu klukkustundir á ári.</item>
+        <item>Þú endurheimtir stundina áður en þú ferð að sofa.</item>
+        <item>Það er mikið líf á milli einnar tilkynningar og annarrar.</item>
+        <item>Allur dagurinn rúmast hér ef þú gefur hann ekki frá þér í bútum.</item>
+        <item>Þú hefur komist hingað með því að vernda tíma. Þetta er enn einn.</item>
+        <item>Athygli þín er eftirsóttasta gæði heims. Þú sigraðir rétt í þessu.</item>
+        <item>Það tekur einbeitinguna tuttugu mínútur að koma aftur. Gefðu hana ekki frá þér núna.</item>
+        <item>Heill hugur er meira virði en sundurskorinn hugur.</item>
+        <item>Þú varst með hugann við eitthvað áður en þú komst hingað.</item>
+        <item>Skipt athygli er ekki athygli. Hún er bara þreyta.</item>
+        <item>Það sem þú varst að gera á skilið alla þína athygli.</item>
+        <item>Djúp hugsun þarf tíma án truflana. Þetta er hann.</item>
+        <item>Hver skjáskipti kosta meira en klukkan sýnir.</item>
+        <item>Hugurinn var á góðu róli. Leyfðu honum að halda áfram.</item>
+        <item>Djúp vinna lifir ekki af eina fletti í straumnum.</item>
+        <item>Straumurinn var hannaður til að taka athygli þína. Þú tókst eftir því.</item>
+        <item>Löng hugsun þarf þögn til að klárast.</item>
+        <item>Þú getur haldið heilli hugmynd í huganum. Þú þarft bara rými.</item>
+        <item>Truflun er ekki hvíld. Hvíld hvílir.</item>
+        <item>Einbeitingin sem þú hafðir er enn á sveimi. Farðu aftur til hennar.</item>
+        <item>Athygli þín er ekki til sölu í dag.</item>
+        <item>Það besta í huga þínum birtist eftir tuttugustu mínútuna.</item>
+        <item>Að trufla núna kostar meira en það virðist.</item>
+        <item>Þú getur ýmislegt sem krefst einbeitingar. Byrjaðu á að vernda hana.</item>
+        <item>Ekkert þarna inni þarfnast athygli þinnar í hvelli.</item>
+        <item>Ein einbeitt klukkustund gefur meira af sér en fjórar sundurslitnar.</item>
+        <item>Hugurinn vinnur best þegar hann er ekki að skipta um umræðuefni.</item>
+        <item>Það sem varð hálfklárað er enn hægt að klára í dag.</item>
+        <item>Einbeiting er ekki viljastyrkur. Hún er umhverfi. Þú varst að laga þitt.</item>
+        <item>Þetta erfiða vandamál lætur undan þegar þú heldur þig við það.</item>
+        <item>Athygli þín er takmörkuð. Þess vegna er hún svona verðmæt.</item>
+        <item>Þú þarft ekki að vita allt núna.</item>
+        <item>Hávaðinn verður áfram þarna. Þögnin þín er það sem er sjaldgæft.</item>
+        <item>Stóru hlutirnir voru gerðir af fólki sem enginn truflaði.</item>
+        <item>Farðu aftur í það sem þú varst að gera. Hugurinn er enn þar.</item>
+        <item>Eitt verkefni í einu er fljótlegra en það virðist.</item>
+        <item>Flýtirinn að kíkja líður hjá. Hugmyndin sem var trufluð kemur stundum ekki aftur.</item>
+        <item>Þú hefur meiri einbeitingargetu en þú notar.</item>
+        <item>Að hugsa vel er hægt. Leyfðu því að vera hægt.</item>
+        <item>Athygli þín byggði eitthvað í dag. Rífðu það ekki niður af forvitni.</item>
+        <item>Það sem krefst huga krefst alls hugans.</item>
+        <item>Enginn straumur kennir þér það sem ein klukkustund af einbeitingu kennir.</item>
+        <item>Hver tilkynning sem þú hafnar er örlítið meiri skýrleiki.</item>
+        <item>Þú varst nálægt því að skilja. Farðu aftur þangað.</item>
+        <item>Hvíldur hugur er hugur sem hefur ekki verið togaður allan daginn.</item>
+        <item>Athygli þín er efniviðurinn sem þú byggir allt annað úr.</item>
+        <item>Erfiðast er að byrja. Þú hefur þegar byrjað. Ekki byrja upp á nýtt.</item>
+        <item>Láttu málið liggja og það leysist af sjálfu sér í huga þínum.</item>
+        <item>Skýrleiki birtist þegar hávaðinn hættir.</item>
+        <item>Besta verk dagsins er enn ógert.</item>
+        <item>Þetta er ekki tímaskortur. Þetta er skortur á heilum tíma.</item>
+        <item>Þú hugsar betur en straumurinn leyfir þér.</item>
+        <item>Sá texti, sá kóði, það samtal. Þau bíða eftir allri athygli þinni.</item>
+        <item>Einbeiting er vöðvi. Hún styrkist af dögum eins og í dag.</item>
+        <item>Hugurinn þinn þakkaði þér rétt í þessu.</item>
+        <item>Eitt í einu er enn fullkomnasta tæknin sem til er.</item>
+        <item>Það sem þú gerir með athygli situr eftir. Hitt líður hjá.</item>
+        <item>Það er engin flýtileið að hugsa. Aðeins tími án truflana.</item>
+        <item>Þú átt skilið að klára hugsun.</item>
+        <item>Hugurinn var skarpur. Haltu í þann þráð.</item>
+        <item>Skjárinn blikkar. Hugmyndirnar gera það ekki. Haltu þig við hugmyndirnar.</item>
+        <item>Einn dagur með einbeitingu jafngildir þremur í hlaupum.</item>
+        <item>Þú ert ekki hægfara. Það var bara verið að trufla þig stöðugt.</item>
+        <item>Málið sem skiptir máli í dag er ekki í straumnum.</item>
+        <item>Það er ódýrara að halda stefnunni en að komast aftur á hana.</item>
+        <item>Öll athygli þín er gjöf. Gefðu þeim sem eiga hana skilið.</item>
+        <item>Í þögninni birtast góðu hugmyndirnar.</item>
+        <item>Þú varst í miðju einhverju góðu.</item>
+        <item>Enginn hugsar rétt með hugann á tíu stöðum.</item>
+        <item>Dýptin birtist ekki fyrr en eftir smá tíma á yfirborðinu.</item>
+        <item>Einbeiting snýst ekki um að gera meira. Hún snýst um að gera vel.</item>
+        <item>Þú átt eitt mikilvægt verkefni í dag. Straumurinn er það ekki.</item>
+        <item>Leyfðu huganum að ljúka setningunni sem hann byrjaði á.</item>
+        <item>Ein klukkustund án truflana breytir því sem er mögulegt í deginum.</item>
+        <item>Það sem virðist erfitt núna verður létt með samfelldri athygli.</item>
+        <item>Einbeitingin er forskot þitt. Fáir eiga enn sína.</item>
+        <item>Skiptu ekki einu mikilvægu fyrir mörg hröð.</item>
+        <item>Forvitnin getur beðið. Einbeitingin bíður ekki.</item>
+        <item>Þú ert að byggja eitthvað. Haltu áfram.</item>
+        <item>Að skipta um verkefni virðist afkastamikið en er það nær aldrei.</item>
+        <item>Besta nýting hugans í dag er enn í boði.</item>
+        <item>Athyglin sem þú geymir núna kemur fram í árangrinum síðar.</item>
+        <item>Hugurinn er ekki straumur. Hann geymir það sem þú gefur athygli.</item>
+        <item>Mál sem á skilið alla þína athygli er sjaldgæft. Nýttu það.</item>
+        <item>Erfitt er ekki ómögulegt. Það tekur bara tíma.</item>
+        <item>Þú ert nokkrar mínútur frá því að leysa þetta.</item>
+        <item>Hávaðinn hverfur þegar þú hættir að næra hann.</item>
+        <item>Haltu þig við það sem þú varst að gera þar til því lýkur.</item>
+        <item>Hver djúp köfun borgar sig á móti tíu grunnum.</item>
+        <item>Athygli þín ræður því hvað verður að minningu.</item>
+        <item>Þú manst það sem þú gafst athygli. Aðeins það.</item>
+        <item>Að hugsa er það arðbærasta sem þú gerir í dag.</item>
+        <item>Hugur án flýtis leysir það sem flýtishugur sér ekki.</item>
+        <item>Gott verk krefst þolinmæði, ekki hraða.</item>
+        <item>Ekkert af því sem þú sæir núna kæmi upp í samtali á morgun.</item>
+        <item>Skýrleiki hugans í dag byrjaði á ákvörðunum eins og þessari.</item>
+        <item>Truflun er dýrasti skattur sem til er.</item>
+        <item>Þú getur verið lengur við eitt en þú heldur.</item>
+        <item>Smáatriðið sem var að sleppa frá þér birtist í þögninni.</item>
+        <item>Einbeitingin kemur aftur. Hún þarf bara nokkrar mínútur án skjás.</item>
+        <item>Þú ræður við langa athygli. Straumurinn veðjar á að þú gerir það ekki.</item>
+        <item>Að klára eitt í dag er meira virði en að byrja fimm.</item>
+        <item>Óskipt athygli er sjaldgæf, jafnvel í þínu eigin lífi.</item>
+        <item>Leyfðu hugsuninni að anda.</item>
+        <item>Það sem þú byggir með einbeitingu flettir enginn niður.</item>
+        <item>Löngunin til að opna líður hjá eftir nokkrar mínútur. Hún gerir það alltaf.</item>
+        <item>Þessi hvöt hefur fyrningardag. Hún rennur út af sjálfu sér.</item>
+        <item>Þú þarft ekki að gera neitt. Bara bíða þess að aldan lækki.</item>
+        <item>Ákafinn sem þú finnur núna er ekki þinn. Hann var kenndur þér.</item>
+        <item>Andaðu einu sinni. Löngunin er þegar minni en fyrir mínútu.</item>
+        <item>Hvötin er sterk í byrjun og hverfur á miðri leið.</item>
+        <item>Þetta ert ekki þú að vilja. Þetta er vaninn að biðja.</item>
+        <item>Þetta er óþægilegt í stutta stund. Svo líður það hjá.</item>
+        <item>Þú hefur fundið þetta áður og lifað það af í hvert sinn.</item>
+        <item>Löngunin kemur í bylgjum. Bylgjur brotna.</item>
+        <item>Enginn þarf að hlýða fyrstu hvöt dagsins.</item>
+        <item>Þessi herpingur í brjóstinu endist skemur en eitt lag.</item>
+        <item>Þú ert stærri en þrjátíu sekúndna hvöt.</item>
+        <item>Leyfðu löngruninni að líða hjá án þess að gera nokkuð við hana.</item>
+        <item>Óþægindin núna eru vaninn að losna. Það er framför.</item>
+        <item>Þú ert ekki að streitast á móti. Þú ert bara að bíða.</item>
+        <item>Löngunin kemur sterk og fer hljóðlega.</item>
+        <item>Teldu upp í tuttugu. Hún verður þá þegar minni.</item>
+        <item>Að langa er ekki það sama og að þurfa.</item>
+        <item>Hvötin vill svar strax. Gefðu henni ekkert.</item>
+        <item>Þetta er erfiðasta stundin og hún er stutt.</item>
+        <item>Þú þarft ekki að berjast. Bara ekki ákveða núna.</item>
+        <item>Löngunin hverfur þegar enginn nærir hana.</item>
+        <item>Þetta er kvíði, ekki hungur í efni.</item>
+        <item>Taktu eftir löngruninni án þess að stíga inn í hana.</item>
+        <item>Heilinn biður um það sama og alltaf. Þú þarft ekki að verða við því.</item>
+        <item>Fimm mínútur og þú manst varla að þig langaði að opna.</item>
+        <item>Aldan rís núna. Hún lækkar alltaf aftur.</item>
+        <item>Verstu stundina hefur þú þegar látið að baki.</item>
+        <item>Hvötin lýgur um eigin styrk.</item>
+        <item>Stattu upp, fáðu þér vatn, komdu aftur. Hún er farin.</item>
+        <item>Löngun er ekki skipun.</item>
+        <item>Þú getur fundið þetta og gert ekkert. Það er leyfilegt.</item>
+        <item>Líkaminn biður um hreyfingu, ekki skjá.</item>
+        <item>Þessi þrá er sjálfvirk. Svarið þitt þarf ekki að vera það.</item>
+        <item>Ekkert slæmt gerist ef þú bíður aðeins lengur.</item>
+        <item>Löngunin hverfur af sjálfu sér ef þú gefur henni rými.</item>
+        <item>Þetta er bara kvíði. Hann líður hjá og krefst ekki skjás.</item>
+        <item>Hvötin er tillaga. Þú ræður.</item>
+        <item>Ein mínúta í viðbót og löngunin er orðin eitthvað annað.</item>
+        <item>Erfiði hlutinn varir stutt. Góði hlutinn varir daginn.</item>
+        <item>Þetta er litla ýtið fræga. Það ýtir ekki svo mikið.</item>
+        <item>Bíddu án þess að dæma. Löngunin leysist upp af sjálfri sér.</item>
+        <item>Heilinn biður um flýtileiðina eins og alltaf.</item>
+        <item>Þú þarft ekki að sigra neitt. Bara leyfa þessu að líða hjá.</item>
+        <item>Hver alda sem þú leyfir að líða hjá gerir þá næstu minni.</item>
+        <item>Kvíðinn vill skjóta lausn. Hún finnst ekki hér.</item>
+        <item>Vertu kyrr augnablik. Hvötin stoppar ekki.</item>
+        <item>Þú missir ekki af neinu með því að bíða.</item>
+        <item>Leiðindi eru ekki neyðartilvik.</item>
+        <item>Það er eðlilegt að finna fyrir tómleika núna. Hann fyllist af sjálfu sér.</item>
+        <item>Löngunin til að tékka á einhverju snýst sjaldan um það sem tékkað er á.</item>
+        <item>Þér líður illa, en þú ert ekki í hættu.</item>
+        <item>Þetta losnar eftir augnablik.</item>
+        <item>Vaninn er sterkur en hann er stuttur.</item>
+        <item>Láttu þessa líða hjá. Bara þessa.</item>
+        <item>Næsta skipti verður auðveldara vegna þessa.</item>
+        <item>Þú þarft ekki að sannfæra þig um neitt. Bara bíða.</item>
+        <item>Eitt vatnsglas gerir meira en ein fletting í straumnum.</item>
+        <item>Ákafinn er falskur og þú veist það.</item>
+        <item>Hvötin þolir illa að fá ekkert svar.</item>
+        <item>Bíddu í þrjátíu sekúndur. Ákveddu svo upp á nýtt.</item>
+        <item>Þú ert á toppnum. Héðan liggur leiðin niður á við.</item>
+        <item>Ekkert krefst viðbragða frá þér núna.</item>
+        <item>Löngun er gestur. Hún fer aftur.</item>
+        <item>Þú ert ekki hvötin. Þú ert sá sem horfir á hana.</item>
+        <item>Líkaminn slakar á ef þú gefur honum eina mínútu.</item>
+        <item>Þetta er bara heilinn að leita að örvun. Hann finnur aðra.</item>
+        <item>Þrjú djúp andköf breyta styrk þessa.</item>
+        <item>Löngunin skreppur saman þegar þú horfist í augu við hana.</item>
+        <item>Þú þolir þessa mínútu. Þú hefur þolað verra.</item>
+        <item>Óþægindin líða hjá þótt þú gerir ekkert.</item>
+        <item>Höndin var fljótari en hugurinn. Það gerist.</item>
+        <item>Engin ákvörðun þarf að vera tekin fyrstu tíu sekúndurnar.</item>
+        <item>Eftir örfá augnablik manstu varla eftir þessu.</item>
+        <item>Gikkurinn var tekinn. Svarið er samt þitt.</item>
+        <item>Leyfðu löngruninni að vera til án þess að hlýða henni.</item>
+        <item>Þetta er ekki fíkn. Þetta er vani.</item>
+        <item>Bíddu. Það er bókstaflega allt sem þú þarft að gera.</item>
+        <item>Hugurinn róast af sjálfu sér ef þú bætir ekki við eldiviði.</item>
+        <item>Þú ert þegar að bíða. Það er sigur út af fyrir sig.</item>
+        <item>Hvötin missir kraftinn þegar hún mætir lokuðum dyrum.</item>
+        <item>Hver sekúnda hér er sekúnda í forskot.</item>
+        <item>Aldan brotnaði. Taktu eftir hvað þetta er þegar léttara.</item>
+        <item>Þú þarft enga ástæðu til að opna ekki.</item>
+        <item>Löngunin líður hraðar hjá en eftirsjáin.</item>
+        <item>Ein teygja gerir það sem straumurinn gæti ekki.</item>
+        <item>Löngunin er að fara á meðan þú lest þetta.</item>
+        <item>Ákveddu ekkert núna. Andaðu bara.</item>
+        <item>Hvötin kemur ein og fer ein.</item>
+        <item>Þetta er erfiðasti hlutinn. Og hann er fljótur að líða.</item>
+        <item>Þú hefur þolað þetta hingað til. Það eru bara sekúndur eftir.</item>
+        <item>Líkaminn biður um skjá þegar hann vill hvíld. Gefðu honum hvíld.</item>
+        <item>Löngunin minnkar í hvert sinn sem hún fær ekki sitt.</item>
+        <item>Bíddu aðeins lengur. Það er allt og sumt.</item>
+        <item>Augnablikið líður hjá. Valið stendur eftir.</item>
+        <item>Þú varst að fara yfir þrönga hlutann.</item>
+        <item>Að finna löngun er mannlegt. Að hlýða henni ekki líka.</item>
+        <item>Róin kemur aftur eftir augnablik ef þú ýtir ekki á eftir.</item>
+        <item>Þetta varð léttara, ekki satt.</item>
+        <item>Þú ákvaðst þetta í ró og næði. Treystu þeim sem ákvað.</item>
+        <item>Þú í gær hugsaði um þig núna.</item>
+        <item>Þessi skjár er skilaboð frá þér til þín.</item>
+        <item>Þér er ekki varnað. Þér er minnt á.</item>
+        <item>Sá sem þú vilt vera eyðir ekki síðdeginu í að fletta.</item>
+        <item>Þetta val var þitt. Það er það enn.</item>
+        <item>Þú ert manneskja sem tók eftir og brást við.</item>
+        <item>Enginn neyddi þig til að setja þetta upp. Þú vildir það.</item>
+        <item>Þú á morgun á eftir að kunna vel við þig í dag.</item>
+        <item>Þú ert nú þegar manneskja sem verndar sinn eigin tíma.</item>
+        <item>Þetta er ekki refsing. Þetta er samkomulag.</item>
+        <item>Þú skrifaðir þessa reglu. Hún virkar.</item>
+        <item>Að ráða eigin athygli er val sem tekið er á hverjum degi.</item>
+        <item>Þú þarft ekki að sanna neitt fyrir neinum hér.</item>
+        <item>Manneskjan sem þú vilt vera byrjar í litlum ákvörðunum.</item>
+        <item>Þú ert réttum megin við þennan skjá.</item>
+        <item>Í hvert sinn sem þú lokar hér verður þú meira sá sem þú vilt vera.</item>
+        <item>Þú ert ekki það sem þig langar í. Þú ert það sem þú gerir.</item>
+        <item>Samkomulag við sjálfan sig er jafn mikils virði og hvert annað.</item>
+        <item>Þú sást mynstur og breyttir því. Það er fátítt.</item>
+        <item>Þú ert stærri en forritin í vasanum.</item>
+        <item>Þetta er þín regla og hún er á þinni hlið.</item>
+        <item>Þú mátt breyta venjum þínum.</item>
+        <item>Það sem þú gerir aftur og aftur er það sem þú ert.</item>
+        <item>Þú valdir líf með meira rými.</item>
+        <item>Það er ekki appið sem stjórnar þér.</item>
+        <item>Sjálfsmynd þín passar ekki í einn straum.</item>
+        <item>Þú settir þetta upp af ástæðu.</item>
+        <item>Mundu ástæðuna. Hún gildir enn.</item>
+        <item>Þú virðir ákvörðun sem þú tókst með góðu geði.</item>
+        <item>Enginn ákveður athygli þína fyrir þig.</item>
+        <item>Þú tókst eftir því sem var að gerast. Það breytir öllu.</item>
+        <item>Að stjórna eigin degi er stöðugt verk.</item>
+        <item>Þú ert ekki farþegi. Þú ert við stýrið.</item>
+        <item>Þetta er val þess sem tekur sjálfan sig alvarlega.</item>
+        <item>Þú berð ábyrgð á sjálfum þér. Og þú axlar hana.</item>
+        <item>Tíminn þinn á eiganda. Hann er að lesa þetta.</item>
+        <item>Þú gerðir samkomulag við sjálfan þig. Stattu við það.</item>
+        <item>Hver ákvörðun sem þessi færir þig nær þeim sem þú vilt vera.</item>
+        <item>Þú ert ekki að missa frelsi. Þú ert að nota það.</item>
+        <item>Það ert þú sem ákveður hvað þú gerir núna.</item>
+        <item>Þú þarft ekkert leyfi til að lifa öðruvísi.</item>
+        <item>Þessi mörk eru umhyggja, ekki búr.</item>
+        <item>Þú valdir erfiðari leið, og meira þína eigin.</item>
+        <item>Manneskjan sem þú lítur upp til segði líka nei núna.</item>
+        <item>Þú býrð í lífinu þínu, ekki í appinu.</item>
+        <item>Þetta er tíminn þinn, hugurinn þinn, valið þitt.</item>
+        <item>Þú stendur við orð þín við sjálfan þig. Það telur.</item>
+        <item>Enginn mun gæta athygli þinnar fyrir þig.</item>
+        <item>Þú hefur þegar sannað að þú getur skipt um stefnu.</item>
+        <item>Sjálfræði er þetta: að ákveða fyrst, ekki í hvatvísi.</item>
+        <item>Þú ert að móta manneskju sem þú berð virðingu fyrir.</item>
+        <item>Þetta er sú útgáfa af þér sem skipuleggur.</item>
+        <item>Þú ert ekki hér fyrir tilviljun. Þú bjóst þetta til.</item>
+        <item>Orð þitt við sjálfan þig er mikils virði.</item>
+        <item>Þú hefur þína eigin skoðun á því hvernig þú eyðir deginum.</item>
+        <item>Appið þekkir þig ekki. Þú þekkir þig.</item>
+        <item>Þú hegðar þér eins og eigandi eigin lífs.</item>
+        <item>Að standa við eigin ákvörðun er frelsi.</item>
+        <item>Það ert þú sem skrifar reglurnar hér.</item>
+        <item>Þetta er þú að hugsa vel um þig.</item>
+        <item>Þú ert ekki föst í neinu. Þú nýtur verndar.</item>
+        <item>Löngun þín til að breyta er eldri en þessi hvöt.</item>
+        <item>Þú ert nú þegar sá sem þú ert að reyna að verða.</item>
+        <item>Erfiða ákvörðunin var þegar tekin. Þessi er bara sú létta.</item>
+        <item>Þú hefur stjórnina og það er sjaldgæft nú til dags.</item>
+        <item>Enginn þarf að vita. Þetta er á milli þín og þín.</item>
+        <item>Þú átt skilið að geta treyst eigin orðum.</item>
+        <item>Nafnið þitt stendur á þessu vali.</item>
+        <item>Þú ákveður orðið fyrirfram.</item>
+        <item>Þetta er ekki uppgjöf. Þetta er að velja annað.</item>
+        <item>Þú átt stefnu. Þessi skjár bendir í áttina að henni.</item>
+        <item>Raunverulegt frelsi er að vera ekki togaður stöðugt.</item>
+        <item>Það ert þú sem ákveður hvers virði athygli þín er.</item>
+        <item>Hvert nei hér er já við einhverju öðru sem er þitt.</item>
+        <item>Þú heldur þig við áætlun sem þú gerðir af umhyggju.</item>
+        <item>Að ráða sjálfum sér er vinna og hún borgar sig.</item>
+        <item>Þú viðurkenndir að þú vildir breyta. Það er erfiðasti hlutinn.</item>
+        <item>Manneskjan í speglinum í kvöld mun kunna vel að meta þetta.</item>
+        <item>Þú skuldar reikniritinu ekkert.</item>
+        <item>Líf þitt er ekki efni fyrir neinn annan.</item>
+        <item>Þú ert nákvæmlega þar sem þú ákvaðst að vera.</item>
+        <item>Mörkin sem þú setur sjálfum þér eru þau virðingarfyllstu sem til eru.</item>
+        <item>Þú átt lífsverkefni sem er stærra en þessi skjár.</item>
+        <item>Þetta er þroski í rauntíma.</item>
+        <item>Þú ert að hugsa um framtíðina án þess að átta þig á því.</item>
+        <item>Hvert val sem þetta skerpir hver þú ert.</item>
+        <item>Þú þarft ekki að útskýra hvers vegna þú opnar ekki.</item>
+        <item>Skuldbinding þín er við þig, ekki við appið.</item>
+        <item>Þú tókst rétta ákvörðun þegar þig langaði ekki til þess.</item>
+        <item>Þetta er líf þitt, stýrt af þér.</item>
+        <item>Það er orðið erfitt að blekkja þig.</item>
+        <item>Athygli þín á eiganda og hann er vakandi.</item>
+        <item>Þú hagaðir þér rétt í þessu eins og sá sem hugsar vel um sig.</item>
+        <item>Áætlunin er þín. Hún virkar núna.</item>
+        <item>Þú ert summa lítilla ákvarðana þinna.</item>
+        <item>Enginn tekur af þér síðasta orðið.</item>
+        <item>Þú ræður yfir tíma þínum.</item>
+        <item>Þetta virkar af því að þú vildir að það virkaði.</item>
+        <item>Þú ert stærri en vaninn sem vill vera stærri en þú.</item>
+        <item>Enn ein. Svona vex summan.</item>
+        <item>Smátt og endurtekið vinnur stórt og sjaldgæft.</item>
+        <item>Þú bættir við enn einu stigi.</item>
+        <item>Enginn breytist í einu vetfangi. Breytingin verður í dögum eins og í dag.</item>
+        <item>Þetta er þúsundasti hluti af öðru lífi.</item>
+        <item>Einn góður dagur breytir engu. Hundrað góðir dagar breyta öllu.</item>
+        <item>Þú ert að byggja upp samfellu.</item>
+        <item>Framfarir líta nær aldrei út eins og framfarir innan frá.</item>
+        <item>Summa þessara vala er stærri en hvert þeirra.</item>
+        <item>Staðfesta er leiðinleg og hún virkar.</item>
+        <item>Enn einn steinn í múrinn.</item>
+        <item>Þú ert að æfa eitthvað sem endist.</item>
+        <item>Endurtekið nógu oft verður þetta sjálfvirkt.</item>
+        <item>Enginn sér þennan sigur en hann telur jafn mikið.</item>
+        <item>Þú ert nokkrar vikur frá því að finna ekki einu sinni fyrir löngun.</item>
+        <item>Í dag telur. Á morgun mun líka telja.</item>
+        <item>Keðja er búin til úr hlekkjum eins og þessum.</item>
+        <item>Nýi vaninn er skrifaður núna.</item>
+        <item>Hver endurtekning losar aðeins um gamla vanann.</item>
+        <item>Þú hefur gert þetta áður. Gerðu það aftur.</item>
+        <item>Hægt er hraði þess sem endist.</item>
+        <item>Breytingin gerist fjarri augum.</item>
+        <item>Þú ert að safna einhverju ósýnilegu og raunverulegu.</item>
+        <item>Enn einn dagur í rétta átt.</item>
+        <item>Árangurinn kemur síðar. Valið er í dag.</item>
+        <item>Eitt val í einu er leiðin.</item>
+        <item>Þú ert nær en þú varst í gær.</item>
+        <item>Það þarf ekki að vera fullkomið. Það þarf að vera oft.</item>
+        <item>Ferillinn hækkar hægt og svo hratt.</item>
+        <item>Þú ert mitt í ferlinu. Svona er það.</item>
+        <item>Hvert lítið nei byggir stórt já.</item>
+        <item>Ekkert af þessu er dramatískt. Þess vegna virkar það.</item>
+        <item>Leiðin er gerð úr skrefum eins og þessu.</item>
+        <item>Þú ert að búa til nýja útgáfu af daglegu lífi.</item>
+        <item>Þetta virðist auðvelt eftir mánuð.</item>
+        <item>Endurtekning breytir ákvörðun í lífsmáta.</item>
+        <item>Þú styrktir nýju leiðina rétt í þessu.</item>
+        <item>Hundrað prósent er auðveldara en níutíu og átta.</item>
+        <item>Rjúfðu ekki röðina í dag.</item>
+        <item>Þú ert að vinna leiðinlega hlutann, sem er sá sem telur.</item>
+        <item>Við finnum ekki fyrir breytingunni. Við sjáum hana síðar.</item>
+        <item>Enn einn múrsteinn lagður.</item>
+        <item>Þú ert að kenna heilanum að búast við einhverju öðru.</item>
+        <item>Að halda áfram er öll tæknin.</item>
+        <item>Enginn svona sigur er lítill þegar allt er talið.</item>
+        <item>Þú þarft ekki að hlaupa. Þú þarft að stoppa ekki.</item>
+        <item>Þetta er þegar orðið auðveldara og þú tókst ekki eftir því.</item>
+        <item>Ein vika af þessu breytir deginum þínum.</item>
+        <item>Þú ert að móta nýja braut í huganum.</item>
+        <item>Hvert skipti telur, jafnvel þegar það virðist ekki gera það.</item>
+        <item>Enginn klappar en þetta virkar.</item>
+        <item>Uppsöfnunin er hljóðlát og óstöðvandi.</item>
+        <item>Þú ert nú þegar sterkari í þessu en í síðasta mánuði.</item>
+        <item>Gott val í dag auðveldar það á morgun.</item>
+        <item>Svona lítur samkvæmni út innan frá.</item>
+        <item>Enn einn dagur af uppsöfnuðu forskoti.</item>
+        <item>Þú ert á leiðinni og leiðin er löng. Það er í lagi.</item>
+        <item>Það sem er endurtekið verður auðvelt.</item>
+        <item>Þú styrktir rétt í þessu þann sem þú ert að verða.</item>
+        <item>Reikningurinn er þér í hag í dag.</item>
+        <item>Smá ávinningur safnast upp án þess að spyrja um leyfi.</item>
+        <item>Þetta snýst ekki um daginn í dag. Það snýst um summuna.</item>
+        <item>Þú vinnur ósýnilegu vinnuna.</item>
+        <item>Haltu áfram. Það er bókstaflega leyndarmálið.</item>
+        <item>Hver svona dagur léttir byrðina örlítið.</item>
+        <item>Gamli vaninn missir pláss núna.</item>
+        <item>Þú vökvar eitthvað sem er ekki enn sprottið.</item>
+        <item>Breytingin er að gerast þótt hún sjáist ekki.</item>
+        <item>Einu sinni enn. Þetta var alltaf bara þetta.</item>
+        <item>Þú ert að byggja upp varasjóð af góðum dögum.</item>
+        <item>Þetta verður eðlilegt með tímanum.</item>
+        <item>Þú valdir aftur. Og aftur telur.</item>
+        <item>Eftir mánuð af þessu ertu önnur manneskja.</item>
+        <item>Áreynsla dagsins hverfur. Árangurinn situr eftir.</item>
+        <item>Þú ert ekki lengur sú manneskja sem byrjaði á þessu.</item>
+        <item>Að gera alltaf er meira virði en að gera mikið.</item>
+        <item>Hver dagur er atkvæði um þann sem þú vilt vera.</item>
+        <item>Þú leyfir nýja vananum að vinna land.</item>
+        <item>Þetta þarf ekki að vera hetjudáð. Það þarf bara að gerast.</item>
+        <item>Þú styrktir rétt í þessu réttu leiðina.</item>
+        <item>Endurtekning er leiðin sem heilinn lærir allt.</item>
+        <item>Summa dagsins og gærdagsins er þegar mikil.</item>
+        <item>Þér gengur vel jafnvel þegar þú finnur það ekki.</item>
+        <item>Framfarir búa í leiðinlegu endurtekningunum.</item>
+        <item>Enn eitt stutt skref í átt að langri leið.</item>
+        <item>Þú ert að gera þetta eðlilegt.</item>
+        <item>Eitt gott verk, endurtekið oft, er það sem stendur eftir.</item>
+        <item>Styrkurinn kemur af því að gera aftur, ekki af því að gera af krafti.</item>
+        <item>Þú styttir leiðina fyrir morgundaginn.</item>
+        <item>Enn eitt. Bara það. Og það nægir.</item>
+        <item>Þú skilur eftir slóð af góðum ákvörðunum.</item>
+        <item>Staðfesta breytir áreynslu í sjálfsmynd.</item>
+        <item>Hver dagur telur sem heill dagur.</item>
+        <item>Þú ert í langa leiknum og vinnur hann.</item>
+        <item>Þetta verður að því hver þú ert án þess að þú takir eftir.</item>
+        <item>Besta fjárfesting dagsins var að eiga sér stað.</item>
+        <item>Þú hélst línunni rétt í þessu.</item>
+        <item>Samfella er sjaldgæfari en hæfileikar.</item>
+        <item>Raunveruleg breyting er alltaf hæg og alltaf þess virði.</item>
+        <item>Enn eitt val í átt að lífi þínu.</item>
+        <item>Augun þín þakka fyrir þetta hlé.</item>
+        <item>Stattu upp og teygðu úr þér. Líkaminn var að biðja um það, ekki skjá.</item>
+        <item>Andaðu djúpt. Það eitt breytir einhverju.</item>
+        <item>Fáðu þér vatn. Það er líklega það sem vantaði.</item>
+        <item>Hálsinn hefur verið skakkur um stund. Réttu úr honum.</item>
+        <item>Svefninn í nótt byrjar á skjánum núna.</item>
+        <item>Að sofa vel er það afkastamesta sem til er.</item>
+        <item>Líkaminn hefur setið kyrr of lengi.</item>
+        <item>Horfðu út í fjarska í tuttugu sekúndur. Augun slaka á.</item>
+        <item>Stuttur göngutúr bætir skapið meira en nokkur straumur.</item>
+        <item>Þreytan sem þú finnur gæti einfaldlega verið skjáþreyta.</item>
+        <item>Líkaminn biður um hreyfingu þegar hugurinn biður um skrun.</item>
+        <item>Ferskt loft leysir það sem skjárinn leysir ekki.</item>
+        <item>Axlirnar niður. Kjálkinn laus.</item>
+        <item>Þú ert að spenna axlirnar án þess að taka eftir því.</item>
+        <item>Tíu mínútur af sól á húðinni gera mikið.</item>
+        <item>Líkaminn hvílist liggjandi, ekki flettandi.</item>
+        <item>Að fara snemma að sofa í kvöld er gjöf til morgundagsins.</item>
+        <item>Líkamsstaðan breyttist síðustu tuttugu mínúturnar. Lagaðu hana.</item>
+        <item>Skjáþreyta er ekki sönn þreyta. Hún er eitthvað annað.</item>
+        <item>Lyftu höndunum. Teygðu. Sjáðu, strax betra.</item>
+        <item>Augun blikka sjaldnar þegar þú flettir. Blikkaðu núna.</item>
+        <item>Líkaminn starfar best með alvöru hléum.</item>
+        <item>Hringur í kringum húsið hreinsar hugann.</item>
+        <item>Hryggurinn kann vel að meta þetta rof.</item>
+        <item>Hvíld er ekki það sama og afþreying.</item>
+        <item>Slæmi svefninn í gær byrjaði á skjá eins og þessum.</item>
+        <item>Teygðu hálsinn til beggja hliða. Það tekur tíu sekúndur.</item>
+        <item>Hreyfing minnkar kvíða betur en efni.</item>
+        <item>Líkaminn er eina húsið sem þú átt.</item>
+        <item>Vatn, birta og hreyfing. Það er næstum alltaf það.</item>
+        <item>Skjárinn þreytir jafnvel þegar hann virðist hvíla.</item>
+        <item>Lokaðu augunum eitt augnablik. Bara það.</item>
+        <item>Þú andar grunnt. Andaðu djúpt þrisvar sinnum.</item>
+        <item>Sturta lagar fleira en maður heldur.</item>
+        <item>Líkaminn hefur verið á sama stað of lengi.</item>
+        <item>Raunveruleg hvíld er án skjás.</item>
+        <item>Tuttugu mínútna göngutúr breytir öllum deginum.</item>
+        <item>Hugurinn er þungur af því að líkaminn er kyrr.</item>
+        <item>Þurr augu, stífar axlir. Hefurðu tekið eftir því.</item>
+        <item>Tvær mínútur á fótum endurræsa meira en ein fletting.</item>
+        <item>Líkaminn biður um svefn og hugurinn um örvun. Hlustaðu á líkamann.</item>
+        <item>Skjáljósið truflar svefninn í margar klukkustundir.</item>
+        <item>Teygðu úr fótunum. Það er fljótlegt og virkar.</item>
+        <item>Þú átt skilið hvíld sem hvílir.</item>
+        <item>Hreyfing er ódýrasta þunglyndislyf sem til er.</item>
+        <item>Líkaminn mun muna eftir þessari góðu nótt.</item>
+        <item>Hæg öndun róar hraðar en nokkurt myndband.</item>
+        <item>Er þetta svengd eða leiði? Finndu út hvort.</item>
+        <item>Líkaminn jafnar sig þegar hugurinn stoppar.</item>
+        <item>Tuttugu sekúndur út um gluggann.</item>
+        <item>Úlnliðurinn og þumallinn þurfa frí.</item>
+        <item>Skjáþreyta hverfur við göngu.</item>
+        <item>Svefninn er þar sem minnið raðar sér upp. Verndaðu hann.</item>
+        <item>Þú þarft minni örvun, ekki meiri.</item>
+        <item>Tveggja mínútna teygja er meira virði en tíu mínútna myndband.</item>
+        <item>Líkaminn er að gefa þér merki núna.</item>
+        <item>Loft, vatn og hreyfing. Uppskriftin hefur ekki breyst.</item>
+        <item>Leggstu á gólfið í eina mínútu. Í alvöru.</item>
+        <item>Skjárinn heldur þér vakandi þegar þú þarft að sofa.</item>
+        <item>Líkaminn biður um hlé og höndin um skjá. Gefðu hléið.</item>
+        <item>Augun hafa unnið síðan í morgun.</item>
+        <item>Vel sofin nótt breytir heiminum.</item>
+        <item>Stattu upp. Bara stattu upp. Það er nóg.</item>
+        <item>Þú munt sofa betur vegna þessa vals.</item>
+        <item>Líkaminn þakkar fyrir það sem huganum þykir leiðinlegt.</item>
+        <item>Teygðu bakið. Það er að biðja um það.</item>
+        <item>Raunveruleg hvíld er þögn, ekki önnur örvun.</item>
+        <item>Líkaminn hefur sinn eigin takt og skjárinn virðir hann ekki.</item>
+        <item>Horfðu á sjóndeildarhringinn. Augun þurfa fjarlægð.</item>
+        <item>Spennan í kjálkanum fer ekki af því að fletta.</item>
+        <item>Hversu lengi hefurðu setið aftur.</item>
+        <item>Hreyfing færir skýrleika. Hún hefur alltaf gert það.</item>
+        <item>Drekktu vatn áður en þú ákveður nokkuð.</item>
+        <item>Glataður svefn endurheimtist ekki með efni.</item>
+        <item>Líkaminn virkar vel þegar þú leyfir honum það.</item>
+        <item>Stuttur lúr gefur meira en klukkutími í straumnum.</item>
+        <item>Að anda djúpt kostar ekkert og virkar strax.</item>
+        <item>Skjárinn herðir að líkamanum án þess að láta vita.</item>
+        <item>Þú ert þreyttari en þú þyrftir að vera.</item>
+        <item>Stattu upp og líttu út um gluggann. Fimm sekúndur.</item>
+        <item>Líkaminn þróaðist ekki til að sitja kyrr og stara á ljós.</item>
+        <item>Teygðu úr fingrunum. Þeir hafa unnið mikið í dag.</item>
+        <item>Kvöldið verður betra án skjás fyrir svefninn.</item>
+        <item>Hvíld er ekki það sem skjárinn býður.</item>
+        <item>Líkaminn biður um náttúru og fær pixla.</item>
+        <item>Eitt vatnsglas og þrjú andköf. Gerðu það núna.</item>
+        <item>Spennan í öxlinni kemur af því hvernig þú heldur á símanum.</item>
+        <item>Líkaminn slakar á þegar athyglin hættir að hlaupa.</item>
+        <item>Þér líður betur eftir fimm mínútur.</item>
+        <item>Hreyfing breytir efnafræðinni. Skjár breytir bara umræðuefni.</item>
+        <item>Augun þín eiga skilið alvöru hvíld.</item>
+        <item>Gönguferð raðar hugsunum betur en straumurinn.</item>
+        <item>Blátt ljós núna er slæmur svefn seinna.</item>
+        <item>Þú þarft hvíld, ekki meiri upplýsingar.</item>
+        <item>Tvö djúp andköf áður en nokkuð annað.</item>
+        <item>Líkaminn er vitrari en hvötin.</item>
+        <item>Stattu upp og gakktu fram í eldhús. Það er nóg.</item>
+        <item>Hvíldu líkamann og hugurinn hvílist með.</item>
+        <item>Það er fólk af holdi og blóði nálægt þér núna.</item>
+        <item>Eitt samtal er meira virði en þrjú hundruð færslur.</item>
+        <item>Hringdu í einhvern. Með röddinni.</item>
+        <item>Einhver sem þú elskar er í einum skilaboðum frá þér.</item>
+        <item>Fólkið í straumnum veit ekki að þú ert til.</item>
+        <item>Þau sem eru í sama herbergi og þú eiga meira skilið.</item>
+        <item>Faðmlag lagar það sem ekkert myndband lagar.</item>
+        <item>Sendu skilaboð til þess sem þú hefur verið að gleyma.</item>
+        <item>Mömmu þinni þætti vænt um símtal í dag.</item>
+        <item>Í raunveruleikanum er fólk sem svarar í alvöru.</item>
+        <item>Vinurinn sem hvarf getur enn komið aftur. Hafðu samband.</item>
+        <item>Nærvera er það sjaldgæfasta sem þú getur gefið.</item>
+        <item>Einhver bíður eftir að þú lítir upp.</item>
+        <item>Ein góð spurning er meira virði en klukkutími af skruni.</item>
+        <item>Fólkið í kringum þig er ekki með reiknirit.</item>
+        <item>Þú ert að missa af samtali sem er í gangi.</item>
+        <item>Enginn í straumnum verður þar þegar þú þarft á því að halda.</item>
+        <item>Kaffibolli með öðrum breytir vikunni meira en nokkur straumur.</item>
+        <item>Félagsskapur þinn er gjöf. Afhentu hana.</item>
+        <item>Líttu á þann sem er með þér.</item>
+        <item>Vináttu þarf að vökva. Vökvaðu hana í dag.</item>
+        <item>Manneskjan við hliðina á þér er raunveruleg.</item>
+        <item>Þeir sem elska þig þurfa ekki læk.</item>
+        <item>Þú manst síðasta langa samtalið sem þú áttir.</item>
+        <item>Bjóddu einhverjum í göngu.</item>
+        <item>Bestu minningarnar eru sjaldan með skjá.</item>
+        <item>Þú ert félagsskapur einhvers núna.</item>
+        <item>Sendu talskilaboð til þess sem þú elskar.</item>
+        <item>Fólk breytist þegar þú veitir því athygli.</item>
+        <item>Nærvera þín skiptir einhvern máli í dag.</item>
+        <item>Gott samtal bætir þig. Straumurinn gerir það ekki.</item>
+        <item>Einhver þarf að vita að þú hugsaðir til hans.</item>
+        <item>Hittu einhvern í stað þess að fylgjast með einhverjum.</item>
+        <item>Sterk tengsl eru gerð úr tíma saman.</item>
+        <item>Þú getur verið ástæðan fyrir góðum degi hjá öðrum.</item>
+        <item>Sá í fjölskyldunni sem þú hefur ekki talað við í marga mánuði.</item>
+        <item>Ein einlæg skilaboð eru meira virði en þúsund áhorf.</item>
+        <item>Að vera saman er annað en að vera tengd.</item>
+        <item>Þau sem eru með þér eiga skilið alla þína athygli.</item>
+        <item>Bjóddu einhverjum í kvöldmat.</item>
+        <item>Raunverulegt fólk hefur andlit, rödd og takmarkaðan tíma.</item>
+        <item>Þú ert ómissandi fyrir einhvern. Láttu sjá þig.</item>
+        <item>Mikilvægasta samtal dagsins hefur ekki enn átt sér stað.</item>
+        <item>Nálægt þér er einhver án skjás líka.</item>
+        <item>Að hlusta á einhvern er auðveldasta leiðin til að ná hylli.</item>
+        <item>Vinur þinn gengur í gegnum eitthvað. Spurðu.</item>
+        <item>Barnið þitt, hundurinn þinn, nágranninn. Einhver er hér.</item>
+        <item>Samfélagsmiðlar tengja þig við marga en engan þeirra.</item>
+        <item>Eitt síðdegi með öðrum jafngildir mánuði í straumnum.</item>
+        <item>Þú getur fengið einhvern til að hlæja í dag. Í alvöru.</item>
+        <item>Full nærvera er afar sjaldgæf. Þú átt eina til að gefa.</item>
+        <item>Einhver talaði um þig í vikunni. Svaraðu í sömu mynt.</item>
+        <item>Enginn í straumnum saknar þín.</item>
+        <item>Fimm mínútna símtal getur breytt degi einhvers.</item>
+        <item>Fólkið sem skiptir máli skrifar ekki færslur um það.</item>
+        <item>Þú ert einni spurningu frá góðu samtali.</item>
+        <item>Alvöru félagsskapur er án auglýsinga á milli.</item>
+        <item>Sú manneskja sem styður þig alltaf. Þakkaðu henni í dag.</item>
+        <item>Að horfast í augu er enn besta tæknin.</item>
+        <item>Fjölskyldan þín er ekki straumur. Flettu ekki í gegnum hana.</item>
+        <item>Bjóddu einhverjum að gera ekkert saman.</item>
+        <item>Þau sem eru langt í burtu eiga líka skilið fréttir af þér.</item>
+        <item>Til er fólk sem þykir vænt um þig utan þessa skjás.</item>
+        <item>Erfitt samtal sem er frestað vegur þyngra en straumurinn.</item>
+        <item>Njóttu þeirra sem eru nálægt á meðan þau eru það.</item>
+        <item>Fólk man eftir þeim sem voru til staðar.</item>
+        <item>Bjóddu vini í kaffi án nokkurrar ástæðu.</item>
+        <item>Einhvers staðar vill einhver heyra af þér.</item>
+        <item>Þú getur hlustað á einhvern í alvöru núna.</item>
+        <item>Tengsl myndast með því að horfa, ekki fletta.</item>
+        <item>Athygli þín er besta gjöfin til þeirra sem þú elskar.</item>
+        <item>Ein manneskja er meira virði en einn prófíll.</item>
+        <item>Samtalið sem þú skuldar einhverjum. Það er í dag.</item>
+        <item>Að vera til staðar er form af ást.</item>
+        <item>Þú hefur tíma fyrir einhvern núna.</item>
+        <item>Enginn kvaddi lífið með ósk um fleiri fylgjendur.</item>
+        <item>Hittu einhvern aftur í stað þess að fylgjast með úr fjarlægð.</item>
+        <item>Hlýju þarf stundum að segja upphátt.</item>
+        <item>Gamli vinahópurinn er enn til. Hafðu samband.</item>
+        <item>Einhver við hliðina á þér vill spjalla.</item>
+        <item>Samanburður er ekki tenging.</item>
+        <item>Þú getur verið nærvera í dag.</item>
+        <item>Handskrifaður miði. Þvílík hugmynd.</item>
+        <item>Þau sem þekkja þig í alvöru eru ekki í straumnum.</item>
+        <item>Deildu síðdeginu með einhverjum.</item>
+        <item>Fólkið nálægt þér á skilið það sem þú gefur straumnum.</item>
+        <item>Þú skiptir máli fyrir einhvern sem birtir ekkert.</item>
+        <item>Hringdu og spurðu hvernig viðkomandi hefur það í alvöru.</item>
+        <item>Einmanaleiki hverfur ekki með meiri skjá.</item>
+        <item>Færðu þig nær einhverjum í dag.</item>
+        <item>Máltíð saman er meira virði en allt síðdegið.</item>
+        <item>Athygli þín nærir sambönd. Nærðu eitt.</item>
+        <item>Einhver er að hugsa til þín einmitt núna.</item>
+        <item>Segðu einhverjum að þér þyki vænt um hann.</item>
+        <item>Vinátta deyr úr þögn, ekki af rifrildi.</item>
+        <item>Þú átt gott fólk í kringum þig. Njóttu þess.</item>
+        <item>Einhver þarf félagsskap og þú getur veitt hann.</item>
+        <item>Skildu strauminn eftir og finndu fólk.</item>
+        <item>Þau sem elska þig vilja tíma þinn, ekki prófílinn þinn.</item>
+        <item>Þú getur bætt dag einhvers á fimm mínútum.</item>
+        <item>Að skapa þreytir og fyllir. Að neyta hvílir og tæmir.</item>
+        <item>Þú hefur meira að segja en að sjá.</item>
+        <item>Einhver er að skapa það sem þú ætlaðir að horfa á.</item>
+        <item>Skrifaðu eina línu. Bara eina.</item>
+        <item>Heimurinn á of marga neytendur og of fáa höfunda.</item>
+        <item>Hugmyndin þín bíður enn.</item>
+        <item>Þú getur gert eitthvað í stað þess að horfa á það sem aðrir gerðu.</item>
+        <item>Allt gott var gert af einhverjum sem var ekki að fletta.</item>
+        <item>Hugmyndin þín er meira virði en allur straumur dagsins.</item>
+        <item>Byrjaðu á því sem þú frestar. Fimm mínútur duga.</item>
+        <item>Verkefnið sem situr kyrrt þarf bara smá ýtingu.</item>
+        <item>Þú hefur hæfileika sem snúast ekki um að fletta.</item>
+        <item>Gerðu eitthvað í dag sem var ekki til í gær.</item>
+        <item>Að skapa er skemmtilegra en að horfa, það kostar bara að byrja.</item>
+        <item>Auða minnisbókin bítur ekki.</item>
+        <item>Besta efnið er það sem þú býrð til.</item>
+        <item>Þú lærir meira af því að gera en að horfa.</item>
+        <item>Spilaðu á hljóðfæri, teiknaðu, eldaðu. Gerðu eitthvað með höndunum.</item>
+        <item>Sköpunargáfan hverfur þegar þú fyllir hugann af straumi.</item>
+        <item>Til er verk eftir þig sem enginn hefur skapað enn.</item>
+        <item>Byrjaðu illa. Það batnar síðar.</item>
+        <item>Ein málsgrein á dag verður að bók.</item>
+        <item>Þú átt sögu að segja.</item>
+        <item>Að gera hluti er mótefni gegn tómleika.</item>
+        <item>Leiðindi eru upphaf sköpunar. Leyfðu þeim að vera til.</item>
+        <item>Hugurinn finnur upp þegar þú hættir að fylla hann.</item>
+        <item>Námskeiðið sem þú borgaðir fyrir bíður.</item>
+        <item>Þú getur lært eitthvað nýtt í dag.</item>
+        <item>Að neyta er auðvelt. Þess vegna er það svona lítið fullnægjandi.</item>
+        <item>Þig langar að gera eitthvað. Byrjaðu núna.</item>
+        <item>Fimm mínútur af æfingu eru meira virði en klukkutími af myndböndum.</item>
+        <item>Uppskriftin sem þig langar að prófa.</item>
+        <item>Hugmyndir koma í þögninni, ekki í skruninu.</item>
+        <item>Þú getur verið höfundurinn í stað áhorfandans.</item>
+        <item>Lítið verkefni breytir vikunni.</item>
+        <item>Skrifaðu hvað þú myndir gera ef þú hefðir tíma. Þú hefur hann.</item>
+        <item>Hendurnar kunna ýmislegt. Notaðu þær.</item>
+        <item>Gerðu eitthvað ófullkomið í dag.</item>
+        <item>Að læra er skemmtilegra en að láta skemmta sér.</item>
+        <item>Það sem þú skapar situr eftir. Það sem þú flettir hverfur.</item>
+        <item>Hljóðfærið sem stendur úti í horni.</item>
+        <item>Þú átt ókláruð verkefni sem bíða þín.</item>
+        <item>Að skapa er andstaða þess að bera sig saman við aðra.</item>
+        <item>Byrjaðu smátt. Byrjaðu í dag.</item>
+        <item>Ein blaðsíða á dag er allt annað líf.</item>
+        <item>Ímyndunaraflið þarf autt rými.</item>
+        <item>Gerðu eitthvað sem þú munt þakka þér fyrir á morgun.</item>
+        <item>Ánægjan af því að skapa á sér enga hliðstæðu.</item>
+        <item>Þú getur meira en bara að neyta.</item>
+        <item>Áhugamálið sem þú lagðir til hliðar er enn til.</item>
+        <item>Tuttugu mínútna æfing eru tuttugu mínútur af framförum.</item>
+        <item>Enginn verður góður í neinu með því að fletta straumnum.</item>
+        <item>Næsta færni þín byrjar einhvern tímann. Láttu það vera núna.</item>
+        <item>Gerðu það, jafnvel þótt enginn sjái.</item>
+        <item>Þig langar að læra eitthvað. Byrjaðu.</item>
+        <item>Að neyta er að horfa á líf annarra.</item>
+        <item>Þú hefur hendur, huga og tíma. Meira þarftu ekki.</item>
+        <item>Fyrsta uppkastið er alltaf slæmt. Gerðu það samt.</item>
+        <item>Tungumálið sem þig langaði að tala.</item>
+        <item>Að skapa er leiðin til að breyta leiðindum í gleði.</item>
+        <item>Svolítið á dag byggir hvaða færni sem er.</item>
+        <item>Þú ert með eitthvað innra með þér sem vill komast út.</item>
+        <item>Skrifaðu um daginn þinn. Bara fyrir þig.</item>
+        <item>Sköpunargáfan bíður eftir að þú slökkvir á hávaðanum.</item>
+        <item>Gerðu eitthvað með höndunum í dag.</item>
+        <item>Gleðin af því að klára eitthvað á sér enga hliðstæðu.</item>
+        <item>Verkefnið sem kveikti í þér. Það getur enn gert það.</item>
+        <item>Þú þarft ekki að kunna til að byrja.</item>
+        <item>Eldaðu eitthvað nýtt. Það er líka sköpun.</item>
+        <item>Lífið verður áhugaverðara þegar þú gerir hluti.</item>
+        <item>Enginn fæðist kunnandi. Allir byrja illa.</item>
+        <item>Hugmyndin sem kom um nóttina. Skrifaðu hana niður.</item>
+        <item>Þú getur komið einhverjum að gagni með því sem þú kannt.</item>
+        <item>Gerðu svolítið í dag og svolítið á morgun.</item>
+        <item>Besti tíminn til að byrja er liðinn. Næstbesti er núna.</item>
+        <item>Verkið þitt gerir sig ekki sjálft.</item>
+        <item>Að æfa er leiðinlegt þar til það verður gott.</item>
+        <item>Þig langar að skapa. Straumurinn vill bara að þú horfir.</item>
+        <item>Teikningin sem þú byrjaðir á.</item>
+        <item>Að gera er fljótasta leiðin til að læra.</item>
+        <item>Þú átt rödd. Notaðu hana í eitthvað.</item>
+        <item>Að laga eitthvað heima er líka sköpun.</item>
+        <item>Næsti sigur þinn byrjar á venjulegum degi eins og í dag.</item>
+        <item>Gerðu eitthvað sem aðeins þú myndir gera.</item>
+        <item>Straumurinn er endalaus. Verkið þitt hefur endi og þess vegna skiptir það máli.</item>
+        <item>Þú getur gróðursett eitthvað í dag. Bókstaflega.</item>
+        <item>Taflan, áætlunin, draumurinn.</item>
+        <item>Að skapa er vinna og það er einmitt það sem gefur gildi.</item>
+        <item>Þú ert áhugaverðari en nokkur straumur.</item>
+        <item>Lærðu í tuttugu mínútur. Það er lítið og það er mikið.</item>
+        <item>Forvitnin verður betri þegar hún breytist í æfingu.</item>
+        <item>Lagið sem þig langaði að læra.</item>
+        <item>Gerðu eitthvað gagnlegt og einfalt núna.</item>
+        <item>Þú hefur eitthvað gott fram að færa fyrir heiminn.</item>
+        <item>Byrjaðu á því sem þú munt þakka þér fyrir að hafa byrjað á.</item>
+        <item>Persónulegt verkefni breytir sambandinu við tímann.</item>
+        <item>Að skapa er besta leiðin til að nýta hugann.</item>
+        <item>Þú getur klárað eitthvað í dag.</item>
+        <item>Leggðu hendurnar á eitthvað raunverulegt.</item>
+        <item>Ekkert kemur í staðinn fyrir tilfinninguna að hafa gert.</item>
+        <item>Það er í lagi að hafa komið hingað. Andaðu núna.</item>
+        <item>Enginn er að telja neitt. Haltu bara áfram.</item>
+        <item>Þér gengur vel, jafnvel þótt það virðist ekki svo.</item>
+        <item>Engin flýtir og engar kröfur. Bara hlé.</item>
+        <item>Þetta er ekkert próf. Þetta er bara vinaleg áminning.</item>
+        <item>Þú ert að reyna og það er nóg.</item>
+        <item>Allt í lagi. Lokaðu og haltu áfram með daginn.</item>
+        <item>Hér snýst ekkert um að gera alltaf rétt.</item>
+        <item>Þú átt skilið léttleika í dag.</item>
+        <item>Ekkert drama. Bara augnablik til að anda.</item>
+        <item>Þetta er rólegur staður. Dveldu hér augnablik.</item>
+        <item>Þú gerir þitt besta. Það telur.</item>
+        <item>Engar kröfur hér. Bara umhyggja.</item>
+        <item>Andaðu. Ekkert er að.</item>
+        <item>Það er þegar gott að þú skyldir koma hingað.</item>
+        <item>Enginn dæmir. Þú ættir ekki að gera það heldur.</item>
+        <item>Allt er í lagi. Haltu áfram.</item>
+        <item>Eitt skref í einu er réttur hraði.</item>
+        <item>Þetta þarf ekki að vera fullkomið hjá þér.</item>
+        <item>Hægt er líka að ganga.</item>
+        <item>Þessi skjár gerir engar kröfur til þín.</item>
+        <item>Sýndu sjálfum þér mildi núna.</item>
+        <item>Það er í lagi að langa. Það er hluti af þessu.</item>
+        <item>Þú hugsar vel um þig. Það er fallegt.</item>
+        <item>Engin viðvörun, enginn flýtir, enginn skellur.</item>
+        <item>Þú ert manneskja. Það er leyfilegt.</item>
+        <item>Þú þarft ekki að útskýra þig fyrir neinum.</item>
+        <item>Andaðu djúpt. Þetta er liðið hjá.</item>
+        <item>Hér er öruggt að vera.</item>
+        <item>Það er í lagi þótt dagurinn sé erfiður.</item>
+        <item>Enginn dagur er eins og annar. Þessi ekki heldur.</item>
+        <item>Þú ert á réttri leið, jafnvel þótt hún sé hæg.</item>
+        <item>Slakaðu aðeins á kröfunum.</item>
+        <item>Allt er í lagi. Bara einn andardráttur.</item>
+        <item>Þú þarft ekki alltaf að vera í toppformi.</item>
+        <item>Mildi í eigin garð virkar betur en harka.</item>
+        <item>Þessi stund líður hjá í ró og næði.</item>
+        <item>Þú hefur þegar gert erfiða hlutann í dag.</item>
+        <item>Ekkert áríðandi. Ekkert alvarlegt. Bara hlé.</item>
+        <item>Brostu. Þetta er minna en það virðist.</item>
+        <item>Þú ert að reyna og það er það sem skiptir máli.</item>
+        <item>Engin skýrslugjöf. Haltu bara áfram.</item>
+        <item>Allt er í lagi. Í alvöru.</item>
+        <item>Þú átt skilið léttan dag.</item>
+        <item>Andaðu. Heimurinn heldur áfram að snúast.</item>
+        <item>Enginn flýtir í dag.</item>
+        <item>Þú ert í friði með þetta val.</item>
+        <item>Það er í lagi að byrja upp á nýtt eins oft og þarf.</item>
+        <item>Þetta er staður án krafna.</item>
+        <item>Hafðu þolinmæði með ferlinu.</item>
+        <item>Ekkert af þessu er orðið of seint.</item>
+        <item>Það er í lagi að vera ekki á hundrað prósent.</item>
+        <item>Þetta hlé er umhyggja, ekki leiðrétting.</item>
+        <item>Þú getur einfaldlega haldið áfram núna.</item>
+        <item>Engin spenna. Bara augnablik.</item>
+        <item>Það er í lagi þótt þetta hafi verið sjálfvirkt.</item>
+        <item>Þú þarft enga ástæðu til að hafa það gott.</item>
+        <item>Andaðu og haltu áfram. Svo einfalt er það.</item>
+        <item>Ekkert vandamál hér.</item>
+        <item>Þú gerir þetta rétt.</item>
+        <item>Allt í lagi, í alvöru. Farðu í friði.</item>
+        <item>Þessi stund er þín til að hvílast.</item>
+        <item>Fleiri glíma við þetta. Þú stendur ekki í þessu einu og sér.</item>
+        <item>Allt er rólegt. Haltu áfram með daginn.</item>
+        <item>Engin þyngsli. Bara áminning.</item>
+        <item>Þú ert nú þegar nóg.</item>
+        <item>Róin sem þú leitar að er ekki í straumnum.</item>
+        <item>Allt er í lagi með þig.</item>
+        <item>Hvíldu hugann í eina sekúndu.</item>
+        <item>Þú átt skilið þessa umhyggju.</item>
+        <item>Ekkert þarf að leysa núna.</item>
+        <item>Andaðu einu sinni. Haltu svo áfram.</item>
+        <item>Þér líður vel. Bara það.</item>
+        <item>Engar kröfur, engin reikningsskil, engin stigatafla.</item>
+        <item>Ein stund af ró í miðjum degi.</item>
+        <item>Þú mátt sýna þér mildi núna.</item>
+        <item>Allt er friðsælt.</item>
+        <item>Enginn flýtir með neitt.</item>
+        <item>Þú gerðir það sem þú gast í dag.</item>
+        <item>Allt í lagi. Á morgun heldur áfram.</item>
+        <item>Þetta augnablik er bara einn andardráttur.</item>
+        <item>Hér er öruggt og það nægir.</item>
+        <item>Hér er enginn dómur.</item>
+        <item>Andaðu bara og farðu að lifa.</item>
+        <item>Þú átt skilið ró í dag.</item>
+        <item>Allt er í lagi á hvaða hraða sem er.</item>
+        <item>Hvíldu hugann aðeins.</item>
+        <item>Hér er þér alltaf tekið vel.</item>
+        <item>Engin skelfing. Bara stutt stopp.</item>
+        <item>Lífið er ekki kappakstur í dag.</item>
+        <item>Þú ert nóg eins og þú ert.</item>
+        <item>Það er í lagi að hafa reynt.</item>
+        <item>Ekkert hér er á móti þér.</item>
+        <item>Andaðu og haltu áfram rólega.</item>
+        <item>Þú mátt vera eins og þú ert.</item>
+        <item>Þetta er stund friðar.</item>
+        <item>Engar kröfur. Haltu áfram létt í lund.</item>
+        <item>Þú hefur leyfi til að hvílast.</item>
+        <item>Allt er rólegt hér.</item>
+        <item>Taktu því rólega. Dagurinn bíður.</item>
+        <item>Mildi í eigin garð er styrkur.</item>
+        <item>Hvað myndir þú gera núna ef þetta app væri ekki til.</item>
+        <item>Ertu hér af löngun eða vana.</item>
+        <item>Hvað varstu aftur að leita að.</item>
+        <item>Skiptir þetta máli á morgun í býtið.</item>
+        <item>Þú munt muna eftir því sem þú sæir núna.</item>
+        <item>Hvað varstu að gera áður en þú tókst upp símann.</item>
+        <item>Hversu miklum tíma viltu verja í þetta í dag.</item>
+        <item>Er það leiði eða þreyta.</item>
+        <item>Hvað gæti síðdegið þitt orðið í staðinn.</item>
+        <item>Er það þess virði.</item>
+        <item>Opnaðir þú þetta af einhverri sérstakri ástæðu.</item>
+        <item>Hverju myndir þú fresta enn einu sinni ef þú færir inn núna.</item>
+        <item>Hver viltu vera eftir eitt ár.</item>
+        <item>Hvað myndi í alvöru gera þér gott núna.</item>
+        <item>Ertu að flýja eitthvað.</item>
+        <item>Hvað með að gera það sem þú hefur lengi frestað.</item>
+        <item>Hvað myndi gerast ef þú lokaðir einfaldlega.</item>
+        <item>Þú átt eitthvað betra að gera. Hvað er það.</item>
+        <item>Er þetta hvíld eða flótti.</item>
+        <item>Hvað myndi þú á morgun biðja þig um að gera.</item>
+        <item>Er það svengd, syfja eða leiði.</item>
+        <item>Hvenær skildi straumurinn þig síðast eftir í betra ástandi.</item>
+        <item>Hverju viltu finna fyrir í lok dagsins.</item>
+        <item>Hvað vantar núna.</item>
+        <item>Þarftu þetta eða langar þig bara.</item>
+        <item>Hvaða litli hlutur myndi bæta daginn núna.</item>
+        <item>Hvað myndir þú gera við tvo lausa tíma.</item>
+        <item>Þú veist nú þegar hvað þú ættir að vera að gera.</item>
+        <item>Hver er raunverulegur kostnaður þessara fimmtán mínútna.</item>
+        <item>Viltu þetta, eða er höndin bara laus.</item>
+        <item>Hvað væri best að gera núna.</item>
+        <item>Er allt í lagi hjá þér.</item>
+        <item>Hvað væri best að velja núna, í rólegheitum.</item>
+        <item>Þessi hálftími á eftir að veita þér stolt.</item>
+        <item>Hvað myndir þú gera ef enginn sæi.</item>
+        <item>Er einhver sem þú gætir hringt í núna.</item>
+        <item>Hverju er hugurinn að reyna að forðast.</item>
+        <item>Er síðdegið þitt virði þessa.</item>
+        <item>Þú átt áætlun fyrir daginn. Er þetta hluti af henni.</item>
+        <item>Hvað væri skemmtilegast að gera núna.</item>
+        <item>Þér líður vel, í einlægni.</item>
+        <item>Hvað myndi gera þessa viku þess virði.</item>
+        <item>Er þetta það sem þú vilt eða það sem þú gerir.</item>
+        <item>Hefurðu hugsað um hvað þú vilt gera á morgun.</item>
+        <item>Hversu oft í dag hefurðu tekið upp símann.</item>
+        <item>Hvað myndi veita þér ánægju eftir klukkutíma.</item>
+        <item>Viltu fara inn eða er fingurinn bara á sjálfstýringu.</item>
+        <item>Hvað er mikilvægt sem þú ert að skilja eftir til seinna.</item>
+        <item>Hvað myndi tíu ára gamla ég segja um þetta.</item>
+        <item>Ertu í alvöru að hvílast.</item>
+        <item>Er eitthvað sem þú myndir gera ef þú þyrðir.</item>
+        <item>Hvað vildirðu hafa gert í kvöld.</item>
+        <item>Er þetta meira virði en samtal.</item>
+        <item>Fyrir hvað hefurðu tíma í dag.</item>
+        <item>Hvaða vana viltu hafa eftir hálft ár.</item>
+        <item>Hvað biður í alvöru um athygli þína.</item>
+        <item>Viltu frekar muna eða gleyma þessu síðdegi.</item>
+        <item>Hver væri góð nýting á þessari stund.</item>
+        <item>Ertu hér til að sjá eitthvað eða til að finna ekki eitthvað.</item>
+        <item>Hvað fengi þig til að sofa vel í nótt.</item>
+        <item>Bætir þetta við daginn þinn eða dregur frá.</item>
+        <item>Viltu í alvöru vita hvað er þarna inni.</item>
+        <item>Hvenær gerðirðu síðast eitthvað gott án skjás.</item>
+        <item>Hvað myndir þú gera á síðdegi án nets.</item>
+        <item>Hvað liggur þér á.</item>
+        <item>Hvaða lítið skref gætirðu tekið núna.</item>
+        <item>Hvað þarfnast athygli þinnar meira en þetta.</item>
+        <item>Hefurðu andað djúpt í dag.</item>
+        <item>Hver er áætlunin fyrir næsta klukkutíma.</item>
+        <item>Færir þetta þig nær einhverju sem þú vilt.</item>
+        <item>Myndir þú gera þetta fyrir framan þann sem þú lítur upp til.</item>
+        <item>Hvað gott gerðist í dag.</item>
+        <item>Hversu mikið af deginum hefur farið í skjái.</item>
+        <item>Áttu hugmynd sem bíður.</item>
+        <item>Hvað viltu gera við þessa viku.</item>
+        <item>Er það þess virði að skipta þögn út fyrir hávaða.</item>
+        <item>Ertu að skapa eða neyta í dag.</item>
+        <item>Hvaða einfaldi hlutur myndi gera þér gott núna.</item>
+        <item>Hvað myndir þú segja við vin í þinni stöðu.</item>
+        <item>Þú hefur fimm mínútur. Fyrir hvað.</item>
+        <item>Hvað er í alvöru að angra þig.</item>
+        <item>Er þetta það besta sem þú getur gert núna.</item>
+        <item>Þú stjórnar þessari stund.</item>
+        <item>Hver væri ákvörðunin sem veitti þér stolt.</item>
+        <item>Hvað viltu hafa gert þegar dagurinn er á enda.</item>
+        <item>Manstu hvers vegna þú settir þetta upp.</item>
+        <item>Hvað með að bíða og sjá hvort þig langar enn.</item>
+        <item>Hvað myndir þú gera ef þú hefðir meira hugrekki í dag.</item>
+        <item>Viltu hraðútgáfuna eða góðu útgáfuna af deginum.</item>
+        <item>Hvað er það sem aðeins þú getur gert í dag.</item>
+        <item>Hvað bíður þín úti.</item>
+        <item>Hefurðu þakkað fyrir eitthvað í dag.</item>
+        <item>Hvers virði er næsti hálftími fyrir þig.</item>
+        <item>Hvað viltu taka með þér úr þessari viku.</item>
+        <item>Er þetta áríðandi eða virðist það bara vera.</item>
+        <item>Ertu að gera það sem þú vilt gera.</item>
+        <item>Hver væri góður endir á þessum degi.</item>
+        <item>Hvað myndir þú gera ef þú hefðir hvílst vel.</item>
+        <item>Viltu frekar fletta eða lifa núna.</item>
+        <item>Hvað með að loka og sjá hvað gerist.</item>
+    </string-array>
+</resources>

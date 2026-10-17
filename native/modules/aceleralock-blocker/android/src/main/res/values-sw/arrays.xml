@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Kiswahili: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>Muda usioutumia hapa unarudi wote kwenye maisha yako.</item>
+        <item>Kila dakika nje ya skrini hii ni dakika yako tena.</item>
+        <item>Dakika hizi ishirini zinatosha kwa matembezi.</item>
+        <item>Siku ina nafasi kubwa kuliko inavyoonekana unapoacha kusogeza skrini.</item>
+        <item>Umeokoa kipande cha mchana wako sasa hivi.</item>
+        <item>Saa moja kwa siku ni siku kumi na tano kwa mwaka.</item>
+        <item>Muda haurudi, lakini bado unaweza kuchagua utakavyoutumia.</item>
+        <item>Pumziko hili ni lako. Hakuna anayehitaji kujua ulichofanya nalo.</item>
+        <item>Kuna maisha kamili yanayoendelea nje ya programu hii.</item>
+        <item>Saa inakwenda vilevile pande zote mbili za skrini hii.</item>
+        <item>Umejinunulia muda sasa. Utumie kwa jambo utakalolikumbuka kesho.</item>
+        <item>Hakuna anayefika mwisho wa siku akitamani angesogeza mlisho zaidi.</item>
+        <item>Dakika kumi na tano hapa ni dakika kumi na tano popote pengine.</item>
+        <item>Fikiria ungefanya nini na nusu saa hii miaka kumi iliyopita.</item>
+        <item>Muda wako ndio kitu pekee usichoweza kununua tena.</item>
+        <item>Mchana mzima bado uko wazi mbele yako.</item>
+        <item>Dakika hii inaweza kuwa mwanzo wa kitu kingine.</item>
+        <item>Unajirudishia saa, moja baada ya nyingine.</item>
+        <item>Muda unaookoa hapa haupotei. Unajitokeza mahali pengine.</item>
+        <item>Dakika kumi zinaonekana chache hadi uzijumlishe za mwezi mzima.</item>
+        <item>Maisha huenda kwa kasi ya kawaida, si kwa kasi ya mlisho.</item>
+        <item>Leo una muda zaidi kuliko uliokuwa nao jana saa kama hii.</item>
+        <item>Lile jambo unaloliahirisha linatosha kabisa katika pumziko hili.</item>
+        <item>Pumziko hili ni fupi. Unachofanya nalo huenda kisiwe kifupi.</item>
+        <item>Siku hubeba mambo mengi pale kusogeza skrini kunapokaa pembeni.</item>
+        <item>Umejirudishia usiku uliobaki sasa hivi.</item>
+        <item>Muda ndio sarafu. Umeamua sasa hivi kutoutumia.</item>
+        <item>Mlisho hauishi kamwe. Siku yako inaisha.</item>
+        <item>Nusu saa kwa siku inatosha kitabu kizima kwa mwezi.</item>
+        <item>Hakuna jambo la dharura lililokuwa likikusubiri humo ndani.</item>
+        <item>Muda huu ulikuwa wako tayari. Sasa umerudi kwako.</item>
+        <item>Asubuhi bado inaweza kuzaa matunda ikianza sasa.</item>
+        <item>Hujapoteza chochote. Umepata pumziko.</item>
+        <item>Hakuna anayeturudishia muda. Sisi ndio tunaoushikilia.</item>
+        <item>Dakika hizi zina thamani zaidi nje ya hapa, na tayari unalijua hilo.</item>
+        <item>Kilichokuwa pale bado kipo. Muda wako ndio haubaki.</item>
+        <item>Maisha hujengwa kwa mchana kama huu.</item>
+        <item>Unaweza kumaliza siku ukiwa na kitu ulichofanya badala ya kitu ulichotazama.</item>
+        <item>Saa mbili kwa siku ni mwezi mzima kwa mwaka.</item>
+        <item>Muda unaoulinda leo ndio unaobaki kesho.</item>
+        <item>Hii ndiyo sehemu ya siku ambayo ni wewe tu unayeamua.</item>
+        <item>Hakuna aliyeandika chochote humo kinachostahili mchana wako.</item>
+        <item>Dakika thelathini kwa siku hujenga chochote ndani ya mwaka mmoja.</item>
+        <item>Umejinunulia kipande cha utulivu sasa hivi.</item>
+        <item>Siku hurefuka mlisho unapopungua.</item>
+        <item>Muda huu sasa ni malighafi. Fanya kitu nao.</item>
+        <item>Kuna mradi wako unaosubiri pumziko hili hasa.</item>
+        <item>Unachopata hapa hakionekani kwenye skrini yoyote, ila kwenye maisha yako.</item>
+        <item>Muda wa mapumziko ni adimu. Umeutengeneza sasa hivi.</item>
+        <item>Hakuna aliyeomba mwishoni mwa maisha yake kusogeza skrini mara moja zaidi.</item>
+        <item>Una mchana mzima na bado haujatumika.</item>
+        <item>Mwaka ni machaguo mia tatu sitini na tano kama hili.</item>
+        <item>Pumziko hili ni dogo, lakini ni lako kabisa.</item>
+        <item>Muda hupita vilevile. Tofauti ni kile kinachobaki baadaye.</item>
+        <item>Nusu saa hii sasa haiendeshwi na mazoea tena.</item>
+        <item>Siku yako yote iliyobaki inashukuru kwa kusimama huku.</item>
+        <item>Dakika tano kule hugeuka arobaini bila mtu kugundua.</item>
+        <item>Unajua gharama ya dakika hizo tano. Ndiyo maana uko hapa.</item>
+        <item>Saa unayoilinda sasa ndiyo utakayoitafuta usiku.</item>
+        <item>Hakuna kilichomo kitakachokuwa bora kwa sababu umekiona sasa badala ya baadaye.</item>
+        <item>Umechagua sasa hivi dakika ijayo itakwenda wapi.</item>
+        <item>Muda huu unatosha mazungumzo, matembezi au usingizi mfupi.</item>
+        <item>Siku huleta tija pale saa zinapoacha kuteleza.</item>
+        <item>Wewe ndiye mmiliki pekee wa nusu saa ijayo.</item>
+        <item>Kuna toleo la siku hii ambapo ulifanya kitu. Linaanza sasa.</item>
+        <item>Muda haulimbikizwi. Hutumika tu vizuri au vibaya.</item>
+        <item>Dakika hizi zinaweza kuwa mapumziko ya kweli.</item>
+        <item>Umeshuka sasa hivi kwenye mkanda unaozunguka bila kufika popote.</item>
+        <item>Wiki ina saa mia moja sitini na nane. Hii hapa ni yako.</item>
+        <item>Mlisho huchukua muda vipande vidogo ili mtu asihisi pengo.</item>
+        <item>Sasa unaweza kufanya lile jambo unaloliacha kwa kesho kila siku.</item>
+        <item>Mchana wako hauhitaji kubanwa ndani ya skrini.</item>
+        <item>Muda unaobaki ndio unaofanya siku ionekane ndefu kwa namna nzuri.</item>
+        <item>Umejirudishia saa ijayo sasa hivi.</item>
+        <item>Hakuna utakachoona sasa ambacho kingebaki akilini mwako baada ya wiki.</item>
+        <item>Hii ndiyo aina ya dakika inayojenga au kuyeyusha mwaka.</item>
+        <item>Umepata muda. Huna haja ya kuutumia haraka.</item>
+        <item>Siku bila kusogeza skrini ni siku inayobeba mambo zaidi.</item>
+        <item>Saa haitenganishi muda mzuri na muda uliopotezwa. Wewe ndiye unayetenganisha.</item>
+        <item>Saa hii ina thamani sawa na nyingine yoyote katika maisha yako.</item>
+        <item>Una muda sasa. Hilo ni adimu kuliko linavyoonekana.</item>
+        <item>Kuhifadhi muda ndiyo njia pekee ya kuwa na muda.</item>
+        <item>Usiku mzima bado uko mbele yako.</item>
+        <item>Dakika hizi ni mwanzo wa mchana utakaoukumbuka.</item>
+        <item>Umeepuka sasa hivi lile shimo la saa nzima.</item>
+        <item>Kila kinachohitaji muda kinahitaji uamuzi wa aina hii hasa.</item>
+        <item>Muda kati ya sasa na chakula cha jioni bado unatosha mambo mengi.</item>
+        <item>Umeondoa mguu kwenye kichapuzi. Siku nayo inapunguza kasi.</item>
+        <item>Wiki yako ina nafasi. Ilikuwa imekaliwa na kitu kingine.</item>
+        <item>Kila unapofunga hapa, siku inakua kidogo.</item>
+        <item>Muda ni zawadi unayojipa bila kutumia chochote.</item>
+        <item>Sasa una kile hasa unachosema siku nzima kwamba huna.</item>
+        <item>Mchana mrefu hujengwa kwa maamuzi mafupi kama haya.</item>
+        <item>Hakuna atakayekuuliza ulifanya nini na nusu saa hii.</item>
+        <item>Muda usioutoa leo bado utakuwa nawe kesho.</item>
+        <item>Dakika ishirini kwa siku ni saa mia moja na ishirini kwa mwaka.</item>
+        <item>Umeurudisha sasa hivi ule muda kabla ya kulala.</item>
+        <item>Kuna maisha mengi kati ya arifa moja na nyingine.</item>
+        <item>Siku nzima inatosha hapa usipoitoa kipande kwa kipande.</item>
+        <item>Umefika hapa ukilinda muda wako. Hii ni hatua nyingine.</item>
+        <item>Umakini wako ndio rasilimali inayogombaniwa zaidi duniani. Umeshinda sasa hivi.</item>
+        <item>Umakini huchukua dakika ishirini kurudi. Usiutoe sasa.</item>
+        <item>Akili nzima ina thamani kuliko akili iliyokatwakatwa.</item>
+        <item>Ulikuwa umezama katika jambo fulani kabla ya kuja hapa.</item>
+        <item>Umakini uliogawanyika si umakini. Ni uchovu tu.</item>
+        <item>Ulichokuwa ukifanya kinastahili uwepo wako wote.</item>
+        <item>Kufikiri kwa kina kunahitaji muda bila kukatizwa. Ndio huu.</item>
+        <item>Kila kubadilisha skrini kunagharimu zaidi ya saa inavyoonyesha.</item>
+        <item>Akili yako ilikuwa ikienda vizuri. Iache iendelee.</item>
+        <item>Kazi ya kina haistahimili kusogeza mlisho hata mara moja.</item>
+        <item>Mlisho uliundwa kunasa umakini wako. Umeligundua hilo.</item>
+        <item>Wazo refu linahitaji utulivu ili likamilike.</item>
+        <item>Unaweza kushika wazo zima akilini. Unahitaji nafasi tu.</item>
+        <item>Kuvurugika si kupumzika. Kupumzika kunapumzisha.</item>
+        <item>Utulivu wa akili uliokuwa nao bado upo karibu. Urudie.</item>
+        <item>Umakini wako hauuzwi leo.</item>
+        <item>Ubora wa akili yako hujitokeza baada ya dakika ya ishirini.</item>
+        <item>Kukatiza sasa kunagharimu zaidi kuliko inavyoonekana.</item>
+        <item>Unaweza kufanya mambo yanayohitaji umakini. Anza kwa kuulinda.</item>
+        <item>Hakuna kilichomo kinachohitaji umakini wako kwa dharura.</item>
+        <item>Saa moja ya umakini huzaa zaidi ya saa nne zilizokatwakatwa.</item>
+        <item>Akili yako hufanya kazi vizuri zaidi isipobadilisha mada kila mara.</item>
+        <item>Kilichobaki nusu bado kinaweza kumalizwa leo.</item>
+        <item>Umakini si nguvu ya utashi. Ni mazingira. Umeyapanga yako sasa hivi.</item>
+        <item>Lile tatizo gumu hulegea unapobaki nalo.</item>
+        <item>Umakini wako una kikomo. Ndiyo maana una thamani kubwa hivyo.</item>
+        <item>Huhitaji kujua kila kitu sasa hivi.</item>
+        <item>Kelele zitaendelea kuwepo. Utulivu wako ndio adimu.</item>
+        <item>Mambo makubwa yalifanywa na watu ambao hawakukatizwa.</item>
+        <item>Rudi kwenye ulichokuwa ukifanya. Akili yako bado iko pale.</item>
+        <item>Kazi moja kwa wakati ni haraka kuliko inavyoonekana.</item>
+        <item>Haraka ya kutazama hupita. Wazo lililokatizwa wakati mwingine halirudi.</item>
+        <item>Una uwezo wa kuzingatia mkubwa kuliko unaoutumia siku hizi.</item>
+        <item>Kufikiri vizuri ni kazi ya polepole. Iache iwe polepole.</item>
+        <item>Umakini wako umejenga kitu leo. Usikivunje kwa udadisi.</item>
+        <item>Kinachohitaji akili kinahitaji akili yote.</item>
+        <item>Hakuna mlisho utakaokufundisha kile ambacho saa moja ya umakini hufundisha.</item>
+        <item>Kila arifa unayoikataa ni uwazi kidogo zaidi.</item>
+        <item>Ulikuwa karibu kuelewa. Rudi pale.</item>
+        <item>Akili iliyopumzika ni akili ambayo haikuvutwa huku na huko siku nzima.</item>
+        <item>Umakini wako ndio msingi unaojengea kila kitu kingine.</item>
+        <item>Kuanza ndiko kugumu. Tayari umeanza. Usianze tena upya.</item>
+        <item>Liache jambo litulie, nalo litajitatua lenyewe akilini mwako.</item>
+        <item>Uwazi hujitokeza kelele zinapokoma.</item>
+        <item>Kazi bora ya siku yako bado haijafanyika.</item>
+        <item>Si ukosefu wa muda. Ni ukosefu wa muda usiokatizwa.</item>
+        <item>Unafikiri vizuri kuliko mlisho unavyokuruhusu kufikiri.</item>
+        <item>Lile andiko, ule msimbo, yale mazungumzo. Yanakusubiri na umakini wako wote.</item>
+        <item>Umakini ni msuli. Hukua kwa siku kama ya leo.</item>
+        <item>Akili yako imekushukuru sasa hivi.</item>
+        <item>Jambo moja kwa wakati bado ndiyo mbinu ya hali ya juu zaidi iliyopo.</item>
+        <item>Unachofanya kwa umakini hudumu. Mengine hupita.</item>
+        <item>Hakuna njia ya mkato ya kufikiri. Ni muda usiokatizwa tu.</item>
+        <item>Unastahili kumalizia wazo lako.</item>
+        <item>Akili yako ilikuwa makini sana. Usiuachie uzi huo.</item>
+        <item>Skrini humetameta. Mawazo hayafanyi hivyo. Baki na mawazo.</item>
+        <item>Siku moja ya umakini ina thamani ya siku tatu za pilikapilika.</item>
+        <item>Wewe si mzito. Ulikuwa ukikatizwa tu.</item>
+        <item>Jambo lenye maana leo haliko kwenye mlisho.</item>
+        <item>Kushika njia ni rahisi kuliko kuirudia.</item>
+        <item>Umakini wako wote ni zawadi. Mpe anayestahili.</item>
+        <item>Mawazo mazuri hujitokeza kwenye utulivu.</item>
+        <item>Ulikuwa katikati ya jambo zuri.</item>
+        <item>Hakuna anayefikiri vizuri akili ikiwa mahali kumi.</item>
+        <item>Kina huonekana tu baada ya kukaa muda fulani juu ya uso.</item>
+        <item>Umakini si kufanya zaidi. Ni kufanya vizuri.</item>
+        <item>Una jambo muhimu leo. Mlisho si jambo hilo.</item>
+        <item>Iache akili yako imalize sentensi iliyoianza.</item>
+        <item>Saa moja bila kukatizwa hubadilisha kinachowezekana kwa siku.</item>
+        <item>Kinachoonekana kigumu sasa huwa rahisi kwa umakini endelevu.</item>
+        <item>Uwezo wako wa kuzingatia ni faida yako. Ni wachache ambao bado wanao.</item>
+        <item>Usibadilishe jambo moja muhimu kwa mambo mengi ya haraka.</item>
+        <item>Udadisi unaweza kusubiri. Umakini hausubiri.</item>
+        <item>Unajenga kitu fulani. Endelea.</item>
+        <item>Kubadili kazi kila mara huonekana kuna tija, lakini karibu kamwe si hivyo.</item>
+        <item>Matumizi bora ya akili yako leo bado yanapatikana.</item>
+        <item>Umakini unaouhifadhi sasa huonekana kwenye matokeo baadaye.</item>
+        <item>Akili yako si mlisho. Huhifadhi kile unachokipa umakini.</item>
+        <item>Jambo linalostahili umakini wako wote ni adimu. Litumie.</item>
+        <item>Kigumu si kisichowezekana. Kinachukua muda tu.</item>
+        <item>Umebakiza dakika chache tu kulitatua lile jambo.</item>
+        <item>Kelele hupotea unapoacha kuzilisha.</item>
+        <item>Baki na ulichokuwa ukifanya hadi ukimalize.</item>
+        <item>Kila mzamo mmoja wa kina unalipa zaidi ya mizamo kumi ya juujuu.</item>
+        <item>Umakini wako huamua kipi kitakuwa kumbukumbu.</item>
+        <item>Unakumbuka kile ulichokipa umakini. Hicho tu.</item>
+        <item>Kufikiri ndilo jambo lenye faida zaidi utakalofanya leo.</item>
+        <item>Akili isiyo na haraka hutatua kile ambacho akili yenye haraka haioni.</item>
+        <item>Kazi nzuri inahitaji subira, si kasi.</item>
+        <item>Hakuna utakachokiona sasa ambacho kingeingia kwenye mazungumzo ya kesho.</item>
+        <item>Uwazi wa akili yako leo ulianza kwa maamuzi kama haya.</item>
+        <item>Kukatizwa ndiyo kodi ghali zaidi iliyopo.</item>
+        <item>Unaweza kukaa kwenye jambo moja kwa muda mrefu kuliko unavyodhani.</item>
+        <item>Kile kipengele kilichokuwa kikikuponyoka hujitokeza kwenye utulivu.</item>
+        <item>Umakini hurudi. Unahitaji dakika chache tu bila skrini.</item>
+        <item>Unaweza kuwa makini kwa muda mrefu. Mlisho ndio unaoweka dau kwamba huwezi.</item>
+        <item>Kumaliza jambo moja leo kuna thamani kuliko kuanza matano.</item>
+        <item>Umakini wako kamili ni adimu hata kwako mwenyewe.</item>
+        <item>Liache wazo lipumue.</item>
+        <item>Unachojenga kwa umakini hakipotei kwa kusogeza skrini.</item>
+        <item>Hamu ya kufungua hupita baada ya dakika chache. Daima hupita.</item>
+        <item>Msukumo huu una tarehe ya mwisho. Huisha wenyewe.</item>
+        <item>Huhitaji kufanya chochote. Subiri tu wimbi lishuke.</item>
+        <item>Haraka unayoihisi sasa si yako. Umefundishwa kuihisi.</item>
+        <item>Vuta pumzi mara moja. Hamu tayari ni ndogo kuliko dakika moja iliyopita.</item>
+        <item>Msukumo huwa mkubwa mwanzoni na hupotea katikati ya njia.</item>
+        <item>Si wewe unayetaka. Ni mazoea yanayoomba.</item>
+        <item>Hukosesha raha kwa muda mfupi. Kisha hupita.</item>
+        <item>Umewahi kuhisi hivi na umevuka salama kila mara.</item>
+        <item>Hamu huja kama mawimbi. Mawimbi hupasuka.</item>
+        <item>Hakuna anayelazimika kutii msukumo wa kwanza wa siku.</item>
+        <item>Mbano huu kifuani hudumu muda mfupi kuliko wimbo mmoja.</item>
+        <item>Wewe ni mkubwa kuliko msukumo wa sekunde thelathini.</item>
+        <item>Iache hamu ipite bila kuifanyia chochote.</item>
+        <item>Usumbufu huu ni mazoea yakilegea. Hiyo ni hatua mbele.</item>
+        <item>Hupigani. Unasubiri tu.</item>
+        <item>Hamu huja kwa nguvu na huondoka kimya.</item>
+        <item>Hesabu hadi ishirini. Itakuwa imepungua tayari.</item>
+        <item>Kuhisi hamu si sawa na kuhitaji.</item>
+        <item>Msukumo unataka jibu la papo hapo. Usiupe jibu lolote.</item>
+        <item>Huu ndio wakati mgumu zaidi, na ni mfupi.</item>
+        <item>Huhitaji kupigana. Usiamue tu sasa hivi.</item>
+        <item>Hamu hutoweka mtu asipoilisha.</item>
+        <item>Huu ni wasiwasi, si njaa ya maudhui.</item>
+        <item>Itazame hamu bila kuingia ndani yake.</item>
+        <item>Ubongo unaomba kile cha kawaida. Hulazimiki kuuhudumia.</item>
+        <item>Dakika tano, na hata hutakumbuka kwamba ulitaka kufungua.</item>
+        <item>Wimbi linapanda sasa. Daima hushuka.</item>
+        <item>Tayari uko upande wa pili wa sehemu mbaya zaidi.</item>
+        <item>Msukumo hudanganya kuhusu nguvu zake.</item>
+        <item>Simama, kunywa maji, rudi. Utakuta umeshapita.</item>
+        <item>Hamu si amri.</item>
+        <item>Unaweza kuhisi hivi bila kufanya chochote. Inaruhusiwa.</item>
+        <item>Mwili unaomba mwendo, si skrini.</item>
+        <item>Tamaa hii hujitokeza yenyewe. Jibu lako halihitaji kuwa hivyo.</item>
+        <item>Hakuna baya litakalotokea ukisubiri kidogo zaidi.</item>
+        <item>Hamu hupotea yenyewe ukiipa nafasi.</item>
+        <item>Una wasiwasi tu. Hupita, na hauhitaji skrini.</item>
+        <item>Msukumo ni pendekezo tu. Wewe ndiye unayeamua.</item>
+        <item>Dakika moja zaidi, na hamu itakuwa kitu kingine.</item>
+        <item>Sehemu ngumu hudumu kidogo. Sehemu nzuri hudumu siku nzima.</item>
+        <item>Huu ndio ule msukumo mdogo maarufu. Hausukumi kwa nguvu hivyo.</item>
+        <item>Subiri bila kujihukumu. Hamu huyeyuka yenyewe.</item>
+        <item>Ubongo wako unaomba njia ya mkato ya kawaida.</item>
+        <item>Huhitaji kushinda chochote. Acha tu ipite.</item>
+        <item>Kila wimbi unaloliacha lipite hufanya linalofuata kuwa dogo.</item>
+        <item>Wasiwasi unataka suluhisho la haraka. Hautalipata hapa.</item>
+        <item>Tulia kwa muda mfupi. Msukumo hautabaki.</item>
+        <item>Hupotezi chochote kwa kusubiri.</item>
+        <item>Kuchoshwa si dharura.</item>
+        <item>Kuhisi utupu sasa ni kawaida. Utajaa wenyewe.</item>
+        <item>Hamu ya kuangalia kitu mara chache huhusu kitu hicho chenyewe.</item>
+        <item>Unakosa raha, lakini huko hatarini.</item>
+        <item>Hili litalegea punde.</item>
+        <item>Mazoea yana nguvu, lakini ni ya muda mfupi.</item>
+        <item>Iache hii ipite. Hii moja tu.</item>
+        <item>Wakati ujao utakuwa rahisi zaidi kwa sababu ya huu.</item>
+        <item>Huhitaji kujishawishi chochote. Subiri tu.</item>
+        <item>Glasi ya maji husaidia zaidi kuliko kusogeza mlisho.</item>
+        <item>Haraka hii ni ya uongo, na tayari unajua.</item>
+        <item>Msukumo hauvumilii kukosa jibu.</item>
+        <item>Subiri sekunde thelathini. Kisha amua tena.</item>
+        <item>Uko kileleni. Kuanzia hapa ni mteremko tu.</item>
+        <item>Hakuna kinachohitaji jibu lako sasa.</item>
+        <item>Hamu ni mgeni. Ataondoka.</item>
+        <item>Wewe si msukumo. Wewe ndiye unayeutazama.</item>
+        <item>Mwili hulegea ukiupa dakika moja.</item>
+        <item>Huu ni ubongo tu ukitafuta kichocheo. Utapata kingine.</item>
+        <item>Kuvuta pumzi ndefu mara tatu hubadilisha ukali wa hili.</item>
+        <item>Hamu hupungua unapoitazama ana kwa ana.</item>
+        <item>Unaweza kustahimili dakika hii. Umeshastahimili mabaya zaidi.</item>
+        <item>Usumbufu hupita hata usipofanya chochote.</item>
+        <item>Mkono ulitangulia kabla ya akili. Hutokea.</item>
+        <item>Hakuna uamuzi unaohitaji kufanywa katika sekunde kumi za kwanza.</item>
+        <item>Muda mfupi tu na hutakumbuka hata hili.</item>
+        <item>Kitu kimekuchokoza. Jibu bado ni lako.</item>
+        <item>Iache hamu iwepo bila kuitii.</item>
+        <item>Hii si njaa ya kweli. Ni mazoea tu.</item>
+        <item>Subiri. Kwa kweli, hilo tu ndilo unalohitaji kufanya.</item>
+        <item>Akili hutulia yenyewe usipoongeza kuni motoni.</item>
+        <item>Tayari unasubiri. Huo tayari ni ushindi.</item>
+        <item>Msukumo hupoteza nguvu unapokutana na mlango uliofungwa.</item>
+        <item>Kila sekunde hapa ni sekunde ya faida.</item>
+        <item>Wimbi limepasuka. Tazama jinsi hali ilivyo nyepesi tayari.</item>
+        <item>Huhitaji sababu ya kutofungua.</item>
+        <item>Tamaa hupita haraka kuliko majuto.</item>
+        <item>Kunyoosha viungo husaidia pale ambapo mlisho usingesaidia.</item>
+        <item>Hamu inaondoka unaposoma haya.</item>
+        <item>Usiamue chochote sasa. Pumua tu.</item>
+        <item>Msukumo huja wenyewe na huondoka wenyewe.</item>
+        <item>Hii ndiyo sehemu ngumu zaidi. Na inapita haraka.</item>
+        <item>Umestahimili hadi hapa. Zimebaki sekunde tu.</item>
+        <item>Mwili huomba skrini unapotaka kupumzika. Upe mapumziko.</item>
+        <item>Hamu hupungua kila inapokosa kutimizwa.</item>
+        <item>Subiri kidogo zaidi. Ni hilo tu.</item>
+        <item>Wakati hupita. Chaguo hubaki.</item>
+        <item>Umevuka sasa hivi sehemu nyembamba.</item>
+        <item>Kuhisi hamu ni ubinadamu. Kutoitii pia.</item>
+        <item>Utulivu hurudi punde usipolazimisha.</item>
+        <item>Imekuwa nyepesi zaidi, sivyo.</item>
+        <item>Uliamua hili ukiwa mtulivu. Mwamini aliyeamua.</item>
+        <item>Wewe wa jana amemtunza wewe wa sasa.</item>
+        <item>Skrini hii ni ujumbe wako kwako mwenyewe.</item>
+        <item>Huzuiwi. Unakumbushwa.</item>
+        <item>Mtu unayetaka kuwa hatumii mchana mzima akisogeza skrini.</item>
+        <item>Chaguo hili lilikuwa lako. Bado ni lako.</item>
+        <item>Wewe ni aina ya mtu aliyegundua na akachukua hatua.</item>
+        <item>Hakuna aliyekulazimisha kusakinisha hii. Ulitaka mwenyewe.</item>
+        <item>Wewe wa kesho atamshukuru wewe wa sasa.</item>
+        <item>Tayari wewe ni mtu anayelinda muda wake.</item>
+        <item>Hii si adhabu. Ni makubaliano.</item>
+        <item>Uliandika sheria hii. Inafanya kazi.</item>
+        <item>Kumiliki umakini wako ni chaguo la kila siku.</item>
+        <item>Huhitaji kumthibitishia mtu yeyote chochote hapa.</item>
+        <item>Mtu unayetaka kuwa huanzia kwenye maamuzi madogo.</item>
+        <item>Uko upande sahihi wa skrini hii.</item>
+        <item>Kila unapofunga hapa, unakaribia zaidi kuwa mtu unayetaka kuwa.</item>
+        <item>Wewe si kile unachohisi kukitamani. Wewe ni kile unachofanya.</item>
+        <item>Makubaliano na nafsi yako yana uzito sawa na mengine yoyote.</item>
+        <item>Uligundua mtindo fulani ukaubadilisha. Hilo ni nadra.</item>
+        <item>Wewe ni mkubwa kuliko programu zilizo mfukoni mwako.</item>
+        <item>Hii ni sheria yako, na iko upande wako.</item>
+        <item>Una haki ya kubadili mazoea yako.</item>
+        <item>Kile unachofanya mara kwa mara ndicho kinachokufanya uwe wewe.</item>
+        <item>Ulichagua kuwa na maisha yenye nafasi zaidi.</item>
+        <item>Si programu inayokuamrisha.</item>
+        <item>Utambulisho wako hautoshi ndani ya mlisho.</item>
+        <item>Wewe ndiye uliyesakinisha hii kwa sababu fulani.</item>
+        <item>Kumbuka sababu. Bado ina maana.</item>
+        <item>Unaheshimu uamuzi wako mwenyewe.</item>
+        <item>Hakuna anayekuamulia umakini wako.</item>
+        <item>Uligundua kilichokuwa kikitokea. Hilo peke yake linabadilisha kila kitu.</item>
+        <item>Kumiliki siku yako ni kazi isiyokoma.</item>
+        <item>Wewe si abiria. Wewe ndiye dereva.</item>
+        <item>Hili ni chaguo la mtu anayejithamini.</item>
+        <item>Unajiwajibikia. Na unafanya hivyo sasa.</item>
+        <item>Muda wako una mwenyewe. Anasoma haya sasa.</item>
+        <item>Ulikubaliana na nafsi yako. Timiza.</item>
+        <item>Kila uamuzi kama huu unakusogeza karibu na mtu unayetaka kuwa.</item>
+        <item>Hupotezi uhuru. Unautumia.</item>
+        <item>Anayeamua cha kufanya sasa ni wewe.</item>
+        <item>Huhitaji ruhusa ya kuishi kwa namna tofauti.</item>
+        <item>Mpaka huu ni kujitunza, si kizimba.</item>
+        <item>Ulichagua njia ngumu zaidi na iliyo yako zaidi.</item>
+        <item>Mtu unayemvutia naye angesema hapana sasa.</item>
+        <item>Unaishi katika maisha yako, si ndani ya programu.</item>
+        <item>Ni muda wako, akili yako, chaguo lako.</item>
+        <item>Unatimiza ahadi yako kwako. Hilo lina maana.</item>
+        <item>Hakuna atakayeutunza umakini wako badala yako.</item>
+        <item>Tayari umethibitisha kwamba unaweza kubadili njia.</item>
+        <item>Uhuru wa kujiamulia ni huu: kuamua mapema, si kwa msukumo.</item>
+        <item>Unajenga mtu unayemheshimu.</item>
+        <item>Hili ni toleo lako linalopanga mambo.</item>
+        <item>Hukufika hapa kwa bahati. Uliweka hili mwenyewe.</item>
+        <item>Neno lako kwako mwenyewe lina thamani.</item>
+        <item>Una msimamo wako kuhusu jinsi ya kutumia siku yako.</item>
+        <item>Programu haikujui. Wewe unajijua.</item>
+        <item>Unatenda kama mmiliki wa maisha yako.</item>
+        <item>Kusimamia uamuzi wako ni uhuru.</item>
+        <item>Wewe ndiye unayeandika sheria hapa.</item>
+        <item>Huku ni wewe kujitunza.</item>
+        <item>Hujafungwa. Umelindwa.</item>
+        <item>Nia yako ya kubadilika ni ya zamani kuliko msukumo huu.</item>
+        <item>Tayari wewe ni yule unayejaribu kuwa.</item>
+        <item>Uamuzi mgumu ulishafanywa. Huu ni ule rahisi tu.</item>
+        <item>Uko kwenye usukani, na hilo ni nadra siku hizi.</item>
+        <item>Hakuna anayehitaji kujua. Hili ni kati yako na nafsi yako.</item>
+        <item>Unastahili kuliamini neno lako mwenyewe.</item>
+        <item>Jina lako liko kwenye chaguo hili.</item>
+        <item>Umekuwa aina ya mtu anayeamua mapema.</item>
+        <item>Huku si kuacha. Ni kuchagua kitu kingine.</item>
+        <item>Una mwelekeo. Skrini hii inakuonyesha upande huo.</item>
+        <item>Uhuru wa kweli ni kutovutwa kila wakati.</item>
+        <item>Wewe ndiye unayepanga thamani ya umakini wako.</item>
+        <item>Kila hapana hapa ni ndiyo kwa jambo jingine lako.</item>
+        <item>Unaushikilia mpango uliouandaa kwa upendo.</item>
+        <item>Kujimiliki kunahitaji juhudi, na kunastahili.</item>
+        <item>Ulikiri kwamba ulitaka kubadilika. Hiyo ndiyo sehemu ngumu.</item>
+        <item>Mtu utakayemwona kwenye kioo usiku huu atafurahia hili.</item>
+        <item>Algoriti haikudai chochote.</item>
+        <item>Maisha yako si maudhui ya mtu yeyote.</item>
+        <item>Uko hasa pale ulipoamua kuwa.</item>
+        <item>Mpaka unaojiwekea ndio wenye heshima kuliko yote.</item>
+        <item>Una mpango wa maisha mkubwa kuliko skrini hii.</item>
+        <item>Huu ni ukomavu unaoonekana papo hapo.</item>
+        <item>Unatunza maisha yako ya baadaye bila kutambua.</item>
+        <item>Kila chaguo kama hili hukunoa zaidi.</item>
+        <item>Huhitaji kujieleza kwa kutofungua.</item>
+        <item>Ahadi yako ni kwako, si kwa programu.</item>
+        <item>Ulifanya uamuzi sahihi wakati hukuwa na hamu.</item>
+        <item>Haya ni maisha yako yakiendeshwa na wewe.</item>
+        <item>Umekuwa mtu mgumu kuchezewa akili.</item>
+        <item>Umakini wako una mwenyewe, na yuko macho.</item>
+        <item>Umetenda sasa hivi kama mtu anayejitunza.</item>
+        <item>Mpango ni wako. Unafanya kazi sasa hivi.</item>
+        <item>Wewe ni jumla ya machaguo yako madogo.</item>
+        <item>Hakuna anayeweza kukunyang’anya neno la mwisho.</item>
+        <item>Wewe ndiye mwenye mamlaka juu ya muda wako.</item>
+        <item>Inafanya kazi kwa sababu ulitaka ifanye kazi.</item>
+        <item>Wewe ni mkubwa kuliko mazoea yanayotaka kukushinda.</item>
+        <item>Mara moja zaidi. Hivyo ndivyo hesabu inavyokua.</item>
+        <item>Kidogo cha mara kwa mara hushinda kikubwa cha mara moja.</item>
+        <item>Umeongeza alama moja zaidi sasa hivi.</item>
+        <item>Hakuna anayebadilika kwa mara moja. Hubadilika katika siku kama ya leo.</item>
+        <item>Hii ni sehemu moja ya elfu ya maisha tofauti.</item>
+        <item>Siku moja nzuri haibadilishi kitu. Siku mia nzuri hubadilisha kila kitu.</item>
+        <item>Unajenga mfululizo.</item>
+        <item>Maendeleo kwa ndani karibu kamwe hayaonekani kama maendeleo.</item>
+        <item>Jumla ya machaguo haya ni kubwa kuliko kila moja peke yake.</item>
+        <item>Kudumu kunachosha, lakini kunafanya kazi.</item>
+        <item>Jiwe jingine ukutani.</item>
+        <item>Unazoeza kitu kitakachodumu.</item>
+        <item>Likirudiwa vya kutosha, hili huwa jambo la kujiendesha.</item>
+        <item>Hakuna anayeuona ushindi huu, lakini una uzito uleule.</item>
+        <item>Wiki chache tu, na hutahisi hata hamu.</item>
+        <item>Leo ina maana. Kesho nayo itakuwa na maana.</item>
+        <item>Mnyororo hutengenezwa kwa pete kama hii.</item>
+        <item>Mazoea mapya yanaandikwa sasa.</item>
+        <item>Kila marudio hulegeza kidogo mazoea ya zamani.</item>
+        <item>Umeshafanya hivi kabla. Fanya tena.</item>
+        <item>Polepole ndio kasi ya mambo yanayodumu.</item>
+        <item>Mabadiliko hutokea mbali na macho.</item>
+        <item>Unalimbikiza kitu kisichoonekana lakini halisi.</item>
+        <item>Siku nyingine katika mwelekeo sahihi.</item>
+        <item>Matokeo huonekana baadaye. Chaguo ni leo.</item>
+        <item>Chaguo moja kwa wakati, hivyo ndivyo inavyofanyika.</item>
+        <item>Uko karibu zaidi kuliko ulivyokuwa jana.</item>
+        <item>Haihitaji kuwa kamili. Inahitaji kuwa ya mara kwa mara.</item>
+        <item>Mstari hupanda polepole, kisha hupanda haraka.</item>
+        <item>Uko katikati ya safari. Ndivyo ilivyo.</item>
+        <item>Kila hapana ndogo hujenga ndiyo kubwa.</item>
+        <item>Hakuna lolote kati ya haya lenye mbwembwe. Ndiyo maana linafanya kazi.</item>
+        <item>Njia hutengenezwa kwa hatua kama hii.</item>
+        <item>Unaunda toleo jipya la ratiba yako.</item>
+        <item>Hili litaonekana rahisi baada ya mwezi mmoja.</item>
+        <item>Marudio ndiyo hugeuza uamuzi kuwa tabia.</item>
+        <item>Umeiimarisha njia mpya sasa hivi.</item>
+        <item>Asilimia mia ni rahisi kuliko tisini na nane.</item>
+        <item>Usivunje mfululizo leo.</item>
+        <item>Unafanya sehemu ya kuchosha, ambayo ndiyo yenye maana.</item>
+        <item>Hatuhisi mabadiliko. Tunayaona baadaye.</item>
+        <item>Tofali jingine limewekwa.</item>
+        <item>Unaufundisha ubongo kutarajia kitu kingine.</item>
+        <item>Kuendelea ndiyo mbinu yote.</item>
+        <item>Hakuna ushindi kama huu ulio mdogo ukijumlishwa.</item>
+        <item>Huhitaji kukimbia. Unahitaji kutosimama.</item>
+        <item>Hili tayari linazidi kuwa rahisi, na hata hujagundua.</item>
+        <item>Wiki moja ya hivi tayari hubadilisha siku yako.</item>
+        <item>Unachonga njia mpya akilini mwako.</item>
+        <item>Kila mara ina maana, hata inapoonekana haina.</item>
+        <item>Hakuna anayepiga makofi, lakini inafanya kazi.</item>
+        <item>Mlimbikizo ni kimya na hauzuiliki.</item>
+        <item>Tayari una nguvu zaidi katika hili kuliko mwezi uliopita.</item>
+        <item>Chaguo zuri leo hurahisisha la kesho.</item>
+        <item>Hivi ndivyo kudumu kunavyohisiwa kwa ndani.</item>
+        <item>Siku nyingine ya faida inayolimbikizwa.</item>
+        <item>Uko njiani, na njia ni ndefu. Ni sawa.</item>
+        <item>Kinachorudiwa huwa rahisi.</item>
+        <item>Umemwimarisha sasa hivi yule unayekuwa.</item>
+        <item>Hesabu iko upande wako leo.</item>
+        <item>Faida ndogo hujumlika bila kuomba ruhusa.</item>
+        <item>Si kuhusu leo. Ni kuhusu jumla.</item>
+        <item>Unafanya kazi isiyoonekana.</item>
+        <item>Endelea. Hiyo ndiyo siri yenyewe.</item>
+        <item>Kila siku kama hii hupunguza uzito kidogo.</item>
+        <item>Mazoea ya zamani yanapoteza nafasi sasa.</item>
+        <item>Unamwagilia kitu ambacho bado hakijachipua.</item>
+        <item>Mabadiliko yanatokea hata kama hayaonekani.</item>
+        <item>Mara nyingine tena. Daima imekuwa hivyo tu.</item>
+        <item>Unajenga akiba ya siku nzuri.</item>
+        <item>Hili huwa la kawaida kadiri muda unavyokwenda.</item>
+        <item>Umechagua tena sasa hivi. Na mara hii pia ina maana.</item>
+        <item>Mwezi mmoja wa hivi, na utakuwa mtu mwingine.</item>
+        <item>Juhudi za leo hupotea. Matokeo hubaki.</item>
+        <item>Wewe si tena yule aliyeanza hili.</item>
+        <item>Kufanya kila mara kuna thamani kuliko kufanya mengi.</item>
+        <item>Kila siku ni kura kwa mtu unayetaka kuwa.</item>
+        <item>Unaacha mazoea mapya yapate nafasi.</item>
+        <item>Hili halihitaji ushujaa. Linahitaji kutokea tu.</item>
+        <item>Umeitia nguvu njia sahihi sasa hivi.</item>
+        <item>Kurudia ndivyo ubongo unavyojifunza chochote.</item>
+        <item>Leo pamoja na jana tayari ni mengi.</item>
+        <item>Unaendelea vizuri hata usipohisi hivyo.</item>
+        <item>Maendeleo hukaa kwenye marudio yasiyo na ladha.</item>
+        <item>Hatua nyingine fupi kwenye safari ndefu.</item>
+        <item>Unalifanya hili kuwa sehemu yako ya asili.</item>
+        <item>Jambo zuri lililofanywa mara nyingi ndilo linalobaki.</item>
+        <item>Nguvu hutokana na kurudia, si na kufanya kwa nguvu.</item>
+        <item>Umeifupisha njia ya kesho sasa hivi.</item>
+        <item>Moja zaidi. Hilo tu. Na linatosha.</item>
+        <item>Unaacha nyayo za maamuzi mazuri.</item>
+        <item>Kudumu hugeuza juhudi kuwa utambulisho.</item>
+        <item>Kila siku inahesabika kama siku nzima.</item>
+        <item>Uko kwenye mchezo mrefu, na unashinda.</item>
+        <item>Hili litakuwa sehemu yako bila wewe kugundua.</item>
+        <item>Uwekezaji bora wa siku umefanywa sasa hivi.</item>
+        <item>Umeshikilia msimamo sasa hivi.</item>
+        <item>Mwendelezo ni adimu kuliko kipaji.</item>
+        <item>Mabadiliko ya kweli huwa ya polepole, na daima yanastahili.</item>
+        <item>Chaguo jingine kuelekea maisha yako.</item>
+        <item>Macho yako yanashukuru kwa pumziko hili.</item>
+        <item>Simama ujinyooshe. Mwili ulikuwa ukiomba hilo, si skrini.</item>
+        <item>Vuta pumzi ndefu. Hilo peke yake tayari hubadilisha kitu.</item>
+        <item>Kunywa maji. Huenda ndicho kilichokuwa kikikosekana.</item>
+        <item>Shingo yako imepinda kwa muda sasa. Inyooshe.</item>
+        <item>Usingizi wa leo usiku unaanza na skrini za sasa.</item>
+        <item>Kulala vizuri ndilo jambo lenye tija kuliko yote.</item>
+        <item>Mwili wako umetulia mahali pamoja kwa muda mrefu mno.</item>
+        <item>Tazama mbali kwa sekunde ishirini. Macho yatapumzika.</item>
+        <item>Matembezi mafupi hubadilisha hisia kuliko mlisho wowote.</item>
+        <item>Uchovu unaohisi huenda ni wa skrini tu.</item>
+        <item>Mwili wako huomba mwendo wakati akili inaomba kusogeza skrini.</item>
+        <item>Hewa safi hutatua mambo ambayo skrini haiwezi.</item>
+        <item>Shusha mabega. Legeza taya.</item>
+        <item>Unakaza mabega bila kutambua.</item>
+        <item>Jua kwenye ngozi kwa dakika kumi lina thamani kubwa.</item>
+        <item>Mwili hupumzika ukiwa umelala, si ukisogeza skrini.</item>
+        <item>Kulala mapema leo ni zawadi kwa kesho.</item>
+        <item>Mkao wako umebadilika katika dakika ishirini zilizopita. Urekebishe.</item>
+        <item>Uchovu wa skrini si uchovu wa kweli. Ni kitu kingine.</item>
+        <item>Inua mikono. Jinyooshe. Haya, tayari ni bora.</item>
+        <item>Macho yako hupepesa kidogo unaposogeza skrini. Pepesa sasa.</item>
+        <item>Mwili hufanya kazi vizuri zaidi kwa mapumziko ya kweli.</item>
+        <item>Kuzunguka mtaa mara moja husafisha akili.</item>
+        <item>Uti wako wa mgongo utafurahia kukatizwa huku.</item>
+        <item>Kupumzika ni tofauti na kuvurugwa.</item>
+        <item>Usingizi mbaya wa jana ulianza kwenye skrini kama hii.</item>
+        <item>Nyoosha shingo pande zote mbili. Inachukua sekunde kumi.</item>
+        <item>Mwendo hutuliza wasiwasi kuliko maudhui.</item>
+        <item>Mwili wako ndio nyumba pekee uliyo nayo.</item>
+        <item>Maji, mwanga na mwendo. Karibu kila mara ni hayo.</item>
+        <item>Skrini huchosha hata inapoonekana kama mapumziko.</item>
+        <item>Funga macho kwa muda mfupi. Hivyo tu.</item>
+        <item>Unapumua juujuu. Vuta pumzi ndefu mara tatu.</item>
+        <item>Kuoga hutatua mambo mengi kuliko inavyoonekana.</item>
+        <item>Mwili wako umekaa sehemu moja kwa muda mrefu sana.</item>
+        <item>Mapumziko ya kweli hayana skrini.</item>
+        <item>Dakika ishirini za matembezi hubadilisha siku nzima.</item>
+        <item>Kichwa chako ni kizito kwa sababu mwili haujasogea.</item>
+        <item>Macho makavu, mabega magumu. Umeshagundua.</item>
+        <item>Kusimama kwa dakika mbili huburudisha kuliko kusogeza skrini.</item>
+        <item>Mwili unaomba usingizi na akili inaomba msisimko. Usikilize mwili.</item>
+        <item>Mwanga wa skrini huvuruga usingizi wako kwa saa kadhaa.</item>
+        <item>Nyoosha miguu. Ni haraka na inasaidia.</item>
+        <item>Unastahili mapumziko yanayokupumzisha kweli.</item>
+        <item>Mwendo ndio dawa nafuu zaidi ya kuinua moyo.</item>
+        <item>Mwili wako utaukumbuka usingizi wa usiku huu.</item>
+        <item>Kupumua polepole hutuliza haraka kuliko video yoyote.</item>
+        <item>Una njaa au umechoshwa. Gundua ni kipi.</item>
+        <item>Mwili hupata nafuu akili inapotulia.</item>
+        <item>Sekunde ishirini ukitazama nje ya dirisha.</item>
+        <item>Kifundo chako cha mkono na kidole gumba vinahitaji kupumzika.</item>
+        <item>Uchovu wa skrini hutoweka kwa kutembea.</item>
+        <item>Usingizini ndipo kumbukumbu hupangwa. Ulinde.</item>
+        <item>Unahitaji msisimko mdogo, si zaidi.</item>
+        <item>Kujinyoosha kwa dakika mbili kuna thamani kuliko dakika kumi za video.</item>
+        <item>Mwili wako unakupa ishara sasa.</item>
+        <item>Hewa, maji na mwendo. Siri haijabadilika.</item>
+        <item>Lala sakafuni kwa dakika moja. Kweli kabisa.</item>
+        <item>Skrini hukuweka macho wakati unahitaji kulala.</item>
+        <item>Mwili unaomba pumziko na mkono unaomba skrini. Toa pumziko.</item>
+        <item>Macho yako yamekuwa kazini tangu asubuhi.</item>
+        <item>Usiku wa usingizi mzuri hubadilisha dunia.</item>
+        <item>Simama. Simama tu. Hilo linatosha.</item>
+        <item>Utalala vizuri zaidi kwa sababu ya chaguo hili.</item>
+        <item>Mwili hushukuru kwa kile ambacho akili huona kinachosha.</item>
+        <item>Nyoosha mgongo. Unakuomba ufanye hivyo.</item>
+        <item>Mapumziko halisi ni utulivu, si msisimko mwingine.</item>
+        <item>Mwili wako una mdundo wake, na skrini inaupuuza.</item>
+        <item>Tazama upeo wa macho. Macho yanahitaji umbali.</item>
+        <item>Mkazo wa taya hautaisha kwa kusogeza skrini.</item>
+        <item>Umekaa kwa muda gani hasa.</item>
+        <item>Mwendo huleta uwazi. Daima umeleta.</item>
+        <item>Kunywa maji kabla ya kuamua jambo lolote.</item>
+        <item>Usingizi uliopotea haurudishwi kwa maudhui.</item>
+        <item>Mwili wako hufanya kazi vizuri ukiuruhusu.</item>
+        <item>Usingizi mfupi wa mchana huzaa zaidi kuliko saa moja ya mlisho.</item>
+        <item>Kuvuta pumzi ndefu ni bure na ni papo hapo.</item>
+        <item>Skrini hukaza mwili bila kukuarifu.</item>
+        <item>Umechoka kuliko unavyopaswa kuwa.</item>
+        <item>Simama utazame nje ya dirisha. Sekunde tano.</item>
+        <item>Mwili wako haukuumbwa kukaa tuli ukitazama mwanga.</item>
+        <item>Nyoosha vidole. Vimefanya kazi nyingi leo.</item>
+        <item>Usiku huwa mzuri zaidi bila skrini kabla ya kulala.</item>
+        <item>Skrini haitoi mapumziko.</item>
+        <item>Mwili wako unaomba mazingira asilia na unapokea pikseli.</item>
+        <item>Glasi moja ya maji na pumzi tatu. Fanya sasa.</item>
+        <item>Mkazo begani unatokana na jinsi unavyoshika simu.</item>
+        <item>Mwili hulegea umakini unapoacha kukimbia.</item>
+        <item>Utajisikia vizuri zaidi baada ya dakika tano.</item>
+        <item>Mwendo hubadilisha kemikali za mwili. Skrini hubadilisha mada tu.</item>
+        <item>Macho yako yanastahili mapumziko ya kweli.</item>
+        <item>Kutembea hupanga mawazo kuliko kusoma mlisho.</item>
+        <item>Mwanga wa bluu sasa ni usingizi mbaya baadaye.</item>
+        <item>Unahitaji kupumzika, si taarifa zaidi.</item>
+        <item>Pumzi mbili ndefu kabla ya jambo lolote.</item>
+        <item>Mwili wako una hekima kuliko msukumo.</item>
+        <item>Simama utembee hadi jikoni. Inatosha.</item>
+        <item>Pumzisha mwili, na akili itapumzika pamoja nao.</item>
+        <item>Kuna watu halisi karibu nawe sasa hivi.</item>
+        <item>Mazungumzo moja yana thamani kuliko machapisho mia tatu.</item>
+        <item>Mpigie mtu simu. Kwa sauti kabisa.</item>
+        <item>Mtu unayempenda yuko umbali wa ujumbe mmoja tu.</item>
+        <item>Watu wa kwenye mlisho hawajui kwamba upo.</item>
+        <item>Aliye nawe chumbani anastahili zaidi.</item>
+        <item>Kumbatio hutatua kile ambacho hakuna video inayoweza.</item>
+        <item>Mtumie ujumbe yule ambaye umekuwa ukimsahau.</item>
+        <item>Mama yako angefurahi kupigiwa simu leo.</item>
+        <item>Maisha halisi yana watu wanaojibu kwa kweli.</item>
+        <item>Yule rafiki aliyepotea bado anaweza kurudi. Mtafute.</item>
+        <item>Uwepo wako ndio kitu adimu zaidi unachoweza kutoa.</item>
+        <item>Kuna mtu anasubiri uinue macho.</item>
+        <item>Swali zuri lina thamani kuliko saa moja ya kusogeza skrini.</item>
+        <item>Watu walio karibu nawe hawana algoriti.</item>
+        <item>Unakosa mazungumzo yanayoendelea sasa hivi.</item>
+        <item>Hakuna mtu wa mlisho atakayekuwepo utakapohitaji msaada.</item>
+        <item>Kikombe cha kahawa na mtu hubadilisha wiki kuliko mlisho wowote.</item>
+        <item>Ukaribu wako ni zawadi. Utoe.</item>
+        <item>Mtazame aliye pamoja nawe.</item>
+        <item>Urafiki humwagiliwa. Umwagilie leo.</item>
+        <item>Mtu aliye kando yako ni halisi.</item>
+        <item>Anayekupenda hahitaji alama za kupenda.</item>
+        <item>Unakumbuka mazungumzo marefu ya mwisho uliyokuwa nayo.</item>
+        <item>Mwalike mtu mtembee pamoja.</item>
+        <item>Kumbukumbu bora mara chache huwa na skrini.</item>
+        <item>Kuna mtu anayefurahia kuwa nawe sasa hivi.</item>
+        <item>Mtumie ujumbe wa sauti unayempenda.</item>
+        <item>Watu hubadilika unapowapa umakini.</item>
+        <item>Uwepo wako una thamani kwa mtu fulani leo.</item>
+        <item>Mazungumzo mazuri hukuacha ukiwa bora. Mlisho hapana.</item>
+        <item>Kuna mtu anahitaji kujua kwamba ulimkumbuka.</item>
+        <item>Kutana na mtu badala ya kumfuatilia mtandaoni.</item>
+        <item>Mahusiano imara hujengwa kwa muda wa pamoja.</item>
+        <item>Unaweza kuwa sababu ya siku nzuri ya mtu fulani.</item>
+        <item>Yule ndugu ambaye hujaongea naye kwa miezi.</item>
+        <item>Ujumbe wa dhati una thamani kuliko mara elfu za kutazamwa.</item>
+        <item>Kuwa pamoja ni tofauti na kuunganishwa mtandaoni.</item>
+        <item>Wanaoishi nawe wanastahili uwepo wako wote.</item>
+        <item>Mwalike mtu kwa chakula cha jioni.</item>
+        <item>Watu halisi wana sura, sauti na muda wenye kikomo.</item>
+        <item>Kwa mtu fulani huwezi kubadilishwa. Jitokeze.</item>
+        <item>Mazungumzo muhimu zaidi ya siku yako bado hayajatokea.</item>
+        <item>Karibu nawe kuna mtu asiye na skrini pia.</item>
+        <item>Kumsikiliza mtu ndiyo njia rahisi zaidi ya kupendwa.</item>
+        <item>Yule rafiki anapitia jambo fulani. Muulize.</item>
+        <item>Mtoto wako, mbwa wako, jirani yako. Kuna mtu pale.</item>
+        <item>Mitandao inakuunganisha na watu wengi na hakuna hata mmoja.</item>
+        <item>Mchana mmoja na mtu una thamani ya mwezi wa mlisho.</item>
+        <item>Unaweza kumfanya mtu acheke leo. Kwa kweli.</item>
+        <item>Uwepo kamili ni adimu mno. Unao wa kutoa.</item>
+        <item>Kuna mtu alikuzungumzia wiki hii. Mrudishie wema.</item>
+        <item>Hakuna wa kwenye mlisho anayekukosa.</item>
+        <item>Simu ya dakika tano hubadilisha siku ya mtu.</item>
+        <item>Watu wenye maana hawachapishi kuhusu hilo.</item>
+        <item>Uko swali moja tu mbali na mazungumzo mazuri.</item>
+        <item>Kuwa pamoja kwa kweli hakuna matangazo katikati.</item>
+        <item>Yule mtu anayekuunga mkono kila mara. Mshukuru leo.</item>
+        <item>Kutazamana macho bado ndiyo teknolojia bora.</item>
+        <item>Familia yako si mlisho. Usiipitie kwa haraka.</item>
+        <item>Mwalike mtu mkae pamoja bila kufanya chochote.</item>
+        <item>Walio mbali nao wanastahili kusikia habari zako.</item>
+        <item>Una watu wanaokupenda nje ya hapa.</item>
+        <item>Mazungumzo magumu yaliyoahirishwa yana uzito kuliko mlisho.</item>
+        <item>Furahia walio karibu nawe wakati bado wapo.</item>
+        <item>Watu humkumbuka aliyekuwepo.</item>
+        <item>Mwalike rafiki kunywa kahawa bila sababu yoyote.</item>
+        <item>Mtu fulani mahali fulani anataka kujua hali yako.</item>
+        <item>Unaweza kumsikiliza mtu kwa kweli sasa.</item>
+        <item>Uhusiano hujengwa kwa kutazamana, si kwa kusogeza skrini.</item>
+        <item>Umakini wako ndio zawadi bora kwa unaowapenda.</item>
+        <item>Mtu mmoja ana thamani kuliko wasifu mmoja.</item>
+        <item>Yale mazungumzo uliyomwahidi mtu. Ni leo.</item>
+        <item>Kupatikana ni namna ya kupenda.</item>
+        <item>Una muda kwa ajili ya mtu fulani sasa.</item>
+        <item>Hakuna aliyeaga dunia akitamani wafuasi zaidi.</item>
+        <item>Kutana tena na mtu badala ya kumtazama kwa mbali.</item>
+        <item>Upendo unahitaji kusemwa kwa sauti wakati mwingine.</item>
+        <item>Kundi lako la marafiki bado lipo. Liite.</item>
+        <item>Kuna mtu kando yako anayetaka kuzungumza.</item>
+        <item>Kujilinganisha si kuungana.</item>
+        <item>Unaweza kuwepo kwa kweli leo.</item>
+        <item>Kijikaratasi kilichoandikwa kwa mkono. Wazo zuri kama nini.</item>
+        <item>Anayekujua kwa kweli hayuko kwenye mlisho.</item>
+        <item>Shiriki mchana na mtu fulani.</item>
+        <item>Watu wa karibu wanastahili kile unachokipa mlisho.</item>
+        <item>Wewe ni muhimu kwa mtu asiyechapisha chochote.</item>
+        <item>Piga simu uulize mtu anaendeleaje kwa kweli.</item>
+        <item>Upweke hauishi kwa skrini zaidi.</item>
+        <item>Mkaribie mtu leo.</item>
+        <item>Mlo wa pamoja una thamani ya mchana mzima.</item>
+        <item>Umakini wako hulisha mahusiano. Lisha moja.</item>
+        <item>Kuna mtu anayekufikiria sasa hivi.</item>
+        <item>Mwambie mtu kwamba unampenda.</item>
+        <item>Urafiki hufa kwa ukimya, si kwa ugomvi.</item>
+        <item>Una watu wema karibu nawe. Furahia.</item>
+        <item>Kuna mtu anahitaji kuwa na mtu karibu, nawe unaweza kuwa huyo.</item>
+        <item>Acha mlisho ukutane na watu.</item>
+        <item>Anayekupenda anataka muda wako, si wasifu wako.</item>
+        <item>Unaweza kuboresha siku ya mtu kwa dakika tano.</item>
+        <item>Kubuni huchosha na hujaza. Kutazama tu hupumzisha na humwaga.</item>
+        <item>Una mengi ya kusema kuliko ya kutazama.</item>
+        <item>Kuna mtu anayeunda kile ambacho ungetazama.</item>
+        <item>Andika mstari mmoja. Mmoja tu.</item>
+        <item>Dunia ina watazamaji wengi mno na waundaji wachache mno.</item>
+        <item>Lile wazo lako bado linasubiri.</item>
+        <item>Unaweza kufanya kitu badala ya kutazama kitu kilichofanywa.</item>
+        <item>Kila kitu kizuri kilifanywa na mtu ambaye hakuwa akisogeza skrini.</item>
+        <item>Wazo lako lina thamani kuliko mlisho mzima wa leo.</item>
+        <item>Anza lile jambo unaloahirisha. Dakika tano zinatosha.</item>
+        <item>Mradi uliokwama unahitaji kusukumwa kidogo tu.</item>
+        <item>Una kipaji cha jambo ambalo si kusogeza skrini.</item>
+        <item>Fanya leo kitu ambacho hakikuwepo jana.</item>
+        <item>Kubuni kunafurahisha kuliko kutazama; ugumu ni kuanza tu.</item>
+        <item>Lile daftari tupu haliumi.</item>
+        <item>Maudhui bora ni yale unayoyatengeneza.</item>
+        <item>Unajifunza zaidi kwa kufanya kuliko kwa kutazama.</item>
+        <item>Piga ala ya muziki, chora, pika. Fanya kitu kwa mikono.</item>
+        <item>Ubunifu wako hupotea unapojaza kichwa kwa mlisho.</item>
+        <item>Kuna kazi yako ambayo hakuna mtu ameifanya bado.</item>
+        <item>Anza vibaya. Baadaye itakuwa bora.</item>
+        <item>Aya moja kwa siku huwa kitabu.</item>
+        <item>Una hadithi ya kusimulia.</item>
+        <item>Kufanya mambo ndiyo dawa ya utupu.</item>
+        <item>Kuchoshwa ni mwanzo wa ubunifu. Kuache kuwepo.</item>
+        <item>Akili yako hubuni unapoacha kuijaza.</item>
+        <item>Ile kozi uliyolipia inakusubiri.</item>
+        <item>Kujifunza jambo jipya leo kunawezekana.</item>
+        <item>Kutazama tu ni rahisi. Ndiyo maana hakuridhishi sana.</item>
+        <item>Unataka kufanya kitu. Anza sasa.</item>
+        <item>Dakika tano za mazoezi zina thamani kuliko saa moja ya video.</item>
+        <item>Yale mapishi unayotaka kujaribu.</item>
+        <item>Mawazo huja kwenye ukimya, si katika kusogeza skrini.</item>
+        <item>Unaweza kuwa mwandishi badala ya hadhira.</item>
+        <item>Mradi mdogo hubadilisha wiki nzima.</item>
+        <item>Andika ungefanya nini kama ungekuwa na muda. Unao.</item>
+        <item>Mkono wako unajua kufanya mambo. Utumie.</item>
+        <item>Fanya kitu kisicho kamili leo.</item>
+        <item>Kujifunza kunafurahisha kuliko kuburudishwa.</item>
+        <item>Unachokiunda hubaki. Unachokipitisha kwenye skrini hupotea.</item>
+        <item>Ile ala ya muziki iliyoegemezwa pembeni.</item>
+        <item>Una mradi ambao haujakamilika unaokusubiri.</item>
+        <item>Kubuni ni kinyume cha kujilinganisha.</item>
+        <item>Anza kidogo. Anza leo.</item>
+        <item>Ukurasa mmoja kwa siku ni maisha tofauti.</item>
+        <item>Mawazo yako yanahitaji nafasi tupu ili kuchanua.</item>
+        <item>Fanya kitu kitakachokupa fahari kesho.</item>
+        <item>Furaha ya kubuni haina mbadala.</item>
+        <item>Unaweza zaidi ya kutazama tu.</item>
+        <item>Ile shughuli ya burudani uliyoiacha bado ipo.</item>
+        <item>Dakika ishirini za mazoezi ni dakika ishirini za maendeleo.</item>
+        <item>Hakuna anayebobea katika jambo lolote kwa kusogeza mlisho.</item>
+        <item>Ujuzi wako ujao utaanza wakati fulani. Na uwe sasa.</item>
+        <item>Fanya, hata kama hakuna anayeona.</item>
+        <item>Kuna kitu unachotaka kujifunza. Anza.</item>
+        <item>Kutazama tu ni kuyatazama maisha ya wengine.</item>
+        <item>Una mikono, akili na muda. Hivyo ndivyo vyote unavyohitaji.</item>
+        <item>Rasimu ya kwanza huwa mbaya daima. Iandike tu.</item>
+        <item>Ile lugha uliyotaka kuizungumza.</item>
+        <item>Kubuni ndiko kunakogeuza kuchoshwa kuwa furaha.</item>
+        <item>Kidogo kila siku hujenga ujuzi wowote.</item>
+        <item>Una kitu ndani yako kinachotaka kutoka.</item>
+        <item>Andika kuhusu siku yako. Kwa ajili yako tu.</item>
+        <item>Ubunifu wako unasubiri uzime kelele.</item>
+        <item>Fanya kitu kwa mikono yako leo.</item>
+        <item>Raha ya kumaliza kitu haifanani na kitu kingine chochote.</item>
+        <item>Ule mradi uliokuwa ukikusisimua. Bado unaweza kukusisimua.</item>
+        <item>Huhitaji kuwa hodari ili uanze.</item>
+        <item>Pika kitu kipya. Huo pia ni ubunifu.</item>
+        <item>Maisha huvutia zaidi unapofanya mambo.</item>
+        <item>Hakuna anayezaliwa akijua. Kila mtu huanza vibaya.</item>
+        <item>Lile wazo la usiku wa manane. Liandike.</item>
+        <item>Unaweza kumsaidia mtu kwa kile unachojua kufanya.</item>
+        <item>Fanya kidogo leo na kidogo kesho.</item>
+        <item>Wakati bora wa kuanza umeshapita. Wa pili kwa ubora ni sasa.</item>
+        <item>Kazi yako haitajifanya yenyewe.</item>
+        <item>Kufanya mazoezi kunachosha hadi unapoanza kuwa hodari.</item>
+        <item>Unataka kubuni. Mlisho unataka utazame tu.</item>
+        <item>Ule mchoro ulioanza.</item>
+        <item>Kufanya ndiyo njia ya haraka zaidi ya kujifunza.</item>
+        <item>Una sauti. Itumie kwa jambo fulani.</item>
+        <item>Kurekebisha kitu nyumbani pia ni kubuni.</item>
+        <item>Mafanikio yako yajayo yanaanza siku ya kawaida kama leo.</item>
+        <item>Fanya kitu ambacho ni wewe tu ungekifanya.</item>
+        <item>Mlisho hauna mwisho. Kazi yako ina mwisho, na ndiyo sababu ni muhimu.</item>
+        <item>Unaweza kupanda kitu leo. Kihalisi kabisa.</item>
+        <item>Lile jedwali, ule mpango, ile ndoto.</item>
+        <item>Kubuni ni kazi, na ndiyo sababu kunastahili.</item>
+        <item>Unavutia kuliko mlisho wowote.</item>
+        <item>Soma kwa dakika ishirini. Ni kidogo, na ni kingi.</item>
+        <item>Udadisi huwa bora unapogeuka kuwa vitendo.</item>
+        <item>Ule wimbo uliotaka kujifunza.</item>
+        <item>Fanya jambo moja rahisi na lenye manufaa sasa.</item>
+        <item>Una kitu kizuri cha kuipa dunia.</item>
+        <item>Anza kile utakachoshukuru kwamba ulikianza.</item>
+        <item>Mradi binafsi hubadilisha uhusiano wako na muda.</item>
+        <item>Kubuni ndiyo njia bora ya kuishughulisha akili.</item>
+        <item>Unaweza kumaliza kitu leo.</item>
+        <item>Weka mikono yako kwenye kitu halisi.</item>
+        <item>Hakuna kinachochukua nafasi ya hisia ya kuwa umefanya.</item>
+        <item>Ni sawa kwamba umefika hapa. Sasa pumua.</item>
+        <item>Hakuna anayehesabu chochote. Endelea mbele tu.</item>
+        <item>Unaendelea vizuri, hata kama haionekani hivyo.</item>
+        <item>Bila haraka wala shinikizo. Ni pumziko tu.</item>
+        <item>Huu si mtihani. Ni ukumbusho wa upole tu.</item>
+        <item>Unajaribu, na hilo tayari linatosha.</item>
+        <item>Kila kitu kiko sawa. Funga uendelee na siku yako.</item>
+        <item>Hakuna hapa kinachohusu kupatia kila mara.</item>
+        <item>Unastahili wepesi leo.</item>
+        <item>Bila kelele. Ni muda mfupi wa kupumua tu.</item>
+        <item>Hapa ni mahali patulivu. Kaa kidogo.</item>
+        <item>Unafanya kadiri unavyoweza. Hilo linahesabika.</item>
+        <item>Hakuna shinikizo hapa. Ni kujali tu.</item>
+        <item>Pumua. Hakuna kibaya kinachotokea.</item>
+        <item>Umefika hadi hapa, na hilo tayari ni zuri.</item>
+        <item>Hakuna anayekuhukumu. Hata wewe usijihukumu.</item>
+        <item>Kila kitu kiko shwari. Endelea tu.</item>
+        <item>Hatua moja baada ya nyingine ndio mwendo sahihi.</item>
+        <item>Huhitaji kuwa mkamilifu katika hili.</item>
+        <item>Polepole nako ni kutembea.</item>
+        <item>Skrini hii haikudai chochote.</item>
+        <item>Kuwa mpole kwako mwenyewe sasa.</item>
+        <item>Ni sawa kuhisi hamu. Ni sehemu ya safari.</item>
+        <item>Unajitunza. Hilo ni jambo zuri.</item>
+        <item>Bila taharuki, bila haraka, bila hofu.</item>
+        <item>Wewe ni binadamu. Hilo linaruhusiwa.</item>
+        <item>Huhitaji kujieleza kwa mtu yeyote.</item>
+        <item>Vuta pumzi ndefu. Imeshapita.</item>
+        <item>Uko salama hapa.</item>
+        <item>Ni sawa kama leo ni ngumu.</item>
+        <item>Hakuna siku inayofanana na nyingine. Hii nayo pia.</item>
+        <item>Uko njiani, hata kama ni polepole.</item>
+        <item>Ipumzishe kidogo sauti inayokudai.</item>
+        <item>Mambo yako sawa. Ni pumzi moja tu.</item>
+        <item>Huhitaji kuwa sawa kila wakati.</item>
+        <item>Upole kwako mwenyewe hufanya kazi kuliko ukali.</item>
+        <item>Wakati huu utapita kwa utulivu.</item>
+        <item>Tayari umefanya sehemu ngumu leo.</item>
+        <item>Hakuna la dharura. Hakuna zito. Ni pumziko tu.</item>
+        <item>Tabasamu. Hili ni dogo kuliko linavyoonekana.</item>
+        <item>Unajaribu, na hilo ndilo muhimu.</item>
+        <item>Huna wa kumpa hesabu. Endelea tu.</item>
+        <item>Kila kitu kiko sawa. Kwa kweli.</item>
+        <item>Unastahili siku nyepesi.</item>
+        <item>Pumua. Dunia inaendelea kuzunguka.</item>
+        <item>Hakuna haraka leo.</item>
+        <item>Una amani na chaguo hili.</item>
+        <item>Ni sawa kuanza upya mara nyingi kadiri unavyohitaji.</item>
+        <item>Hapa ni mahali pasipo na shinikizo.</item>
+        <item>Kuwa na subira na safari hii.</item>
+        <item>Hujachelewa katika jambo lolote.</item>
+        <item>Ni sawa kutokuwa sawa kwa asilimia mia.</item>
+        <item>Pumziko hili ni kujali, si kukurekebisha.</item>
+        <item>Unaweza tu kuendelea sasa.</item>
+        <item>Bila mkazo. Ni muda mfupi tu.</item>
+        <item>Ni sawa kama ulifanya bila kufikiri.</item>
+        <item>Huhitaji sababu ya kuwa sawa.</item>
+        <item>Pumua uendelee. Ni rahisi hivyo.</item>
+        <item>Hakuna tatizo hapa.</item>
+        <item>Unafanya ipasavyo.</item>
+        <item>Ni sawa kabisa. Nenda kwa amani.</item>
+        <item>Wakati huu ni wako wa kupumzika.</item>
+        <item>Hauko peke yako katika hili.</item>
+        <item>Mambo yametulia. Endelea na siku.</item>
+        <item>Bila uzito. Ni ukumbusho tu.</item>
+        <item>Tayari unatosha.</item>
+        <item>Utulivu unaoutafuta hauko kwenye mlisho.</item>
+        <item>Hakuna kibaya kwako.</item>
+        <item>Pumzisha akili kwa sekunde moja.</item>
+        <item>Unastahili kujaliwa hivi.</item>
+        <item>Hakuna kinachohitaji kutatuliwa sasa.</item>
+        <item>Pumua mara moja. Kisha endelea.</item>
+        <item>Uko sawa. Ni hivyo tu.</item>
+        <item>Bila madai, bila hesabu, bila alama za mchezo.</item>
+        <item>Muda wa utulivu katikati ya siku.</item>
+        <item>Unaweza kujionea upole sasa.</item>
+        <item>Kuna amani tele.</item>
+        <item>Hakuna haraka ya chochote.</item>
+        <item>Umefanya ulichoweza leo.</item>
+        <item>Ni sawa. Kesho ipo.</item>
+        <item>Wakati huu ni pumzi moja tu.</item>
+        <item>Uko salama, na hilo linatosha.</item>
+        <item>Hakuna hukumu hapa.</item>
+        <item>Pumua tu, kisha nenda ukaishi.</item>
+        <item>Unastahili utulivu leo.</item>
+        <item>Mwendo wowote ni sawa.</item>
+        <item>Pumzisha kichwa kidogo.</item>
+        <item>Karibu hapa wakati wowote.</item>
+        <item>Usiogope. Ni kituo kifupi tu.</item>
+        <item>Maisha si mbio leo.</item>
+        <item>Uko mzima, na hilo linatosha.</item>
+        <item>Ni sawa kwamba ulijaribu.</item>
+        <item>Hakuna chochote hapa kilicho dhidi yako.</item>
+        <item>Pumua na uendelee polepole.</item>
+        <item>Uko sawa jinsi ulivyo.</item>
+        <item>Huu ni wakati wa amani.</item>
+        <item>Hakuna madai yoyote. Endelea kwa wepesi.</item>
+        <item>Una ruhusa ya kupumzika.</item>
+        <item>Kila kitu ni shwari huku.</item>
+        <item>Nenda taratibu. Siku inakusubiri.</item>
+        <item>Unajionea upole, na hiyo ni nguvu.</item>
+        <item>Ungefanya nini sasa kama programu hii isingekuwepo.</item>
+        <item>Uko hapa kwa kupenda au kwa mazoea.</item>
+        <item>Ulikuwa ukitafuta nini hasa.</item>
+        <item>Hili litakuwa na maana kesho asubuhi.</item>
+        <item>Utakikumbuka kile ambacho ungeona sasa.</item>
+        <item>Ulikuwa ukifanya nini kabla ya kushika simu.</item>
+        <item>Unataka kulipa hili muda kiasi gani leo.</item>
+        <item>Umechoshwa au umechoka.</item>
+        <item>Mchana wako ungeweza kuwa nini badala ya hili.</item>
+        <item>Inastahili kweli.</item>
+        <item>Ulifungua kwa sababu maalum.</item>
+        <item>Ungeahirisha nini tena kama ungeingia sasa.</item>
+        <item>Unataka kuwa nani mwaka mmoja kuanzia sasa.</item>
+        <item>Nini kingekufaa kwa kweli sasa.</item>
+        <item>Unakimbia kitu fulani.</item>
+        <item>Vipi ukifanya lile jambo ambalo umekuwa ukiliahirisha.</item>
+        <item>Nini kingetokea kama ungefunga tu.</item>
+        <item>Una jambo bora la kufanya. Ni lipi.</item>
+        <item>Haya ni mapumziko au ni kukimbia.</item>
+        <item>Wewe wa kesho angekuomba ufanye nini.</item>
+        <item>Una njaa, usingizi au umechoshwa.</item>
+        <item>Ni lini mara ya mwisho mlisho ulikuacha ukiwa bora.</item>
+        <item>Unataka kuhisi nini mwisho wa siku.</item>
+        <item>Kinakosekana nini sasa.</item>
+        <item>Unahitaji hili au unalitaka tu.</item>
+        <item>Ni jambo gani dogo lingeboresha siku yako sasa.</item>
+        <item>Ungefanya nini na saa mbili za mapumziko.</item>
+        <item>Tayari unajua unachopaswa kuwa ukifanya.</item>
+        <item>Gharama halisi ya dakika hizi kumi na tano ni ipi.</item>
+        <item>Unataka hili au ni mkono tu unaojiendea.</item>
+        <item>Nini kingekuwa na thamani zaidi sasa.</item>
+        <item>Mambo ni shwari huko upande wako.</item>
+        <item>Chaguo bora lingekuwa lipi sasa, kwa utulivu.</item>
+        <item>Utajivunia nusu saa hii.</item>
+        <item>Ungefanya nini kama hakuna mtu angeona.</item>
+        <item>Kuna mtu ambaye ungeweza kumpigia sasa.</item>
+        <item>Akili yako inajaribu kukwepa nini.</item>
+        <item>Inafaa kubadilisha mchana wako kwa hili.</item>
+        <item>Una mpango wa leo. Unajumuisha hili.</item>
+        <item>Ni kitu gani kizuri zaidi cha kufanya sasa.</item>
+        <item>Uko sawa kweli, kwa dhati.</item>
+        <item>Nini kingeifanya wiki hii iwe na maana.</item>
+        <item>Hiki ndicho unachotaka au ndicho unachozoea kufanya.</item>
+        <item>Umeshafikiria unachotaka kufanya kesho.</item>
+        <item>Leo umeshika simu mara ngapi.</item>
+        <item>Nini kingekuridhisha saa moja kuanzia sasa.</item>
+        <item>Unataka kuingia au ni kidole tu kinachojiendesha.</item>
+        <item>Ni jambo gani muhimu unaloliacha kwa baadaye.</item>
+        <item>Wewe wa miaka kumi iliyopita angeonaje hili.</item>
+        <item>Unapumzika kweli.</item>
+        <item>Kuna jambo ambalo ungefanya kama ungekuwa na ujasiri.</item>
+        <item>Ungependa kuwa umefanya nini usiku huu.</item>
+        <item>Hili lina thamani kuliko mazungumzo na mtu.</item>
+        <item>Leo una muda wa kufanya nini.</item>
+        <item>Unataka kuwa na mazoea gani miezi sita kuanzia sasa.</item>
+        <item>Ni nini hasa kinachohitaji umakini wako.</item>
+        <item>Unapendelea kuukumbuka au kuusahau mchana huu.</item>
+        <item>Matumizi mazuri ya wakati huu yangekuwa yapi.</item>
+        <item>Uko hapa kuona kitu au ili usihisi kitu.</item>
+        <item>Nini kingekusaidia kulala vizuri leo.</item>
+        <item>Hili linaongeza au linapunguza kwenye siku yako.</item>
+        <item>Unataka kweli kujua kilichopo kule.</item>
+        <item>Ni jambo gani zuri la mwisho ulilofanya bila skrini.</item>
+        <item>Ungefanya nini mchana usio na intaneti.</item>
+        <item>Una haraka ya nini.</item>
+        <item>Ni hatua gani ndogo ungeweza kuchukua sasa.</item>
+        <item>Nini kinahitaji umakini wako kuliko hili.</item>
+        <item>Umeshavuta pumzi ndefu leo.</item>
+        <item>Mpango wako wa saa ijayo ni upi.</item>
+        <item>Hili linakusogeza karibu na kitu unachotaka.</item>
+        <item>Ungefanya hivi mbele ya mtu unayemvutia.</item>
+        <item>Ni jambo gani zuri lililotokea leo.</item>
+        <item>Kiasi gani cha siku yako kimeshaenda kwa skrini.</item>
+        <item>Una wazo lililokwama linalosubiri.</item>
+        <item>Unataka kufanya nini na wiki hii.</item>
+        <item>Inafaa kubadilisha utulivu kwa kelele.</item>
+        <item>Leo unabuni au unatazama tu.</item>
+        <item>Ni kitu gani rahisi kingekufaa sasa.</item>
+        <item>Ungemwambia nini rafiki aliye katika hali hii.</item>
+        <item>Una dakika tano. Za kufanya nini.</item>
+        <item>Ni nini hasa kinachokusumbua.</item>
+        <item>Hiki ndicho kitu bora unachoweza kufanya sasa.</item>
+        <item>Wewe ndiye unayeongoza wakati huu.</item>
+        <item>Ni uamuzi gani ambao ungeujivunia.</item>
+        <item>Unataka kuwa umefanya nini siku itakapoisha.</item>
+        <item>Unakumbuka kwa nini ulisakinisha hii.</item>
+        <item>Vipi ukiliacha kwa baadaye uone kama bado unalitaka.</item>
+        <item>Ungefanya nini leo kama ungekuwa na ujasiri zaidi.</item>
+        <item>Unataka toleo la haraka au toleo zuri la siku yako.</item>
+        <item>Ni kitu gani ambacho ni wewe tu unayeweza kukifanya leo.</item>
+        <item>Nini kinakusubiri huko nje.</item>
+        <item>Umeshashukuru kwa jambo lolote leo.</item>
+        <item>Nusu saa ijayo ina thamani gani kwako.</item>
+        <item>Unataka kubaki na nini kutoka wiki hii.</item>
+        <item>Hili ni la dharura au linaonekana hivyo tu.</item>
+        <item>Unafanya kile unachotaka kufanya.</item>
+        <item>Mwisho mzuri wa siku hii ungekuwa upi.</item>
+        <item>Ungefanya nini kama ungekuwa umepumzika.</item>
+        <item>Unapendelea kusogeza skrini au kuishi sasa.</item>
+        <item>Vipi ukifunga tu uone kitakachotokea.</item>
+    </string-array>
+</resources>

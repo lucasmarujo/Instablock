@@ -350,6 +350,8 @@ app/                        Rotas (expo-router), agrupadas por veredito:
 src/
   components/               Componentes compartilhados e a lógica pura testável
                             (countdownStatus.ts, tempoTela.ts, passos.ts)
+  i18n/                     Idioma do aparelho: 73 catálogos tipados (pt-BR é a
+                            fonte), plural CLDR próprio, escolha do idioma
   native/                   Ponte TS fina sobre o módulo nativo
   state/                    Veredito, apps bloqueados, storage do onboarding
   theme/                    Tokens e tema (claro/escuro)

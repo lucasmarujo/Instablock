@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">%1$s ถูกบล็อกอยู่</string>
+    <string name="aceleralock_block_title_unknown">แอปนี้ถูกบล็อกอยู่</string>
+    <string name="aceleralock_block_close">ปิด</string>
+    <string name="aceleralock_notification_channel">การป้องกันทำงานอยู่</string>
+    <string name="aceleralock_notification_text">การป้องกันทำงานอยู่</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: บล็อกเว็บไซต์</string>
+    <string name="aceleralock_site_accessibility_description">อ่านเฉพาะที่อยู่เว็บในแถบที่อยู่ของ Chrome, Samsung Internet, Firefox, Edge และ Brave เพื่อบล็อกเว็บไซต์ที่คุณเลือกไว้ ไม่มีการบันทึกข้อมูลใดๆ และไม่มีข้อมูลใดออกจากเครื่อง</string>
+</resources>

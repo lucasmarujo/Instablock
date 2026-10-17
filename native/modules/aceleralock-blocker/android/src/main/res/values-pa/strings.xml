@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">%1$s ਬਲੌਕ ਹੈ।</string>
+    <string name="aceleralock_block_title_unknown">ਇਹ ਐਪ ਬਲੌਕ ਹੈ।</string>
+    <string name="aceleralock_block_close">ਬੰਦ ਕਰੋ</string>
+    <string name="aceleralock_notification_channel">ਸੁਰੱਖਿਆ ਚਾਲੂ</string>
+    <string name="aceleralock_notification_text">ਸੁਰੱਖਿਆ ਚਾਲੂ</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: ਸਾਈਟ ਬਲੌਕ</string>
+    <string name="aceleralock_site_accessibility_description">Chrome, Samsung Internet, Firefox, Edge ਅਤੇ Brave ਦੀ ਐਡਰੈੱਸ ਬਾਰ ਵਿੱਚੋਂ ਸਿਰਫ਼ ਪਤਾ ਪੜ੍ਹਦਾ ਹੈ, ਤਾਂ ਜੋ ਤੁਹਾਡੀਆਂ ਚੁਣੀਆਂ ਸਾਈਟਾਂ ਬਲੌਕ ਹੋ ਸਕਣ। ਕੁਝ ਵੀ ਸੰਭਾਲਿਆ ਨਹੀਂ ਜਾਂਦਾ ਅਤੇ ਕੁਝ ਵੀ ਡੀਵਾਈਸ ਤੋਂ ਬਾਹਰ ਨਹੀਂ ਜਾਂਦਾ।</string>
+</resources>

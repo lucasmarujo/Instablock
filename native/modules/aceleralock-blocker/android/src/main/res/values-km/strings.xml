@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">%1$s ត្រូវបានទប់ស្កាត់។</string>
+    <string name="aceleralock_block_title_unknown">កម្មវិធីនេះត្រូវបានទប់ស្កាត់។</string>
+    <string name="aceleralock_block_close">បិទ</string>
+    <string name="aceleralock_notification_channel">ការការពារកំពុងបើក</string>
+    <string name="aceleralock_notification_text">ការការពារកំពុងបើក</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: ការទប់ស្កាត់គេហទំព័រ</string>
+    <string name="aceleralock_site_accessibility_description">អានតែអាសយដ្ឋានក្នុងរបារនៃ Chrome, Samsung Internet, Firefox, Edge និង Brave ដើម្បីទប់ស្កាត់គេហទំព័រដែលអ្នកបានជ្រើសរើស។ គ្មានអ្វីត្រូវបានរក្សាទុក ហើយគ្មានអ្វីចេញពីឧបករណ៍របស់អ្នកទេ។</string>
+</resources>

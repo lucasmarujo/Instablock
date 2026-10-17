@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">%1$s заблакаваны.</string>
+    <string name="aceleralock_block_title_unknown">Гэта праграма заблакаваная.</string>
+    <string name="aceleralock_block_close">Закрыць</string>
+    <string name="aceleralock_notification_channel">Абарона ўключана</string>
+    <string name="aceleralock_notification_text">Абарона ўключана</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: блакіроўка сайтаў</string>
+    <string name="aceleralock_site_accessibility_description">Чытае толькі адрас у радку Chrome, Samsung Internet, Firefox, Edge і Brave, каб блакіраваць выбраныя табой сайты. Нічога не захоўваецца і нічога не пакідае прыладу.</string>
+</resources>

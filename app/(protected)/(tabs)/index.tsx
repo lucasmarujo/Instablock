@@ -1,6 +1,15 @@
 import { Ionicons } from '@expo/vector-icons';
 import { useCallback, useState } from 'react';
-import { Linking, Platform, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import {
+  I18nManager,
+  Linking,
+  Platform,
+  Pressable,
+  ScrollView,
+  StyleSheet,
+  Text,
+  View,
+} from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { useFocusEffect, useRouter } from 'expo-router';
 
@@ -31,6 +40,9 @@ import {
   semanaAteHoje,
 } from '@/components/TempoTela/tempoTela';
 import { useTempoTela } from '@/components/TempoTela/useTempoTela';
+import type { Textos } from '@/i18n/catalogo';
+import { capitalizar, formatar } from '@/i18n/formatos';
+import { useTextos } from '@/i18n/IdiomaContext';
 import AceleralockBlocker, { type InstalledApp } from '@/native/blocker';
 import { readDailyHours, readUserName } from '@/state/onboardingStorage';
 import { useProtectionVerdictContext } from '@/state/ProtectionVerdictContext';
@@ -42,6 +54,7 @@ const MAIS_USADOS = 3;
 
 export default function Home() {
   const theme = useTheme();
+  const t = useTextos();
   const router = useRouter();
   const tempoTela = useTempoTela();
   const [nome, setNome] = useState<string | null>(null);
@@ -109,7 +122,7 @@ export default function Home() {
   const sitesDesligados =
     Platform.OS === 'android' && permissions?.accessibility === false && quantosSites > 0;
 
-  const resto = restoDaPilha(quantosApps, quantosSites, ICONES_NA_PILHA);
+  const resto = restoDaPilha(quantosApps, quantosSites, ICONES_NA_PILHA, t);
 
   return (
     <SafeAreaView
@@ -120,13 +133,13 @@ export default function Home() {
         <View style={styles.cabecalho}>
           <View style={styles.saudacao}>
             <Text style={[styles.data, { color: theme.colors.textTertiary }]}>
-              {dataPorExtenso(new Date())}
+              {dataPorExtenso(new Date(), t)}
             </Text>
             <Text
               accessibilityRole="header"
               style={[styles.ola, { color: theme.colors.textPrimary }]}
             >
-              {nome ? `Olá, ${nome}` : 'Olá'}
+              {nome ? formatar(t.inicio.saudacaoComNome, { nome }) : t.inicio.saudacao}
             </Text>
           </View>
           <Avatar nome={nome} size={40} />
@@ -143,13 +156,13 @@ export default function Home() {
             </View>
             <View style={styles.textos}>
               <Text style={[styles.tituloHero, { color: theme.colors.textOnHero }]}>
-                Proteção ativa
+                {t.inicio.protecaoAtiva}
               </Text>
               {bloqueados === null || sites === null ? (
                 <Skeleton width="70%" height={18} />
               ) : (
                 <Text style={[styles.subtituloHero, { color: theme.colors.textOnHeroSecondary }]}>
-                  {resumoBloqueios(quantosApps, quantosSites, sitesDesligados)}
+                  {resumoBloqueios(quantosApps, quantosSites, t, sitesDesligados)}
                 </Text>
               )}
             </View>
@@ -181,15 +194,20 @@ export default function Home() {
             </View>
             <Pressable
               accessibilityRole="button"
-              accessibilityLabel="Gerenciar bloqueios"
+              accessibilityLabel={t.inicio.gerenciarBloqueios}
               hitSlop={12}
               onPress={() => router.navigate('/bloqueios')}
               style={({ pressed }) => [styles.gerenciar, { opacity: pressed ? 0.7 : 1 }]}
             >
               <Text style={[styles.acaoHero, { color: theme.colors.textOnHeroBrand }]}>
-                Gerenciar
+                {t.inicio.gerenciar}
               </Text>
-              <Ionicons name="chevron-forward" size={18} color={theme.colors.textOnHeroBrand} />
+              <Ionicons
+                name="chevron-forward"
+                size={18}
+                color={theme.colors.textOnHeroBrand}
+                style={I18nManager.isRTL && styles.espelhado}
+              />
             </Pressable>
           </View>
 
@@ -203,22 +221,24 @@ export default function Home() {
             />
             <View style={styles.textos}>
               <Text style={[styles.tituloRestrito, { color: theme.colors.textOnHero }]}>
-                {restricted ? 'Modo restrito ligado' : 'Modo restrito desligado'}
+                {restricted ? t.inicio.modoRestritoLigado : t.inicio.modoRestritoDesligado}
               </Text>
               <Text style={[styles.detalheRestrito, { color: theme.colors.textOnHeroSecondary }]}>
-                {restricted ? 'Mudar a lista pede espera.' : 'Tirar um app da lista é imediato.'}
+                {restricted
+                  ? t.inicio.modoRestritoLigadoDetalhe
+                  : t.inicio.modoRestritoDesligadoDetalhe}
               </Text>
             </View>
             {!restricted && (
               <Pressable
                 accessibilityRole="button"
-                accessibilityLabel="Ligar o modo restrito"
+                accessibilityLabel={t.inicio.ligarModoRestrito}
                 hitSlop={12}
                 onPress={ligarModoRestrito}
                 style={({ pressed }) => [styles.ligar, { opacity: pressed ? 0.7 : 1 }]}
               >
                 <Text style={[styles.acaoHero, { color: theme.colors.textOnHeroBrand }]}>
-                  Ligar
+                  {t.inicio.ligar}
                 </Text>
               </Pressable>
             )}
@@ -228,9 +248,9 @@ export default function Home() {
         {sitesDesligados && (
           <View style={styles.aviso}>
             <InlineAlert
-              title={tituloSitesSemBloqueio(quantosSites)}
-              message="A leitura do navegador foi desligada. Os apps continuam bloqueados."
-              actionLabel="Ligar nas Configurações"
+              title={tituloSitesSemBloqueio(quantosSites, t)}
+              message={t.inicio.sitesSemBloqueioMensagem}
+              actionLabel={t.inicio.sitesSemBloqueioAcao}
               onAction={() =>
                 Linking.sendIntent('android.settings.ACCESSIBILITY_SETTINGS').catch(() =>
                   Linking.openSettings()
@@ -247,17 +267,17 @@ export default function Home() {
           ]}
         >
           <View style={styles.hoje}>
-            <Overline>Tempo de tela hoje</Overline>
+            <Overline>{t.inicio.tempoDeTelaHoje}</Overline>
             {tempoTela.estado === 'carregando' && <Skeleton width="60%" height={48} />}
             {tempoTela.estado === 'erro' && (
               <Text style={[styles.corpo, { color: theme.colors.textSecondary }]}>
-                Não deu para ler o tempo de tela agora.
+                {t.inicio.erroTempoDeTela}
               </Text>
             )}
             {tempoTela.estado === 'pronto' && (
               <>
                 <Text style={[styles.metrica, { color: theme.colors.textPrimary }]}>
-                  {formatarDuracao(tempoTela.resumo.todaySeconds)}
+                  {formatarDuracao(tempoTela.resumo.todaySeconds, t)}
                 </Text>
                 <Comparacao
                   segundosHoje={
@@ -283,7 +303,7 @@ export default function Home() {
             accessibilityRole="header"
             style={[styles.tituloSecao, { color: theme.colors.textPrimary }]}
           >
-            Mais usados hoje
+            {t.inicio.maisUsadosHoje}
           </Text>
           {tempoTela.estado === 'carregando' && <Skeleton width="100%" height={64} />}
           {tempoTela.estado === 'pronto' &&
@@ -301,7 +321,7 @@ export default function Home() {
                           {app.label}
                         </Text>
                         <Text style={[styles.duracaoApp, { color: theme.colors.textPrimary }]}>
-                          {formatarDuracao(app.seconds)}
+                          {formatarDuracao(app.seconds, t)}
                         </Text>
                       </View>
                       <View style={[styles.trilho, { backgroundColor: theme.colors.bgSunken }]}>
@@ -326,8 +346,8 @@ export default function Home() {
               </Grupo>
             ) : (
               <EmptyState
-                title="Nada registrado hoje"
-                message="Assim que você usar o celular, os apps aparecem aqui."
+                title={t.inicio.nadaRegistradoTitulo}
+                message={t.inicio.nadaRegistradoMensagem}
               />
             ))}
         </View>
@@ -340,13 +360,13 @@ export default function Home() {
 
         <View style={styles.secao}>
           <Text style={[styles.tituloSecao, { color: theme.colors.textPrimary }]}>
-            {mesPorExtenso(new Date())}
+            {mesPorExtenso(new Date(), t)}
           </Text>
           {tempoTela.estado === 'pronto' && (
             <CalendarioTempoTela ancora={new Date()} leituras={tempoTela.resumo.days} />
           )}
           <Text style={[styles.nota, { color: theme.colors.textTertiary }]}>
-            Dias em branco são dias sem medição — o histórico começa quando você instala o app.
+            {t.inicio.notaCalendario}
           </Text>
         </View>
         */}
@@ -368,6 +388,7 @@ function Comparacao({
   estimativa: number | null;
 }) {
   const theme = useTheme();
+  const t = useTextos();
   const comparacao = compararComEstimativa(segundosHoje, estimativa);
   if (!comparacao || estimativa === null) {
     return null;
@@ -385,7 +406,7 @@ function Comparacao({
     >
       <Ionicons name={icone} size={16} color={cor} />
       <Text style={[styles.textoChip, { color: cor }]}>
-        {descreverComparacao(comparacao, estimativa)}
+        {descreverComparacao(comparacao, estimativa, t)}
       </Text>
     </View>
   );
@@ -404,23 +425,24 @@ function Semana({
   estimativa: number | null;
 }) {
   const theme = useTheme();
-  const semana = semanaAteHoje(leituras, new Date());
+  const t = useTextos();
+  const semana = semanaAteHoje(leituras, new Date(), t);
 
   if (semana.every((dia) => dia.segundos === null)) {
     return (
       <EmptyState
-        title="Seu histórico começa agora"
-        message="A partir de hoje o AceleraLock guarda quanto tempo você passa na tela, e este gráfico se enche sozinho."
+        title={t.inicio.historicoComecaTitulo}
+        message={t.inicio.historicoComecaMensagem}
       />
     );
   }
 
-  const nota = notaSemLeitura(semana);
+  const nota = notaSemLeitura(semana, t);
 
   return (
     <View style={styles.conteudoSemana}>
       <View style={styles.cabecalhoSemana}>
-        <Overline>Últimos 7 dias</Overline>
+        <Overline>{t.inicio.ultimos7Dias}</Overline>
         {estimativa !== null && (
           <View style={styles.legenda}>
             <View style={styles.tracos}>
@@ -432,7 +454,7 @@ function Semana({
               ))}
             </View>
             <Text style={[styles.textoLegenda, { color: theme.colors.textSecondary }]}>
-              sua estimativa
+              {t.inicio.legendaEstimativa}
             </Text>
           </View>
         )}
@@ -443,7 +465,7 @@ function Semana({
           horas: dia.segundos === null ? null : dia.segundos / 3600,
           destaque: dia.hoje,
         }))}
-        legenda="Tempo de tela nos últimos 7 dias"
+        legenda={t.inicio.legendaGraficoSemana}
         mostrarValor
         estimativaHoras={estimativa}
       />
@@ -454,9 +476,8 @@ function Semana({
 
 /** Usada so pelo calendario, que esta comentado acima. */
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
-function mesPorExtenso(data: Date): string {
-  const nome = data.toLocaleDateString('pt-BR', { month: 'long' });
-  return nome.charAt(0).toLocaleUpperCase('pt-BR') + nome.slice(1);
+function mesPorExtenso(data: Date, t: Textos): string {
+  return capitalizar(t, t.datas.meses[data.getMonth()]);
 }
 
 const styles = StyleSheet.create({
@@ -538,6 +559,9 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     gap: 2,
+  },
+  espelhado: {
+    transform: [{ scaleX: -1 }],
   },
   acaoHero: {
     fontSize: typography.callout.fontSize,

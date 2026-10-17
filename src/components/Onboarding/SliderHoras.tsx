@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
-import { PanResponder, StyleSheet, View } from 'react-native';
+import { I18nManager, PanResponder, StyleSheet, View } from 'react-native';
 import Animated, {
   Easing,
   useAnimatedStyle,
@@ -9,6 +9,7 @@ import Animated, {
   withTiming,
 } from 'react-native-reanimated';
 
+import { useTextos } from '@/i18n/IdiomaContext';
 import { brand, duration, easing, radius, spacing } from '@/theme/tokens';
 import { useTheme } from '@/theme/useTheme';
 
@@ -29,6 +30,13 @@ const TRILHA_ALTURA = 8;
 const THUMB = 28;
 
 /**
+ * Em RTL o minimo fica a direita: o `left: 0` do thumb vira a borda direita e o
+ * preenchimento cresce dela, entao o toque (sempre medido da esquerda) e o
+ * deslocamento do thumb precisam espelhar junto.
+ */
+const SENTIDO = I18nManager.isRTL ? -1 : 1;
+
+/**
  * Slider de 1 a 12 com `PanResponder` do proprio RN: o app tem gesture-handler
  * instalado, mas nao monta `GestureHandlerRootView` em lugar nenhum — um
  * arrasto horizontal simples nao paga esse custo de setup.
@@ -46,6 +54,7 @@ const THUMB = 28;
  */
 export function SliderHoras({ horas, onChange }: Props) {
   const theme = useTheme();
+  const t = useTextos();
   const reduzido = useReducedMotion();
   const [largura, setLargura] = useState(0);
   const larguraRef = useRef(0);
@@ -97,7 +106,8 @@ export function SliderHoras({ horas, onChange }: Props) {
   /* eslint-enable react-hooks/refs, react-hooks/exhaustive-deps */
 
   function aplicar(x: number) {
-    const posicao = proporcaoDoToque(x, larguraRef.current);
+    const xNoSentidoDaLeitura = SENTIDO === 1 ? x : larguraRef.current - x;
+    const posicao = proporcaoDoToque(xNoSentidoDaLeitura, larguraRef.current);
     proporcao.value = posicao;
 
     const novasHoras = horasDaProporcao(posicao);
@@ -147,7 +157,10 @@ export function SliderHoras({ horas, onChange }: Props) {
   }));
 
   const estiloThumb = useAnimatedStyle(() => ({
-    transform: [{ translateX: proporcao.value * largura - THUMB / 2 }, { scale: pulo.value }],
+    transform: [
+      { translateX: SENTIDO * (proporcao.value * largura - THUMB / 2) },
+      { scale: pulo.value },
+    ],
   }));
 
   return (
@@ -155,7 +168,7 @@ export function SliderHoras({ horas, onChange }: Props) {
       style={styles.area}
       accessible
       accessibilityRole="adjustable"
-      accessibilityLabel="Horas por dia no celular"
+      accessibilityLabel={t.onboarding.horas.sliderAcessivel}
       accessibilityValue={{ min: HORAS_MIN, max: HORAS_MAX, now: horas }}
       // Sem estas acoes o controle so existe pra quem consegue arrastar.
       accessibilityActions={[{ name: 'increment' }, { name: 'decrement' }]}

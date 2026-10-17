@@ -2,6 +2,7 @@ import { useRouter, type Href } from 'expo-router';
 
 import { Button } from '@/components/Button';
 import { TelaDeEstado } from '@/components/TelaDeEstado';
+import { useTextos } from '@/i18n/IdiomaContext';
 import { useProtectionVerdictContext } from '@/state/ProtectionVerdictContext';
 import type { ProtectionVerdict } from '@/state/verdict';
 
@@ -18,18 +19,19 @@ const INICIO_DO_VEREDITO: Record<Exclude<ProtectionVerdict, 'loading'>, Href> = 
 };
 
 export default function NotFound() {
+  const t = useTextos();
   const router = useRouter();
   const { verdict } = useProtectionVerdictContext();
 
   return (
     <TelaDeEstado
       icon="compass-outline"
-      title="Esta tela não existe"
-      message="O link que trouxe você até aqui está quebrado ou desatualizado."
+      title={t.estados.naoEncontrado.titulo}
+      message={t.estados.naoEncontrado.mensagem}
       action={
         verdict === 'loading' ? undefined : (
           <Button
-            label="Voltar para o início"
+            label={t.estados.naoEncontrado.voltarParaOInicio}
             onPress={() => router.replace(INICIO_DO_VEREDITO[verdict])}
           />
         )

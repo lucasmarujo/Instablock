@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">%1$s on estetty.</string>
+    <string name="aceleralock_block_title_unknown">Tämä sovellus on estetty.</string>
+    <string name="aceleralock_block_close">Sulje</string>
+    <string name="aceleralock_notification_channel">Suojaus päällä</string>
+    <string name="aceleralock_notification_text">Suojaus päällä</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: sivustojen esto</string>
+    <string name="aceleralock_site_accessibility_description">Lukee vain osoiterivin osoitteen näistä selaimista: Chrome, Samsung Internet, Firefox, Edge ja Brave. Näin valitsemasi sivustot voidaan estää. Mitään ei tallenneta, eikä mikään lähde laitteesta.</string>
+</resources>

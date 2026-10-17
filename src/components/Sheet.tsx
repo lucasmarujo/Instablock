@@ -2,6 +2,7 @@ import type { ReactNode } from 'react';
 import { Modal, Pressable, StyleSheet, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
+import { useTextos } from '@/i18n/IdiomaContext';
 import { elevation, radius, spacing } from '@/theme/tokens';
 import { useTheme } from '@/theme/useTheme';
 
@@ -23,6 +24,7 @@ const SCRIM = 'rgba(4, 20, 28, 0.48)';
  */
 export function Sheet({ visible, onClose, children, accessibilityLabel }: Props) {
   const theme = useTheme();
+  const t = useTextos();
   const insets = useSafeAreaInsets();
 
   return (
@@ -38,7 +40,7 @@ export function Sheet({ visible, onClose, children, accessibilityLabel }: Props)
           style={[StyleSheet.absoluteFill, { backgroundColor: SCRIM }]}
           onPress={onClose}
           accessibilityRole="button"
-          accessibilityLabel="Fechar"
+          accessibilityLabel={t.comum.fecharFolha}
         />
         <View
           accessibilityViewIsModal

@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Filipino: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>Ang oras na hindi mo ginugol dito ay buong babalik sa buhay mo.</item>
+        <item>Bawat minutong malayo sa screen na ito ay minuto mo ulit.</item>
+        <item>Kasya ang dalawampung minutong ito sa isang lakad.</item>
+        <item>Mas maluwag pala ang araw kapag huminto ang pag-scroll.</item>
+        <item>Nabawi mo na ang isang bahagi ng hapon mo.</item>
+        <item>Ang isang oras bawat araw ay labinlimang araw bawat taon.</item>
+        <item>Hindi na bumabalik ang oras, pero puwede mo pang piliin kung saan ito mapupunta.</item>
+        <item>Sa iyo ang sandaling ito. Walang kailangang makaalam kung ano ang ginawa mo rito.</item>
+        <item>May buong buhay na nangyayari sa labas ng app.</item>
+        <item>Pareho ang takbo ng orasan sa magkabilang panig ng screen na ito.</item>
+        <item>Nakabili ka ng oras ngayon. Gastusin mo sa bagay na maaalala mo bukas.</item>
+        <item>Walang nagsasabi sa pagtatapos ng araw na sana ay mas matagal pa siyang nag-scroll.</item>
+        <item>Ang labinlimang minuto rito ay labinlimang minuto rin saanman.</item>
+        <item>Isipin ang gagawin mo sa kalahating oras na ito sampung taon na ang nakararaan.</item>
+        <item>Ang oras mo lang ang hindi mo na kayang bilhin ulit.</item>
+        <item>Bukas pa ang buong hapon sa harap mo.</item>
+        <item>Puwedeng simula ng ibang bagay ang minutong ito.</item>
+        <item>Ibinabalik mo sa sarili mo ang mga oras, isa-isa.</item>
+        <item>Hindi nawawala ang oras na natipid dito. Lumilitaw ito sa ibang lugar.</item>
+        <item>Mukhang kaunti ang sampung minuto hanggang pagsamahin mo ang sa isang buwan.</item>
+        <item>Sa normal na bilis nangyayari ang buhay, hindi sa bilis ng feed.</item>
+        <item>Mas marami kang oras ngayon kaysa kahapon sa ganitong oras.</item>
+        <item>Eksaktong kasya sa sandaling ito ang bagay na ipinagpapaliban mo.</item>
+        <item>Maikli ang hintong ito. Ang gagawin mo rito, puwedeng hindi.</item>
+        <item>Maraming kasya sa isang araw kapag wala na ang scroll sa gitna.</item>
+        <item>Nabawi mo na ang natitirang bahagi ng gabi.</item>
+        <item>Oras ang pera rito. Pinili mong huwag itong gastusin.</item>
+        <item>Hindi natatapos ang feed. Ang araw mo, natatapos.</item>
+        <item>Ang kalahating oras bawat araw ay isang buong libro bawat buwan.</item>
+        <item>Walang apurahang naghihintay sa iyo roon.</item>
+        <item>Sa iyo na ang oras na ito noon pa. Ngayon, bumalik na ito sa iyo.</item>
+        <item>Marami pang magagawa sa umaga kung sisimulan mo ngayon.</item>
+        <item>Wala kang nawala. May nakuha kang pahinga.</item>
+        <item>Walang magbabalik ng oras sa atin. Tayo ang hahawak dito.</item>
+        <item>Mas mahalaga ang mga minutong ito sa labas, at alam mo na iyon.</item>
+        <item>Nandoon pa rin ang nandoon. Ang oras mo ang hindi naghihintay.</item>
+        <item>Binubuo ang buhay ng mga hapong tulad nito.</item>
+        <item>Puwede mong tapusin ang araw na may nagawa, hindi lang may napanood.</item>
+        <item>Ang dalawang oras bawat araw ay isang buong buwan bawat taon.</item>
+        <item>Ang oras na iniingatan mo ngayon ang matitira sa iyo bukas.</item>
+        <item>Ito ang bahagi ng araw na ikaw lang ang magpapasya.</item>
+        <item>Walang nakasulat doon na sulit sa buong hapon mo.</item>
+        <item>Kayang bumuo ng kahit ano ang tatlumpung minuto bawat araw sa loob ng isang taon.</item>
+        <item>Nakabili ka ng kaunting katahimikan.</item>
+        <item>Humahaba ang araw kapag umiikli ang feed.</item>
+        <item>Hilaw na materyales ang oras na ito. Gumawa ka ng kahit ano mula rito.</item>
+        <item>May proyekto kang naghihintay sa mismong sandaling ito.</item>
+        <item>Ang nakukuha mo rito ay hindi lumalabas sa anumang screen, sa buhay mo lang.</item>
+        <item>Bihira ang bakanteng oras. Kakagawa mo lang ng isa.</item>
+        <item>Walang sinuman sa dulo ng buhay ang humiling ng isa pang scroll.</item>
+        <item>Nasa iyo ang buong hapon, at hindi pa ito nagagastos.</item>
+        <item>Ang isang taon ay tatlong daan at animnapu’t limang pagpiling tulad nito.</item>
+        <item>Maliit ang pagitang ito, pero buong-buo itong sa iyo.</item>
+        <item>Pareho lang ang paglipas ng oras. Ang pinagkaiba ay kung ano ang naiiwan pagkatapos.</item>
+        <item>Inalis mo ang kalahating oras sa autopilot.</item>
+        <item>Nagpapasalamat ang natitirang araw sa paghintong ito.</item>
+        <item>Ang limang minuto roon ay nagiging apatnapu nang walang nakapapansin.</item>
+        <item>Alam mo ang halaga ng limang minutong iyon. Kaya ka nandito.</item>
+        <item>Ang oras na iniingatan mo ngayon ang hahanapin mo mamayang gabi.</item>
+        <item>Walang gaganda roon dahil lang ngayon mo nakita sa halip na mamaya.</item>
+        <item>Pinili mo kung saan mapupunta ang susunod na minuto.</item>
+        <item>Kasya ang oras na ito sa isang kuwentuhan, isang lakad, isang idlip.</item>
+        <item>Mas marami kang nagagawa kapag hindi na tumatagas ang mga oras.</item>
+        <item>Ikaw lang ang may-ari ng susunod na kalahating oras.</item>
+        <item>May bersyon ng araw na ito kung saan may nagawa ka. Nagsisimula ito ngayon.</item>
+        <item>Hindi naiipon ang oras. Nagagastos lang ito nang mas mabuti o mas masama.</item>
+        <item>Puwedeng maging tunay na pahinga ang mga minutong ito.</item>
+        <item>Bumaba ka na sa treadmill na walang patutunguhan.</item>
+        <item>May isang daan at animnapu’t walong oras ang isang linggo. Sa iyo ang isang ito.</item>
+        <item>Paunti-unting kinukuha ng feed ang oras para walang makapansin.</item>
+        <item>Ngayon, magagawa mo na ang bagay na lagi mong ipinagpapabukas.</item>
+        <item>Hindi kailangang magkasya ang hapon mo sa loob ng isang screen.</item>
+        <item>Ang sobrang oras ang nagpapahaba sa araw sa magandang paraan.</item>
+        <item>Ibinalik mo sa sarili mo ang susunod na oras.</item>
+        <item>Wala sa makikita mo ngayon ang maaalala mo pa sa loob ng isang linggo.</item>
+        <item>Ganitong klase ng minuto ang bumubuo o tumutunaw sa isang taon.</item>
+        <item>May oras kang nakuha. Hindi mo kailangang gastusin agad.</item>
+        <item>Mas maraming kasya sa araw na walang scroll.</item>
+        <item>Hindi pinaghihiwalay ng orasan ang magandang oras at ang nasayang. Ikaw ang naghihiwalay.</item>
+        <item>Kasinghalaga ng oras na ito ang alinmang oras sa buhay mo.</item>
+        <item>May oras ka ngayon. Mas bihira iyan kaysa sa inaakala mo.</item>
+        <item>Ang pag-iipon ng oras ang tanging paraan para magkaroon ng oras.</item>
+        <item>Nasa harap mo pa ang buong gabi.</item>
+        <item>Simula ang mga minutong ito ng hapong maaalala mo.</item>
+        <item>Nakaiwas ka sa butas na kumakain ng isang oras.</item>
+        <item>Lahat ng nangangailangan ng oras ay nangangailangan ng ganitong klaseng desisyon.</item>
+        <item>Marami pang magagawa mula ngayon hanggang hapunan.</item>
+        <item>Inangat mo ang paa mo sa silinyador. Bumabagal din ang araw kasabay mo.</item>
+        <item>May puwang ang linggo mo. Inookupa lang ito ng ibang bagay.</item>
+        <item>Tuwing isinasara mo ito, humahaba nang kaunti ang araw.</item>
+        <item>Ang oras ay regalong naibibigay mo sa sarili nang walang ginagastos.</item>
+        <item>Nasa iyo ngayon ang mismong bagay na buong araw mong sinasabing wala ka.</item>
+        <item>Binubuo ang mahabang hapon ng maiikling desisyong tulad nito.</item>
+        <item>Walang magtatanong kung ano ang ginawa mo sa kalahating oras na ito.</item>
+        <item>Ang oras na hindi mo ibinigay ngayon ay nasa iyo pa rin bukas.</item>
+        <item>Ang dalawampung minuto bawat araw ay isang daan at dalawampung oras bawat taon.</item>
+        <item>Nabawi mo ang oras bago matulog.</item>
+        <item>Maraming buhay sa pagitan ng isang notification at ng susunod.</item>
+        <item>Kasya rito ang buong araw kung hindi mo ito ipamimigay nang paunti-unti.</item>
+        <item>Nakarating ka rito dahil iniingatan mo ang oras mo. Isa pa ito.</item>
+        <item>Ang atensyon mo ang pinakapinag-aagawan sa mundo. Ikaw ang nanalo ngayon.</item>
+        <item>Dalawampung minuto bago bumalik ang focus. Huwag mo itong ibigay ngayon.</item>
+        <item>Mas mahalaga ang buong isip kaysa sa isip na pira-piraso.</item>
+        <item>May pinagtutuunan ka ng pansin bago ka napunta rito.</item>
+        <item>Hindi atensyon ang hating atensyon. Pagod lang iyon.</item>
+        <item>Karapat-dapat sa buong ikaw ang ginagawa mo kanina.</item>
+        <item>Kailangan ng malalim na pag-iisip ng oras na walang istorbo. Ito na iyon.</item>
+        <item>Mas mahal ang bawat palit ng screen kaysa sa ipinapakita ng orasan.</item>
+        <item>Maayos ang takbo ng isip mo. Hayaan mo itong magpatuloy.</item>
+        <item>Hindi nakaliligtas ang malalim na trabaho sa isang scroll sa feed.</item>
+        <item>Dinisenyo ang feed para agawin ang atensyon mo. Napansin mo iyon.</item>
+        <item>Kailangan ng katahimikan para matapos ang isang mahabang pag-iisip.</item>
+        <item>Kaya mong hawakan ang isang buong ideya sa isip. Kailangan lang ng puwang.</item>
+        <item>Hindi pahinga ang distraksyon. Ang tunay na pahinga ay nakapagpapahinga.</item>
+        <item>Nariyan pa ang konsentrasyong hawak mo kanina. Balikan mo ito.</item>
+        <item>Hindi ibinebenta ang atensyon mo ngayon.</item>
+        <item>Lumalabas ang pinakamagaling sa isip mo pagkalipas ng ikadalawampung minuto.</item>
+        <item>Mas mahal ang pag-abala ngayon kaysa sa inaakala mo.</item>
+        <item>Kaya mo ang mga bagay na nangangailangan ng focus. Simulan mo sa pag-iingat dito.</item>
+        <item>Walang anuman doon ang apurahang nangangailangan ng atensyon mo.</item>
+        <item>Mas marami ang nagagawa ng isang oras na nakatutok kaysa apat na oras na putol-putol.</item>
+        <item>Mas gumagana ang isip mo kapag hindi ito palipat-lipat ng paksa.</item>
+        <item>Puwede pang tapusin ngayon ang naiwang kalahati.</item>
+        <item>Hindi lakas ng loob ang focus. Kapaligiran ito. Inayos mo na ang sa iyo.</item>
+        <item>Bumibigay ang mahirap na problemang iyon kapag nanatili ka rito.</item>
+        <item>May hangganan ang atensyon mo. Kaya ito napakahalaga.</item>
+        <item>Hindi mo kailangang malaman ang lahat ngayon.</item>
+        <item>Mananatili roon ang ingay. Ang katahimikan mo ang bihira.</item>
+        <item>Nagawa ang malalaking bagay ng mga taong hindi naistorbo.</item>
+        <item>Balikan mo ang ginagawa mo. Nandoon pa ang isip mo.</item>
+        <item>Mas mabilis ang isa-isang gawain kaysa sa inaakala mo.</item>
+        <item>Lumilipas ang pagmamadaling tumingin. Ang naputol na ideya, minsan hindi na bumabalik.</item>
+        <item>Mas malaki ang kakayahan mong mag-focus kaysa sa ginagamit mo ngayon.</item>
+        <item>Mabagal ang mahusay na pag-iisip. Hayaan mong mabagal.</item>
+        <item>May nabuo ang atensyon mo ngayon. Huwag mong sirain dahil lang sa kuryosidad.</item>
+        <item>Ang nangangailangan ng isip ay nangangailangan ng buong isip.</item>
+        <item>Walang feed na magtuturo sa iyo ng naituturo ng isang oras ng focus.</item>
+        <item>Bawat notification na tinanggihan ay dagdag na linaw.</item>
+        <item>Malapit mo nang maintindihan. Balikan mo.</item>
+        <item>Ang panatag na isip ay isip na hindi hinihila buong araw.</item>
+        <item>Ang atensyon mo ang materyales na ginagamit mo sa pagbuo ng lahat ng iba pa.</item>
+        <item>Ang mahirap ay ang magsimula. Nagsimula ka na. Huwag kang bumalik sa umpisa.</item>
+        <item>Hayaan mong tahimik ang paksa, at kusa itong maaayos sa isip mo.</item>
+        <item>Lumilitaw ang linaw kapag tumigil ang ingay.</item>
+        <item>Hindi pa nangyayari ang pinakamagandang trabaho mo ngayong araw.</item>
+        <item>Hindi kulang sa oras. Kulang sa buong oras.</item>
+        <item>Mas mahusay kang mag-isip kaysa sa hinahayaan ng feed.</item>
+        <item>Ang sulating iyon, ang code na iyon, ang usapang iyon. Hinihintay ka nila nang buo.</item>
+        <item>Masel ang konsentrasyon. Lumalaki ito sa mga araw na tulad nito.</item>
+        <item>Nagpasalamat sa iyo ang isip mo.</item>
+        <item>Isa-isang bagay pa rin ang pinakaabanteng teknik na umiiral.</item>
+        <item>Nananatili ang ginagawa mo nang may atensyon. Lumilipas ang iba.</item>
+        <item>Walang shortcut sa pag-iisip. Oras lang na walang istorbo.</item>
+        <item>Karapat-dapat kang makatapos ng isang buong pag-iisip.</item>
+        <item>Matalas ang isip mo kanina. Ingatan mo ang talim na iyon.</item>
+        <item>Kumikislap ang screen. Hindi ang mga ideya. Manatili ka sa mga ideya.</item>
+        <item>Ang isang araw na may focus ay katumbas ng tatlong araw na nagmamadali.</item>
+        <item>Hindi ka mabagal. Naiistorbo ka lang.</item>
+        <item>Wala sa feed ang mahalagang usapin ngayong araw.</item>
+        <item>Mas madaling manatili sa landas kaysa bumalik dito.</item>
+        <item>Regalo ang buo mong atensyon. Ibigay mo sa karapat-dapat.</item>
+        <item>Sa katahimikan lumilitaw ang magagandang ideya.</item>
+        <item>Nasa gitna ka ng isang magandang bagay.</item>
+        <item>Walang makapag-iisip nang maayos kung nasa sampung lugar ang isip.</item>
+        <item>Lumalabas lang ang lalim pagkatapos ng ilang sandali sa ibabaw.</item>
+        <item>Hindi tungkol sa paggawa nang mas marami ang focus. Tungkol ito sa paggawa nang mahusay.</item>
+        <item>May mahalaga kang gagawin ngayon. Hindi iyon ang feed.</item>
+        <item>Hayaan mong tapusin ng isip mo ang pangungusap na sinimulan nito.</item>
+        <item>Binabago ng isang oras na walang istorbo ang kayang mangyari sa araw.</item>
+        <item>Nagiging madali ang mukhang mahirap ngayon kapag tuloy-tuloy ang atensyon.</item>
+        <item>Bentahe mo ang konsentrasyon mo. Kaunti na lang ang may hawak pa ng sa kanila.</item>
+        <item>Huwag ipagpalit ang isang mahalagang bagay sa maraming mabilisang bagay.</item>
+        <item>Makapaghihintay ang kuryosidad. Hindi naghihintay ang focus.</item>
+        <item>May binubuo ka. Ituloy mo.</item>
+        <item>Mukhang produktibo ang palipat-lipat ng gawain, pero halos hindi kailanman.</item>
+        <item>Bukas pa ang pinakamagandang paggamit ng isip mo ngayong araw.</item>
+        <item>Makikita sa resulta mamaya ang atensyong iniipon mo ngayon.</item>
+        <item>Hindi feed ang isip mo. Iniingatan nito ang binibigyan mo ng pansin.</item>
+        <item>Bihira ang paksang karapat-dapat sa buo mong sarili. Sulitin mo.</item>
+        <item>Hindi imposible ang mahirap. Matagal lang.</item>
+        <item>Ilang minuto ka na lang bago mo iyon malutas.</item>
+        <item>Nawawala ang ingay kapag tumigil kang pakainin ito.</item>
+        <item>Manatili ka sa ginagawa mo hanggang matapos.</item>
+        <item>Sulit ang isang malalim na sisid kaysa sampung mababaw.</item>
+        <item>Ang atensyon mo ang nagpapasya kung ano ang magiging alaala.</item>
+        <item>Naaalala mo ang mga pinagtuunan mo ng pansin. Iyon lang.</item>
+        <item>Ang pag-iisip ang pinakamapakinabang na magagawa mo ngayon.</item>
+        <item>Nalulutas ng isip na hindi nagmamadali ang hindi nakikita ng isip na nagmamadali.</item>
+        <item>Pasensya ang hinihingi ng mahusay na trabaho, hindi bilis.</item>
+        <item>Wala sa makikita mo ngayon ang mapag-uusapan pa bukas.</item>
+        <item>Nagsimula ang linaw ng isip mo ngayon sa mga desisyong tulad nito.</item>
+        <item>Ang istorbo ang pinakamahal na buwis na umiiral.</item>
+        <item>Kaya mong tumutok sa iisang bagay nang mas matagal kaysa sa inaakala mo.</item>
+        <item>Lumilitaw sa katahimikan ang detalyeng kanina pa nakakatakas sa iyo.</item>
+        <item>Bumabalik ang focus. Kailangan lang ng ilang minutong walang screen.</item>
+        <item>Kaya mong tumutok nang matagal. Ang feed lang ang pumupusta na hindi.</item>
+        <item>Mas sulit ang matapos ang isang bagay ngayon kaysa magsimula ng lima.</item>
+        <item>Bihira ang buo mong atensyon, kahit para sa sarili mo.</item>
+        <item>Hayaan mong huminga ang iniisip mo.</item>
+        <item>Walang makapag-i-scroll palayo sa binubuo mo nang may focus.</item>
+        <item>Lumilipas sa loob ng ilang minuto ang pagnanais na buksan ito. Laging lumilipas.</item>
+        <item>May expiration date ang udyok na ito. Kusa itong mawawala.</item>
+        <item>Wala kang kailangang gawin. Hintayin mo lang humupa ang alon.</item>
+        <item>Hindi sa iyo ang pagmamadaling nararamdaman mo ngayon. Itinuro lang ito.</item>
+        <item>Huminga ka nang isang beses. Mas mahina na ang pagnanais kaysa noong isang minuto.</item>
+        <item>Malakas ang udyok sa simula at nawawala sa kalagitnaan.</item>
+        <item>Hindi ikaw ang may gusto. Ang nakasanayan ang humihingi.</item>
+        <item>Saglit lang ang pagkailang. Lilipas din ito.</item>
+        <item>Naramdaman mo na ito dati, at nalampasan mo ito sa bawat pagkakataon.</item>
+        <item>Dumarating ang pagnanais nang paalon-alon. Nababasag ang mga alon.</item>
+        <item>Walang kailangang sumunod sa unang udyok ng araw.</item>
+        <item>Mas maikli pa sa isang kanta ang paninikip na ito sa dibdib.</item>
+        <item>Mas malaki ka kaysa sa isang tatlumpung segundong udyok.</item>
+        <item>Hayaan mong lumipas ang pagnanais nang hindi ito sinusunod.</item>
+        <item>Ang pagkailang ngayon ay ang nakasanayang bumibitaw. Pag-unlad iyan.</item>
+        <item>Hindi ka lumalaban. Naghihintay ka lang.</item>
+        <item>Malakas dumating ang pagnanais at tahimik itong umaalis.</item>
+        <item>Magbilang ka hanggang dalawampu. Liliit na ito.</item>
+        <item>Hindi pareho ang gusto at ang kailangan.</item>
+        <item>Gusto ng udyok ng agarang sagot. Huwag kang sumagot.</item>
+        <item>Ito ang pinakamahirap na sandali, at maikli lang ito.</item>
+        <item>Hindi mo kailangang lumaban. Huwag ka lang magpasya ngayon.</item>
+        <item>Nawawala ang pagnanais kapag walang nagpapakain dito.</item>
+        <item>Pagkabalisa ito, hindi gutom sa content.</item>
+        <item>Pansinin mo ang pagnanais nang hindi pumapasok dito.</item>
+        <item>Hinihingi ng utak ang dati. Hindi mo obligasyong ihain ito.</item>
+        <item>Limang minuto lang at hindi mo na maaalalang ginusto mong magbukas.</item>
+        <item>Tumataas ang alon ngayon. Lagi itong bumababa.</item>
+        <item>Nasa kabilang panig ka na ng pinakamahirap na bahagi.</item>
+        <item>Nagsisinungaling ang udyok tungkol sa sarili nitong lakas.</item>
+        <item>Tumayo ka, uminom ng tubig, bumalik. Wala na ito.</item>
+        <item>Hindi utos ang gusto.</item>
+        <item>Puwede mong maramdaman ito nang walang ginagawa. Ayos lang iyon.</item>
+        <item>Galaw ang hinihingi ng katawan, hindi screen.</item>
+        <item>Awtomatiko ang pagnanais na ito. Hindi kailangang ganoon ang sagot mo.</item>
+        <item>Walang masamang mangyayari kung maghihintay ka pa nang kaunti.</item>
+        <item>Kusang nawawala ang pagnanais kung bibigyan mo ito ng puwang.</item>
+        <item>Balisa ka lang. Lumilipas ito at hindi nangangailangan ng screen.</item>
+        <item>Mungkahi lang ang udyok. Ikaw ang nagpapasya.</item>
+        <item>Isang minuto pa at iba na ang pagnanais.</item>
+        <item>Saglit lang ang mahirap na bahagi. Buong araw ang magandang bahagi.</item>
+        <item>Ito ang sikat na maliit na tulak. Hindi naman ito ganoon kalakas.</item>
+        <item>Maghintay nang hindi nanghuhusga. Kusang natutunaw ang pagnanais.</item>
+        <item>Hinihingi ng utak mo ang nakasanayang shortcut.</item>
+        <item>Wala kang kailangang talunin. Hayaan mo lang lumipas.</item>
+        <item>Bawat alon na hinahayaan mong lumipas ay nagpapaliit sa susunod.</item>
+        <item>Gusto ng pagkabalisa ng mabilisang solusyon. Hindi nito iyon makikita rito.</item>
+        <item>Manatili kang tahimik sandali. Ang udyok, hindi mananatili.</item>
+        <item>Wala kang nawawala sa paghihintay.</item>
+        <item>Hindi emergency ang pagkabagot.</item>
+        <item>Normal lang na makaramdam ng kahungkagan ngayon. Kusa itong napupunan.</item>
+        <item>Ang kagustuhang may silipin ay bihirang tungkol sa bagay na iyon.</item>
+        <item>Hindi ka lang komportable. Hindi ka nasa panganib.</item>
+        <item>Luluwag din ito sa ilang sandali.</item>
+        <item>Malakas ang nakasanayan, pero saglit lang.</item>
+        <item>Hayaan mo nang lumipas ito. Ito lang.</item>
+        <item>Mas magiging madali ang susunod dahil dito.</item>
+        <item>Wala kang kailangang kumbinsihin sa sarili mo. Maghintay ka lang.</item>
+        <item>Mas nakatutulong ang isang basong tubig kaysa isang scroll sa feed.</item>
+        <item>Peke ang pagmamadali, at alam mo na iyon.</item>
+        <item>Hindi kaya ng udyok na walang sumasagot dito.</item>
+        <item>Maghintay ng tatlumpung segundo. Saka ka magpasya ulit.</item>
+        <item>Nasa rurok ka na. Pababa na mula rito.</item>
+        <item>Walang humihingi ng reaksyon mo ngayon.</item>
+        <item>Bisita lang ang pagnanais. Aalis din ito.</item>
+        <item>Hindi ikaw ang udyok. Ikaw ang nagmamasid dito.</item>
+        <item>Kumakalma ang katawan kung bibigyan mo ito ng isang minuto.</item>
+        <item>Naghahanap lang ng stimulus ang utak. Makakahanap ito ng iba.</item>
+        <item>Nababago ng tatlong malalim na hininga ang tindi nito.</item>
+        <item>Lumiliit ang pagnanais kapag hinarap mo ito nang direkta.</item>
+        <item>Kaya mo ang minutong ito. Mas mabigat pa ang nakayanan mo.</item>
+        <item>Lumilipas ang inis kahit wala kang gawin.</item>
+        <item>Naunahan ng kamay ang isip. Nangyayari iyan.</item>
+        <item>Walang desisyong kailangang gawin sa unang sampung segundo.</item>
+        <item>Ilang sandali na lang at hindi mo na ito maaalala.</item>
+        <item>Na-trigger ka. Pero sa iyo pa rin ang magiging sagot.</item>
+        <item>Hayaan mong nariyan ang pagnanais nang hindi mo sinusunod.</item>
+        <item>Hindi ito pananabik. Nakagawian lang.</item>
+        <item>Maghintay ka. Iyon lang talaga ang kailangan mong gawin.</item>
+        <item>Kusang kumakalma ang isip kung hindi mo na dadagdagan ng gatong.</item>
+        <item>Naghihintay ka na. Panalo na iyon.</item>
+        <item>Nanghihina ang udyok kapag nakasalubong ito ng saradong pinto.</item>
+        <item>Bawat segundo rito ay isang segundong lamang ka.</item>
+        <item>Nabasag na ang alon. Pansinin mo, mas magaan na.</item>
+        <item>Hindi mo kailangan ng dahilan para hindi ito buksan.</item>
+        <item>Mas mabilis lumipas ang pagnanais kaysa sa pagsisisi.</item>
+        <item>Kayang ayusin ng isang stretching ang hindi kayang ayusin ng feed.</item>
+        <item>Umaalis na ang pagnanais habang binabasa mo ito.</item>
+        <item>Huwag ka munang magpasya. Huminga ka lang.</item>
+        <item>Kusang dumarating ang udyok at kusa ring umaalis.</item>
+        <item>Ito ang pinakamahirap. At mabilis lang.</item>
+        <item>Nakaya mo hanggang dito. Ilang segundo na lang.</item>
+        <item>Humihingi ng screen ang katawan kapag gusto nito ng pahinga. Pahinga ang ibigay mo.</item>
+        <item>Lumiliit ang pagnanais tuwing hindi ito pinagbibigyan.</item>
+        <item>Maghintay ka pa nang kaunti. Iyon lang.</item>
+        <item>Lumilipas ang sandali. Nananatili ang pagpili.</item>
+        <item>Nalampasan mo na ang makitid na bahagi.</item>
+        <item>Tao lang ang nakararamdam ng pagnanais. Tao rin ang hindi sumusunod dito.</item>
+        <item>Babalik ang kalma sa ilang sandali kung hindi mo ito pipilitin.</item>
+        <item>Mas magaan na ngayon, hindi ba.</item>
+        <item>Pinagpasyahan mo ito noong kalmado ka. Magtiwala ka sa nagpasya.</item>
+        <item>Inalagaan ng ikaw kahapon ang ikaw ngayon.</item>
+        <item>Ang screen na ito ay mensahe mo para sa sarili mo.</item>
+        <item>Hindi ka pinipigilan. Pinapaalalahanan ka lang.</item>
+        <item>Ang taong gusto mong maging ay hindi nag-i-scroll buong hapon.</item>
+        <item>Ikaw ang pumili nito. Ikaw pa rin.</item>
+        <item>Ikaw ang klase ng taong nakapansin at kumilos.</item>
+        <item>Walang pumilit sa iyong i-install ito. Ginusto mo.</item>
+        <item>Matutuwa ang ikaw bukas sa ikaw ngayon.</item>
+        <item>Isa ka nang taong nag-iingat sa sarili niyang oras.</item>
+        <item>Hindi ito parusa. Usapan ito.</item>
+        <item>Ikaw ang sumulat ng patakarang ito. Gumagana ito.</item>
+        <item>Araw-araw na pagpili ang maging may-ari ng sariling atensyon.</item>
+        <item>Wala kang kailangang patunayan kaninuman dito.</item>
+        <item>Nagsisimula sa maliliit na desisyon ang taong gusto mong maging.</item>
+        <item>Nasa tamang panig ka ng screen na ito.</item>
+        <item>Tuwing isinasara mo ito, mas nagiging ikaw ang taong gusto mong maging.</item>
+        <item>Hindi ikaw ang mga gusto mo. Ikaw ang mga ginagawa mo.</item>
+        <item>Kasinghalaga ng anumang kasunduan ang kasunduan mo sa sarili.</item>
+        <item>May napansin kang pattern at binago mo ito. Bihira iyan.</item>
+        <item>Mas malaki ka kaysa sa mga app sa bulsa mo.</item>
+        <item>Patakaran mo ito, at kakampi mo ito.</item>
+        <item>May karapatan kang baguhin ang nakasanayan mo.</item>
+        <item>Kung ano ang paulit-ulit mong ginagawa, iyon ka.</item>
+        <item>Pinili mo ang buhay na may mas maluwag na puwang.</item>
+        <item>Hindi ang app ang nag-uutos sa iyo.</item>
+        <item>Hindi kasya sa isang feed ang pagkatao mo.</item>
+        <item>Ikaw ang taong nag-install nito nang may dahilan.</item>
+        <item>Alalahanin mo ang dahilan. May saysay pa rin ito.</item>
+        <item>Tinutupad mo ang sarili mong desisyon.</item>
+        <item>Walang ibang nagpapasya sa atensyon mo para sa iyo.</item>
+        <item>Napansin mo ang nangyayari. Binabago na niyan ang lahat.</item>
+        <item>Tuloy-tuloy na trabaho ang maging may-ari ng sariling araw.</item>
+        <item>Hindi ka pasahero. Ikaw ang nagmamaneho.</item>
+        <item>Ito ang pagpili ng taong sineseryoso ang sarili.</item>
+        <item>Responsable ka sa sarili mo. At ginagawa mo iyon.</item>
+        <item>May may-ari ang oras mo. Binabasa niya ito ngayon.</item>
+        <item>Nakipagkasundo ka sa sarili mo. Tuparin mo.</item>
+        <item>Bawat ganitong desisyon ay naglalapit sa iyo sa taong gusto mong maging.</item>
+        <item>Hindi ka nawawalan ng kalayaan. Ginagamit mo ito.</item>
+        <item>Ikaw ang nagpapasya kung ano ang gagawin ngayon.</item>
+        <item>Hindi mo kailangan ng pahintulot para mamuhay nang iba.</item>
+        <item>Pag-aalaga ang hangganang ito, hindi kulungan.</item>
+        <item>Pinili mo ang landas na mas mahirap at mas sa iyo.</item>
+        <item>Ang taong hinahangaan mo ay tatanggi rin ngayon.</item>
+        <item>Sa buhay mo ka nakatira, hindi sa app.</item>
+        <item>Oras mo ito, isip mo, pagpili mo.</item>
+        <item>Tinutupad mo ang pangako sa sarili. May halaga iyan.</item>
+        <item>Walang ibang mag-aalaga sa atensyon mo para sa iyo.</item>
+        <item>Napatunayan mo nang kaya mong magbago ng direksyon.</item>
+        <item>Ganito ang awtonomiya: magpasya nang maaga, hindi dahil sa udyok.</item>
+        <item>Bumubuo ka ng taong iginagalang mo.</item>
+        <item>Ito ang bersyon mo na nagpaplano.</item>
+        <item>Hindi ka napunta rito nang nagkataon. Ikaw ang nag-set up nito.</item>
+        <item>May halaga ang salitang binitawan mo sa sarili mo.</item>
+        <item>May sarili kang pananaw kung paano gugugulin ang araw mo.</item>
+        <item>Hindi ka kilala ng app. Kilala mo ang sarili mo.</item>
+        <item>Kumikilos ka bilang may-ari ng sarili mong buhay.</item>
+        <item>Kalayaan ang panindigan ang sarili mong desisyon.</item>
+        <item>Ikaw ang sumusulat ng mga patakaran dito.</item>
+        <item>Ito ang pag-aalaga mo sa sarili mo.</item>
+        <item>Hindi ka nakakulong. Protektado ka.</item>
+        <item>Mas matagal na ang kagustuhan mong magbago kaysa sa udyok na ito.</item>
+        <item>Ikaw na ang taong sinisikap mong maging.</item>
+        <item>Nagawa mo na ang mahirap na desisyon. Ito na lang ang madali.</item>
+        <item>Hawak mo ang kontrol, at bihira iyan sa panahon ngayon.</item>
+        <item>Walang kailangang makaalam. Sa pagitan mo at ng sarili mo lang ito.</item>
+        <item>Karapat-dapat kang magtiwala sa sarili mong salita.</item>
+        <item>Nakasulat ang pangalan mo sa pagpiling ito.</item>
+        <item>Naging klase ka ng taong nagpapasya nang maaga.</item>
+        <item>Hindi ito pagsuko. Pagpili ito ng ibang bagay.</item>
+        <item>May direksyon ka. Itinuturo iyon ng screen na ito.</item>
+        <item>Ang tunay na kalayaan ay ang hindi mahila sa lahat ng oras.</item>
+        <item>Ikaw ang nagtatakda ng halaga ng atensyon mo.</item>
+        <item>Bawat hindi rito ay oo sa ibang bagay na sa iyo.</item>
+        <item>Tapat ka sa planong ginawa mo nang may malasakit.</item>
+        <item>Mahirap ang maging may-ari ng sarili, pero sulit.</item>
+        <item>Inamin mong gusto mong magbago. Iyon na ang mahirap na bahagi.</item>
+        <item>Matutuwa rito ang taong makikita mo sa salamin mamayang gabi.</item>
+        <item>Wala kang utang sa algorithm.</item>
+        <item>Hindi content ninuman ang buhay mo.</item>
+        <item>Nasa mismong lugar ka kung saan mo piniling mapunta.</item>
+        <item>Ang hangganang inilalagay mo sa sarili ang pinakamagalang na umiiral.</item>
+        <item>May plano ka sa buhay na mas malaki kaysa sa screen na ito.</item>
+        <item>Ito ang pagiging mature na nangyayari ngayon mismo.</item>
+        <item>Inaalagaan mo ang kinabukasan mo nang hindi mo namamalayan.</item>
+        <item>Hinahasa ng bawat ganitong pagpili kung sino ka.</item>
+        <item>Hindi mo kailangang magpaliwanag kung bakit hindi mo ito binuksan.</item>
+        <item>Sa sarili mo ang pangako mo, hindi sa app.</item>
+        <item>Ginawa mo ang tamang desisyon noong hindi ka pa natutukso.</item>
+        <item>Ito ang buhay mo, at ikaw ang nagmamaneho.</item>
+        <item>Naging mahirap ka nang manipulahin.</item>
+        <item>May may-ari ang atensyon mo, at gising siya.</item>
+        <item>Kumilos ka na parang taong nag-aalaga sa sarili.</item>
+        <item>Sa iyo ang plano. Gumagana ito ngayon.</item>
+        <item>Ikaw ang kabuuan ng maliliit mong pagpili.</item>
+        <item>Walang makakaagaw sa iyo ng huling salita.</item>
+        <item>Ikaw ang may kapangyarihan sa oras mo.</item>
+        <item>Gumagana ito dahil ginusto mong gumana ito.</item>
+        <item>Mas malaki ka kaysa sa nakasanayang gustong lumaki nang higit sa iyo.</item>
+        <item>Isa pa. Ganyan lumalaki ang bilang.</item>
+        <item>Mas nananalo ang maliit at paulit-ulit kaysa sa malaki at bihira.</item>
+        <item>Nadagdagan mo ng isa pang puntos.</item>
+        <item>Walang nagbabago nang biglaan. Nagbabago sa mga araw na tulad ngayon.</item>
+        <item>Isa itong maliit na piraso ng isang ibang buhay.</item>
+        <item>Walang nababago ang isang magandang araw. Lahat ay nababago ng sandaang magandang araw.</item>
+        <item>Bumubuo ka ng streak.</item>
+        <item>Mula sa loob, bihirang maramdaman na pag-unlad ang pag-unlad.</item>
+        <item>Mas malaki ang kabuuan ng mga pagpiling ito kaysa sa bawat isa.</item>
+        <item>Nakakabagot ang pagiging tuloy-tuloy, at gumagana ito.</item>
+        <item>Isa pang bato sa pader.</item>
+        <item>May sinasanay ka na pangmatagalan.</item>
+        <item>Kapag naulit nang sapat, nagiging awtomatiko ito.</item>
+        <item>Walang nakakakita sa panalong ito, pero bilang pa rin ito.</item>
+        <item>Ilang linggo na lang at hindi mo na mararamdaman ang pagnanais.</item>
+        <item>Bilang ang ngayon. Bilang din ang bukas.</item>
+        <item>Binubuo ang kadena ng mga kawing na tulad nito.</item>
+        <item>Isinusulat na ngayon ang bagong nakasanayan.</item>
+        <item>Bawat pag-uulit ay nagpapaluwag nang kaunti sa lumang nakasanayan.</item>
+        <item>Nagawa mo na ito dati. Gawin mo ulit.</item>
+        <item>Mabagal ang bilis ng mga bagay na tumatagal.</item>
+        <item>Nangyayari ang pagbabago nang hindi nakikita.</item>
+        <item>May iniipon kang hindi nakikita pero totoo.</item>
+        <item>Isa pang araw sa tamang direksyon.</item>
+        <item>Mamaya pa lalabas ang resulta. Ngayon ang pagpili.</item>
+        <item>Isa-isang pagpili, ganyan ito ginagawa.</item>
+        <item>Mas malapit ka na ngayon kaysa kahapon.</item>
+        <item>Hindi kailangang perpekto. Kailangang madalas.</item>
+        <item>Mabagal umakyat ang kurba, tapos bigla itong bumibilis.</item>
+        <item>Nasa gitna ka ng proseso. Ganyan talaga ito.</item>
+        <item>Bawat maliit na hindi ay bumubuo ng malaking oo.</item>
+        <item>Walang drama rito. Kaya ito gumagana.</item>
+        <item>Binubuo ang landas ng mga hakbang na tulad nito.</item>
+        <item>Gumagawa ka ng bagong bersyon ng routine mo.</item>
+        <item>Magmumukhang madali ito pagkalipas ng isang buwan.</item>
+        <item>Ang pag-uulit ang gumagawang ugali sa isang desisyon.</item>
+        <item>Pinatibay mo ang bagong landas.</item>
+        <item>Mas madali ang sandaang porsiyento kaysa siyamnapu’t walo.</item>
+        <item>Huwag mong putulin ang streak mo ngayon.</item>
+        <item>Ginagawa mo ang nakakabagot na bahagi, at iyon ang mahalaga.</item>
+        <item>Hindi natin nararamdaman ang pagbabago. Nakikita natin ito pagkatapos.</item>
+        <item>Isa pang laryo ang nailatag.</item>
+        <item>Sinasanay mo ang utak mo na umasa ng ibang bagay.</item>
+        <item>Ang pagpapatuloy ang buong teknik.</item>
+        <item>Walang maliit sa mga panalong ito kapag pinagsama-sama.</item>
+        <item>Hindi mo kailangang tumakbo. Kailangan mo lang hindi tumigil.</item>
+        <item>Mas dumadali na ito, at hindi mo pa napapansin.</item>
+        <item>Isang linggo lang nito, iba na ang araw mo.</item>
+        <item>Gumagawa ka ng bagong daan sa isip mo.</item>
+        <item>Bilang ang bawat pagkakataon, kahit parang hindi.</item>
+        <item>Walang pumapalakpak, pero gumagana ito.</item>
+        <item>Tahimik at hindi mapigilan ang pag-iipon.</item>
+        <item>Mas malakas ka na rito kaysa noong isang buwan.</item>
+        <item>Pinadadali ng isang mabuting pagpili ngayon ang pagpili bukas.</item>
+        <item>Ganito ang pakiramdam ng pagiging tuloy-tuloy mula sa loob.</item>
+        <item>Isa pang araw ng naipong lamang.</item>
+        <item>Nasa landas ka, at mahaba ang landas. Ayos lang.</item>
+        <item>Dumadali ang anumang inuulit.</item>
+        <item>Pinatatag mo ang taong unti-unti mong nagiging.</item>
+        <item>Pabor sa iyo ang bilang ngayon.</item>
+        <item>Nagdadagdag-dagdag ang maliliit na panalo nang hindi nagpapaalam.</item>
+        <item>Hindi ito tungkol sa ngayon. Tungkol ito sa kabuuan.</item>
+        <item>Ginagawa mo ang trabahong hindi nakikita.</item>
+        <item>Ituloy mo lang. Iyan talaga ang sikreto.</item>
+        <item>Bawat ganitong araw ay nagbabawas nang kaunti sa bigat.</item>
+        <item>Nawawalan na ng puwang ang lumang nakasanayan ngayon.</item>
+        <item>May dinidiligan kang hindi pa sumisibol.</item>
+        <item>Nangyayari ang pagbabago kahit hindi halata.</item>
+        <item>Isa pang beses. Iyon lang naman palagi.</item>
+        <item>Nag-iipon ka ng magagandang araw.</item>
+        <item>Magiging normal din ito sa paglipas ng panahon.</item>
+        <item>Pumili ka ulit. At bilang ulit iyon.</item>
+        <item>Isang buwan nito, at iba ka nang tao.</item>
+        <item>Nawawala ang pagod ngayon. Nananatili ang resulta.</item>
+        <item>Hindi ka na ang taong nagsimula nito.</item>
+        <item>Mas sulit ang palaging gawin kaysa gawin nang marami.</item>
+        <item>Bawat araw ay boto para sa taong gusto mong maging.</item>
+        <item>Hinahayaan mong lumakas ang bagong nakasanayan.</item>
+        <item>Hindi kailangang maging kabayanihan ito. Kailangan lang mangyari.</item>
+        <item>Pinalakas mo ang tamang landas.</item>
+        <item>Sa pag-uulit natututo ang utak ng kahit ano.</item>
+        <item>Malaki na ang pinagsamang ngayon at kahapon.</item>
+        <item>Maayos ang ginagawa mo kahit hindi mo ito nararamdaman.</item>
+        <item>Nasa mga walang-kulay na pag-uulit ang pag-unlad.</item>
+        <item>Isa pang maikling hakbang sa mahabang direksyon.</item>
+        <item>Ginagawa mo itong natural.</item>
+        <item>Ang mabuting bagay na ginawa nang maraming beses ang naiiwan.</item>
+        <item>Nagmumula ang lakas sa pag-uulit, hindi sa pagpupumilit.</item>
+        <item>Pinaikli mo ang landas ng bukas.</item>
+        <item>Isa pa. Iyon lang. At sapat na iyon.</item>
+        <item>Nag-iiwan ka ng bakas ng mabubuting desisyon.</item>
+        <item>Ginagawang pagkatao ng tiyaga ang pagsisikap.</item>
+        <item>Bilang na buong araw ang bawat araw.</item>
+        <item>Nasa mahabang laro ka, at nananalo ka rito.</item>
+        <item>Magiging bahagi ito ng pagkatao mo nang hindi mo napapansin.</item>
+        <item>Nagawa na ang pinakamagandang investment ng araw.</item>
+        <item>Hindi ka lumihis.</item>
+        <item>Mas bihira ang tiyaga kaysa sa talento.</item>
+        <item>Laging mabagal ang tunay na pagbabago, at laging sulit.</item>
+        <item>Isa pang pagpili patungo sa buhay mo.</item>
+        <item>Nagpapasalamat ang mga mata mo sa pahingang ito.</item>
+        <item>Tumayo ka at mag-stretch. Iyan ang hinihingi ng katawan mo, hindi screen.</item>
+        <item>Huminga ka nang malalim. May nababago na iyan.</item>
+        <item>Uminom ka ng tubig. Baka iyon lang ang kulang.</item>
+        <item>Kanina pa nakabaluktot ang leeg mo. Ituwid mo.</item>
+        <item>Nagsisimula ang tulog mo mamaya sa mga screen ngayon.</item>
+        <item>Ang mahimbing na tulog ang pinakaproduktibong bagay na umiiral.</item>
+        <item>Masyado nang matagal na nakatigil ang katawan mo.</item>
+        <item>Tumingin ka sa malayo nang dalawampung segundo. Makakapagpahinga ang mga mata mo.</item>
+        <item>Mas nababago ng maikling lakad ang mood mo kaysa sa anumang feed.</item>
+        <item>Baka screen lang ang pagod na nararamdaman mo.</item>
+        <item>Galaw ang hinihingi ng katawan mo kapag scroll ang hinihingi ng isip.</item>
+        <item>Naaayos ng sariwang hangin ang hindi naaayos ng screen.</item>
+        <item>Ibaba ang balikat. Iluwag ang panga.</item>
+        <item>Naninigas ang mga balikat mo nang hindi mo napapansin.</item>
+        <item>Malaking bagay ang sampung minutong sikat ng araw sa balat.</item>
+        <item>Nagpapahinga ang katawan kapag nakahiga, hindi kapag nag-i-scroll.</item>
+        <item>Regalo para bukas ang maagang pagtulog ngayong gabi.</item>
+        <item>Nagbago ang tindig mo nitong huling dalawampung minuto. Ayusin mo.</item>
+        <item>Hindi tunay na pagod ang pagod sa screen. Iba iyon.</item>
+        <item>Itaas mo ang mga braso. Iunat. Ayan, gumaan na.</item>
+        <item>Mas madalang kang kumurap kapag nag-i-scroll. Kumurap ka ngayon.</item>
+        <item>Mas gumagana ang katawan kapag may tunay na pahinga.</item>
+        <item>Nalilinis ang isip sa isang ikot sa kanto.</item>
+        <item>Matutuwa ang likod mo sa paghintong ito.</item>
+        <item>Magkaiba ang pahinga at ang distraksyon.</item>
+        <item>Nagsimula sa screen na tulad nito ang masamang tulog mo kagabi.</item>
+        <item>I-stretch ang leeg mo sa magkabilang panig. Sampung segundo lang.</item>
+        <item>Mas naiibsan ng paggalaw ang pagkabalisa kaysa sa content.</item>
+        <item>Ang katawan mo lang ang tahanang mayroon ka.</item>
+        <item>Tubig, liwanag, at galaw. Halos palaging iyon lang.</item>
+        <item>Nakakapagod ang screen kahit mukha itong pahinga.</item>
+        <item>Ipikit mo ang mga mata mo sandali. Iyon lang.</item>
+        <item>Mababaw ang paghinga mo. Huminga ka nang malalim nang tatlong beses.</item>
+        <item>Mas maraming naaayos ang isang ligo kaysa sa inaakala mo.</item>
+        <item>Masyado nang matagal sa iisang puwesto ang katawan mo.</item>
+        <item>Walang screen sa tunay na pahinga.</item>
+        <item>Nababago ng dalawampung minutong paglalakad ang buong araw.</item>
+        <item>Mabigat ang ulo mo dahil hindi gumagalaw ang katawan.</item>
+        <item>Tuyong mata, matigas na balikat. Napansin mo na.</item>
+        <item>Mas nakaka-reset ang dalawang minutong pagtayo kaysa isang scroll.</item>
+        <item>Tulog ang hinihingi ng katawan at stimulus ang hinihingi ng isip. Pakinggan ang katawan.</item>
+        <item>Ilang oras na ginugulo ng ilaw ng screen ang tulog mo.</item>
+        <item>Iunat ang mga binti mo. Mabilis at epektibo.</item>
+        <item>Karapat-dapat ka sa pahingang talagang nakapagpapahinga.</item>
+        <item>Ang paggalaw ang pinakamurang gamot sa lungkot.</item>
+        <item>Maaalala ng katawan mo ang tulog na ito ngayong gabi.</item>
+        <item>Mas mabilis kang pinakakalma ng mabagal na paghinga kaysa anumang video.</item>
+        <item>Gutom ka o bagot ka. Alamin mo kung alin.</item>
+        <item>Nakababawi ang katawan kapag tumigil ang isip.</item>
+        <item>Dalawampung segundong pagtingin sa bintana.</item>
+        <item>Kailangan ng pahinga ng pulso at hinlalaki mo.</item>
+        <item>Nawawala ang pagod sa screen kapag naglakad ka.</item>
+        <item>Sa pagtulog inaayos ang mga alaala. Ingatan mo ito.</item>
+        <item>Mas kaunting stimulus ang kailangan mo, hindi mas marami.</item>
+        <item>Mas sulit ang dalawang minutong stretching kaysa sampung minutong video.</item>
+        <item>May senyas na ibinibigay sa iyo ang katawan mo ngayon.</item>
+        <item>Hangin, tubig, at galaw. Hindi nagbago ang resipe.</item>
+        <item>Humiga ka sa sahig nang isang minuto. Seryoso.</item>
+        <item>Pinananatili kang gising ng screen kapag kailangan mo nang matulog.</item>
+        <item>Pahinga ang hinihingi ng katawan, screen ang hinihingi ng kamay. Ibigay ang pahinga.</item>
+        <item>Kaninang umaga pa nagtatrabaho ang mga mata mo.</item>
+        <item>Binabago ng isang gabing mahimbing na tulog ang mundo.</item>
+        <item>Tumayo ka. Tumayo lang. Sapat na iyon.</item>
+        <item>Mas mahimbing ang tulog mo dahil sa pagpiling ito.</item>
+        <item>Ang nakakabagot para sa isip ay ikinatutuwa ng katawan.</item>
+        <item>I-stretch mo ang likod mo. Hinihingi na nito.</item>
+        <item>Katahimikan ang tunay na pahinga, hindi isa pang stimulus.</item>
+        <item>May sariling ritmo ang katawan mo, at hindi iyon pinapansin ng screen.</item>
+        <item>Tumingin ka sa abot-tanaw. Kailangan ng mga mata ng malayong tanaw.</item>
+        <item>Hindi mawawala ang tensyon sa panga mo sa pag-scroll.</item>
+        <item>Gaano ka na nga katagal nakaupo.</item>
+        <item>Nagdudulot ng linaw ang paggalaw. Palagi naman.</item>
+        <item>Uminom ka muna ng tubig bago magpasya ng kahit ano.</item>
+        <item>Hindi nababawi ng content ang nawalang tulog.</item>
+        <item>Maayos gumana ang katawan mo kapag hinayaan mo.</item>
+        <item>Mas sulit ang maikling idlip kaysa isang oras sa feed.</item>
+        <item>Libre at agaran ang malalim na paghinga.</item>
+        <item>Pinaninigas ng screen ang katawan nang walang pasabi.</item>
+        <item>Mas pagod ka kaysa sa dapat.</item>
+        <item>Tumayo ka at sumilip sa bintana. Limang segundo.</item>
+        <item>Hindi umunlad ang katawan mo para nakatigil na nakatitig sa ilaw.</item>
+        <item>Iunat ang mga daliri mo. Marami silang ginawa ngayon.</item>
+        <item>Mas maganda ang gabi kapag walang screen bago matulog.</item>
+        <item>Hindi pahinga ang iniaalok ng screen.</item>
+        <item>Kalikasan ang hinihingi ng katawan mo, pero pixel ang natatanggap.</item>
+        <item>Isang basong tubig at tatlong hinga. Gawin mo ngayon.</item>
+        <item>Galing sa paraan ng paghawak mo sa cellphone ang tensyon sa balikat mo.</item>
+        <item>Nare-relax ang katawan kapag huminto sa pagtakbo ang atensyon.</item>
+        <item>Gagaan ang pakiramdam mo pagkalipas ng limang minuto.</item>
+        <item>Binabago ng paggalaw ang kemikal sa katawan. Paksa lang ang binabago ng screen.</item>
+        <item>Karapat-dapat sa tunay na pahinga ang mga mata mo.</item>
+        <item>Mas naaayos ng paglalakad ang iniisip kaysa sa pagbabasa ng feed.</item>
+        <item>Ang blue light ngayon ay masamang tulog mamaya.</item>
+        <item>Pahinga ang kailangan mo, hindi dagdag na impormasyon.</item>
+        <item>Dalawang malalim na hinga bago ang lahat.</item>
+        <item>Mas marunong ang katawan mo kaysa sa udyok.</item>
+        <item>Tumayo ka at maglakad papuntang kusina. Sapat na iyon.</item>
+        <item>Ipahinga ang katawan at kasabay na magpapahinga ang isip.</item>
+        <item>May mga totoong tao sa paligid mo ngayon.</item>
+        <item>Mas mahalaga ang isang kuwentuhan kaysa tatlong daang post.</item>
+        <item>Tawagan mo ang isang tao. Boses talaga.</item>
+        <item>Isang message lang ang layo ng taong mahal mo.</item>
+        <item>Hindi alam ng mga tao sa feed na nabubuhay ka.</item>
+        <item>Mas karapat-dapat sa iyo ang kasama mo sa iisang kuwarto.</item>
+        <item>Naaayos ng isang yakap ang hindi kayang ayusin ng anumang video.</item>
+        <item>Mag-message ka sa taong matagal mo nang nakakalimutan.</item>
+        <item>Matutuwa ang nanay mo kung tatawag ka ngayon.</item>
+        <item>Sa totoong buhay, may mga taong talagang sumasagot.</item>
+        <item>Puwede pang bumalik ang kaibigang nawala. Tawagin mo.</item>
+        <item>Ang presensya ang pinakabihirang maibibigay mo.</item>
+        <item>May naghihintay na tumingala ka.</item>
+        <item>Mas sulit ang isang magandang tanong kaysa isang oras ng scroll.</item>
+        <item>Walang algorithm ang mga tao sa paligid mo.</item>
+        <item>May kuwentuhang nangyayari ngayon na nalalampasan mo.</item>
+        <item>Walang taga-feed na darating kapag kailangan mo sila.</item>
+        <item>Mas nababago ng kape kasama ang isang tao ang linggo mo kaysa anumang feed.</item>
+        <item>Regalo ang pagsama mo. Ibigay mo ito.</item>
+        <item>Tingnan mo ang kasama mo.</item>
+        <item>Dinidiligan ang pagkakaibigan. Diligan mo ngayon.</item>
+        <item>Totoo ang taong katabi mo.</item>
+        <item>Hindi kailangan ng like ng taong nagmamahal sa iyo.</item>
+        <item>Naaalala mo pa ba ang huling mahabang kuwentuhan mo.</item>
+        <item>Yayain mo ang isang tao na maglakad.</item>
+        <item>Bihirang may screen ang pinakamagagandang alaala.</item>
+        <item>Ikaw ang kasama ng isang tao ngayon.</item>
+        <item>Magpadala ka ng voice message sa taong mahal mo.</item>
+        <item>Nagbabago ang mga tao kapag binibigyan mo sila ng pansin.</item>
+        <item>May halaga ang presensya mo sa isang tao ngayon.</item>
+        <item>Gumagaan ka sa isang magandang kuwentuhan. Sa feed, hindi.</item>
+        <item>Kailangang malaman ng isang tao na naalala mo siya.</item>
+        <item>Makipagkita ka sa isang tao sa halip na i-follow siya.</item>
+        <item>Nabubuo ang matibay na samahan sa oras na magkasama.</item>
+        <item>Puwede kang maging dahilan ng magandang araw ng isang tao.</item>
+        <item>Ang kamag-anak na ilang buwan mo nang hindi nakakausap.</item>
+        <item>Mas mahalaga ang isang tapat na mensahe kaysa isang libong view.</item>
+        <item>Magkaiba ang magkasama at ang konektado.</item>
+        <item>Karapat-dapat sa buong ikaw ang mga kasama mo araw-araw.</item>
+        <item>Mag-imbita ka ng isang tao sa hapunan.</item>
+        <item>May mukha, boses, at limitadong oras ang mga totoong tao.</item>
+        <item>Hindi ka mapapalitan para sa isang tao. Magpakita ka.</item>
+        <item>Hindi pa nangyayari ang pinakamahalagang usapan mo ngayong araw.</item>
+        <item>May tao rin sa malapit na walang hawak na screen.</item>
+        <item>Ang pakikinig ang pinakamadaling paraan para mahalin ka.</item>
+        <item>May pinagdadaanan ang kaibigang iyon. Kumustahin mo.</item>
+        <item>Ang anak mo, ang aso mo, ang kapitbahay mo. May nandiyan.</item>
+        <item>Kinokonekta ka ng social media sa maraming tao at sa wala ni isa sa kanila.</item>
+        <item>Katumbas ng isang buwang feed ang isang hapon kasama ang isang tao.</item>
+        <item>Kaya mong magpatawa ng isang tao ngayon. Totoong tawa.</item>
+        <item>Napakabihira ng buong presensya. May isa kang maibibigay.</item>
+        <item>May nagbanggit sa iyo ngayong linggo. Gantihan mo.</item>
+        <item>Walang nakaka-miss sa iyo sa feed.</item>
+        <item>Nababago ng limang minutong tawag ang araw ng isang tao.</item>
+        <item>Hindi ito pino-post ng mga taong mahalaga.</item>
+        <item>Isang tanong na lang at may magandang kuwentuhan ka na.</item>
+        <item>Walang patalastas sa gitna ng totoong samahan.</item>
+        <item>Ang taong laging sumusuporta sa iyo. Pasalamatan mo ngayon.</item>
+        <item>Ang pagtingin sa mata pa rin ang pinakamahusay na teknolohiya.</item>
+        <item>Hindi feed ang pamilya mo. Huwag mo silang i-scroll lang.</item>
+        <item>Yayain mo ang isang tao na tumambay nang walang ginagawa.</item>
+        <item>Karapat-dapat ding makabalita mula sa iyo ang mga nasa malayo.</item>
+        <item>May mga taong nagmamahal sa iyo sa labas nito.</item>
+        <item>Mas mabigat ang mahirap na usapang ipinagpapaliban kaysa sa feed.</item>
+        <item>Sulitin mo ang mga nasa malapit habang naroon pa sila.</item>
+        <item>Naaalala ng mga tao kung sino ang naroon para sa kanila.</item>
+        <item>Yayain mo ang isang kaibigan na magkape nang walang dahilan.</item>
+        <item>May isang tao sa kung saan na gustong makabalita sa iyo.</item>
+        <item>Kaya mong talagang makinig sa isang tao ngayon.</item>
+        <item>Nabubuo ang samahan sa pagtingin, hindi sa pag-scroll.</item>
+        <item>Ang atensyon mo ang pinakamagandang regalo sa mga mahal mo.</item>
+        <item>Mas mahalaga ang isang tao kaysa sa isang profile.</item>
+        <item>Ang usapang utang mo sa isang tao. Ngayon na iyon.</item>
+        <item>Isang anyo ng pagmamahal ang pagiging available.</item>
+        <item>May oras ka para sa isang tao ngayon.</item>
+        <item>Walang nagpaalam sa buhay na mas maraming follower pa ang hiling.</item>
+        <item>Makipagkita ulit sa isang tao sa halip na sundan lang siya mula sa malayo.</item>
+        <item>Kailangang sabihin nang malakas ang paglalambing paminsan-minsan.</item>
+        <item>Nandiyan pa rin ang barkada mo. Tawagin mo sila.</item>
+        <item>May katabi kang gustong makipagkuwentuhan.</item>
+        <item>Hindi koneksyon ang pagkukumpara.</item>
+        <item>Puwede kang maging tunay na kasama ngayon.</item>
+        <item>Isang sulat-kamay na note. Magandang ideya.</item>
+        <item>Wala sa feed ang mga taong talagang nakakakilala sa iyo.</item>
+        <item>Ibahagi mo ang hapon sa isang tao.</item>
+        <item>Karapat-dapat sa mga taong malapit sa iyo ang ibinibigay mo sa feed.</item>
+        <item>Mahalaga ka sa isang taong hindi nagpo-post.</item>
+        <item>Tumawag ka at itanong kung kumusta talaga siya.</item>
+        <item>Hindi nawawala ang pag-iisa sa dagdag na screen.</item>
+        <item>Lumapit ka sa isang tao ngayon.</item>
+        <item>Sulit sa buong hapon ang isang kainang magkasama.</item>
+        <item>Pinakakain ng atensyon mo ang mga relasyon. Pakainin mo ang isa.</item>
+        <item>May taong nag-iisip sa iyo ngayon mismo.</item>
+        <item>Sabihin mo sa isang tao na mahalaga siya sa iyo.</item>
+        <item>Namamatay ang pagkakaibigan sa katahimikan, hindi sa away.</item>
+        <item>May mabubuting tao sa paligid mo. Sulitin mo.</item>
+        <item>May nangangailangan ng kasama, at may maibibigay ka.</item>
+        <item>Iwan mo ang feed at makipagkita sa mga tao.</item>
+        <item>Oras mo ang gusto ng nagmamahal sa iyo, hindi ang profile mo.</item>
+        <item>Kaya mong pagandahin ang araw ng isang tao sa loob ng limang minuto.</item>
+        <item>Nakakapagod pero nakakapuno ang paglikha. Nakakapahinga pero nakakaubos ang pagkonsumo.</item>
+        <item>Mas marami kang masasabi kaysa makikita.</item>
+        <item>May lumilikha ng panonoorin mo sana.</item>
+        <item>Magsulat ka ng isang linya. Isa lang.</item>
+        <item>Sobra ang mga konsyumer sa mundo at kulang ang mga lumilikha.</item>
+        <item>Naghihintay pa rin ang ideya mong iyon.</item>
+        <item>Puwede kang gumawa ng isang bagay sa halip na tumingin sa gawa na.</item>
+        <item>Bawat magandang bagay ay ginawa ng taong hindi nag-i-scroll.</item>
+        <item>Mas mahalaga ang ideya mo kaysa sa buong feed ngayong araw.</item>
+        <item>Simulan mo ang ipinagpapaliban mo. Sapat na ang limang minuto.</item>
+        <item>Isang tulak lang ang kailangan ng natenggang proyekto.</item>
+        <item>May talento ka sa isang bagay na hindi pag-scroll.</item>
+        <item>Gumawa ka ngayon ng bagay na wala pa kahapon.</item>
+        <item>Mas masaya ang lumikha kaysa manood. Ang mahirap lang ay ang magsimula.</item>
+        <item>Hindi nangangagat ang blangkong notebook na iyon.</item>
+        <item>Ang pinakamagandang content ay ang ginagawa mo.</item>
+        <item>Mas marami kang natututuhan sa paggawa kaysa sa panonood.</item>
+        <item>Tumugtog, gumuhit, magluto. Gumawa ka ng kahit ano gamit ang mga kamay.</item>
+        <item>Nawawala ang pagkamalikhain mo kapag pinupuno mo ng feed ang isip mo.</item>
+        <item>May obra kang hindi pa nagagawa ninuman.</item>
+        <item>Magsimula kahit pangit. Gaganda rin iyan.</item>
+        <item>Nagiging libro ang isang talata bawat araw.</item>
+        <item>May kuwento kang maikukuwento.</item>
+        <item>Ang paggawa ng mga bagay ang lunas sa kahungkagan.</item>
+        <item>Simula ng pagkamalikhain ang pagkabagot. Hayaan mo itong umiral.</item>
+        <item>Nakakaimbento ang isip mo kapag tumigil kang punuin ito.</item>
+        <item>Naghihintay ang kursong binayaran mo.</item>
+        <item>Posible ang matuto ng bagong bagay ngayon.</item>
+        <item>Madali ang pagkonsumo. Kaya ito hindi gaanong nakakabusog.</item>
+        <item>May gusto kang gawin. Simulan mo na ngayon.</item>
+        <item>Mas sulit ang limang minutong pagsasanay kaysa isang oras na video.</item>
+        <item>Ang resiping gusto mong subukan.</item>
+        <item>Dumarating ang mga ideya sa katahimikan, hindi sa scroll.</item>
+        <item>Puwede kang maging may-akda sa halip na manonood.</item>
+        <item>Nababago ng isang maliit na proyekto ang buong linggo.</item>
+        <item>Isulat mo ang gagawin mo kung may oras ka. Mayroon ka.</item>
+        <item>Marunong gumawa ang kamay mo. Gamitin mo ito.</item>
+        <item>Gumawa ka ng isang bagay na hindi perpekto ngayon.</item>
+        <item>Mas masarap ang matuto kaysa malibang.</item>
+        <item>Nananatili ang nilikha mo. Nawawala ang ini-scroll mo.</item>
+        <item>Ang instrumentong nakasandal sa sulok.</item>
+        <item>May hindi pa tapos na proyektong naghihintay sa iyo.</item>
+        <item>Ang paglikha ang kabaligtaran ng pagkukumpara sa sarili.</item>
+        <item>Magsimula sa maliit. Magsimula ngayon.</item>
+        <item>Ibang buhay ang isang pahina bawat araw.</item>
+        <item>Kailangan ng imahinasyon mo ng bakanteng puwang.</item>
+        <item>Gumawa ka ng isang bagay na ipagmamalaki mo bukas.</item>
+        <item>Walang kapalit ang saya ng paglikha.</item>
+        <item>Kaya mo nang higit pa sa pagkonsumo.</item>
+        <item>Nariyan pa ang hobby na iniwan mo.</item>
+        <item>Dalawampung minutong pag-unlad ang dalawampung minutong pagsasanay.</item>
+        <item>Walang gumagaling sa anuman sa pag-scroll ng feed.</item>
+        <item>Magsisimula rin balang araw ang susunod mong skill. Sana ngayon na.</item>
+        <item>Gawin mo, kahit walang nakakakita.</item>
+        <item>May gusto kang matutuhan. Simulan mo.</item>
+        <item>Ang pagkonsumo ay panonood sa buhay ng iba.</item>
+        <item>May kamay ka, isip, at oras. Iyon lang ang kailangan mo.</item>
+        <item>Laging pangit ang unang draft. Gawin mo pa rin.</item>
+        <item>Ang wikang gusto mong matutuhang salitain.</item>
+        <item>Sa paglikha nagiging saya ang pagkabagot.</item>
+        <item>Nabubuo ang kahit anong kasanayan sa kaunti bawat araw.</item>
+        <item>May nasa loob mo na gustong lumabas.</item>
+        <item>Isulat mo ang tungkol sa araw mo. Para sa iyo lang.</item>
+        <item>Hinihintay ng pagkamalikhain mo na patayin mo ang ingay.</item>
+        <item>Gumawa ka ng isang bagay gamit ang mga kamay mo ngayon.</item>
+        <item>Walang katulad ang saya ng pagtatapos ng isang bagay.</item>
+        <item>Ang proyektong nagpasabik sa iyo dati. Kaya pa rin nitong magpasabik.</item>
+        <item>Hindi mo kailangang magaling para magsimula.</item>
+        <item>Magluto ka ng bago. Paglikha rin iyon.</item>
+        <item>Mas nagiging kawili-wili ang buhay kapag gumagawa ka ng mga bagay.</item>
+        <item>Walang ipinanganak na marunong na. Lahat nagsisimula sa pangit.</item>
+        <item>Ang ideyang naisip mo kaninang madaling-araw. Isulat mo.</item>
+        <item>Puwede kang makatulong sa isang tao gamit ang alam mong gawin.</item>
+        <item>Gumawa ka nang kaunti ngayon at kaunti bukas.</item>
+        <item>Lumipas na ang pinakamagandang sandali para magsimula. Ngayon ang pangalawang pinakamaganda.</item>
+        <item>Hindi kusang mabubuo ang obra mo.</item>
+        <item>Nakakabagot ang pagsasanay hanggang sa gumaling ka.</item>
+        <item>Gusto mong lumikha. Gusto ng feed na tumingin ka lang.</item>
+        <item>Ang drawing na sinimulan mo.</item>
+        <item>Ang paggawa ang pinakamabilis na paraan para matuto.</item>
+        <item>May boses ka. Gamitin mo ito sa isang bagay.</item>
+        <item>Paglikha rin ang pag-aayos ng sira sa bahay.</item>
+        <item>Nagsisimula ang susunod mong tagumpay sa isang ordinaryong araw na tulad ngayon.</item>
+        <item>Gumawa ka ng bagay na ikaw lang ang gagawa.</item>
+        <item>Walang katapusan ang feed. May katapusan ang obra mo, kaya ito mahalaga.</item>
+        <item>Puwede kang magtanim ng isang bagay ngayon. Literal.</item>
+        <item>Ang spreadsheet na iyon, ang planong iyon, ang pangarap na iyon.</item>
+        <item>Pinaghihirapan ang paglikha, at iyon ang dahilan kung bakit sulit.</item>
+        <item>Mas kawili-wili ka kaysa sa anumang feed.</item>
+        <item>Mag-aral ka nang dalawampung minuto. Kaunti, pero marami.</item>
+        <item>Mas gumaganda ang kuryosidad kapag naging praktika.</item>
+        <item>Ang kantang gusto mong matutuhan.</item>
+        <item>Gumawa ka ng isang simple at kapaki-pakinabang na bagay ngayon.</item>
+        <item>May magandang bagay kang maiaalok sa mundo.</item>
+        <item>Simulan mo ang ipagpapasalamat mong sinimulan mo.</item>
+        <item>Binabago ng isang personal na proyekto ang relasyon mo sa oras.</item>
+        <item>Ang paglikha ang pinakamagandang paraan para abalahin ang isip.</item>
+        <item>Kaya mong tapusin ang isang bagay ngayon.</item>
+        <item>Humawak ka ng isang bagay na totoo.</item>
+        <item>Walang makapapalit sa pakiramdam na may nagawa ka.</item>
+        <item>Ayos lang na napunta ka rito. Ngayon, huminga ka.</item>
+        <item>Walang nagbibilang ng kahit ano. Magpatuloy ka lang.</item>
+        <item>Maayos ang lagay mo, kahit hindi halata.</item>
+        <item>Walang pagmamadali at walang paninisi. Saglit na hinto lang.</item>
+        <item>Hindi ito pagsusulit. Isang malumanay na paalala lang.</item>
+        <item>Sinusubukan mo, at sapat na iyon.</item>
+        <item>Ayos lang ang lahat. Isara mo at ituloy ang araw mo.</item>
+        <item>Walang anuman dito ang tungkol sa laging pagiging tama.</item>
+        <item>Karapat-dapat kang gumaan ang loob ngayon.</item>
+        <item>Walang drama. Isang sandali lang para huminga.</item>
+        <item>Tahimik na lugar ito. Manatili ka sandali.</item>
+        <item>Ginagawa mo ang makakaya mo. May halaga iyon.</item>
+        <item>Walang paninisi rito. Malasakit lang.</item>
+        <item>Huminga ka. Walang masamang nangyayari.</item>
+        <item>Nakarating ka hanggang dito, at maganda na iyon.</item>
+        <item>Walang nanghuhusga. Huwag mo ring husgahan ang sarili mo.</item>
+        <item>Nasa ayos ang lahat. Tuloy lang.</item>
+        <item>Isa-isang hakbang ang tamang bilis.</item>
+        <item>Hindi mo kailangang maging perpekto rito.</item>
+        <item>Paglalakad pa rin ang mabagal na paglalakad.</item>
+        <item>Walang hinihingi sa iyo ang screen na ito.</item>
+        <item>Maging mabait ka sa sarili mo ngayon.</item>
+        <item>Okay lang na makaramdam ng pagnanais. Bahagi iyan nito.</item>
+        <item>Inaalagaan mo ang sarili mo. Ang ganda niyan.</item>
+        <item>Walang alarma, walang pagmamadali, walang gulat.</item>
+        <item>Tao ka. Puwede iyan.</item>
+        <item>Hindi mo kailangang magpaliwanag kaninuman.</item>
+        <item>Huminga nang malalim. Lumipas na.</item>
+        <item>Ligtas ka rito.</item>
+        <item>Okay lang kung mahirap ang araw na ito.</item>
+        <item>Walang araw na magkapareho. Pati ang araw na ito.</item>
+        <item>Nasa daan ka, kahit mabagal.</item>
+        <item>Ipahinga mo muna ang pagiging mahigpit sa sarili.</item>
+        <item>Ayos ang lahat. Isang hinga lang.</item>
+        <item>Hindi mo kailangang laging okay.</item>
+        <item>Mas gumagana ang kabaitan sa sarili kaysa sa higpit.</item>
+        <item>Tahimik na lilipas ang sandaling ito.</item>
+        <item>Nagawa mo na ang mahirap na bahagi ngayong araw.</item>
+        <item>Walang apurahan. Walang malala. Sandaling pahinga lang.</item>
+        <item>Ngumiti ka. Mas maliit ito kaysa sa inaakala mo.</item>
+        <item>Sumusubok ka, at iyon ang mahalaga.</item>
+        <item>Wala kang kailangang panagutan. Magpatuloy ka lang.</item>
+        <item>Okay lang. Totoo.</item>
+        <item>Karapat-dapat ka sa isang magaan na araw.</item>
+        <item>Huminga ka. Patuloy pa ring umiikot ang mundo.</item>
+        <item>Walang pagmamadali ngayon.</item>
+        <item>Panatag ka sa pagpiling ito.</item>
+        <item>Okay lang magsimula ulit kahit ilang beses kailangan.</item>
+        <item>Lugar ito na walang paninisi.</item>
+        <item>Maging matiyaga sa proseso.</item>
+        <item>Hindi ka nahuhuli sa anuman.</item>
+        <item>Okay lang na hindi ka buong-buo ngayon.</item>
+        <item>Pag-aalaga ang paghintong ito, hindi pagtutuwid.</item>
+        <item>Puwede ka nang magpatuloy ngayon.</item>
+        <item>Walang tensyon. Isang sandali lang.</item>
+        <item>Okay lang kung awtomatiko iyon.</item>
+        <item>Hindi mo kailangan ng dahilan para maging okay.</item>
+        <item>Huminga at magpatuloy. Ganoon lang kasimple.</item>
+        <item>Walang problema rito.</item>
+        <item>Tama ang ginagawa mo.</item>
+        <item>Ayos lang, totoo. Humayo ka nang payapa.</item>
+        <item>Sa iyo ang sandaling ito para magpahinga.</item>
+        <item>Hindi ka nag-iisa rito.</item>
+        <item>Tahimik ang lahat. Ituloy mo ang araw.</item>
+        <item>Walang bigat. Paalala lang.</item>
+        <item>Sapat ka na.</item>
+        <item>Wala sa feed ang kalmang hinahanap mo.</item>
+        <item>Walang mali sa iyo.</item>
+        <item>Ipahinga ang isip mo nang isang segundo.</item>
+        <item>Karapat-dapat ka sa ganitong pag-aalaga.</item>
+        <item>Walang kailangang lutasin ngayon.</item>
+        <item>Huminga ka nang isang beses. Saka magpatuloy.</item>
+        <item>Okay ka. Iyon lang.</item>
+        <item>Walang paninisi, walang bilang, walang iskor.</item>
+        <item>Isang sandali ng kalma sa gitna ng araw.</item>
+        <item>Puwede mong lambingin ang sarili mo ngayon.</item>
+        <item>Payapa ang lahat.</item>
+        <item>Walang dapat madaliin.</item>
+        <item>Ginawa mo ang kaya mo ngayong araw.</item>
+        <item>Ayos lang. May bukas pa.</item>
+        <item>Isang hinga lang ang sandaling ito.</item>
+        <item>Ligtas ka, at sapat na iyon.</item>
+        <item>Walang panghuhusga rito.</item>
+        <item>Huminga ka lang at mabuhay.</item>
+        <item>Karapat-dapat ka sa katahimikan ngayon.</item>
+        <item>Okay lang kahit anong bilis.</item>
+        <item>Ipahinga mo nang kaunti ang ulo mo.</item>
+        <item>Laging bukas ang lugar na ito para sa iyo.</item>
+        <item>Walang dapat ikagulat. Mabilisang hinto lang.</item>
+        <item>Hindi karera ang buhay ngayong araw.</item>
+        <item>Buo ka, at sapat na iyon.</item>
+        <item>Okay lang na sumubok ka.</item>
+        <item>Walang anuman dito ang laban sa iyo.</item>
+        <item>Huminga at magpatuloy nang dahan-dahan.</item>
+        <item>Okay ka kung ano ka ngayon.</item>
+        <item>Sandali ito ng kapayapaan.</item>
+        <item>Walang anumang paninisi. Magpatuloy nang magaan.</item>
+        <item>May pahintulot kang magpahinga.</item>
+        <item>Kalmado ang lahat dito.</item>
+        <item>Dahan-dahan lang. Maghihintay ang araw.</item>
+        <item>Mabait ka sa sarili mo, at lakas iyon.</item>
+        <item>Ano ang gagawin mo ngayon kung wala ang app na ito.</item>
+        <item>Nandito ka ba dahil gusto mo o dahil nakasanayan.</item>
+        <item>Ano nga ba ang hinahanap mo.</item>
+        <item>Mahalaga pa kaya ito bukas ng umaga.</item>
+        <item>Maaalala mo pa kaya ang makikita mo ngayon.</item>
+        <item>Ano ang ginagawa mo bago mo dinampot ang cellphone.</item>
+        <item>Gaano karaming oras ang gusto mong ibigay rito ngayon.</item>
+        <item>Bagot ka ba o pagod.</item>
+        <item>Ano kaya ang puwedeng mangyari sa hapon mo sa halip nito.</item>
+        <item>Sulit ba ito.</item>
+        <item>May partikular na dahilan ba kung bakit mo ito binuksan.</item>
+        <item>Ano ang maipagpapaliban mo na naman kung papasok ka ngayon.</item>
+        <item>Sino ang gusto mong maging isang taon mula ngayon.</item>
+        <item>Ano ang talagang makabubuti sa iyo ngayon.</item>
+        <item>May tinatakasan ka ba.</item>
+        <item>Paano kung gawin mo na ang matagal mo nang ipinagpapaliban.</item>
+        <item>Ano ang mangyayari kung isasara mo na lang.</item>
+        <item>May mas magandang bagay kang magagawa. Ano iyon.</item>
+        <item>Pahinga ba ito o pagtakas.</item>
+        <item>Ano ang ipapagawa sa iyo ng ikaw bukas.</item>
+        <item>Gutom ka ba, antok, o bagot.</item>
+        <item>Kailan ka huling pinagaan ng feed.</item>
+        <item>Ano ang gusto mong maramdaman sa pagtatapos ng araw.</item>
+        <item>Ano ang kulang ngayon.</item>
+        <item>Kailangan mo ba ito o gusto mo lang.</item>
+        <item>Anong maliit na bagay ang magpapaganda sa araw mo ngayon.</item>
+        <item>Ano ang gagawin mo sa dalawang bakanteng oras.</item>
+        <item>Alam mo na kung ano ang dapat mong ginagawa.</item>
+        <item>Magkano talaga ang halaga ng labinlimang minutong ito.</item>
+        <item>Gusto mo ba ito o kumikilos lang ang kamay mo nang kusa.</item>
+        <item>Ano ang mas sulit ngayon.</item>
+        <item>Okay ka lang ba diyan.</item>
+        <item>Ano ang pinakamagandang pagpili ngayon, kung kalmado ka.</item>
+        <item>Ipagmamalaki mo ba ang kalahating oras na ito.</item>
+        <item>Ano ang gagawin mo kung walang nakakakita.</item>
+        <item>May matatawagan ka ba ngayon.</item>
+        <item>Ano ang iniiwasan ng isip mo.</item>
+        <item>Sulit bang ipagpalit ang hapon mo rito.</item>
+        <item>May plano ka ngayong araw. Kasama ba rito ito.</item>
+        <item>Ano ang pinakamasayang gawin ngayon.</item>
+        <item>Okay ka ba, sa totoo lang.</item>
+        <item>Ano ang magpapasulit sa linggong ito.</item>
+        <item>Ito ba ang gusto mo o ang nakasanayan mong gawin.</item>
+        <item>Naisip mo na ba ang gusto mong gawin bukas.</item>
+        <item>Ilang beses mo nang dinampot ang cellphone ngayong araw.</item>
+        <item>Ano ang magpapasaya sa iyo isang oras mula ngayon.</item>
+        <item>Gusto mo bang pumasok o naka-autopilot lang ang daliri mo.</item>
+        <item>Ano ang mahalagang bagay na ipinagpapaliban mo.</item>
+        <item>Ano ang iisipin dito ng ikaw sampung taon na ang nakalipas.</item>
+        <item>Nagpapahinga ka ba talaga.</item>
+        <item>May gagawin ka ba kung may lakas ka ng loob.</item>
+        <item>Ano ang gusto mong nagawa mo ngayong gabi.</item>
+        <item>Mas sulit ba ito kaysa sa isang kuwentuhan.</item>
+        <item>Para saan ang oras mo ngayon.</item>
+        <item>Anong gawi ang gusto mong mayroon ka anim na buwan mula ngayon.</item>
+        <item>Ano talaga ang humihingi ng atensyon mo.</item>
+        <item>Mas gusto mo bang maalala o makalimutan ang hapong ito.</item>
+        <item>Ano ang magandang paggamit sa sandaling ito.</item>
+        <item>Nandito ka ba para may makita o para may hindi maramdaman.</item>
+        <item>Ano ang makatutulong sa iyong makatulog nang mahimbing ngayong gabi.</item>
+        <item>Nakadaragdag ba ito o nakababawas sa araw mo.</item>
+        <item>Gusto mo ba talagang malaman kung ano ang nandoon.</item>
+        <item>Ano ang huling magandang bagay na ginawa mo nang walang screen.</item>
+        <item>Ano ang gagawin mo sa isang hapong walang internet.</item>
+        <item>Ano ang minamadali mo.</item>
+        <item>Anong maliit na hakbang ang puwede mong gawin ngayon.</item>
+        <item>Ano ang mas nangangailangan ng atensyon mo kaysa rito.</item>
+        <item>Nakahinga ka na ba nang malalim ngayong araw.</item>
+        <item>Ano ang plano mo sa susunod na oras.</item>
+        <item>Inilalapit ka ba nito sa isang bagay na gusto mo.</item>
+        <item>Gagawin mo ba ito sa harap ng taong hinahangaan mo.</item>
+        <item>Ano ang magandang nangyari ngayong araw.</item>
+        <item>Gaano na karami sa araw mo ang napunta sa mga screen.</item>
+        <item>May ideya ka bang nakatengga at naghihintay.</item>
+        <item>Ano ang gusto mong gawin sa linggong ito.</item>
+        <item>Sulit bang ipagpalit ang katahimikan sa ingay.</item>
+        <item>Lumilikha ka ba o kumokonsumo ngayon.</item>
+        <item>Anong simpleng bagay ang makabubuti sa iyo ngayon.</item>
+        <item>Ano ang sasabihin mo sa isang kaibigan sa ganitong sitwasyon.</item>
+        <item>May limang minuto ka. Para saan.</item>
+        <item>Ano talaga ang bumabagabag sa iyo.</item>
+        <item>Ito na ba ang pinakamagandang magagawa mo ngayon.</item>
+        <item>Ikaw ba ang may hawak ng sandaling ito.</item>
+        <item>Anong desisyon ang ipagmamalaki mo.</item>
+        <item>Ano ang gusto mong nagawa na pagdating ng dulo ng araw.</item>
+        <item>Naaalala mo ba kung bakit mo ito in-install.</item>
+        <item>Paano kung mamaya na lang, at tingnan kung gusto mo pa.</item>
+        <item>Ano ang gagawin mo kung mas matapang ka ngayon.</item>
+        <item>Gusto mo ba ang mabilis na bersyon o ang magandang bersyon ng araw mo.</item>
+        <item>Ano ang bagay na ikaw lang ang makagagawa ngayon.</item>
+        <item>Ano ang naghihintay sa iyo sa labas.</item>
+        <item>Nagpasalamat ka na ba para sa kahit ano ngayong araw.</item>
+        <item>Gaano kahalaga sa iyo ang susunod na kalahating oras.</item>
+        <item>Ano ang gusto mong baunin mula sa linggong ito.</item>
+        <item>Apurahan ba ito o mukha lang.</item>
+        <item>Ginagawa mo ba ang gusto mong gawin.</item>
+        <item>Ano ang magandang pagtatapos para sa araw na ito.</item>
+        <item>Ano ang gagawin mo kung pahinga ka.</item>
+        <item>Mas gusto mo bang mag-scroll o mabuhay ngayon.</item>
+        <item>Paano kung isara mo na lang at tingnan ang mangyayari.</item>
+    </string-array>
+</resources>

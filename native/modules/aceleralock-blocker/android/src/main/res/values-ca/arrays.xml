@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Català: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>El temps que no gastes aquí torna sencer a la teva vida.</item>
+        <item>Cada minut fora d’aquesta pantalla torna a ser teu.</item>
+        <item>Aquests vint minuts caben en una passejada.</item>
+        <item>El dia té més espai del que sembla quan deixes de fer scroll.</item>
+        <item>Acabes de recuperar un tros de la teva tarda.</item>
+        <item>Una hora al dia són quinze dies a l’any.</item>
+        <item>El temps no torna, però encara pots triar on va.</item>
+        <item>Aquesta estona és teva. Ningú no ha de saber què n’has fet.</item>
+        <item>Hi ha tota una vida passant fora de l’app.</item>
+        <item>El rellotge corre igual a tots dos costats d’aquesta pantalla.</item>
+        <item>Ara has guanyat temps. Gasta’l en alguna cosa que recordis demà.</item>
+        <item>Ningú no arriba al final del dia desitjant haver fet més scroll.</item>
+        <item>Quinze minuts aquí són quinze minuts a qualsevol altre lloc.</item>
+        <item>Pensa què hauries fet amb aquesta mitja hora fa deu anys.</item>
+        <item>El teu temps és l’única cosa que no pots tornar a comprar.</item>
+        <item>Tens tota la tarda oberta al davant.</item>
+        <item>Aquest minut pot ser el començament d’una altra cosa.</item>
+        <item>Estàs recuperant hores per a tu, una a una.</item>
+        <item>El temps que estalvies aquí no desapareix. Reapareix en un altre lloc.</item>
+        <item>Deu minuts semblen poc fins que sumes els d’un mes.</item>
+        <item>La vida va a velocitat normal, no a la del feed.</item>
+        <item>Avui tens més temps del que tenies ahir a aquesta hora.</item>
+        <item>Allò que vas ajornant cap just en aquesta estona.</item>
+        <item>Aquesta pausa és curta. El que en facis potser no ho serà.</item>
+        <item>Un dia dona per a molt quan deixes el scroll de banda.</item>
+        <item>Acabes de recuperar la resta del vespre.</item>
+        <item>El temps és la moneda. Acabes de decidir no gastar-la.</item>
+        <item>El feed no s’acaba mai. El teu dia, sí.</item>
+        <item>Mitja hora al dia dona per a un llibre sencer al mes.</item>
+        <item>No t’esperava res urgent allà dins.</item>
+        <item>Aquest temps ja era teu. Ara torna a estar amb tu.</item>
+        <item>El matí encara pot rendir si comença ara.</item>
+        <item>No has perdut res. Has guanyat una estona.</item>
+        <item>Ningú no ens torna el temps. Som nosaltres qui el guardem.</item>
+        <item>Aquests minuts valen més fora d’aquí, i ja ho saps.</item>
+        <item>El que hi havia allà continua allà. El teu temps, no.</item>
+        <item>Una vida es fa de tardes com aquesta.</item>
+        <item>Pots acabar el dia amb alguna cosa feta en lloc d’alguna cosa vista.</item>
+        <item>Dues hores al dia són un mes sencer a l’any.</item>
+        <item>El temps que protegeixes avui és el que et sobra demà.</item>
+        <item>Aquesta és la part del dia que només decideixes tu.</item>
+        <item>Allà dins ningú no ha escrit res que valgui la teva tarda.</item>
+        <item>Trenta minuts al dia construeixen qualsevol cosa en un any.</item>
+        <item>Acabes de comprar un tros de silenci.</item>
+        <item>El dia es fa més gran quan el feed es fa més petit.</item>
+        <item>Ara aquest temps és matèria primera. Fes-ne alguna cosa.</item>
+        <item>Hi ha un projecte teu que espera just aquesta estona.</item>
+        <item>El que guanyes aquí no surt a cap pantalla, només a la teva vida.</item>
+        <item>El temps lliure és rar. Acabes de crear-ne una mica.</item>
+        <item>Ningú, al final de la vida, no ha demanat lliscar una pantalla més.</item>
+        <item>Tens tota la tarda i encara no l’has gastada.</item>
+        <item>Un any són tres-centes seixanta-cinc decisions com aquesta.</item>
+        <item>Aquesta estona és petita, però és tota teva.</item>
+        <item>El temps passa igual. La diferència és el que queda després.</item>
+        <item>Acabes de treure mitja hora del pilot automàtic.</item>
+        <item>La resta del dia t’agraeix aquesta aturada.</item>
+        <item>Cinc minuts allà es tornen quaranta sense que ningú se n’adoni.</item>
+        <item>Coneixes el preu d’aquests cinc minuts. Per això ets aquí.</item>
+        <item>L’hora que protegeixes ara és la que busques a la nit.</item>
+        <item>Res d’allà dins no millora si ho mires ara en lloc de després.</item>
+        <item>Acabes de triar on va el minut següent.</item>
+        <item>Aquest temps cap en una conversa, una passejada, una migdiada.</item>
+        <item>El dia rendeix quan les hores deixen d’escolar-se.</item>
+        <item>La pròxima mitja hora és només teva.</item>
+        <item>Hi ha una versió d’aquest dia en què has fet alguna cosa. Comença ara.</item>
+        <item>El temps no s’acumula. Només es gasta millor o pitjor.</item>
+        <item>Aquests minuts poden ser descans de debò.</item>
+        <item>Acabes de baixar d’una cinta que no porta enlloc.</item>
+        <item>Una setmana té cent seixanta-vuit hores. Aquesta és teva.</item>
+        <item>El feed s’emporta el temps a trossets perquè ningú no el trobi a faltar.</item>
+        <item>Ara pots fer allò que cada dia deixes per a demà.</item>
+        <item>La teva tarda no ha de cabre dins d’una pantalla.</item>
+        <item>El temps que sobra és el que fa que el dia sembli llarg, en el bon sentit.</item>
+        <item>La pròxima hora acaba de tornar a ser teva.</item>
+        <item>Res del que veuries ara no et quedaria al cap d’aquí a una setmana.</item>
+        <item>Aquest és el tipus de minut que construeix o desfà un any.</item>
+        <item>Has guanyat temps. No cal que el gastis de pressa.</item>
+        <item>Un dia sense scroll és un dia on hi caben més coses.</item>
+        <item>El rellotge no distingeix el temps ben aprofitat del llençat. Tu, sí.</item>
+        <item>Aquesta hora val el mateix que qualsevol altra de la teva vida.</item>
+        <item>Ara tens temps. Això és més rar del que sembla.</item>
+        <item>Guardar temps és l’única manera de tenir temps.</item>
+        <item>Encara tens tota la nit per davant.</item>
+        <item>Aquests minuts són el començament d’una tarda que recordaràs.</item>
+        <item>Acabes d’esquivar aquell forat d’una hora.</item>
+        <item>Tot el que demana temps demana just aquest tipus de decisió.</item>
+        <item>Entre ara i el sopar encara hi caben moltes coses.</item>
+        <item>Has tret el peu de l’accelerador. El dia també frena.</item>
+        <item>La teva setmana té espai. Només l’ocupava una altra cosa.</item>
+        <item>Cada cop que tanques això, el dia creix una mica.</item>
+        <item>El temps és el regal que et fas sense gastar res.</item>
+        <item>Ara tens just allò que tot el dia dius que no tens.</item>
+        <item>Una tarda llarga es fa de decisions curtes com aquesta.</item>
+        <item>Ningú no et preguntarà què has fet amb aquesta mitja hora.</item>
+        <item>El temps que avui no regales encara serà teu demà.</item>
+        <item>Vint minuts al dia són cent vint hores a l’any.</item>
+        <item>Acabes de recuperar l’estona d’abans d’anar a dormir.</item>
+        <item>Hi ha molta vida entre una notificació i una altra.</item>
+        <item>Tot el dia hi cap si no el regales a trossos.</item>
+        <item>Has arribat fins aquí protegint temps. Aquesta estona n’és una més.</item>
+        <item>La teva atenció és el bé més disputat del món. Acabes de guanyar.</item>
+        <item>La concentració triga vint minuts a tornar. No la regalis ara.</item>
+        <item>Un cap sencer val més que un cap fet a trossos.</item>
+        <item>Abans de venir aquí tenies el cap ficat en alguna cosa.</item>
+        <item>L’atenció dividida no és atenció. És només cansament.</item>
+        <item>El que estaves fent mereix tota la teva atenció.</item>
+        <item>Pensar a fons demana temps sense interrupcions. Ara el tens.</item>
+        <item>Cada canvi de pantalla costa més del que marca el rellotge.</item>
+        <item>La teva ment anava bé. Deixa-la continuar.</item>
+        <item>La feina profunda no sobreviu a una passada pel feed.</item>
+        <item>El feed està dissenyat per endur-se la teva atenció. Te n’has adonat.</item>
+        <item>Un pensament llarg necessita silenci per acabar.</item>
+        <item>Pots sostenir una idea sencera al cap. Només cal espai.</item>
+        <item>Distreure’s no és descansar. Descansar descansa.</item>
+        <item>La concentració que tenies encara és per aquí. Torna-hi.</item>
+        <item>Avui la teva atenció no està en venda.</item>
+        <item>El millor del teu cap apareix després del minut vint.</item>
+        <item>Interrompre’t ara surt més car del que sembla.</item>
+        <item>Pots fer coses que demanen focus. Comença per protegir-lo.</item>
+        <item>Res d’allà dins no necessita la teva atenció amb urgència.</item>
+        <item>Una hora concentrada rendeix més que quatre hores a trossos.</item>
+        <item>El teu cap funciona millor quan no salta d’un tema a l’altre.</item>
+        <item>El que ha quedat a mitges encara es pot acabar avui.</item>
+        <item>El focus no és força de voluntat. És entorn. Acabes d’endreçar el teu.</item>
+        <item>Aquell problema difícil cedeix quan t’hi quedes.</item>
+        <item>La teva atenció és limitada. Per això val tant.</item>
+        <item>No cal que ho sàpigues tot ara.</item>
+        <item>El soroll continuarà allà. El que és rar és el teu silenci.</item>
+        <item>Grans coses les ha fet gent que ningú no va interrompre.</item>
+        <item>Torna al que estaves fent. El teu cap encara hi és.</item>
+        <item>Una tasca cada vegada és més ràpid del que sembla.</item>
+        <item>Les ganes de mirar passen. La idea interrompuda de vegades no torna.</item>
+        <item>Tens més capacitat de concentració de la que fas servir ara.</item>
+        <item>Pensar bé és lent. Deixa que sigui lent.</item>
+        <item>Avui la teva atenció ha muntat alguna cosa. No la desmuntis per curiositat.</item>
+        <item>El que demana cap demana tot el cap.</item>
+        <item>Cap feed no t’ensenyarà el que t’ensenya una hora de focus.</item>
+        <item>Cada notificació que ignores és una mica més de claredat.</item>
+        <item>Estaves a punt d’entendre-ho. Torna-hi.</item>
+        <item>Una ment descansada és una ment que no han estirat tot el dia.</item>
+        <item>La teva atenció és el material amb què construeixes tota la resta.</item>
+        <item>El difícil és començar. Ja has començat. No tornis a zero.</item>
+        <item>Deixa el tema tranquil i es resoldrà sol dins el teu cap.</item>
+        <item>La claredat arriba quan el soroll s’atura.</item>
+        <item>La millor feina del teu dia encara no ha arribat.</item>
+        <item>No et falta temps. Et falta temps sencer.</item>
+        <item>Penses millor del que el feed et deixa pensar.</item>
+        <item>Aquell text, aquell codi, aquella conversa. Et volen amb el cap sencer.</item>
+        <item>La concentració és un múscul. Creix amb dies com avui.</item>
+        <item>El teu cap t’ho acaba d’agrair.</item>
+        <item>Una cosa rere l’altra continua sent la tècnica més avançada que existeix.</item>
+        <item>El que fas amb atenció queda. La resta passa.</item>
+        <item>No hi ha dreceres per pensar. Només temps sense interrupcions.</item>
+        <item>Et mereixes acabar un raonament.</item>
+        <item>Tenies la ment ben esmolada. No perdis el fil.</item>
+        <item>La pantalla parpelleja. Les idees, no. Queda’t amb les idees.</item>
+        <item>Un dia amb focus en val tres de córrer amunt i avall.</item>
+        <item>No et falta rapidesa. Només t’anaven interrompent.</item>
+        <item>El tema que importa avui no és al feed.</item>
+        <item>Mantenir el rumb surt més barat que tornar-hi.</item>
+        <item>La teva atenció sencera és un regal. Dona-la a qui se la mereix.</item>
+        <item>El silenci és on apareixen les bones idees.</item>
+        <item>Estaves enmig d’alguna cosa bona.</item>
+        <item>Ningú no pensa bé amb el cap a deu llocs alhora.</item>
+        <item>La profunditat només arriba després d’una estona a la superfície.</item>
+        <item>El focus no va de fer més. Va de fer-ho bé.</item>
+        <item>Avui tens una cosa important. I no és el feed.</item>
+        <item>Deixa que el teu cap acabi la frase que ha començat.</item>
+        <item>Una hora sense interrupcions canvia el que és possible en un dia.</item>
+        <item>El que ara sembla difícil es torna fàcil amb atenció contínua.</item>
+        <item>La teva concentració és el teu avantatge. Poca gent encara la conserva.</item>
+        <item>No canviïs una cosa important per moltes de ràpides.</item>
+        <item>La curiositat pot esperar. El focus, no.</item>
+        <item>Estàs construint alguna cosa. Continua.</item>
+        <item>Canviar de tasca sembla productiu i gairebé mai no ho és.</item>
+        <item>El millor ús del teu cap avui encara està disponible.</item>
+        <item>L’atenció que guardes ara es nota després en el resultat.</item>
+        <item>La teva ment no és un feed. Guarda allò a què prestes atenció.</item>
+        <item>Un tema que mereix tota la teva atenció és rar. Aprofita’l.</item>
+        <item>Difícil no vol dir impossible. Només vol dir lent.</item>
+        <item>Ets a pocs minuts de desencallar-ho.</item>
+        <item>El soroll s’esvaeix quan deixes d’alimentar-lo.</item>
+        <item>Continua amb el que feies fins a acabar-ho.</item>
+        <item>Una immersió a fons val per deu de superficials.</item>
+        <item>La teva atenció decideix què es torna record.</item>
+        <item>Recordes allò a què has prestat atenció. Només això.</item>
+        <item>Pensar és el que més rendeix de tot el que faràs avui.</item>
+        <item>Un cap sense pressa resol el que un cap amb pressa no veu.</item>
+        <item>La bona feina demana paciència, no velocitat.</item>
+        <item>Res del que veuries ara no sortiria en una conversa demà.</item>
+        <item>La claredat mental d’avui ha començat amb decisions com aquesta.</item>
+        <item>Les interrupcions són l’impost més car que hi ha.</item>
+        <item>Pots estar més temps del que et penses en una sola cosa.</item>
+        <item>Aquell detall que se t’escapava apareix en el silenci.</item>
+        <item>El focus torna. Només li calen uns minuts sense pantalla.</item>
+        <item>Ets capaç d’una atenció llarga. El feed aposta que no.</item>
+        <item>Acabar una cosa avui val més que començar-ne cinc.</item>
+        <item>La teva atenció plena és rara fins i tot per a tu.</item>
+        <item>Deixa respirar el pensament.</item>
+        <item>Ningú no fa scroll per sobre del que construeixes amb focus.</item>
+        <item>Les ganes d’obrir-la passen en uns minuts. Sempre passen.</item>
+        <item>Aquest impuls té data de caducitat. Caduca tot sol.</item>
+        <item>No cal que facis res. Només esperar que l’onada baixi.</item>
+        <item>La urgència que sents ara no és teva. Te l’han ensenyada.</item>
+        <item>Respira un cop. Les ganes ja són més petites que fa un minut.</item>
+        <item>L’impuls és fort al principi i s’esvaeix a mig camí.</item>
+        <item>No ets tu qui ho vol. És l’hàbit que ho demana.</item>
+        <item>És incòmode durant una estona curta. Després passa.</item>
+        <item>Ja ho has sentit abans i te n’has sortit cada vegada.</item>
+        <item>Les ganes venen a onades. I les onades trenquen.</item>
+        <item>Ningú no ha d’obeir el primer impuls del dia.</item>
+        <item>Aquesta pressió al pit dura menys que una cançó.</item>
+        <item>Ets més gran que un impuls de trenta segons.</item>
+        <item>Deixa passar les ganes sense fer-hi res.</item>
+        <item>Aquesta incomoditat és l’hàbit que es deslliga. Això és progrés.</item>
+        <item>No estàs resistint. Només estàs esperant.</item>
+        <item>Les ganes arriben fortes i se’n van en silenci.</item>
+        <item>Compta fins a vint. Les ganes ja hauran minvat.</item>
+        <item>Tenir ganes no és el mateix que necessitar.</item>
+        <item>L’impuls vol una resposta immediata. No li’n donis cap.</item>
+        <item>Aquest és el moment més difícil, i és curt.</item>
+        <item>No cal lluitar. Només no decidir ara.</item>
+        <item>Les ganes s’apaguen quan ningú no les alimenta.</item>
+        <item>Això és ansietat, no gana de contingut.</item>
+        <item>Fixa’t en les ganes sense deixar-t’hi endur.</item>
+        <item>El cervell demana el de sempre. No cal que li ho serveixis.</item>
+        <item>D’aquí a cinc minuts ni recordaràs que la volies obrir.</item>
+        <item>Ara l’onada puja. Sempre acaba baixant.</item>
+        <item>Ja has passat la pitjor part.</item>
+        <item>L’impuls menteix sobre la seva pròpia força.</item>
+        <item>Aixeca’t, beu aigua, torna. Ja haurà marxat.</item>
+        <item>Les ganes no són una ordre.</item>
+        <item>Pots sentir-ho i no fer res. Està permès.</item>
+        <item>El cos demana moviment, no pantalla.</item>
+        <item>Aquest desig és automàtic. La teva resposta no ho ha de ser.</item>
+        <item>No passa res de dolent si esperes una mica més.</item>
+        <item>Les ganes marxen soles si els deixes espai.</item>
+        <item>Només és ansietat. Passa, i no demana pantalla.</item>
+        <item>L’impuls és un suggeriment. Qui decideix ets tu.</item>
+        <item>Un minut més i les ganes ja seran una altra cosa.</item>
+        <item>La part difícil dura poc. La bona dura tot el dia.</item>
+        <item>Aquesta és la famosa empenteta. No empeny tant com sembla.</item>
+        <item>Espera sense jutjar-te. Les ganes es desfan soles.</item>
+        <item>El teu cervell et demana la drecera de sempre.</item>
+        <item>No has de guanyar res. Només deixar-ho passar.</item>
+        <item>Cada onada que deixes passar fa més petita la següent.</item>
+        <item>L’ansietat vol una solució ràpida. Aquí no la trobarà.</item>
+        <item>Atura’t un instant. L’impuls no s’atura.</item>
+        <item>No et perds res per esperar.</item>
+        <item>L’avorriment no és cap emergència.</item>
+        <item>Sentir un buit ara és normal. S’omple tot sol.</item>
+        <item>Les ganes de mirar alguna cosa rarament tenen a veure amb aquella cosa.</item>
+        <item>Sents incomoditat, no perill.</item>
+        <item>Això s’afluixarà en un moment.</item>
+        <item>L’hàbit és fort, però dura poc.</item>
+        <item>Deixa passar aquesta. Només aquesta.</item>
+        <item>La pròxima vegada serà més fàcil gràcies a aquesta.</item>
+        <item>No t’has de convèncer de res. Només esperar.</item>
+        <item>Un got d’aigua resol més que una passada pel feed.</item>
+        <item>La urgència és falsa i ja ho saps.</item>
+        <item>L’impuls no suporta quedar-se sense resposta.</item>
+        <item>Espera trenta segons. Després torna a decidir.</item>
+        <item>Ets al punt més alt. D’aquí endavant, tot és baixada.</item>
+        <item>Ara res no demana que reaccionis.</item>
+        <item>Les ganes són una visita. Ja marxaran.</item>
+        <item>No ets l’impuls. Ets qui l’observa.</item>
+        <item>El cos es relaxa si li dones un minut.</item>
+        <item>Només és el cervell buscant estímuls. Ja en trobarà uns altres.</item>
+        <item>Respirar fondo tres cops en canvia la intensitat.</item>
+        <item>Les ganes s’encongeixen quan les mires de cara.</item>
+        <item>Pots aguantar aquest minut. N’has aguantat de pitjors.</item>
+        <item>La incomoditat passa encara que no facis res.</item>
+        <item>La mà ha anat més de pressa que el cap. Passa.</item>
+        <item>Cap decisió no s’ha de prendre en els primers deu segons.</item>
+        <item>D’aquí a un moment ni te’n recordaràs.</item>
+        <item>El detonant s’ha disparat. La resposta encara és teva.</item>
+        <item>Deixa que les ganes hi siguin, sense obeir-les.</item>
+        <item>Això no és una necessitat. És costum.</item>
+        <item>Espera. És literalment tot el que has de fer.</item>
+        <item>El cap es calma sol si no hi tires més llenya.</item>
+        <item>Ja estàs esperant. Això ja és la victòria.</item>
+        <item>L’impuls perd força quan troba una porta tancada.</item>
+        <item>Cada segon aquí és un segon d’avantatge.</item>
+        <item>L’onada ha trencat. Fixa’t que ja pesa menys.</item>
+        <item>No necessites cap motiu per no obrir-la.</item>
+        <item>El desig passa més de pressa que el penediment.</item>
+        <item>Un estirament resol el que el feed no resoldria.</item>
+        <item>Les ganes van marxant mentre llegeixes això.</item>
+        <item>No decideixis res ara. Només respira.</item>
+        <item>L’impuls ve tot sol i se’n va tot sol.</item>
+        <item>Això és el més difícil. I és ràpid.</item>
+        <item>Has aguantat fins aquí. Només falten uns segons.</item>
+        <item>El cos demana pantalla quan vol descans. Dona-li descans.</item>
+        <item>Les ganes es fan més petites cada cop que no les atens.</item>
+        <item>Espera una mica més. Res més.</item>
+        <item>El moment passa. La decisió queda.</item>
+        <item>Acabes de travessar la part estreta.</item>
+        <item>Tenir ganes és humà. No fer-los cas, també.</item>
+        <item>La calma torna en un moment si no la forces.</item>
+        <item>Ara pesa menys, oi?</item>
+        <item>Ho vas decidir amb calma. Confia en qui ho va decidir.</item>
+        <item>El tu d’ahir ha cuidat el tu d’ara.</item>
+        <item>Aquesta pantalla és un missatge teu per a tu.</item>
+        <item>Això no és cap impediment. És un recordatori.</item>
+        <item>Qui vols ser no es passa la tarda fent scroll.</item>
+        <item>Aquesta decisió va ser teva. I continua sent-ho.</item>
+        <item>Ets el tipus de persona que se n’ha adonat i ha actuat.</item>
+        <item>Ningú no t’ha obligat a instal·lar això. Ho has volgut tu.</item>
+        <item>Al teu jo de demà li agradarà el teu jo d’ara.</item>
+        <item>Ja ets algú que protegeix el seu temps.</item>
+        <item>Això no és un càstig. És un pacte.</item>
+        <item>Aquesta norma la vas escriure tu. I funciona.</item>
+        <item>Decidir on va la teva atenció és una tria de cada dia.</item>
+        <item>Aquí no has de demostrar res a ningú.</item>
+        <item>La persona que vols ser comença amb decisions petites.</item>
+        <item>Ets al costat bo d’aquesta pantalla.</item>
+        <item>Cada cop que tanques això, t’assembles més a qui vols ser.</item>
+        <item>No ets allò que tens ganes de fer. Ets allò que fas.</item>
+        <item>Un pacte amb tu val tant com qualsevol altre.</item>
+        <item>Has reconegut un patró i l’has canviat. Això és poc habitual.</item>
+        <item>Ets més gran que les apps que portes a la butxaca.</item>
+        <item>Aquesta norma és teva i està de part teva.</item>
+        <item>Tens dret a canviar d’hàbits.</item>
+        <item>El que fas una vegada i una altra és qui ets.</item>
+        <item>Has triat tenir una vida amb més espai.</item>
+        <item>No és l’app qui mana sobre tu.</item>
+        <item>La teva identitat no cap en un feed.</item>
+        <item>Ets la persona que va instal·lar això per algun motiu.</item>
+        <item>Recorda el motiu. Encara val.</item>
+        <item>Estàs complint una decisió teva.</item>
+        <item>Ningú no decideix per tu on va la teva atenció.</item>
+        <item>T’has adonat del que passava. Això ja ho canvia tot.</item>
+        <item>Portar les regnes del teu dia és una feina constant.</item>
+        <item>No vas al seient del darrere. Condueixes tu.</item>
+        <item>Aquesta és una decisió de qui es pren seriosament.</item>
+        <item>Ets responsable de tu. I ho estàs sent.</item>
+        <item>El teu temps és d’algú. I aquest algú està llegint això.</item>
+        <item>Vas fer un pacte amb tu. Compleix-lo.</item>
+        <item>Cada decisió com aquesta t’acosta a qui vols ser.</item>
+        <item>No estàs perdent llibertat. L’estàs exercint.</item>
+        <item>Qui decideix què fer ara ets tu.</item>
+        <item>No necessites permís per viure d’una altra manera.</item>
+        <item>Aquest límit és una cura, no una gàbia.</item>
+        <item>Has triat un camí més difícil i més teu.</item>
+        <item>La persona que admires també diria que no ara.</item>
+        <item>Vius a la teva vida, no a l’app.</item>
+        <item>És el teu temps, el teu cap, la teva decisió.</item>
+        <item>Estàs complint amb tu. Això compta.</item>
+        <item>Ningú no cuidarà la teva atenció en lloc teu.</item>
+        <item>Ja has demostrat que pots canviar de rumb.</item>
+        <item>L’autonomia és això: decidir abans, no en calent.</item>
+        <item>Estàs construint algú que respectes.</item>
+        <item>Aquesta és la versió de tu que planifica.</item>
+        <item>No has arribat aquí per casualitat. Ho has muntat tu.</item>
+        <item>La paraula que et dones a tu té valor.</item>
+        <item>Tens la teva pròpia opinió sobre com passar el dia.</item>
+        <item>L’app no et coneix. Tu sí que et coneixes.</item>
+        <item>Estàs actuant com qui porta el timó de la seva vida.</item>
+        <item>Ser coherent amb les teves decisions és llibertat.</item>
+        <item>Aquí les normes les escrius tu.</item>
+        <item>Això és tenir cura de tu.</item>
+        <item>Això no és una presó. És protecció.</item>
+        <item>Les teves ganes de canviar són més antigues que aquest impuls.</item>
+        <item>Ja ets qui intentes ser.</item>
+        <item>La decisió difícil ja està presa. Aquesta és la fàcil.</item>
+        <item>Tens el control, i això avui dia és rar.</item>
+        <item>Ningú no ho ha de saber. Això queda entre tu i tu.</item>
+        <item>Et mereixes poder confiar en la teva paraula.</item>
+        <item>Aquesta decisió porta el teu nom.</item>
+        <item>T’has convertit en el tipus de persona que decideix abans.</item>
+        <item>Això no és renunciar. És triar una altra cosa.</item>
+        <item>Tens una direcció. Aquesta pantalla te la recorda.</item>
+        <item>La llibertat de debò és que no t’estirin tota l’estona.</item>
+        <item>Ets tu qui posa preu a la teva atenció.</item>
+        <item>Cada no d’aquí és un sí a una altra cosa teva.</item>
+        <item>Estàs sent fidel a un pla que vas fer amb estima.</item>
+        <item>Manar sobre tu costa feina, però val la pena.</item>
+        <item>Has reconegut que volies canviar. Això ja és la part difícil.</item>
+        <item>A la persona del mirall d’aquesta nit li agradarà això.</item>
+        <item>No li deus res a l’algoritme.</item>
+        <item>La teva vida no és contingut de ningú.</item>
+        <item>Ets exactament on vas decidir ser.</item>
+        <item>El límit que et poses a tu és el més respectuós que hi ha.</item>
+        <item>Tens un projecte de vida més gran que aquesta pantalla.</item>
+        <item>Això és maduresa en temps real.</item>
+        <item>Estàs cuidant el teu futur sense adonar-te’n.</item>
+        <item>Cada tria com aquesta afina qui ets.</item>
+        <item>No t’has de justificar per no obrir-la.</item>
+        <item>El teu compromís és amb tu, no amb l’app.</item>
+        <item>Vas prendre la decisió correcta quan no en tenies ganes.</item>
+        <item>Aquesta és la teva vida, i la condueixes tu.</item>
+        <item>T’has tornat algú difícil de manipular.</item>
+        <item>La teva atenció és d’algú, i aquest algú no s’adorm.</item>
+        <item>Acabes d’actuar com qui es cuida.</item>
+        <item>El pla és teu. I ara funciona.</item>
+        <item>Ets la suma de les teves petites decisions.</item>
+        <item>Ningú no et pot prendre l’última paraula.</item>
+        <item>Sobre el teu temps, l’autoritat ets tu.</item>
+        <item>Funciona perquè vas voler que funcionés.</item>
+        <item>Ets més gran que l’hàbit que vol ser més gran que tu.</item>
+        <item>Una més. Així és com creix el compte.</item>
+        <item>Petit i repetit guanya a gran i rar.</item>
+        <item>Acabes de sumar un punt més.</item>
+        <item>Ningú no canvia de cop. Es canvia en dies com avui.</item>
+        <item>Aquesta és la mil·lèsima part d’una vida diferent.</item>
+        <item>Un bon dia no canvia res. Cent bons dies ho canvien tot.</item>
+        <item>Estàs construint una ratxa.</item>
+        <item>El progrés gairebé mai no sembla progrés des de dins.</item>
+        <item>La suma d’aquestes decisions és més gran que cadascuna.</item>
+        <item>La constància és avorrida i funciona.</item>
+        <item>Una pedra més al mur.</item>
+        <item>Estàs entrenant una cosa que es queda.</item>
+        <item>Si ho repeteixes prou, es torna automàtic.</item>
+        <item>Ningú no veu aquesta victòria, però compta igual.</item>
+        <item>D’aquí a unes setmanes ni en tindràs ganes.</item>
+        <item>Avui compta. Demà també comptarà.</item>
+        <item>Una cadena es fa de baules com aquesta.</item>
+        <item>L’hàbit nou s’està escrivint ara mateix.</item>
+        <item>Cada repetició afluixa una mica l’hàbit antic.</item>
+        <item>Ja ho has fet abans. Torna-ho a fer.</item>
+        <item>A poc a poc és la velocitat de les coses que duren.</item>
+        <item>El canvi passa lluny de la vista.</item>
+        <item>Estàs acumulant una cosa invisible i real.</item>
+        <item>Un dia més en la direcció bona.</item>
+        <item>El resultat arriba després. La decisió és avui.</item>
+        <item>Una decisió cada vegada: així es fa.</item>
+        <item>Ara hi ets més a prop que ahir.</item>
+        <item>No cal que sigui perfecte. Cal que sigui freqüent.</item>
+        <item>La corba puja a poc a poc i després puja de pressa.</item>
+        <item>Ets enmig del procés. És així com va.</item>
+        <item>Cada petit no construeix un gran sí.</item>
+        <item>Res d’això no és dramàtic. Per això funciona.</item>
+        <item>El camí es fa de passos com aquest.</item>
+        <item>Estàs creant una nova versió de la teva rutina.</item>
+        <item>D’aquí a un mes això semblarà fàcil.</item>
+        <item>La repetició és el que converteix una decisió en una manera de ser.</item>
+        <item>Acabes de reforçar el camí nou.</item>
+        <item>El cent per cent és més fàcil que el noranta-vuit.</item>
+        <item>Avui no trenquis la ratxa.</item>
+        <item>Estàs fent la part avorrida, que és la que compta.</item>
+        <item>El canvi no es nota. Es veu després.</item>
+        <item>Un maó més al seu lloc.</item>
+        <item>Estàs ensenyant al cervell a esperar una altra cosa.</item>
+        <item>Continuar és tota la tècnica.</item>
+        <item>Cap d’aquestes victòries no és petita en el total.</item>
+        <item>No cal córrer. Cal no aturar-se.</item>
+        <item>Això ja s’està tornant més fàcil i ni te n’has adonat.</item>
+        <item>Una setmana així ja et canvia el dia.</item>
+        <item>Estàs obrint un camí nou al teu cap.</item>
+        <item>Cada vegada compta, fins i tot quan sembla que no.</item>
+        <item>Ningú no aplaudeix, però funciona.</item>
+        <item>L’acumulació és silenciosa i imparable.</item>
+        <item>Ara en això tens més força que el mes passat.</item>
+        <item>Una bona decisió avui facilita la de demà.</item>
+        <item>Així és com se sent la constància des de dins.</item>
+        <item>Un dia més d’avantatge acumulat.</item>
+        <item>Ets en camí, i el camí és llarg. No passa res.</item>
+        <item>Allò que es repeteix es torna fàcil.</item>
+        <item>Acabes de reforçar la persona en qui t’estàs convertint.</item>
+        <item>Avui el compte et surt a favor.</item>
+        <item>Els petits guanys se sumen sense demanar permís.</item>
+        <item>No va d’avui. Va de la suma.</item>
+        <item>Estàs fent la feina invisible.</item>
+        <item>Continua. Aquest és literalment el secret.</item>
+        <item>Cada dia com aquest treu una mica de pes.</item>
+        <item>L’hàbit antic està perdent terreny ara mateix.</item>
+        <item>Estàs regant una cosa que encara no ha brotat.</item>
+        <item>El canvi s’està produint encara que no ho sembli.</item>
+        <item>Una vegada més. Sempre ha estat només això.</item>
+        <item>Estàs fent una reserva de bons dies.</item>
+        <item>Amb el temps, això es torna normal.</item>
+        <item>Acabes de tornar a triar. I torna a comptar.</item>
+        <item>Un mes així i seràs una altra persona.</item>
+        <item>L’esforç d’avui s’oblida. El resultat queda.</item>
+        <item>Ja no ets qui va començar tot això.</item>
+        <item>Fer-ho sempre val més que fer-ho molt.</item>
+        <item>Cada dia és un vot per qui vols ser.</item>
+        <item>Estàs deixant que l’hàbit nou guanyi terreny.</item>
+        <item>Això no cal que sigui heroic. Només cal que passi.</item>
+        <item>Acabes d’enfortir el camí bo.</item>
+        <item>Repetir és com el cervell aprèn qualsevol cosa.</item>
+        <item>Avui més ahir ja fan prou.</item>
+        <item>Ho estàs fent bé encara que no ho notis.</item>
+        <item>El progrés viu en les repeticions sense gràcia.</item>
+        <item>Un pas curt més en la direcció llarga.</item>
+        <item>Estàs fent que això sigui natural.</item>
+        <item>Una cosa bona feta moltes vegades és el que queda.</item>
+        <item>La força ve de tornar-ho a fer, no de fer-ho fort.</item>
+        <item>Acabes d’escurçar el camí de demà.</item>
+        <item>Un més. Només això. I n’hi ha prou.</item>
+        <item>Estàs deixant un rastre de bones decisions.</item>
+        <item>La constància converteix l’esforç en identitat.</item>
+        <item>Cada dia compta com un dia sencer.</item>
+        <item>Estàs jugant a llarg termini, i hi vas guanyant.</item>
+        <item>Això es convertirà en qui ets sense que te n’adonis.</item>
+        <item>Acabes de fer la millor inversió del dia.</item>
+        <item>Acabes de mantenir la línia.</item>
+        <item>La continuïtat és més rara que el talent.</item>
+        <item>El canvi de debò sempre és lent i sempre val la pena.</item>
+        <item>Una decisió més en la direcció de la teva vida.</item>
+        <item>Els teus ulls t’agraeixen aquesta pausa.</item>
+        <item>Aixeca’t i estira’t. El cos et demanava això, no pantalla.</item>
+        <item>Respira fondo. Només això ja canvia alguna cosa.</item>
+        <item>Beu aigua. Segurament és el que et faltava.</item>
+        <item>Fa estona que tens el coll tort. Redreça’l.</item>
+        <item>El son d’aquesta nit comença amb les pantalles d’ara.</item>
+        <item>Dormir bé és la cosa més productiva que hi ha.</item>
+        <item>Fa massa estona que el teu cos no es mou.</item>
+        <item>Mira lluny durant vint segons. Els ulls es relaxen.</item>
+        <item>Una passejada curta canvia l’humor més que qualsevol feed.</item>
+        <item>El cansament que sents potser només és pantalla.</item>
+        <item>El teu cos demana moviment quan el cap demana scroll.</item>
+        <item>L’aire fresc resol coses que la pantalla no resol.</item>
+        <item>Espatlles avall. Mandíbula fluixa.</item>
+        <item>Estàs tensant les espatlles sense adonar-te’n.</item>
+        <item>Deu minuts de sol a la pell valen molt.</item>
+        <item>El cos descansa estirat al llit, no fent scroll.</item>
+        <item>Anar a dormir d’hora avui és un regal per a demà.</item>
+        <item>La teva postura ha canviat en els últims vint minuts. Corregeix-la.</item>
+        <item>El cansament de pantalla no és cansament de debò. És una altra cosa.</item>
+        <item>Aixeca els braços. Estira’ls. Ja està, ja va millor.</item>
+        <item>Quan fas scroll, parpelleges menys. Parpelleja ara.</item>
+        <item>El cos funciona millor amb pauses de debò.</item>
+        <item>Una volta a l’illa et neteja el cap.</item>
+        <item>A la teva esquena li agradarà aquesta interrupció.</item>
+        <item>Descansar no és el mateix que distreure’s.</item>
+        <item>El mal son d’ahir va començar en una pantalla com aquesta.</item>
+        <item>Estira el coll cap a tots dos costats. Són deu segons.</item>
+        <item>El moviment calma l’ansietat millor que el contingut.</item>
+        <item>El teu cos és l’única casa que tens.</item>
+        <item>Aigua, llum i moviment. Gairebé sempre és això.</item>
+        <item>La pantalla cansa fins i tot quan sembla descans.</item>
+        <item>Tanca els ulls un instant. Res més.</item>
+        <item>Respires de manera superficial. Respira fondo tres cops.</item>
+        <item>Una dutxa resol més coses del que sembla.</item>
+        <item>El teu cos fa massa estona que és al mateix lloc.</item>
+        <item>El descans de debò no té pantalla.</item>
+        <item>Vint minuts caminant canvien tot el dia.</item>
+        <item>Tens el cap pesat perquè el cos no es mou.</item>
+        <item>Ulls secs, espatlles rígides. Ja te n’has adonat.</item>
+        <item>Aixecar-te dos minuts et reinicia més que fer scroll.</item>
+        <item>El cos demana son i la ment demana estímuls. Escolta el cos.</item>
+        <item>La llum de la pantalla t’altera el son durant hores.</item>
+        <item>Estira les cames. És ràpid i funciona.</item>
+        <item>Et mereixes un descans que descansi.</item>
+        <item>El moviment és l’antidepressiu més barat que hi ha.</item>
+        <item>El teu cos recordarà aquesta nit de son.</item>
+        <item>Respirar a poc a poc calma més de pressa que qualsevol vídeo.</item>
+        <item>Tens gana o t’avorreixes. Descobreix què és.</item>
+        <item>El cos es recupera quan el cap s’atura.</item>
+        <item>Vint segons mirant per la finestra.</item>
+        <item>El teu canell i el teu polze necessiten un descans.</item>
+        <item>El cansament de la pantalla s’esvaeix caminant.</item>
+        <item>El son és on la memòria s’ordena. Protegeix-lo.</item>
+        <item>Necessites menys estímuls, no més.</item>
+        <item>Un estirament de dos minuts val més que deu de vídeo.</item>
+        <item>El teu cos t’està enviant un senyal ara mateix.</item>
+        <item>Aire, aigua i moviment. La recepta no ha canviat.</item>
+        <item>Estira’t a terra un minut. De debò.</item>
+        <item>La pantalla et desvetlla quan necessites dormir.</item>
+        <item>El cos demana una pausa i la mà demana pantalla. Dona-li la pausa.</item>
+        <item>Els teus ulls treballen des de primera hora.</item>
+        <item>Una nit de bon son canvia el món.</item>
+        <item>Aixeca’t. Només això. Ja n’hi ha prou.</item>
+        <item>Dormiràs millor gràcies a aquesta decisió.</item>
+        <item>El cos agraeix el que el cap troba avorrit.</item>
+        <item>Estira l’esquena. T’ho està demanant.</item>
+        <item>El descans real és silenci, no un altre estímul.</item>
+        <item>El teu cos té el seu propi ritme i la pantalla l’ignora.</item>
+        <item>Mira l’horitzó. Els ulls necessiten distància.</item>
+        <item>La tensió de la mandíbula no passarà fent scroll.</item>
+        <item>Quanta estona fa que no t’aixeques?</item>
+        <item>El moviment porta claredat. Sempre l’ha portada.</item>
+        <item>Beu aigua abans de decidir res.</item>
+        <item>El son perdut no es recupera amb contingut.</item>
+        <item>El teu cos funciona bé quan el deixes.</item>
+        <item>Una becaina curta rendeix més que una hora de feed.</item>
+        <item>Respirar fondo és gratuït i immediat.</item>
+        <item>La pantalla et tensa el cos sense avisar.</item>
+        <item>Tens més cansament del que caldria.</item>
+        <item>Aixeca’t i mira per la finestra. Cinc segons.</item>
+        <item>El teu cos no ha evolucionat per quedar-se quiet mirant una llum.</item>
+        <item>Estira els dits. Avui han treballat molt.</item>
+        <item>La nit va millor sense pantalla abans de dormir.</item>
+        <item>El que ofereix la pantalla no és descans.</item>
+        <item>El teu cos demana natura i rep píxels.</item>
+        <item>Un got d’aigua i tres respiracions. Fes-ho ara.</item>
+        <item>La tensió de l’espatlla ve de com aguantes el mòbil.</item>
+        <item>El cos es relaxa quan l’atenció deixa de córrer.</item>
+        <item>D’aquí a cinc minuts et sentiràs millor.</item>
+        <item>El moviment canvia la química. La pantalla només canvia de tema.</item>
+        <item>Els teus ulls es mereixen un descans de debò.</item>
+        <item>Caminar ordena els pensaments millor que llegir el feed.</item>
+        <item>La llum blava d’ara és mal son després.</item>
+        <item>Necessites descans, no més informació.</item>
+        <item>Dues respiracions profundes abans de res.</item>
+        <item>El teu cos és més savi que l’impuls.</item>
+        <item>Aixeca’t i camina fins a la cuina. Amb això n’hi ha prou.</item>
+        <item>Descansa el cos i el cap també descansarà.</item>
+        <item>Ara mateix tens a prop gent de carn i ossos.</item>
+        <item>Una conversa val més que tres-centes publicacions.</item>
+        <item>Truca a algú. Amb la veu, de debò.</item>
+        <item>Algú que estimes és a un missatge de distància.</item>
+        <item>La gent del feed no sap que existeixes.</item>
+        <item>Qui és a la mateixa habitació que tu es mereix més.</item>
+        <item>Una abraçada resol el que cap vídeo no resol.</item>
+        <item>Escriu a aquella persona que tens una mica oblidada.</item>
+        <item>A la teva mare li agradaria que la truquessis avui.</item>
+        <item>La vida real té gent que respon de debò.</item>
+        <item>Aquell amic que va desaparèixer encara pot tornar. Escriu-li.</item>
+        <item>La presència és la cosa més rara que pots oferir.</item>
+        <item>Algú espera que aixequis la mirada.</item>
+        <item>Una bona pregunta val més que una hora de scroll.</item>
+        <item>La gent del teu voltant no té algoritme.</item>
+        <item>T’estàs perdent una conversa que està passant ara.</item>
+        <item>Ningú del feed no hi serà quan el necessitis.</item>
+        <item>Un cafè amb algú canvia la setmana més que qualsevol feed.</item>
+        <item>La teva companyia és un regal. Regala-la.</item>
+        <item>Mira qui és amb tu.</item>
+        <item>L’amistat s’ha de regar. Rega-la avui.</item>
+        <item>La persona que tens al costat és real.</item>
+        <item>Qui t’estima no necessita cap m’agrada.</item>
+        <item>Recordes l’última conversa llarga que vas tenir?</item>
+        <item>Proposa a algú d’anar a caminar.</item>
+        <item>Els millors records rarament tenen pantalla.</item>
+        <item>Ara mateix ets la companyia d’algú.</item>
+        <item>Envia un àudio a qui estimes.</item>
+        <item>Les persones canvien quan els prestes atenció.</item>
+        <item>Avui la teva presència té valor per a algú.</item>
+        <item>Una bona conversa et deixa millor. El feed, no.</item>
+        <item>Algú necessita saber que te n’has recordat.</item>
+        <item>Queda amb algú en lloc de seguir algú.</item>
+        <item>Els vincles forts es fan de temps compartit.</item>
+        <item>Pots ser el motiu del bon dia d’algú.</item>
+        <item>Aquell familiar amb qui fa mesos que no parles.</item>
+        <item>Un missatge sincer val més que mil visualitzacions.</item>
+        <item>La presència no és el mateix que la connexió.</item>
+        <item>Qui conviu amb tu es mereix tota la teva atenció.</item>
+        <item>Convida algú a sopar.</item>
+        <item>Les persones reals tenen cara, veu i temps limitat.</item>
+        <item>Per a algú ets insubstituïble. Deixa’t veure.</item>
+        <item>La conversa més important del teu dia encara no ha arribat.</item>
+        <item>A prop teu hi ha algú que tampoc no té pantalla.</item>
+        <item>Escoltar algú és la manera més fàcil de guanyar-te el seu afecte.</item>
+        <item>Aquell amic està passant per alguna cosa. Pregunta-li.</item>
+        <item>El teu fill, el teu gos, el teu veí. Algú hi és.</item>
+        <item>Les xarxes et connecten amb molta gent i amb ningú alhora.</item>
+        <item>Una tarda amb algú val per un mes de feed.</item>
+        <item>Avui pots fer riure algú. De debò.</item>
+        <item>La presència plena és raríssima. Tu en tens per donar.</item>
+        <item>Aquesta setmana algú ha parlat de tu. Torna-li.</item>
+        <item>Ningú del feed no et troba a faltar.</item>
+        <item>Una trucada de cinc minuts canvia el dia d’algú.</item>
+        <item>La gent que importa no en fa publicacions.</item>
+        <item>Ets a una pregunta d’una bona conversa.</item>
+        <item>La companyia real no té anuncis pel mig.</item>
+        <item>Aquella persona que sempre et dona suport. Dona-li les gràcies avui.</item>
+        <item>Mirar als ulls continua sent la millor tecnologia.</item>
+        <item>La teva família no és un feed. No hi passis de llarg.</item>
+        <item>Convida algú a no fer res plegats.</item>
+        <item>Qui és lluny també es mereix notícies teves.</item>
+        <item>Fora d’aquí tens gent que t’estima.</item>
+        <item>Una conversa difícil ajornada pesa més que el feed.</item>
+        <item>Aprofita qui tens a prop mentre hi és.</item>
+        <item>La gent recorda qui hi va ser.</item>
+        <item>Convida un amic a un cafè sense cap motiu.</item>
+        <item>En algun lloc, algú vol saber com estàs.</item>
+        <item>Ara pots escoltar algú de debò.</item>
+        <item>Els vincles es construeixen mirant, no fent scroll.</item>
+        <item>La teva atenció és el millor regal per a qui estimes.</item>
+        <item>Una persona val més que un perfil.</item>
+        <item>Aquella conversa que deus a algú. És avui.</item>
+        <item>Estar disponible és una forma d’amor.</item>
+        <item>Ara tens temps per a algú.</item>
+        <item>Ningú no s’ha acomiadat de la vida desitjant més seguidors.</item>
+        <item>Retroba algú en lloc de seguir-lo de lluny.</item>
+        <item>De vegades l’afecte s’ha de dir en veu alta.</item>
+        <item>La colla de sempre encara hi és. Escriu-los.</item>
+        <item>Algú que tens al costat té ganes de parlar.</item>
+        <item>Comparar-se no és connectar.</item>
+        <item>Avui pots ser-hi de veritat.</item>
+        <item>Una nota escrita a mà. Quina bona idea.</item>
+        <item>Qui et coneix de debò no és al feed.</item>
+        <item>Comparteix la tarda amb algú.</item>
+        <item>La gent propera es mereix el que dones al feed.</item>
+        <item>Ets important per a algú que no publica res.</item>
+        <item>Truca i pregunta com està de debò.</item>
+        <item>La soledat no passa amb més pantalla.</item>
+        <item>Avui acosta’t a algú.</item>
+        <item>Un àpat compartit val tota la tarda.</item>
+        <item>La teva atenció alimenta les relacions. Alimenta’n una.</item>
+        <item>Ara mateix hi ha algú que pensa en tu.</item>
+        <item>Digues a algú que l’estimes.</item>
+        <item>Les amistats moren de silenci, no de baralles.</item>
+        <item>Tens bona gent a prop. Aprofita-ho.</item>
+        <item>Algú necessita companyia, i tu en pots fer.</item>
+        <item>Deixa el feed i troba’t amb gent.</item>
+        <item>Qui t’estima vol el teu temps, no el teu perfil.</item>
+        <item>Pots millorar el dia d’algú en cinc minuts.</item>
+        <item>Crear cansa i omple. Consumir descansa i buida.</item>
+        <item>Tens més coses a dir que a veure.</item>
+        <item>Ara mateix algú crea el que tu miraries.</item>
+        <item>Escriu una línia. Només una.</item>
+        <item>Al món hi sobren consumidors i hi falten creadors.</item>
+        <item>Aquella idea teva continua esperant.</item>
+        <item>Pots fer alguna cosa en lloc de mirar coses fetes.</item>
+        <item>Tot el que és bo ho ha fet algú que no estava fent scroll.</item>
+        <item>La teva idea val més que tot el feed d’avui.</item>
+        <item>Comença allò que vas ajornant. N’hi ha prou amb cinc minuts.</item>
+        <item>El projecte aturat només necessita una empenta.</item>
+        <item>Tens talent per a alguna cosa que no és fer scroll.</item>
+        <item>Avui fes alguna cosa que ahir no existia.</item>
+        <item>Crear és més divertit que mirar. Només costa començar.</item>
+        <item>Aquella llibreta en blanc no mossega.</item>
+        <item>El millor contingut és el que fas tu.</item>
+        <item>S’aprèn més fent que mirant.</item>
+        <item>Toca un instrument, dibuixa, cuina. Fes alguna cosa amb les mans.</item>
+        <item>La creativitat s’apaga quan t’omples el cap de feed.</item>
+        <item>Hi ha una obra teva que encara no ha fet ningú.</item>
+        <item>Comença malament. Després millora.</item>
+        <item>Un paràgraf al dia acaba sent un llibre.</item>
+        <item>Tens una història per explicar.</item>
+        <item>Fer coses és l’antídot del buit.</item>
+        <item>L’avorriment és el començament de la creativitat. Deixa’l ser.</item>
+        <item>El teu cap inventa quan deixes d’omplir-lo.</item>
+        <item>Aquell curs que vas pagar t’està esperant.</item>
+        <item>Avui pots aprendre una cosa nova.</item>
+        <item>Consumir és fàcil. Per això satisfà tan poc.</item>
+        <item>Vols fer alguna cosa. Comença ara.</item>
+        <item>Cinc minuts de pràctica valen més que una hora de vídeo.</item>
+        <item>Aquella recepta que tens ganes de provar.</item>
+        <item>Les idees arriben en el silenci, no en el scroll.</item>
+        <item>Pots ser qui crea en lloc de qui mira.</item>
+        <item>Un petit projecte canvia la setmana.</item>
+        <item>Escriu què faries si tinguessis temps. En tens.</item>
+        <item>Les teves mans saben fer coses. Fes-les servir.</item>
+        <item>Avui fes alguna cosa imperfecta.</item>
+        <item>Aprendre és més agradable que deixar-se entretenir.</item>
+        <item>El que crees queda. El que passes amb el dit desapareix.</item>
+        <item>Aquell instrument oblidat en un racó.</item>
+        <item>Tens un projecte a mig fer que t’espera.</item>
+        <item>Crear és el contrari de comparar-se.</item>
+        <item>Comença amb poc. Comença avui.</item>
+        <item>Una pàgina al dia és una vida diferent.</item>
+        <item>La teva imaginació necessita espai buit.</item>
+        <item>Fes alguna cosa que demà et faci sentir orgull.</item>
+        <item>La satisfacció de crear no té substitut.</item>
+        <item>Ets capaç de molt més que consumir.</item>
+        <item>Aquella afició abandonada encara hi és.</item>
+        <item>Vint minuts de pràctica són vint minuts de progrés.</item>
+        <item>Fent scroll no s’aprèn a fer bé res.</item>
+        <item>La teva pròxima habilitat començarà en algun moment. Que sigui ara.</item>
+        <item>Fes-ho, encara que no ho vegi ningú.</item>
+        <item>Hi ha alguna cosa que vols aprendre. Comença.</item>
+        <item>Consumir és mirar la vida dels altres.</item>
+        <item>Tens mans, cap i temps. És tot el que necessites.</item>
+        <item>El primer esborrany sempre és dolent. Fes-lo igualment.</item>
+        <item>Aquell idioma que volies parlar.</item>
+        <item>Crear és com l’avorriment es converteix en alegria.</item>
+        <item>Una mica cada dia construeix qualsevol habilitat.</item>
+        <item>Tens alguna cosa a dins que vol sortir.</item>
+        <item>Escriu sobre el teu dia. Només per a tu.</item>
+        <item>La teva creativitat espera que apaguis el soroll.</item>
+        <item>Avui fes alguna cosa amb les mans.</item>
+        <item>El plaer d’acabar una cosa no s’assembla a res.</item>
+        <item>Aquell projecte que t’il·lusionava. Encara et pot il·lusionar.</item>
+        <item>No cal fer-ho bé per començar.</item>
+        <item>Cuina alguna cosa nova. També és crear.</item>
+        <item>La vida és més interessant quan fas coses.</item>
+        <item>Ningú no neix ensenyat. Tothom comença malament.</item>
+        <item>Aquella idea de matinada. Apunta-la.</item>
+        <item>Pots ser útil a algú amb el que saps fer.</item>
+        <item>Fes-ne una mica avui i una mica demà.</item>
+        <item>El millor moment per començar ja ha passat. El segon millor és ara.</item>
+        <item>La teva obra no es farà sola.</item>
+        <item>Practicar és avorrit fins que comença a sortir bé.</item>
+        <item>Tu vols crear. El feed vol que només miris.</item>
+        <item>Aquell dibuix que vas començar.</item>
+        <item>Fer és la manera més ràpida d’aprendre.</item>
+        <item>Tens una veu. Fes-la servir per a alguna cosa.</item>
+        <item>Arreglar alguna cosa de casa també és crear.</item>
+        <item>El teu pròxim èxit comença en un dia normal com avui.</item>
+        <item>Fes alguna cosa que només faries tu.</item>
+        <item>El feed és infinit. La teva obra té final, i per això importa.</item>
+        <item>Avui pots plantar alguna cosa. Literalment.</item>
+        <item>Aquell full de càlcul, aquell pla, aquell somni.</item>
+        <item>Crear costa feina, i això és el que fa que valgui la pena.</item>
+        <item>Ets més interessant que qualsevol feed.</item>
+        <item>Estudia vint minuts. És poc i és molt.</item>
+        <item>La curiositat és millor quan es converteix en pràctica.</item>
+        <item>Aquella cançó que volies aprendre.</item>
+        <item>Ara fes una cosa útil i senzilla.</item>
+        <item>Tens una cosa bona per oferir al món.</item>
+        <item>Comença allò que t’alegraràs d’haver començat.</item>
+        <item>Un projecte personal canvia la relació amb el temps.</item>
+        <item>Crear és la millor manera d’ocupar el cap.</item>
+        <item>Avui pots acabar alguna cosa.</item>
+        <item>Posa les mans en alguna cosa real.</item>
+        <item>Res no substitueix la sensació d’haver-ho fet.</item>
+        <item>No passa res per haver arribat fins aquí. Ara respira.</item>
+        <item>Ningú no porta cap compte. Només continua endavant.</item>
+        <item>Vas bé, encara que no ho sembli.</item>
+        <item>Sense pressa i sense exigències. Només una pausa.</item>
+        <item>Això no és cap examen. Només és un recordatori amable.</item>
+        <item>Ho estàs intentant, i amb això n’hi ha prou.</item>
+        <item>Tot va bé. Tanca i continua el dia.</item>
+        <item>Aquí res no va d’encertar-la sempre.</item>
+        <item>Avui et mereixes lleugeresa.</item>
+        <item>Sense drames. Només un moment per respirar.</item>
+        <item>Aquest és un lloc tranquil. Queda’t un instant.</item>
+        <item>Fas el que pots. I això compta.</item>
+        <item>Aquí no hi ha exigències. Només cura.</item>
+        <item>Respira. No està passant res de dolent.</item>
+        <item>Has arribat fins aquí, i això ja està bé.</item>
+        <item>Ningú no et jutja. Tu tampoc no ho hauries de fer.</item>
+        <item>Tot està en ordre. Només continua.</item>
+        <item>Un pas rere l’altre és el ritme bo.</item>
+        <item>No cal que això et surti perfecte.</item>
+        <item>Anar a poc a poc també és caminar.</item>
+        <item>Aquesta pantalla no t’exigeix res.</item>
+        <item>Ara sigues amable amb tu.</item>
+        <item>Està bé tenir ganes. Forma part del procés.</item>
+        <item>T’estàs cuidant. Això és bonic.</item>
+        <item>Sense alarmes, sense pressa, sense ensurts.</item>
+        <item>Ets persona, no màquina. Això està permès.</item>
+        <item>No t’has de justificar davant de ningú.</item>
+        <item>Respira fondo. Ja ha passat.</item>
+        <item>Aquí no corres cap perill.</item>
+        <item>No passa res si avui costa.</item>
+        <item>Cap dia no és igual a un altre. Aquest tampoc.</item>
+        <item>Ets en camí, encara que vagis a poc a poc.</item>
+        <item>Deixa descansar una mica l’autoexigència.</item>
+        <item>Tot està bé. Només un respir.</item>
+        <item>No cal que sempre estiguis bé.</item>
+        <item>L’amabilitat amb tu funciona millor que la rigidesa.</item>
+        <item>Aquest moment passarà amb tranquil·litat.</item>
+        <item>Avui ja has fet la part difícil.</item>
+        <item>Res urgent. Res greu. Només una pausa.</item>
+        <item>Somriu. Això és més petit del que sembla.</item>
+        <item>Ho estàs intentant, i això és el que importa.</item>
+        <item>No has de rendir comptes a ningú. Continua.</item>
+        <item>Tot va bé. De debò.</item>
+        <item>Et mereixes un dia lleuger.</item>
+        <item>Respira. El món continua girant.</item>
+        <item>Avui, cap pressa.</item>
+        <item>Estàs en pau amb aquesta decisió.</item>
+        <item>Pots tornar a començar tantes vegades com calgui.</item>
+        <item>Aquest és un lloc sense exigències.</item>
+        <item>Tingues paciència amb el procés.</item>
+        <item>No vas tard en res.</item>
+        <item>No passa res si no estàs al cent per cent.</item>
+        <item>Aquesta pausa és una cura, no una correcció.</item>
+        <item>Ara pots seguir, sense més.</item>
+        <item>Sense tensió. Només un moment.</item>
+        <item>No passa res si ha estat automàtic.</item>
+        <item>No necessites cap motiu per estar bé.</item>
+        <item>Respira i continua. Així de senzill.</item>
+        <item>Aquí no hi ha cap problema.</item>
+        <item>Ho estàs fent bé.</item>
+        <item>Tot bé, de debò. Ves en pau.</item>
+        <item>Aquest moment és teu per descansar.</item>
+        <item>Hi ha molta gent que passa pel mateix.</item>
+        <item>Tot està tranquil. Segueix amb el dia.</item>
+        <item>Sense pes. Només un recordatori.</item>
+        <item>Tal com ets, ja n’hi ha prou.</item>
+        <item>La calma que busques no és al feed.</item>
+        <item>Amb tu, tot està bé.</item>
+        <item>Descansa la ment un segon.</item>
+        <item>Et mereixes aquesta cura.</item>
+        <item>Ara no cal resoldre res.</item>
+        <item>Respira un cop. Després continua.</item>
+        <item>Estàs bé. Només això.</item>
+        <item>Sense exigències, sense comptes, sense marcador.</item>
+        <item>Un moment de calma enmig del dia.</item>
+        <item>Ara pots tractar-te amb amabilitat.</item>
+        <item>Tot està en pau.</item>
+        <item>Sense pressa per a res.</item>
+        <item>Avui has fet el que has pogut.</item>
+        <item>Tot bé. Demà continua.</item>
+        <item>Aquest instant és només una respiració.</item>
+        <item>Estàs en un lloc segur, i amb això n’hi ha prou.</item>
+        <item>Per aquí, cap judici.</item>
+        <item>Només respira i ves a viure.</item>
+        <item>Avui et mereixes tranquil·litat.</item>
+        <item>Qualsevol ritme està bé.</item>
+        <item>Deixa descansar una mica el cap.</item>
+        <item>Aquí sempre hi tens lloc.</item>
+        <item>Sense ensurts. Només una aturada ràpida.</item>
+        <item>Avui la vida no és una cursa.</item>
+        <item>Segueixes sent tu, i això és suficient.</item>
+        <item>Està bé haver-ho intentat.</item>
+        <item>Aquí res no va contra tu.</item>
+        <item>Respira i continua a poc a poc.</item>
+        <item>Estàs bé tal com estàs.</item>
+        <item>Aquest és un moment de pau.</item>
+        <item>Sense cap exigència. Continua amb lleugeresa.</item>
+        <item>Tens permís per descansar.</item>
+        <item>Per aquí tot està tranquil.</item>
+        <item>Ves amb calma. El dia t’espera.</item>
+        <item>Ets amable amb tu, i això és força.</item>
+        <item>Què faries ara si aquesta app no existís?</item>
+        <item>Ets aquí per ganes o per costum?</item>
+        <item>Què buscaves, de fet?</item>
+        <item>Això importarà demà al matí?</item>
+        <item>Recordaràs el que miraries ara?</item>
+        <item>Què feies abans d’agafar el mòbil?</item>
+        <item>Quant de temps hi vols dedicar avui?</item>
+        <item>És avorriment o cansament?</item>
+        <item>Què podria ser la teva tarda en lloc d’això?</item>
+        <item>Val la pena?</item>
+        <item>L’has oberta per algun motiu concret?</item>
+        <item>Què tornaries a ajornar si hi entressis ara?</item>
+        <item>Qui vols ser d’aquí a un any?</item>
+        <item>Què et faria bé de debò ara mateix?</item>
+        <item>Estàs fugint d’alguna cosa?</item>
+        <item>I si fas allò que vas ajornant?</item>
+        <item>Què passaria si simplement la tanquessis?</item>
+        <item>Tens alguna cosa millor a fer. Quina és?</item>
+        <item>Això és descans o és fugida?</item>
+        <item>Què et demanaria que fessis el teu jo de demà?</item>
+        <item>Tens gana, son o t’avorreixes?</item>
+        <item>Quan va ser l’última vegada que el feed et va fer sentir millor?</item>
+        <item>Què vols sentir al final del dia?</item>
+        <item>Què et falta ara?</item>
+        <item>Ho necessites o només en tens ganes?</item>
+        <item>Quina cosa petita et milloraria el dia ara?</item>
+        <item>Què faries amb dues hores lliures?</item>
+        <item>Ja saps què hauries d’estar fent.</item>
+        <item>Quin és el cost real d’aquests quinze minuts?</item>
+        <item>Ho vols de debò o és només la mà que va sola?</item>
+        <item>Què valdria més la pena ara?</item>
+        <item>Va tot bé per aquí?</item>
+        <item>Quina seria la millor decisió ara, amb calma?</item>
+        <item>Aquesta mitja hora et farà sentir orgull?</item>
+        <item>Què faries si no et veiés ningú?</item>
+        <item>Hi ha algú a qui podries trucar ara?</item>
+        <item>Què està intentant evitar el teu cap?</item>
+        <item>Val la pena canviar la teva tarda per això?</item>
+        <item>Tens un pla per avui. Hi entra, això?</item>
+        <item>Què seria el més divertit que podries fer ara?</item>
+        <item>Estàs bé, sincerament?</item>
+        <item>Què faria que aquesta setmana valgués la pena?</item>
+        <item>Això és el que vols o el que fas per costum?</item>
+        <item>Ja has pensat què vols fer demà?</item>
+        <item>Quantes vegades has agafat el mòbil avui?</item>
+        <item>Què et faria sentir bé d’aquí a una hora?</item>
+        <item>Vols entrar-hi o és el dit que va en pilot automàtic?</item>
+        <item>Quina és la cosa important que estàs deixant per a després?</item>
+        <item>Què en pensaria el teu jo de fa deu anys?</item>
+        <item>Estàs descansant de debò?</item>
+        <item>Hi ha alguna cosa que faries si tinguessis valor?</item>
+        <item>Què t’agradaria haver fet aquesta nit?</item>
+        <item>Val més que una conversa?</item>
+        <item>Per a què tens temps avui?</item>
+        <item>Quin hàbit vols tenir d’aquí a sis mesos?</item>
+        <item>Què et demana atenció de debò?</item>
+        <item>Prefereixes recordar aquesta tarda o oblidar-la?</item>
+        <item>Quin seria un bon ús d’aquest moment?</item>
+        <item>Ets aquí per veure alguna cosa o per no sentir-ne alguna?</item>
+        <item>Què et faria dormir bé aquesta nit?</item>
+        <item>Això suma o resta al teu dia?</item>
+        <item>De debò vols saber què hi ha allà?</item>
+        <item>Quina és l’última cosa bona que has fet sense pantalla?</item>
+        <item>Què faries en una tarda sense internet?</item>
+        <item>Per a què tens tanta pressa?</item>
+        <item>Quin petit pas podries fer ara?</item>
+        <item>Què necessita la teva atenció més que això?</item>
+        <item>Avui ja has respirat fondo?</item>
+        <item>Quin és el teu pla per a la pròxima hora?</item>
+        <item>Això t’acosta a alguna cosa que vols?</item>
+        <item>Faries això davant de qui admires?</item>
+        <item>Què t’ha passat de bo avui?</item>
+        <item>Quina part del teu dia ja se l’han endut les pantalles?</item>
+        <item>Tens una idea aturada que t’espera.</item>
+        <item>Què vols fer amb aquesta setmana?</item>
+        <item>Val la pena canviar el silenci per soroll?</item>
+        <item>Avui estàs creant o consumint?</item>
+        <item>Quina cosa senzilla et faria bé ara?</item>
+        <item>Què li diries a un amic en aquesta situació?</item>
+        <item>Tens cinc minuts. Per a què?</item>
+        <item>Què t’incomoda de debò?</item>
+        <item>Això és el millor que pots fer ara?</item>
+        <item>Tens el control d’aquest moment.</item>
+        <item>Quina decisió et faria sentir orgull?</item>
+        <item>Què vols haver fet quan s’acabi el dia?</item>
+        <item>Recordes per què vas instal·lar això?</item>
+        <item>I si ho deixes per a més tard i mires si encara en tens ganes?</item>
+        <item>Què faries avui si tinguessis més valor?</item>
+        <item>Vols la versió ràpida o la versió bona del teu dia?</item>
+        <item>Quina és la cosa que només tu pots fer avui?</item>
+        <item>Què t’espera allà fora?</item>
+        <item>Avui ja has donat les gràcies per alguna cosa?</item>
+        <item>Quant val per a tu la pròxima mitja hora?</item>
+        <item>Què vols endur-te d’aquesta setmana?</item>
+        <item>Això és urgent o només ho sembla?</item>
+        <item>Estàs fent el que vols fer?</item>
+        <item>Quin seria un bon final per a aquest dia?</item>
+        <item>Què faries si haguessis descansat?</item>
+        <item>Ara prefereixes fer scroll o viure?</item>
+        <item>I si simplement la tanques i mires què passa?</item>
+    </string-array>
+</resources>

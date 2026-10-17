@@ -3,10 +3,11 @@ import assert from 'node:assert/strict';
 
 import {
   PREFERENCIAS,
-  ROTULOS_PREFERENCIA,
   ehPreferenciaTema,
   resolverEsquema,
+  rotuloPreferencia,
 } from '../src/theme/preferenciaTema';
+import { ptBR } from '../src/i18n/textos/pt-BR';
 
 test('sistema delega pro aparelho — e o comportamento que o app tinha antes da tela existir', () => {
   assert.equal(resolverEsquema('sistema', 'escuro'), 'escuro');
@@ -36,7 +37,14 @@ test('sistema e a primeira opcao — o padrao aparece no topo da lista', () => {
 
 test('toda preferencia tem rotulo em pt-BR, senao a linha do perfil fica vazia', () => {
   for (const opcao of PREFERENCIAS) {
-    assert.equal(typeof ROTULOS_PREFERENCIA[opcao], 'string');
-    assert.ok(ROTULOS_PREFERENCIA[opcao].length > 0);
+    assert.equal(typeof rotuloPreferencia(opcao, ptBR), 'string');
+    assert.ok(rotuloPreferencia(opcao, ptBR).length > 0);
   }
+});
+
+test('regressao: rotulos do tema em pt-BR continuam os mesmos', () => {
+  assert.deepEqual(
+    PREFERENCIAS.map((opcao) => rotuloPreferencia(opcao, ptBR)),
+    ['Sistema', 'Claro', 'Escuro']
+  );
 });

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">Naka-block ang %1$s.</string>
+    <string name="aceleralock_block_title_unknown">Naka-block ang app na ito.</string>
+    <string name="aceleralock_block_close">Isara</string>
+    <string name="aceleralock_notification_channel">Naka-on ang proteksyon</string>
+    <string name="aceleralock_notification_text">Naka-on ang proteksyon</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: pag-block ng site</string>
+    <string name="aceleralock_site_accessibility_description">Ang address bar lang ng Chrome, Samsung Internet, Firefox, Edge at Brave ang binabasa nito para i-block ang mga site na pinili mo. Walang sine-save at walang lumalabas sa device mo.</string>
+</resources>

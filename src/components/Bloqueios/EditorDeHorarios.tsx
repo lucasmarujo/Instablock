@@ -14,17 +14,19 @@ import { Button } from '@/components/Button';
 import { IconeApp } from '@/components/IconeApp';
 import { InlineAlert } from '@/components/InlineAlert';
 import { Sheet } from '@/components/Sheet';
+import { useTextos } from '@/i18n/IdiomaContext';
+import { formatar } from '@/i18n/formatos';
 import type { InstalledApp } from '@/native/blocker';
 import { radius, spacing, typography } from '@/theme/tokens';
 import { useTheme } from '@/theme/useTheme';
 
 import {
-  DIAS_DA_SEMANA,
   MAX_FAIXAS,
   ajustarMinuto,
   atravessaMeiaNoite,
   avisoDoHorario,
   descreverFaixa,
+  diasDaSemana,
   faixaInicial,
   formatarHora,
   mesmasFaixas,
@@ -64,14 +66,16 @@ export function EditorDeHorarios({
   onSalvar,
 }: Props) {
   const theme = useTheme();
+  const t = useTextos();
+  const textos = t.bloqueios.horarios;
   const { height } = useWindowDimensions();
   const [faixas, setFaixas] = useState<Faixa[]>(faixasSalvas);
   const [rascunho, setRascunho] = useState<Rascunho | null>(null);
   const [falhou, setFalhou] = useState(false);
 
-  const aviso = avisoDoHorario({ restricted, automaticTime, automaticZone });
+  const aviso = avisoDoHorario({ restricted, automaticTime, automaticZone }, t);
   const editavel = !restricted;
-  const erroDoRascunho = rascunho ? validarFaixa(rascunho.faixa) : null;
+  const erroDoRascunho = rascunho ? validarFaixa(rascunho.faixa, t) : null;
   const alterado = !mesmasFaixas(faixas, faixasSalvas);
 
   const confirmarRascunho = () => {
@@ -96,7 +100,11 @@ export function EditorDeHorarios({
   };
 
   return (
-    <Sheet visible onClose={onClose} accessibilityLabel={`Horários livres do ${app.label}`}>
+    <Sheet
+      visible
+      onClose={onClose}
+      accessibilityLabel={formatar(textos.rotuloFolhaFalado, { app: app.label })}
+    >
       <ScrollView
         style={{ maxHeight: height * 0.72 }}
         contentContainerStyle={styles.conteudo}
@@ -109,7 +117,7 @@ export function EditorDeHorarios({
               accessibilityRole="header"
               style={[styles.titulo, { color: theme.colors.textPrimary }]}
             >
-              Horários livres
+              {textos.titulo}
             </Text>
             <Text style={[styles.subtitulo, { color: theme.colors.textSecondary }]}>
               {app.label}
@@ -118,7 +126,7 @@ export function EditorDeHorarios({
         </View>
 
         <Text style={[styles.corpo, { color: theme.colors.textSecondary }]}>
-          Nesses horários o {app.label} abre sem bloqueio. Fora deles, continua bloqueado.
+          {formatar(textos.explicacao, { app: app.label })}
         </Text>
 
         {aviso && (
@@ -126,7 +134,7 @@ export function EditorDeHorarios({
             title={aviso.titulo}
             message={aviso.mensagem}
             icon={restricted ? 'lock-closed-outline' : 'time-outline'}
-            actionLabel={aviso.podeAbrirConfiguracoes ? 'Abrir data e hora' : undefined}
+            actionLabel={aviso.podeAbrirConfiguracoes ? textos.abrirDataEHora : undefined}
             onAction={
               aviso.podeAbrirConfiguracoes
                 ? () =>
@@ -140,7 +148,7 @@ export function EditorDeHorarios({
 
         {faixas.length === 0 && !rascunho && (
           <Text style={[styles.vazio, { color: theme.colors.textTertiary }]}>
-            Nenhum horário livre: o {app.label} fica bloqueado o tempo todo.
+            {formatar(textos.vazio, { app: app.label })}
           </Text>
         )}
 
@@ -164,20 +172,24 @@ export function EditorDeHorarios({
               >
                 <Pressable
                   accessibilityRole="button"
-                  accessibilityLabel={`Editar ${descreverFaixa(faixa)}`}
+                  accessibilityLabel={formatar(textos.editarFaixaFalado, {
+                    faixa: descreverFaixa(faixa, t),
+                  })}
                   disabled={!editavel}
                   onPress={() => setRascunho({ indice, faixa })}
                   style={styles.descricaoFaixa}
                 >
                   <Ionicons name="time-outline" size={20} color={theme.colors.textBrand} />
                   <Text style={[styles.textoFaixa, { color: theme.colors.textPrimary }]}>
-                    {descreverFaixa(faixa)}
+                    {descreverFaixa(faixa, t)}
                   </Text>
                 </Pressable>
                 {editavel && (
                   <Pressable
                     accessibilityRole="button"
-                    accessibilityLabel={`Remover ${descreverFaixa(faixa)}`}
+                    accessibilityLabel={formatar(textos.removerFaixaFalado, {
+                      faixa: descreverFaixa(faixa, t),
+                    })}
                     hitSlop={4}
                     onPress={() => setFaixas((atuais) => atuais.filter((_, i) => i !== indice))}
                     style={styles.remover}
@@ -202,7 +214,7 @@ export function EditorDeHorarios({
 
         {editavel && !rascunho && faixas.length < MAX_FAIXAS && (
           <Button
-            label="Adicionar horário livre"
+            label={textos.adicionarHorario}
             variant="secondary"
             size="md"
             onPress={() => setRascunho({ indice: null, faixa: faixaInicial() })}
@@ -214,7 +226,7 @@ export function EditorDeHorarios({
             accessibilityLiveRegion="polite"
             style={[styles.erro, { color: theme.colors.textDanger }]}
           >
-            Não deu para salvar. Tente de novo.
+            {textos.erroAoSalvar}
           </Text>
         )}
       </ScrollView>
@@ -222,11 +234,15 @@ export function EditorDeHorarios({
       <View style={styles.acoes}>
         {editavel ? (
           <>
-            <Button label="Salvar" disabled={!alterado || rascunho !== null} onPress={salvar} />
-            <Button label="Cancelar" variant="secondary" onPress={onClose} />
+            <Button
+              label={textos.salvar}
+              disabled={!alterado || rascunho !== null}
+              onPress={salvar}
+            />
+            <Button label={textos.cancelar} variant="secondary" onPress={onClose} />
           </>
         ) : (
-          <Button label="Fechar" variant="secondary" onPress={onClose} />
+          <Button label={textos.fechar} variant="secondary" onPress={onClose} />
         )}
       </View>
     </Sheet>
@@ -247,6 +263,8 @@ function Formulario({
   onConfirmar: () => void;
 }) {
   const theme = useTheme();
+  const t = useTextos();
+  const textos = t.bloqueios.horarios.formulario;
   const { faixa } = rascunho;
 
   const alternarDia = (dia: number) =>
@@ -262,9 +280,9 @@ function Formulario({
         { backgroundColor: theme.colors.bgCanvas, borderColor: theme.colors.borderDefault },
       ]}
     >
-      <Text style={[styles.rotulo, { color: theme.colors.textPrimary }]}>Dias</Text>
+      <Text style={[styles.rotulo, { color: theme.colors.textPrimary }]}>{textos.dias}</Text>
       <View style={styles.dias}>
-        {DIAS_DA_SEMANA.map((dia) => {
+        {diasDaSemana(t).map((dia) => {
           const ativo = faixa.days.includes(dia.valor);
           return (
             <Pressable
@@ -301,12 +319,16 @@ function Formulario({
 
       <View style={styles.horarios}>
         <SeletorDeHora
-          rotulo="Das"
+          rotulo={textos.inicio}
+          rotuloMenos={textos.menosNoInicioFalado}
+          rotuloMais={textos.maisNoInicioFalado}
           minuto={faixa.start}
           onChange={(start) => onChange({ ...faixa, start })}
         />
         <SeletorDeHora
-          rotulo="Até"
+          rotulo={textos.fim}
+          rotuloMenos={textos.menosNoFimFalado}
+          rotuloMais={textos.maisNoFimFalado}
           minuto={faixa.end}
           onChange={(end) => onChange({ ...faixa, end })}
         />
@@ -314,7 +336,7 @@ function Formulario({
 
       {atravessaMeiaNoite(faixa) && !erro && (
         <Text style={[styles.nota, { color: theme.colors.textSecondary }]}>
-          Termina às {formatarHora(faixa.end)} do dia seguinte.
+          {formatar(textos.terminaNoDiaSeguinte, { hora: formatarHora(faixa.end, t) })}
         </Text>
       )}
       {erro && (
@@ -328,11 +350,11 @@ function Formulario({
 
       <View style={styles.botoesFormulario}>
         <View style={styles.botao}>
-          <Button label="Cancelar" variant="secondary" size="md" onPress={onCancelar} />
+          <Button label={textos.cancelar} variant="secondary" size="md" onPress={onCancelar} />
         </View>
         <View style={styles.botao}>
           <Button
-            label={rascunho.indice === null ? 'Adicionar' : 'Atualizar'}
+            label={rascunho.indice === null ? textos.adicionar : textos.atualizar}
             size="md"
             disabled={erro !== null}
             onPress={onConfirmar}
@@ -346,18 +368,23 @@ function Formulario({
 /** Hora em passos de 15 minutos; ajustavel tambem pelo leitor de tela. */
 function SeletorDeHora({
   rotulo,
+  rotuloMenos,
+  rotuloMais,
   minuto,
   onChange,
 }: {
   rotulo: string;
+  rotuloMenos: string;
+  rotuloMais: string;
   minuto: number;
   onChange: (minuto: number) => void;
 }) {
   const theme = useTheme();
+  const t = useTextos();
   const botao = (passos: number, icone: 'remove' | 'add', descricao: string) => (
     <Pressable
       accessibilityRole="button"
-      accessibilityLabel={`${descricao} 15 minutos em ${rotulo.toLowerCase()}`}
+      accessibilityLabel={descricao}
       hitSlop={4}
       onPress={() => onChange(ajustarMinuto(minuto, passos))}
       style={({ pressed }) => [
@@ -378,7 +405,7 @@ function SeletorDeHora({
       accessible
       accessibilityRole="adjustable"
       accessibilityLabel={rotulo}
-      accessibilityValue={{ text: formatarHora(minuto) }}
+      accessibilityValue={{ text: formatarHora(minuto, t) }}
       accessibilityActions={[{ name: 'increment' }, { name: 'decrement' }]}
       onAccessibilityAction={(evento) =>
         onChange(ajustarMinuto(minuto, evento.nativeEvent.actionName === 'increment' ? 1 : -1))
@@ -386,11 +413,15 @@ function SeletorDeHora({
     >
       <Text style={[styles.rotulo, { color: theme.colors.textSecondary }]}>{rotulo}</Text>
       <View style={styles.linhaSeletor}>
-        {botao(-1, 'remove', 'Menos')}
-        <Text style={[styles.hora, { color: theme.colors.textPrimary }]}>
-          {formatarHora(minuto)}
+        {botao(-1, 'remove', rotuloMenos)}
+        <Text
+          style={[styles.hora, { color: theme.colors.textPrimary }]}
+          numberOfLines={1}
+          adjustsFontSizeToFit
+        >
+          {formatarHora(minuto, t)}
         </Text>
-        {botao(1, 'add', 'Mais')}
+        {botao(1, 'add', rotuloMais)}
       </View>
     </View>
   );

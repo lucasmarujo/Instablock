@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Slovenčina: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>Čas, ktorý tu neminiete, sa celý vráti do vášho života.</item>
+        <item>Každá minúta mimo tejto obrazovky je opäť vaša.</item>
+        <item>Týchto dvadsať minút sa zmestí do prechádzky.</item>
+        <item>Keď prestanete scrollovať, deň má viac miesta, než sa zdá.</item>
+        <item>Práve ste si vzali späť kus popoludnia.</item>
+        <item>Hodina denne je za rok pätnásť dní.</item>
+        <item>Čas sa nevráti, ale stále môžete vybrať, kam pôjde.</item>
+        <item>Táto chvíľa je vaša. Nikto nemusí vedieť, čo ste s ňou urobili.</item>
+        <item>Mimo aplikácie sa deje celý život.</item>
+        <item>Hodiny bežia rovnako na oboch stranách obrazovky.</item>
+        <item>Práve ste získali čas. Dajte ho niečomu, na čo si zajtra spomeniete.</item>
+        <item>Nikto na konci dňa neľutuje, že prescrolloval menej.</item>
+        <item>Pätnásť minút tu je pätnásť minút kdekoľvek inde.</item>
+        <item>Čo by ste s touto polhodinou robili pred desiatimi rokmi?</item>
+        <item>Čas je jediná vec, ktorú si nekúpite späť.</item>
+        <item>Celé popoludnie máte stále pred sebou.</item>
+        <item>Táto minúta môže byť začiatkom niečoho iného.</item>
+        <item>Vraciate si hodiny, jednu po druhej.</item>
+        <item>Čas ušetrený tu nezmizne. Objaví sa inde.</item>
+        <item>Desať minút vyzerá ako málo, kým ich nespočítate za celý mesiac.</item>
+        <item>Život beží normálnym tempom, nie tempom feedu.</item>
+        <item>Dnes máte viac času, ako ste mali včera touto dobou.</item>
+        <item>To, čo odkladáte, sa zmestí presne do tejto chvíle.</item>
+        <item>Táto pauza je krátka. To, čo s ňou urobíte, už nemusí byť.</item>
+        <item>Do dňa sa zmestí veľa, keď mu scrollovanie nestojí v ceste.</item>
+        <item>Práve ste si vrátili zvyšok večera.</item>
+        <item>Čas je mena. Práve ste sa rozhodli ju neminúť.</item>
+        <item>Feed sa nikdy neskončí. Váš deň áno.</item>
+        <item>Polhodina denne je celá kniha za mesiac.</item>
+        <item>Vnútri na vás nečakalo nič naliehavé.</item>
+        <item>Tento čas bol vždy váš. Teraz je späť u vás.</item>
+        <item>Z rána sa ešte dá veľa vyťažiť, ak ho začnete teraz.</item>
+        <item>Nič ste nestratili. Získali ste chvíľu pre seba.</item>
+        <item>Čas nám nikto nevráti. Môžeme si ho len udržať.</item>
+        <item>Tieto minúty majú väčšiu cenu inde a vy to viete.</item>
+        <item>Čo tam bolo, tam aj zostane. Váš čas nie.</item>
+        <item>Život sa skladá z popoludní, ako je toto.</item>
+        <item>Deň môžete zakončiť niečím urobeným, nie niečím videným.</item>
+        <item>Dve hodiny denne sú celý mesiac za rok.</item>
+        <item>Čas, ktorý si dnes ochránite, vám zajtra zostane.</item>
+        <item>Toto je časť dňa, o ktorej rozhodujete len vy.</item>
+        <item>Nikto tam nenapísal nič, čo by stálo za vaše popoludnie.</item>
+        <item>Tridsať minút denne postaví za rok čokoľvek.</item>
+        <item>Práve ste si kúpili kúsok ticha.</item>
+        <item>Deň rastie, keď sa feed zmenšuje.</item>
+        <item>Tento čas je teraz surovina. Urobte z neho niečo.</item>
+        <item>Niektorý váš projekt čaká presne na túto chvíľu.</item>
+        <item>Čo tu získate, neuvidíte na žiadnej obrazovke, len vo svojom živote.</item>
+        <item>Voľný čas je vzácny. Práve ste si ho vytvorili.</item>
+        <item>Nikto si na konci života nepýtal ešte jedno scrollovanie.</item>
+        <item>Máte celé popoludnie a ešte ste z neho nič neminuli.</item>
+        <item>Rok je tristošesťdesiatpäť takýchto rozhodnutí.</item>
+        <item>Táto chvíľka je malá, ale celá patrí vám.</item>
+        <item>Čas plynie rovnako. Rozdiel je v tom, čo po ňom zostane.</item>
+        <item>Práve ste vypli autopilota na celú polhodinu.</item>
+        <item>Zvyšok dňa vám za túto zastávku ďakuje.</item>
+        <item>Päť minút tam sa nenápadne zmení na štyridsať.</item>
+        <item>Poznáte cenu tých piatich minút. Preto ste tu.</item>
+        <item>Hodina, ktorú si chránite teraz, je tá, ktorú večer hľadáte.</item>
+        <item>Nič vnútri nebude lepšie len preto, že to uvidíte teraz, a nie neskôr.</item>
+        <item>Práve ste si vybrali, kam pôjde ďalšia minúta.</item>
+        <item>Tento čas sa zmestí do rozhovoru, prechádzky aj šlofíka.</item>
+        <item>Deň sa dá využiť, keď vám hodiny prestanú pretekať medzi prstami.</item>
+        <item>Ďalšia polhodina patrí len vám.</item>
+        <item>Existuje verzia tohto dňa, v ktorej ste niečo urobili. Začína sa teraz.</item>
+        <item>Čas sa nedá nahromadiť. Dá sa len minúť lepšie alebo horšie.</item>
+        <item>Z týchto minút môže byť skutočný oddych.</item>
+        <item>Práve ste zišli z bežiaceho pásu, ktorý nikam nevedie.</item>
+        <item>Týždeň má stošesťdesiatosem hodín. Táto je vaša.</item>
+        <item>Feed berie čas po kúskoch, aby to nikto nezbadal.</item>
+        <item>Teraz môžete urobiť to, čo každý deň odkladáte na zajtra.</item>
+        <item>Vaše popoludnie sa nemusí zmestiť do obrazovky.</item>
+        <item>Čas navyše je to, vďaka čomu sa deň zdá dlhý v dobrom zmysle.</item>
+        <item>Práve ste si vrátili ďalšiu hodinu.</item>
+        <item>Nič z toho, čo by ste teraz videli, by ste si o týždeň nepamätali.</item>
+        <item>Práve z takých minút sa rok buduje alebo rozpadá.</item>
+        <item>Získali ste čas. Nemusíte ho minúť hneď.</item>
+        <item>Do dňa bez scrollovania sa zmestí viac.</item>
+        <item>Hodiny nerozlišujú dobrý a premárnený čas. Vy áno.</item>
+        <item>Táto hodina má rovnakú cenu ako ktorákoľvek iná vo vašom živote.</item>
+        <item>Teraz máte čas. To je vzácnejšie, než sa zdá.</item>
+        <item>Jediný spôsob, ako mať čas, je chrániť si ho.</item>
+        <item>Celý večer je ešte pred vami.</item>
+        <item>Tieto minúty sú začiatkom popoludnia, na ktoré si spomeniete.</item>
+        <item>Práve ste sa vyhli tej hodinovej diere.</item>
+        <item>Všetko, čo si žiada čas, si žiada presne takéto rozhodnutie.</item>
+        <item>Do večere ešte stihnete veľa.</item>
+        <item>Zložili ste nohu z plynu. Deň spomalí s vami.</item>
+        <item>Váš týždeň má miesto. Len ho zaberalo niečo iné.</item>
+        <item>Zakaždým, keď to tu zavriete, deň trochu narastie.</item>
+        <item>Čas je dar, ktorý si môžete dať zadarmo.</item>
+        <item>Teraz máte presne to, o čom celý deň hovoríte, že nemáte.</item>
+        <item>Dlhé popoludnie sa skladá z krátkych rozhodnutí, ako je toto.</item>
+        <item>Nikto sa nebude pýtať, čo ste s touto polhodinou urobili.</item>
+        <item>Čas, ktorý dnes neodovzdáte, budete mať aj zajtra.</item>
+        <item>Dvadsať minút denne je za rok stodvadsať hodín.</item>
+        <item>Práve ste získali späť chvíľu pred spaním.</item>
+        <item>Medzi jednou notifikáciou a druhou je veľa života.</item>
+        <item>Celý deň je váš, ak ho nerozdáte po kúskoch.</item>
+        <item>Až doteraz ste si chránili čas. Toto je ďalší kúsok.</item>
+        <item>O vašu pozornosť bojuje celý svet. Práve ste vyhrali.</item>
+        <item>Sústredenie sa vracia dvadsať minút. Nedávajte ho teraz preč.</item>
+        <item>Celá hlava má väčšiu cenu ako hlava rozkúskovaná.</item>
+        <item>Predtým, ako ste sem prišli, ste sa na niečo sústredili.</item>
+        <item>Rozdelená pozornosť nie je pozornosť. Je to len únava.</item>
+        <item>To, čo ste robili, si zaslúži vašu plnú pozornosť.</item>
+        <item>Hlboké premýšľanie potrebuje čas bez vyrušenia. Tu ho máte.</item>
+        <item>Každé prepnutie obrazovky stojí viac, než ukazujú hodiny.</item>
+        <item>Vašej mysli to išlo dobre. Nechajte ju pokračovať.</item>
+        <item>Hlboká práca neprežije scrollovanie feedu.</item>
+        <item>Feed je navrhnutý tak, aby vám bral pozornosť. Všimli ste si to.</item>
+        <item>Dlhá myšlienka potrebuje ticho, aby sa dokončila.</item>
+        <item>Dokážete udržať v hlave celú myšlienku. Stačí jej dať priestor.</item>
+        <item>Rozptyľovanie nie je oddych. Skutočný oddych vás posilní.</item>
+        <item>Sústredenie, ktoré ste mali, je stále nablízku. Vráťte sa k nemu.</item>
+        <item>Vaša pozornosť dnes nie je na predaj.</item>
+        <item>To najlepšie z vašej hlavy príde až po dvadsiatej minúte.</item>
+        <item>Prerušiť sa teraz stojí viac, než sa zdá.</item>
+        <item>Zvládnete veci, ktoré si žiadajú sústredenie. Začnite tým, že si ho ochránite.</item>
+        <item>Nič tam nepotrebuje vašu pozornosť naliehavo.</item>
+        <item>Hodina sústredenia prinesie viac ako štyri rozkúskované.</item>
+        <item>Hlava vám funguje lepšie, keď nepreskakuje z témy na tému.</item>
+        <item>Čo zostalo napoly, môžete ešte dnes dokončiť.</item>
+        <item>Sústredenie nie je vôľa. Je to prostredie. Práve ste si to svoje upratali.</item>
+        <item>Ten ťažký problém povolí, keď pri ňom zostanete.</item>
+        <item>Vaša pozornosť je obmedzená. Preto má takú cenu.</item>
+        <item>Nemusíte vedieť všetko hneď teraz.</item>
+        <item>Hluk tam bude aj naďalej. Vzácne je vaše ticho.</item>
+        <item>Veľké veci vytvorili ľudia, ktorých nikto nevyrušoval.</item>
+        <item>Vráťte sa k tomu, čo ste robili. Myšlienkami ste stále tam.</item>
+        <item>Jedna úloha naraz je rýchlejšia, než sa zdá.</item>
+        <item>Chuť pozrieť sa prejde. Prerušená myšlienka sa niekedy nevráti.</item>
+        <item>Dokážete sa sústrediť lepšie, než to v poslednom čase využívate.</item>
+        <item>Dobré premýšľanie je pomalé. Nechajte ho byť pomalým.</item>
+        <item>Vaša pozornosť dnes niečo poskladala. Nerozoberajte to zo zvedavosti.</item>
+        <item>Čo si žiada hlavu, žiada si ju celú.</item>
+        <item>Žiadny feed vás nenaučí to, čo hodina sústredenia.</item>
+        <item>Každá odmietnutá notifikácia pridá kúsok jasnosti.</item>
+        <item>Boli ste blízko k pochopeniu. Vráťte sa tam.</item>
+        <item>Oddýchnutá myseľ je tá, ktorú nikto celý deň neťahal sem a tam.</item>
+        <item>Pozornosť je materiál, z ktorého staviate všetko ostatné.</item>
+        <item>Najťažšie je začať. To už máte za sebou. Nezačínajte od nuly.</item>
+        <item>Nechajte vec v pokoji a v hlave sa vyrieši sama.</item>
+        <item>Jasno príde, keď utíchne šum.</item>
+        <item>Najlepšia práca vášho dňa ešte len príde.</item>
+        <item>Nechýba vám čas. Chýba vám čas bez prerušenia.</item>
+        <item>Premýšľate lepšie, než vám to feed dovolí.</item>
+        <item>Ten text, ten kód, ten rozhovor. Čakajú na vašu plnú pozornosť.</item>
+        <item>Sústredenie je sval. Rastie vďaka dňom, ako je dnešok.</item>
+        <item>Vaša hlava vám práve poďakovala.</item>
+        <item>Jedna vec naraz je stále najpokročilejšia technika, aká existuje.</item>
+        <item>Čo robíte s pozornosťou, zostane. Ostatné prejde.</item>
+        <item>Na premýšľanie neexistuje skratka. Len čas bez vyrušovania.</item>
+        <item>Zaslúžite si dokončiť myšlienku.</item>
+        <item>Vaša myseľ bola ostrá. Nestraťte niť.</item>
+        <item>Obrazovka bliká. Nápady nie. Zostaňte pri nápadoch.</item>
+        <item>Jeden sústredený deň vyváži tri uponáhľané.</item>
+        <item>Rýchlosť vám nechýba. Len vás niečo stále vyrušovalo.</item>
+        <item>To, na čom dnes záleží, vo feede nenájdete.</item>
+        <item>Udržať si smer je ľahšie, ako sa k nemu vracať.</item>
+        <item>Vaša plná pozornosť je dar. Dajte ju tomu, kto si ju zaslúži.</item>
+        <item>Dobré nápady sa rodia v tichu.</item>
+        <item>Boli ste uprostred niečoho dobrého.</item>
+        <item>Nikto nemyslí poriadne, keď má hlavu na desiatich miestach.</item>
+        <item>Hĺbka príde až po chvíli strávenej na povrchu.</item>
+        <item>Sústredenie nie je o tom robiť viac. Je o tom robiť dobre.</item>
+        <item>Dnes máte pred sebou niečo dôležité. Feed to nie je.</item>
+        <item>Nechajte hlavu dokončiť vetu, ktorú začala.</item>
+        <item>Hodina bez vyrušenia zmení, čo všetko sa dá za deň stihnúť.</item>
+        <item>Čo sa teraz zdá ťažké, s nepretržitou pozornosťou zľahne.</item>
+        <item>Vaše sústredenie je vaša výhoda. Málokto si to svoje ešte udržal.</item>
+        <item>Nemeňte jednu dôležitú vec za veľa rýchlych.</item>
+        <item>Zvedavosť môže počkať. Sústredenie nepočká.</item>
+        <item>Niečo budujete. Pokračujte.</item>
+        <item>Prepínanie medzi úlohami pôsobí produktívne, no takmer nikdy nie je.</item>
+        <item>Najlepšie využitie vašej hlavy je dnes stále k dispozícii.</item>
+        <item>Pozornosť, ktorú si teraz ušetríte, sa neskôr ukáže na výsledku.</item>
+        <item>Vaša myseľ nie je feed. Uchová si to, čomu venujete pozornosť.</item>
+        <item>Téma, ktorá si zaslúži celú vašu hlavu, je vzácna. Využite to.</item>
+        <item>Ťažké neznamená nemožné. Len to trvá dlhšie.</item>
+        <item>Od prelomu vás delí pár minút.</item>
+        <item>Šum zmizne, keď ho prestanete kŕmiť.</item>
+        <item>Zostaňte pri tom, čo ste robili, až kým to nedokončíte.</item>
+        <item>Jeden hlboký ponor vyváži desať plytkých.</item>
+        <item>Pozornosť rozhoduje, čo sa stane spomienkou.</item>
+        <item>Pamätáte si to, čomu ste venovali pozornosť. Iba to.</item>
+        <item>Premýšľanie je to najvýnosnejšie, čo dnes urobíte.</item>
+        <item>Pokojná hlava vyrieši to, čo uponáhľaná ani nevidí.</item>
+        <item>Dobrá práca si žiada trpezlivosť, nie rýchlosť.</item>
+        <item>Nič, čo by ste teraz videli, by ste zajtra nikomu nespomenuli.</item>
+        <item>Vaša dnešná jasná myseľ sa začala rozhodnutiami, ako je toto.</item>
+        <item>Vyrušenie je najdrahšia daň, aká existuje.</item>
+        <item>Pri jednej veci vydržíte dlhšie, než si myslíte.</item>
+        <item>Detail, ktorý vám unikal, sa ukáže v tichu.</item>
+        <item>Sústredenie sa vráti. Stačí pár minút bez obrazovky.</item>
+        <item>Dokážete sa dlho sústrediť. Feed stavia na tom, že nie.</item>
+        <item>Dokončiť dnes jednu vec má väčšiu cenu ako začať päť.</item>
+        <item>Plná pozornosť je vzácna dokonca aj pre vás.</item>
+        <item>Nechajte myšlienku dýchať.</item>
+        <item>To, čo postavíte so sústredením, sa nedá len tak prescrollovať.</item>
+        <item>Chuť otvoriť to prejde za pár minút. Vždy prejde.</item>
+        <item>Tento impulz má dátum spotreby. Vyprší sám.</item>
+        <item>Nemusíte nič robiť. Stačí počkať, kým vlna opadne.</item>
+        <item>Naliehavosť, ktorú teraz cítite, nie je vaša. Niekto vás ju naučil.</item>
+        <item>Raz sa nadýchnite. Chuť je už menšia ako pred minútou.</item>
+        <item>Impulz je silný na začiatku a v polovici cesty zmizne.</item>
+        <item>To nechcete vy. To si pýta zvyk.</item>
+        <item>Chvíľu je to nepríjemné. Potom to prejde.</item>
+        <item>Už ste to zažili a vždy ste to zvládli.</item>
+        <item>Chuť prichádza vo vlnách. A vlny sa lámu.</item>
+        <item>Nikto nemusí poslúchnuť prvý impulz dňa.</item>
+        <item>Toto zovretie v hrudi trvá kratšie ako jedna pesnička.</item>
+        <item>Tridsaťsekundový impulz je menší ako vy.</item>
+        <item>Nechajte chuť prejsť bez toho, aby ste s ňou niečo robili.</item>
+        <item>Nepohodlie, ktoré cítite, je zvyk, ktorý povoľuje. To je pokrok.</item>
+        <item>Nebojujete. Len čakáte.</item>
+        <item>Chuť prichádza prudko a odchádza potichu.</item>
+        <item>Napočítajte do dvadsať. Už bude menšia.</item>
+        <item>Mať chuť nie je to isté ako potrebovať.</item>
+        <item>Impulz chce okamžitú odpoveď. Nedávajte mu žiadnu.</item>
+        <item>Toto je najťažšia chvíľa a je krátka.</item>
+        <item>Nemusíte bojovať. Len sa teraz nerozhodujte.</item>
+        <item>Chuť zmizne, keď ju nikto nekŕmi.</item>
+        <item>To je úzkosť, nie hlad po obsahu.</item>
+        <item>Všimnite si chuť, ale nevstupujte do nej.</item>
+        <item>Mozog si pýta to obvyklé. Nemusíte mu vyhovieť.</item>
+        <item>O päť minút si ani nespomeniete, že ste to chceli otvoriť.</item>
+        <item>Vlna práve stúpa. Vždy zase klesne.</item>
+        <item>To najhoršie už máte za sebou.</item>
+        <item>Impulz klame o tom, aký je silný.</item>
+        <item>Vstaňte, napite sa vody, vráťte sa. Už je preč.</item>
+        <item>Chuť nie je príkaz.</item>
+        <item>Môžete to cítiť a nič nerobiť. Je to dovolené.</item>
+        <item>Telo si pýta pohyb, nie obrazovku.</item>
+        <item>Táto túžba je automatická. Vaša odpoveď nemusí byť.</item>
+        <item>Nič zlé sa nestane, ak ešte chvíľu počkáte.</item>
+        <item>Chuť zmizne sama, ak jej dáte priestor.</item>
+        <item>Je to len nepokoj. Prejde a obrazovku nepotrebuje.</item>
+        <item>Impulz je len návrh. Rozhodujete vy.</item>
+        <item>Ešte minúta a z chuti bude niečo iné.</item>
+        <item>Ťažká časť trvá chvíľu. Tá dobrá vydrží celý deň.</item>
+        <item>Toto je to známe postrčenie. Až tak silno netlačí.</item>
+        <item>Počkajte a nesúďte. Chuť sa rozplynie sama.</item>
+        <item>Mozog si pýta svoju obvyklú skratku.</item>
+        <item>Nemusíte nič poraziť. Stačí to nechať prejsť.</item>
+        <item>Každá vlna, ktorú necháte prejsť, zmenší tú ďalšiu.</item>
+        <item>Úzkosť chce rýchle riešenie. Tu ho nenájde.</item>
+        <item>Chvíľu sa nehýbte. Impulz to dlho nevydrží.</item>
+        <item>Čakaním nič nestrácate.</item>
+        <item>Nuda nie je núdzový stav.</item>
+        <item>Prázdnota, ktorú teraz cítite, je normálna. Zaplní sa sama.</item>
+        <item>Chuť niečo skontrolovať je málokedy o tom niečom.</item>
+        <item>Je vám nepríjemne, ale nie ste v nebezpečenstve.</item>
+        <item>O chvíľu to povolí.</item>
+        <item>Zvyk je silný, ale krátky.</item>
+        <item>Nechajte prejsť túto. Len túto jednu.</item>
+        <item>Vďaka tejto bude nabudúce ľahšie.</item>
+        <item>Nemusíte sa o ničom presviedčať. Stačí čakať.</item>
+        <item>Pohár vody pomôže viac ako scrollovanie feedu.</item>
+        <item>Tá naliehavosť je falošná a vy to viete.</item>
+        <item>Impulz nevydrží zostať bez odpovede.</item>
+        <item>Počkajte tridsať sekúnd. Potom sa rozhodnite znova.</item>
+        <item>Ste na vrchole. Odteraz to pôjde už len dolu kopcom.</item>
+        <item>Nič si teraz nežiada vašu reakciu.</item>
+        <item>Chuť je návšteva. Odíde.</item>
+        <item>Vy nie ste ten impulz. Vy ho pozorujete.</item>
+        <item>Telo sa uvoľní, ak mu dáte minútu.</item>
+        <item>To len mozog hľadá podnet. Nájde si iný.</item>
+        <item>Tri hlboké nádychy zmenia, ako silno to cítite.</item>
+        <item>Chuť sa zmenšuje, keď sa jej pozriete priamo do očí.</item>
+        <item>Túto minútu zvládnete. Zvládli ste aj horšie.</item>
+        <item>Nepríjemný pocit prejde, aj keď nič neurobíte.</item>
+        <item>Ruka bola rýchlejšia ako hlava. Stáva sa.</item>
+        <item>Žiadne rozhodnutie netreba urobiť v prvých desiatich sekundách.</item>
+        <item>O pár okamihov si na to ani nespomeniete.</item>
+        <item>Spúšťač zapôsobil. Odpoveď je stále na vás.</item>
+        <item>Nechajte chuť byť, ale neposlúchajte ju.</item>
+        <item>To nie je bažanie. Je to len zvyk.</item>
+        <item>Počkajte. Doslova nič iné netreba.</item>
+        <item>Hlava sa upokojí sama, ak neprikladáte do ohňa.</item>
+        <item>Už čakáte. To je samo osebe víťazstvo.</item>
+        <item>Impulz stráca silu, keď narazí na zatvorené dvere.</item>
+        <item>Každá sekunda tu je sekunda náskoku.</item>
+        <item>Vlna sa zlomila. Všimnite si, o koľko je už ľahšie.</item>
+        <item>Na to, aby ste to neotvorili, nepotrebujete dôvod.</item>
+        <item>Túžba prejde rýchlejšie ako ľútosť.</item>
+        <item>Ponaťahovanie vyrieši to, čo by feed nevyriešil.</item>
+        <item>Kým toto čítate, chuť odchádza.</item>
+        <item>Teraz nič nerozhodujte. Len dýchajte.</item>
+        <item>Impulz príde sám a sám aj odíde.</item>
+        <item>Toto je to najťažšie. A trvá to krátko.</item>
+        <item>Vydržali ste až doteraz. Zostávajú sekundy.</item>
+        <item>Telo si pýta obrazovku, keď chce oddych. Doprajte mu oddych.</item>
+        <item>Chuť sa zmenší zakaždým, keď jej nevyhoviete.</item>
+        <item>Počkajte ešte chvíľku. Nič viac.</item>
+        <item>Okamih prejde. Rozhodnutie zostane.</item>
+        <item>Práve ste prešli tým najužším miestom.</item>
+        <item>Mať chuť je ľudské. Neposlúchnuť ju tiež.</item>
+        <item>Pokoj sa o chvíľu vráti, ak nebudete tlačiť.</item>
+        <item>Už je to ľahšie, však?</item>
+        <item>Rozhodli ste o tom v pokoji. Dôverujte tomu rozhodnutiu.</item>
+        <item>Vaše včerajšie ja sa postaralo o to dnešné.</item>
+        <item>Táto obrazovka je odkaz od vás pre vás.</item>
+        <item>Nikto vám nič nezakazuje. Toto je len pripomienka.</item>
+        <item>Ten, kým chcete byť, nepresedí popoludnie scrollovaním.</item>
+        <item>To rozhodnutie bolo vaše. A stále je.</item>
+        <item>Patríte k ľuďom, ktorí si všimli a konali.</item>
+        <item>Nikto vás nenútil toto nainštalovať. Chceli ste to.</item>
+        <item>Vaše zajtrajšie ja bude mať radosť z toho dnešného.</item>
+        <item>Už teraz patríte k tým, čo si chránia svoj čas.</item>
+        <item>Toto nie je trest. Je to dohoda.</item>
+        <item>Toto pravidlo ste napísali vy. A funguje.</item>
+        <item>Vládnuť vlastnej pozornosti je každodenné rozhodnutie.</item>
+        <item>Tu nikomu nemusíte nič dokazovať.</item>
+        <item>Človek, ktorým chcete byť, sa začína malými rozhodnutiami.</item>
+        <item>Ste na správnej strane obrazovky.</item>
+        <item>Každým zatvorením rastiete do podoby, akú chcete mať.</item>
+        <item>Nie ste to, na čo máte chuť. Ste to, čo robíte.</item>
+        <item>Dohoda so sebou platí rovnako ako každá iná.</item>
+        <item>Rozpoznali ste vzorec a zmenili ste ho. To je vzácne.</item>
+        <item>Ste viac než aplikácie vo vašom vrecku.</item>
+        <item>Toto je vaše pravidlo a stojí na vašej strane.</item>
+        <item>Máte právo zmeniť svoje zvyky.</item>
+        <item>To, čo robíte opakovane, je to, kým ste.</item>
+        <item>Vybrali ste si život s väčším priestorom.</item>
+        <item>Nerozkazuje vám aplikácia.</item>
+        <item>Kým ste, sa do feedu nezmestí.</item>
+        <item>Toto ste nainštalovali z nejakého dôvodu.</item>
+        <item>Spomeňte si na ten dôvod. Stále platí.</item>
+        <item>Držíte sa vlastného rozhodnutia.</item>
+        <item>Nikto za vás nerozhoduje o vašej pozornosti.</item>
+        <item>Všimli ste si, čo sa deje. To už mení všetko.</item>
+        <item>Riadiť si vlastný deň je práca, ktorá nekončí.</item>
+        <item>Nesedíte na zadnom sedadle. Šoférujete vy.</item>
+        <item>Takto sa rozhoduje človek, ktorý sa berie vážne.</item>
+        <item>Za seba zodpovedáte vy. A darí sa vám to.</item>
+        <item>Váš čas má majiteľa. Práve toto číta.</item>
+        <item>Dohodli ste sa so sebou. Dodržte to.</item>
+        <item>Každé takéto rozhodnutie vás približuje k tomu, kým chcete byť.</item>
+        <item>Neprichádzate o slobodu. Využívate ju.</item>
+        <item>O tom, čo teraz urobíte, rozhodujete vy.</item>
+        <item>Na to, aby ste žili inak, nepotrebujete povolenie.</item>
+        <item>Táto hranica je starostlivosť, nie klietka.</item>
+        <item>Vybrali ste si ťažšiu cestu, ktorá je viac vaša.</item>
+        <item>Aj človek, ktorého obdivujete, by teraz povedal nie.</item>
+        <item>Žijete vo svojom živote, nie v aplikácii.</item>
+        <item>Váš čas, vaša hlava, vaše rozhodnutie.</item>
+        <item>Plníte, čo ste si sľúbili. To sa počíta.</item>
+        <item>Nikto sa o vašu pozornosť nepostará za vás.</item>
+        <item>Už ste dokázali, že viete zmeniť smer.</item>
+        <item>Toto je samostatnosť: rozhodnúť sa vopred, nie v návale chuti.</item>
+        <item>Budujete človeka, ktorého si vážite.</item>
+        <item>Toto je tá vaša verzia, ktorá plánuje.</item>
+        <item>Nie ste tu náhodou. Toto nastavenie je vaše dielo.</item>
+        <item>Slovo dané sebe platí.</item>
+        <item>Máte vlastný názor na to, ako stráviť deň.</item>
+        <item>Aplikácia vás nepozná. Vy sa poznáte.</item>
+        <item>Držíte svoj život vo vlastných rukách.</item>
+        <item>Stáť si za vlastným rozhodnutím je sloboda.</item>
+        <item>Pravidlá tu píšete vy.</item>
+        <item>Takto vyzerá starostlivosť o seba.</item>
+        <item>Nie ste v klietke. Ste v bezpečí.</item>
+        <item>Vaša túžba zmeniť sa je staršia ako tento impulz.</item>
+        <item>Už ste tým, kým sa snažíte byť.</item>
+        <item>Ťažké rozhodnutie už padlo. Toto je to ľahké.</item>
+        <item>Máte to pod kontrolou a to je dnes vzácne.</item>
+        <item>Nikto to nemusí vedieť. Je to len medzi vami a vami.</item>
+        <item>Zaslúžite si môcť sa spoľahnúť na vlastné slovo.</item>
+        <item>Pod týmto rozhodnutím je vaše meno.</item>
+        <item>Stali ste sa človekom, ktorý sa rozhoduje vopred.</item>
+        <item>Toto nie je vzdávanie sa. Je to voľba niečoho iného.</item>
+        <item>Máte svoj smer. Táto obrazovka ukazuje práve tam.</item>
+        <item>Skutočná sloboda je, keď vás nič neťahá každú chvíľu inam.</item>
+        <item>Cenu svojej pozornosti určujete vy.</item>
+        <item>Každé nie tu je áno niečomu inému vo vašom živote.</item>
+        <item>Držíte sa plánu, ktorý ste si s láskou pripravili.</item>
+        <item>Vládnuť sebe dá prácu, ale stojí to za to.</item>
+        <item>Priznali ste si, že chcete zmenu. To je tá ťažšia časť.</item>
+        <item>Tvár v zrkadle bude dnes večer spokojná.</item>
+        <item>Algoritmu nič nedlhujete.</item>
+        <item>Váš život nie je ničí obsah.</item>
+        <item>Ste presne tam, kde ste sa rozhodli byť.</item>
+        <item>Hranica, ktorú si dáte vy, je tá najúctivejšia, aká existuje.</item>
+        <item>Máte životný plán, ktorý je väčší ako táto obrazovka.</item>
+        <item>Toto je zrelosť v priamom prenose.</item>
+        <item>Staráte sa o svoju budúcnosť, ani o tom neviete.</item>
+        <item>Každá takáto voľba dolaďuje, kým ste.</item>
+        <item>Nemusíte sa nikomu vysvetľovať, prečo to neotvoríte.</item>
+        <item>Záväzok máte voči sebe, nie voči aplikácii.</item>
+        <item>Správne ste sa rozhodli vtedy, keď vás to neťahalo.</item>
+        <item>Takto vyzerá život, ktorý riadite vy.</item>
+        <item>Teraz sa vami ťažko manipuluje.</item>
+        <item>Vaša pozornosť má majiteľa a ten dáva pozor.</item>
+        <item>Práve ste sa zachovali ako človek, ktorý sa o seba stará.</item>
+        <item>Je to váš plán. Práve teraz funguje.</item>
+        <item>Ste súčtom svojich malých rozhodnutí.</item>
+        <item>Posledné slovo vám nikto nevezme.</item>
+        <item>Najvyššou autoritou nad vaším časom ste vy.</item>
+        <item>Funguje to, pretože ste chceli, aby to fungovalo.</item>
+        <item>Zvyk sa chce cítiť väčší ako vy. Nie je.</item>
+        <item>Ešte jedno. Takto rastie súčet.</item>
+        <item>Malé a časté poráža veľké a zriedkavé.</item>
+        <item>Práve ste si pripísali ďalší bod.</item>
+        <item>Nikto sa nezmení naraz. Mení sa v dňoch, ako je dnešok.</item>
+        <item>Toto je tisícina iného života.</item>
+        <item>Jeden dobrý deň nezmení nič. Sto dobrých dní zmení všetko.</item>
+        <item>Budujete sériu.</item>
+        <item>Pokrok sa zvnútra takmer nikdy nezdá ako pokrok.</item>
+        <item>Súčet týchto rozhodnutí je väčší ako každé z nich.</item>
+        <item>Vytrvalosť je nudná a funguje.</item>
+        <item>Ďalší kameň do múru.</item>
+        <item>Trénujete niečo, čo zostane.</item>
+        <item>Keď sa to dosť krát zopakuje, stane sa to samozrejmým.</item>
+        <item>Toto víťazstvo nikto nevidí, ale počíta sa rovnako.</item>
+        <item>O pár týždňov už ani nebudete mať chuť.</item>
+        <item>Dnešok sa počíta. Aj zajtrajšok sa bude počítať.</item>
+        <item>Reťaz sa skladá z takýchto článkov.</item>
+        <item>Nový zvyk sa píše práve teraz.</item>
+        <item>Každé opakovanie trochu uvoľní starý zvyk.</item>
+        <item>Už ste to raz urobili. Urobte to znova.</item>
+        <item>Pomaly je rýchlosť vecí, ktoré vydržia.</item>
+        <item>Zmena sa deje mimo dohľadu.</item>
+        <item>Hromadíte niečo neviditeľné, a predsa skutočné.</item>
+        <item>Ďalší deň správnym smerom.</item>
+        <item>Výsledok príde neskôr. Rozhoduje sa dnes.</item>
+        <item>Jedno rozhodnutie za druhým. Tak sa to robí.</item>
+        <item>Ste bližšie ako včera.</item>
+        <item>Nemusí to byť dokonalé. Musí to byť časté.</item>
+        <item>Krivka stúpa pomaly a potom zrazu rýchlo.</item>
+        <item>Ste uprostred procesu. Presne takto vyzerá.</item>
+        <item>Každé malé nie stavia veľké áno.</item>
+        <item>Nič z toho nie je dramatické. Preto to funguje.</item>
+        <item>Cesta sa skladá z krokov, ako je tento.</item>
+        <item>Vytvárate novú podobu svojej rutiny.</item>
+        <item>O mesiac sa vám to bude zdať ľahké.</item>
+        <item>Opakovanie mení rozhodnutie na spôsob života.</item>
+        <item>Práve ste posilnili novú cestu.</item>
+        <item>Sto percent je ľahšie ako deväťdesiatosem.</item>
+        <item>Dnes sériu neprerušte.</item>
+        <item>Robíte tú nudnú časť, a práve tá sa počíta.</item>
+        <item>Zmenu necítime. Uvidíme ju až neskôr.</item>
+        <item>Ďalšia tehla na svojom mieste.</item>
+        <item>Učíte mozog očakávať niečo iné.</item>
+        <item>Pokračovať. V tom je celá technika.</item>
+        <item>V súčte nie je žiadne z týchto víťazstiev malé.</item>
+        <item>Nemusíte bežať. Stačí nezastaviť.</item>
+        <item>Už to ide ľahšie a ani ste si to nevšimli.</item>
+        <item>Týždeň takto a váš deň bude iný.</item>
+        <item>V hlave si vyšliapavate novú cestičku.</item>
+        <item>Každý raz sa počíta, aj keď sa zdá, že nie.</item>
+        <item>Nikto netlieska, ale funguje to.</item>
+        <item>Hromadí sa to potichu a nezastaviteľne.</item>
+        <item>Už vám to ide lepšie ako minulý mesiac.</item>
+        <item>Dobré rozhodnutie dnes uľahčí to zajtrajšie.</item>
+        <item>Takto vyzerá vytrvalosť zvnútra.</item>
+        <item>Ďalší deň nazbieraného náskoku.</item>
+        <item>Ste na ceste a cesta je dlhá. To je v poriadku.</item>
+        <item>Čo sa opakuje, to zľahne.</item>
+        <item>Práve ste posilnili to, kým sa stávate.</item>
+        <item>Dnes je bilancia vo váš prospech.</item>
+        <item>Malé zisky sa sčítavajú bez opýtania.</item>
+        <item>Nejde o dnešok. Ide o súčet.</item>
+        <item>Robíte neviditeľnú prácu.</item>
+        <item>Pokračujte. Doslova v tom je celé tajomstvo.</item>
+        <item>Každý takýto deň uberie kúsok z váhy.</item>
+        <item>Starý zvyk práve stráca pôdu pod nohami.</item>
+        <item>Polievate niečo, čo ešte nevyklíčilo.</item>
+        <item>Zmena sa deje, aj keď to tak nevyzerá.</item>
+        <item>Ešte raz. Nikdy to nebolo nič iné.</item>
+        <item>Budujete si zásobu dobrých dní.</item>
+        <item>Časom sa to stane normálnym.</item>
+        <item>Práve ste sa znova rozhodli. A aj to sa počíta.</item>
+        <item>Mesiac takto a ste iný človek.</item>
+        <item>Dnešná námaha zmizne. Výsledok zostane.</item>
+        <item>Už nie ste tým, kto s tým začínal.</item>
+        <item>Robiť pravidelne je viac ako robiť veľa.</item>
+        <item>Každý deň je hlas za to, kým chcete byť.</item>
+        <item>Dávate novému zvyku priestor rásť.</item>
+        <item>Nemusí to byť hrdinské. Stačí, keď sa to stane.</item>
+        <item>Práve ste spevnili správnu cestu.</item>
+        <item>Opakovaním sa mozog naučí čokoľvek.</item>
+        <item>Dnešok so včerajškom dokopy už je dosť.</item>
+        <item>Darí sa vám, aj keď to necítite.</item>
+        <item>Pokrok býva v nezáživných opakovaniach.</item>
+        <item>Ďalší krátky krok na dlhej ceste.</item>
+        <item>Robíte z toho niečo prirodzené.</item>
+        <item>Zostane to dobré, čo urobíte mnohokrát.</item>
+        <item>Sila neprichádza z úsilia, ale z opakovania.</item>
+        <item>Práve ste si skrátili zajtrajšiu cestu.</item>
+        <item>Ešte jeden. Nič viac. A to stačí.</item>
+        <item>Za vami zostáva stopa dobrých rozhodnutí.</item>
+        <item>Vytrvalosť mení úsilie na to, kým ste.</item>
+        <item>Každý deň sa počíta ako celý deň.</item>
+        <item>Hráte dlhú hru a vyhrávate.</item>
+        <item>Stane sa to súčasťou vás, ani si to nevšimnete.</item>
+        <item>Najlepšia investícia dňa je práve hotová.</item>
+        <item>Práve ste udržali kurz.</item>
+        <item>Stálosť je vzácnejšia ako talent.</item>
+        <item>Skutočná zmena je vždy pomalá a vždy stojí za to.</item>
+        <item>Ďalšie rozhodnutie smerom k vášmu životu.</item>
+        <item>Vaše oči vám za túto pauzu ďakujú.</item>
+        <item>Vstaňte a ponaťahujte sa. Telo si pýtalo toto, nie obrazovku.</item>
+        <item>Zhlboka sa nadýchnite. Už len to niečo zmení.</item>
+        <item>Napite sa vody. Pravdepodobne práve tá vám chýbala.</item>
+        <item>Krk máte už chvíľu vykrivený. Narovnajte sa.</item>
+        <item>Dnešný spánok sa rozhoduje pri obrazovke už teraz.</item>
+        <item>Dobrý spánok je to najproduktívnejšie, čo existuje.</item>
+        <item>Vaše telo je už príliš dlho bez pohybu.</item>
+        <item>Na dvadsať sekúnd sa pozrite do diaľky. Oči si oddýchnu.</item>
+        <item>Krátka prechádzka zlepší náladu viac ako akýkoľvek feed.</item>
+        <item>Únava, ktorú cítite, môže byť len z obrazovky.</item>
+        <item>Keď si hlava pýta scrollovanie, telo si pýta pohyb.</item>
+        <item>Čerstvý vzduch vyrieši to, čo obrazovka nevyrieši.</item>
+        <item>Ramená dolu. Uvoľnite čeľusť.</item>
+        <item>Nevedomky máte napäté ramená.</item>
+        <item>Desať minút slnka na koži má veľkú cenu.</item>
+        <item>Telo si oddýchne v ľahu, nie pri scrollovaní.</item>
+        <item>Ísť dnes spať skôr je darček pre zajtrajšok.</item>
+        <item>Za posledných dvadsať minút sa vám zhoršilo držanie tela. Napravte ho.</item>
+        <item>Únava z obrazovky nie je skutočná únava. Je to niečo iné.</item>
+        <item>Zdvihnite ruky. Natiahnite sa. A je to, už je lepšie.</item>
+        <item>Pri scrollovaní menej žmurkáte. Zažmurkajte teraz.</item>
+        <item>Telo funguje lepšie so skutočnými prestávkami.</item>
+        <item>Kolo okolo bloku vám prečistí hlavu.</item>
+        <item>Vaša chrbtica sa z tejto prestávky poteší.</item>
+        <item>Oddych nie je to isté ako rozptýlenie.</item>
+        <item>Včerajší zlý spánok sa začal pri obrazovke, ako je táto.</item>
+        <item>Ponaťahujte krk na obe strany. Zaberie to desať sekúnd.</item>
+        <item>Pohyb zaženie úzkosť lepšie ako obsah.</item>
+        <item>Vaše telo je jediný domov, ktorý máte.</item>
+        <item>Voda, svetlo a pohyb. Takmer vždy ide o toto.</item>
+        <item>Obrazovka unavuje, aj keď sa tvári ako oddych.</item>
+        <item>Na okamih zatvorte oči. To je všetko.</item>
+        <item>Dýchate plytko. Trikrát sa zhlboka nadýchnite.</item>
+        <item>Sprcha vyrieši viac, než sa zdá.</item>
+        <item>Už priveľmi dlho sedíte na jednom mieste.</item>
+        <item>Skutočný oddych je bez obrazovky.</item>
+        <item>Dvadsať minút chôdze zmení celý deň.</item>
+        <item>Hlavu máte ťažkú, lebo telo sa nehýbe.</item>
+        <item>Suché oči, stuhnuté ramená. Už ste si to všimli.</item>
+        <item>Dve minúty v stoji vás reštartujú lepšie ako scrollovanie.</item>
+        <item>Telo si pýta spánok, myseľ podnety. Počúvajte telo.</item>
+        <item>Svetlo obrazovky vám narúša spánok na celé hodiny.</item>
+        <item>Natiahnite si nohy. Je to rýchle a funguje to.</item>
+        <item>Zaslúžite si oddych, po ktorom si naozaj oddýchnete.</item>
+        <item>Pohyb je najlacnejšie antidepresívum, aké existuje.</item>
+        <item>Na túto noc spánku si vaše telo spomenie.</item>
+        <item>Pomalý dych upokojí rýchlejšie ako akékoľvek video.</item>
+        <item>Je to hlad, alebo nuda? Zistite, čo z toho.</item>
+        <item>Telo sa zotaví, keď hlava zastaví.</item>
+        <item>Dvadsať sekúnd pohľadu z okna.</item>
+        <item>Vaše zápästie a palec potrebujú voľno.</item>
+        <item>Únava z obrazovky sa pri chôdzi stratí.</item>
+        <item>V spánku si pamäť robí poriadok. Chráňte ho.</item>
+        <item>Potrebujete menej podnetov, nie viac.</item>
+        <item>Dve minúty naťahovania majú väčšiu cenu ako desať minút videa.</item>
+        <item>Vaše telo vám práve dáva signál.</item>
+        <item>Vzduch, voda a pohyb. Recept sa nezmenil.</item>
+        <item>Ľahnite si na minútu na zem. Vážne.</item>
+        <item>Obrazovka vás drží hore, keď potrebujete spať.</item>
+        <item>Telo si pýta prestávku a ruka obrazovku. Dajte telu prestávku.</item>
+        <item>Vaše oči pracujú od rána.</item>
+        <item>Dobre prespatá noc zmení svet.</item>
+        <item>Vstaňte. Jednoducho vstaňte. To stačí.</item>
+        <item>Vďaka tejto voľbe sa vám bude lepšie spať.</item>
+        <item>Telo ďakuje za to, čo hlava považuje za nudné.</item>
+        <item>Ponaťahujte si chrbát. Pýta si to.</item>
+        <item>Skutočný oddych je ticho, nie ďalší podnet.</item>
+        <item>Vaše telo má vlastný rytmus a obrazovka ho ignoruje.</item>
+        <item>Pozrite sa na obzor. Oči potrebujú diaľku.</item>
+        <item>Napätie v čeľusti scrollovaním nepovolí.</item>
+        <item>Ako dlho už vlastne sedíte?</item>
+        <item>Pohyb prináša jasnosť. Vždy prinášal.</item>
+        <item>Skôr než sa o čomkoľvek rozhodnete, napite sa vody.</item>
+        <item>Stratený spánok obsahom nedoženiete.</item>
+        <item>Vaše telo funguje dobre, keď ho necháte.</item>
+        <item>Krátky šlofík dá viac ako hodina vo feede.</item>
+        <item>Hlboký nádych je zadarmo a účinkuje hneď.</item>
+        <item>Obrazovka napína telo bez varovania.</item>
+        <item>Cítite väčšiu únavu, než by ste museli.</item>
+        <item>Vstaňte a pozrite sa z okna. Päť sekúnd.</item>
+        <item>Vaše telo sa nevyvinulo na to, aby nehybne hľadelo do svetla.</item>
+        <item>Natiahnite si prsty. Dnes sa narobili dosť.</item>
+        <item>Noc je lepšia, keď pred spaním nepozeráte do obrazovky.</item>
+        <item>Obrazovka ponúka všeličo, len nie oddych.</item>
+        <item>Telo si pýta prírodu a dostáva pixely.</item>
+        <item>Pohár vody a tri nádychy. Teraz hneď.</item>
+        <item>Napätie v pleci je zo spôsobu, akým držíte telefón.</item>
+        <item>Telo sa uvoľní, keď pozornosť prestane utekať.</item>
+        <item>O päť minút sa budete cítiť lepšie.</item>
+        <item>Pohyb mení chémiu. Obrazovka mení len tému.</item>
+        <item>Vaše oči si zaslúžia skutočný oddych.</item>
+        <item>Chôdza usporiada myšlienky lepšie ako čítanie feedu.</item>
+        <item>Modré svetlo teraz znamená zlý spánok neskôr.</item>
+        <item>Potrebujete oddych, nie ďalšie informácie.</item>
+        <item>Pred čímkoľvek dva hlboké nádychy.</item>
+        <item>Vaše telo je múdrejšie ako impulz.</item>
+        <item>Vstaňte a zájdite do kuchyne. Viac netreba.</item>
+        <item>Dajte oddych telu a hlava si oddýchne s ním.</item>
+        <item>Práve teraz sú okolo vás ľudia z mäsa a kostí.</item>
+        <item>Jeden rozhovor má väčšiu cenu ako tristo príspevkov.</item>
+        <item>Zavolajte niekomu. Naozaj, hlasom.</item>
+        <item>Niekto, koho máte radi, je len jednu správu od vás.</item>
+        <item>Ľudia z feedu nevedia, že existujete.</item>
+        <item>Ten, kto je s vami v miestnosti, si zaslúži viac.</item>
+        <item>Objatie vyrieši to, čo žiadne video nevyrieši.</item>
+        <item>Napíšte niekomu, na koho v poslednom čase zabúdate.</item>
+        <item>Vaša mama by sa dnes potešila telefonátu.</item>
+        <item>V skutočnom živote sú ľudia, ktorí naozaj odpovedajú.</item>
+        <item>Ten priateľ, ktorý sa stratil, sa ešte môže vrátiť. Ozvite sa mu.</item>
+        <item>Prítomnosť je to najvzácnejšie, čo môžete dať.</item>
+        <item>Niekto čaká, kedy zdvihnete zrak.</item>
+        <item>Dobrá otázka má väčšiu cenu ako hodina scrollovania.</item>
+        <item>Ľudia okolo vás nemajú algoritmus.</item>
+        <item>Uniká vám rozhovor, ktorý sa práve odohráva.</item>
+        <item>Nikto z feedu tam nebude, keď ho budete potrebovať.</item>
+        <item>Káva s niekým zmení týždeň viac ako akýkoľvek feed.</item>
+        <item>Vaša spoločnosť je dar. Darujte ju.</item>
+        <item>Pozrite sa na toho, kto je s vami.</item>
+        <item>Priateľstvo treba polievať. Polejte ho dnes.</item>
+        <item>Človek vedľa vás je skutočný.</item>
+        <item>Kto vás má rád, nepotrebuje lajk.</item>
+        <item>Pamätáte si posledný dlhý rozhovor, ktorý ste viedli?</item>
+        <item>Zavolajte niekoho na prechádzku.</item>
+        <item>Na najlepších spomienkach takmer nikdy nie je obrazovka.</item>
+        <item>Práve teraz robíte niekomu spoločnosť.</item>
+        <item>Pošlite hlasovú správu niekomu, koho máte radi.</item>
+        <item>Ľudia sa menia, keď im venujete pozornosť.</item>
+        <item>Pre niekoho má dnes vaša prítomnosť veľkú cenu.</item>
+        <item>Po dobrom rozhovore je vám lepšie. Po feede nie.</item>
+        <item>Dajte niekomu vedieť, že ste si naňho spomenuli.</item>
+        <item>Niekoho stretnite, namiesto toho, aby ste ho len sledovali.</item>
+        <item>Pevné puto vzniká zo spoločne stráveného času.</item>
+        <item>Môžete byť dôvodom, prečo má niekto dobrý deň.</item>
+        <item>Ten príbuzný, s ktorým ste nehovorili celé mesiace.</item>
+        <item>Jedna úprimná správa prebije tisíc zhliadnutí.</item>
+        <item>Byť spolu nie je to isté ako byť online.</item>
+        <item>Ľudia, s ktorými žijete, si zaslúžia vašu plnú prítomnosť.</item>
+        <item>Pozvite niekoho na večeru.</item>
+        <item>Skutoční ľudia majú tvár, hlas a obmedzený čas.</item>
+        <item>Niekto vás nedokáže nikým nahradiť. Ukážte sa.</item>
+        <item>Najdôležitejší rozhovor vášho dňa sa ešte len odohrá.</item>
+        <item>Aj vo vašej blízkosti je niekto bez obrazovky.</item>
+        <item>Počúvať druhých je najľahší spôsob, ako si získať ich náklonnosť.</item>
+        <item>Ten priateľ si niečím prechádza. Opýtajte sa ho.</item>
+        <item>Vaše dieťa, váš pes, váš sused. Niekto je tu.</item>
+        <item>Siete vás spájajú s množstvom ľudí a zároveň s nikým.</item>
+        <item>Popoludnie s niekým vyváži mesiac feedu.</item>
+        <item>Dnes môžete niekoho rozosmiať. Naozaj.</item>
+        <item>Plná prítomnosť je veľmi vzácna. A vy ju môžete dať.</item>
+        <item>Niekto o vás tento týždeň hovoril. Oplaťte mu to.</item>
+        <item>Nikomu vo feede nechýbate.</item>
+        <item>Päťminútový telefonát niekomu zmení deň.</item>
+        <item>Ľudia, na ktorých záleží, o tom nepostujú.</item>
+        <item>Od dobrého rozhovoru vás delí jedna otázka.</item>
+        <item>Skutočná spoločnosť nemá uprostred reklamy.</item>
+        <item>Ten človek, ktorý vás vždy podrží. Poďakujte mu dnes.</item>
+        <item>Pohľad do očí je stále najlepšia technológia.</item>
+        <item>Vaša rodina nie je feed. Neprescrollujte ju.</item>
+        <item>Pozvite niekoho, aby ste spolu nerobili nič.</item>
+        <item>Aj tí, čo sú ďaleko, si zaslúžia správy od vás.</item>
+        <item>Mimo tejto obrazovky máte ľudí, ktorí vás majú radi.</item>
+        <item>Odkladaný ťažký rozhovor váži viac ako feed.</item>
+        <item>Užite si ľudí nablízku, kým sú tu.</item>
+        <item>Ľudia si pamätajú, kto pri nich bol.</item>
+        <item>Pozvite priateľa na kávu len tak.</item>
+        <item>Niekde niekto chce vedieť, ako sa máte.</item>
+        <item>Teraz môžete niekoho naozaj počúvať.</item>
+        <item>Vzťah sa buduje pohľadom, nie scrollovaním.</item>
+        <item>Vaša pozornosť je najlepší darček pre tých, ktorých máte radi.</item>
+        <item>Človek je viac ako profil.</item>
+        <item>Ten rozhovor, ktorý niekomu dlhujete. Dnes je ten deň.</item>
+        <item>Byť k dispozícii je jedna z podôb lásky.</item>
+        <item>Teraz máte čas na niekoho.</item>
+        <item>Nikto sa nelúčil so životom s túžbou po ďalších sledovateľoch.</item>
+        <item>Stretnite sa znova s niekým, koho len zďaleka sledujete.</item>
+        <item>Nehu treba niekedy povedať nahlas.</item>
+        <item>Vaša stará partia stále existuje. Ozvite sa.</item>
+        <item>Niekto vedľa vás by sa rád porozprával.</item>
+        <item>Porovnávanie nie je spojenie.</item>
+        <item>Dnes môžete niekomu darovať svoju prítomnosť.</item>
+        <item>Ručne písaný lístok. To je nápad.</item>
+        <item>Kto vás naozaj pozná, nie je vo feede.</item>
+        <item>Strávte popoludnie s niekým.</item>
+        <item>Ľudia nablízku si zaslúžia to, čo dávate feedu.</item>
+        <item>Záleží na vás niekomu, kto nič nepostuje.</item>
+        <item>Zavolajte a spýtajte sa, ako sa ten človek naozaj má.</item>
+        <item>Ďalšia obrazovka samotu nezaženie.</item>
+        <item>Priblížte sa dnes k niekomu.</item>
+        <item>Spoločné jedlo stojí za celé popoludnie.</item>
+        <item>Pozornosť živí vzťahy. Venujte ju jednému z nich.</item>
+        <item>Práve teraz na vás niekto myslí.</item>
+        <item>Povedzte niekomu, že ho máte radi.</item>
+        <item>Priateľstvá umierajú na ticho, nie na hádky.</item>
+        <item>Máte okolo seba dobrých ľudí. Tešte sa z nich.</item>
+        <item>Niekto potrebuje spoločnosť a vy ju môžete ponúknuť.</item>
+        <item>Nechajte feed tak a choďte medzi ľudí.</item>
+        <item>Kto vás má rád, chce váš čas, nie váš profil.</item>
+        <item>Za päť minút môžete niekomu zlepšiť deň.</item>
+        <item>Tvorba unaví, ale naplní. Konzum oddýchne, ale vyprázdni.</item>
+        <item>Máte viac čo povedať než čo pozerať.</item>
+        <item>Niekto práve tvorí to, čo ste sa chystali pozerať.</item>
+        <item>Napíšte jeden riadok. Iba jeden.</item>
+        <item>Svet má priveľa konzumentov a primálo tvorcov.</item>
+        <item>Ten váš nápad stále čaká.</item>
+        <item>Môžete niečo vytvoriť, namiesto pozerania na hotové.</item>
+        <item>Všetko dobré vytvoril niekto, kto práve nescrolloval.</item>
+        <item>Váš nápad je cennejší ako celý dnešný feed.</item>
+        <item>Začnite to, čo odkladáte. Stačí päť minút.</item>
+        <item>Zaseknutý projekt potrebuje len postrčiť.</item>
+        <item>Máte talent na niečo iné ako scrollovanie.</item>
+        <item>Urobte dnes niečo, čo včera neexistovalo.</item>
+        <item>Tvoriť je zábavnejšie ako pozerať, len treba začať.</item>
+        <item>Ten prázdny zošit nehryzie.</item>
+        <item>Najlepší obsah je ten, ktorý tvoríte vy.</item>
+        <item>Viac sa naučíte robením ako pozeraním.</item>
+        <item>Hrajte na nástroj, kreslite, varte. Robte niečo rukami.</item>
+        <item>Kreativita mizne, keď si hlavu napcháte feedom.</item>
+        <item>Existuje vaše dielo, ktoré ešte nikto nevytvoril.</item>
+        <item>Začnite zle. Potom sa to zlepší.</item>
+        <item>Odsek denne sa zmení na knihu.</item>
+        <item>Máte príbeh, ktorý stojí za vyrozprávanie.</item>
+        <item>Tvorenie je protijed na prázdnotu.</item>
+        <item>Nuda je začiatok tvorivosti. Nechajte ju tak.</item>
+        <item>Hlava začne vymýšľať, keď ju prestanete napĺňať.</item>
+        <item>Ten zaplatený kurz na vás čaká.</item>
+        <item>Dnes sa ešte môžete naučiť niečo nové.</item>
+        <item>Konzumovať je ľahké. Preto to tak málo uspokojí.</item>
+        <item>Chcete niečo robiť. Začnite hneď.</item>
+        <item>Päť minút cvičenia prinesie viac ako hodina videa.</item>
+        <item>Ten recept, ktorý chcete vyskúšať.</item>
+        <item>Nápady prichádzajú v tichu, nie pri scrollovaní.</item>
+        <item>Môžete stáť na pódiu, nie v hľadisku.</item>
+        <item>Malý projekt zmení celý týždeň.</item>
+        <item>Napíšte si, čo by ste robili, keby ste mali čas. Máte ho.</item>
+        <item>Vaše ruky vedia veci vytvárať. Využite ich.</item>
+        <item>Urobte dnes niečo nedokonalé.</item>
+        <item>Učiť sa je príjemnejšie ako sa nechať baviť.</item>
+        <item>Čo vytvoríte, zostane. Čo prescrollujete, zmizne.</item>
+        <item>Ten nástroj opretý v kúte.</item>
+        <item>Čaká na vás nedokončený projekt.</item>
+        <item>Tvoriť je opak porovnávania sa.</item>
+        <item>Začnite v malom. Začnite dnes.</item>
+        <item>Strana denne znamená iný život.</item>
+        <item>Vaša fantázia potrebuje prázdny priestor.</item>
+        <item>Urobte niečo, čo vás zajtra naplní hrdosťou.</item>
+        <item>Uspokojenie z tvorby sa nedá ničím nahradiť.</item>
+        <item>Dokážete viac než len konzumovať.</item>
+        <item>Ten opustený koníček stále existuje.</item>
+        <item>Dvadsať minút cvičenia je dvadsať minút pokroku.</item>
+        <item>Scrollovaním feedu sa ešte nikto v ničom nezlepšil.</item>
+        <item>Vaša ďalšia zručnosť sa raz musí začať. Nech je to teraz.</item>
+        <item>Robte to, aj keď to nikto nevidí.</item>
+        <item>Je niečo, čo sa chcete naučiť. Začnite.</item>
+        <item>Konzumovať znamená pozerať sa na životy iných.</item>
+        <item>Máte ruky, hlavu a čas. Nič viac nepotrebujete.</item>
+        <item>Prvý koncept je vždy zlý. Napíšte ho aj tak.</item>
+        <item>Ten jazyk, ktorým ste chceli hovoriť.</item>
+        <item>Tvorbou sa nuda mení na radosť.</item>
+        <item>Trocha každý deň vybuduje akúkoľvek zručnosť.</item>
+        <item>Máte v sebe niečo, čo sa chce dostať von.</item>
+        <item>Napíšte niečo o svojom dni. Len pre seba.</item>
+        <item>Vaša tvorivosť čaká, kým vypnete hluk.</item>
+        <item>Urobte dnes niečo vlastnými rukami.</item>
+        <item>Radosť z dokončenej veci sa nedá s ničím porovnať.</item>
+        <item>Ten projekt, ktorý vás kedysi nadchol. Stále vás môže nadchnúť.</item>
+        <item>Aby ste mohli začať, nemusíte to vedieť dobre.</item>
+        <item>Uvarte niečo nové. Aj to je tvorba.</item>
+        <item>Život je zaujímavejší, keď niečo robíte.</item>
+        <item>Učený z neba nespadol. Každý začína neobratne.</item>
+        <item>Ten nápad, čo prišiel v noci. Zapíšte si ho.</item>
+        <item>To, čo viete, môže niekomu pomôcť.</item>
+        <item>Trochu dnes a trochu zajtra.</item>
+        <item>Najlepší čas začať už bol. Druhý najlepší je teraz.</item>
+        <item>Vaše dielo samo nevznikne.</item>
+        <item>Cvičiť je nuda, kým to nezačne ísť.</item>
+        <item>Chcete tvoriť. Feed chce, aby ste sa len pozerali.</item>
+        <item>Tá kresba, ktorú ste začali.</item>
+        <item>Robiť je najrýchlejší spôsob, ako sa učiť.</item>
+        <item>Máte svoj hlas. Použite ho na niečo.</item>
+        <item>Opraviť niečo doma je tiež tvorba.</item>
+        <item>Váš ďalší úspech sa začína v obyčajný deň, ako je dnešok.</item>
+        <item>Urobte niečo, čo by urobili len vy.</item>
+        <item>Feed je nekonečný. Vaše dielo má koniec, a preto na ňom záleží.</item>
+        <item>Dnes môžete niečo zasadiť. Doslova.</item>
+        <item>Tá tabuľka, ten plán, ten sen.</item>
+        <item>Tvorba dá prácu a práve preto stojí za to.</item>
+        <item>Vo vás je viac zaujímavého ako v akomkoľvek feede.</item>
+        <item>Učte sa dvadsať minút. Je to málo aj veľa zároveň.</item>
+        <item>Zvedavosť je najlepšia, keď sa zmení na prax.</item>
+        <item>Tá pieseň, ktorú ste sa chceli naučiť.</item>
+        <item>Urobte teraz niečo jednoduché a užitočné.</item>
+        <item>Máte svetu čo ponúknuť.</item>
+        <item>Začnite to, za čo si neskôr poďakujete.</item>
+        <item>Osobný projekt zmení váš vzťah k času.</item>
+        <item>Tvorenie je najlepší spôsob, ako zamestnať hlavu.</item>
+        <item>Dnes môžete niečo dokončiť.</item>
+        <item>Chyťte do rúk niečo skutočné.</item>
+        <item>Pocit, že ste to urobili, nič nenahradí.</item>
+        <item>Je v poriadku, že ste sa sem dostali. Teraz sa nadýchnite.</item>
+        <item>Nikto nič nepočíta. Len pokračujte ďalej.</item>
+        <item>Ide vám to dobre, aj keď to tak nevyzerá.</item>
+        <item>Bez náhlenia a bez nárokov. Len pauza.</item>
+        <item>Toto nie je test. Je to len jemná pripomienka.</item>
+        <item>Snažíte sa a to už stačí.</item>
+        <item>Všetko je v poriadku. Zatvorte to a pokračujte v dni.</item>
+        <item>Nejde tu o to, mať vždy všetko správne.</item>
+        <item>Dnes si zaslúžite ľahkosť.</item>
+        <item>Žiadna dráma. Len chvíľa na nadýchnutie.</item>
+        <item>Toto je pokojné miesto. Zostaňte tu chvíľu.</item>
+        <item>Robíte, čo sa dá. Aj to sa počíta.</item>
+        <item>Tu sa nič nevyžaduje. Je tu len starostlivosť.</item>
+        <item>Dýchajte. Nedeje sa nič zlé.</item>
+        <item>Dostali ste sa až sem a to je dobré.</item>
+        <item>Nikto vás nesúdi. Ani vy by ste nemali.</item>
+        <item>Všetko je, ako má byť. Len pokračujte.</item>
+        <item>Krok za krokom je to správne tempo.</item>
+        <item>Nemusí vám to ísť dokonale.</item>
+        <item>Aj pomaly je to cesta vpred.</item>
+        <item>Táto obrazovka od vás nič nežiada.</item>
+        <item>Správajte sa teraz k sebe láskavo.</item>
+        <item>Mať chuť je v poriadku. Patrí to k tomu.</item>
+        <item>Staráte sa o seba. To je krásne.</item>
+        <item>Bez poplachu, bez náhlenia, bez strachu.</item>
+        <item>Ste človek. To je dovolené.</item>
+        <item>Nikomu sa nemusíte vysvetľovať.</item>
+        <item>Zhlboka dýchajte. Už je to za vami.</item>
+        <item>Tu ste v bezpečí.</item>
+        <item>Nevadí, ak je dnes ťažko.</item>
+        <item>Žiadny deň nie je ako ten predošlý. Ani tento.</item>
+        <item>Ste na ceste, aj keď idete pomaly.</item>
+        <item>Dajte nárokom na seba chvíľu pokoj.</item>
+        <item>Všetko je fajn. Len krátky nádych.</item>
+        <item>Nemusí vám byť vždy dobre.</item>
+        <item>Láskavosť k sebe funguje lepšie ako prísnosť.</item>
+        <item>Táto chvíľa pokojne prejde.</item>
+        <item>Ťažkú časť ste už dnes urobili.</item>
+        <item>Nič naliehavé. Nič vážne. Len pauza.</item>
+        <item>Usmejte sa. Je to menšie, než sa zdá.</item>
+        <item>Snažíte sa, a na tom záleží.</item>
+        <item>Nikomu sa nezodpovedáte. Len choďte ďalej.</item>
+        <item>Je to v poriadku. Naozaj.</item>
+        <item>Zaslúžite si ľahký deň.</item>
+        <item>Nadýchnite sa. Svet sa točí ďalej.</item>
+        <item>Dnes sa nikam neponáhľajte.</item>
+        <item>Táto voľba vám prináša pokoj.</item>
+        <item>Začať odznova môžete toľkokrát, koľkokrát treba.</item>
+        <item>Toto je miesto bez nárokov.</item>
+        <item>Majte s procesom trpezlivosť.</item>
+        <item>V ničom nemeškáte.</item>
+        <item>Je v poriadku nebyť na sto percent.</item>
+        <item>Táto pauza je starostlivosť, nie náprava.</item>
+        <item>Teraz môžete jednoducho pokračovať.</item>
+        <item>Bez napätia. Len chvíľka.</item>
+        <item>Nevadí, ak to bolo automatické.</item>
+        <item>Na to, aby vám bolo dobre, nepotrebujete dôvod.</item>
+        <item>Nadýchnite sa a pokračujte. Také jednoduché to je.</item>
+        <item>Tu nie je žiadny problém.</item>
+        <item>Robíte to dobre.</item>
+        <item>Naozaj je to v poriadku. Choďte v pokoji.</item>
+        <item>Táto chvíľa je vaša, aby ste si oddýchli.</item>
+        <item>Toto neprežívate len vy. Je nás v tom veľa.</item>
+        <item>Je pokoj. Pustite sa do zvyšku dňa.</item>
+        <item>Žiadna ťarcha. Len pripomienka.</item>
+        <item>To, kým ste, už stačí.</item>
+        <item>Pokoj, ktorý hľadáte, vo feede nie je.</item>
+        <item>S vami je všetko v poriadku.</item>
+        <item>Dajte mysli na sekundu oddych.</item>
+        <item>Túto starostlivosť si zaslúžite.</item>
+        <item>Teraz nemusíte nič riešiť.</item>
+        <item>Raz sa nadýchnite. Potom pokračujte.</item>
+        <item>Ste v poriadku. Len toľko.</item>
+        <item>Bez nárokov, bez účtov, bez skóre.</item>
+        <item>Chvíľa pokoja uprostred dňa.</item>
+        <item>Teraz si môžete dopriať trochu láskavosti.</item>
+        <item>Všade je pokoj.</item>
+        <item>Nikam sa netreba ponáhľať.</item>
+        <item>Dnes ste urobili, čo sa dalo.</item>
+        <item>To je v poriadku. Zajtra sa pokračuje.</item>
+        <item>Tento okamih je len jeden nádych.</item>
+        <item>Ste v bezpečí a to stačí.</item>
+        <item>Tu nikto nikoho nesúdi.</item>
+        <item>Len sa nadýchnite a choďte žiť.</item>
+        <item>Dnes si zaslúžite pokoj.</item>
+        <item>Akékoľvek tempo je v poriadku.</item>
+        <item>Doprajte hlave trochu odpočinku.</item>
+        <item>Toto miesto je tu pre vás vždy.</item>
+        <item>Nič strašné. Len krátka zastávka.</item>
+        <item>Dnes život nie je preteky.</item>
+        <item>Nič vám nechýba a to stačí.</item>
+        <item>Je v poriadku, že ste to skúsili.</item>
+        <item>Nič tu nie je proti vám.</item>
+        <item>Nadýchnite sa a pokračujte pomaly.</item>
+        <item>Tak, ako ste, je to dobré.</item>
+        <item>Toto je chvíľa pokoja.</item>
+        <item>Žiadne nároky. Pokračujte s ľahkosťou.</item>
+        <item>Smiete si oddýchnuť.</item>
+        <item>Tu je všetko pokojné.</item>
+        <item>Pomaly. Deň počká.</item>
+        <item>Láskavosť k sebe je vaša sila.</item>
+        <item>Čo by ste teraz robili, keby táto aplikácia neexistovala?</item>
+        <item>Ste tu, lebo chcete, alebo zo zvyku?</item>
+        <item>Čo ste to vlastne hľadali?</item>
+        <item>Bude na tom záležať zajtra ráno?</item>
+        <item>Budete si pamätať, čo by ste teraz videli?</item>
+        <item>Čo ste robili, než ste siahli po telefóne?</item>
+        <item>Koľko času tomu dnes chcete dať?</item>
+        <item>Je to nuda, alebo únava?</item>
+        <item>Aké by mohlo byť vaše popoludnie namiesto toho?</item>
+        <item>Stojí to za to?</item>
+        <item>Otvorili ste to z nejakého konkrétneho dôvodu?</item>
+        <item>Čo by ste znova odložili, keby ste tam teraz vošli?</item>
+        <item>Kým chcete byť o rok?</item>
+        <item>Čo by vám teraz naozaj pomohlo?</item>
+        <item>Pred niečím utekáte?</item>
+        <item>Čo keby ste urobili tú vec, ktorú stále odkladáte?</item>
+        <item>Čo by sa stalo, keby ste to jednoducho zatvorili?</item>
+        <item>Máte niečo lepšie na práci. Čo to je?</item>
+        <item>Je to oddych, alebo útek?</item>
+        <item>O čo by vás poprosilo vaše zajtrajšie ja?</item>
+        <item>Je to hlad, ospalosť, alebo nuda?</item>
+        <item>Kedy vám bolo po feede naposledy lepšie?</item>
+        <item>Čo chcete cítiť na konci dňa?</item>
+        <item>Čo vám teraz chýba?</item>
+        <item>Potrebujete to, alebo to len chcete?</item>
+        <item>Aká maličkosť by vám teraz zlepšila deň?</item>
+        <item>Čo by ste robili s dvoma voľnými hodinami?</item>
+        <item>Už tušíte, čo by ste mali robiť?</item>
+        <item>Koľko vás tých pätnásť minút naozaj stojí?</item>
+        <item>Chcete to, alebo sa len ruka pohla sama?</item>
+        <item>Čo by teraz stálo za to viac?</item>
+        <item>Je u vás všetko v poriadku?</item>
+        <item>Keď sa upokojíte, aká voľba je teraz najlepšia?</item>
+        <item>Bude toto polhodina, na ktorú budete s radosťou spomínať?</item>
+        <item>Čo by ste robili, keby to nikto nevidel?</item>
+        <item>Je niekto, komu by ste teraz mohli zavolať?</item>
+        <item>Čomu sa vaša hlava snaží vyhnúť?</item>
+        <item>Stojí to za vaše popoludnie?</item>
+        <item>Máte plán na dnešok. Je v ňom aj toto?</item>
+        <item>Čo by bolo teraz najzábavnejšie urobiť?</item>
+        <item>Je vám dobre? Úprimne.</item>
+        <item>Vďaka čomu by tento týždeň stál za to?</item>
+        <item>Je to to, čo chcete, alebo to, čo robíte zo zvyku?</item>
+        <item>Už ste premýšľali, čo chcete robiť zajtra?</item>
+        <item>Koľkokrát ste dnes už vzali telefón do ruky?</item>
+        <item>Z čoho by ste mali o hodinu radosť?</item>
+        <item>Naozaj tam chcete ísť, alebo to prst urobil sám od seba?</item>
+        <item>Akú dôležitú vec odkladáte na potom?</item>
+        <item>Čo by na to povedalo vaše ja spred desiatich rokov?</item>
+        <item>Naozaj teraz oddychujete?</item>
+        <item>Je niečo, čo by ste urobili, keby ste mali odvahu?</item>
+        <item>Čo by ste chceli mať dnes večer za sebou?</item>
+        <item>Stojí to viac ako rozhovor?</item>
+        <item>Na čo máte dnes čas?</item>
+        <item>Aký zvyk chcete mať o pol roka?</item>
+        <item>Čo si naozaj žiada vašu pozornosť?</item>
+        <item>Chcete si toto popoludnie pamätať, alebo ho zabudnúť?</item>
+        <item>Ako by sa dala táto chvíľa dobre využiť?</item>
+        <item>Ste tu, aby ste niečo videli, alebo aby ste niečo necítili?</item>
+        <item>Čo by vám dnes pomohlo dobre spať?</item>
+        <item>Pridá to vášmu dňu, alebo mu to uberie?</item>
+        <item>Naozaj chcete vedieť, čo tam je?</item>
+        <item>Čo dobré ste naposledy urobili bez obrazovky?</item>
+        <item>Čo by ste robili celé popoludnie bez internetu?</item>
+        <item>Kam sa tak ponáhľate?</item>
+        <item>Aký malý krok by ste teraz mohli urobiť?</item>
+        <item>Čo potrebuje vašu pozornosť viac ako toto?</item>
+        <item>Nadýchli ste sa dnes už zhlboka?</item>
+        <item>Aký máte plán na najbližšiu hodinu?</item>
+        <item>Približuje vás to k niečomu, čo chcete?</item>
+        <item>Robili by ste to pred niekým, koho obdivujete?</item>
+        <item>Čo dobré sa vám dnes stalo?</item>
+        <item>Koľko z vášho dňa už zhltli obrazovky?</item>
+        <item>Nečaká na vás niekde odložený nápad?</item>
+        <item>Čo chcete urobiť s týmto týždňom?</item>
+        <item>Oplatí sa vymeniť ticho za hluk?</item>
+        <item>Dnes tvoríte, alebo konzumujete?</item>
+        <item>Aká jednoduchá vec by vám teraz urobila dobre?</item>
+        <item>Čo by ste v takejto situácii povedali priateľovi?</item>
+        <item>Máte päť minút. Na čo ich použijete?</item>
+        <item>Čo vás v skutočnosti trápi?</item>
+        <item>Je toto to najlepšie, čo teraz môžete urobiť?</item>
+        <item>Riadite túto chvíľu vy, alebo ona vás?</item>
+        <item>Aké rozhodnutie by vás naplnilo hrdosťou?</item>
+        <item>Čo chcete mať hotové, keď sa deň skončí?</item>
+        <item>Pamätáte si, prečo ste si to nainštalovali?</item>
+        <item>Čo tak to odložiť a pozrieť sa, či to budete chcieť aj potom?</item>
+        <item>Čo by ste dnes urobili s trochou viac odvahy?</item>
+        <item>Chcete rýchlu, alebo dobrú verziu svojho dňa?</item>
+        <item>Čo dnes môžete urobiť len vy?</item>
+        <item>Čo na vás čaká vonku?</item>
+        <item>Poďakovali ste dnes už za niečo?</item>
+        <item>Akú cenu má pre vás najbližšia polhodina?</item>
+        <item>Čo si chcete odniesť z tohto týždňa?</item>
+        <item>Je to naliehavé, alebo sa to len zdá?</item>
+        <item>Robíte to, čo chcete robiť?</item>
+        <item>Aký by bol dobrý koniec tohto dňa?</item>
+        <item>Čo by ste robili s plnou energiou?</item>
+        <item>Chcete teraz scrollovať, alebo žiť?</item>
+        <item>Čo tak to jednoducho zavrieť a uvidieť, čo sa stane?</item>
+    </string-array>
+</resources>

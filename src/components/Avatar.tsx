@@ -1,5 +1,7 @@
 import { StyleSheet, Text, View } from 'react-native';
 
+import type { Textos } from '@/i18n/catalogo';
+import { useTextos } from '@/i18n/IdiomaContext';
 import { radius } from '@/theme/tokens';
 import { useTheme } from '@/theme/useTheme';
 
@@ -15,7 +17,8 @@ type Props = {
  */
 export function Avatar({ nome, size = 64 }: Props) {
   const theme = useTheme();
-  const iniciais = extrairIniciais(nome);
+  const t = useTextos();
+  const iniciais = extrairIniciais(nome, t);
 
   return (
     <View
@@ -39,17 +42,17 @@ export function Avatar({ nome, size = 64 }: Props) {
 }
 
 /** Primeira letra do primeiro e do ultimo nome; uma so quando ha um nome so. */
-export function extrairIniciais(nome: string | null): string {
+export function extrairIniciais(nome: string | null, t: Textos): string {
   const partes = (nome ?? '').trim().split(/\s+/).filter(Boolean);
   if (partes.length === 0) {
     return '?';
   }
   if (partes.length === 1) {
-    return partes[0].charAt(0).toLocaleUpperCase('pt-BR');
+    return partes[0].charAt(0).toLocaleUpperCase(t.idioma);
   }
   const primeira = partes[0].charAt(0);
   const ultima = partes[partes.length - 1].charAt(0);
-  return `${primeira}${ultima}`.toLocaleUpperCase('pt-BR');
+  return `${primeira}${ultima}`.toLocaleUpperCase(t.idioma);
 }
 
 const styles = StyleSheet.create({

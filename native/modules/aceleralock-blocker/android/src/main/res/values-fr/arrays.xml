@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Français: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>Le temps que tu ne passes pas ici revient tout entier dans ta vie.</item>
+        <item>Chaque minute loin de cet écran redevient une minute à toi.</item>
+        <item>Ces vingt minutes tiennent dans une balade.</item>
+        <item>La journée a plus de place qu’il n’y paraît quand le défilement s’arrête.</item>
+        <item>Tu viens de récupérer un morceau de ton après-midi.</item>
+        <item>Une heure par jour, c’est quinze jours par an.</item>
+        <item>Le temps ne revient pas, mais tu peux encore choisir où il va.</item>
+        <item>Ce moment est à toi. Personne n’a besoin de savoir ce que tu en fais.</item>
+        <item>Toute une vie se déroule en dehors de l’appli.</item>
+        <item>L’horloge tourne pareil des deux côtés de cet écran.</item>
+        <item>Tu viens de gagner du temps. Mets-le dans quelque chose dont tu te souviendras demain.</item>
+        <item>Personne ne finit sa journée en regrettant de ne pas avoir fait défiler plus longtemps.</item>
+        <item>Quinze minutes ici, ce sont quinze minutes n’importe où ailleurs.</item>
+        <item>Pense à ce que tu aurais fait de cette demi-heure il y a dix ans.</item>
+        <item>Ton temps est la seule chose que tu ne peux pas racheter.</item>
+        <item>Tout l’après-midi s’ouvre encore devant toi.</item>
+        <item>Cette minute peut être le début d’autre chose.</item>
+        <item>Tu te redonnes des heures, une à la fois.</item>
+        <item>Le temps gagné ici ne disparaît pas. Il réapparaît ailleurs.</item>
+        <item>Dix minutes, ça semble peu, jusqu’à ce que tu fasses le total d’un mois.</item>
+        <item>La vie avance à vitesse normale, pas à celle du fil.</item>
+        <item>Tu as plus de temps aujourd’hui qu’hier à la même heure.</item>
+        <item>Ce que tu repousses depuis un moment tient pile dans ce créneau.</item>
+        <item>Cette pause est courte. Ce que tu en fais peut compter longtemps.</item>
+        <item>Une journée peut contenir beaucoup quand le défilement ne prend plus toute la place.</item>
+        <item>Tu viens de récupérer le reste de ta soirée.</item>
+        <item>Le temps est la monnaie. Tu viens de décider de ne pas le dépenser.</item>
+        <item>Le fil ne finit jamais. Ta journée, si.</item>
+        <item>Une demi-heure par jour, c’est un livre entier par mois.</item>
+        <item>Rien d’urgent ne t’attendait là-dedans.</item>
+        <item>Ce temps était déjà à toi. Le voilà de retour avec toi.</item>
+        <item>Ta matinée peut encore être bien remplie si elle commence maintenant.</item>
+        <item>Tu n’as rien perdu. Tu as gagné un répit.</item>
+        <item>Personne ne nous rend du temps. C’est à nous de le garder.</item>
+        <item>Ces minutes valent plus ailleurs, et tu le sais déjà.</item>
+        <item>Ce qui était là y est toujours. Ton temps, lui, ne reste pas.</item>
+        <item>Une vie est faite d’après-midi comme celui-ci.</item>
+        <item>Tu peux finir la journée avec quelque chose de fait plutôt que de vu.</item>
+        <item>Deux heures par jour, c’est un mois entier par an.</item>
+        <item>Le temps que tu protèges aujourd’hui, c’est celui qui te reste demain.</item>
+        <item>C’est le moment de la journée où c’est toi qui décides.</item>
+        <item>Rien de ce qui est écrit là-dedans ne vaut ton après-midi.</item>
+        <item>Trente minutes par jour permettent de bâtir n’importe quoi en un an.</item>
+        <item>Tu viens de t’offrir un morceau de silence.</item>
+        <item>La journée s’allonge quand le fil raccourcit.</item>
+        <item>Ce temps est maintenant une matière première. Fais-en quelque chose.</item>
+        <item>Un de tes projets attend justement ce créneau.</item>
+        <item>Ce que tu gagnes ici ne s’affiche sur aucun écran, seulement dans ta vie.</item>
+        <item>Le temps libre est rare. Tu viens d’en créer.</item>
+        <item>Personne, en fin de vie, n’a réclamé un défilement de plus.</item>
+        <item>Tu as tout l’après-midi, et il n’est pas encore entamé.</item>
+        <item>Une année, c’est trois cent soixante-cinq choix comme celui-ci.</item>
+        <item>Ce moment est petit, mais il est entièrement à toi.</item>
+        <item>Le temps passe de la même façon. La différence, c’est ce qui reste après.</item>
+        <item>Tu viens de sortir une demi-heure du pilote automatique.</item>
+        <item>Le reste de ta journée te remercie pour cet arrêt.</item>
+        <item>Cinq minutes là-dedans en deviennent quarante sans qu’on s’en rende compte.</item>
+        <item>Tu connais le prix de ces cinq minutes. C’est pour ça que tu es là.</item>
+        <item>L’heure que tu protèges maintenant, c’est celle que tu cherches le soir.</item>
+        <item>Rien là-dedans ne sera meilleur parce que tu le vois maintenant plutôt que plus tard.</item>
+        <item>Tu viens de choisir où ira la prochaine minute.</item>
+        <item>Ce temps tient dans une conversation, une balade, une sieste.</item>
+        <item>La journée porte ses fruits quand les heures cessent de filer.</item>
+        <item>La prochaine demi-heure n’appartient qu’à toi.</item>
+        <item>Il existe une version de cette journée où tu as fait quelque chose. Elle commence maintenant.</item>
+        <item>Le temps ne s’accumule pas. Il se dépense juste plus ou moins bien.</item>
+        <item>Ces minutes peuvent devenir un vrai repos.</item>
+        <item>Tu viens de descendre d’un tapis roulant qui ne mène nulle part.</item>
+        <item>Une semaine compte cent soixante-huit heures. Celle-ci est à toi.</item>
+        <item>Le fil prend ton temps par petits bouts pour qu’on ne remarque rien.</item>
+        <item>C’est le moment de faire ce que tu remets au lendemain chaque jour.</item>
+        <item>Ton après-midi n’a pas besoin de tenir dans un écran.</item>
+        <item>Le temps qui reste, c’est ce qui rend la journée longue, dans le bon sens.</item>
+        <item>Tu viens de te rendre la prochaine heure.</item>
+        <item>Rien de ce que tu verrais maintenant ne te resterait en tête dans une semaine.</item>
+        <item>C’est le genre de minute qui construit ou défait une année.</item>
+        <item>Tu as gagné du temps. Rien ne presse pour le dépenser.</item>
+        <item>Une journée sans défilement, c’est une journée qui peut contenir davantage.</item>
+        <item>L’horloge ne fait pas la différence entre le temps bien utilisé et le temps gaspillé. Toi, si.</item>
+        <item>Cette heure vaut autant que n’importe quelle autre de ta vie.</item>
+        <item>Tu as du temps, là. C’est plus rare qu’il n’y paraît.</item>
+        <item>Garder du temps, c’est la seule façon d’en avoir.</item>
+        <item>Toute la soirée est encore devant toi.</item>
+        <item>Ces minutes sont le début d’un après-midi dont tu te souviendras.</item>
+        <item>Tu viens d’éviter ce trou d’une heure.</item>
+        <item>Tout ce qui demande du temps demande exactement ce genre de décision.</item>
+        <item>D’ici ce soir, tu as encore le temps de faire plein de choses.</item>
+        <item>Tu as levé le pied. La journée ralentit avec toi.</item>
+        <item>Ta semaine a de la place. Elle était juste prise par autre chose.</item>
+        <item>Chaque fois que tu fermes ici, la journée grandit un peu.</item>
+        <item>Le temps est le cadeau que tu te fais sans rien dépenser.</item>
+        <item>Tu as maintenant ce dont tu dis manquer toute la journée.</item>
+        <item>Un long après-midi est fait de petites décisions comme celle-ci.</item>
+        <item>Personne ne te demandera ce que tu as fait de cette demi-heure.</item>
+        <item>Le temps que tu ne cèdes pas aujourd’hui sera encore à toi demain.</item>
+        <item>Vingt minutes par jour, ça fait cent vingt heures par an.</item>
+        <item>Tu viens de récupérer ce moment d’avant le coucher.</item>
+        <item>Il y a beaucoup de vie entre deux notifications.</item>
+        <item>Ta journée reste entière si tu ne la donnes pas en morceaux.</item>
+        <item>Jusqu’ici, tu as su protéger ton temps. Ce moment en fait partie.</item>
+        <item>Ton attention est la ressource la plus convoitée au monde. Tu viens de gagner.</item>
+        <item>La concentration met vingt minutes à revenir. Ne la lâche pas maintenant.</item>
+        <item>Un esprit entier vaut mieux qu’un esprit en miettes.</item>
+        <item>Tu te concentrais sur quelque chose avant de venir ici.</item>
+        <item>Une attention éparpillée n’est pas de l’attention. C’est juste de la fatigue.</item>
+        <item>Ce que tu faisais mérite toute ta présence.</item>
+        <item>Réfléchir en profondeur demande du temps sans interruption. Le voici.</item>
+        <item>Chaque changement d’écran coûte plus que ce qu’affiche l’horloge.</item>
+        <item>Ton esprit était bien parti. Laisse-le continuer.</item>
+        <item>Le travail de fond ne survit pas à une séance de défilement.</item>
+        <item>Le fil a été conçu pour capter ton attention. Tu l’as remarqué.</item>
+        <item>Une longue réflexion a besoin de silence pour aboutir.</item>
+        <item>Tu peux garder une idée entière en tête. Il suffit de lui laisser de la place.</item>
+        <item>La distraction n’est pas du repos. Le repos, lui, repose.</item>
+        <item>La concentration que tu avais est encore là. Retourne vers elle.</item>
+        <item>Ton attention n’est pas à vendre aujourd’hui.</item>
+        <item>Le meilleur de ton esprit arrive après la vingtième minute.</item>
+        <item>T’interrompre maintenant coûte plus cher que tu ne crois.</item>
+        <item>Tu es capable de choses qui demandent de la concentration. Commence par la protéger.</item>
+        <item>Rien là-dedans n’a besoin de ton attention en urgence.</item>
+        <item>Une heure de concentration rapporte plus que quatre heures hachées.</item>
+        <item>Ton esprit marche mieux quand il ne saute pas d’un sujet à l’autre.</item>
+        <item>Ce qui est resté à moitié fait peut encore être fini aujourd’hui.</item>
+        <item>La concentration, ce n’est pas de la volonté. C’est un environnement. Tu viens d’arranger le tien.</item>
+        <item>Ce problème difficile finit par céder quand tu restes dessus.</item>
+        <item>Ton attention est limitée. C’est pour ça qu’elle vaut autant.</item>
+        <item>Tu n’as pas besoin de tout savoir maintenant.</item>
+        <item>Le bruit sera toujours là. C’est ton silence qui est rare.</item>
+        <item>De grandes choses ont été faites par des gens qu’on n’a pas interrompus.</item>
+        <item>Reviens à ce que tu faisais. Ton esprit y est encore.</item>
+        <item>Une tâche à la fois, ça va plus vite qu’on ne le pense.</item>
+        <item>L’envie de regarder passe. L’idée interrompue, parfois, ne revient pas.</item>
+        <item>Ta capacité de concentration est plus grande que ce que tu en utilises ces temps-ci.</item>
+        <item>Bien réfléchir, c’est lent. Accepte cette lenteur.</item>
+        <item>Ton attention a construit quelque chose aujourd’hui. Ne le démonte pas par curiosité.</item>
+        <item>Ce qui demande de la réflexion demande toute ta tête.</item>
+        <item>Aucun fil ne t’apprendra ce qu’une heure de concentration t’apprend.</item>
+        <item>Chaque notification ignorée, c’est un peu plus de clarté.</item>
+        <item>Tu étais près de comprendre. Retournes-y.</item>
+        <item>Un esprit reposé, c’est un esprit qu’on n’a pas tiraillé toute la journée.</item>
+        <item>Ton attention est la matière avec laquelle tu construis tout le reste.</item>
+        <item>Le plus dur, c’est de commencer. C’est fait. Ne repars pas de zéro.</item>
+        <item>Laisse le sujet tranquille, et il se résoudra tout seul dans ta tête.</item>
+        <item>La clarté arrive quand le bruit s’arrête.</item>
+        <item>Ton meilleur travail de la journée est encore à venir.</item>
+        <item>Ce n’est pas le temps qui manque. C’est le temps d’un seul tenant.</item>
+        <item>Tu penses mieux que ce que le fil te laisse penser.</item>
+        <item>Ce texte, ce code, cette conversation. Ils attendent toute ton attention.</item>
+        <item>La concentration est un muscle. Elle se renforce avec des journées comme celle-ci.</item>
+        <item>Ta tête vient de te dire merci.</item>
+        <item>Une chose à la fois reste la technique la plus avancée qui soit.</item>
+        <item>Ce que tu fais avec attention reste. Le reste passe.</item>
+        <item>Il n’y a pas de raccourci pour réfléchir. Juste du temps sans interruption.</item>
+        <item>Tu mérites d’aller au bout d’une pensée.</item>
+        <item>Ton esprit était affûté. Garde ce tranchant.</item>
+        <item>L’écran clignote. Les idées, non. Reste avec les idées.</item>
+        <item>Une journée concentrée en vaut trois passées à courir.</item>
+        <item>Le problème n’est pas ta lenteur. C’étaient les interruptions.</item>
+        <item>Ce qui compte aujourd’hui n’est pas dans le fil.</item>
+        <item>Garder le cap coûte moins cher que de le retrouver.</item>
+        <item>Ton attention entière est un cadeau. Offre-la à qui la mérite.</item>
+        <item>C’est dans le silence que naissent les bonnes idées.</item>
+        <item>Tu étais au milieu de quelque chose de bien.</item>
+        <item>Personne ne pense bien avec la tête à dix endroits.</item>
+        <item>La profondeur ne vient qu’après un moment passé en surface.</item>
+        <item>La concentration, ce n’est pas faire plus. C’est faire bien.</item>
+        <item>Tu as une chose importante aujourd’hui. Et ce n’est pas le fil.</item>
+        <item>Laisse ta tête finir la phrase qu’elle a commencée.</item>
+        <item>Une heure sans interruption change ce qui est possible dans une journée.</item>
+        <item>Ce qui paraît difficile maintenant devient simple avec une attention continue.</item>
+        <item>Ta concentration est ton atout. Peu de gens ont encore la leur.</item>
+        <item>N’échange pas une chose importante contre plein de petites choses rapides.</item>
+        <item>La curiosité peut attendre. La concentration, elle, n’attend pas.</item>
+        <item>Tu es en train de construire quelque chose. Continue.</item>
+        <item>Changer de tâche a l’air productif, et ça ne l’est presque jamais.</item>
+        <item>La meilleure façon d’utiliser ta tête aujourd’hui est encore disponible.</item>
+        <item>L’attention que tu gardes maintenant se verra dans le résultat.</item>
+        <item>Ton esprit n’est pas un fil. Il garde ce à quoi tu prêtes attention.</item>
+        <item>Un sujet qui mérite toute ton attention, c’est rare. Profites-en.</item>
+        <item>Difficile ne veut pas dire impossible. Juste long.</item>
+        <item>Il ne te manque que quelques minutes pour y arriver.</item>
+        <item>Le bruit disparaît quand tu arrêtes de le nourrir.</item>
+        <item>Reste sur ce que tu faisais jusqu’au bout.</item>
+        <item>Une plongée profonde vaut dix plongées en surface.</item>
+        <item>Ton attention décide de ce qui devient souvenir.</item>
+        <item>Tu te souviens de ce à quoi tu as prêté attention. Seulement de ça.</item>
+        <item>Réfléchir est la chose la plus rentable que tu feras aujourd’hui.</item>
+        <item>Un esprit sans hâte résout ce qu’un esprit pressé ne voit pas.</item>
+        <item>Le bon travail demande de la patience, pas de la vitesse.</item>
+        <item>Rien de ce que tu verrais là ne ferait un sujet de conversation demain.</item>
+        <item>Ta clarté d’esprit aujourd’hui a commencé par des décisions comme celle-ci.</item>
+        <item>L’interruption est l’impôt le plus cher qui existe.</item>
+        <item>Tu peux rester sur une seule chose plus longtemps que tu ne l’imagines.</item>
+        <item>Le détail qui t’échappait apparaît dans le silence.</item>
+        <item>La concentration revient. Il lui faut juste quelques minutes sans écran.</item>
+        <item>Tu es capable d’une attention longue. C’est le fil qui parie le contraire.</item>
+        <item>Finir une chose aujourd’hui vaut mieux qu’en commencer cinq.</item>
+        <item>Ta pleine attention est rare, même pour toi.</item>
+        <item>Laisse ta pensée respirer.</item>
+        <item>Ce que tu construis avec concentration, personne ne le fait défiler.</item>
+        <item>L’envie d’ouvrir passe en quelques minutes. Elle passe toujours.</item>
+        <item>Cette impulsion a une date d’expiration. Elle s’éteint toute seule.</item>
+        <item>Tu n’as rien à faire. Juste attendre que la vague retombe.</item>
+        <item>L’urgence que tu ressens n’est pas la tienne. On te l’a apprise.</item>
+        <item>Respire une fois. L’envie est déjà plus faible qu’il y a une minute.</item>
+        <item>L’impulsion est forte au début et disparaît en chemin.</item>
+        <item>Ce n’est pas toi qui veux. C’est l’habitude qui réclame.</item>
+        <item>C’est inconfortable un petit moment. Puis ça passe.</item>
+        <item>Tu as déjà ressenti ça, et chaque fois, ça a fini par passer.</item>
+        <item>L’envie vient par vagues. Les vagues se brisent.</item>
+        <item>Rien ne t’oblige à obéir à la première impulsion de la journée.</item>
+        <item>Ce serrement dans la poitrine dure moins longtemps qu’une chanson.</item>
+        <item>Une impulsion de trente secondes ne fait pas le poids face à toi.</item>
+        <item>Laisse l’envie passer sans rien en faire.</item>
+        <item>Cet inconfort, c’est l’habitude qui lâche prise. C’est un progrès.</item>
+        <item>Tu ne résistes pas. Tu attends, tout simplement.</item>
+        <item>L’envie arrive fort et repart en silence.</item>
+        <item>Compte jusqu’à vingt. Elle aura déjà diminué.</item>
+        <item>Avoir envie, ce n’est pas la même chose qu’avoir besoin.</item>
+        <item>L’impulsion veut une réponse immédiate. N’en donne aucune.</item>
+        <item>C’est le moment le plus difficile, et il est court.</item>
+        <item>Tu n’as pas besoin de lutter. Juste de ne pas décider maintenant.</item>
+        <item>L’envie disparaît quand personne ne la nourrit.</item>
+        <item>C’est de l’anxiété, pas une faim de contenu.</item>
+        <item>Observe l’envie sans y entrer.</item>
+        <item>Ton cerveau commande la même chose que d’habitude. Personne ne t’oblige à servir.</item>
+        <item>Dans cinq minutes, tu ne te souviendras même plus d’avoir voulu ouvrir.</item>
+        <item>La vague monte maintenant. Elle redescend toujours.</item>
+        <item>Tu as déjà passé le plus dur.</item>
+        <item>L’impulsion ment sur sa propre force.</item>
+        <item>Lève-toi, bois de l’eau, reviens. Elle sera déjà partie.</item>
+        <item>Une envie n’est pas un ordre.</item>
+        <item>Tu peux ressentir ça et ne rien faire. C’est permis.</item>
+        <item>Ton corps demande du mouvement, pas un écran.</item>
+        <item>Ce désir est automatique. Ta réponse n’a pas à l’être.</item>
+        <item>Rien de grave n’arrive si tu attends encore un peu.</item>
+        <item>L’envie s’en va toute seule si tu lui laisses de la place.</item>
+        <item>C’est juste de l’anxiété. Ça passe, et ça ne demande pas d’écran.</item>
+        <item>L’impulsion est une suggestion. C’est toi qui décides.</item>
+        <item>Encore une minute, et l’envie sera déjà autre chose.</item>
+        <item>Le plus dur dure peu. Le meilleur dure toute la journée.</item>
+        <item>C’est la fameuse petite poussée. Elle ne pousse pas si fort que ça.</item>
+        <item>Attends sans te juger. L’envie se dissipe d’elle-même.</item>
+        <item>Ton cerveau réclame le raccourci habituel.</item>
+        <item>Tu n’as rien à vaincre. Juste à laisser passer.</item>
+        <item>Chaque vague que tu laisses passer rend la suivante plus petite.</item>
+        <item>L’anxiété veut une solution rapide. Elle ne la trouvera pas ici.</item>
+        <item>Reste immobile un instant. L’impulsion, elle, ne reste pas.</item>
+        <item>Tu ne perds rien à attendre.</item>
+        <item>L’ennui n’est pas une urgence.</item>
+        <item>Ressentir un vide maintenant, c’est normal. Il se comble tout seul.</item>
+        <item>L’envie de vérifier quelque chose concerne rarement la chose en question.</item>
+        <item>Tu es mal à l’aise, pas en danger.</item>
+        <item>Ça va se relâcher dans un instant.</item>
+        <item>L’habitude est forte, mais elle est brève.</item>
+        <item>Laisse passer celle-ci. Juste celle-ci.</item>
+        <item>La prochaine fois sera plus facile grâce à celle-ci.</item>
+        <item>Tu n’as pas à te convaincre de quoi que ce soit. Juste à attendre.</item>
+        <item>Un verre d’eau fait plus de bien que de faire défiler le fil.</item>
+        <item>Cette urgence est fausse, et tu le sais déjà.</item>
+        <item>L’impulsion ne supporte pas de rester sans réponse.</item>
+        <item>Attends trente secondes. Puis décide à nouveau.</item>
+        <item>Tu es au sommet de la vague. À partir de maintenant, ça redescend.</item>
+        <item>Rien n’exige de réaction de ta part maintenant.</item>
+        <item>L’envie est une visiteuse. Elle repart.</item>
+        <item>Tu n’es pas l’impulsion. Tu es la personne qui l’observe.</item>
+        <item>Ton corps se détend si tu lui laisses une minute.</item>
+        <item>C’est juste ton cerveau qui cherche une stimulation. Il en trouvera une autre.</item>
+        <item>Trois grandes respirations changent l’intensité de tout ça.</item>
+        <item>L’envie rétrécit quand tu la regardes en face.</item>
+        <item>Tu peux tenir cette minute. Tu en as tenu de pires.</item>
+        <item>La gêne passe même si tu ne fais rien.</item>
+        <item>Ta main a été plus rapide que ta tête. Ça arrive.</item>
+        <item>Aucune décision n’a besoin d’être prise dans les dix premières secondes.</item>
+        <item>Dans quelques instants, tu n’y penseras même plus.</item>
+        <item>Le déclencheur s’est activé. La réponse t’appartient toujours.</item>
+        <item>Laisse l’envie exister sans lui obéir.</item>
+        <item>Ce n’est pas un besoin. C’est juste une habitude.</item>
+        <item>Attends. C’est littéralement tout ce que tu as à faire.</item>
+        <item>Ta tête se calme toute seule si tu ne remets pas de bois dans le feu.</item>
+        <item>Tu es déjà en train d’attendre. C’est déjà ça, la victoire.</item>
+        <item>L’impulsion perd sa force quand elle trouve porte close.</item>
+        <item>Chaque seconde ici est une seconde d’avance.</item>
+        <item>La vague s’est brisée. Remarque comme c’est déjà plus léger.</item>
+        <item>Tu n’as pas besoin d’une raison pour ne pas ouvrir.</item>
+        <item>Le désir passe plus vite que le regret.</item>
+        <item>Un étirement règle ce que le fil ne réglerait pas.</item>
+        <item>L’envie est en train de partir pendant que tu lis ces mots.</item>
+        <item>Ne décide rien maintenant. Respire, simplement.</item>
+        <item>L’impulsion vient toute seule et repart toute seule.</item>
+        <item>Ici, c’est le plus difficile. Et c’est rapide.</item>
+        <item>Tu as tenu jusqu’ici. Il ne reste que quelques secondes.</item>
+        <item>Ton corps réclame un écran quand il veut du repos. Donne-lui du repos.</item>
+        <item>L’envie diminue chaque fois qu’on ne la satisfait pas.</item>
+        <item>Attends encore un peu. C’est tout.</item>
+        <item>Le moment passe. Le choix reste.</item>
+        <item>Tu viens de franchir le passage étroit.</item>
+        <item>Avoir envie, c’est humain. Ne pas obéir aussi.</item>
+        <item>Le calme revient vite si tu ne forces pas.</item>
+        <item>Tu sens que c’est déjà plus léger.</item>
+        <item>Tu as pris cette décision à tête reposée. Fais confiance à la personne qui l’a prise.</item>
+        <item>Le toi d’hier a pris soin du toi d’aujourd’hui.</item>
+        <item>Cet écran est un message de toi à toi.</item>
+        <item>Ce n’est pas une interdiction. C’est un rappel.</item>
+        <item>La personne que tu veux être ne passe pas l’après-midi à faire défiler.</item>
+        <item>Ce choix était le tien. Il l’est toujours.</item>
+        <item>Tu es le genre de personne qui a remarqué et qui a agi.</item>
+        <item>Tu as installé ça de toi-même. Parce que tu le voulais.</item>
+        <item>Le toi de demain te remerciera pour ce que tu fais maintenant.</item>
+        <item>Tu es déjà quelqu’un qui protège son temps.</item>
+        <item>Ce n’est pas une punition. C’est un pacte avec toi.</item>
+        <item>C’est toi qui as écrit cette règle. Elle fonctionne.</item>
+        <item>Garder la main sur ton attention, c’est un choix de chaque jour.</item>
+        <item>Tu n’as rien à prouver à personne ici.</item>
+        <item>La personne que tu veux être commence par de petites décisions.</item>
+        <item>Tu es du bon côté de cet écran.</item>
+        <item>Chaque fois que tu fermes ici, tu deviens un peu plus qui tu veux être.</item>
+        <item>Tu n’es pas tes envies. Tu es ce que tu fais.</item>
+        <item>Une promesse faite à toi-même vaut autant que n’importe quelle autre.</item>
+        <item>Tu as repéré un schéma et tu l’as changé. C’est rare.</item>
+        <item>Tu comptes plus que les applis dans ta poche.</item>
+        <item>C’est ta règle, et elle est de ton côté.</item>
+        <item>Tu as le droit de changer d’habitude.</item>
+        <item>Ce que tu fais encore et encore, c’est ce que tu es.</item>
+        <item>Tu as choisi une vie avec plus d’espace.</item>
+        <item>Ce n’est pas l’appli qui décide pour toi.</item>
+        <item>Ton identité ne tient pas dans un fil.</item>
+        <item>Tu es la personne qui a installé ça pour une raison.</item>
+        <item>Souviens-toi de la raison. Elle tient toujours.</item>
+        <item>Tu respectes une décision que tu as prise.</item>
+        <item>Personne ne décide de ton attention à ta place.</item>
+        <item>Tu as vu ce qui se passait. Ça change déjà tout.</item>
+        <item>Mener ta propre journée, c’est un travail de chaque instant.</item>
+        <item>Tu n’es pas sur le siège passager. C’est toi qui conduis.</item>
+        <item>C’est le choix de quelqu’un qui se respecte.</item>
+        <item>Tu es responsable de toi. Et tu l’assumes.</item>
+        <item>Ton temps a un propriétaire. C’est la personne qui lit ces lignes.</item>
+        <item>Tu t’es fait une promesse. Tiens-la.</item>
+        <item>Chacune de ces décisions te rapproche de qui tu veux être.</item>
+        <item>Tu ne perds pas ta liberté. Tu l’exerces.</item>
+        <item>C’est toi qui décides quoi faire maintenant.</item>
+        <item>Tu n’as besoin d’aucune permission pour vivre autrement.</item>
+        <item>Cette limite est une façon de prendre soin de toi, pas une cage.</item>
+        <item>Tu as choisi un chemin plus difficile, et plus à toi.</item>
+        <item>La personne que tu admires dirait non, elle aussi.</item>
+        <item>Tu habites ta vie, pas l’appli.</item>
+        <item>C’est ton temps, ta tête, ton choix.</item>
+        <item>Tu tiens parole envers toi-même. Ça compte.</item>
+        <item>Personne ne prendra soin de ton attention à ta place.</item>
+        <item>Tu as déjà prouvé que tu peux changer de cap.</item>
+        <item>L’autonomie, c’est ça. Décider avant, pas sur le coup.</item>
+        <item>Tu es en train de devenir quelqu’un que tu respectes.</item>
+        <item>C’est la version de toi qui anticipe.</item>
+        <item>Tu n’es pas là par hasard. C’est toi qui as mis ça en place.</item>
+        <item>La parole que tu te donnes a de la valeur.</item>
+        <item>Tu as ton propre avis sur la façon de passer ta journée.</item>
+        <item>L’appli ne te connaît pas. Toi, tu te connais.</item>
+        <item>Tu agis comme quelqu’un qui tient les rênes de sa vie.</item>
+        <item>Aller au bout de sa propre décision, c’est ça, la liberté.</item>
+        <item>Ici, c’est toi qui écris les règles.</item>
+        <item>Ça, c’est toi qui prends soin de toi.</item>
+        <item>Ce n’est pas une prison. C’est une protection.</item>
+        <item>Ton envie de changer est plus ancienne que cette impulsion.</item>
+        <item>Tu es déjà la personne que tu essaies de devenir.</item>
+        <item>La décision difficile est déjà prise. Celle-ci, c’est la facile.</item>
+        <item>C’est toi qui as le contrôle, et c’est rare de nos jours.</item>
+        <item>Personne n’a besoin de savoir. Ça reste entre toi et toi.</item>
+        <item>Tu mérites de pouvoir te fier à ta propre parole.</item>
+        <item>Ce choix porte ton nom.</item>
+        <item>Tu fais désormais partie des gens qui décident à l’avance.</item>
+        <item>Ce n’est pas renoncer. C’est choisir autre chose.</item>
+        <item>Tu as une direction. Cet écran te la montre.</item>
+        <item>La vraie liberté, c’est de ne pas se faire tirer dans tous les sens.</item>
+        <item>C’est toi qui fixes la valeur de ton attention.</item>
+        <item>Chaque non ici est un oui à autre chose qui compte pour toi.</item>
+        <item>Tu restes fidèle à un plan que tu as fait avec soin.</item>
+        <item>Être maître de soi demande des efforts, et ça vaut le coup.</item>
+        <item>Tu as reconnu que tu voulais changer. C’était déjà le plus difficile.</item>
+        <item>La personne dans le miroir ce soir va aimer ça.</item>
+        <item>Tu ne dois rien à l’algorithme.</item>
+        <item>Ta vie n’est le contenu de personne.</item>
+        <item>Tu es exactement là où tu as décidé d’être.</item>
+        <item>La limite que tu te fixes est la plus respectueuse qui soit.</item>
+        <item>Tu as un projet de vie plus grand que cet écran.</item>
+        <item>C’est de la maturité en temps réel.</item>
+        <item>Tu prends soin de ton avenir sans t’en rendre compte.</item>
+        <item>Chaque choix comme celui-ci affine qui tu es.</item>
+        <item>Tu n’as pas à te justifier de ne pas ouvrir.</item>
+        <item>Ton engagement, c’est envers toi, pas envers l’appli.</item>
+        <item>Tu as pris la bonne décision à un moment où l’envie n’était pas là.</item>
+        <item>C’est ta vie, et c’est toi qui la diriges.</item>
+        <item>Tu es maintenant quelqu’un de difficile à manipuler.</item>
+        <item>Ton attention a quelqu’un qui veille sur elle. C’est toi.</item>
+        <item>Tu viens d’agir comme quelqu’un qui prend soin de soi.</item>
+        <item>Le plan est à toi. Et il fonctionne en ce moment.</item>
+        <item>Tu es la somme de tes petits choix.</item>
+        <item>Personne ne peut t’enlever le dernier mot.</item>
+        <item>C’est toi qui as autorité sur ton temps.</item>
+        <item>Ça marche parce que tu as voulu que ça marche.</item>
+        <item>L’habitude veut prendre le dessus. C’est toi qui l’as.</item>
+        <item>Une de plus. C’est comme ça que le total grandit.</item>
+        <item>Petit et répété l’emporte sur grand et rare.</item>
+        <item>Tu viens de marquer un point de plus.</item>
+        <item>Personne ne change d’un coup. Ça se fait un jour comme aujourd’hui.</item>
+        <item>C’est un millième d’une vie différente.</item>
+        <item>Une bonne journée ne change rien. Cent bonnes journées changent tout.</item>
+        <item>Tu es en train de construire une série.</item>
+        <item>Le progrès ne ressemble presque jamais à un progrès, vu de l’intérieur.</item>
+        <item>La somme de ces choix dépasse chacun d’eux.</item>
+        <item>La régularité, c’est ennuyeux, et ça marche.</item>
+        <item>Une pierre de plus dans le mur.</item>
+        <item>Tu entraînes quelque chose qui reste.</item>
+        <item>Répété assez souvent, ça devient automatique.</item>
+        <item>Personne ne voit cette victoire, mais elle compte quand même.</item>
+        <item>Dans quelques semaines, tu n’en auras même plus envie.</item>
+        <item>Aujourd’hui compte. Demain comptera aussi.</item>
+        <item>Une chaîne est faite de maillons comme celui-ci.</item>
+        <item>La nouvelle habitude s’écrit en ce moment.</item>
+        <item>Chaque répétition desserre un peu l’ancienne habitude.</item>
+        <item>Tu l’as déjà fait. Refais-le.</item>
+        <item>Lentement, c’est la vitesse des choses qui durent.</item>
+        <item>Le changement se fait loin des regards.</item>
+        <item>Tu accumules quelque chose d’invisible et de bien réel.</item>
+        <item>Une journée de plus dans la bonne direction.</item>
+        <item>Le résultat viendra plus tard. Le choix, c’est aujourd’hui.</item>
+        <item>Un choix à la fois, c’est comme ça qu’on avance.</item>
+        <item>Tu es plus près qu’hier.</item>
+        <item>Pas besoin que ce soit parfait. Juste que ce soit régulier.</item>
+        <item>La courbe monte lentement, puis elle monte vite.</item>
+        <item>Tu es en plein milieu du processus. Il est fait comme ça.</item>
+        <item>Chaque petit non construit un grand oui.</item>
+        <item>Rien de tout ça n’est spectaculaire. C’est pour ça que ça marche.</item>
+        <item>Le chemin est fait de pas comme celui-ci.</item>
+        <item>Tu es en train de créer une nouvelle routine.</item>
+        <item>Dans un mois, ça te paraîtra facile.</item>
+        <item>La répétition transforme une décision en manière d’être.</item>
+        <item>Tu viens de renforcer le nouveau chemin.</item>
+        <item>Cent pour cent, c’est plus facile que quatre-vingt-dix-huit.</item>
+        <item>Ne casse pas la série aujourd’hui.</item>
+        <item>Tu fais la partie ennuyeuse, celle qui compte vraiment.</item>
+        <item>On ne sent pas le changement. On le voit après.</item>
+        <item>Encore une brique posée.</item>
+        <item>Tu apprends à ton cerveau à attendre autre chose.</item>
+        <item>Continuer, c’est toute la technique.</item>
+        <item>Mises bout à bout, aucune de ces victoires n’est petite.</item>
+        <item>Tu n’as pas besoin de courir. Juste de ne pas t’arrêter.</item>
+        <item>C’est déjà plus facile, et tu ne l’as même pas remarqué.</item>
+        <item>Une semaine comme ça, et tes journées changent déjà.</item>
+        <item>Tu traces un nouveau chemin dans ta tête.</item>
+        <item>Chaque fois compte, même quand on dirait que non.</item>
+        <item>Personne n’applaudit, mais ça fonctionne.</item>
+        <item>Ça s’accumule en silence, et rien ne l’arrête.</item>
+        <item>Tu es déjà plus solide là-dessus que le mois dernier.</item>
+        <item>Un bon choix aujourd’hui facilite celui de demain.</item>
+        <item>Voilà à quoi ressemble la constance, vue de l’intérieur.</item>
+        <item>Encore une journée d’avance en plus.</item>
+        <item>Tu es en route, et la route est longue. Ça va.</item>
+        <item>Ce qui se répète devient facile.</item>
+        <item>Tu viens de renforcer la personne que tu deviens.</item>
+        <item>Aujourd’hui, le compte est en ta faveur.</item>
+        <item>Les petits gains s’additionnent sans demander la permission.</item>
+        <item>Ce n’est pas une question d’aujourd’hui. C’est une question de total.</item>
+        <item>Tu fais le travail invisible.</item>
+        <item>Continue. C’est littéralement le secret.</item>
+        <item>Chacune de ces journées allège un peu le poids.</item>
+        <item>L’ancienne habitude perd du terrain en ce moment.</item>
+        <item>Tu arroses quelque chose qui n’a pas encore germé.</item>
+        <item>Le changement est en cours, même si ça ne se voit pas.</item>
+        <item>Encore une fois. Ça a toujours été juste ça.</item>
+        <item>Tu te constitues une réserve de bonnes journées.</item>
+        <item>Avec le temps, tout ça devient normal.</item>
+        <item>Tu viens de choisir à nouveau. Et chaque nouvelle fois compte.</item>
+        <item>Un mois comme ça, et tu es une autre personne.</item>
+        <item>L’effort d’aujourd’hui s’efface. Le résultat reste.</item>
+        <item>Tu n’es déjà plus la personne qui a commencé tout ça.</item>
+        <item>Faire souvent vaut mieux que faire beaucoup.</item>
+        <item>Chaque jour est un vote pour la personne que tu veux être.</item>
+        <item>Tu laisses la nouvelle habitude gagner du terrain.</item>
+        <item>Pas besoin que ce soit héroïque. Il faut juste que ça arrive.</item>
+        <item>Tu viens de consolider le bon chemin.</item>
+        <item>Répéter, c’est la façon dont le cerveau apprend tout.</item>
+        <item>Aujourd’hui plus hier, c’est déjà beaucoup.</item>
+        <item>Tu avances bien, même quand tu ne le sens pas.</item>
+        <item>Le progrès se cache dans les répétitions sans éclat.</item>
+        <item>Encore un petit pas vers un horizon lointain.</item>
+        <item>Tu es en train de rendre ça naturel.</item>
+        <item>Une bonne chose faite souvent, c’est ce qui reste.</item>
+        <item>La force vient de recommencer, pas de forcer.</item>
+        <item>Tu viens de raccourcir le chemin de demain.</item>
+        <item>Encore un. C’est tout. Et ça suffit.</item>
+        <item>Tu laisses une trace de bonnes décisions.</item>
+        <item>La constance transforme l’effort en identité.</item>
+        <item>Chaque jour compte comme un jour entier.</item>
+        <item>Tu joues sur le long terme, et tu gagnes.</item>
+        <item>Ça va devenir une part de toi sans que tu le remarques.</item>
+        <item>Le meilleur investissement de la journée vient d’être fait.</item>
+        <item>Tu viens de tenir le cap.</item>
+        <item>La persévérance est plus rare que le talent.</item>
+        <item>Le vrai changement est toujours lent, et il en vaut toujours la peine.</item>
+        <item>Un choix de plus dans la direction de ta vie.</item>
+        <item>Tes yeux te remercient pour cette pause.</item>
+        <item>Lève-toi et étire-toi. Ton corps réclamait ça, pas un écran.</item>
+        <item>Respire profondément. Rien que ça change déjà quelque chose.</item>
+        <item>Bois de l’eau. C’est sans doute ce qui te manquait.</item>
+        <item>Ton cou est penché depuis un moment. Redresse-toi.</item>
+        <item>Ton sommeil de cette nuit commence avec les écrans de maintenant.</item>
+        <item>Bien dormir, c’est la chose la plus productive qui soit.</item>
+        <item>Ton corps est immobile depuis trop longtemps.</item>
+        <item>Regarde au loin pendant vingt secondes. Tes yeux se détendent.</item>
+        <item>Une courte marche change plus ton humeur que n’importe quel fil.</item>
+        <item>La fatigue que tu ressens vient peut-être juste de l’écran.</item>
+        <item>Ton corps réclame du mouvement quand ta tête réclame du défilement.</item>
+        <item>L’air frais arrange des choses que l’écran n’arrange pas.</item>
+        <item>Baisse les épaules. Relâche la mâchoire.</item>
+        <item>Tu crispes les épaules sans t’en rendre compte.</item>
+        <item>Dix minutes de soleil sur la peau, ça vaut beaucoup.</item>
+        <item>Le corps se repose allongé, pas en faisant défiler.</item>
+        <item>Te coucher tôt ce soir, c’est un cadeau pour demain.</item>
+        <item>Ta posture a changé ces vingt dernières minutes. Corrige-la.</item>
+        <item>La fatigue d’écran n’est pas une vraie fatigue. C’est autre chose.</item>
+        <item>Lève les bras. Étire-toi. Voilà, c’est déjà mieux.</item>
+        <item>Tu clignes moins des yeux quand tu fais défiler. Cligne maintenant.</item>
+        <item>Le corps fonctionne mieux avec de vraies pauses.</item>
+        <item>Faire le tour du quartier, ça vide la tête.</item>
+        <item>Ton dos va apprécier cette interruption.</item>
+        <item>Se reposer, ce n’est pas se distraire.</item>
+        <item>La mauvaise nuit d’hier a commencé sur un écran comme celui-ci.</item>
+        <item>Étire ton cou des deux côtés. Ça prend dix secondes.</item>
+        <item>Bouger apaise l’anxiété mieux que n’importe quel contenu.</item>
+        <item>Ton corps est la seule maison que tu aies.</item>
+        <item>De l’eau, de la lumière, du mouvement. C’est presque toujours ça.</item>
+        <item>L’écran fatigue, même quand il ressemble à du repos.</item>
+        <item>Ferme les yeux un instant. Rien de plus.</item>
+        <item>Ta respiration est courte. Respire profondément trois fois.</item>
+        <item>Une douche arrange plus de choses qu’on ne croit.</item>
+        <item>Ça fait trop longtemps que ton corps reste au même endroit.</item>
+        <item>Le vrai repos se passe d’écran.</item>
+        <item>Vingt minutes de marche changent toute la journée.</item>
+        <item>Ta tête est lourde parce que ton corps est à l’arrêt.</item>
+        <item>Les yeux secs, les épaules raides. Tu l’as sans doute remarqué.</item>
+        <item>Te lever deux minutes te relance mieux que de faire défiler.</item>
+        <item>Le corps réclame du sommeil, l’esprit de la stimulation. Écoute ton corps.</item>
+        <item>La lumière de l’écran perturbe ton sommeil pendant des heures.</item>
+        <item>Étire tes jambes. C’est rapide et ça marche.</item>
+        <item>Tu mérites un repos qui repose vraiment.</item>
+        <item>Le mouvement est le remontant le moins cher qui existe.</item>
+        <item>Ton corps se souviendra de cette nuit de sommeil.</item>
+        <item>Respirer lentement calme plus vite que n’importe quelle vidéo.</item>
+        <item>Tu as faim ou tu t’ennuies. Découvre lequel des deux.</item>
+        <item>Le corps récupère quand la tête s’arrête.</item>
+        <item>Vingt secondes à regarder par la fenêtre.</item>
+        <item>Ton poignet et ton pouce ont besoin d’une pause.</item>
+        <item>La fatigue de l’écran s’en va en marchant.</item>
+        <item>C’est pendant le sommeil que la mémoire se range. Protège-le.</item>
+        <item>Tu as besoin de moins de stimulation, pas de plus.</item>
+        <item>Deux minutes d’étirement valent mieux que dix de vidéo.</item>
+        <item>Ton corps t’envoie un signal en ce moment.</item>
+        <item>De l’air, de l’eau, du mouvement. La recette n’a pas changé.</item>
+        <item>Allonge-toi par terre une minute. Sérieusement.</item>
+        <item>L’écran t’empêche de dormir quand tu en as besoin.</item>
+        <item>Le corps demande une pause, la main demande un écran. Offre la pause.</item>
+        <item>Tes yeux travaillent depuis ce matin.</item>
+        <item>Une bonne nuit de sommeil change le monde.</item>
+        <item>Lève-toi. Juste ça. C’est déjà suffisant.</item>
+        <item>Tu dormiras mieux grâce à ce choix.</item>
+        <item>Le corps te remercie pour ce que la tête trouve ennuyeux.</item>
+        <item>Étire ton dos. Il le réclame.</item>
+        <item>Le vrai repos, c’est le silence, pas une autre stimulation.</item>
+        <item>Ton corps a son propre rythme, et l’écran l’ignore.</item>
+        <item>Regarde l’horizon. Tes yeux ont besoin de distance.</item>
+        <item>La tension dans ta mâchoire ne partira pas en faisant défiler.</item>
+        <item>Ça fait déjà un bon moment que tu n’as pas quitté ta chaise.</item>
+        <item>Le mouvement apporte de la clarté. Ça a toujours été le cas.</item>
+        <item>Bois de l’eau avant de décider quoi que ce soit.</item>
+        <item>Le sommeil perdu ne se rattrape pas avec du contenu.</item>
+        <item>Ton corps fonctionne bien quand tu le laisses faire.</item>
+        <item>Une courte sieste fait plus de bien qu’une heure sur le fil.</item>
+        <item>Respirer profondément, c’est gratuit et immédiat.</item>
+        <item>L’écran crispe le corps sans prévenir.</item>
+        <item>Ta fatigue est plus grande qu’elle ne devrait l’être.</item>
+        <item>Lève-toi et regarde par la fenêtre. Cinq secondes.</item>
+        <item>Ton corps n’a pas évolué pour rester immobile à fixer de la lumière.</item>
+        <item>Étire tes doigts. Ils ont beaucoup travaillé aujourd’hui.</item>
+        <item>La nuit est meilleure sans écran avant de dormir.</item>
+        <item>Le repos, ce n’est pas ce que l’écran propose.</item>
+        <item>Ton corps demande de la nature et reçoit des pixels.</item>
+        <item>Un verre d’eau et trois respirations. Maintenant.</item>
+        <item>La tension dans ton épaule vient de ta façon de tenir ton téléphone.</item>
+        <item>Le corps se détend quand l’attention arrête de courir.</item>
+        <item>Dans cinq minutes, tu te sentiras mieux.</item>
+        <item>Bouger change ta chimie. L’écran change juste de sujet.</item>
+        <item>Tes yeux méritent un vrai repos.</item>
+        <item>Marcher met de l’ordre dans les pensées mieux que parcourir un fil.</item>
+        <item>La lumière bleue maintenant, c’est un mauvais sommeil plus tard.</item>
+        <item>Tu as besoin de repos, pas de plus d’informations.</item>
+        <item>Deux respirations profondes avant toute chose.</item>
+        <item>Ton corps est plus sage que l’impulsion.</item>
+        <item>Lève-toi et va jusqu’à la cuisine. C’est bien assez.</item>
+        <item>Repose ton corps, et ta tête se repose avec lui.</item>
+        <item>Il y a des gens en chair et en os près de toi en ce moment.</item>
+        <item>Une conversation vaut plus que trois cents publications.</item>
+        <item>Appelle quelqu’un. Avec ta voix, pour de vrai.</item>
+        <item>Quelqu’un que tu aimes est à un message de toi.</item>
+        <item>Les gens de ton fil ne savent pas que tu existes.</item>
+        <item>Les gens dans la même pièce que toi méritent davantage.</item>
+        <item>Un câlin répare ce qu’aucune vidéo ne répare.</item>
+        <item>Écris à la personne que tu oublies un peu ces temps-ci.</item>
+        <item>Ta mère aimerait sûrement un coup de fil aujourd’hui.</item>
+        <item>Dans la vraie vie, il y a des gens qui répondent pour de vrai.</item>
+        <item>Cet ami perdu de vue peut encore revenir. Fais-lui signe.</item>
+        <item>Ta présence est la chose la plus rare que tu puisses offrir.</item>
+        <item>Quelqu’un attend que tu lèves les yeux.</item>
+        <item>Une bonne question vaut plus qu’une heure de défilement.</item>
+        <item>Les gens autour de toi n’ont pas d’algorithme.</item>
+        <item>Tu rates une conversation qui a lieu en ce moment.</item>
+        <item>Personne de ton fil ne sera là quand tu en auras besoin.</item>
+        <item>Un café avec quelqu’un change plus ta semaine que n’importe quel fil.</item>
+        <item>Ta compagnie est un cadeau. Offre-la.</item>
+        <item>Regarde les gens qui sont avec toi.</item>
+        <item>L’amitié, ça s’arrose. Arrose-la aujourd’hui.</item>
+        <item>La personne à côté de toi est réelle.</item>
+        <item>L’amour ne se mesure pas en likes.</item>
+        <item>Repense à ta dernière longue conversation.</item>
+        <item>Propose une balade à quelqu’un.</item>
+        <item>Les meilleurs souvenirs ont rarement un écran dedans.</item>
+        <item>En ce moment, tu tiens compagnie à quelqu’un.</item>
+        <item>Envoie un message vocal à quelqu’un que tu aimes.</item>
+        <item>Les gens changent quand tu leur prêtes attention.</item>
+        <item>Ta présence compte pour quelqu’un aujourd’hui.</item>
+        <item>Une bonne conversation te fait du bien. Le fil, non.</item>
+        <item>Quelqu’un aimerait savoir que tu as pensé à lui.</item>
+        <item>Va voir quelqu’un au lieu de le suivre en ligne.</item>
+        <item>Les liens solides se tissent avec du temps passé ensemble.</item>
+        <item>Tu peux être la raison de la belle journée de quelqu’un.</item>
+        <item>Ce proche à qui tu n’as pas parlé depuis des mois.</item>
+        <item>Un message sincère vaut plus que mille vues.</item>
+        <item>Être ensemble, ce n’est pas la même chose qu’être en ligne.</item>
+        <item>Les gens qui partagent ton quotidien méritent toute ta présence.</item>
+        <item>Invite quelqu’un à manger.</item>
+        <item>Les vraies personnes ont un visage, une voix et un temps compté.</item>
+        <item>Pour quelqu’un, tu es irremplaçable. Fais-toi voir.</item>
+        <item>La conversation la plus importante de ta journée n’a pas encore eu lieu.</item>
+        <item>Près de toi, il y a quelqu’un sans écran, lui aussi.</item>
+        <item>Écouter quelqu’un, c’est la façon la plus simple de se faire aimer.</item>
+        <item>Cet ami traverse quelque chose. Prends de ses nouvelles.</item>
+        <item>Ton enfant, ton chien, ton voisin. Quelqu’un est là.</item>
+        <item>Les réseaux te relient à beaucoup de monde, et à personne à la fois.</item>
+        <item>Un après-midi avec quelqu’un vaut un mois de fil.</item>
+        <item>Tu peux faire rire quelqu’un aujourd’hui. Pour de vrai.</item>
+        <item>Une présence entière est très rare. Tu en as une à offrir.</item>
+        <item>Quelqu’un a parlé de toi cette semaine. Rends-lui la pareille.</item>
+        <item>Dans le fil, personne ne remarque ton absence.</item>
+        <item>Un appel de cinq minutes peut changer la journée de quelqu’un.</item>
+        <item>Les gens qui comptent n’en font pas une publication.</item>
+        <item>Une seule question te sépare d’une bonne conversation.</item>
+        <item>La vraie compagnie n’a pas de pub au milieu.</item>
+        <item>Cette personne qui te soutient toujours. Remercie-la aujourd’hui.</item>
+        <item>Se regarder dans les yeux reste la meilleure technologie.</item>
+        <item>Ta famille n’est pas un fil. Ne la fais pas défiler.</item>
+        <item>Invite quelqu’un à ne rien faire ensemble.</item>
+        <item>Les gens loin de toi méritent aussi de tes nouvelles.</item>
+        <item>Il y a des gens qui t’aiment, en dehors d’ici.</item>
+        <item>Une conversation difficile qu’on repousse pèse plus lourd que le fil.</item>
+        <item>Profite des gens près de toi tant qu’ils sont là.</item>
+        <item>On se souvient des gens qui ont été là.</item>
+        <item>Invite un ami à prendre un café, sans raison.</item>
+        <item>Quelque part, quelqu’un veut avoir de tes nouvelles.</item>
+        <item>Tu peux vraiment écouter quelqu’un, maintenant.</item>
+        <item>Le lien se construit en regardant, pas en faisant défiler.</item>
+        <item>Ton attention est le plus beau cadeau pour les gens que tu aimes.</item>
+        <item>Une personne vaut plus qu’un profil.</item>
+        <item>Cette conversation que tu dois à quelqu’un. C’est pour aujourd’hui.</item>
+        <item>Être disponible, c’est une forme d’amour.</item>
+        <item>Tu as du temps pour quelqu’un, maintenant.</item>
+        <item>Personne n’a quitté ce monde en regrettant de ne pas avoir eu plus d’abonnés.</item>
+        <item>Retrouve quelqu’un au lieu de le suivre de loin.</item>
+        <item>La tendresse a parfois besoin d’être dite à voix haute.</item>
+        <item>Ta bande de toujours est encore là. Écris-leur.</item>
+        <item>Quelqu’un près de toi a envie de parler.</item>
+        <item>La comparaison n’est pas un lien.</item>
+        <item>Aujourd’hui, tu peux être une présence.</item>
+        <item>Un mot écrit à la main. Quelle belle idée.</item>
+        <item>Les gens qui te connaissent vraiment ne sont pas dans le fil.</item>
+        <item>Partage ton après-midi avec quelqu’un.</item>
+        <item>Tes proches méritent ce que tu donnes au fil.</item>
+        <item>Tu comptes pour quelqu’un qui ne publie rien.</item>
+        <item>Appelle et demande comment la personne va vraiment.</item>
+        <item>La solitude ne passe pas avec plus d’écran.</item>
+        <item>Rapproche-toi de quelqu’un aujourd’hui.</item>
+        <item>Un repas partagé vaut tout un après-midi.</item>
+        <item>Ton attention nourrit les relations. Nourris-en une.</item>
+        <item>Quelqu’un pense à toi en ce moment même.</item>
+        <item>Dis à quelqu’un que tu l’aimes.</item>
+        <item>Les amitiés meurent du silence, pas des disputes.</item>
+        <item>Tu as des gens bien autour de toi. Profites-en.</item>
+        <item>Quelqu’un a besoin de compagnie, et tu en as à offrir.</item>
+        <item>Laisse le fil et va voir du monde.</item>
+        <item>Les gens qui t’aiment veulent ton temps, pas ton profil.</item>
+        <item>En cinq minutes, tu peux améliorer la journée de quelqu’un.</item>
+        <item>Créer fatigue et remplit. Consommer repose et vide.</item>
+        <item>Tu as plus à dire qu’à regarder.</item>
+        <item>Quelqu’un est en train de créer ce que tu allais regarder.</item>
+        <item>Écris une ligne. Une seule.</item>
+        <item>Le monde a trop de consommateurs et pas assez de créateurs.</item>
+        <item>Ton idée t’attend toujours.</item>
+        <item>Tu peux faire quelque chose au lieu de regarder ce qui est déjà fait.</item>
+        <item>Toute bonne chose a été faite par quelqu’un qui ne faisait pas défiler un fil.</item>
+        <item>Ton idée vaut plus que tout le fil d’aujourd’hui.</item>
+        <item>Commence ce que tu repousses. Cinq minutes suffisent.</item>
+        <item>Le projet au point mort n’a besoin que d’un coup de pouce.</item>
+        <item>Tu as du talent pour autre chose que faire défiler un écran.</item>
+        <item>Fais aujourd’hui quelque chose qui n’existait pas hier.</item>
+        <item>Créer, c’est plus amusant que regarder. Le plus dur, c’est de s’y mettre.</item>
+        <item>Ce carnet vierge ne mord pas.</item>
+        <item>Le meilleur contenu, c’est celui que tu crées.</item>
+        <item>Tu apprends plus en faisant qu’en regardant.</item>
+        <item>Joue d’un instrument, dessine, cuisine. Fais quelque chose de tes mains.</item>
+        <item>Ta créativité s’étouffe quand ta tête déborde de contenu.</item>
+        <item>Il existe une œuvre à toi que personne n’a encore faite.</item>
+        <item>Commence mal. Ça s’améliore ensuite.</item>
+        <item>Un paragraphe par jour finit par faire un livre.</item>
+        <item>Tu as une histoire à raconter.</item>
+        <item>Faire des choses, c’est l’antidote au vide.</item>
+        <item>L’ennui est le début de la créativité. Laisse-le exister.</item>
+        <item>Ta tête invente quand tu arrêtes de la remplir.</item>
+        <item>Ce cours que tu as payé t’attend.</item>
+        <item>Apprendre quelque chose de nouveau aujourd’hui, c’est possible.</item>
+        <item>Consommer, c’est facile. C’est pour ça que ça satisfait si peu.</item>
+        <item>Tu as envie de faire quelque chose. Commence maintenant.</item>
+        <item>Cinq minutes de pratique valent mieux qu’une heure de vidéo.</item>
+        <item>Cette recette que tu veux essayer.</item>
+        <item>Les idées viennent dans le silence, pas dans le défilement.</item>
+        <item>Tu peux être sur scène plutôt que dans le public.</item>
+        <item>Un petit projet change une semaine.</item>
+        <item>Écris ce que tu ferais si tu avais le temps. Tu l’as.</item>
+        <item>Tes mains savent faire des choses. Sers-t’en.</item>
+        <item>Fais quelque chose d’imparfait aujourd’hui.</item>
+        <item>Apprendre, c’est plus savoureux que se faire divertir.</item>
+        <item>Ce que tu crées reste. Ce que tu fais défiler disparaît.</item>
+        <item>Cet instrument qui prend la poussière dans un coin.</item>
+        <item>Un projet inachevé t’attend.</item>
+        <item>Créer, c’est l’inverse de se comparer.</item>
+        <item>Commence petit. Commence aujourd’hui.</item>
+        <item>Une page par jour, c’est une autre vie.</item>
+        <item>Ton imagination a besoin d’espace vide.</item>
+        <item>Fais quelque chose qui te donnera de la fierté demain.</item>
+        <item>Rien ne remplace la satisfaction de créer.</item>
+        <item>Tu es capable de plus que consommer.</item>
+        <item>Ce passe-temps laissé de côté existe toujours.</item>
+        <item>Vingt minutes de pratique, ce sont vingt minutes de progrès.</item>
+        <item>On ne progresse en rien en faisant défiler un fil.</item>
+        <item>Ta prochaine compétence va bien commencer un jour. Autant que ce soit maintenant.</item>
+        <item>Fais-le, même si personne ne regarde.</item>
+        <item>Il y a quelque chose que tu veux apprendre. Commence.</item>
+        <item>Consommer, c’est regarder la vie des autres.</item>
+        <item>Tu as des mains, une tête et du temps. C’est tout ce qu’il te faut.</item>
+        <item>Le premier brouillon est toujours mauvais. Fais-le quand même.</item>
+        <item>Cette langue que tu voulais parler.</item>
+        <item>Créer, c’est ce qui transforme l’ennui en joie.</item>
+        <item>Un peu chaque jour suffit à bâtir n’importe quelle compétence.</item>
+        <item>Tu as en toi quelque chose qui veut sortir.</item>
+        <item>Écris sur ta journée. Juste pour toi.</item>
+        <item>Ta créativité attend que tu coupes le bruit.</item>
+        <item>Fais quelque chose avec tes mains aujourd’hui.</item>
+        <item>Le plaisir de finir quelque chose ne ressemble à rien d’autre.</item>
+        <item>Ce projet qui t’enthousiasmait. Il peut encore le faire.</item>
+        <item>Pas besoin d’avoir du talent pour commencer.</item>
+        <item>Cuisine quelque chose de nouveau. C’est aussi créer.</item>
+        <item>La vie devient plus intéressante quand tu fais des choses.</item>
+        <item>Personne ne naît en sachant tout. Tout le monde commence mal.</item>
+        <item>Cette idée qui t’est venue en pleine nuit. Note-la.</item>
+        <item>Ce que tu sais faire peut être utile à quelqu’un.</item>
+        <item>Fais-en un peu aujourd’hui, et un peu demain.</item>
+        <item>Le meilleur moment pour commencer est passé. Le deuxième meilleur, c’est maintenant.</item>
+        <item>Ton œuvre ne va pas se faire toute seule.</item>
+        <item>S’exercer, c’est pénible, jusqu’à ce que ça devienne bon.</item>
+        <item>Tu veux créer. Le fil veut que tu te contentes de regarder.</item>
+        <item>Ce dessin que tu as commencé.</item>
+        <item>Faire, c’est la façon la plus rapide d’apprendre.</item>
+        <item>Tu as une voix. Mets-la au service de quelque chose.</item>
+        <item>Réparer quelque chose à la maison, c’est créer aussi.</item>
+        <item>Ta prochaine réussite commence un jour ordinaire, comme aujourd’hui.</item>
+        <item>Fais quelque chose que personne d’autre que toi ne ferait.</item>
+        <item>Le fil est infini. Ton œuvre a une fin, et c’est pour ça qu’elle compte.</item>
+        <item>Tu peux planter quelque chose aujourd’hui. Littéralement.</item>
+        <item>Ce tableur, ce plan, ce rêve.</item>
+        <item>Créer demande des efforts, et c’est ce qui lui donne sa valeur.</item>
+        <item>Ta vie est plus intéressante que n’importe quel fil.</item>
+        <item>Étudie vingt minutes. C’est peu, et c’est beaucoup.</item>
+        <item>La curiosité est encore meilleure quand elle passe à la pratique.</item>
+        <item>Ce morceau que tu voulais apprendre.</item>
+        <item>Fais une chose simple et utile maintenant.</item>
+        <item>Tu as quelque chose de bon à offrir au monde.</item>
+        <item>Commence quelque chose que tu te remercieras d’avoir commencé.</item>
+        <item>Un projet personnel change ton rapport au temps.</item>
+        <item>Créer, c’est la meilleure façon d’occuper ton esprit.</item>
+        <item>Tu peux finir quelque chose aujourd’hui.</item>
+        <item>Pose tes mains sur quelque chose de réel.</item>
+        <item>Rien ne vaut la sensation d’avoir accompli quelque chose.</item>
+        <item>Ça va, tu as le droit d’être ici. Maintenant, respire.</item>
+        <item>Personne ne compte rien. Continue simplement ton chemin.</item>
+        <item>Tu t’en sors bien, même si ça n’en a pas l’air.</item>
+        <item>Sans hâte et sans pression. Juste une pause.</item>
+        <item>Ce n’est pas un test. Juste un petit rappel bienveillant.</item>
+        <item>Tu essaies, et c’est déjà bien assez.</item>
+        <item>Tout va bien. Ferme et continue ta journée.</item>
+        <item>Ici, il ne s’agit pas de toujours réussir.</item>
+        <item>Tu mérites de la légèreté aujourd’hui.</item>
+        <item>Pas de drame. Juste un moment pour respirer.</item>
+        <item>C’est un endroit calme. Reste un instant.</item>
+        <item>Tu fais de ton mieux. Ça compte.</item>
+        <item>Aucune pression ici. Juste de la bienveillance.</item>
+        <item>Respire. Rien de mal n’est en train de se passer.</item>
+        <item>Le chemin parcouru jusqu’ici, c’est déjà bien.</item>
+        <item>Personne ne te juge. Toi non plus, tu ne devrais pas.</item>
+        <item>Tout est en ordre. Continue, c’est tout.</item>
+        <item>Un pas à la fois, c’est le bon rythme.</item>
+        <item>Pas besoin de perfection ici.</item>
+        <item>Aller doucement, c’est avancer quand même.</item>
+        <item>Cet écran n’exige rien de toi.</item>
+        <item>Traite-toi avec douceur, maintenant.</item>
+        <item>C’est normal d’avoir envie. Ça fait partie du chemin.</item>
+        <item>Tu prends soin de toi. C’est beau.</item>
+        <item>Pas d’alarme, pas de hâte, pas de frayeur.</item>
+        <item>Être humain, c’est permis.</item>
+        <item>Tu n’as rien à expliquer à personne.</item>
+        <item>Respire profondément. C’est passé.</item>
+        <item>Ici, tu ne crains rien.</item>
+        <item>Si la journée est difficile, ce n’est pas grave.</item>
+        <item>Aucun jour ne ressemble à un autre. Celui-ci non plus.</item>
+        <item>Tu es sur la bonne voie, même lentement.</item>
+        <item>Lâche un peu la pression.</item>
+        <item>Tout est normal. Juste le temps de souffler.</item>
+        <item>Tu n’as pas besoin d’aller bien tout le temps.</item>
+        <item>La douceur envers toi-même marche mieux que la sévérité.</item>
+        <item>Ce moment va passer en douceur.</item>
+        <item>Tu as déjà fait le plus difficile aujourd’hui.</item>
+        <item>Rien d’urgent. Rien de grave. Juste une pause.</item>
+        <item>Souris. C’est moins grave qu’il n’y paraît.</item>
+        <item>Tu essaies, et c’est ce qui compte.</item>
+        <item>Aucun compte à rendre. Avance, simplement.</item>
+        <item>Tout va bien. Vraiment.</item>
+        <item>Tu mérites une journée légère.</item>
+        <item>Respire. Le monde continue de tourner.</item>
+        <item>Rien ne presse aujourd’hui.</item>
+        <item>Tu es en paix avec ce choix.</item>
+        <item>Tu peux recommencer autant de fois qu’il le faudra.</item>
+        <item>Ici, personne ne te met la pression.</item>
+        <item>Laisse du temps au processus.</item>
+        <item>Tu n’as de retard sur rien.</item>
+        <item>C’est normal de ne pas être à cent pour cent.</item>
+        <item>Cette pause, c’est du soin, pas une punition.</item>
+        <item>Tu peux simplement passer à autre chose, maintenant.</item>
+        <item>Pas de tension. Juste un moment.</item>
+        <item>Si c’était un réflexe, ce n’est pas grave.</item>
+        <item>Tu n’as pas besoin de raison pour aller bien.</item>
+        <item>Respire et continue. C’est aussi simple que ça.</item>
+        <item>Aucun problème ici.</item>
+        <item>Tu t’y prends bien.</item>
+        <item>Tout est bien, vraiment. Va en paix.</item>
+        <item>Ce moment est à toi, pour te reposer.</item>
+        <item>Beaucoup de gens vivent la même chose que toi.</item>
+        <item>Tout est calme. Continue ta journée.</item>
+        <item>Rien de lourd. Juste un rappel.</item>
+        <item>Tu es déjà à la hauteur.</item>
+        <item>Le calme que tu cherches n’est pas dans le fil.</item>
+        <item>Il n’y a rien qui cloche chez toi.</item>
+        <item>Repose ton esprit une seconde.</item>
+        <item>Tu mérites qu’on prenne soin de toi.</item>
+        <item>Rien n’a besoin d’être réglé maintenant.</item>
+        <item>Respire un coup. Puis continue.</item>
+        <item>Tu vas bien. C’est tout.</item>
+        <item>Pas de pression, pas de comptes, pas de score.</item>
+        <item>Un moment de calme au milieu de la journée.</item>
+        <item>Tu as le droit de te traiter avec gentillesse, là.</item>
+        <item>Tout est paisible.</item>
+        <item>Pas besoin de te presser pour quoi que ce soit.</item>
+        <item>Tu as fait ce que tu pouvais aujourd’hui.</item>
+        <item>Ça va. Demain, ça continue.</item>
+        <item>Cet instant n’est qu’une respiration.</item>
+        <item>Tu es en sécurité, et ça suffit.</item>
+        <item>Aucun jugement par ici.</item>
+        <item>Respire, et va vivre.</item>
+        <item>Tu mérites un peu de tranquillité aujourd’hui.</item>
+        <item>Tous les rythmes sont bons.</item>
+        <item>Accorde un peu de repos à ta tête.</item>
+        <item>Cet endroit t’accueille toujours.</item>
+        <item>Pas de panique. Juste un petit arrêt.</item>
+        <item>Aujourd’hui, la vie n’est pas une course.</item>
+        <item>Tu es là, en un seul morceau. Ça suffit.</item>
+        <item>Avoir essayé, ça n’a rien de grave.</item>
+        <item>Rien ici n’est contre toi.</item>
+        <item>Respire, et continue doucement.</item>
+        <item>Tu es bien comme tu es.</item>
+        <item>C’est un moment de paix.</item>
+        <item>Aucune pression. Avance le cœur léger.</item>
+        <item>Tu as le droit de te reposer.</item>
+        <item>Tout est tranquille par ici.</item>
+        <item>Vas-y doucement. La journée t’attend.</item>
+        <item>La douceur envers soi est une force.</item>
+        <item>Pense à ce que tu ferais maintenant si cette appli n’existait pas.</item>
+        <item>Demande-toi si tu es là par envie ou par habitude.</item>
+        <item>Repense à ce que tu cherchais, au juste.</item>
+        <item>Demande-toi si ça comptera encore demain matin.</item>
+        <item>Pas sûr que tu te souviennes de ce que tu verrais maintenant.</item>
+        <item>Repense à ce que tu faisais avant de prendre ton téléphone.</item>
+        <item>Choisis combien de temps tu veux y consacrer aujourd’hui.</item>
+        <item>Vois si c’est de l’ennui ou de la fatigue.</item>
+        <item>Imagine ce que ton après-midi pourrait être à la place.</item>
+        <item>Demande-toi si ça en vaut la peine.</item>
+        <item>Vérifie si tu as ouvert pour une raison précise.</item>
+        <item>Pense à ce que tu repousserais encore une fois si tu entrais maintenant.</item>
+        <item>Pense à la personne que tu veux être dans un an.</item>
+        <item>Cherche ce qui te ferait vraiment du bien maintenant.</item>
+        <item>Demande-toi si tu essaies d’échapper à quelque chose.</item>
+        <item>Ce truc que tu remets à plus tard, c’est peut-être le moment de le faire.</item>
+        <item>Imagine ce qui se passerait si tu fermais, tout simplement.</item>
+        <item>Tu as mieux à faire. Reste à savoir quoi.</item>
+        <item>Vois si c’est du repos ou une fuite.</item>
+        <item>Pense à ce que la version de toi de demain te demanderait de faire.</item>
+        <item>Faim, sommeil ou ennui. Vois lequel des trois.</item>
+        <item>Essaie de te rappeler la dernière fois où le fil t’a fait du bien.</item>
+        <item>Pense à ce que tu veux ressentir à la fin de la journée.</item>
+        <item>Cherche ce qui te manque vraiment, là.</item>
+        <item>Besoin ou simple envie. À toi de voir.</item>
+        <item>Trouve une petite chose qui rendrait ta journée meilleure maintenant.</item>
+        <item>Imagine ce que tu ferais de deux heures libres.</item>
+        <item>Au fond, tu sais déjà ce que tu voudrais faire maintenant.</item>
+        <item>Pense au vrai coût de ces quinze minutes.</item>
+        <item>Vois si tu le veux vraiment, ou si c’est juste ta main qui s’ennuie.</item>
+        <item>Cherche ce qui en vaudrait le plus la peine, maintenant.</item>
+        <item>Espérons que tout va bien de ton côté.</item>
+        <item>Prends un instant, au calme, pour trouver le meilleur choix.</item>
+        <item>Demande-toi si cette demi-heure te laissera un bon souvenir.</item>
+        <item>Imagine ce que tu ferais si personne ne regardait.</item>
+        <item>Il y a peut-être quelqu’un que tu pourrais appeler maintenant.</item>
+        <item>Demande-toi ce que ta tête essaie d’éviter.</item>
+        <item>Pas sûr que ça vaille ton après-midi.</item>
+        <item>Tu as un plan pour aujourd’hui. Vois s’il inclut ça.</item>
+        <item>Pense à ce que tu aurais le plus de plaisir à faire maintenant.</item>
+        <item>Sincèrement, demande-toi si tu vas bien.</item>
+        <item>Pense à ce qui ferait de cette semaine une belle semaine.</item>
+        <item>Vois si c’est ce que tu veux, ou juste ce que tu fais d’habitude.</item>
+        <item>Prends un moment pour penser à ce que tu veux faire demain.</item>
+        <item>Pense au nombre de fois où tu as pris ton téléphone aujourd’hui.</item>
+        <item>Pense à ce qui te donnerait de la satisfaction dans une heure.</item>
+        <item>Vois si tu veux vraiment entrer, ou si ton doigt est en pilote automatique.</item>
+        <item>Pense à la chose importante que tu remets à plus tard.</item>
+        <item>Imagine ce que le toi d’il y a dix ans en penserait.</item>
+        <item>Demande-toi si c’est vraiment du repos.</item>
+        <item>Il y a peut-être quelque chose que tu ferais si tu osais.</item>
+        <item>Pense à ce que tu aimerais avoir fait ce soir.</item>
+        <item>Demande-toi si ça vaut plus qu’une conversation.</item>
+        <item>Regarde à quoi tu veux donner ton temps aujourd’hui.</item>
+        <item>Pense à l’habitude que tu veux avoir dans six mois.</item>
+        <item>Cherche ce qui réclame vraiment ton attention.</item>
+        <item>Choisis si tu préfères te souvenir de cet après-midi ou l’oublier.</item>
+        <item>Cherche à quoi ce moment pourrait bien servir.</item>
+        <item>Vois si tu es là pour voir quelque chose, ou pour ne pas ressentir quelque chose.</item>
+        <item>Pense à ce qui t’aiderait à bien dormir ce soir.</item>
+        <item>Demande-toi si ça ajoute à ta journée ou si ça lui enlève quelque chose.</item>
+        <item>Vois si tu as vraiment envie de savoir ce qu’il y a là-dedans.</item>
+        <item>Repense à la dernière bonne chose que tu as faite sans écran.</item>
+        <item>Imagine ce que tu ferais d’un après-midi sans internet.</item>
+        <item>Demande-toi après quoi tu cours.</item>
+        <item>Trouve un petit pas que tu pourrais faire maintenant.</item>
+        <item>Pense à ce qui a besoin de ton attention plus que ça.</item>
+        <item>Prends le temps de respirer profondément, si tu ne l’as pas encore fait aujourd’hui.</item>
+        <item>Pense à ce que tu prévois pour la prochaine heure.</item>
+        <item>Vois si ça te rapproche de quelque chose que tu veux.</item>
+        <item>Imagine faire ça devant quelqu’un que tu admires.</item>
+        <item>Repense à ce qui s’est passé de bien aujourd’hui.</item>
+        <item>Pense à la part de ta journée déjà passée devant des écrans.</item>
+        <item>Tu as peut-être une idée en suspens qui t’attend.</item>
+        <item>Pense à ce que tu veux faire de cette semaine.</item>
+        <item>Demande-toi si ça vaut la peine d’échanger le silence contre du bruit.</item>
+        <item>Vois si, aujourd’hui, tu crées ou tu consommes.</item>
+        <item>Trouve une chose simple qui te ferait du bien maintenant.</item>
+        <item>Pense à ce que tu dirais à un ami dans cette situation.</item>
+        <item>Tu as cinq minutes. À toi de choisir pour quoi.</item>
+        <item>Cherche ce qui te dérange vraiment.</item>
+        <item>Demande-toi si c’est le mieux que tu puisses faire maintenant.</item>
+        <item>C’est toi qui as la main sur ce moment.</item>
+        <item>Pense à la décision dont tu aurais envie de te féliciter.</item>
+        <item>Pense à ce que tu veux avoir fait quand la journée sera finie.</item>
+        <item>Souviens-toi pourquoi tu as installé ça.</item>
+        <item>Remets ça à plus tard, et vois si tu en as encore envie.</item>
+        <item>Imagine ce que tu ferais aujourd’hui avec un peu plus d’audace.</item>
+        <item>Choisis entre la version rapide et la version réussie de ta journée.</item>
+        <item>Pense à ce que personne d’autre que toi ne peut faire aujourd’hui.</item>
+        <item>Pense à ce qui t’attend dehors.</item>
+        <item>Prends un instant pour dire merci pour quelque chose aujourd’hui.</item>
+        <item>Pense à ce que vaut, pour toi, la prochaine demi-heure.</item>
+        <item>Pense à ce que tu veux retenir de cette semaine.</item>
+        <item>Vois si c’est urgent, ou si ça en a seulement l’air.</item>
+        <item>Vois si tu fais ce que tu as envie de faire.</item>
+        <item>Imagine une belle fin pour cette journée.</item>
+        <item>Imagine ce que tu ferais après une bonne nuit de repos.</item>
+        <item>Faire défiler ou vivre. À toi de choisir, maintenant.</item>
+        <item>Essaie de fermer, tout simplement, et regarde ce qui se passe.</item>
+    </string-array>
+</resources>

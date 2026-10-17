@@ -2,23 +2,32 @@ import { Linking } from 'react-native';
 
 import { Button } from '@/components/Button';
 import { TelaDeEstado } from '@/components/TelaDeEstado';
+import { useTextos } from '@/i18n/IdiomaContext';
+import { formatar } from '@/i18n/formatos';
 
-const SITE = 'https://aceleralock.marujo.dev';
+const DOMINIO = 'aceleralock.marujo.dev';
+const SITE = `https://${DOMINIO}`;
 
 /**
  * Veredito 'plataforma-nao-suportada'. O texto segue o Paper (e o da versao
  * anterior desta tela), que fala do iPhone.
  */
 export default function PlatformNotSupported() {
+  const t = useTextos();
+
   return (
     <TelaDeEstado
       icon="phone-portrait-outline"
-      title="Ainda não funciona no iPhone"
-      message="Por enquanto o AceleraLock só bloqueia apps no Android. No iPhone, o bloqueio depende de uma liberação especial da Apple."
+      title={t.estados.naoSuportado.titulo}
+      message={t.estados.naoSuportado.mensagem}
       action={
-        <Button label="Saiba mais" variant="secondary" onPress={() => void Linking.openURL(SITE)} />
+        <Button
+          label={t.estados.naoSuportado.saibaMais}
+          variant="secondary"
+          onPress={() => void Linking.openURL(SITE)}
+        />
       }
-      caption="Abre aceleralock.marujo.dev no navegador."
+      caption={formatar(t.estados.naoSuportado.legenda, { site: DOMINIO })}
     />
   );
 }

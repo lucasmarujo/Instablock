@@ -6,6 +6,7 @@ import { Button } from '@/components/Button';
 import { IconeApp } from '@/components/IconeApp';
 import { resumoLiberados } from '@/components/Inicio/inicio';
 import { TelaDeEstado } from '@/components/TelaDeEstado';
+import { useTextos } from '@/i18n/IdiomaContext';
 import AceleralockBlocker, { type InstalledApp } from '@/native/blocker';
 import { useProtectionVerdictContext } from '@/state/ProtectionVerdictContext';
 import { radius, spacing, typography } from '@/theme/tokens';
@@ -24,6 +25,7 @@ type Lista = { apps: InstalledApp[]; sites: number };
  */
 export default function Paused() {
   const theme = useTheme();
+  const t = useTextos();
   const { refresh } = useProtectionVerdictContext();
   const [lista, setLista] = useState<Lista | null>(null);
 
@@ -51,7 +53,7 @@ export default function Paused() {
     refresh();
   };
 
-  const resumo = lista ? resumoLiberados(lista.apps.length, lista.sites) : null;
+  const resumo = lista ? resumoLiberados(lista.apps.length, lista.sites, t) : null;
 
   return (
     <TelaDeEstado
@@ -62,10 +64,10 @@ export default function Paused() {
           color={theme.colors.textSecondary}
         />
       }
-      title="Proteção desligada"
-      message="Você pediu para desligar e cumpriu a espera. Nada está bloqueado agora."
-      action={<Button label="Reativar proteção" onPress={handleActivate} />}
-      caption="Reativar é imediato. A lista continua a mesma."
+      title={t.estados.pausado.titulo}
+      message={t.estados.pausado.mensagem}
+      action={<Button label={t.estados.pausado.reativar} onPress={handleActivate} />}
+      caption={t.estados.pausado.legenda}
     >
       {lista && resumo && (
         <View
@@ -86,7 +88,7 @@ export default function Paused() {
           <View style={styles.textos}>
             <Text style={[styles.titulo, { color: theme.colors.textPrimary }]}>{resumo}</Text>
             <Text style={[styles.detalhe, { color: theme.colors.textSecondary }]}>
-              Voltam a ser bloqueados ao reativar
+              {t.estados.pausado.voltamAoReativar}
             </Text>
           </View>
         </View>

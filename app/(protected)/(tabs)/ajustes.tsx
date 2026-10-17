@@ -1,7 +1,16 @@
 import { Ionicons } from '@expo/vector-icons';
 import Constants from 'expo-constants';
 import { useCallback, useState } from 'react';
-import { Linking, Platform, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import {
+  I18nManager,
+  Linking,
+  Platform,
+  Pressable,
+  ScrollView,
+  StyleSheet,
+  Text,
+  View,
+} from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { useFocusEffect, useRouter } from 'expo-router';
 
@@ -15,10 +24,12 @@ import { Grupo, Overline } from '@/components/Grupo';
 import { ListRow } from '@/components/ListRow';
 import { SliderHoras } from '@/components/Onboarding/SliderHoras';
 import { SegmentedControl } from '@/components/SegmentedControl';
+import { useTextos } from '@/i18n/IdiomaContext';
+import { contar, formatar } from '@/i18n/formatos';
 import AceleralockBlocker from '@/native/blocker';
 import { readDailyHours, readUserName, saveDailyHours } from '@/state/onboardingStorage';
 import { useProtectionVerdictContext } from '@/state/ProtectionVerdictContext';
-import { PREFERENCIAS, ROTULOS_PREFERENCIA } from '@/theme/preferenciaTema';
+import { PREFERENCIAS, rotuloPreferencia } from '@/theme/preferenciaTema';
 import { useThemePreference } from '@/theme/ThemePreferenceContext';
 import { radius, spacing, typography } from '@/theme/tokens';
 import { useTheme } from '@/theme/useTheme';
@@ -43,6 +54,7 @@ async function abrirPermissao(item: ItemDePermissao) {
  */
 export default function Ajustes() {
   const theme = useTheme();
+  const t = useTextos();
   const router = useRouter();
   const { permissions, restricted } = useProtectionVerdictContext();
   const { preferencia, definirPreferencia } = useThemePreference();
@@ -74,7 +86,8 @@ export default function Ajustes() {
     void saveDailyHours(valor);
   };
 
-  const permissoes = itensDePermissao(permissions, Platform.OS === 'ios' ? 'ios' : 'android');
+  const permissoes = itensDePermissao(permissions, Platform.OS === 'ios' ? 'ios' : 'android', t);
+  const nomeVisivel = nome ?? t.ajustes.perfil.semNome;
   const pendentes = contarPendentes(permissoes);
 
   return (
@@ -88,7 +101,7 @@ export default function Ajustes() {
             accessibilityRole="header"
             style={[styles.titulo, { color: theme.colors.textPrimary }]}
           >
-            Ajustes
+            {t.ajustes.titulo}
           </Text>
 
           <View
@@ -99,8 +112,10 @@ export default function Ajustes() {
           >
             <Pressable
               accessibilityRole="button"
-              accessibilityLabel={`${nome ?? 'Sem nome'}. Estimativa de tempo de tela`}
-              accessibilityHint={editandoHoras ? 'Fecha o ajuste' : 'Abre o ajuste da estimativa'}
+              accessibilityLabel={formatar(t.ajustes.perfil.rotuloAcessivel, { nome: nomeVisivel })}
+              accessibilityHint={
+                editandoHoras ? t.ajustes.perfil.dicaFecharAjuste : t.ajustes.perfil.dicaAbrirAjuste
+              }
               accessibilityState={{ expanded: editandoHoras }}
               onPress={() => setEditandoHoras((atual) => !atual)}
               style={({ pressed }) => [
@@ -111,18 +126,19 @@ export default function Ajustes() {
               <Avatar nome={nome} size={48} />
               <View style={styles.textos}>
                 <Text style={[styles.nome, { color: theme.colors.textPrimary }]}>
-                  {nome ?? 'Sem nome'}
+                  {nomeVisivel}
                 </Text>
                 <Text style={[styles.estimativa, { color: theme.colors.textSecondary }]}>
                   {horas === null
-                    ? 'Estimativa não definida'
-                    : `Estimativa: ${horas} h de tela por dia`}
+                    ? t.ajustes.perfil.estimativaNaoDefinida
+                    : contar(t, t.ajustes.perfil.estimativaDeHoras, horas)}
                 </Text>
               </View>
               <Ionicons
                 name={editandoHoras ? 'chevron-up' : 'chevron-forward'}
                 size={20}
                 color={theme.colors.textTertiary}
+                style={!editandoHoras && I18nManager.isRTL ? styles.espelhado : undefined}
               />
             </Pressable>
             {editandoHoras && (
@@ -134,7 +150,7 @@ export default function Ajustes() {
         </View>
 
         <View style={styles.secao}>
-          <Grupo titulo="Proteção">
+          <Grupo titulo={t.ajustes.protecao.grupo}>
             <ListRow
               icon={
                 <Ionicons
@@ -143,8 +159,12 @@ export default function Ajustes() {
                   color={restricted ? theme.colors.textWarning : theme.colors.textSecondary}
                 />
               }
-              label="Modo restrito"
-              value={restricted ? 'Ligado' : 'Desligado'}
+              label={t.ajustes.protecao.modoRestrito}
+              value={
+                restricted
+                  ? t.ajustes.protecao.modoRestritoLigado
+                  : t.ajustes.protecao.modoRestritoDesligado
+              }
               chevron
               onPress={() => router.navigate('/bloqueios')}
             />
@@ -152,21 +172,21 @@ export default function Ajustes() {
               icon={
                 <Ionicons name="hourglass-outline" size={20} color={theme.colors.textSecondary} />
               }
-              label="Tempo de espera"
-              value={`${waitMinutes} min`}
+              label={t.ajustes.protecao.tempoDeEspera}
+              value={contar(t, t.ajustes.protecao.minutosDeEspera, waitMinutes)}
             />
           </Grupo>
         </View>
 
         <View style={[styles.secao, styles.aparencia]}>
           <View style={styles.cabecalhoSecao}>
-            <Overline>Aparência</Overline>
+            <Overline>{t.ajustes.aparencia.titulo}</Overline>
           </View>
           <SegmentedControl
-            accessibilityLabel="Aparência"
+            accessibilityLabel={t.ajustes.aparencia.titulo}
             segmentos={PREFERENCIAS.map((opcao) => ({
               valor: opcao,
-              rotulo: ROTULOS_PREFERENCIA[opcao],
+              rotulo: rotuloPreferencia(opcao, t),
             }))}
             valor={preferencia}
             onChange={definirPreferencia}
@@ -176,13 +196,9 @@ export default function Ajustes() {
 
         <View style={styles.secao}>
           <Grupo
-            titulo="Permissões"
+            titulo={t.ajustes.permissoes.grupo}
             detalhe={
-              pendentes === 0
-                ? undefined
-                : pendentes === 1
-                  ? '1 pendente'
-                  : `${pendentes} pendentes`
+              pendentes === 0 ? undefined : contar(t, t.ajustes.permissoes.pendentes, pendentes)
             }
             corDoDetalhe={theme.colors.textWarning}
           >
@@ -207,7 +223,10 @@ export default function Ajustes() {
                   ) : (
                     <Pressable
                       accessibilityRole="button"
-                      accessibilityLabel={`${item.rotuloAcao}: ${item.titulo}`}
+                      accessibilityLabel={formatar(t.ajustes.permissoes.acaoAcessivel, {
+                        acao: item.rotuloAcao,
+                        permissao: item.titulo,
+                      })}
                       hitSlop={4}
                       onPress={() => void abrirPermissao(item)}
                       style={({ pressed }) => [
@@ -230,9 +249,9 @@ export default function Ajustes() {
         </View>
 
         <View style={styles.secao}>
-          <Grupo titulo="Sobre">
+          <Grupo titulo={t.ajustes.sobre.grupo}>
             <ListRow
-              label="Política de privacidade"
+              label={t.ajustes.sobre.politicaDePrivacidade}
               densa
               recuoDireito={spacing[3] + 2}
               accessory={
@@ -241,7 +260,7 @@ export default function Ajustes() {
               onPress={() => void Linking.openURL(`${SITE}/#privacidade`)}
             />
             <ListRow
-              label="Termos de uso"
+              label={t.ajustes.sobre.termosDeUso}
               densa
               recuoDireito={spacing[3] + 2}
               accessory={
@@ -249,10 +268,14 @@ export default function Ajustes() {
               }
               onPress={() => void Linking.openURL(`${SITE}/#termos`)}
             />
-            <ListRow label="Versão" densa value={Constants.expoConfig?.version ?? '—'} />
+            <ListRow
+              label={t.ajustes.sobre.versao}
+              densa
+              value={Constants.expoConfig?.version ?? '—'}
+            />
           </Grupo>
           <Text style={[styles.rodape, { color: theme.colors.textTertiary }]}>
-            Tudo fica no seu celular. Sem conta, sem servidor.
+            {t.ajustes.rodape}
           </Text>
         </View>
       </ScrollView>
@@ -339,5 +362,8 @@ const styles = StyleSheet.create({
     lineHeight: typography.footnote.lineHeight,
     paddingHorizontal: spacing[1],
     paddingTop: spacing[1],
+  },
+  espelhado: {
+    transform: [{ scaleX: -1 }],
   },
 });

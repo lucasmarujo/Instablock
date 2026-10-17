@@ -1,3 +1,6 @@
+import type { Textos } from '../../i18n/catalogo';
+import { contar, formatar, juntarLista } from '../../i18n/formatos';
+
 /**
  * Logica pura do Countdown (docs/design-system.md §2), separada do hook que
  * le o tempo — testável sem React nem runtime nativo, mesmo padrão de
@@ -27,9 +30,11 @@ function splitMinutesSeconds(remainingMs: number) {
 }
 
 /** Rótulo visual — pode mudar a cada tick, é texto, nunca só cor. */
-export function formatRemainingShort(remainingMs: number): string {
+export function formatRemainingShort(remainingMs: number, t: Textos): string {
   const { minutes, seconds } = splitMinutesSeconds(remainingMs);
-  return minutes > 0 ? `Faltam ${minutes} min ${seconds} s` : `Faltam ${seconds} s`;
+  return minutes > 0
+    ? formatar(t.espera.contagem.faltamMinutosESegundos, { m: minutes, s: seconds })
+    : formatar(t.espera.contagem.faltamSegundos, { s: seconds });
 }
 
 /**
@@ -87,13 +92,12 @@ export function pontaDoArco(fracao: number, raio: number): { x: number; y: numbe
  * com VoiceOver/TalkBack). Quem chama passa o mesmo `remainingMs` arredondado
  * pro bucket de 15s (roundToAnnouncementBucket), não o valor cru do tick.
  */
-export function formatRemainingForScreenReader(remainingMs: number): string {
+export function formatRemainingForScreenReader(remainingMs: number, t: Textos): string {
   const { minutes, seconds } = splitMinutesSeconds(remainingMs);
   const parts: string[] = [];
-  if (minutes > 0) parts.push(`${minutes} ${minutes === 1 ? 'minuto' : 'minutos'}`);
-  if (seconds > 0 || minutes === 0)
-    parts.push(`${seconds} ${seconds === 1 ? 'segundo' : 'segundos'}`);
-  return `Faltam ${parts.join(' e ')}`;
+  if (minutes > 0) parts.push(contar(t, t.duracao.minutosFalados, minutes));
+  if (seconds > 0 || minutes === 0) parts.push(contar(t, t.duracao.segundosFalados, seconds));
+  return formatar(t.espera.contagem.faltamFalado, { tempo: juntarLista(t, parts) });
 }
 
 /**

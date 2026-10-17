@@ -9,6 +9,8 @@ import { Overline } from '@/components/Grupo';
 import { filtrarApps } from '@/components/Onboarding/passos';
 import { Skeleton } from '@/components/Skeleton';
 import { TextField } from '@/components/TextField';
+import { useTextos } from '@/i18n/IdiomaContext';
+import { contar, formatar } from '@/i18n/formatos';
 import { FamilyActivityPickerView } from '@/native/FamilyActivityPickerView';
 import AceleralockBlocker, { type AutomaticClock, type InstalledApp } from '@/native/blocker';
 import { mergeBlockedPackages } from '@/state/blockedApps';
@@ -74,6 +76,8 @@ type Props = {
  */
 export function PainelApps({ cabecalho, restricted, onSalvo }: Props) {
   const theme = useTheme();
+  const t = useTextos();
+  const textos = t.bloqueios.apps;
   const [carga, setCarga] = useState<Carga>({ estado: 'carregando' });
   const [marcados, setMarcados] = useState<Set<string>>(new Set());
   const [busca, setBusca] = useState('');
@@ -167,12 +171,15 @@ export function PainelApps({ cabecalho, restricted, onSalvo }: Props) {
         <View style={styles.conteudoIos}>
           {cabecalho}
           <Text style={[styles.corpo, { color: theme.colors.textSecondary }]}>
-            Selecione os apps que deseja bloquear no seletor abaixo.
+            {textos.instrucaoIos}
           </Text>
-          <FamilyActivityPickerView style={styles.seletor} />
+          <FamilyActivityPickerView
+            headerText={textos.cabecalhoSeletorIos}
+            style={styles.seletor}
+          />
         </View>
         <View style={styles.rodapeIos}>
-          <Button label="Salvar lista" loading={salvando} onPress={salvar} />
+          <Button label={textos.salvarLista} loading={salvando} onPress={salvar} />
         </View>
       </View>
     );
@@ -180,8 +187,8 @@ export function PainelApps({ cabecalho, restricted, onSalvo }: Props) {
 
   const { bloqueados, outros } = separarPorSalvos(filtrarApps(apps, busca), salvos);
   const secoes = [
-    { titulo: `Bloqueados · ${bloqueados.length}`, data: bloqueados },
-    { titulo: 'Outros apps', data: outros },
+    { titulo: formatar(textos.secaoBloqueados, { n: bloqueados.length }), data: bloqueados },
+    { titulo: textos.secaoOutros, data: outros },
   ].filter((secao) => secao.data.length > 0);
 
   const topo = (
@@ -191,8 +198,8 @@ export function PainelApps({ cabecalho, restricted, onSalvo }: Props) {
         <TextField
           value={busca}
           onChangeText={setBusca}
-          placeholder={`Buscar entre ${apps.length} apps`}
-          accessibilityLabel="Buscar app pelo nome"
+          placeholder={contar(t, textos.buscaPlaceholder, apps.length)}
+          accessibilityLabel={textos.buscaRotuloFalado}
           leadingIcon="search"
           tamanho="sm"
           autoCapitalize="none"
@@ -208,7 +215,7 @@ export function PainelApps({ cabecalho, restricted, onSalvo }: Props) {
       )}
       {carga.estado === 'erro' && (
         <Text style={[styles.corpo, { color: theme.colors.textSecondary }]}>
-          Não deu para ler a lista de apps do aparelho. Saia e entre nesta tela para tentar de novo.
+          {textos.erroAoLer}
         </Text>
       )}
     </View>
@@ -228,9 +235,7 @@ export function PainelApps({ cabecalho, restricted, onSalvo }: Props) {
         ListEmptyComponent={
           carga.estado === 'pronto' ? (
             <Text style={[styles.corpo, { color: theme.colors.textSecondary }]}>
-              {apps.length === 0
-                ? 'Nenhum app para escolher neste aparelho.'
-                : 'Nenhum app com esse nome.'}
+              {apps.length === 0 ? textos.nenhumAppNoAparelho : textos.nenhumAppComEsseNome}
             </Text>
           ) : null
         }
@@ -267,8 +272,8 @@ export function PainelApps({ cabecalho, restricted, onSalvo }: Props) {
                 marcado={marcados.has(item.packageName)}
                 onToggle={() => alternar(item.packageName)}
                 legenda={
-                  (bloqueadoDeVerdade && legendaComHorarios(faixas.length)) ||
-                  legendaDaLinha(salvos.has(item.packageName), marcados.has(item.packageName))
+                  (bloqueadoDeVerdade && legendaComHorarios(faixas.length, t)) ||
+                  legendaDaLinha(salvos.has(item.packageName), marcados.has(item.packageName), t)
                 }
                 legendaDestacada={bloqueadoDeVerdade}
                 disabled={restricted}
@@ -276,7 +281,7 @@ export function PainelApps({ cabecalho, restricted, onSalvo }: Props) {
                   bloqueadoDeVerdade ? (
                     <Pressable
                       accessibilityRole="button"
-                      accessibilityLabel={`Horários livres do ${item.label}`}
+                      accessibilityLabel={formatar(textos.botaoHorariosFalado, { app: item.label })}
                       hitSlop={4}
                       onPress={() => setEditando(item)}
                       style={({ pressed }) => [
@@ -319,8 +324,8 @@ export function PainelApps({ cabecalho, restricted, onSalvo }: Props) {
 
       {total > 0 && !restricted && (
         <BarraSalvar
-          titulo={tituloDaBarra(alteracoes)}
-          detalhe={descreverAlteracoes(alteracoes, (pacote) => rotulos.get(pacote) ?? pacote)}
+          titulo={tituloDaBarra(alteracoes, t)}
+          detalhe={descreverAlteracoes(alteracoes, (pacote) => rotulos.get(pacote) ?? pacote, t)}
           salvando={salvando}
           onSalvar={salvar}
         />

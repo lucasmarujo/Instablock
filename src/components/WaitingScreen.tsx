@@ -7,6 +7,9 @@ import { Button } from '@/components/Button';
 import { Countdown } from '@/components/Countdown/Countdown';
 import type { RemainingMsReader } from '@/components/Countdown/useCountdown';
 import { HeroCard } from '@/components/HeroCard';
+import type { Textos } from '@/i18n/catalogo';
+import { formatar } from '@/i18n/formatos';
+import { useTextos } from '@/i18n/IdiomaContext';
 import { radius, spacing, typography } from '@/theme/tokens';
 import { useTheme } from '@/theme/useTheme';
 
@@ -39,8 +42,9 @@ type Props = {
  */
 export function WaitingScreen({ readRemainingMs, pendingTarget, onCancel, totalMs }: Props) {
   const theme = useTheme();
+  const t = useTextos();
   const [canceling, setCanceling] = useState(false);
-  const copy = COPY[pendingTarget];
+  const copy = t.espera.alvos[ALVO[pendingTarget]];
 
   const handleCancel = async () => {
     setCanceling(true);
@@ -49,11 +53,8 @@ export function WaitingScreen({ readRemainingMs, pendingTarget, onCancel, totalM
   };
 
   const regras: { icone: keyof typeof Ionicons.glyphMap; texto: string }[] = [
-    { icone: 'time-outline', texto: 'A contagem segue com o app fechado.' },
-    {
-      icone: 'power-outline',
-      texto: 'Desligar o celular pausa a contagem — ela volta de onde parou.',
-    },
+    { icone: 'time-outline', texto: t.espera.regraAppFechado },
+    { icone: 'power-outline', texto: t.espera.regraCelularDesligado },
     { icone: 'checkmark', texto: copy.fim },
   ];
 
@@ -64,16 +65,16 @@ export function WaitingScreen({ readRemainingMs, pendingTarget, onCancel, totalM
           <View style={[styles.selo, { backgroundColor: theme.colors.bgWarningSubtle }]}>
             <Ionicons name="hourglass-outline" size={14} color={theme.colors.textWarning} />
             <Text style={[styles.textoSelo, { color: theme.colors.textWarning }]}>
-              Espera em andamento
+              {t.espera.emAndamento}
             </Text>
           </View>
           <Text
             accessibilityRole="header"
             style={[styles.title, { color: theme.colors.textPrimary }]}
           >
-            {copy.title}
+            {copy.titulo}
           </Text>
-          <Text style={[styles.subtitle, { color: theme.colors.textSecondary }]}>{copy.body}</Text>
+          <Text style={[styles.subtitle, { color: theme.colors.textSecondary }]}>{copy.corpo}</Text>
         </View>
 
         <HeroCard style={styles.cronometro}>
@@ -82,7 +83,7 @@ export function WaitingScreen({ readRemainingMs, pendingTarget, onCancel, totalM
             totalMs={totalMs}
             completeSlot={
               <Text style={[styles.subtitle, { color: theme.colors.textOnHeroSecondary }]}>
-                Confirmando…
+                {t.espera.confirmando}
               </Text>
             }
           />
@@ -106,43 +107,20 @@ export function WaitingScreen({ readRemainingMs, pendingTarget, onCancel, totalM
       </ScrollView>
 
       <View style={styles.acao}>
-        <Button label="Desistir da espera" loading={canceling} onPress={handleCancel} />
+        <Button label={t.espera.desistir} loading={canceling} onPress={handleCancel} />
         <Text style={[styles.legenda, { color: theme.colors.textTertiary }]}>
-          Desistir é grátis e imediato. {copy.aposDesistir}
+          {formatar(t.espera.legendaDesistir, { aposDesistir: copy.aposDesistir })}
         </Text>
       </View>
     </SafeAreaView>
   );
 }
 
-const COPY: Record<
-  PendingTarget,
-  { title: string; body: string; fim: string; aposDesistir: string }
-> = {
-  STOP_PROTECTION: {
-    title: 'Desligando a proteção',
-    body: 'Quando o tempo acabar, a proteção desliga e os apps bloqueados voltam a abrir.',
-    fim: 'Ao zerar, a proteção desliga sozinha.',
-    aposDesistir: 'A proteção continua ligada.',
-  },
-  UNLOCK_APP: {
-    title: 'Esperando para desbloquear',
-    body: 'Quando o tempo acabar, o app volta a abrir.',
-    fim: 'Ao zerar, o app é liberado.',
-    aposDesistir: 'O app continua bloqueado.',
-  },
-  CHANGE_DURATIONS: {
-    title: 'Esperando para mudar a duração',
-    body: 'A nova duração vale assim que o tempo acabar.',
-    fim: 'Ao zerar, a nova duração passa a valer.',
-    aposDesistir: 'A duração continua a mesma.',
-  },
-  RESTRICTED_MODE_OFF: {
-    title: 'Desativando o modo restrito',
-    body: 'Quando o tempo acabar, a lista de apps volta a ser editável.',
-    fim: 'Ao zerar, o modo restrito desliga sozinho.',
-    aposDesistir: 'O modo restrito continua ligado.',
-  },
+const ALVO: Record<PendingTarget, keyof Textos['espera']['alvos']> = {
+  STOP_PROTECTION: 'desligarProtecao',
+  UNLOCK_APP: 'desbloquearApp',
+  CHANGE_DURATIONS: 'mudarDuracao',
+  RESTRICTED_MODE_OFF: 'desligarModoRestrito',
 };
 
 const styles = StyleSheet.create({

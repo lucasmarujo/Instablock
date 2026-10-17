@@ -3,8 +3,7 @@ import { AppState } from 'react-native';
 
 import { deriveCountdownStatus, type CountdownStatus } from './countdownStatus';
 
-export type CountdownSnapshot =
-  { status: 'loading' } | CountdownStatus | { status: 'error'; message: string };
+export type CountdownSnapshot = { status: 'loading' } | CountdownStatus | { status: 'error' };
 
 export type RemainingMsReader = () => Promise<number> | number;
 
@@ -36,7 +35,7 @@ export function useCountdown(readRemainingMs: RemainingMsReader) {
     } catch (error) {
       console.warn('[useCountdown] falha ao ler tempo restante', error);
       anchor.current = null;
-      setSnapshot({ status: 'error', message: 'Não foi possível ler o tempo restante.' });
+      setSnapshot({ status: 'error' });
     }
   }, [readRemainingMs]);
 

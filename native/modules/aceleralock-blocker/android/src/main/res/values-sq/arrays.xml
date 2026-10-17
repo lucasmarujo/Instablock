@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Shqip: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>Koha që nuk e kalon këtu të kthehet e tëra në jetën tënde.</item>
+        <item>Çdo minutë larg këtij ekrani është sërish një minutë e jotja.</item>
+        <item>Këto njëzet minuta të mjaftojnë për një shëtitje.</item>
+        <item>Dita ka më shumë vend se sa duket kur scroll-i ndalon.</item>
+        <item>Sapo more pas një copë nga pasdita jote.</item>
+        <item>Një orë në ditë janë pesëmbëdhjetë ditë në vit.</item>
+        <item>Koha nuk kthehet, por ende mund të zgjedhësh ku shkon.</item>
+        <item>Ky çast është yti. Askush nuk ka nevojë të dijë çfarë bën me të.</item>
+        <item>Një jetë e tërë po ndodh jashtë aplikacionit.</item>
+        <item>Ora ecën njësoj nga të dyja anët e këtij ekrani.</item>
+        <item>Sapo bleve kohë. Shpenzoje për diçka që do ta kujtosh nesër.</item>
+        <item>Askush nuk e mbyll ditën duke dashur të kishte bërë më shumë scroll.</item>
+        <item>Pesëmbëdhjetë minuta këtu janë pesëmbëdhjetë minuta kudo tjetër.</item>
+        <item>Çfarë do të kishe bërë me këtë gjysmë ore dhjetë vjet më parë.</item>
+        <item>Koha jote është e vetmja gjë që nuk mund ta blesh përsëri.</item>
+        <item>Gjithë pasdita ende të qëndron e hapur përpara.</item>
+        <item>Kjo minutë mund të jetë fillimi i diçkaje tjetër.</item>
+        <item>Po i kthen vetes orë, një nga një.</item>
+        <item>Koha e kursyer këtu nuk zhduket. Shfaqet diku tjetër.</item>
+        <item>Dhjetë minuta duken pak derisa t’i mbledhësh ato të një muaji.</item>
+        <item>Jeta ecën me shpejtësi normale, jo me atë të feed-it.</item>
+        <item>Sot ke më shumë kohë se dje në këtë orë.</item>
+        <item>Ajo që po e shtyje hyn saktësisht në këtë interval.</item>
+        <item>Kjo pushim është i shkurtër. Ajo që bën me të mund të mos jetë.</item>
+        <item>Një ditë nxë shumë gjëra kur scroll-i del nga mesi.</item>
+        <item>Sapo more pas pjesën tjetër të mbrëmjes.</item>
+        <item>Koha është monedha. Sapo vendose të mos e shpenzosh.</item>
+        <item>Feed-i nuk mbaron kurrë. Dita jote mbaron.</item>
+        <item>Gjysmë ore në ditë të jep një libër të tërë në muaj.</item>
+        <item>Brenda nuk të priste asgjë urgjente.</item>
+        <item>Kjo kohë ishte e jotja që më parë. Tani është prapë me ty.</item>
+        <item>Mëngjesi ende mund të japë fryte nëse nis tani.</item>
+        <item>Nuk humbe asgjë. Fitove një interval.</item>
+        <item>Askush nuk na e kthen kohën. Ne jemi ata që e mbajmë.</item>
+        <item>Këto minuta vlejnë më shumë jashtë këtu dhe ti e di.</item>
+        <item>Ajo që ishte aty është ende aty. Koha jote nuk është.</item>
+        <item>Një jetë ndërtohet nga pasdite si kjo.</item>
+        <item>Mund ta mbyllësh ditën me diçka të bërë, jo me diçka të parë.</item>
+        <item>Dy orë në ditë janë një muaj i tërë në vit.</item>
+        <item>Koha që mbron sot është ajo që të mbetet nesër.</item>
+        <item>Kjo është pjesa e ditës që e vendos vetëm ti.</item>
+        <item>Askush nuk ka shkruar brenda diçka që e vlen pasditen tënde.</item>
+        <item>Tridhjetë minuta në ditë ndërtojnë çdo gjë brenda një viti.</item>
+        <item>Sapo bleve një copë heshtje.</item>
+        <item>Dita bëhet më e madhe kur feed-i bëhet më i vogël.</item>
+        <item>Kjo kohë tani është lëndë e parë. Bëj diçka me të.</item>
+        <item>Një projekt yti pret pikërisht këtë interval.</item>
+        <item>Ajo që fiton këtu nuk del në asnjë ekran, vetëm në jetën tënde.</item>
+        <item>Koha e lirë është e rrallë. Sapo krijove një.</item>
+        <item>Askush në fund të jetës nuk ka kërkuar edhe një scroll tjetër.</item>
+        <item>Ke gjithë pasditen dhe ende nuk është harxhuar.</item>
+        <item>Një vit janë treqind e gjashtëdhjetë e pesë zgjedhje si kjo.</item>
+        <item>Ky interval është i vogël, por është plotësisht yti.</item>
+        <item>Koha kalon njësoj. Dallimi është ajo që mbetet pas.</item>
+        <item>Sapo e nxorre gjysmë ore nga pilota automatike.</item>
+        <item>Pjesa tjetër e ditës e falënderon këtë ndalesë.</item>
+        <item>Pesë minuta atje bëhen dyzet pa e vënë re askush.</item>
+        <item>E di çmimin e këtyre pesë minutave. Prandaj je këtu.</item>
+        <item>Ora që mbron tani është ajo që e kërkon natën.</item>
+        <item>Asgjë brenda nuk bëhet më e mirë po e pe tani në vend të më vonë.</item>
+        <item>Sapo zgjodhe ku shkon minuta e radhës.</item>
+        <item>Kjo kohë të del për një bisedë, një shëtitje, një gjumë të shkurtër.</item>
+        <item>Dita jep fryte kur orët ndalojnë së rrjedhuri.</item>
+        <item>Ti je i vetmi zot i gjysmë orës së ardhshme.</item>
+        <item>Ekziston një version i kësaj dite ku bëre diçka. Nis tani.</item>
+        <item>Koha nuk grumbullohet. Ajo vetëm shpenzohet më mirë ose më keq.</item>
+        <item>Këto minuta mund të bëhen pushim i vërtetë.</item>
+        <item>Sapo zbrite nga një shirit që nuk të çon askund.</item>
+        <item>Një javë ka njëqind e gjashtëdhjetë e tetë orë. Kjo këtu është e jotja.</item>
+        <item>Feed-i e merr kohën copa-copa që askush të mos ndjejë mungesën.</item>
+        <item>Tani mund ta bësh atë që mbetet çdo ditë për nesër.</item>
+        <item>Pasdita jote nuk ka pse të nxihet brenda një ekrani.</item>
+        <item>Koha që të teprion e bën ditën të duket e gjatë në mënyrën e mirë.</item>
+        <item>Sapo ia ktheve vetes orën e ardhshme.</item>
+        <item>Asgjë nga ç’do të shihje tani nuk do të të kujtohej pas një jave.</item>
+        <item>Ky është lloji i minutës që ndërton ose tretet një vit.</item>
+        <item>Fitove kohë. S’ka pse ta shpenzosh shpejt.</item>
+        <item>Një ditë pa scroll është një ditë ku nxë më shumë gjëra.</item>
+        <item>Ora nuk e ndan kohën e mirë nga ajo e hedhur. E ndan ti.</item>
+        <item>Kjo orë vlen aq sa çdo orë tjetër e jetës sate.</item>
+        <item>Ke kohë tani. Kjo është më e rrallë se sa duket.</item>
+        <item>Të ruash kohën është mënyra e vetme për të pasur kohë.</item>
+        <item>Gjithë mbrëmja ende është përpara.</item>
+        <item>Këto minuta janë fillimi i një pasditeje që do ta kujtosh.</item>
+        <item>Sapo shmangve atë gropën e një ore.</item>
+        <item>Çdo gjë që kërkon kohë kërkon pikërisht këtë lloj vendimi.</item>
+        <item>Intervali mes tani dhe darkës ende mjafton për shumë gjëra.</item>
+        <item>E hoqe këmbën nga gazi. Dita ngadalësohet bashkë me ty.</item>
+        <item>Java jote ka vend. Ishte i zënë nga diçka tjetër.</item>
+        <item>Sa herë e mbyll këtu, dita rritet pak.</item>
+        <item>Koha është dhurata që i bën vetes pa shpenzuar asgjë.</item>
+        <item>Tani ke saktësisht atë që gjithë ditën thua se nuk e ke.</item>
+        <item>Një pasdite e gjatë ndërtohet nga vendime të shkurtra si ky.</item>
+        <item>Askush nuk do të pyesë çfarë bëre me këtë gjysmë ore.</item>
+        <item>Koha që nuk e jep sot do të jetë ende me ty nesër.</item>
+        <item>Njëzet minuta në ditë janë njëqind e njëzet orë në vit.</item>
+        <item>Sapo more pas intervalin para gjumit.</item>
+        <item>Ka shumë jetë mes një njoftimi dhe tjetrit.</item>
+        <item>Gjithë dita të nxë këtu nëse nuk e jep copa-copa.</item>
+        <item>Ke arritur deri këtu duke mbrojtur kohën. Ky është një tjetër.</item>
+        <item>Vëmendja jote është e mira më e luftuar e botës. Sapo fitove.</item>
+        <item>Përqendrimit i duhen njëzet minuta të kthehet. Mos ia jep tani.</item>
+        <item>Një mendje e tërë vlen më shumë se një mendje e copëtuar.</item>
+        <item>Ishe i përqendruar te diçka para se të vije këtu.</item>
+        <item>Vëmendja e ndarë nuk është vëmendje. Është vetëm lodhje.</item>
+        <item>Ajo që po bëje e meriton gjithë ty.</item>
+        <item>Të menduarit thellë kërkon kohë pa ndërprerje. Kjo është ajo.</item>
+        <item>Çdo ndërrim ekrani kushton më shumë se sa tregon ora.</item>
+        <item>Mendja jote po shkonte mirë. Lëre të vazhdojë.</item>
+        <item>Puna e thellë nuk mbijeton një scroll feed-i.</item>
+        <item>Feed-i u krijua për të marrë vëmendjen tënde. E vure re.</item>
+        <item>Një mendim i gjatë ka nevojë për heshtje që të mbarojë.</item>
+        <item>Mund ta mbash një ide të tërë në mendje. Të duhet vetëm hapësirë.</item>
+        <item>Shpërqendrimi nuk është pushim. Pushimi të çlodh.</item>
+        <item>Përqendrimi që kishe është ende diku. Kthehu tek ai.</item>
+        <item>Vëmendja jote nuk është në shitje sot.</item>
+        <item>Më e mira e mendjes sate del pas minutës së njëzetë.</item>
+        <item>Të ndërpresh tani kushton më shumë se sa duket.</item>
+        <item>Ti je i aftë për gjëra që kërkojnë përqendrim. Nis duke e mbrojtur.</item>
+        <item>Asgjë brenda nuk e ka nevojë urgjente vëmendjen tënde.</item>
+        <item>Një orë e përqendruar jep më shumë se katër orë të copëtuara.</item>
+        <item>Mendja jote punon më mirë kur nuk ndërron temë.</item>
+        <item>Ajo që mbeti përgjysmë ende mund të mbarohet sot.</item>
+        <item>Përqendrimi nuk është vullnet. Është mjedis. Sapo e rregullove tëndin.</item>
+        <item>Ai problem i vështirë lëshon kur rri tek ai.</item>
+        <item>Vëmendja jote është e kufizuar. Prandaj vlen kaq shumë.</item>
+        <item>Nuk ke pse ta dish gjithçka tani.</item>
+        <item>Zhurma do të vazhdojë atje. E rrallë është heshtja jote.</item>
+        <item>Gjëra të mëdha janë bërë nga njerëz që nuk i ndërpreu kush.</item>
+        <item>Kthehu te ajo që po bëje. Mendja jote është ende atje.</item>
+        <item>Një detyrë në një kohë është më e shpejtë se sa duket.</item>
+        <item>Nxitimi për të parë kalon. Ideja e ndërprerë ndonjëherë nuk kthehet.</item>
+        <item>Ke aftësi përqendrimi më të madhe se sa po përdor.</item>
+        <item>Të mendosh mirë është ngadalë. Lëre të jetë ngadalë.</item>
+        <item>Vëmendja jote ndërtoi diçka sot. Mos e shemb nga kureshtja.</item>
+        <item>Ajo që kërkon mendje kërkon gjithë mendjen.</item>
+        <item>Asnjë feed nuk do të të mësojë atë që të mëson një orë përqendrimi.</item>
+        <item>Çdo njoftim i refuzuar është pak më shumë qartësi.</item>
+        <item>Ishe afër të kuptuarit. Kthehu aty.</item>
+        <item>Një mendje e pushuar është një mendje që nuk është tërhequr gjithë ditën.</item>
+        <item>Vëmendja jote është lënda me të cilën ndërton gjithçka tjetër.</item>
+        <item>E vështira është të fillosh. Ti ke filluar. Mos nis nga e para.</item>
+        <item>Lëre temën të qetësohet dhe zgjidhet vetë në mendjen tënde.</item>
+        <item>Qartësia shfaqet kur zhurma ndalon.</item>
+        <item>Puna më e mirë e ditës sate ende nuk ka ndodhur.</item>
+        <item>Nuk është mungesë kohe. Është mungesë kohe e plotë.</item>
+        <item>Mendon më mirë se sa të lë feed-i të mendosh.</item>
+        <item>Ai tekst, ai kod, ajo bisedë. Të presin ty të tërin.</item>
+        <item>Përqendrimi është një muskul. Rritet me ditë si sot.</item>
+        <item>Mendja jote sapo të falënderoi.</item>
+        <item>Një gjë në një kohë është ende teknika më e përparuar që ekziston.</item>
+        <item>Ajo që bën me vëmendje mbetet. Pjesa tjetër kalon.</item>
+        <item>Nuk ka shkurtore për të menduar. Vetëm kohë pa ndërprerje.</item>
+        <item>Meriton të përfundosh një mendim.</item>
+        <item>Mendja jote ishte e mprehtë. Ruaje atë teh.</item>
+        <item>Ekrani pulson. Idetë jo. Rri me idetë.</item>
+        <item>Një ditë me përqendrim vlen sa tre ditë me vrap.</item>
+        <item>Nuk je i ngadalshëm. Thjesht po të ndërprisnin.</item>
+        <item>Tema që ka rëndësi sot nuk është në feed.</item>
+        <item>Të mbash drejtimin kushton më pak se sa të kthehesh tek ai.</item>
+        <item>E gjithë vëmendja jote është një dhuratë. Jepja atij që e meriton.</item>
+        <item>Heshtja është vendi ku shfaqen idetë e mira.</item>
+        <item>Ishe në mes të diçkaje të mirë.</item>
+        <item>Askush nuk mendon mirë me mendjen në dhjetë vende.</item>
+        <item>Thellësia shfaqet vetëm pasi të kalosh pak kohë në sipërfaqe.</item>
+        <item>Përqendrimi nuk është të bësh më shumë. Është të bësh mirë.</item>
+        <item>Sot ke një gjë të rëndësishme. Feed-i nuk është ajo.</item>
+        <item>Lëre mendjen të mbarojë fjalinë që nisi.</item>
+        <item>Një orë pa ndërprerje ndryshon çfarë është e mundur gjatë ditës.</item>
+        <item>Ajo që duket e vështirë tani bëhet e lehtë me vëmendje të vazhdueshme.</item>
+        <item>Përqendrimi yt është përparësia jote. Pak vetë e kanë ende të tyrin.</item>
+        <item>Mos shkëmbe një gjë të rëndësishme me shumë gjëra të shpejta.</item>
+        <item>Kureshtja mund të presë. Përqendrimi nuk pret.</item>
+        <item>Po ndërton diçka. Vazhdo.</item>
+        <item>Ndërrimi i detyrës duket produktiv dhe pothuajse kurrë nuk është.</item>
+        <item>Përdorimi më i mirë i mendjes sate sot është ende i lirë.</item>
+        <item>Vëmendja që ruan tani shfaqet në rezultat më vonë.</item>
+        <item>Mendja jote nuk është feed. Ajo ruan atë që i jep vëmendje.</item>
+        <item>Një temë që të meriton të tërin është e rrallë. Shfrytëzoje.</item>
+        <item>E vështira nuk është e pamundur. Është vetëm e gjatë.</item>
+        <item>Je disa minuta larg zgjidhjes së asaj.</item>
+        <item>Zhurma zhduket kur ndalon ta ushqesh.</item>
+        <item>Rri me atë që po bëje derisa ta mbarosh.</item>
+        <item>Çdo zhytje e thellë paguan dhjetë zhytje të cekëta.</item>
+        <item>Vëmendja jote vendos çfarë bëhet kujtim.</item>
+        <item>Kujton vetëm atë që i dhe vëmendje.</item>
+        <item>Të menduarit është gjëja më e vlefshme që bën sot.</item>
+        <item>Një mendje pa nxitim zgjidh atë që një mendje e ngutur nuk e sheh.</item>
+        <item>Puna e mirë kërkon durim, jo shpejtësi.</item>
+        <item>Asgjë nga ç’do të shihje tani nuk do të hynte në një bisedë nesër.</item>
+        <item>Qartësia jote mendore sot nisi me vendime si ky.</item>
+        <item>Ndërprerja është taksa më e shtrenjtë që ekziston.</item>
+        <item>Mund të rrish më shumë se sa mendon te një gjë e vetme.</item>
+        <item>Ai detaj që po të iku shfaqet në heshtje.</item>
+        <item>Përqendrimi kthehet. Duhen vetëm disa minuta pa ekran.</item>
+        <item>Je i aftë për vëmendje të gjatë. Feed-i vë bast që nuk je.</item>
+        <item>Të mbarosh një gjë sot vlen më shumë se të nisësh pesë.</item>
+        <item>Vëmendja jote e plotë është e rrallë edhe për vetë ty.</item>
+        <item>Lëre mendimin të marrë frymë.</item>
+        <item>Atë që ndërton me përqendrim askush nuk e rrëshqet poshtë.</item>
+        <item>Dëshira për të hapur kalon pas disa minutash. Gjithmonë kalon.</item>
+        <item>Ky impuls ka afat. Skadon vetë.</item>
+        <item>Nuk ke pse bësh asgjë. Vetëm prit të ulet vala.</item>
+        <item>Ngutja që ndjen tani nuk është e jotja. Të është mësuar.</item>
+        <item>Merr frymë një herë. Dëshira është tashmë më e vogël se një minutë më parë.</item>
+        <item>Impulsi është i lartë në fillim dhe zhduket në mes të rrugës.</item>
+        <item>Nuk je ti që do. Është zakoni që kërkon.</item>
+        <item>Është e pakëndshme për pak kohë. Pastaj kalon.</item>
+        <item>E ke ndjerë këtë më parë dhe ia ke dalë çdo herë.</item>
+        <item>Dëshira vjen në vala. Valët thyhen.</item>
+        <item>Askush nuk ka pse t’i bindet impulsit të parë.</item>
+        <item>Kjo shtrëngim në gjoks zgjat më pak se një këngë.</item>
+        <item>Ti je më i madh se një impuls tridhjetë sekondësh.</item>
+        <item>Lëre dëshirën të kalojë pa bërë asgjë me të.</item>
+        <item>Parehatia tani është zakoni që lëshon. Kjo është përparim.</item>
+        <item>Nuk po i reziston. Thjesht po pret.</item>
+        <item>Dëshira vjen e fortë dhe ikën e qetë.</item>
+        <item>Numëro deri në njëzet. Do të jetë tashmë më e vogël.</item>
+        <item>Të duash nuk është e njëjta gjë me të pasur nevojë.</item>
+        <item>Impulsi kërkon përgjigje të menjëhershme. Mos i jep asnjë.</item>
+        <item>Ky është çasti më i vështirë dhe është i shkurtër.</item>
+        <item>Nuk ke pse luftosh. Vetëm mos vendos tani.</item>
+        <item>Dëshira zhduket kur askush nuk e ushqen.</item>
+        <item>Ky është ankth, jo uri për përmbajtje.</item>
+        <item>Vëre dëshirën pa hyrë brenda saj.</item>
+        <item>Truri kërkon të zakonshmen. Nuk je i detyruar ta shërbesh.</item>
+        <item>Pesë minuta dhe as nuk të kujtohet që deshe të hapje.</item>
+        <item>Vala po ngrihet tani. Gjithmonë zbret.</item>
+        <item>Ti je tashmë në anën tjetër të pjesës më të keqe.</item>
+        <item>Impulsi gënjen për forcën e vet.</item>
+        <item>Çohu, pi ujë, kthehu. Ai ka ikur tashmë.</item>
+        <item>Dëshira nuk është urdhër.</item>
+        <item>Mund ta ndjesh këtë dhe të mos bësh asgjë. Lejohet.</item>
+        <item>Trupi kërkon lëvizje, jo ekran.</item>
+        <item>Kjo dëshirë është automatike. Përgjigjja jote nuk ka pse të jetë.</item>
+        <item>Asgjë e keqe nuk ndodh nëse pret pak më shumë.</item>
+        <item>Dëshira zhduket vetë nëse i bën vend.</item>
+        <item>Je thjesht i ankthshëm. Kjo kalon dhe nuk kërkon ekran.</item>
+        <item>Impulsi është një sugjerim. Ti je ai që vendos.</item>
+        <item>Edhe një minutë dhe dëshira është tashmë diçka tjetër.</item>
+        <item>Pjesa e vështirë zgjat pak. Pjesa e mirë zgjat gjithë ditën.</item>
+        <item>Ky është ai shtytje e vogël. Nuk shtyn aq shumë.</item>
+        <item>Prit pa gjykuar. Dëshira shpërbëhet vetë.</item>
+        <item>Truri yt po kërkon shkurtoren e zakonshme.</item>
+        <item>Nuk ke pse fitosh asgjë. Vetëm lëre të kalojë.</item>
+        <item>Çdo valë që lë të kalojë e bën tjetrën më të vogël.</item>
+        <item>Ankthi kërkon zgjidhje të shpejtë. Nuk do ta gjejë këtu.</item>
+        <item>Rri një çast pa lëvizur. Impulsi nuk rri.</item>
+        <item>Nuk po humb asgjë duke pritur.</item>
+        <item>Mërzia nuk është urgjencë.</item>
+        <item>Të ndjerit bosh tani është normale. Mbushet vetë.</item>
+        <item>Dëshira për të parë diçka rrallë ka të bëjë me atë diçka.</item>
+        <item>Je i pakëndshëm, jo në rrezik.</item>
+        <item>Kjo do të zbutet pas pak çastesh.</item>
+        <item>Zakoni është i fortë, por është i shkurtër.</item>
+        <item>Lëre këtë të kalojë. Vetëm këtë.</item>
+        <item>Herën tjetër do të jetë më e lehtë për shkak të kësaj.</item>
+        <item>Nuk ke pse bindësh veten për asgjë. Vetëm prit.</item>
+        <item>Një gotë ujë zgjidh më shumë se një scroll feed-i.</item>
+        <item>Ngutja është e rreme dhe ti e di.</item>
+        <item>Impulsi nuk duron dot pa përgjigje.</item>
+        <item>Prit tridhjetë sekonda. Pastaj vendos përsëri.</item>
+        <item>Je në kulm. Që këtu e tutje është tatëpjetë.</item>
+        <item>Asgjë nuk kërkon reagimin tënd tani.</item>
+        <item>Dëshira është një vizitore. Do të ikë.</item>
+        <item>Ti nuk je impulsi. Ti je ai që e vëzhgon.</item>
+        <item>Trupi çlodhet nëse i jep një minutë.</item>
+        <item>Kjo është vetëm truri që kërkon stimul. Do të gjejë një tjetër.</item>
+        <item>Tri frymëmarrje të thella ndryshojnë intensitetin e kësaj.</item>
+        <item>Dëshira tkurret kur e shikon në sy.</item>
+        <item>E duron këtë minutë. Ke duruar edhe më keq.</item>
+        <item>Bezdia kalon edhe pa bërë ti asgjë.</item>
+        <item>Dora ishte më e shpejtë se mendja. Ndodh.</item>
+        <item>Asnjë vendim nuk duhet marrë në dhjetë sekondat e para.</item>
+        <item>Je disa çaste larg nga të mos e kujtuarit fare.</item>
+        <item>Këmbëza u shtyp. Përgjigjja është ende e jotja.</item>
+        <item>Lëre dëshirën të ekzistojë pa iu bindur.</item>
+        <item>Kjo nuk është etje e madhe. Është zakon.</item>
+        <item>Prit. Kjo është fjalë për fjalë gjithçka që duhet të bësh.</item>
+        <item>Mendja qetësohet vetë nëse nuk hedh më shumë dru.</item>
+        <item>Po pret tashmë. Kjo është tashmë fitorja.</item>
+        <item>Impulsi humb forcën kur gjen një derë të mbyllur.</item>
+        <item>Çdo sekondë këtu është një sekondë avantazh.</item>
+        <item>Vala u thye. Vër re sa më e lehtë është tashmë.</item>
+        <item>Nuk ke nevojë për arsye që të mos e hapësh.</item>
+        <item>Dëshira kalon më shpejt se pendimi.</item>
+        <item>Një shtrirje zgjidh atë që feed-i nuk do ta zgjidhte.</item>
+        <item>Dëshira po ikën ndërsa e lexon këtë.</item>
+        <item>Mos vendos asgjë tani. Vetëm merr frymë.</item>
+        <item>Impulsi vjen vetë dhe shkon vetë.</item>
+        <item>Kjo këtu është më e vështira. Dhe është e shpejtë.</item>
+        <item>Ke duruar deri këtu. Mbeten sekonda.</item>
+        <item>Trupi kërkon ekran kur do pushim. Jepi pushim.</item>
+        <item>Dëshira bëhet më e vogël sa herë që nuk plotësohet.</item>
+        <item>Prit edhe pak. Kaq është.</item>
+        <item>Çasti kalon. Zgjedhja mbetet.</item>
+        <item>Sapo kalove pjesën e ngushtë.</item>
+        <item>Të kesh dëshirë është njerëzore. Të mos i nënshtrohesh gjithashtu.</item>
+        <item>Qetësia kthehet pas pak çastesh nëse nuk e shtyn.</item>
+        <item>U lehtësua, apo jo.</item>
+        <item>E vendose këtë kur ishe i qetë. Beso atë që vendosi.</item>
+        <item>Ti i djeshmi u kujdes për ty të sotmin.</item>
+        <item>Ky ekran është një porosi nga ti për vetveten.</item>
+        <item>Nuk po të ndalojnë. Po të kujtojnë.</item>
+        <item>Ai që do të bëhesh nuk e kalon pasditen duke bërë scroll.</item>
+        <item>Kjo zgjedhje ishte e jotja. Dhe vazhdon të jetë.</item>
+        <item>Ti je lloji i personit që e vuri re dhe veproi.</item>
+        <item>Askush nuk të detyroi ta instalosh këtë. Ti deshe.</item>
+        <item>Ti i nesërmi do ta pëlqejë ty të sotmin.</item>
+        <item>Ti je tashmë dikush që mbron kohën e vet.</item>
+        <item>Ky nuk është ndëshkim. Është marrëveshje.</item>
+        <item>Këtë rregull e shkrove ti. Po funksionon.</item>
+        <item>Të jesh zot i vëmendjes sate është zgjedhje e përditshme.</item>
+        <item>Nuk ke pse i provosh asgjë askujt këtu.</item>
+        <item>Personi që do të bëhesh nis me vendime të vogla.</item>
+        <item>Je në anën e duhur të këtij ekrani.</item>
+        <item>Sa herë e mbyll këtu, bëhesh më shumë ai që do të jesh.</item>
+        <item>Ti nuk je ajo që ndjen dëshirë. Je ajo që bën.</item>
+        <item>Marrëveshja me veten vlen aq sa çdo tjetër.</item>
+        <item>E njohe një model dhe e ndryshove. Kjo është e rrallë.</item>
+        <item>Ti je më i madh se aplikacionet në xhepin tënd.</item>
+        <item>Ky është rregulli yt dhe është në anën tënde.</item>
+        <item>Ke të drejtë të ndryshosh zakon.</item>
+        <item>Ajo që bën vazhdimisht është ajo që je.</item>
+        <item>Zgjodhe një jetë me më shumë hapësirë.</item>
+        <item>Nuk është aplikacioni ai që të komandon.</item>
+        <item>Identiteti yt nuk nxë në një feed.</item>
+        <item>Ti je personi që e instaloi këtë për një arsye.</item>
+        <item>Kujto arsyen. Ajo ende vlen.</item>
+        <item>Po nderon një vendim të tëndin.</item>
+        <item>Askush nuk vendos vëmendjen tënde në vendin tënd.</item>
+        <item>E vure re çfarë po ndodhte. Kjo tashmë ndryshon gjithçka.</item>
+        <item>Të jesh zot i ditës sate është punë e vazhdueshme.</item>
+        <item>Ti nuk je pasagjer. Ti drejton.</item>
+        <item>Kjo është zgjedhje e dikujt që e merr veten seriozisht.</item>
+        <item>Ti je përgjegjës për veten. Dhe po e bën.</item>
+        <item>Koha jote ka zot. Ai po e lexon këtë.</item>
+        <item>U ndave me veten. Mbaje fjalën.</item>
+        <item>Çdo vendim i tillë të afron me atë që do të jesh.</item>
+        <item>Nuk po humb lirinë. Po e ushtron.</item>
+        <item>Ai që vendos çfarë bën tani je ti.</item>
+        <item>Nuk të duhet leje për të jetuar ndryshe.</item>
+        <item>Ky kufi është kujdes, jo kafaz.</item>
+        <item>Zgjodhe një rrugë më të vështirë dhe më të tuajën.</item>
+        <item>Njeriu që admiron do të thoshte gjithashtu jo tani.</item>
+        <item>Ti jeton në jetën tënde, jo në aplikacion.</item>
+        <item>Është koha jote, mendja jote, zgjedhja jote.</item>
+        <item>Po i qëndron fjalës me veten. Kjo llogaritet.</item>
+        <item>Askush nuk do të kujdeset për vëmendjen tënde në vendin tënd.</item>
+        <item>Ke provuar tashmë që mund të ndryshosh rrugë.</item>
+        <item>Autonomia është kjo: të vendosësh më parë, jo në impuls.</item>
+        <item>Po ndërton dikë që e respekton.</item>
+        <item>Kjo është versioni yt që planifikon.</item>
+        <item>Nuk ke rënë këtu rastësisht. E ke ngritur vetë.</item>
+        <item>Fjala jote për veten vlen.</item>
+        <item>Ke mendim të vetin se si ta shpenzosh ditën.</item>
+        <item>Aplikacioni nuk të njeh. Ti e njeh veten.</item>
+        <item>Po vepron si zot i jetës sate.</item>
+        <item>Të jesh konsekuent me vendimin tënd është liri.</item>
+        <item>Ti je ai që shkruan rregullat këtu.</item>
+        <item>Ky je ti që kujdesesh për veten.</item>
+        <item>Nuk je i bllokuar. Je i mbrojtur.</item>
+        <item>Dëshira jote për të ndryshuar është më e vjetër se ky impuls.</item>
+        <item>Ti je tashmë ai që po përpiqesh të bëhesh.</item>
+        <item>Vendimi i vështirë u mor tashmë. Ky është vetëm i lehti.</item>
+        <item>Ti ke kontrollin dhe kjo është e rrallë sot.</item>
+        <item>Askush nuk ka pse ta dijë. Kjo është mes teje dhe teje.</item>
+        <item>Meriton t’i besosh fjalës tënde.</item>
+        <item>Emri yt është në këtë zgjedhje.</item>
+        <item>U bëre lloji i personit që vendos më parë.</item>
+        <item>Kjo nuk është heqje dorë. Është zgjedhje e diçkaje tjetër.</item>
+        <item>Ke një drejtim. Ky ekran tregon drejt tij.</item>
+        <item>Liria e vërtetë është të mos të tërheqin gjithë kohës.</item>
+        <item>Ti vendos vlerën e vëmendjes sate.</item>
+        <item>Çdo jo këtu është një po për diçka tjetër të tuajën.</item>
+        <item>Po i qëndron besnik një plani që e bëre me dashuri.</item>
+        <item>Të jesh zot i vetvetes kërkon punë dhe ia vlen.</item>
+        <item>E pranove që donte të ndryshoje. Kjo është pjesa e vështirë.</item>
+        <item>Personi në pasqyrë sonte do ta pëlqejë këtë.</item>
+        <item>Nuk i detyrohesh asgjë algoritmit.</item>
+        <item>Jeta jote nuk është përmbajtje e askujt.</item>
+        <item>Je saktësisht aty ku vendose të jesh.</item>
+        <item>Kufiri që vë për veten është më respektuesi që ekziston.</item>
+        <item>Ke një projekt jete më të madh se ky ekran.</item>
+        <item>Kjo është pjekuri në kohë reale.</item>
+        <item>Po kujdesesh për të ardhmen pa e vënë re.</item>
+        <item>Çdo zgjedhje e tillë e mpreh atë që je.</item>
+        <item>Nuk ke pse shpjegohesh që nuk e hape.</item>
+        <item>Angazhimi yt është me ty, jo me aplikacionin.</item>
+        <item>More vendimin e duhur kur nuk kishe dëshirë.</item>
+        <item>Kjo është jeta jote që drejtohet nga ti.</item>
+        <item>U bëre dikush i vështirë për t’u manipuluar.</item>
+        <item>Vëmendja jote ka zot dhe ai është zgjuar.</item>
+        <item>Sapo veprove si dikush që kujdeset për veten.</item>
+        <item>Plani është yti. Po funksionon tani.</item>
+        <item>Ti je shuma e zgjedhjeve të tua të vogla.</item>
+        <item>Askush nuk ta heq fjalën e fundit.</item>
+        <item>Ti je autoriteti mbi kohën tënde.</item>
+        <item>Po funksionon sepse ti deshe që të funksionojë.</item>
+        <item>Ti je më i madh se zakoni që don të jetë më i madh se ti.</item>
+        <item>Edhe një. Kështu rritet llogaria.</item>
+        <item>E vogla e përsëritur fiton mbi të madhen e rrallë.</item>
+        <item>Sapo shtove edhe një pikë.</item>
+        <item>Askush nuk ndryshon menjëherë. Ndryshon në ditë si sot.</item>
+        <item>Kjo është e mijta pjesë e një jete tjetër.</item>
+        <item>Një ditë e mirë nuk ndryshon asgjë. Njëqind ditë të mira ndryshojnë gjithçka.</item>
+        <item>Po ndërton një varg ditësh.</item>
+        <item>Përparimi pothuajse kurrë nuk duket përparim nga brenda.</item>
+        <item>Shuma e këtyre zgjedhjeve është më e madhe se secila prej tyre.</item>
+        <item>Qëndrueshmëria është e mërzitshme dhe funksionon.</item>
+        <item>Edhe një gur në mur.</item>
+        <item>Po stërvit diçka që mbetet.</item>
+        <item>Mjaftueshëm i përsëritur, kjo bëhet automatike.</item>
+        <item>Askush nuk e sheh këtë fitore, por llogaritet njësoj.</item>
+        <item>Je disa javë larg nga të mos kesh më dëshirë.</item>
+        <item>Sot llogaritet. Nesër do të llogaritet gjithashtu.</item>
+        <item>Një zinxhir bëhet nga hallka si kjo.</item>
+        <item>Zakoni i ri po shkruhet tani.</item>
+        <item>Çdo përsëritje e lëshon pak zakonin e vjetër.</item>
+        <item>E ke bërë këtë më parë. Bëje përsëri.</item>
+        <item>Ngadalë është shpejtësia e gjërave që zgjasin.</item>
+        <item>Ndryshimi ndodh larg syve.</item>
+        <item>Po grumbullon diçka të padukshme dhe të vërtetë.</item>
+        <item>Edhe një ditë në drejtimin e duhur.</item>
+        <item>Rezultati shfaqet më vonë. Zgjedhja është sot.</item>
+        <item>Një zgjedhje në një kohë, kështu bëhet.</item>
+        <item>Je më afër se dje.</item>
+        <item>Nuk duhet të jesh i përsosur. Duhet të jesh i vazhdueshëm.</item>
+        <item>Kurba ngjitet ngadalë dhe pastaj ngjitet shpejt.</item>
+        <item>Je në mes të procesit. Kështu është ai.</item>
+        <item>Çdo jo i vogël ndërton një po të madh.</item>
+        <item>Asgjë nga kjo nuk është dramatike. Prandaj funksionon.</item>
+        <item>Rruga është bërë nga hapa si ky.</item>
+        <item>Po krijon një version të ri të rutinës.</item>
+        <item>Kjo do të duket e lehtë pas një muaji.</item>
+        <item>Përsëritja është ajo që e kthen vendimin në mënyrë të të qenit.</item>
+        <item>Sapo përforcove rrugën e re.</item>
+        <item>Njëqind përqind është më e lehtë se nëntëdhjetë e tetë.</item>
+        <item>Mos e thyej vargun sot.</item>
+        <item>Po bën pjesën e mërzitshme, që është ajo që llogaritet.</item>
+        <item>Ndryshimin nuk e ndjejmë. E shohim më vonë.</item>
+        <item>Edhe një tullë e vendosur.</item>
+        <item>Po stërvit trurin të presë diçka tjetër.</item>
+        <item>Të vazhdosh është e gjithë teknika.</item>
+        <item>Asnjë fitore e tillë nuk është e vogël në total.</item>
+        <item>Nuk ke pse vrapon. Duhet të mos ndalesh.</item>
+        <item>Kjo po bëhet më e lehtë dhe as nuk e vure re.</item>
+        <item>Një javë e kësaj ndryshon tashmë ditën tënde.</item>
+        <item>Po formon një shteg të ri në mendje.</item>
+        <item>Çdo herë llogaritet, edhe kur duket se jo.</item>
+        <item>Askush nuk duartrokit, por po funksionon.</item>
+        <item>Grumbullimi është i heshtur dhe i pandalshëm.</item>
+        <item>Je tashmë më i fortë në këtë se muajin e kaluar.</item>
+        <item>Një zgjedhje e mirë sot e lehtëson tjetrën nesër.</item>
+        <item>Kështu duket qëndrueshmëria nga brenda.</item>
+        <item>Edhe një ditë avantazh i grumbulluar.</item>
+        <item>Je në rrugë dhe rruga është e gjatë. S’ka problem.</item>
+        <item>Ajo që përsëritet bëhet e lehtë.</item>
+        <item>Sapo përforcove atë që po bëhesh.</item>
+        <item>Llogaria sot është në favorin tënd.</item>
+        <item>Fitimet e vogla mblidhen pa kërkuar leje.</item>
+        <item>Nuk ka të bëjë me sot. Ka të bëjë me shumën.</item>
+        <item>Po bën punën e padukshme.</item>
+        <item>Vazhdo. Kjo është fjalë për fjalë sekreti.</item>
+        <item>Çdo ditë e tillë heq pak nga pesha.</item>
+        <item>Zakoni i vjetër po humb vend tani.</item>
+        <item>Po ujit diçka që ende nuk ka mbirë.</item>
+        <item>Ndryshimi po ndodh edhe pse nuk duket.</item>
+        <item>Edhe një herë. Gjithmonë ka qenë vetëm kjo.</item>
+        <item>Po ndërton një rezervë ditësh të mira.</item>
+        <item>Kjo bëhet normale me kohën.</item>
+        <item>Sapo zgjodhe përsëri. Dhe përsëri llogaritet.</item>
+        <item>Një muaj të tillë dhe je një person tjetër.</item>
+        <item>Përpjekja e sotme zhduket. Rezultati mbetet.</item>
+        <item>Ti nuk je më ai që e nisi këtë.</item>
+        <item>Të bësh gjithmonë vlen më shumë se të bësh shumë.</item>
+        <item>Çdo ditë është një votë për atë që do të jesh.</item>
+        <item>Po e lë zakonin e ri të fitojë terren.</item>
+        <item>Kjo nuk ka pse të jetë heroike. Duhet vetëm të ndodhë.</item>
+        <item>Sapo forcove rrugën e duhur.</item>
+        <item>Përsëritja është mënyra si mëson truri çdo gjë.</item>
+        <item>Shuma e sotme me të djeshmen është tashmë mjaft.</item>
+        <item>Po shkon mirë edhe kur nuk e ndjen.</item>
+        <item>Përparimi jeton në përsëritjet pa shkëlqim.</item>
+        <item>Edhe një hap i shkurtër në drejtim të gjatë.</item>
+        <item>Po e bën këtë natyrale.</item>
+        <item>Një gjë e mirë e bërë shumë herë është ajo që mbetet.</item>
+        <item>Forca vjen nga të bërit përsëri, jo nga të bërit fort.</item>
+        <item>Sapo e shkurtove rrugën e nesërme.</item>
+        <item>Edhe një. Vetëm kaq. Dhe mjafton.</item>
+        <item>Po lë pas një gjurmë vendimesh të mira.</item>
+        <item>Qëndrueshmëria e kthen përpjekjen në identitet.</item>
+        <item>Çdo ditë llogaritet si një ditë e tërë.</item>
+        <item>Je në lojën e gjatë dhe po e fiton.</item>
+        <item>Kjo do të bëhet ajo që je pa e vënë re.</item>
+        <item>Investimi më i mirë i ditës sapo u bë.</item>
+        <item>Sapo e mbajte vijën.</item>
+        <item>Vazhdimësia është më e rrallë se talenti.</item>
+        <item>Ndryshimi i vërtetë është gjithmonë i ngadaltë dhe gjithmonë ia vlen.</item>
+        <item>Edhe një zgjedhje drejt jetës sate.</item>
+        <item>Sytë e tu e falënderojnë këtë pushim.</item>
+        <item>Çohu dhe shtrihu. Trupi kërkonte këtë, jo ekran.</item>
+        <item>Merr frymë thellë. Vetëm kjo ndryshon diçka.</item>
+        <item>Pi ujë. Ndoshta kjo të mungonte.</item>
+        <item>Qafa jote është e shtrembër prej një kohe. Drejtoje.</item>
+        <item>Gjumi i sotëm nis te ekranet e tanishme.</item>
+        <item>Të flesh mirë është gjëja më produktive që ka.</item>
+        <item>Trupi yt është i palëvizur prej shumë kohe.</item>
+        <item>Shiko larg për njëzet sekonda. Sytë çlodhen.</item>
+        <item>Një shëtitje e shkurtër ndryshon humorin më shumë se çdo feed.</item>
+        <item>Lodhja që ndjen mund të jetë thjesht ekran.</item>
+        <item>Trupi kërkon lëvizje kur mendja kërkon scroll.</item>
+        <item>Ajri i freskët zgjidh gjëra që ekrani nuk i zgjidh.</item>
+        <item>Supet poshtë. Nofulla e lirë.</item>
+        <item>Po i shtrëngon supet pa e vënë re.</item>
+        <item>Dhjetë minuta diell mbi lëkurë vlejnë shumë.</item>
+        <item>Trupi çlodhet i shtrirë, jo duke bërë scroll.</item>
+        <item>Të flesh herët sot është dhuratë për nesër.</item>
+        <item>Qëndrimi yt ka ndryshuar këto njëzet minuta. Korrigjoje.</item>
+        <item>Lodhja nga ekrani nuk është lodhje e vërtetë. Është diçka tjetër.</item>
+        <item>Ngri krahët. Shtrihu. Gati, u përmirësua.</item>
+        <item>Sytë pulsojnë më pak kur bën scroll. Pulso tani.</item>
+        <item>Trupi punon më mirë me pushime të vërteta.</item>
+        <item>Një xhiro rreth lagjes e pastron mendjen.</item>
+        <item>Shtyllës kurrizore do t’i pëlqejë ky ndërprerje.</item>
+        <item>Pushimi është ndryshe nga shpërqendrimi.</item>
+        <item>Gjumi i keq i djeshëm nisi në një ekran si ky.</item>
+        <item>Shtrije qafën nga të dyja anët. Zgjat dhjetë sekonda.</item>
+        <item>Lëvizja e zgjidh ankthin më mirë se përmbajtja.</item>
+        <item>Trupi yt është e vetmja shtëpi që ke.</item>
+        <item>Ujë, dritë dhe lëvizje. Pothuajse gjithmonë kjo është.</item>
+        <item>Ekrani lodh edhe kur duket si pushim.</item>
+        <item>Mbyll sytë për një çast. Vetëm kaq.</item>
+        <item>Po merr frymë cekët. Merr frymë thellë tri herë.</item>
+        <item>Një dush zgjidh më shumë se sa duket.</item>
+        <item>Trupi yt është në të njëjtin vend prej shumë kohe.</item>
+        <item>Pushimi i vërtetë nuk ka ekran.</item>
+        <item>Njëzet minuta ecje ndryshojnë gjithë ditën.</item>
+        <item>Koka të rëndon sepse trupi është i palëvizur.</item>
+        <item>Sy të thatë, shpatulla të ngurta. E vure re.</item>
+        <item>Të ngrihesh për dy minuta rinis më shumë se një scroll.</item>
+        <item>Trupi kërkon gjumë dhe mendja kërkon stimul. Dëgjo trupin.</item>
+        <item>Drita e ekranit të prish gjumin për orë të tëra.</item>
+        <item>Shtrij këmbët. Është e shpejtë dhe funksionon.</item>
+        <item>Meriton një pushim që të çlodh vërtet.</item>
+        <item>Lëvizja është antidepresivi më i lirë që ekziston.</item>
+        <item>Trupi yt do ta kujtojë këtë natë gjumi.</item>
+        <item>Frymëmarrja e ngadaltë qetëson më shpejt se çdo video.</item>
+        <item>Ose ke uri ose ke mërzi. Zbulo cila.</item>
+        <item>Trupi shërohet kur mendja ndalon.</item>
+        <item>Njëzet sekonda duke parë nga dritarja.</item>
+        <item>Kyçi dhe gishti yt i madh kanë nevojë për pushim.</item>
+        <item>Lodhja nga ekrani zhduket duke ecur.</item>
+        <item>Gjumi është ku organizohet kujtesa. Mbroje.</item>
+        <item>Të duhet më pak stimul, jo më shumë.</item>
+        <item>Një shtrirje dyminutëshe vlen më shumë se dhjetë minuta video.</item>
+        <item>Trupi yt po të jep një sinjal tani.</item>
+        <item>Ajër, ujë dhe lëvizje. Receta nuk ka ndryshuar.</item>
+        <item>Shtrihu në dysheme për një minutë. Seriozisht.</item>
+        <item>Ekrani të mban zgjuar kur të duhet të flesh.</item>
+        <item>Trupi kërkon pushim dhe dora kërkon ekran. Jepi pushimin.</item>
+        <item>Sytë e tu punojnë qysh herët.</item>
+        <item>Një natë e fjetur mirë ndryshon botën.</item>
+        <item>Çohu. Vetëm çohu. Është tashmë mjaft.</item>
+        <item>Do të flesh më mirë për shkak të kësaj zgjedhjeje.</item>
+        <item>Trupi falënderon atë që mendja e quan të mërzitshme.</item>
+        <item>Shtrije shpinën. Po kërkon.</item>
+        <item>Pushimi i vërtetë është heshtje, jo stimul tjetër.</item>
+        <item>Trupi ka ritëm të vetin dhe ekrani e injoron.</item>
+        <item>Shiko horizontin. Sytë kanë nevojë për distancë.</item>
+        <item>Tensioni i nofullës nuk do të ikë duke bërë scroll.</item>
+        <item>Sa kohë ka që po rri ulur, vërtet.</item>
+        <item>Lëvizja sjell qartësi. Gjithmonë ka sjellë.</item>
+        <item>Pi ujë para se të vendosësh çdo gjë.</item>
+        <item>Gjumi i humbur nuk rikuperohet me përmbajtje.</item>
+        <item>Trupi yt punon mirë kur e lë.</item>
+        <item>Një gjumë i shkurtër jep më shumë se një orë feed-i.</item>
+        <item>Të marrësh frymë thellë është falas dhe e menjëhershme.</item>
+        <item>Ekrani shtrëngon trupin pa paralajmëruar.</item>
+        <item>Je më i lodhur se sa duhej të ishe.</item>
+        <item>Çohu dhe shiko nga dritarja. Pesë sekonda.</item>
+        <item>Trupi yt nuk evoluoi për të rrojtur pa lëvizur duke parë dritë.</item>
+        <item>Shtrije gishtat. Kanë punuar mjaft sot.</item>
+        <item>Nata është më e mirë pa ekran para gjumit.</item>
+        <item>Pushimi nuk është ajo që ofron ekrani.</item>
+        <item>Trupi kërkon natyrë dhe merr piksel.</item>
+        <item>Një gotë ujë dhe tri frymëmarrje. Bëje tani.</item>
+        <item>Tensioni në sup vjen nga mënyra si e mban telefonin.</item>
+        <item>Trupi çlodhet kur vëmendja ndalon së vrapuari.</item>
+        <item>Do të ndihesh më mirë pas pesë minutash.</item>
+        <item>Lëvizja ndryshon kiminë. Ekrani ndryshon vetëm temën.</item>
+        <item>Sytë e tu meritojnë pushim të vërtetë.</item>
+        <item>Ecja i rregullon mendimet më mirë se leximi i feed-it.</item>
+        <item>Drita blu tani është gjumë i keq më vonë.</item>
+        <item>Të duhet pushim, jo më shumë informacion.</item>
+        <item>Dy frymëmarrje të thella para çdo gjëje.</item>
+        <item>Trupi yt është më i urtë se impulsi.</item>
+        <item>Çohu dhe shko deri në kuzhinë. Është e mjaftueshme.</item>
+        <item>Çlodhe trupin dhe mendja çlodhet bashkë me të.</item>
+        <item>Ka njerëz prej mishi e gjaku afër teje tani.</item>
+        <item>Një bisedë vlen më shumë se treqind postime.</item>
+        <item>Merr dikë në telefon. Me zë, vërtet.</item>
+        <item>Dikush që e do është një mesazh larg.</item>
+        <item>Njerëzit e feed-it nuk e dinë që ekziston.</item>
+        <item>Ai që është në të njëjtën dhomë me ty meriton më shumë.</item>
+        <item>Një përqafim zgjidh atë që asnjë video nuk e zgjidh.</item>
+        <item>Dërgo mesazh atij që po e harron.</item>
+        <item>Nënës sate do t’i pëlqente një telefonatë sot.</item>
+        <item>Jeta e vërtetë ka njerëz që përgjigjen vërtet.</item>
+        <item>Ai shoku që humbi ende mund të kthehet. Thirre.</item>
+        <item>Prania është gjëja më e rrallë që mund të japësh.</item>
+        <item>Dikush po pret që të ngresh sytë.</item>
+        <item>Një pyetje e mirë vlen më shumë se një orë scroll.</item>
+        <item>Njerëzit rreth teje nuk kanë algoritëm.</item>
+        <item>Po humb një bisedë që po ndodh.</item>
+        <item>Askush nga feed-i nuk do të jetë aty kur t’i duhet.</item>
+        <item>Një kafe me dikë e ndryshon javën më shumë se çdo feed.</item>
+        <item>Shoqëria jote është dhuratë. Dorëzoje.</item>
+        <item>Shiko atë që është me ty.</item>
+        <item>Miqësia ujitet. Ujite sot.</item>
+        <item>Personi pranë teje është i vërtetë.</item>
+        <item>Ai që të do nuk ka nevojë për pëlqim.</item>
+        <item>Kujton bisedën e fundit të gjatë që ke bërë.</item>
+        <item>Thirr dikë për një shëtitje.</item>
+        <item>Kujtimet më të mira rrallë kanë ekran.</item>
+        <item>Tani ti je shoqëria e dikujt.</item>
+        <item>Dërgo një zë atij që e do.</item>
+        <item>Njerëzit ndryshojnë kur u kushton vëmendje.</item>
+        <item>Prania jote ka vlerë për dikë sot.</item>
+        <item>Një bisedë e mirë të lë më mirë. Feed-i jo.</item>
+        <item>Dikush ka nevojë të dijë që e ke kujtuar.</item>
+        <item>Takohu me dikë në vend që ta ndjekësh nga larg.</item>
+        <item>Lidhjet e forta bëhen nga koha së bashku.</item>
+        <item>Mund të jesh arsyeja e ditës së mirë të dikujt.</item>
+        <item>Ai i afërmi me të cilin nuk flet prej muajsh.</item>
+        <item>Një mesazh i sinqertë vlen më shumë se një mijë shikime.</item>
+        <item>Të jesh bashkë është ndryshe nga të jesh i lidhur.</item>
+        <item>Ai që jeton me ty meriton gjithë ty.</item>
+        <item>Fto dikë për darkë.</item>
+        <item>Njerëzit e vërtetë kanë fytyrë, zë dhe kohë të kufizuar.</item>
+        <item>Je i pazëvendësueshëm për dikë. Shfaqu.</item>
+        <item>Biseda më e rëndësishme e ditës sate ende nuk ka ndodhur.</item>
+        <item>Afër teje ka dikë që është pa ekran gjithashtu.</item>
+        <item>Të dëgjosh dikë është mënyra më e lehtë për t’u dashur.</item>
+        <item>Ai shoku po kalon diçka. Pyete.</item>
+        <item>Fëmija yt, qeni yt, fqinji yt. Dikush është aty.</item>
+        <item>Rrjetet të lidhin me shumë njerëz dhe me asnjërin prej tyre.</item>
+        <item>Një pasdite me dikë vlen një muaj feed.</item>
+        <item>Sot mund ta bësh dikë të qeshë. Vërtet.</item>
+        <item>Prania e plotë është shumë e rrallë. Ti ke një për të dhënë.</item>
+        <item>Dikush foli për ty këtë javë. Ktheja.</item>
+        <item>Askujt në feed nuk i mungon.</item>
+        <item>Një telefonatë pesëminutëshe ia ndryshon ditën dikujt.</item>
+        <item>Njerëzit që kanë rëndësi nuk postojnë për këtë.</item>
+        <item>Je një pyetje larg një bisede të mirë.</item>
+        <item>Shoqëria e vërtetë nuk ka reklamë në mes.</item>
+        <item>Ai person që gjithmonë të mbështet. Falënderoje sot.</item>
+        <item>Të shikosh në sy është ende teknologjia më e mirë.</item>
+        <item>Familja jote nuk është feed. Mos bëj scroll nëpër të.</item>
+        <item>Fto dikë të mos bëni asgjë bashkë.</item>
+        <item>Edhe ai që është larg meriton lajme nga ti.</item>
+        <item>Ke njerëz që të duan jashtë këtu.</item>
+        <item>Një bisedë e vështirë e shtyrë peshon më shumë se feed-i.</item>
+        <item>Shijo ata që janë pranë sa janë.</item>
+        <item>Njerëzit e kujtojnë atë që qe i pranishëm.</item>
+        <item>Fto një mik për një kafe pa arsye.</item>
+        <item>Dikush diku do të dijë për ty.</item>
+        <item>Mund ta dëgjosh dikë vërtet tani.</item>
+        <item>Lidhja ndërtohet duke parë, jo duke bërë scroll.</item>
+        <item>Vëmendja jote është dhurata më e mirë për atë që e do.</item>
+        <item>Një person vlen më shumë se një profil.</item>
+        <item>Ajo bisedë që ia ke borxh dikujt. Është sot.</item>
+        <item>Të jesh i gatshëm është një formë dashurie.</item>
+        <item>Tani ke kohë për dikë.</item>
+        <item>Askush nuk u nda nga jeta duke dashur më shumë ndjekës.</item>
+        <item>Rigjej dikë në vend që ta ndjekësh nga larg.</item>
+        <item>Dashuria ndonjëherë duhet thënë me zë të lartë.</item>
+        <item>Shoqëria jote e përhershme ekziston ende. Thirre.</item>
+        <item>Dikush pranë teje do të flasë.</item>
+        <item>Krahasimi nuk është lidhje.</item>
+        <item>Sot mund të jesh prani.</item>
+        <item>Një letër e shkruar me dorë. Çfarë ideje.</item>
+        <item>Ai që të njeh vërtet nuk është në feed.</item>
+        <item>Ndaje pasditen me dikë.</item>
+        <item>Njerëzit e afërt meritojnë atë që i jep feed-it.</item>
+        <item>Ti je i rëndësishëm për dikë që nuk postoi.</item>
+        <item>Telefono dhe pyet si është vërtet personi.</item>
+        <item>Vetmia nuk kalon me më shumë ekran.</item>
+        <item>Afrohu me dikë sot.</item>
+        <item>Një vakt së bashku vlen gjithë pasditen.</item>
+        <item>Vëmendja jote ushqen marrëdhëniet. Ushqe një.</item>
+        <item>Dikush po mendon për ty pikërisht tani.</item>
+        <item>Thuaj dikujt që e do.</item>
+        <item>Miqësitë vdesin nga heshtja, jo nga grindja.</item>
+        <item>Ke njerëz të mirë afër. Shfrytëzoji.</item>
+        <item>Dikush ka nevojë për shoqëri dhe ti ke një.</item>
+        <item>Lër feed-in dhe gjej njerëz.</item>
+        <item>Ai që të do dëshiron kohën tënde, jo profilin tënd.</item>
+        <item>Mund ta bësh më të mirë ditën e dikujt për pesë minuta.</item>
+        <item>Të krijosh lodh dhe mbush. Të konsumosh çlodh dhe zbraz.</item>
+        <item>Ke më shumë për të thënë se sa për të parë.</item>
+        <item>Dikush po krijon atë që do të shikoje.</item>
+        <item>Shkruaj një rresht. Vetëm një.</item>
+        <item>Bota ka shumë konsumatorë dhe pak krijues.</item>
+        <item>Ajo ideja jote vazhdon të pret.</item>
+        <item>Mund të bësh diçka në vend që të shikosh diçka të bërë.</item>
+        <item>Çdo gjë e mirë u bë nga dikush që nuk po bënte scroll.</item>
+        <item>Ideja jote vlen më shumë se gjithë feed-i i sotëm.</item>
+        <item>Fillo atë që e shtyn. Pesë minuta mjaftojnë.</item>
+        <item>Projekti i ndalur ka nevojë vetëm për një shtytje.</item>
+        <item>Ke talent për diçka që nuk është scroll-i i ekranit.</item>
+        <item>Bëj sot diçka që nuk ekzistonte dje.</item>
+        <item>Të krijosh është më argëtuese se të shikosh, vetëm kushton të nisësh.</item>
+        <item>Ajo fletore e bardhë nuk kafshon.</item>
+        <item>Përmbajtja më e mirë është ajo që bën ti.</item>
+        <item>Mëson më shumë duke bërë se duke parë.</item>
+        <item>Rrah një instrument, vizato, gatuaj. Bëj diçka me duart.</item>
+        <item>Krijimtaria jote zhduket kur ia mbush mendjen me feed.</item>
+        <item>Ekziston një vepër e jotja që askush nuk e ka bërë ende.</item>
+        <item>Nise keq. Pastaj përmirësohet.</item>
+        <item>Një paragraf në ditë bëhet libër.</item>
+        <item>Ke një histori për të treguar.</item>
+        <item>Të bësh gjëra është antidoti i boshllëkut.</item>
+        <item>Mërzia është fillimi i krijimtarisë. Lëre të ekzistojë.</item>
+        <item>Mendja jote shpik kur ndalon ta mbushësh.</item>
+        <item>Ai kursi i paguar po pret.</item>
+        <item>Të mësosh diçka të re sot është e mundur.</item>
+        <item>Të konsumosh është e lehtë. Prandaj është kaq pak kënaqësi.</item>
+        <item>Do të bësh diçka. Nise tani.</item>
+        <item>Pesë minuta praktikë vlejnë më shumë se një orë video.</item>
+        <item>Ajo receta që do ta provosh.</item>
+        <item>Idetë vijnë në heshtje, jo në scroll.</item>
+        <item>Mund të jesh autor në vend të publikut.</item>
+        <item>Një projekt i vogël e ndryshon javën.</item>
+        <item>Shkruaj çfarë do të bëje po të kishe kohë. E ke.</item>
+        <item>Dora jote di të bëjë gjëra. Përdore.</item>
+        <item>Bëj sot diçka të papërsosur.</item>
+        <item>Të mësosh është më e këndshme se të zbavitesh.</item>
+        <item>Ajo që krijon mbetet. Ajo që e kalon me scroll zhduket.</item>
+        <item>Ai instrument i mbështetur në qoshe.</item>
+        <item>Ke një projekt të papërfunduar që të pret.</item>
+        <item>Të krijosh është e kundërta e të krahasuarit.</item>
+        <item>Nis i vogël. Nis sot.</item>
+        <item>Një faqe në ditë është një jetë tjetër.</item>
+        <item>Imagjinata jote ka nevojë për hapësirë të zbrazët.</item>
+        <item>Bëj diçka që nesër të japë krenari.</item>
+        <item>Kënaqësia e krijimit nuk ka zëvendësues.</item>
+        <item>Je i aftë për më shumë se të konsumosh.</item>
+        <item>Ai hobi i braktisur ende ekziston.</item>
+        <item>Njëzet minuta praktikë janë njëzet minuta përparim.</item>
+        <item>Askush nuk bëhet i mirë në asgjë duke bërë scroll në feed.</item>
+        <item>Aftësia jote e radhës nis diku. Le të jetë tani.</item>
+        <item>Bëje, edhe sikur askush të mos e shohë.</item>
+        <item>Ka diçka që do ta mësosh. Nise.</item>
+        <item>Të konsumosh është të shikosh jetën e të tjerëve.</item>
+        <item>Ke duar, mendje dhe kohë. Kjo është gjithçka që të duhet.</item>
+        <item>Drafti i parë është gjithmonë i keq. Bëje.</item>
+        <item>Ajo gjuha që do ta flisje.</item>
+        <item>Të krijosh është mënyra si mërzia bëhet gëzim.</item>
+        <item>Pak në ditë ndërton çdo aftësi.</item>
+        <item>Ke diçka brenda që do të dalë.</item>
+        <item>Shkruaj për ditën tënde. Vetëm për ty.</item>
+        <item>Krijimtaria jote pret që të fikësh zhurmën.</item>
+        <item>Bëj sot diçka me duart.</item>
+        <item>Kënaqësia e përfundimit të diçkaje nuk i ngjan asgjëje.</item>
+        <item>Ai projekt që të entuziazmonte. Mund të të entuziazmojë ende.</item>
+        <item>Nuk duhet të jesh i mirë për të nisur.</item>
+        <item>Gatuaj diçka të re. Është krijim gjithashtu.</item>
+        <item>Jeta bëhet më interesante kur bën gjëra.</item>
+        <item>Askush nuk lind duke ditur. Të gjithë nisin keq.</item>
+        <item>Ajo ideja e mesnatës. Shënoje.</item>
+        <item>Mund t’i duhesh dikujt me atë që di të bësh.</item>
+        <item>Bëj pak sot dhe pak nesër.</item>
+        <item>Momenti më i mirë për të nisur ka kaluar. I dyti më i mirë është tani.</item>
+        <item>Vepra jote nuk do të bëhet vetë.</item>
+        <item>Të praktikosh është e mërzitshme derisa bëhesh i mirë.</item>
+        <item>Ti do të krijosh. Feed-i do që thjesht të shikosh.</item>
+        <item>Ai vizatimi që nise.</item>
+        <item>Të bësh është mënyra më e shpejtë për të mësuar.</item>
+        <item>Ke një zë. Përdore në diçka.</item>
+        <item>Të rregullosh diçka në shtëpi është krijim gjithashtu.</item>
+        <item>Arritja jote e radhës nis në një ditë të zakonshme si sot.</item>
+        <item>Bëj diçka që vetëm ti do ta bëje.</item>
+        <item>Feed-i është i pafund. Vepra jote ka fund dhe prandaj ka rëndësi.</item>
+        <item>Sot mund të mbjellësh diçka. Fjalë për fjalë.</item>
+        <item>Ajo tabela, ai plan, ai ëndërr.</item>
+        <item>Të krijosh kërkon punë dhe kjo e bën të vlefshme.</item>
+        <item>Ti je më interesant se çdo feed.</item>
+        <item>Studio njëzet minuta. Është pak dhe është shumë.</item>
+        <item>Kureshtja bëhet më e mirë kur kthehet në praktikë.</item>
+        <item>Ajo kënga që do ta mësoje.</item>
+        <item>Bëj tani diçka të dobishme dhe të thjeshtë.</item>
+        <item>Ke diçka të mirë për t’i ofruar botës.</item>
+        <item>Nis atë për të cilën do të jesh mirënjohës që e nise.</item>
+        <item>Një projekt personal e ndryshon marrëdhënien me kohën.</item>
+        <item>Të krijosh është mënyra më e mirë për të zënë mendjen.</item>
+        <item>Sot mund të mbarosh diçka.</item>
+        <item>Vëri duart diçkaje të vërtetë.</item>
+        <item>Asgjë nuk e zëvendëson ndjesinë që e ke bërë.</item>
+        <item>S’ka problem që arrite deri këtu. Tani merr frymë.</item>
+        <item>Askush nuk po numëron asgjë. Vazhdo përpara.</item>
+        <item>Po ia del mirë, edhe pse nuk duket.</item>
+        <item>Pa nxitim dhe pa kërkesa. Vetëm një pushim.</item>
+        <item>Kjo nuk është provë. Është vetëm një kujtesë e butë.</item>
+        <item>Po përpiqesh dhe kjo mjafton.</item>
+        <item>Gjithçka në rregull. Mbylle dhe vazhdo ditën.</item>
+        <item>Asgjë këtu nuk ka të bëjë me të qenit gjithmonë i saktë.</item>
+        <item>Meriton lehtësi sot.</item>
+        <item>Pa dramë. Vetëm një çast për të marrë frymë.</item>
+        <item>Ky është një vend i qetë. Rri një çast.</item>
+        <item>Po bën më të mirën që mundesh. Kjo llogaritet.</item>
+        <item>Asnjë kërkesë këtu. Vetëm kujdes.</item>
+        <item>Merr frymë. S’po ndodh asgjë e gabuar.</item>
+        <item>Arrite deri këtu dhe kjo është tashmë mirë.</item>
+        <item>Askush nuk po gjykon. As ti nuk duhet.</item>
+        <item>Gjithçka është në rregull. Vazhdo.</item>
+        <item>Një hap në një kohë është ritmi i duhur.</item>
+        <item>Nuk ke pse të jesh i përsosur në këtë.</item>
+        <item>Edhe ngadalë është ecje.</item>
+        <item>Ky ekran nuk të kërkon asgjë.</item>
+        <item>Ji i sjellshëm me veten tani.</item>
+        <item>S’ka problem të kesh dëshirë. Është pjesë e rrugës.</item>
+        <item>Po kujdesesh për veten. Kjo është e bukur.</item>
+        <item>Pa alarm, pa nxitim, pa tmerr.</item>
+        <item>Je njeri. Kjo lejohet.</item>
+        <item>Nuk ke pse shpjegohesh para askujt.</item>
+        <item>Merr frymë thellë. Ka kaluar.</item>
+        <item>Je i sigurt këtu.</item>
+        <item>S’ka problem nëse sot është e vështirë.</item>
+        <item>Asnjë ditë nuk është si tjetra. Edhe kjo.</item>
+        <item>Je në rrugë, edhe pse ngadalë.</item>
+        <item>Pusho pak nga kërkesat ndaj vetes.</item>
+        <item>Gjithçka në rregull. Vetëm një frymëmarrje.</item>
+        <item>Nuk ke pse të jesh gjithmonë mirë.</item>
+        <item>Butësia ndaj vetes funksionon më mirë se ashpërsia.</item>
+        <item>Ky çast do të kalojë qetësisht.</item>
+        <item>E ke bërë tashmë pjesën e vështirë sot.</item>
+        <item>Asgjë urgjente. Asgjë e rëndë. Vetëm një pushim.</item>
+        <item>Buzëqesh. Kjo është më e vogël se sa duket.</item>
+        <item>Po përpiqesh dhe kjo është ajo që ka rëndësi.</item>
+        <item>Pa llogari për të dhënë. Vazhdo.</item>
+        <item>Gjithçka është mirë. Vërtet.</item>
+        <item>Meriton një ditë të lehtë.</item>
+        <item>Merr frymë. Bota vazhdon të sillet.</item>
+        <item>Asnjë nxitim sot.</item>
+        <item>Je në paqe me këtë zgjedhje.</item>
+        <item>S’ka problem të rinisësh sa herë të duhet.</item>
+        <item>Ky është një vend pa kërkesa.</item>
+        <item>Ji i durueshëm me procesin.</item>
+        <item>Nuk ke vonuar në asgjë.</item>
+        <item>S’ka problem të mos jesh njëqind përqind.</item>
+        <item>Ky pushim është kujdes, jo korrigjim.</item>
+        <item>Tani thjesht mund të vazhdosh.</item>
+        <item>Pa tension. Vetëm një çast.</item>
+        <item>S’ka problem nëse ishte automatike.</item>
+        <item>Nuk të duhet arsye për të qenë mirë.</item>
+        <item>Merr frymë dhe vazhdo. Kaq thjesht.</item>
+        <item>Këtu nuk ka asnjë problem.</item>
+        <item>Po e bën si duhet.</item>
+        <item>S’ka problem, vërtet. Shko në paqe.</item>
+        <item>Ky çast është yti për t’u çlodhur.</item>
+        <item>Nuk je i vetëm në këtë.</item>
+        <item>Gjithçka është e qetë. Vazhdo ditën.</item>
+        <item>Pa peshë. Vetëm një kujtesë.</item>
+        <item>Ti je tashmë mjaft.</item>
+        <item>Qetësia që kërkon nuk është në feed.</item>
+        <item>Gjithçka është në rregull me ty.</item>
+        <item>Pusho mendjen për një sekondë.</item>
+        <item>Meriton këtë kujdes.</item>
+        <item>Asgjë nuk duhet zgjidhur tani.</item>
+        <item>Merr frymë një herë. Pastaj vazhdo.</item>
+        <item>Je mirë. Kaq.</item>
+        <item>Pa kërkesa, pa llogari, pa rezultat.</item>
+        <item>Një çast qetësie në mes të ditës.</item>
+        <item>Mund të jesh i sjellshëm me veten tani.</item>
+        <item>Gjithçka është në paqe.</item>
+        <item>Pa nxitim për asgjë.</item>
+        <item>Bëre atë që mundje sot.</item>
+        <item>S’ka problem. Nesër vazhdon.</item>
+        <item>Ky çast është vetëm një frymëmarrje.</item>
+        <item>Je i sigurt dhe kjo mjafton.</item>
+        <item>Këtu nuk ka gjykim.</item>
+        <item>Vetëm merr frymë dhe shko jeto.</item>
+        <item>Meriton qetësi sot.</item>
+        <item>Gjithçka është mirë në çdo ritëm.</item>
+        <item>Pusho pak mendjen.</item>
+        <item>Je gjithmonë i mirëpritur këtu.</item>
+        <item>Pa tmerr. Vetëm një ndalesë e shpejtë.</item>
+        <item>Jeta nuk është garë sot.</item>
+        <item>Je i plotë dhe kjo mjafton.</item>
+        <item>S’ka problem që u përpoqe.</item>
+        <item>Asgjë këtu nuk është kundër teje.</item>
+        <item>Merr frymë dhe vazhdo ngadalë.</item>
+        <item>Je mirë ashtu siç je.</item>
+        <item>Ky është një çast paqeje.</item>
+        <item>Pa asnjë kërkesë. Vazhdo lehtë.</item>
+        <item>Ke leje të pushosh.</item>
+        <item>Këtu gjithçka është e qetë.</item>
+        <item>Shko me qetësi. Dita të pret.</item>
+        <item>Je i sjellshëm me veten dhe kjo është forcë.</item>
+        <item>Çfarë do të bëje tani sikur ky aplikacion të mos ekzistonte.</item>
+        <item>Je këtu nga dëshira apo nga zakoni.</item>
+        <item>Çfarë kërkoje, në fakt.</item>
+        <item>A do të ketë rëndësi kjo nesër në mëngjes.</item>
+        <item>Do ta kujtosh atë që do të shihje tani.</item>
+        <item>Çfarë po bëje para se të merrje telefonin.</item>
+        <item>Sa kohë do t’i japësh kësaj sot.</item>
+        <item>Je i mërzitur apo i lodhur.</item>
+        <item>Çfarë mund të ishte pasdita jote në vend të kësaj.</item>
+        <item>A ia vlen.</item>
+        <item>E hape për ndonjë arsye të veçantë.</item>
+        <item>Çfarë do të shtyje edhe një herë po të hynin tani.</item>
+        <item>Kush do të jesh pas një viti.</item>
+        <item>Çfarë të bën vërtet mirë tani.</item>
+        <item>A po ikën nga diçka.</item>
+        <item>Po sikur të bësh atë që e shtyn prej kohësh.</item>
+        <item>Çfarë do të ndodhte po ta mbyllje thjesht.</item>
+        <item>Ke diçka më të mirë për të bërë. Cila është.</item>
+        <item>Ky është pushim apo ikje.</item>
+        <item>Çfarë do të kërkonte nga ti versioni yt i nesërm.</item>
+        <item>Ke uri, ke gjumë apo ke mërzi.</item>
+        <item>Kur ishte hera e fundit që feed-i të la më mirë.</item>
+        <item>Çfarë do të ndjesh në fund të ditës.</item>
+        <item>Çfarë po të mungon tani.</item>
+        <item>Të duhet kjo apo vetëm e do.</item>
+        <item>Cila gjë e vogël do ta përmirësonte ditën tënde tani.</item>
+        <item>Çfarë do të bëje me dy orë të lira.</item>
+        <item>E di tashmë çfarë duhet të bësh.</item>
+        <item>Sa është kostoja e vërtetë e këtyre pesëmbëdhjetë minutave.</item>
+        <item>E do këtë apo thjesht e ke dorën të lirë.</item>
+        <item>Çfarë do ta vlente më shumë tani.</item>
+        <item>A je mirë atje.</item>
+        <item>Cila do të ishte zgjedhja më e mirë tani, me qetësi.</item>
+        <item>Do të krenohesh me këtë gjysmë ore.</item>
+        <item>Çfarë do të bëje sikur askush të mos të shihte.</item>
+        <item>Ka dikë që mund ta thërrasësh tani.</item>
+        <item>Çfarë po përpiqet të shmangë mendja jote.</item>
+        <item>A ia vlen ta këmbesh pasditen me këtë.</item>
+        <item>Ke një plan për sot. A e përfshin këtë.</item>
+        <item>Cila do të ishte gjëja më e bukur për të bërë tani.</item>
+        <item>Je mirë, sinqerisht.</item>
+        <item>Çfarë do ta bënte këtë javë të vlefshme.</item>
+        <item>Kjo është ajo që do ti apo ajo që bën.</item>
+        <item>E ke menduar çfarë do të bësh nesër.</item>
+        <item>Sa herë e ke marrë telefonin sot.</item>
+        <item>Çfarë do të të linte i kënaqur pas një ore.</item>
+        <item>Do të hysh apo gishti të ka vajtur në automatik.</item>
+        <item>Cila është gjëja e rëndësishme që po e lë për më vonë.</item>
+        <item>Çfarë do të mendonte për këtë vetja jote dhjetë vjet më parë.</item>
+        <item>A po pushon vërtet.</item>
+        <item>Ka diçka që do ta bëje po të kishe guxim.</item>
+        <item>Çfarë do të kishe dashur të kishe bërë sonte.</item>
+        <item>Vlen më shumë se një bisedë.</item>
+        <item>Për çfarë ke kohë sot.</item>
+        <item>Cilin zakon do të kesh pas gjashtë muajsh.</item>
+        <item>Çfarë po kërkon vërtet vëmendjen tënde.</item>
+        <item>Do ta kujtosh apo do ta harrosh këtë pasdite.</item>
+        <item>Cili do të ishte një përdorim i mirë për këtë çast.</item>
+        <item>Je këtu për të parë diçka apo për të mos ndjerë diçka.</item>
+        <item>Çfarë do të të bënte të flije mirë sonte.</item>
+        <item>Kjo i shton apo i heq ditës sate.</item>
+        <item>Vërtet do të dish çfarë ka atje.</item>
+        <item>Cila ishte gjëja e fundit e mirë që bëre pa ekran.</item>
+        <item>Çfarë do të bëje në një pasdite pa internet.</item>
+        <item>Për çfarë po nxiton.</item>
+        <item>Cilin hap të vogël mund ta bësh tani.</item>
+        <item>Çfarë ka më shumë nevojë për vëmendjen tënde se kjo.</item>
+        <item>A ke marrë frymë thellë sot.</item>
+        <item>Cili është plani yt për orën e ardhshme.</item>
+        <item>Kjo të afron me diçka që do.</item>
+        <item>Do ta bëje këtë përpara atij që e admiron.</item>
+        <item>Çfarë ndodhi mirë sot.</item>
+        <item>Sa nga dita jote ka shkuar tashmë te ekranet.</item>
+        <item>Ke një ide të ndalur që pret.</item>
+        <item>Çfarë do të bësh me këtë javë.</item>
+        <item>A ia vlen ta këmbesh heshtjen me zhurmë.</item>
+        <item>Po krijon apo po konsumon sot.</item>
+        <item>Cila gjë e thjeshtë do të të bënte mirë tani.</item>
+        <item>Çfarë do t’i thoshe një miku në këtë situatë.</item>
+        <item>Ke pesë minuta. Për çfarë.</item>
+        <item>Çfarë të shqetëson në të vërtetë.</item>
+        <item>Është kjo më e mira që mund të bësh tani.</item>
+        <item>Ti ke kontrollin e këtij çasti.</item>
+        <item>Cili do të ishte vendimi me të cilin do të krenohesh.</item>
+        <item>Çfarë do të duash ta kesh bërë kur të mbarojë dita.</item>
+        <item>E kujton pse e instalove këtë.</item>
+        <item>Po sikur ta lësh për më vonë dhe të shohësh nëse ende e do.</item>
+        <item>Çfarë do të bëje sikur sot të kishe më shumë guxim.</item>
+        <item>Do versionin e shpejtë apo versionin e mirë të ditës sate.</item>
+        <item>Cila është ajo gjë që vetëm ti mund ta bësh sot.</item>
+        <item>Çfarë po të pret atje jashtë.</item>
+        <item>A ke falënderuar për diçka sot.</item>
+        <item>Sa vlen për ty gjysmë ora e ardhshme.</item>
+        <item>Çfarë do të marrësh me vete nga kjo javë.</item>
+        <item>Kjo është urgjente apo vetëm duket.</item>
+        <item>Po bën atë që do të bësh.</item>
+        <item>Cili do të ishte një fund i mirë për këtë ditë.</item>
+        <item>Çfarë do të bëje po të ishe i pushuar.</item>
+        <item>Parapëlqen të bësh scroll apo të jetosh tani.</item>
+        <item>Po sikur ta mbyllësh thjesht dhe të shohësh çfarë ndodh.</item>
+    </string-array>
+</resources>

@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Bahasa Indonesia: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>Waktu yang tidak kamu habiskan di sini kembali utuh ke hidupmu.</item>
+        <item>Setiap menit di luar layar ini kembali jadi milikmu.</item>
+        <item>Dua puluh menit ini cukup untuk jalan kaki.</item>
+        <item>Saat scroll berhenti, hari ternyata lebih lapang dari kelihatannya.</item>
+        <item>Kamu baru saja mendapatkan kembali sepotong soremu.</item>
+        <item>Satu jam sehari sama dengan lima belas hari setahun.</item>
+        <item>Waktu tidak bisa kembali, tapi kamu masih bisa memilih ke mana ia pergi.</item>
+        <item>Jeda ini milikmu. Tidak ada yang perlu tahu apa yang kamu lakukan dengannya.</item>
+        <item>Ada seluruh kehidupan yang berjalan di luar aplikasi ini.</item>
+        <item>Jam berdetak sama cepatnya di kedua sisi layar ini.</item>
+        <item>Kamu baru saja membeli waktu. Pakailah untuk sesuatu yang masih kamu ingat besok.</item>
+        <item>Tidak ada yang menutup hari sambil berharap tadi scroll feed lebih lama.</item>
+        <item>Lima belas menit di sini sama dengan lima belas menit di tempat lain mana pun.</item>
+        <item>Apa yang dulu kamu lakukan dengan setengah jam ini, sepuluh tahun lalu?</item>
+        <item>Waktumu adalah satu-satunya hal yang tidak bisa kamu beli kembali.</item>
+        <item>Sore ini masih terbuka lebar di depanmu.</item>
+        <item>Menit ini bisa jadi awal dari sesuatu yang lain.</item>
+        <item>Kamu sedang mengembalikan jam-jam untuk dirimu sendiri, satu per satu.</item>
+        <item>Waktu yang kamu hemat di sini tidak hilang. Ia muncul lagi di tempat lain.</item>
+        <item>Sepuluh menit terasa sedikit sampai kamu menjumlahkannya selama sebulan.</item>
+        <item>Hidup berjalan dengan kecepatan biasa, bukan kecepatan feed.</item>
+        <item>Hari ini kamu punya lebih banyak waktu daripada kemarin di jam yang sama.</item>
+        <item>Hal yang terus kamu tunda pas sekali untuk jeda ini.</item>
+        <item>Jeda ini singkat. Apa yang kamu lakukan dengannya belum tentu singkat.</item>
+        <item>Sehari bisa memuat banyak hal saat scroll tidak lagi menghalangi.</item>
+        <item>Kamu baru saja mendapatkan kembali sisa malammu.</item>
+        <item>Waktu adalah mata uangnya. Kamu baru saja memutuskan untuk tidak membelanjakannya.</item>
+        <item>Feed tidak pernah habis. Harimu bisa habis.</item>
+        <item>Setengah jam sehari cukup untuk menamatkan satu buku sebulan.</item>
+        <item>Tidak ada hal mendesak yang menunggumu di dalam sana.</item>
+        <item>Waktu ini memang milikmu. Sekarang ia kembali padamu.</item>
+        <item>Pagi ini masih bisa produktif kalau dimulai sekarang.</item>
+        <item>Kamu tidak kehilangan apa-apa. Kamu mendapat jeda.</item>
+        <item>Tidak ada yang mengembalikan waktu kepada kita. Kitalah yang menjaganya.</item>
+        <item>Menit-menit ini lebih berharga di luar sini, dan kamu sudah tahu itu.</item>
+        <item>Yang ada di sana akan tetap di sana. Waktumu yang tidak akan menunggu.</item>
+        <item>Hidup tersusun dari sore-sore seperti ini.</item>
+        <item>Kamu bisa menutup hari dengan sesuatu yang dikerjakan, bukan sekadar ditonton.</item>
+        <item>Dua jam sehari sama dengan satu bulan penuh setahun.</item>
+        <item>Waktu yang kamu jaga hari ini adalah waktu yang tersisa besok.</item>
+        <item>Inilah bagian hari yang hanya kamu yang menentukan.</item>
+        <item>Tidak ada tulisan di dalam sana yang sebanding dengan soremu.</item>
+        <item>Tiga puluh menit sehari bisa membangun apa saja dalam setahun.</item>
+        <item>Kamu baru saja membeli sepotong keheningan.</item>
+        <item>Hari jadi lebih panjang saat feed jadi lebih pendek.</item>
+        <item>Waktu ini sekarang bahan mentah. Buatlah sesuatu darinya.</item>
+        <item>Ada proyekmu yang sedang menunggu tepat jeda seperti ini.</item>
+        <item>Yang kamu dapat di sini tidak muncul di layar mana pun, hanya di hidupmu.</item>
+        <item>Waktu luang itu langka. Kamu baru saja menciptakannya.</item>
+        <item>Tidak ada orang di akhir hidupnya yang meminta satu scroll lagi.</item>
+        <item>Kamu punya sore yang utuh, dan belum terpakai sedikit pun.</item>
+        <item>Setahun adalah tiga ratus enam puluh lima pilihan seperti ini.</item>
+        <item>Jeda ini kecil, tapi sepenuhnya milikmu.</item>
+        <item>Waktu berlalu sama saja. Bedanya ada pada apa yang tertinggal setelahnya.</item>
+        <item>Kamu baru saja menarik setengah jam keluar dari mode autopilot.</item>
+        <item>Sisa harimu berterima kasih atas jeda ini.</item>
+        <item>Lima menit di sana bisa jadi empat puluh tanpa ada yang sadar.</item>
+        <item>Kamu tahu harga lima menit itu. Karena itulah kamu di sini.</item>
+        <item>Jam yang kamu jaga sekarang adalah jam yang kamu cari nanti malam.</item>
+        <item>Tidak ada yang jadi lebih baik karena kamu melihatnya sekarang, bukan nanti.</item>
+        <item>Kamu baru saja memilih ke mana menit berikutnya pergi.</item>
+        <item>Waktu ini cukup untuk mengobrol, jalan kaki, atau tidur sebentar.</item>
+        <item>Hari terasa berisi saat jam-jam berhenti mengalir begitu saja.</item>
+        <item>Kamu satu-satunya pemilik setengah jam berikutnya.</item>
+        <item>Ada versi hari ini di mana kamu mengerjakan sesuatu. Versi itu dimulai sekarang.</item>
+        <item>Waktu tidak bisa ditabung. Ia hanya bisa dipakai dengan lebih baik atau lebih buruk.</item>
+        <item>Menit-menit ini bisa jadi istirahat yang sesungguhnya.</item>
+        <item>Kamu baru saja turun dari treadmill yang tidak membawa ke mana-mana.</item>
+        <item>Seminggu punya seratus enam puluh delapan jam. Yang satu ini milikmu.</item>
+        <item>Feed mengambil waktu sedikit demi sedikit supaya tidak ada yang merasa kehilangan.</item>
+        <item>Sekarang kamu bisa mengerjakan hal yang setiap hari ditunda sampai besok.</item>
+        <item>Soremu tidak harus muat di dalam sebuah layar.</item>
+        <item>Waktu yang tersisa itulah yang membuat hari terasa panjang dalam arti baik.</item>
+        <item>Kamu baru saja mengembalikan satu jam berikutnya untuk dirimu.</item>
+        <item>Tidak ada yang kamu lihat sekarang yang masih kamu ingat seminggu lagi.</item>
+        <item>Menit seperti inilah yang membangun atau meluruhkan setahun.</item>
+        <item>Kamu mendapat waktu. Tidak perlu buru-buru menghabiskannya.</item>
+        <item>Hari tanpa scroll adalah hari yang muat lebih banyak hal.</item>
+        <item>Jam tidak membedakan waktu yang baik dari waktu yang terbuang. Kamulah yang membedakan.</item>
+        <item>Jam ini sama berharganya dengan jam lain mana pun dalam hidupmu.</item>
+        <item>Kamu punya waktu sekarang. Itu lebih langka daripada kelihatannya.</item>
+        <item>Menyimpan waktu adalah satu-satunya cara untuk punya waktu.</item>
+        <item>Malam ini masih panjang di depanmu.</item>
+        <item>Menit-menit ini adalah awal dari sore yang akan kamu kenang.</item>
+        <item>Kamu baru saja menghindari lubang satu jam itu.</item>
+        <item>Segala hal yang butuh waktu butuh keputusan persis seperti ini.</item>
+        <item>Waktu antara sekarang dan makan malam masih cukup untuk banyak hal.</item>
+        <item>Kamu mengangkat kaki dari pedal gas. Harimu ikut melambat.</item>
+        <item>Minggumu punya ruang. Selama ini ruang itu terisi hal lain.</item>
+        <item>Setiap kali kamu menutup ini, harimu bertambah sedikit.</item>
+        <item>Waktu adalah hadiah untuk dirimu sendiri yang tidak memakan biaya apa pun.</item>
+        <item>Sekarang kamu punya persis hal yang seharian kamu bilang tidak kamu punya.</item>
+        <item>Sore yang panjang tersusun dari keputusan singkat seperti ini.</item>
+        <item>Tidak akan ada yang bertanya apa yang kamu lakukan dengan setengah jam ini.</item>
+        <item>Waktu yang tidak kamu serahkan hari ini masih akan bersamamu besok.</item>
+        <item>Dua puluh menit sehari sama dengan seratus dua puluh jam setahun.</item>
+        <item>Kamu baru saja merebut kembali waktu sebelum tidur.</item>
+        <item>Ada banyak kehidupan di antara satu notifikasi dan notifikasi berikutnya.</item>
+        <item>Seluruh hari bisa jadi milikmu kalau tidak kamu serahkan sepotong-sepotong.</item>
+        <item>Sejauh ini kamu sudah menjaga waktumu. Ini satu lagi.</item>
+        <item>Perhatianmu adalah hal yang paling diperebutkan di dunia. Kamu baru saja menang.</item>
+        <item>Fokus butuh dua puluh menit untuk kembali. Jangan lepaskan sekarang.</item>
+        <item>Pikiran yang utuh lebih berharga daripada pikiran yang tercabik-cabik.</item>
+        <item>Tadi kamu sedang fokus pada sesuatu sebelum datang ke sini.</item>
+        <item>Perhatian yang terbagi bukanlah perhatian. Itu cuma lelah.</item>
+        <item>Apa yang sedang kamu kerjakan layak mendapatkan dirimu sepenuhnya.</item>
+        <item>Berpikir mendalam butuh waktu tanpa gangguan. Inilah waktunya.</item>
+        <item>Setiap kali berganti layar, harganya lebih mahal daripada yang ditunjukkan jam.</item>
+        <item>Pikiranmu sedang berjalan lancar. Biarkan ia terus melaju.</item>
+        <item>Kerja mendalam tidak akan selamat dari satu scroll feed.</item>
+        <item>Feed dirancang untuk merebut perhatianmu. Kamu menyadarinya.</item>
+        <item>Pemikiran yang panjang butuh keheningan untuk selesai.</item>
+        <item>Kamu mampu memegang satu ide utuh di kepala. Cukup beri ruang.</item>
+        <item>Distraksi bukan istirahat. Istirahat itu benar-benar mengistirahatkan.</item>
+        <item>Konsentrasi yang tadi kamu punya masih ada di sekitar. Kembalilah padanya.</item>
+        <item>Perhatianmu tidak dijual hari ini.</item>
+        <item>Pikiran terbaikmu muncul setelah menit kedua puluh.</item>
+        <item>Berhenti di tengah sekarang lebih mahal daripada kelihatannya.</item>
+        <item>Kamu mampu melakukan hal-hal yang butuh fokus. Mulailah dengan menjaganya.</item>
+        <item>Tidak ada di dalam sana yang butuh perhatianmu secepatnya.</item>
+        <item>Satu jam fokus menghasilkan lebih banyak daripada empat jam yang terpotong-potong.</item>
+        <item>Kepalamu bekerja lebih baik saat tidak terus berganti topik.</item>
+        <item>Yang masih setengah jalan masih bisa diselesaikan hari ini.</item>
+        <item>Fokus bukan soal tekad. Fokus soal lingkungan. Kamu baru saja menata lingkunganmu.</item>
+        <item>Masalah sulit itu akan luluh kalau kamu bertahan di sana.</item>
+        <item>Perhatianmu terbatas. Karena itulah ia sangat berharga.</item>
+        <item>Kamu tidak perlu tahu segalanya sekarang.</item>
+        <item>Kebisingan akan tetap ada di sana. Keheninganmulah yang langka.</item>
+        <item>Hal-hal besar dikerjakan oleh orang yang tidak diganggu.</item>
+        <item>Kembalilah ke yang tadi kamu kerjakan. Pikiranmu masih di sana.</item>
+        <item>Satu tugas sekali waktu lebih cepat daripada kelihatannya.</item>
+        <item>Keinginan untuk melihat akan berlalu. Ide yang terputus kadang tidak kembali.</item>
+        <item>Daya fokusmu lebih besar daripada yang belakangan ini kamu pakai.</item>
+        <item>Berpikir dengan baik itu lambat. Biarkan saja lambat.</item>
+        <item>Perhatianmu sudah menyusun sesuatu hari ini. Jangan bongkar hanya karena penasaran.</item>
+        <item>Yang butuh pikiran butuh seluruh pikiranmu.</item>
+        <item>Tidak ada feed yang bisa mengajarimu apa yang diajarkan satu jam fokus.</item>
+        <item>Setiap notifikasi yang kamu abaikan memberi sedikit lebih banyak kejernihan.</item>
+        <item>Kamu tadi hampir paham. Kembalilah ke sana.</item>
+        <item>Pikiran yang segar adalah pikiran yang tidak ditarik ke sana kemari seharian.</item>
+        <item>Perhatianmu adalah bahan untuk membangun semua hal lainnya.</item>
+        <item>Yang sulit itu memulai. Kamu sudah mulai. Jangan ulang dari nol.</item>
+        <item>Biarkan masalahnya tenang, nanti ia terurai sendiri di kepalamu.</item>
+        <item>Kejernihan muncul saat kebisingan berhenti.</item>
+        <item>Karya terbaikmu hari ini belum terjadi.</item>
+        <item>Bukan kurang waktu. Kurang waktu yang utuh.</item>
+        <item>Kamu bisa berpikir lebih baik daripada yang diizinkan feed.</item>
+        <item>Tulisan itu, kode itu, percakapan itu. Semuanya menunggu dirimu yang utuh.</item>
+        <item>Konsentrasi itu otot. Ia tumbuh lewat hari-hari seperti hari ini.</item>
+        <item>Kepalamu baru saja berterima kasih.</item>
+        <item>Satu per satu masih jadi teknik paling canggih yang ada.</item>
+        <item>Apa yang kamu kerjakan dengan perhatian akan bertahan. Sisanya berlalu.</item>
+        <item>Tidak ada jalan pintas untuk berpikir. Hanya waktu tanpa gangguan.</item>
+        <item>Kamu layak menuntaskan satu alur pikiran.</item>
+        <item>Pikiranmu sedang tajam. Jaga ketajaman itu.</item>
+        <item>Layar berkedip. Ide tidak. Tetaplah bersama idemu.</item>
+        <item>Satu hari yang fokus setara dengan tiga hari yang tergesa-gesa.</item>
+        <item>Kamu tidak lambat. Kamu hanya terus diganggu.</item>
+        <item>Hal yang penting hari ini tidak ada di feed.</item>
+        <item>Tetap di jalur lebih murah daripada kembali ke jalur.</item>
+        <item>Perhatian penuhmu adalah hadiah. Berikan pada yang pantas.</item>
+        <item>Keheningan adalah tempat ide-ide bagus muncul.</item>
+        <item>Kamu tadi sedang di tengah sesuatu yang bagus.</item>
+        <item>Tidak ada yang bisa berpikir jernih dengan kepala di sepuluh tempat.</item>
+        <item>Kedalaman baru muncul setelah beberapa lama di permukaan.</item>
+        <item>Fokus bukan soal mengerjakan lebih banyak. Fokus soal mengerjakan dengan baik.</item>
+        <item>Ada satu hal penting untukmu hari ini. Bukan feed.</item>
+        <item>Biarkan pikiranmu menyelesaikan kalimat yang sudah ia mulai.</item>
+        <item>Satu jam tanpa gangguan mengubah apa yang mungkin dalam sehari.</item>
+        <item>Yang terasa sulit sekarang jadi mudah dengan perhatian yang terus-menerus.</item>
+        <item>Konsentrasimu adalah keunggulanmu. Tidak banyak orang yang masih memilikinya.</item>
+        <item>Jangan tukar satu hal penting dengan banyak hal kilat.</item>
+        <item>Rasa penasaran bisa menunggu. Fokus tidak.</item>
+        <item>Kamu sedang membangun sesuatu. Lanjutkan.</item>
+        <item>Berganti-ganti tugas terasa produktif, padahal hampir tidak pernah.</item>
+        <item>Cara terbaik memakai pikiranmu hari ini masih tersedia.</item>
+        <item>Perhatian yang kamu simpan sekarang akan terlihat di hasilnya nanti.</item>
+        <item>Pikiranmu bukan feed. Ia menyimpan apa yang kamu perhatikan.</item>
+        <item>Hal yang layak mendapat dirimu seutuhnya itu langka. Manfaatkan.</item>
+        <item>Sulit bukan berarti mustahil. Hanya butuh waktu.</item>
+        <item>Kamu tinggal beberapa menit lagi untuk memecahkannya.</item>
+        <item>Kebisingan hilang saat kamu berhenti memberinya makan.</item>
+        <item>Tetaplah dengan yang tadi kamu kerjakan sampai selesai.</item>
+        <item>Satu selaman dalam sebanding dengan sepuluh selaman dangkal.</item>
+        <item>Perhatianmu menentukan apa yang menjadi kenangan.</item>
+        <item>Kamu mengingat apa yang kamu perhatikan. Hanya itu.</item>
+        <item>Berpikir adalah hal paling menguntungkan yang kamu lakukan hari ini.</item>
+        <item>Pikiran yang tenang memecahkan apa yang tidak terlihat oleh pikiran yang terburu-buru.</item>
+        <item>Pekerjaan yang baik butuh kesabaran, bukan kecepatan.</item>
+        <item>Tidak ada yang kamu lihat sekarang yang akan jadi bahan obrolan besok.</item>
+        <item>Kejernihan pikiranmu hari ini berawal dari keputusan seperti ini.</item>
+        <item>Gangguan adalah pajak paling mahal yang ada.</item>
+        <item>Kamu bisa bertahan pada satu hal lebih lama dari yang kamu kira.</item>
+        <item>Detail yang tadi luput darimu akan muncul dalam hening.</item>
+        <item>Fokus akan kembali. Cukup beberapa menit tanpa layar.</item>
+        <item>Kamu mampu memberi perhatian panjang. Feed-lah yang bertaruh kamu tidak mampu.</item>
+        <item>Menyelesaikan satu hal hari ini lebih berharga daripada memulai lima.</item>
+        <item>Perhatian penuhmu langka, bahkan bagi dirimu sendiri.</item>
+        <item>Biarkan pikiranmu bernapas.</item>
+        <item>Yang kamu bangun dengan fokus tidak akan tergulir lewat begitu saja.</item>
+        <item>Keinginan untuk membuka akan reda dalam beberapa menit. Selalu reda.</item>
+        <item>Dorongan ini punya tanggal kedaluwarsa. Ia akan habis sendiri.</item>
+        <item>Kamu tidak perlu melakukan apa-apa. Cukup tunggu ombaknya surut.</item>
+        <item>Rasa mendesak yang kamu rasakan sekarang bukan milikmu. Itu diajarkan.</item>
+        <item>Tarik napas sekali. Keinginannya sudah lebih kecil daripada semenit lalu.</item>
+        <item>Dorongan itu kuat di awal dan menghilang di tengah jalan.</item>
+        <item>Bukan kamu yang mau. Kebiasaan yang meminta.</item>
+        <item>Rasanya tidak nyaman sebentar. Lalu berlalu.</item>
+        <item>Kamu pernah merasakan ini sebelumnya dan selalu berhasil melewatinya.</item>
+        <item>Keinginan datang seperti ombak. Ombak selalu pecah.</item>
+        <item>Tidak ada yang wajib menuruti dorongan pertama hari ini.</item>
+        <item>Rasa sesak di dada ini lebih singkat daripada satu lagu.</item>
+        <item>Kamu lebih besar daripada dorongan tiga puluh detik.</item>
+        <item>Biarkan keinginan itu lewat tanpa kamu apa-apakan.</item>
+        <item>Rasa tidak nyaman ini adalah kebiasaan yang mulai melonggar. Itu kemajuan.</item>
+        <item>Kamu tidak sedang melawan. Kamu hanya sedang menunggu.</item>
+        <item>Keinginan datang dengan kuat dan pergi diam-diam.</item>
+        <item>Hitung sampai dua puluh. Keinginannya pasti sudah mengecil.</item>
+        <item>Merasa ingin tidak sama dengan butuh.</item>
+        <item>Dorongan itu minta dijawab segera. Jangan beri jawaban apa pun.</item>
+        <item>Ini saat paling sulit, dan ia singkat.</item>
+        <item>Kamu tidak perlu bertarung. Cukup jangan memutuskan sekarang.</item>
+        <item>Keinginan memudar saat tidak ada yang memberinya makan.</item>
+        <item>Ini rasa cemas, bukan lapar akan konten.</item>
+        <item>Perhatikan keinginan itu tanpa masuk ke dalamnya.</item>
+        <item>Otakmu minta yang biasa. Kamu tidak wajib menyajikannya.</item>
+        <item>Lima menit lagi kamu bahkan lupa pernah ingin membukanya.</item>
+        <item>Ombaknya sedang naik sekarang. Ia selalu turun lagi.</item>
+        <item>Kamu sudah melewati bagian terberatnya.</item>
+        <item>Dorongan itu berbohong soal seberapa kuat dirinya.</item>
+        <item>Berdiri, minum air, kembali. Dorongannya sudah pergi.</item>
+        <item>Keinginan bukan perintah.</item>
+        <item>Kamu boleh merasakan ini dan tidak berbuat apa-apa. Itu sah saja.</item>
+        <item>Tubuhmu minta bergerak, bukan layar.</item>
+        <item>Keinginan ini otomatis. Responsmu tidak harus begitu.</item>
+        <item>Tidak ada hal buruk yang terjadi kalau kamu menunggu sedikit lagi.</item>
+        <item>Keinginan itu akan hilang sendiri kalau kamu memberinya ruang.</item>
+        <item>Kamu hanya sedang cemas. Itu akan berlalu dan tidak butuh layar.</item>
+        <item>Dorongan itu cuma saran. Kamulah yang memutuskan.</item>
+        <item>Semenit lagi, keinginan itu sudah berubah jadi hal lain.</item>
+        <item>Bagian sulitnya cuma sebentar. Bagian baiknya bertahan seharian.</item>
+        <item>Ini dia dorongan kecil yang terkenal itu. Ternyata tidak sekuat itu.</item>
+        <item>Tunggu tanpa menghakimi. Keinginan itu akan luruh sendiri.</item>
+        <item>Otakmu sedang meminta jalan pintas yang biasa.</item>
+        <item>Kamu tidak perlu mengalahkan apa pun. Cukup biarkan lewat.</item>
+        <item>Setiap ombak yang kamu biarkan lewat membuat ombak berikutnya lebih kecil.</item>
+        <item>Rasa cemas ingin solusi cepat. Ia tidak akan menemukannya di sini.</item>
+        <item>Diamlah sejenak. Dorongan itu tidak akan diam.</item>
+        <item>Kamu tidak kehilangan apa pun dengan menunggu.</item>
+        <item>Rasa bosan bukan keadaan darurat.</item>
+        <item>Merasa hampa sekarang itu wajar. Rasa itu akan terisi sendiri.</item>
+        <item>Keinginan untuk mengecek sesuatu jarang benar-benar soal sesuatu itu.</item>
+        <item>Kamu sedang tidak nyaman, bukan dalam bahaya.</item>
+        <item>Ini akan mengendur sebentar lagi.</item>
+        <item>Kebiasaan itu kuat, tapi singkat.</item>
+        <item>Biarkan yang ini lewat. Yang ini saja.</item>
+        <item>Lain kali akan lebih mudah berkat yang ini.</item>
+        <item>Kamu tidak perlu meyakinkan dirimu soal apa pun. Cukup menunggu.</item>
+        <item>Segelas air lebih menolong daripada satu scroll feed.</item>
+        <item>Rasa mendesak itu palsu, dan kamu sudah tahu.</item>
+        <item>Dorongan itu tidak tahan kalau tidak dijawab.</item>
+        <item>Tunggu tiga puluh detik. Lalu putuskan lagi.</item>
+        <item>Kamu sedang di puncaknya. Mulai sekarang jalannya menurun.</item>
+        <item>Tidak ada yang menuntut reaksimu sekarang.</item>
+        <item>Keinginan itu seperti tamu. Ia akan pulang.</item>
+        <item>Kamu bukan dorongan itu. Kamulah yang mengamatinya.</item>
+        <item>Tubuhmu akan rileks kalau kamu memberinya semenit.</item>
+        <item>Ini cuma otak yang mencari rangsangan. Ia akan menemukan yang lain.</item>
+        <item>Tiga tarikan napas dalam mengubah seberapa kuat rasanya.</item>
+        <item>Keinginan menciut saat kamu menatapnya langsung.</item>
+        <item>Kamu sanggup melewati menit ini. Kamu pernah melewati yang lebih berat.</item>
+        <item>Rasa risih itu berlalu walau kamu tidak berbuat apa-apa.</item>
+        <item>Tanganmu lebih cepat daripada kepalamu. Itu biasa.</item>
+        <item>Tidak ada keputusan yang harus diambil dalam sepuluh detik pertama.</item>
+        <item>Sebentar lagi kamu bahkan tidak ingat soal ini.</item>
+        <item>Pemicunya sudah tertekan. Jawabannya tetap di tanganmu.</item>
+        <item>Biarkan keinginan itu ada tanpa harus kamu turuti.</item>
+        <item>Ini bukan rasa haus yang sungguhan. Ini cuma kebiasaan.</item>
+        <item>Tunggu saja. Benar-benar hanya itu yang perlu kamu lakukan.</item>
+        <item>Pikiran akan tenang sendiri kalau kamu tidak menambah kayu bakar.</item>
+        <item>Kamu sudah menunggu. Itu sudah kemenangan.</item>
+        <item>Dorongan kehilangan tenaga saat bertemu pintu yang tertutup.</item>
+        <item>Setiap detik di sini adalah satu detik keunggulan.</item>
+        <item>Ombaknya sudah pecah. Lihat, rasanya sudah lebih ringan.</item>
+        <item>Kamu tidak butuh alasan untuk tidak membukanya.</item>
+        <item>Keinginan berlalu lebih cepat daripada penyesalan.</item>
+        <item>Sedikit peregangan menyelesaikan apa yang tidak bisa diselesaikan feed.</item>
+        <item>Keinginan itu sedang pergi selagi kamu membaca ini.</item>
+        <item>Jangan putuskan apa-apa sekarang. Bernapas saja.</item>
+        <item>Dorongan datang sendiri dan pergi sendiri.</item>
+        <item>Bagian inilah yang paling sulit. Dan ini cepat.</item>
+        <item>Kamu sudah bertahan sejauh ini. Tinggal beberapa detik.</item>
+        <item>Tubuh minta layar saat sebenarnya ingin istirahat. Beri dia istirahat.</item>
+        <item>Keinginan makin kecil setiap kali tidak dituruti.</item>
+        <item>Tunggu sebentar lagi. Itu saja.</item>
+        <item>Momennya berlalu. Pilihannya tetap.</item>
+        <item>Kamu baru saja melewati bagian yang sempit.</item>
+        <item>Merasa ingin itu manusiawi. Tidak menurutinya juga.</item>
+        <item>Ketenangan kembali sebentar lagi kalau kamu tidak memaksanya.</item>
+        <item>Sudah terasa lebih ringan, bukan?</item>
+        <item>Kamu memutuskan ini saat sedang tenang. Percayai dirimu yang memutuskan itu.</item>
+        <item>Dirimu yang kemarin sudah menjaga dirimu yang sekarang.</item>
+        <item>Layar ini adalah pesan darimu untuk dirimu sendiri.</item>
+        <item>Kamu tidak sedang dihalangi. Kamu sedang diingatkan.</item>
+        <item>Dirimu yang kamu cita-citakan tidak menghabiskan sore dengan scroll.</item>
+        <item>Pilihan ini milikmu. Dan masih tetap milikmu.</item>
+        <item>Kamu tipe orang yang menyadari lalu bertindak.</item>
+        <item>Tidak ada yang memaksamu memasang ini. Kamu sendiri yang mau.</item>
+        <item>Dirimu besok akan senang dengan dirimu sekarang.</item>
+        <item>Kamu sudah jadi orang yang menjaga waktunya sendiri.</item>
+        <item>Ini bukan hukuman. Ini kesepakatan.</item>
+        <item>Kamu yang menulis aturan ini. Dan aturan ini berhasil.</item>
+        <item>Menguasai perhatianmu sendiri adalah pilihan setiap hari.</item>
+        <item>Di sini kamu tidak perlu membuktikan apa pun kepada siapa pun.</item>
+        <item>Sosok yang ingin kamu jadi dimulai dari keputusan-keputusan kecil.</item>
+        <item>Kamu ada di sisi yang tepat dari layar ini.</item>
+        <item>Setiap kali kamu menutup ini, kamu makin menjadi dirimu yang kamu inginkan.</item>
+        <item>Kamu bukan apa yang kamu inginkan. Kamu adalah apa yang kamu lakukan.</item>
+        <item>Janji pada dirimu sendiri sama berharganya dengan janji lain mana pun.</item>
+        <item>Kamu mengenali sebuah pola lalu mengubahnya. Itu langka.</item>
+        <item>Kamu lebih besar daripada aplikasi-aplikasi di sakumu.</item>
+        <item>Ini aturanmu, dan aturan ini ada di pihakmu.</item>
+        <item>Kamu berhak mengubah kebiasaanmu.</item>
+        <item>Apa yang kamu lakukan berulang kali adalah dirimu.</item>
+        <item>Kamu memilih hidup yang lebih lapang.</item>
+        <item>Bukan aplikasi yang mengatur kamu.</item>
+        <item>Jati dirimu tidak muat di dalam feed.</item>
+        <item>Kamulah orang yang memasang ini karena suatu alasan.</item>
+        <item>Ingat alasannya. Alasan itu masih berlaku.</item>
+        <item>Kamu sedang menepati keputusanmu sendiri.</item>
+        <item>Tidak ada yang berhak menentukan perhatianmu selain kamu.</item>
+        <item>Kamu menyadari apa yang sedang terjadi. Itu saja sudah mengubah segalanya.</item>
+        <item>Menguasai harimu sendiri adalah pekerjaan yang terus berjalan.</item>
+        <item>Kamu bukan penumpang. Kamu yang menyetir.</item>
+        <item>Ini pilihan orang yang menghargai dirinya sendiri.</item>
+        <item>Kamu bertanggung jawab atas dirimu. Dan kamu sedang melakukannya.</item>
+        <item>Waktumu punya pemilik. Dia sedang membaca ini.</item>
+        <item>Kamu sudah berjanji pada dirimu sendiri. Tepatilah.</item>
+        <item>Setiap keputusan seperti ini mendekatkanmu pada dirimu yang kamu cita-citakan.</item>
+        <item>Kamu tidak sedang kehilangan kebebasan. Kamu sedang menggunakannya.</item>
+        <item>Yang memutuskan apa yang dilakukan sekarang adalah kamu.</item>
+        <item>Kamu tidak butuh izin untuk hidup dengan cara berbeda.</item>
+        <item>Batas ini bentuk kepedulian, bukan kurungan.</item>
+        <item>Kamu memilih jalan yang lebih sulit dan lebih jadi milikmu.</item>
+        <item>Orang yang kamu kagumi juga akan bilang tidak sekarang.</item>
+        <item>Kamu tinggal di dalam hidupmu, bukan di dalam aplikasi.</item>
+        <item>Waktumu, pikiranmu, pilihanmu.</item>
+        <item>Kamu sedang menepati janji pada dirimu. Itu berarti.</item>
+        <item>Tidak ada yang akan menjaga perhatianmu menggantikanmu.</item>
+        <item>Kamu sudah membuktikan bahwa kamu bisa berganti arah.</item>
+        <item>Inilah kemandirian: memutuskan lebih dulu, bukan saat terdorong.</item>
+        <item>Kamu sedang membentuk seseorang yang kamu hormati.</item>
+        <item>Inilah versi dirimu yang punya rencana.</item>
+        <item>Kamu tidak sampai di sini secara kebetulan. Kamu yang menyiapkannya.</item>
+        <item>Janjimu pada dirimu sendiri itu berharga.</item>
+        <item>Kamu punya pendapat sendiri soal cara menghabiskan harimu.</item>
+        <item>Aplikasi itu tidak mengenalmu. Kamu yang mengenal dirimu.</item>
+        <item>Kamu sedang bertindak sebagai pemilik hidupmu sendiri.</item>
+        <item>Konsisten dengan keputusan sendiri adalah kebebasan.</item>
+        <item>Kamulah yang menulis aturannya di sini.</item>
+        <item>Ini kamu yang sedang merawat dirimu sendiri.</item>
+        <item>Kamu tidak terkurung. Kamu terlindungi.</item>
+        <item>Keinginanmu untuk berubah lebih tua daripada dorongan ini.</item>
+        <item>Kamu sudah menjadi sosok yang sedang kamu usahakan.</item>
+        <item>Keputusan yang sulit sudah diambil. Yang ini cuma yang mudah.</item>
+        <item>Kamu yang memegang kendali, dan itu langka zaman sekarang.</item>
+        <item>Tidak ada yang perlu tahu. Ini urusan kamu dengan dirimu sendiri.</item>
+        <item>Kamu layak bisa memercayai janjimu sendiri.</item>
+        <item>Namamu tertulis di pilihan ini.</item>
+        <item>Kamu sudah jadi tipe orang yang memutuskan lebih dulu.</item>
+        <item>Ini bukan merelakan. Ini memilih hal lain.</item>
+        <item>Kamu punya arah. Layar ini menunjuk ke sana.</item>
+        <item>Kebebasan sejati adalah tidak terus-menerus ditarik ke sana kemari.</item>
+        <item>Kamulah yang menentukan nilai perhatianmu.</item>
+        <item>Setiap tidak di sini adalah ya untuk hal lain milikmu.</item>
+        <item>Kamu sedang setia pada rencana yang kamu susun dengan sepenuh hati.</item>
+        <item>Menguasai diri sendiri itu butuh usaha, dan sepadan.</item>
+        <item>Kamu mengakui bahwa kamu ingin berubah. Itu sudah bagian tersulitnya.</item>
+        <item>Orang di cermin malam nanti akan menyukai ini.</item>
+        <item>Kamu tidak berutang apa pun pada algoritma.</item>
+        <item>Hidupmu bukan konten milik siapa pun.</item>
+        <item>Kamu berada tepat di tempat yang kamu putuskan.</item>
+        <item>Batas yang kamu pasang untuk dirimu adalah batas paling penuh hormat.</item>
+        <item>Rencana hidupmu lebih besar daripada layar ini.</item>
+        <item>Ini kedewasaan yang terjadi saat ini juga.</item>
+        <item>Tanpa sadar kamu sedang merawat masa depanmu.</item>
+        <item>Setiap pilihan seperti ini menajamkan siapa dirimu.</item>
+        <item>Kamu tidak perlu menjelaskan kenapa tidak membukanya.</item>
+        <item>Komitmenmu adalah pada dirimu, bukan pada aplikasi.</item>
+        <item>Kamu mengambil keputusan yang tepat saat sedang tidak tergoda.</item>
+        <item>Inilah hidupmu yang sedang kamu kemudikan sendiri.</item>
+        <item>Kamu sudah jadi orang yang sulit dimanipulasi.</item>
+        <item>Perhatianmu punya pemilik, dan pemiliknya sedang waspada.</item>
+        <item>Kamu baru saja bertindak seperti orang yang menyayangi dirinya.</item>
+        <item>Rencananya milikmu. Dan sekarang rencana itu berjalan.</item>
+        <item>Kamu adalah jumlah dari pilihan-pilihan kecilmu.</item>
+        <item>Tidak ada yang bisa merebut keputusan terakhir darimu.</item>
+        <item>Kamulah yang berwenang atas waktumu.</item>
+        <item>Ini berhasil karena kamu ingin ini berhasil.</item>
+        <item>Kamu lebih besar daripada kebiasaan yang ingin lebih besar darimu.</item>
+        <item>Satu lagi. Begitulah hitungannya bertambah.</item>
+        <item>Kecil tapi berulang mengalahkan besar tapi jarang.</item>
+        <item>Kamu baru saja menambah satu poin lagi.</item>
+        <item>Tidak ada yang berubah sekaligus. Perubahan terjadi di hari-hari seperti ini.</item>
+        <item>Ini satu dari seribu bagian dari hidup yang berbeda.</item>
+        <item>Satu hari baik tidak mengubah apa-apa. Seratus hari baik mengubah segalanya.</item>
+        <item>Kamu sedang membangun sebuah rangkaian.</item>
+        <item>Kemajuan hampir tidak pernah terasa seperti kemajuan dari dalam.</item>
+        <item>Jumlah pilihan-pilihan ini lebih besar daripada masing-masing pilihan.</item>
+        <item>Konsistensi itu membosankan, dan berhasil.</item>
+        <item>Satu batu lagi di tembok.</item>
+        <item>Kamu sedang melatih sesuatu yang akan menetap.</item>
+        <item>Kalau cukup sering diulang, ini akan jadi otomatis.</item>
+        <item>Tidak ada yang melihat kemenangan ini, tapi tetap dihitung.</item>
+        <item>Beberapa minggu lagi kamu bahkan tidak akan merasa ingin.</item>
+        <item>Hari ini berarti. Besok juga akan berarti.</item>
+        <item>Rantai terbentuk dari mata rantai seperti ini.</item>
+        <item>Kebiasaan baru sedang ditulis sekarang.</item>
+        <item>Setiap pengulangan sedikit melonggarkan kebiasaan lama.</item>
+        <item>Kamu sudah pernah melakukannya. Lakukan lagi.</item>
+        <item>Pelan adalah kecepatan hal-hal yang bertahan lama.</item>
+        <item>Perubahan terjadi jauh dari pandangan.</item>
+        <item>Kamu sedang mengumpulkan sesuatu yang tidak terlihat tapi nyata.</item>
+        <item>Satu hari lagi ke arah yang benar.</item>
+        <item>Hasilnya muncul nanti. Pilihannya hari ini.</item>
+        <item>Satu pilihan setiap kali, begitulah caranya.</item>
+        <item>Kamu lebih dekat daripada kemarin.</item>
+        <item>Tidak perlu sempurna. Yang perlu itu sering.</item>
+        <item>Kurvanya naik pelan, lalu naik dengan cepat.</item>
+        <item>Kamu sedang di tengah proses. Memang begini rasanya.</item>
+        <item>Setiap tidak yang kecil membangun ya yang besar.</item>
+        <item>Tidak ada yang dramatis di sini. Justru karena itu berhasil.</item>
+        <item>Jalan ini tersusun dari langkah seperti ini.</item>
+        <item>Kamu sedang menciptakan rutinitas versi baru.</item>
+        <item>Sebulan lagi ini akan terasa mudah.</item>
+        <item>Pengulangan mengubah keputusan menjadi cara hidup.</item>
+        <item>Kamu baru saja memperkuat jalur baru.</item>
+        <item>Seratus persen lebih mudah daripada sembilan puluh delapan.</item>
+        <item>Jangan biarkan rangkaiannya putus hari ini.</item>
+        <item>Kamu sedang mengerjakan bagian yang membosankan, dan justru itu yang berarti.</item>
+        <item>Kita tidak merasakan perubahannya. Kita baru melihatnya nanti.</item>
+        <item>Satu bata lagi terpasang.</item>
+        <item>Kamu sedang melatih otakmu untuk mengharapkan hal lain.</item>
+        <item>Terus berjalan, itulah seluruh tekniknya.</item>
+        <item>Kalau dijumlahkan, tidak ada kemenangan seperti ini yang kecil.</item>
+        <item>Kamu tidak perlu berlari. Cukup jangan berhenti.</item>
+        <item>Ini sudah makin mudah, dan kamu bahkan tidak sadar.</item>
+        <item>Seminggu seperti ini saja sudah mengubah harimu.</item>
+        <item>Kamu sedang membentuk jalur baru di kepalamu.</item>
+        <item>Setiap kali itu berarti, meski rasanya tidak.</item>
+        <item>Tidak ada yang bertepuk tangan, tapi ini berhasil.</item>
+        <item>Akumulasinya senyap dan tidak terbendung.</item>
+        <item>Kamu sudah lebih kuat dalam hal ini daripada bulan lalu.</item>
+        <item>Satu pilihan baik hari ini memudahkan pilihan besok.</item>
+        <item>Beginilah rasanya konsistensi dari dalam.</item>
+        <item>Satu hari lagi keunggulan yang terkumpul.</item>
+        <item>Kamu sedang di jalan, dan jalannya panjang. Tidak apa-apa.</item>
+        <item>Yang diulang akan jadi mudah.</item>
+        <item>Kamu baru saja menguatkan sosok yang sedang kamu tuju.</item>
+        <item>Hari ini hitungannya berpihak padamu.</item>
+        <item>Kemajuan kecil bertambah tanpa minta izin.</item>
+        <item>Ini bukan soal hari ini. Ini soal jumlah totalnya.</item>
+        <item>Kamu sedang mengerjakan pekerjaan yang tidak terlihat.</item>
+        <item>Teruskan. Benar-benar itulah rahasianya.</item>
+        <item>Setiap hari seperti ini mengangkat sedikit beban.</item>
+        <item>Kebiasaan lama sedang kehilangan tempat sekarang.</item>
+        <item>Kamu sedang menyirami sesuatu yang belum bertunas.</item>
+        <item>Perubahan sedang terjadi meski tidak terlihat.</item>
+        <item>Sekali lagi. Dari dulu memang hanya itu.</item>
+        <item>Kamu sedang mengumpulkan tabungan hari-hari baik.</item>
+        <item>Lama-lama ini akan jadi hal biasa.</item>
+        <item>Kamu baru saja memilih lagi. Dan sekali lagi itu berarti.</item>
+        <item>Sebulan seperti ini dan kamu jadi orang yang berbeda.</item>
+        <item>Usaha hari ini akan terlupa. Hasilnya tetap ada.</item>
+        <item>Kamu sudah bukan lagi orang yang memulai ini.</item>
+        <item>Selalu melakukan lebih berharga daripada banyak melakukan.</item>
+        <item>Setiap hari adalah satu suara untuk dirimu yang kamu inginkan.</item>
+        <item>Kamu sedang membiarkan kebiasaan baru merebut tempat.</item>
+        <item>Ini tidak perlu heroik. Cukup terjadi.</item>
+        <item>Kamu baru saja memperkokoh jalan yang benar.</item>
+        <item>Mengulang adalah cara otak mempelajari apa pun.</item>
+        <item>Hari ini ditambah kemarin sudah cukup banyak.</item>
+        <item>Kamu sudah berjalan dengan baik, bahkan saat tidak merasakannya.</item>
+        <item>Kemajuan tinggal di pengulangan yang membosankan.</item>
+        <item>Satu langkah pendek lagi menuju arah yang jauh.</item>
+        <item>Kamu sedang menjadikan ini hal yang alami.</item>
+        <item>Hal baik yang dilakukan berkali-kali itulah yang tersisa.</item>
+        <item>Kekuatan datang dari melakukannya lagi, bukan dari melakukannya keras-keras.</item>
+        <item>Kamu baru saja memperpendek jalan esok hari.</item>
+        <item>Satu lagi. Itu saja. Dan itu cukup.</item>
+        <item>Kamu sedang meninggalkan jejak keputusan-keputusan baik.</item>
+        <item>Konsistensi mengubah usaha menjadi jati diri.</item>
+        <item>Setiap hari dihitung sebagai satu hari penuh.</item>
+        <item>Kamu sedang dalam permainan panjang, dan kamu sedang menang.</item>
+        <item>Tanpa kamu sadari, ini akan menjadi dirimu.</item>
+        <item>Investasi terbaik hari ini baru saja dilakukan.</item>
+        <item>Kamu baru saja menjaga jalurmu.</item>
+        <item>Kesinambungan lebih langka daripada bakat.</item>
+        <item>Perubahan sejati selalu pelan dan selalu sepadan.</item>
+        <item>Satu pilihan lagi ke arah hidupmu.</item>
+        <item>Matamu berterima kasih atas jeda ini.</item>
+        <item>Berdiri dan lakukan peregangan. Tubuhmu minta itu, bukan layar.</item>
+        <item>Tarik napas dalam-dalam. Itu saja sudah mengubah sesuatu.</item>
+        <item>Minum air. Mungkin itu yang dari tadi kurang.</item>
+        <item>Lehermu sudah miring dari tadi. Luruskan.</item>
+        <item>Tidur malam ini dimulai dari layar yang kamu lihat sekarang.</item>
+        <item>Tidur nyenyak adalah hal paling produktif yang ada.</item>
+        <item>Tubuhmu sudah terlalu lama diam.</item>
+        <item>Lihat ke kejauhan selama dua puluh detik. Matamu akan rileks.</item>
+        <item>Jalan kaki sebentar memperbaiki suasana hati lebih dari feed mana pun.</item>
+        <item>Lelah yang kamu rasakan mungkin cuma karena layar.</item>
+        <item>Tubuhmu minta bergerak saat kepalamu minta scroll.</item>
+        <item>Udara segar menyelesaikan hal-hal yang tidak bisa diselesaikan layar.</item>
+        <item>Turunkan bahu. Lemaskan rahang.</item>
+        <item>Tanpa sadar kamu sedang menegangkan bahumu.</item>
+        <item>Sepuluh menit kena sinar matahari itu sangat berharga.</item>
+        <item>Tubuh beristirahat dengan berbaring, bukan dengan scroll.</item>
+        <item>Tidur lebih awal malam ini adalah hadiah untuk besok.</item>
+        <item>Posturmu berubah dalam dua puluh menit terakhir. Perbaiki.</item>
+        <item>Lelah karena layar bukan lelah sungguhan. Itu hal lain.</item>
+        <item>Angkat tanganmu. Regangkan. Nah, sudah lebih enak.</item>
+        <item>Matamu jarang berkedip saat kamu scroll. Berkediplah sekarang.</item>
+        <item>Tubuh bekerja lebih baik dengan jeda yang sungguhan.</item>
+        <item>Jalan keliling kompleks menjernihkan kepala.</item>
+        <item>Tulang punggungmu akan senang dengan jeda ini.</item>
+        <item>Istirahat berbeda dengan distraksi.</item>
+        <item>Tidur yang buruk semalam dimulai di layar seperti ini.</item>
+        <item>Regangkan leher ke kiri dan ke kanan. Cuma sepuluh detik.</item>
+        <item>Bergerak meredakan cemas lebih baik daripada konten.</item>
+        <item>Tubuhmu adalah satu-satunya rumah yang kamu punya.</item>
+        <item>Air, cahaya, dan gerak. Hampir selalu itu jawabannya.</item>
+        <item>Layar melelahkan bahkan saat terasa seperti istirahat.</item>
+        <item>Pejamkan mata sejenak. Itu saja.</item>
+        <item>Napasmu pendek-pendek. Tarik napas dalam tiga kali.</item>
+        <item>Mandi menyelesaikan lebih banyak hal daripada kelihatannya.</item>
+        <item>Tubuhmu sudah terlalu lama di posisi yang sama.</item>
+        <item>Istirahat yang sungguhan tidak pakai layar.</item>
+        <item>Dua puluh menit jalan kaki mengubah seluruh hari.</item>
+        <item>Kepalamu berat karena tubuhmu diam saja.</item>
+        <item>Mata kering, bahu kaku. Kamu sudah merasakannya.</item>
+        <item>Berdiri dua menit menyegarkan lebih dari satu kali scroll.</item>
+        <item>Tubuh minta tidur, pikiran minta rangsangan. Dengarkan tubuhmu.</item>
+        <item>Cahaya layar mengganggu tidurmu sampai berjam-jam.</item>
+        <item>Luruskan kakimu. Cepat dan ampuh.</item>
+        <item>Kamu layak mendapat istirahat yang benar-benar memulihkan.</item>
+        <item>Gerak badan adalah antidepresan paling murah yang ada.</item>
+        <item>Tubuhmu akan mengingat tidur malam ini.</item>
+        <item>Napas yang pelan menenangkan lebih cepat daripada video apa pun.</item>
+        <item>Kamu sedang lapar atau bosan. Cari tahu yang mana.</item>
+        <item>Tubuh pulih saat kepala beristirahat.</item>
+        <item>Dua puluh detik memandang ke luar jendela.</item>
+        <item>Pergelangan tangan dan jempolmu butuh libur.</item>
+        <item>Lelah karena layar hilang dengan berjalan kaki.</item>
+        <item>Saat tidur, ingatan ditata. Jagalah tidurmu.</item>
+        <item>Kamu butuh lebih sedikit rangsangan, bukan lebih banyak.</item>
+        <item>Peregangan dua menit lebih berharga daripada sepuluh menit video.</item>
+        <item>Tubuhmu sedang memberimu tanda sekarang.</item>
+        <item>Udara, air, dan gerak. Resepnya tidak berubah.</item>
+        <item>Berbaringlah di lantai selama semenit. Serius.</item>
+        <item>Layar membuatmu tetap terjaga saat kamu perlu tidur.</item>
+        <item>Tubuh minta jeda, tangan minta layar. Berikan jedanya.</item>
+        <item>Matamu sudah bekerja sejak pagi.</item>
+        <item>Satu malam tidur nyenyak bisa mengubah dunia.</item>
+        <item>Berdiri. Berdiri saja. Itu sudah cukup.</item>
+        <item>Kamu akan tidur lebih nyenyak berkat pilihan ini.</item>
+        <item>Tubuh berterima kasih atas hal yang dianggap membosankan oleh kepala.</item>
+        <item>Regangkan punggungmu. Punggungmu sudah minta.</item>
+        <item>Istirahat yang nyata adalah hening, bukan rangsangan lain.</item>
+        <item>Tubuhmu punya ritmenya sendiri, dan layar mengabaikannya.</item>
+        <item>Pandanglah cakrawala. Mata butuh jarak.</item>
+        <item>Rahang yang tegang tidak akan lemas dengan scroll.</item>
+        <item>Sudah berapa lama sebenarnya kamu duduk?</item>
+        <item>Gerak membawa kejernihan. Dari dulu selalu begitu.</item>
+        <item>Minum air dulu sebelum memutuskan apa pun.</item>
+        <item>Tidur yang hilang tidak bisa diganti dengan konten.</item>
+        <item>Tubuhmu bekerja dengan baik kalau kamu membiarkannya.</item>
+        <item>Tidur siang sebentar lebih bermanfaat daripada sejam di feed.</item>
+        <item>Menarik napas dalam itu gratis dan langsung terasa.</item>
+        <item>Layar membuat tubuh tegang tanpa kamu sadari.</item>
+        <item>Kamu lebih lelah daripada yang seharusnya.</item>
+        <item>Berdiri dan lihat ke luar jendela. Lima detik saja.</item>
+        <item>Tubuhmu tidak berevolusi untuk diam menatap cahaya.</item>
+        <item>Regangkan jari-jarimu. Mereka sudah banyak bekerja hari ini.</item>
+        <item>Malam terasa lebih baik tanpa layar sebelum tidur.</item>
+        <item>Istirahat bukanlah yang ditawarkan layar.</item>
+        <item>Tubuhmu minta alam, tapi yang didapat piksel.</item>
+        <item>Segelas air dan tiga tarikan napas. Lakukan sekarang.</item>
+        <item>Bahu yang tegang itu karena caramu memegang ponsel.</item>
+        <item>Tubuh jadi rileks saat perhatian berhenti berlari.</item>
+        <item>Lima menit lagi kamu akan merasa lebih baik.</item>
+        <item>Gerak mengubah kimia tubuh. Layar cuma mengganti topik.</item>
+        <item>Matamu layak mendapat istirahat sungguhan.</item>
+        <item>Berjalan merapikan pikiran lebih baik daripada membaca feed.</item>
+        <item>Cahaya biru sekarang berarti tidur buruk nanti.</item>
+        <item>Kamu butuh istirahat, bukan informasi tambahan.</item>
+        <item>Dua tarikan napas dalam sebelum melakukan apa pun.</item>
+        <item>Tubuhmu lebih bijak daripada dorongan sesaat.</item>
+        <item>Berdiri dan berjalanlah ke dapur. Itu sudah cukup.</item>
+        <item>Istirahatkan tubuh, dan kepalamu ikut beristirahat.</item>
+        <item>Ada orang sungguhan di dekatmu saat ini.</item>
+        <item>Satu obrolan lebih berharga daripada tiga ratus unggahan.</item>
+        <item>Telepon seseorang. Dengar suaranya langsung.</item>
+        <item>Orang yang kamu sayangi hanya sejauh satu pesan.</item>
+        <item>Orang-orang di feed tidak tahu kamu ada.</item>
+        <item>Orang yang ada satu ruangan denganmu layak mendapat lebih.</item>
+        <item>Pelukan menyelesaikan apa yang tidak bisa diselesaikan video.</item>
+        <item>Kirim pesan ke orang yang belakangan ini terlupakan.</item>
+        <item>Ibumu pasti senang kalau ditelepon hari ini.</item>
+        <item>Di dunia nyata ada orang yang benar-benar membalas.</item>
+        <item>Teman yang menghilang itu masih bisa kembali. Sapa dia.</item>
+        <item>Kehadiran adalah hal paling langka yang bisa kamu berikan.</item>
+        <item>Ada yang sedang menunggumu mengangkat kepala.</item>
+        <item>Satu pertanyaan yang baik lebih berharga daripada sejam scroll.</item>
+        <item>Orang-orang di sekitarmu tidak punya algoritma.</item>
+        <item>Ada obrolan yang sedang berlangsung tanpa kamu.</item>
+        <item>Tidak ada orang dari feed yang akan hadir saat kamu butuh.</item>
+        <item>Ngopi bareng seseorang mengubah minggumu lebih dari feed mana pun.</item>
+        <item>Kebersamaanmu adalah hadiah. Berikanlah.</item>
+        <item>Lihatlah orang yang sedang bersamamu.</item>
+        <item>Persahabatan perlu disiram. Siramlah hari ini.</item>
+        <item>Orang di sebelahmu itu nyata.</item>
+        <item>Orang yang menyayangimu tidak butuh like.</item>
+        <item>Masih ingat kapan terakhir kamu mengobrol panjang?</item>
+        <item>Ajak seseorang jalan kaki.</item>
+        <item>Kenangan terbaik jarang melibatkan layar.</item>
+        <item>Saat ini kamu adalah teman bagi seseorang.</item>
+        <item>Kirim pesan suara ke orang yang kamu sayangi.</item>
+        <item>Orang berubah saat kamu memperhatikan mereka.</item>
+        <item>Kehadiranmu berarti bagi seseorang hari ini.</item>
+        <item>Obrolan yang baik membuatmu lebih baik. Feed tidak.</item>
+        <item>Seseorang perlu tahu bahwa kamu teringat padanya.</item>
+        <item>Temui seseorang, jangan cuma mengikuti seseorang.</item>
+        <item>Ikatan yang kuat terbentuk dari waktu bersama.</item>
+        <item>Kamu bisa jadi alasan hari baik seseorang.</item>
+        <item>Anggota keluarga yang sudah berbulan-bulan tidak kamu ajak bicara.</item>
+        <item>Satu pesan tulus lebih berharga daripada seribu tayangan.</item>
+        <item>Bersama berbeda dengan terhubung.</item>
+        <item>Orang yang hidup bersamamu layak mendapat dirimu seutuhnya.</item>
+        <item>Ajak seseorang makan malam.</item>
+        <item>Orang sungguhan punya wajah, suara, dan waktu yang terbatas.</item>
+        <item>Bagi seseorang, kamu tidak tergantikan. Hadirlah.</item>
+        <item>Obrolan terpenting hari ini belum terjadi.</item>
+        <item>Di dekatmu ada juga seseorang yang sedang tidak memegang layar.</item>
+        <item>Mendengarkan orang lain adalah cara termudah untuk disayangi.</item>
+        <item>Temanmu itu sedang melewati sesuatu. Tanyakan kabarnya.</item>
+        <item>Anakmu, kucingmu, tetanggamu. Ada yang menunggumu.</item>
+        <item>Media sosial menghubungkanmu dengan banyak orang, tapi tidak satu pun benar-benar dekat.</item>
+        <item>Satu sore bersama seseorang sebanding dengan sebulan feed.</item>
+        <item>Kamu bisa membuat seseorang tertawa hari ini. Tertawa sungguhan.</item>
+        <item>Kehadiran penuh itu sangat langka. Kamu punya satu untuk diberikan.</item>
+        <item>Seseorang membicarakanmu minggu ini. Balaslah kebaikannya.</item>
+        <item>Tidak ada seorang pun di feed yang merindukanmu.</item>
+        <item>Telepon lima menit bisa mengubah hari seseorang.</item>
+        <item>Orang-orang yang berarti tidak mengunggah soal itu.</item>
+        <item>Satu pertanyaan saja bisa membuka obrolan yang seru.</item>
+        <item>Kebersamaan yang nyata tidak diselingi iklan.</item>
+        <item>Orang yang selalu mendukungmu itu. Ucapkan terima kasih hari ini.</item>
+        <item>Bertatap mata masih jadi teknologi terbaik.</item>
+        <item>Keluargamu bukan feed. Jangan lewati mereka begitu saja.</item>
+        <item>Ajak seseorang bersantai tanpa melakukan apa-apa.</item>
+        <item>Orang yang jauh juga layak mendapat kabar darimu.</item>
+        <item>Di luar sini ada orang-orang yang menyayangimu.</item>
+        <item>Obrolan sulit yang ditunda lebih berat daripada feed.</item>
+        <item>Nikmati kebersamaan dengan orang di dekatmu selagi masih ada.</item>
+        <item>Orang akan mengingat siapa yang hadir.</item>
+        <item>Ajak teman ngopi tanpa alasan.</item>
+        <item>Di suatu tempat, ada yang ingin tahu kabarmu.</item>
+        <item>Kamu bisa benar-benar mendengarkan seseorang sekarang.</item>
+        <item>Ikatan dibangun dengan saling menatap, bukan dengan scroll.</item>
+        <item>Perhatianmu adalah hadiah terbaik untuk orang yang kamu sayangi.</item>
+        <item>Satu orang lebih berharga daripada satu profil.</item>
+        <item>Obrolan yang masih kamu utangi pada seseorang. Hari ini saatnya.</item>
+        <item>Ada untuk orang lain adalah salah satu bentuk cinta.</item>
+        <item>Sekarang kamu punya waktu untuk seseorang.</item>
+        <item>Tidak ada yang meninggalkan dunia sambil berharap punya lebih banyak pengikut.</item>
+        <item>Temui lagi seseorang, jangan cuma memantau dari jauh.</item>
+        <item>Rasa sayang kadang perlu diucapkan dengan lantang.</item>
+        <item>Teman-teman lamamu masih ada. Ajak mereka.</item>
+        <item>Seseorang di dekatmu sedang ingin mengobrol.</item>
+        <item>Membandingkan bukanlah terhubung.</item>
+        <item>Hari ini kamu bisa hadir untuk orang lain.</item>
+        <item>Catatan kecil tulisan tangan. Ide bagus, bukan?</item>
+        <item>Orang yang benar-benar mengenalmu tidak ada di feed.</item>
+        <item>Habiskan sore bersama seseorang.</item>
+        <item>Orang-orang terdekatmu layak mendapat apa yang kamu berikan pada feed.</item>
+        <item>Kamu penting bagi seseorang yang tidak suka mengunggah apa-apa.</item>
+        <item>Telepon dan tanyakan bagaimana kabarnya yang sebenarnya.</item>
+        <item>Rasa sepi tidak hilang dengan lebih banyak layar.</item>
+        <item>Dekati seseorang hari ini.</item>
+        <item>Makan bersama sebanding dengan satu sore penuh.</item>
+        <item>Perhatianmu menghidupi hubungan. Hidupilah satu.</item>
+        <item>Ada seseorang yang sedang memikirkanmu saat ini juga.</item>
+        <item>Bilang pada seseorang bahwa kamu menyayanginya.</item>
+        <item>Persahabatan mati karena diam, bukan karena bertengkar.</item>
+        <item>Ada orang-orang baik di dekatmu. Hargai mereka.</item>
+        <item>Seseorang butuh teman, dan kamu bisa menjadi teman itu.</item>
+        <item>Tinggalkan feed dan temui orang.</item>
+        <item>Orang yang menyayangimu ingin waktumu, bukan profilmu.</item>
+        <item>Kamu bisa memperbaiki hari seseorang dalam lima menit.</item>
+        <item>Berkarya melelahkan tapi mengisi. Mengonsumsi menenangkan tapi mengosongkan.</item>
+        <item>Kamu punya lebih banyak yang ingin disampaikan daripada yang ingin dilihat.</item>
+        <item>Seseorang sedang membuat apa yang tadinya akan kamu tonton.</item>
+        <item>Tulis satu baris. Satu saja.</item>
+        <item>Dunia punya terlalu banyak penonton dan terlalu sedikit pencipta.</item>
+        <item>Idemu yang itu masih menunggu.</item>
+        <item>Kamu bisa membuat sesuatu, bukan cuma melihat yang sudah jadi.</item>
+        <item>Semua hal baik dibuat oleh orang yang sedang tidak scroll.</item>
+        <item>Idemu lebih berharga daripada seluruh feed hari ini.</item>
+        <item>Mulai hal yang kamu tunda. Lima menit sudah cukup.</item>
+        <item>Proyek yang mandek cuma butuh satu dorongan.</item>
+        <item>Kamu berbakat dalam hal yang bukan scroll layar.</item>
+        <item>Buat sesuatu hari ini yang kemarin belum ada.</item>
+        <item>Berkarya lebih seru daripada menonton, cuma susah di awal.</item>
+        <item>Buku catatan kosong itu tidak menggigit.</item>
+        <item>Konten terbaik adalah yang kamu buat.</item>
+        <item>Kamu belajar lebih banyak dengan melakukan daripada menonton.</item>
+        <item>Mainkan alat musik, menggambar, memasak. Lakukan sesuatu dengan tanganmu.</item>
+        <item>Kreativitasmu menghilang saat kepalamu penuh feed.</item>
+        <item>Ada karyamu yang belum pernah dibuat siapa pun.</item>
+        <item>Mulai saja meski jelek. Nanti membaik.</item>
+        <item>Satu paragraf sehari lama-lama jadi buku.</item>
+        <item>Kamu punya cerita untuk dibagikan.</item>
+        <item>Membuat sesuatu adalah penawar rasa hampa.</item>
+        <item>Bosan adalah awal kreativitas. Biarkan ia ada.</item>
+        <item>Kepalamu mulai mencipta saat kamu berhenti menjejalinya.</item>
+        <item>Kursus yang sudah kamu bayar itu sedang menunggu.</item>
+        <item>Belajar satu hal baru hari ini itu mungkin.</item>
+        <item>Mengonsumsi itu mudah. Karena itu rasanya kurang memuaskan.</item>
+        <item>Kamu ingin membuat sesuatu. Mulailah sekarang.</item>
+        <item>Lima menit latihan lebih berharga daripada sejam video.</item>
+        <item>Resep yang ingin kamu coba itu.</item>
+        <item>Ide datang dalam hening, bukan saat scroll.</item>
+        <item>Kamu bisa jadi pembuatnya, bukan sekadar penontonnya.</item>
+        <item>Proyek kecil bisa mengubah satu minggu.</item>
+        <item>Tulis apa yang akan kamu lakukan kalau punya waktu. Kamu punya.</item>
+        <item>Tanganmu bisa membuat banyak hal. Pakailah.</item>
+        <item>Buat sesuatu yang tidak sempurna hari ini.</item>
+        <item>Belajar lebih menyenangkan daripada sekadar dihibur.</item>
+        <item>Yang kamu ciptakan akan bertahan. Yang kamu scroll akan hilang.</item>
+        <item>Alat musik yang tersandar di pojok itu.</item>
+        <item>Ada proyek setengah jadi yang menunggumu.</item>
+        <item>Berkarya adalah kebalikan dari membandingkan diri.</item>
+        <item>Mulai dari yang kecil. Mulai hari ini.</item>
+        <item>Satu halaman sehari berarti hidup yang berbeda.</item>
+        <item>Imajinasimu butuh ruang kosong.</item>
+        <item>Lakukan sesuatu yang akan kamu banggakan besok.</item>
+        <item>Kepuasan berkarya tidak ada gantinya.</item>
+        <item>Kamu mampu melakukan lebih dari sekadar mengonsumsi.</item>
+        <item>Hobi yang lama kamu tinggalkan itu masih ada.</item>
+        <item>Dua puluh menit latihan adalah dua puluh menit kemajuan.</item>
+        <item>Tidak ada yang jadi jago apa pun dengan scroll feed.</item>
+        <item>Keahlian barumu dimulai suatu saat nanti. Biarlah saat itu sekarang.</item>
+        <item>Lakukan saja, walau tidak ada yang melihat.</item>
+        <item>Ada sesuatu yang ingin kamu pelajari. Mulailah.</item>
+        <item>Mengonsumsi berarti menonton hidup orang lain.</item>
+        <item>Kamu punya tangan, pikiran, dan waktu. Hanya itu yang kamu butuhkan.</item>
+        <item>Draf pertama selalu jelek. Buat saja.</item>
+        <item>Bahasa yang dulu ingin kamu kuasai itu.</item>
+        <item>Berkarya adalah cara bosan berubah jadi gembira.</item>
+        <item>Sedikit demi sedikit setiap hari bisa membangun keahlian apa pun.</item>
+        <item>Ada sesuatu di dalam dirimu yang ingin keluar.</item>
+        <item>Tulis tentang harimu. Hanya untuk dirimu sendiri.</item>
+        <item>Kreativitasmu menunggu kamu mematikan kebisingan.</item>
+        <item>Kerjakan sesuatu dengan tanganmu hari ini.</item>
+        <item>Rasa senang saat menuntaskan sesuatu itu beda dari yang lain.</item>
+        <item>Proyek yang dulu membuatmu bersemangat. Ia masih bisa membuatmu bersemangat.</item>
+        <item>Kamu tidak perlu jago untuk memulai.</item>
+        <item>Masak sesuatu yang baru. Itu juga berkarya.</item>
+        <item>Hidup jadi lebih menarik saat kamu membuat sesuatu.</item>
+        <item>Tidak ada yang lahir langsung bisa. Semua orang mulai dari jelek.</item>
+        <item>Ide yang muncul tengah malam itu. Catatlah.</item>
+        <item>Kamu bisa berguna bagi seseorang dengan apa yang kamu kuasai.</item>
+        <item>Kerjakan sedikit hari ini dan sedikit besok.</item>
+        <item>Waktu terbaik untuk memulai sudah lewat. Yang terbaik kedua adalah sekarang.</item>
+        <item>Karyamu tidak akan jadi dengan sendirinya.</item>
+        <item>Berlatih itu membosankan sampai kamu mulai mahir.</item>
+        <item>Kamu ingin berkarya. Feed ingin kamu cuma menonton.</item>
+        <item>Gambar yang sudah kamu mulai itu.</item>
+        <item>Melakukan adalah cara tercepat untuk belajar.</item>
+        <item>Kamu punya suara. Gunakan untuk sesuatu.</item>
+        <item>Memperbaiki sesuatu di rumah juga termasuk berkarya.</item>
+        <item>Pencapaianmu berikutnya dimulai di hari biasa seperti hari ini.</item>
+        <item>Buat sesuatu yang hanya kamu yang akan membuatnya.</item>
+        <item>Feed tidak ada ujungnya. Karyamu punya akhir, dan karena itu ia berarti.</item>
+        <item>Kamu bisa menanam sesuatu hari ini. Secara harfiah.</item>
+        <item>Spreadsheet itu, rencana itu, mimpi itu.</item>
+        <item>Berkarya itu butuh kerja keras, dan itulah yang membuatnya berharga.</item>
+        <item>Kamu lebih menarik daripada feed mana pun.</item>
+        <item>Belajar dua puluh menit. Sedikit, tapi juga banyak.</item>
+        <item>Rasa ingin tahu jadi lebih baik saat diwujudkan lewat latihan.</item>
+        <item>Lagu yang dulu ingin kamu pelajari itu.</item>
+        <item>Lakukan satu hal sederhana yang berguna sekarang.</item>
+        <item>Kamu punya sesuatu yang baik untuk diberikan pada dunia.</item>
+        <item>Mulailah hal yang nanti akan kamu syukuri sudah dimulai.</item>
+        <item>Proyek pribadi mengubah hubunganmu dengan waktu.</item>
+        <item>Berkarya adalah cara terbaik untuk menyibukkan pikiran.</item>
+        <item>Kamu bisa menyelesaikan sesuatu hari ini.</item>
+        <item>Sentuhlah sesuatu yang nyata dengan tanganmu.</item>
+        <item>Tidak ada yang bisa menggantikan rasa sudah berhasil mengerjakan.</item>
+        <item>Tidak apa-apa sampai di sini. Sekarang tarik napas.</item>
+        <item>Tidak ada yang menghitung apa pun. Lanjutkan saja.</item>
+        <item>Kamu sudah melakukannya dengan baik, walau tidak kelihatan.</item>
+        <item>Tanpa buru-buru, tanpa tuntutan. Cuma jeda.</item>
+        <item>Ini bukan ujian. Ini cuma pengingat yang lembut.</item>
+        <item>Kamu sedang berusaha, dan itu sudah cukup.</item>
+        <item>Semuanya baik-baik saja. Tutup ini dan lanjutkan harimu.</item>
+        <item>Di sini tidak ada soal harus selalu benar.</item>
+        <item>Kamu layak merasa ringan hari ini.</item>
+        <item>Tanpa drama. Cuma waktu sebentar untuk bernapas.</item>
+        <item>Ini tempat yang tenang. Tinggallah sebentar.</item>
+        <item>Kamu sedang melakukan yang terbaik yang kamu bisa. Itu berarti.</item>
+        <item>Tidak ada tuntutan di sini. Hanya kepedulian.</item>
+        <item>Bernapaslah. Tidak ada yang salah sedang terjadi.</item>
+        <item>Kamu sudah sampai sejauh ini, dan itu sudah bagus.</item>
+        <item>Tidak ada yang menghakimi. Kamu juga tidak perlu.</item>
+        <item>Semuanya beres. Lanjut saja.</item>
+        <item>Selangkah demi selangkah adalah ritme yang pas.</item>
+        <item>Kamu tidak harus sempurna dalam hal ini.</item>
+        <item>Pelan-pelan juga tetap berjalan.</item>
+        <item>Layar ini tidak menuntut apa pun darimu.</item>
+        <item>Bersikap lembutlah pada dirimu sekarang.</item>
+        <item>Tidak apa-apa merasa ingin. Itu bagian dari proses.</item>
+        <item>Kamu sedang merawat dirimu. Itu indah.</item>
+        <item>Tanpa alarm, tanpa buru-buru, tanpa kaget.</item>
+        <item>Kamu manusia. Itu boleh.</item>
+        <item>Tidak perlu menjelaskan diri pada siapa pun.</item>
+        <item>Tarik napas dalam. Sudah lewat.</item>
+        <item>Kamu aman di sini.</item>
+        <item>Tidak apa-apa kalau hari ini terasa berat.</item>
+        <item>Tidak ada hari yang sama. Hari ini juga begitu.</item>
+        <item>Kamu tetap di jalur, walau pelan.</item>
+        <item>Istirahatkan tuntutan pada dirimu sebentar.</item>
+        <item>Semuanya aman. Cuma sejenak menghela napas.</item>
+        <item>Kamu tidak harus selalu baik-baik saja.</item>
+        <item>Bersikap lembut pada diri sendiri lebih ampuh daripada bersikap keras.</item>
+        <item>Momen ini akan berlalu dengan tenang.</item>
+        <item>Kamu sudah melewati bagian sulitnya hari ini.</item>
+        <item>Tidak ada yang mendesak. Tidak ada yang gawat. Hanya jeda.</item>
+        <item>Senyumlah. Ini lebih kecil daripada kelihatannya.</item>
+        <item>Kamu sedang mencoba, dan itulah yang penting.</item>
+        <item>Tidak ada yang perlu dipertanggungjawabkan. Jalan terus saja.</item>
+        <item>Semuanya baik. Sungguh.</item>
+        <item>Kamu layak mendapat hari yang ringan.</item>
+        <item>Bernapaslah. Dunia tetap berputar.</item>
+        <item>Hari ini tidak perlu terburu-buru.</item>
+        <item>Kamu berdamai dengan pilihan ini.</item>
+        <item>Tidak apa-apa mulai lagi sesering yang kamu perlukan.</item>
+        <item>Ini tempat tanpa tuntutan.</item>
+        <item>Bersabarlah dengan prosesnya.</item>
+        <item>Kamu tidak tertinggal dalam hal apa pun.</item>
+        <item>Tidak apa-apa kalau tidak seratus persen.</item>
+        <item>Jeda ini bentuk perhatian, bukan teguran.</item>
+        <item>Kamu bisa langsung melanjutkan sekarang.</item>
+        <item>Tanpa tegang. Cuma sebentar.</item>
+        <item>Tidak apa-apa kalau tadi itu refleks.</item>
+        <item>Kamu tidak butuh alasan untuk merasa baik.</item>
+        <item>Tarik napas, lalu lanjutkan. Sesederhana itu.</item>
+        <item>Tidak ada masalah di sini.</item>
+        <item>Kamu melakukannya dengan benar.</item>
+        <item>Tidak apa-apa, sungguh. Pergilah dengan tenang.</item>
+        <item>Momen ini milikmu untuk beristirahat.</item>
+        <item>Kamu tidak sendirian dalam hal ini.</item>
+        <item>Semuanya tenang. Teruskan harimu.</item>
+        <item>Tanpa beban. Cuma pengingat.</item>
+        <item>Kamu sudah cukup.</item>
+        <item>Ketenangan yang kamu cari tidak ada di feed.</item>
+        <item>Tidak ada yang salah denganmu.</item>
+        <item>Istirahatkan pikiranmu sedetik saja.</item>
+        <item>Kamu layak mendapat perhatian seperti ini.</item>
+        <item>Tidak ada yang harus diselesaikan sekarang.</item>
+        <item>Tarik napas sekali. Lalu lanjut.</item>
+        <item>Kamu baik-baik saja. Itu saja.</item>
+        <item>Tanpa tuntutan, tanpa hitungan, tanpa skor.</item>
+        <item>Sejenak tenang di tengah hari.</item>
+        <item>Kamu boleh berbaik hati pada dirimu sekarang.</item>
+        <item>Semuanya damai.</item>
+        <item>Tidak ada yang perlu dikejar.</item>
+        <item>Kamu sudah melakukan yang kamu bisa hari ini.</item>
+        <item>Tidak apa-apa. Besok masih ada.</item>
+        <item>Saat ini hanyalah satu tarikan napas.</item>
+        <item>Kamu aman, dan itu sudah cukup.</item>
+        <item>Di sini tidak ada penghakiman.</item>
+        <item>Bernapas saja, lalu pergilah menjalani hidup.</item>
+        <item>Kamu layak merasa tenang hari ini.</item>
+        <item>Ritme apa pun tidak masalah.</item>
+        <item>Istirahatkan kepalamu sebentar.</item>
+        <item>Kamu selalu disambut di sini.</item>
+        <item>Jangan kaget. Ini cuma berhenti sebentar.</item>
+        <item>Hari ini hidup bukan perlombaan.</item>
+        <item>Kamu utuh, dan itu sudah memadai.</item>
+        <item>Tidak apa-apa, kamu sudah mencoba.</item>
+        <item>Tidak ada apa pun di sini yang melawanmu.</item>
+        <item>Tarik napas dan lanjutkan pelan-pelan.</item>
+        <item>Kamu baik apa adanya.</item>
+        <item>Ini momen yang damai.</item>
+        <item>Sama sekali tidak ada tuntutan. Melangkahlah dengan ringan.</item>
+        <item>Kamu boleh beristirahat.</item>
+        <item>Di sini semuanya tenang.</item>
+        <item>Pelan-pelan saja. Harinya akan menunggu.</item>
+        <item>Kamu lembut pada dirimu sendiri, dan itu kekuatan.</item>
+        <item>Apa yang akan kamu lakukan sekarang kalau aplikasi ini tidak ada?</item>
+        <item>Kamu di sini karena ingin atau karena kebiasaan?</item>
+        <item>Sebenarnya kamu mencari apa?</item>
+        <item>Apakah ini masih penting besok pagi?</item>
+        <item>Apakah kamu akan ingat apa yang kamu lihat sekarang?</item>
+        <item>Tadi kamu sedang apa sebelum mengambil ponsel?</item>
+        <item>Berapa banyak waktu yang ingin kamu berikan untuk ini hari ini?</item>
+        <item>Kamu sedang bosan atau lelah?</item>
+        <item>Soremu bisa jadi apa kalau bukan ini?</item>
+        <item>Apakah ini sepadan?</item>
+        <item>Kamu membukanya karena alasan tertentu?</item>
+        <item>Apa yang akan tertunda lagi kalau kamu masuk sekarang?</item>
+        <item>Kamu ingin jadi siapa setahun lagi?</item>
+        <item>Apa yang benar-benar baik untukmu sekarang?</item>
+        <item>Apakah kamu sedang menghindari sesuatu?</item>
+        <item>Bagaimana kalau mengerjakan hal yang terus kamu tunda itu?</item>
+        <item>Apa yang terjadi kalau kamu tutup saja?</item>
+        <item>Kamu punya hal yang lebih baik untuk dilakukan. Apa itu?</item>
+        <item>Ini istirahat atau pelarian?</item>
+        <item>Apa yang akan diminta dirimu yang besok untuk kamu lakukan?</item>
+        <item>Kamu sedang lapar, mengantuk, atau bosan?</item>
+        <item>Kapan terakhir kali feed membuatmu merasa lebih baik?</item>
+        <item>Apa yang ingin kamu rasakan di penghujung hari?</item>
+        <item>Apa yang sedang terasa kurang sekarang?</item>
+        <item>Kamu butuh ini, atau cuma ingin?</item>
+        <item>Hal kecil apa yang bisa membuat harimu lebih baik sekarang?</item>
+        <item>Apa yang akan kamu lakukan dengan dua jam luang?</item>
+        <item>Kamu sudah tahu apa yang sebaiknya kamu kerjakan?</item>
+        <item>Berapa harga sebenarnya dari lima belas menit ini?</item>
+        <item>Kamu memang mau, atau tanganmu saja yang bergerak sendiri?</item>
+        <item>Apa yang lebih sepadan untuk dilakukan sekarang?</item>
+        <item>Semuanya baik-baik saja di sana?</item>
+        <item>Kalau dipikir dengan tenang, apa pilihan terbaik sekarang?</item>
+        <item>Apakah kamu akan bangga dengan setengah jam ini?</item>
+        <item>Apa yang akan kamu lakukan kalau tidak ada yang melihat?</item>
+        <item>Adakah seseorang yang bisa kamu hubungi sekarang?</item>
+        <item>Apa yang sedang coba dihindari pikiranmu?</item>
+        <item>Pantaskah soremu ditukar dengan ini?</item>
+        <item>Kamu punya rencana untuk hari ini. Apakah ini termasuk di dalamnya?</item>
+        <item>Apa hal paling seru yang bisa dilakukan sekarang?</item>
+        <item>Jujur saja, kamu baik-baik saja?</item>
+        <item>Apa yang bisa membuat minggu ini berarti?</item>
+        <item>Ini yang kamu inginkan, atau cuma yang biasa kamu lakukan?</item>
+        <item>Sudahkah kamu memikirkan apa yang ingin kamu lakukan besok?</item>
+        <item>Sudah berapa kali hari ini kamu mengambil ponsel?</item>
+        <item>Apa yang akan membuatmu puas sejam dari sekarang?</item>
+        <item>Kamu memang ingin masuk, atau jarimu sedang dalam mode otomatis?</item>
+        <item>Hal penting apa yang sedang kamu tunda?</item>
+        <item>Apa pendapat dirimu sepuluh tahun lalu soal ini?</item>
+        <item>Apakah kamu benar-benar sedang beristirahat?</item>
+        <item>Adakah sesuatu yang akan kamu lakukan kalau kamu berani?</item>
+        <item>Nanti malam, kamu ingin sudah mengerjakan apa?</item>
+        <item>Apakah ini lebih berharga daripada sebuah obrolan?</item>
+        <item>Hari ini kamu punya waktu untuk apa?</item>
+        <item>Kebiasaan apa yang ingin kamu punya enam bulan lagi?</item>
+        <item>Apa yang sebenarnya sedang meminta perhatianmu?</item>
+        <item>Kamu lebih suka mengingat atau melupakan sore ini?</item>
+        <item>Apa cara yang baik untuk memakai momen ini?</item>
+        <item>Kamu di sini untuk melihat sesuatu, atau supaya tidak merasakan sesuatu?</item>
+        <item>Apa yang bisa membuatmu tidur nyenyak malam ini?</item>
+        <item>Ini menambah atau mengurangi harimu?</item>
+        <item>Kamu benar-benar ingin tahu apa yang ada di sana?</item>
+        <item>Apa hal baik terakhir yang kamu lakukan tanpa layar?</item>
+        <item>Apa yang akan kamu lakukan di sore tanpa internet?</item>
+        <item>Kamu sedang terburu-buru untuk apa?</item>
+        <item>Langkah kecil apa yang bisa kamu ambil sekarang?</item>
+        <item>Apa yang lebih butuh perhatianmu daripada ini?</item>
+        <item>Sudahkah kamu menarik napas dalam hari ini?</item>
+        <item>Apa rencanamu untuk satu jam ke depan?</item>
+        <item>Apakah ini mendekatkanmu pada sesuatu yang kamu inginkan?</item>
+        <item>Apakah kamu akan melakukan ini di depan orang yang kamu kagumi?</item>
+        <item>Hal baik apa yang terjadi hari ini?</item>
+        <item>Seberapa banyak harimu sudah habis di depan layar?</item>
+        <item>Adakah ide yang sedang mengendap dan menunggumu?</item>
+        <item>Apa yang ingin kamu lakukan dengan minggu ini?</item>
+        <item>Pantaskah hening ditukar dengan bising?</item>
+        <item>Hari ini kamu sedang berkarya atau mengonsumsi?</item>
+        <item>Hal sederhana apa yang bisa membuatmu merasa baik sekarang?</item>
+        <item>Apa yang akan kamu katakan pada teman dalam situasi ini?</item>
+        <item>Kamu punya lima menit. Untuk apa?</item>
+        <item>Apa yang sebenarnya mengganggumu?</item>
+        <item>Apakah ini hal terbaik yang bisa kamu lakukan sekarang?</item>
+        <item>Apakah kamu yang memegang kendali atas momen ini?</item>
+        <item>Keputusan apa yang akan kamu banggakan?</item>
+        <item>Saat hari berakhir, apa yang ingin sudah kamu lakukan?</item>
+        <item>Kamu ingat kenapa memasang ini?</item>
+        <item>Bagaimana kalau ditunda dulu, lalu lihat apakah masih ingin?</item>
+        <item>Apa yang akan kamu lakukan kalau hari ini kamu sedikit lebih berani?</item>
+        <item>Kamu mau versi cepat atau versi baik dari harimu?</item>
+        <item>Apa hal yang hanya bisa kamu lakukan hari ini?</item>
+        <item>Apa yang sedang menunggumu di luar sana?</item>
+        <item>Sudahkah kamu bersyukur atas sesuatu hari ini?</item>
+        <item>Seberapa berharga setengah jam berikutnya bagimu?</item>
+        <item>Apa yang ingin kamu bawa dari minggu ini?</item>
+        <item>Ini memang mendesak, atau cuma terasa begitu?</item>
+        <item>Apakah kamu sedang melakukan yang ingin kamu lakukan?</item>
+        <item>Seperti apa akhir yang baik untuk hari ini?</item>
+        <item>Apa yang akan kamu lakukan kalau kamu sedang segar?</item>
+        <item>Sekarang kamu lebih memilih scroll atau menjalani hidup?</item>
+        <item>Bagaimana kalau tutup saja dan lihat apa yang terjadi?</item>
+    </string-array>
+</resources>

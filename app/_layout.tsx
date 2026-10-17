@@ -4,6 +4,7 @@ import * as NativeSplash from 'expo-splash-screen';
 import { StatusBar } from 'expo-status-bar';
 
 import { SplashScreen } from '@/components/SplashScreen';
+import { IdiomaProvider } from '@/i18n/IdiomaContext';
 import {
   ProtectionVerdictProvider,
   useProtectionVerdictContext,
@@ -84,14 +85,17 @@ export default function RootLayout() {
   }, []);
 
   /**
-   * `ThemePreferenceProvider` por fora de tudo: a `SplashScreen` tambem chama
-   * `useTheme()`, e ela renderiza antes do veredito resolver.
+   * `IdiomaProvider` e `ThemePreferenceProvider` por fora de tudo: a
+   * `SplashScreen` tambem chama `useTheme()`, e ela renderiza antes do veredito
+   * resolver.
    */
   return (
-    <ThemePreferenceProvider>
-      <ProtectionVerdictProvider>
-        <RootNavigator />
-      </ProtectionVerdictProvider>
-    </ThemePreferenceProvider>
+    <IdiomaProvider>
+      <ThemePreferenceProvider>
+        <ProtectionVerdictProvider>
+          <RootNavigator />
+        </ProtectionVerdictProvider>
+      </ThemePreferenceProvider>
+    </IdiomaProvider>
   );
 }

@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Galego: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>O tempo que non gastas aquí volve enteiro á túa vida.</item>
+        <item>Cada minuto fóra desta pantalla é un minuto teu outra vez.</item>
+        <item>Eses vinte minutos caben nun paseo.</item>
+        <item>O día ten máis espazo do que parece cando o scroll para.</item>
+        <item>Acabas de recuperar un anaco da túa tarde.</item>
+        <item>Unha hora ao día son quince días ao ano.</item>
+        <item>O tempo non volve, pero aínda podes escoller onde vai.</item>
+        <item>Este intre é teu. Ninguén ten por que saber que fixeches con el.</item>
+        <item>Hai unha vida enteira pasando fóra da aplicación.</item>
+        <item>O reloxo corre igual dos dous lados desta pantalla.</item>
+        <item>Acabas de mercar tempo. Gástao nalgo que recordes mañá.</item>
+        <item>Ninguén chega ao final do día desexando ter rolado máis o feed.</item>
+        <item>Quince minutos aquí son quince minutos en calquera outro sitio.</item>
+        <item>Que farías con esta media hora hai dez anos?</item>
+        <item>O teu tempo é o único que non podes volver mercar.</item>
+        <item>A tarde enteira aínda está aberta diante de ti.</item>
+        <item>Este minuto pode ser o comezo doutra cousa.</item>
+        <item>Estás devolvéndote horas a ti mesmo, unha de cada vez.</item>
+        <item>O tempo aforrado aquí non desaparece. Reaparece noutro lugar.</item>
+        <item>Dez minutos parecen pouco ata que sumas os dun mes.</item>
+        <item>A vida pasa á velocidade normal, non á do feed.</item>
+        <item>Hoxe tes máis tempo do que tiñas onte a esta hora.</item>
+        <item>Iso que levas tempo adiando cabe xusto neste intre.</item>
+        <item>Esta pausa é curta. O que fagas con ela pode non selo.</item>
+        <item>Un día dá para moito cando o scroll sae do medio.</item>
+        <item>Acabas de gañar de volta o resto da noite.</item>
+        <item>O tempo é a moeda. Acabas de decidir non gastala.</item>
+        <item>O feed non se acaba nunca. O teu día si.</item>
+        <item>Media hora ao día dá un libro enteiro ao mes.</item>
+        <item>Dentro non había nada urxente esperándote.</item>
+        <item>Ese tempo xa era teu. Agora está de volta contigo.</item>
+        <item>A mañá aínda pode dar moito de si se empeza agora.</item>
+        <item>Non perdiches nada. Gañaches un respiro.</item>
+        <item>Ninguén nos devolve o tempo. Somos nós quen o seguramos.</item>
+        <item>Eses minutos valen máis fóra de aquí e xa o sabes.</item>
+        <item>O que había alí segue alí. O teu tempo é o que non segue.</item>
+        <item>Unha vida fáise de tardes coma esta.</item>
+        <item>Podes rematar o día con algo feito en vez de algo visto.</item>
+        <item>Dúas horas ao día son un mes enteiro ao ano.</item>
+        <item>O tempo que protexes hoxe é o que che sobra mañá.</item>
+        <item>Esta é a parte do día que só decides ti.</item>
+        <item>Ninguén escribiu alí dentro nada que valga a túa tarde.</item>
+        <item>Trinta minutos ao día constrúen calquera cousa nun ano.</item>
+        <item>Acabas de mercar un anaco de silencio.</item>
+        <item>O día faise máis grande cando o feed se fai máis pequeno.</item>
+        <item>Ese tempo agora é materia prima. Fai algo con el.</item>
+        <item>Hai un proxecto teu esperando xusto este intre.</item>
+        <item>O que gañas aquí non aparece en ningunha pantalla, só na túa vida.</item>
+        <item>O tempo libre é raro. Acabas de crear un.</item>
+        <item>Ninguén, ao final da vida, pediu unha rolada de pantalla máis.</item>
+        <item>Tes a tarde enteira e aínda non a gastaches.</item>
+        <item>Un ano son trescentas sesenta e cinco escollas coma esta.</item>
+        <item>Este intre é pequeno, pero é todo teu.</item>
+        <item>O tempo pasa igual. A diferenza é o que queda despois.</item>
+        <item>Acabas de tirar media hora do piloto automático.</item>
+        <item>O resto do día agradece esta parada.</item>
+        <item>Cinco minutos alí convértense en corenta sen que ninguén o note.</item>
+        <item>Coñeces o prezo destes cinco minutos. Por iso estás aquí.</item>
+        <item>A hora que protexes agora é a que buscas pola noite.</item>
+        <item>Nada alí dentro mellora por velo agora en vez de despois.</item>
+        <item>Acabas de escoller a onde vai o próximo minuto.</item>
+        <item>Este tempo cabe nunha conversa, nun paseo, nunha sesta.</item>
+        <item>O día rende cando as horas deixan de escorrer.</item>
+        <item>Es o único dono da próxima media hora.</item>
+        <item>Hai unha versión deste día na que fixeches algo. Empeza agora.</item>
+        <item>O tempo non se acumula. Só se gasta mellor ou peor.</item>
+        <item>Eses minutos poden converterse en descanso de verdade.</item>
+        <item>Acabas de baixar dunha cinta que non leva a ningures.</item>
+        <item>Unha semana ten cento sesenta e oito horas. Esta é túa.</item>
+        <item>O feed leva o tempo en anacos pequenos para que ninguén o bote en falta.</item>
+        <item>Agora podes facer cada día aquilo que queda para mañá.</item>
+        <item>A túa tarde non ten por que caber dentro dunha pantalla.</item>
+        <item>O tempo que sobra é o que fai que o día pareza longo do bo xeito.</item>
+        <item>Acabas de devolverte a próxima hora.</item>
+        <item>Nada do que verías agora estaría na túa cabeza dentro dunha semana.</item>
+        <item>Este é o tipo de minuto que constrúe ou desfai un ano.</item>
+        <item>Gañaches tempo. Non tes que gastalo á présa.</item>
+        <item>Un día sen scroll é un día no que cabe máis.</item>
+        <item>O reloxo non distingue o tempo ben aproveitado do botado a perder. Distínguelo ti.</item>
+        <item>Esta hora vale o mesmo que calquera outra da túa vida.</item>
+        <item>Tes tempo agora. Iso é máis raro do que parece.</item>
+        <item>Gardar tempo é a única maneira de ter tempo.</item>
+        <item>A noite enteira aínda está por diante.</item>
+        <item>Eses minutos son o comezo dunha tarde que vas lembrar.</item>
+        <item>Acabas de evitar ese burato dunha hora.</item>
+        <item>Todo o que require tempo require xusto este tipo de decisión.</item>
+        <item>O intre entre agora e a cea aínda dá para moito.</item>
+        <item>Tiraches o pé do acelerador. O día vai máis amodo contigo.</item>
+        <item>A túa semana ten espazo. Estaba ocupado por outra cousa.</item>
+        <item>Cada vez que pechas aquí, o día medra un pouco.</item>
+        <item>O tempo é o regalo que te fas a ti mesmo sen gastar nada.</item>
+        <item>Tes agora xusto o que pasas o día dicindo que non tes.</item>
+        <item>Unha tarde longa está feita de decisións curtas coma esta.</item>
+        <item>Ninguén che vai preguntar que fixeches con esta media hora.</item>
+        <item>O tempo que non entregas hoxe seguirá contigo mañá.</item>
+        <item>Vinte minutos ao día dan cento vinte horas ao ano.</item>
+        <item>Acabas de recuperar o intre antes de durmir.</item>
+        <item>Hai moita vida entre unha notificación e outra.</item>
+        <item>O día enteiro cabe aquí se non o entregas a anacos.</item>
+        <item>Chegaches ata aquí protexendo tempo. Este é un máis.</item>
+        <item>A túa atención é o ben máis disputado do mundo. Acabas de gañar.</item>
+        <item>O foco tarda vinte minutos en volver. Non o entregues agora.</item>
+        <item>Unha cabeza enteira vale máis ca unha cabeza esnaquizada.</item>
+        <item>Estabas concentrado en algo antes de vir aquí.</item>
+        <item>A atención dividida non é atención. É só cansazo.</item>
+        <item>Ao que estabas facendo mereces dedicarlle todo o teu ser.</item>
+        <item>Pensar a fondo require un tempo sen interrupcións. Este é.</item>
+        <item>Cada cambio de pantalla custa máis do que marca o reloxo.</item>
+        <item>A túa mente ía ben. Déixaa seguir.</item>
+        <item>O traballo profundo non sobrevive a unha rolada de feed.</item>
+        <item>O feed deseñouse para levar a túa atención. Decatácheste.</item>
+        <item>Un pensamento longo precisa de silencio para acabar.</item>
+        <item>Es quen de manter unha idea enteira na cabeza. Só fai falta espazo.</item>
+        <item>Distraerse non é descansar. Descansar descansa.</item>
+        <item>A concentración que tiñas anda por aí. Volve a ela.</item>
+        <item>A túa atención hoxe non está en venda.</item>
+        <item>O mellor da túa cabeza aparece despois do minuto vinte.</item>
+        <item>Interromper agora custa máis caro do que parece.</item>
+        <item>Es capaz de cousas que piden foco. Empeza por protexelo.</item>
+        <item>Nada alí dentro precisa da túa atención con urxencia.</item>
+        <item>Unha hora concentrada rende máis ca catro horas a anacos.</item>
+        <item>A túa cabeza funciona mellor cando non vai cambiando de tema.</item>
+        <item>O que quedou a medias aínda se pode rematar hoxe.</item>
+        <item>O foco non é forza de vontade. É contorna. Acabas de arranxar a túa.</item>
+        <item>Ese problema difícil cede cando te quedas nel.</item>
+        <item>A túa atención é limitada. Por iso vale tanto.</item>
+        <item>Non precisas saber de todo agora.</item>
+        <item>O ruído vai seguir alí. O teu silencio é o que é raro.</item>
+        <item>As grandes cousas fíxoas xente á que ninguén interrompeu.</item>
+        <item>Volve a isto que estabas facendo. A túa cabeza segue alí.</item>
+        <item>Unha tarefa de cada vez é máis rápido do que parece.</item>
+        <item>A présa por mirar pasa. A idea interrompida ás veces non volve.</item>
+        <item>Tes máis capacidade de concentración da que estás usando.</item>
+        <item>Pensar ben é lento. Deixa que o sexa.</item>
+        <item>A túa atención montou algo hoxe. Non o desmontes por curiosidade.</item>
+        <item>O que pide cabeza pide a cabeza enteira.</item>
+        <item>Ningún feed che vai ensinar o que ensina unha hora de foco.</item>
+        <item>Cada notificación rexeitada é un pouco máis de claridade.</item>
+        <item>Estabas preto de entendelo. Volve alá.</item>
+        <item>Unha mente descansada é unha mente á que non tiraron todo o día.</item>
+        <item>A túa atención é a materia coa que constrúes todo o demais.</item>
+        <item>O difícil é comezar. Xa comezaches. Non volvas empezar de cero.</item>
+        <item>Deixa o asunto quieto e resólvese só na túa cabeza.</item>
+        <item>A claridade aparece cando o ruído para.</item>
+        <item>O mellor traballo do teu día aínda non pasou.</item>
+        <item>Non é falta de tempo. É falta de tempo enteiro.</item>
+        <item>Pensas mellor do que o feed che deixa pensar.</item>
+        <item>Ese texto, ese código, esa conversa. Esperan por ti enteiro.</item>
+        <item>A concentración é un músculo. Medra con días coma hoxe.</item>
+        <item>A túa cabeza acaba de darche as grazas.</item>
+        <item>Unha cousa de cada vez segue sendo a técnica máis avanzada que existe.</item>
+        <item>O que fas con atención queda. O resto pasa.</item>
+        <item>Non hai atallo para pensar. Só tempo sen interrupcións.</item>
+        <item>Mereces rematar un razoamento.</item>
+        <item>A túa mente estaba afiada. Garda ese fío.</item>
+        <item>A pantalla pestanexa. As ideas non. Quédate coas ideas.</item>
+        <item>Un día con foco vale por tres días correndo.</item>
+        <item>Non es lento. Só che estaban interrompendo.</item>
+        <item>O asunto que importa hoxe non está no feed.</item>
+        <item>Manter o rumbo é máis barato que volver a el.</item>
+        <item>A túa atención enteira é un regalo. Dáo a quen o merece.</item>
+        <item>O silencio é onde aparecen as boas ideas.</item>
+        <item>Estabas no medio de algo bo.</item>
+        <item>Ninguén pensa ben coa cabeza en dez sitios.</item>
+        <item>A profundidade só aparece despois dun tempo na superficie.</item>
+        <item>O foco non é facer máis. É facer ben.</item>
+        <item>Hoxe tes unha cousa importante. O feed non é ela.</item>
+        <item>Deixa que a túa cabeza remate a frase que comezou.</item>
+        <item>Unha hora sen interrupcións cambia o que é posible no día.</item>
+        <item>O que agora parece difícil faise doado con atención continua.</item>
+        <item>A túa concentración é a túa vantaxe. Poucos aínda teñen a súa.</item>
+        <item>Non cambies unha cousa importante por moitas cousas rápidas.</item>
+        <item>A curiosidade pode esperar. O foco non espera.</item>
+        <item>Estás construíndo algo. Segue.</item>
+        <item>Cambiar de tarefa parece produtivo e case nunca o é.</item>
+        <item>O mellor uso da túa cabeza hoxe aínda está dispoñible.</item>
+        <item>A atención que gardas agora aparece despois no resultado.</item>
+        <item>A túa mente non é un feed. Garda o que lle dás atención.</item>
+        <item>Un asunto que merece que lle dediques todo o teu ser é raro. Aproveita.</item>
+        <item>Difícil non é imposible. É só lento.</item>
+        <item>Estás a uns minutos de desbloquear iso.</item>
+        <item>O ruído esvaece cando deixas de alimentalo.</item>
+        <item>Quédate co que estabas facendo ata acabar.</item>
+        <item>Cada mergullo fondo compensa dez mergullos pouco fondos.</item>
+        <item>A túa atención decide o que se converte en memoria.</item>
+        <item>Lembras o que atendiches. Só iso.</item>
+        <item>Pensar é o máis rendible que fas hoxe.</item>
+        <item>Unha cabeza sen présa resolve o que unha cabeza apresurada non ve.</item>
+        <item>O bo traballo pide paciencia, non velocidade.</item>
+        <item>Nada do que verías agora entraría nunha conversa mañá.</item>
+        <item>A túa claridade mental de hoxe comezou con decisións coma esta.</item>
+        <item>A interrupción é o imposto máis caro que existe.</item>
+        <item>Podes estar máis tempo do que imaxinas nunha soa cousa.</item>
+        <item>Ese detalle que se che escapaba aparece no silencio.</item>
+        <item>O foco volve. Só precisa duns minutos sen pantalla.</item>
+        <item>Es capaz de atención longa. É o feed quen aposta que non.</item>
+        <item>Rematar unha cousa hoxe vale máis ca comezar cinco.</item>
+        <item>A túa atención plena é rara ata para ti.</item>
+        <item>Deixa respirar o pensamento.</item>
+        <item>O que constrúes con foco ninguén o rola cara abaixo.</item>
+        <item>As ganas de abrir pasan en poucos minutos. Sempre pasan.</item>
+        <item>Este impulso ten data de caducidade. Caduca só.</item>
+        <item>Non tes que facer nada. Só esperar a que baixe a onda.</item>
+        <item>A urxencia que sentes agora non é túa. Ensináronta.</item>
+        <item>Respira unha vez. As ganas xa son menores ca hai un minuto.</item>
+        <item>O impulso é alto ao principio e esvaece a medio camiño.</item>
+        <item>Non es ti quen quere. É o costume que pide.</item>
+        <item>Fica incómodo por pouco tempo. Despois pasa.</item>
+        <item>Xa sentiches isto antes e sobreviviches todas as veces.</item>
+        <item>As ganas veñen en ondas. As ondas rompen.</item>
+        <item>Ninguén ten que obedecer o primeiro impulso do día.</item>
+        <item>Esta presión no peito dura menos ca unha canción.</item>
+        <item>Es máis grande ca un impulso de trinta segundos.</item>
+        <item>Deixa pasar as ganas sen facer nada con elas.</item>
+        <item>A molestia de agora é o costume soltándose. Iso é progreso.</item>
+        <item>Non estás resistindo. Estás só esperando.</item>
+        <item>As ganas chegan fortes e vanse caladas.</item>
+        <item>Conta ata vinte. Xa serán menores.</item>
+        <item>Ter ganas non é o mesmo que necesitar.</item>
+        <item>O impulso quere resposta inmediata. Non lle deas ningunha.</item>
+        <item>Este é o momento máis difícil e é curto.</item>
+        <item>Non tes que loitar. Só non decidir agora.</item>
+        <item>As ganas esvaecen cando ninguén as alimenta.</item>
+        <item>Isto é ansiedade, non fame de contido.</item>
+        <item>Fíxate nas ganas sen entrar nelas.</item>
+        <item>O cerebro pide o de sempre. Non estás obrigado a servilo.</item>
+        <item>Cinco minutos e nin lembras que querías abrir.</item>
+        <item>A onda está subindo agora. Sempre baixa.</item>
+        <item>Xa estás do outro lado da parte peor.</item>
+        <item>O impulso mente sobre a súa propia forza.</item>
+        <item>Levántate, bebe auga, volve. Xa se foi.</item>
+        <item>Ter ganas non é unha orde.</item>
+        <item>Podes sentir isto e non facer nada. Está permitido.</item>
+        <item>O corpo pide movemento, non pantalla.</item>
+        <item>Este desexo é automático. A túa resposta non ten por que selo.</item>
+        <item>Non pasa nada malo se esperas un pouco máis.</item>
+        <item>As ganas desaparecen soas se lles dás espazo.</item>
+        <item>Só estás ansioso. Iso pasa e non pide pantalla.</item>
+        <item>O impulso é unha suxestión. Ti es quen decide.</item>
+        <item>Un minuto máis e as ganas xa son outra cousa.</item>
+        <item>A parte difícil dura pouco. A parte boa dura o día.</item>
+        <item>Este é o famoso empurrón. Non empurra tanto.</item>
+        <item>Espera sen xulgar. As ganas desfanse soas.</item>
+        <item>O teu cerebro está pedindo o atallo de sempre.</item>
+        <item>Non tes que vencer nada. Só deixar pasar.</item>
+        <item>Cada onda que deixas pasar fai a seguinte máis pequena.</item>
+        <item>A ansiedade quere unha solución rápida. Aquí non a vai atopar.</item>
+        <item>Quédate quieto un instante. O impulso non se queda.</item>
+        <item>Non estás perdendo nada por esperar.</item>
+        <item>O aburrimento non é unha emerxencia.</item>
+        <item>Sentir baleiro agora é normal. Énchese só.</item>
+        <item>As ganas de comprobar algo case nunca van do algo.</item>
+        <item>Estás incómodo, non en perigo.</item>
+        <item>Isto vaise soltar en poucos instantes.</item>
+        <item>O costume é forte, pero é curto.</item>
+        <item>Deixa pasar esta. Só esta.</item>
+        <item>A próxima vez vai ser máis doada por culpa desta.</item>
+        <item>Non tes que convencerte de nada. Só esperar.</item>
+        <item>Un vaso de auga resolve máis ca unha rolada de feed.</item>
+        <item>A urxencia é falsa e xa o sabes.</item>
+        <item>O impulso non aguanta quedar sen resposta.</item>
+        <item>Espera trinta segundos. Despois decide de novo.</item>
+        <item>Estás no cume. Daquí en diante é costa abaixo.</item>
+        <item>Nada esixe a túa reacción agora.</item>
+        <item>As ganas son unha visita. Vanse.</item>
+        <item>Non es o impulso. Es quen o observa.</item>
+        <item>O corpo relaxa se lle das un minuto.</item>
+        <item>Isto é só o cerebro buscando estímulo. Atopa outro.</item>
+        <item>Respirar fondo tres veces cambia a intensidade disto.</item>
+        <item>As ganas encollen cando as miras de fronte.</item>
+        <item>Aguantas este minuto. Xa aguantaches peores.</item>
+        <item>A molestia pasa aínda que non fagas nada.</item>
+        <item>A man foi máis rápida ca cabeza. Pasa.</item>
+        <item>Non hai que tomar ningunha decisión nos primeiros dez segundos.</item>
+        <item>Estás a uns instantes de nin lembrar isto.</item>
+        <item>O gatillo premeuse. A resposta segue sendo túa.</item>
+        <item>Deixa que as ganas existan sen obedecelas.</item>
+        <item>Isto non é ansia. É costume.</item>
+        <item>Espera. É literalmente todo o que tes que facer.</item>
+        <item>A cabeza calma soa se non lle botas máis leña.</item>
+        <item>Xa estás esperando. Iso xa é a vitoria.</item>
+        <item>O impulso perde forza cando atopa unha porta pechada.</item>
+        <item>Cada segundo aquí é un segundo de vantaxe.</item>
+        <item>A onda rompeu. Mira que leve está xa.</item>
+        <item>Non precisas ningún motivo para non abrir.</item>
+        <item>O desexo pasa máis rápido que o arrepentimento.</item>
+        <item>Un estiramento resolve o que o feed non resolvería.</item>
+        <item>As ganas van marchando mentres le isto.</item>
+        <item>Non decidas nada agora. Só respira.</item>
+        <item>O impulso vén só e vaise só.</item>
+        <item>Isto é o máis difícil. E é rápido.</item>
+        <item>Aguantaches ata aquí. Faltan segundos.</item>
+        <item>O corpo pide pantalla cando quere descanso. Dálle descanso.</item>
+        <item>As ganas fanse máis pequenas cada vez que non se atenden.</item>
+        <item>Espera un pouco máis. É só iso.</item>
+        <item>O momento pasa. A escolla queda.</item>
+        <item>Acabas de cruzar a parte estreita.</item>
+        <item>Sentir ganas é humano. Non obedecelas tamén.</item>
+        <item>A calma volve en instantes se non empuxas.</item>
+        <item>Quedou máis leve, non si?</item>
+        <item>Decidíchelo cando estabas tranquilo. Confía en quen o decidiu.</item>
+        <item>O ti de onte coidou do ti de agora.</item>
+        <item>Esta pantalla é un recado teu para ti mesmo.</item>
+        <item>Non te están impedindo nada. Estante lembrando.</item>
+        <item>Quen queres ser non pasa a tarde rolando.</item>
+        <item>Esta escolla foi túa. Segue sendo.</item>
+        <item>Es o tipo de persoa que se decatou e actuou.</item>
+        <item>Ninguén te obrigou a instalar isto. Quixeches ti.</item>
+        <item>O teu eu de mañá vai querer ao teu eu de agora.</item>
+        <item>Xa es alguén que protexe o seu propio tempo.</item>
+        <item>Isto non é un castigo. É un acordo.</item>
+        <item>Escribiches esta regra. Está funcionando.</item>
+        <item>Ser dono da túa propia atención é unha escolla diaria.</item>
+        <item>Non tes que demostrarlle nada a ninguén aquí.</item>
+        <item>A persoa que queres ser comeza en decisións pequenas.</item>
+        <item>Estás do lado bo desta pantalla.</item>
+        <item>Cada vez que pechas aquí, convértete máis en quen queres ser.</item>
+        <item>Non es o que che apetece. Es o que fas.</item>
+        <item>O acordo contigo mesmo vale tanto coma calquera outro.</item>
+        <item>Recoñeciches un patrón e cambiástelo. Iso é raro.</item>
+        <item>Es máis grande ca as aplicacións que levas no peto.</item>
+        <item>Esta é a túa regra e está do teu lado.</item>
+        <item>Tes dereito a cambiar de costumes.</item>
+        <item>O que fas unha e outra vez é quen es.</item>
+        <item>Escolleches ter unha vida con máis espazo.</item>
+        <item>Non é a app a que manda en ti.</item>
+        <item>A túa identidade non cabe nun feed.</item>
+        <item>Es a persoa que instalou isto por un motivo.</item>
+        <item>Lembra o motivo. Aínda vale.</item>
+        <item>Estás honrando unha decisión túa.</item>
+        <item>Ninguén decide a túa atención por ti.</item>
+        <item>Decatácheste do que estaba pasando. Iso xa o cambia todo.</item>
+        <item>Ser dono do teu propio día é un traballo continuo.</item>
+        <item>Non es pasaxeiro. Conduces ti.</item>
+        <item>Esta é unha escolla de quen se toma en serio.</item>
+        <item>Es responsable de ti. E estalo sendo.</item>
+        <item>O teu tempo ten dono. Está lendo isto.</item>
+        <item>Acordaches contigo mesmo. Cúmpreo.</item>
+        <item>Cada decisión así achégate a quen queres ser.</item>
+        <item>Non estás perdendo liberdade. Estás exercendo.</item>
+        <item>Quen decide que facer agora es ti.</item>
+        <item>Non precisas permiso para vivir diferente.</item>
+        <item>Este límite é un coidado, non unha gaiola.</item>
+        <item>Escolleches un camiño máis difícil e máis teu.</item>
+        <item>A persoa que admiras tamén diría que non agora.</item>
+        <item>Vives na túa vida, non na aplicación.</item>
+        <item>É o teu tempo, a túa cabeza, a túa escolla.</item>
+        <item>Estás cumprindo contigo. Iso conta.</item>
+        <item>Ninguén vai coidar da túa atención no teu lugar.</item>
+        <item>Xa demostraches que es quen de cambiar de rota.</item>
+        <item>Autonomía é isto: decidir antes, non no impulso.</item>
+        <item>Estás construíndo alguén ao que respectas.</item>
+        <item>Esta é a versión túa que planea.</item>
+        <item>Non caíches aquí por casualidade. Montaches isto ti.</item>
+        <item>A túa palabra para contigo mesmo vale.</item>
+        <item>Tes opinión propia sobre como gastar o teu día.</item>
+        <item>A aplicación non te coñece. Coñécesche ti.</item>
+        <item>Estás actuando como o dono da túa propia vida.</item>
+        <item>Ser consecuente coa túa propia decisión é liberdade.</item>
+        <item>Es ti quen escribe as regras aquí.</item>
+        <item>Isto es ti coidando de ti.</item>
+        <item>Non estás preso. Estás protexido.</item>
+        <item>O teu desexo de cambiar é máis antigo ca este impulso.</item>
+        <item>Xa es quen estás intentando ser.</item>
+        <item>A decisión difícil xa está tomada. Esta é só a doada.</item>
+        <item>Tes o control e iso é raro hoxe en día.</item>
+        <item>Ninguén ten por que saber. Isto é entre ti e ti.</item>
+        <item>Mereces confiar na túa propia palabra.</item>
+        <item>O teu nome está nesta escolla.</item>
+        <item>Convertícheste no tipo de persoa que decide antes.</item>
+        <item>Isto non é renunciar. É escoller outra cousa.</item>
+        <item>Tes unha dirección. Esta pantalla apunta a ela.</item>
+        <item>A liberdade real é que non tiren de ti todo o tempo.</item>
+        <item>Es ti quen establece o valor da túa atención.</item>
+        <item>Cada non aquí é un si a outra cousa túa.</item>
+        <item>Estás sendo fiel a un plan que fixeches con agarimo.</item>
+        <item>Ser dono de ti mesmo dá traballo e paga a pena.</item>
+        <item>Recoñeceches que querías cambiar. Esa xa é a parte difícil.</item>
+        <item>A persoa do espello esta noite vai estar contenta con isto.</item>
+        <item>Non lle debes nada ao algoritmo.</item>
+        <item>A túa vida non é contido de ninguén.</item>
+        <item>Estás xusto onde decidiches estar.</item>
+        <item>O límite que te pos é o máis respectuoso que existe.</item>
+        <item>Tes un proxecto de vida máis grande ca esta pantalla.</item>
+        <item>Isto é madurez en tempo real.</item>
+        <item>Estás coidando do teu futuro sen decatarte.</item>
+        <item>Cada escolla así afina quen es.</item>
+        <item>Non tes que explicar por que non abres.</item>
+        <item>O teu compromiso é contigo, non coa app.</item>
+        <item>Tomaches a decisión correcta cando non che apetecía.</item>
+        <item>Esta é a túa vida conducida por ti.</item>
+        <item>Convertícheste en alguén difícil de manipular.</item>
+        <item>A túa atención ten dono e está atento.</item>
+        <item>Acabas de actuar como quen se coida.</item>
+        <item>O plan é teu. Está funcionando agora.</item>
+        <item>Es a suma das túas pequenas escollas.</item>
+        <item>Ninguén che quita a última palabra.</item>
+        <item>Es a autoridade sobre o teu tempo.</item>
+        <item>Está funcionando porque ti quixeches que funcionase.</item>
+        <item>Es máis grande ca o costume que quere ser máis grande ca ti.</item>
+        <item>Unha máis. Así medra a conta.</item>
+        <item>O pequeno e repetido vence ao grande e raro.</item>
+        <item>Acabas de sumar un punto máis.</item>
+        <item>Ninguén cambia dun golpe. Cámbiase en días coma hoxe.</item>
+        <item>Esta é a milésima parte dunha vida diferente.</item>
+        <item>Un día bo non cambia nada. Cen días bos cambian todo.</item>
+        <item>Estás construíndo unha serie.</item>
+        <item>O progreso case nunca parece progreso por dentro.</item>
+        <item>A suma destas escollas é maior ca cada unha delas.</item>
+        <item>A constancia é aburrida e funciona.</item>
+        <item>Outra pedra no muro.</item>
+        <item>Estás adestrando algo que queda.</item>
+        <item>Repetido o suficiente, isto faise automático.</item>
+        <item>Ninguén ve esta vitoria, pero conta igual.</item>
+        <item>Estás a poucas semanas de nin sentir ganas.</item>
+        <item>Hoxe conta. Mañá tamén vai contar.</item>
+        <item>Unha cadea fórmase de eslabóns coma este.</item>
+        <item>O novo costume estase escribindo agora.</item>
+        <item>Cada repetición afrouxa un pouco o costume antigo.</item>
+        <item>Xa o fixeches antes. Faino de novo.</item>
+        <item>Amodo é a velocidade das cousas que duran.</item>
+        <item>O cambio ocorre lonxe dos ollos.</item>
+        <item>Estás acumulando algo invisible e real.</item>
+        <item>Un día máis na dirección correcta.</item>
+        <item>O resultado aparece despois. A escolla é hoxe.</item>
+        <item>Unha escolla de cada vez é como se fai.</item>
+        <item>Estás máis preto do que estabas onte.</item>
+        <item>Non precisa ser perfecto. Precisa ser frecuente.</item>
+        <item>A curva sobe amodo e despois sobe rápido.</item>
+        <item>Estás no medio do proceso. Así é el.</item>
+        <item>Cada non pequeno constrúe un si grande.</item>
+        <item>Nada disto é dramático. Por iso funciona.</item>
+        <item>O camiño está feito de pasos coma este.</item>
+        <item>Estás creando unha nova versión da túa rutina.</item>
+        <item>Isto vai parecer doado dentro dun mes.</item>
+        <item>A repetición é o que converte a decisión en xeito de ser.</item>
+        <item>Acabas de reforzar o camiño novo.</item>
+        <item>O cen por cen é máis doado ca o noventa e oito.</item>
+        <item>Hoxe non rompas a serie.</item>
+        <item>Estás facendo a parte aburrida, que é a que conta.</item>
+        <item>O cambio non se sente. Vese despois.</item>
+        <item>Un ladrillo máis asentado.</item>
+        <item>Estás adestrando o cerebro para esperar outra cousa.</item>
+        <item>Continuar é a técnica enteira.</item>
+        <item>Ningunha destas vitorias é pequena no total.</item>
+        <item>Non tes que correr. Tes que non parar.</item>
+        <item>Isto xa se está facendo máis doado e nin o notaches.</item>
+        <item>Unha semana disto xa cambia o teu día.</item>
+        <item>Estás formando un camiño novo na cabeza.</item>
+        <item>Cada vez conta, aínda que pareza que non.</item>
+        <item>Ninguén aplaude, pero está funcionando.</item>
+        <item>O acumulado é silencioso e imparable.</item>
+        <item>Xa estás máis forte nisto ca o mes pasado.</item>
+        <item>Unha boa escolla hoxe facilita a de mañá.</item>
+        <item>Isto é o que parece a consistencia por dentro.</item>
+        <item>Un día máis de vantaxe acumulada.</item>
+        <item>Estás no camiño e o camiño é longo. Non pasa nada.</item>
+        <item>Aquilo que se repite faise doado.</item>
+        <item>Acabas de reforzar en quen te estás convertendo.</item>
+        <item>A conta está a favor teu hoxe.</item>
+        <item>As pequenas ganancias suman sen pedir licenza.</item>
+        <item>Non vai de hoxe. Vai da suma.</item>
+        <item>Estás facendo o traballo invisible.</item>
+        <item>Segue. É literalmente o segredo.</item>
+        <item>Cada día destes quita un pouco de peso.</item>
+        <item>O costume antigo está perdendo espazo agora.</item>
+        <item>Estás regando algo que aínda non agromou.</item>
+        <item>O cambio está pasando aínda que non o pareza.</item>
+        <item>Unha vez máis. Sempre foi só isto.</item>
+        <item>Estás construíndo unha reserva de días bos.</item>
+        <item>Isto vólvese normal co tempo.</item>
+        <item>Acabas de escoller de novo. E de novo conta.</item>
+        <item>Un mes así e es outra persoa.</item>
+        <item>O esforzo de hoxe desaparece. O resultado queda.</item>
+        <item>Xa non es quen comezou isto.</item>
+        <item>Facer sempre vale máis ca facer moito.</item>
+        <item>Cada día é un voto en quen queres ser.</item>
+        <item>Estás deixando que o novo costume gañe terreo.</item>
+        <item>Isto non ten que ser heroico. Só ten que pasar.</item>
+        <item>Acabas de fortalecer o camiño correcto.</item>
+        <item>Repetir é como o cerebro aprende calquera cousa.</item>
+        <item>A suma de hoxe e de onte xa é bastante.</item>
+        <item>Vas ben aínda que non o sintas.</item>
+        <item>O progreso vive nas repeticións sen gracia.</item>
+        <item>Un paso curto máis na dirección longa.</item>
+        <item>Estás facendo isto natural.</item>
+        <item>Unha cousa boa feita moitas veces é o que queda.</item>
+        <item>A forza vén de facelo outra vez, non de facelo con forza.</item>
+        <item>Acabas de acurtar o camiño de mañá.</item>
+        <item>Un máis. Só iso. E chega.</item>
+        <item>Estás deixando un rastro de boas decisións.</item>
+        <item>A constancia converte o esforzo en identidade.</item>
+        <item>Cada día conta como un día enteiro.</item>
+        <item>Estás no xogo longo e gañando nel.</item>
+        <item>Isto vai converterse en quen es sen que o notes.</item>
+        <item>O mellor investimento do día acaba de facerse.</item>
+        <item>Acabas de manter a liña.</item>
+        <item>A continuidade é máis rara ca o talento.</item>
+        <item>O cambio de verdade é sempre lento e sempre paga a pena.</item>
+        <item>Outra escolla na dirección da túa vida.</item>
+        <item>Os teus ollos agradecen esta pausa.</item>
+        <item>Levántate e estírate. O corpo pedía isto, non pantalla.</item>
+        <item>Respira fondo. Só iso xa cambia algo.</item>
+        <item>Bebe auga. Probablemente era o que faltaba.</item>
+        <item>Levas un tempo co pescozo torto. Endereza.</item>
+        <item>O sono de hoxe comeza nas pantallas de agora.</item>
+        <item>Durmir ben é o máis produtivo que existe.</item>
+        <item>O teu corpo leva demasiado tempo parado.</item>
+        <item>Mira lonxe durante vinte segundos. Os ollos relaxan.</item>
+        <item>Un paseo curto cambia o humor máis ca calquera feed.</item>
+        <item>O cansazo que sentes pode ser só pantalla.</item>
+        <item>O corpo pide movemento cando a cabeza pide scroll.</item>
+        <item>O aire fresco resolve cousas que a pantalla non resolve.</item>
+        <item>Ombreiros abaixo. Mandíbula solta.</item>
+        <item>Estás apertando os ombreiros sen decatarte.</item>
+        <item>Dez minutos de sol na pel valen moito.</item>
+        <item>O corpo descansa deitado, non rolando.</item>
+        <item>Durmir cedo hoxe é un regalo para mañá.</item>
+        <item>A túa postura mudou nos últimos vinte minutos. Corríxea.</item>
+        <item>O cansazo de pantalla non é cansazo de verdade. É outra cousa.</item>
+        <item>Levanta os brazos. Estírate. Listo, xa mellorou.</item>
+        <item>Os teus ollos pestanexan menos cando rolas. Pestanexa agora.</item>
+        <item>O corpo funciona mellor con pausas de verdade.</item>
+        <item>Unha volta ao quinteiro limpa a cabeza.</item>
+        <item>A túa columna vai agradecer esta interrupción.</item>
+        <item>Descansar é distinto de distraerse.</item>
+        <item>O mal sono de onte comezou nunha pantalla coma esta.</item>
+        <item>Estira o pescozo cara aos dous lados. Leva dez segundos.</item>
+        <item>O movemento resolve a ansiedade mellor ca o contido.</item>
+        <item>O teu corpo é a única casa que tes.</item>
+        <item>Auga, luz e movemento. Case sempre é iso.</item>
+        <item>A pantalla cansa aínda que pareza descanso.</item>
+        <item>Pecha os ollos un instante. Só iso.</item>
+        <item>Estás respirando pouco. Respira fondo tres veces.</item>
+        <item>Unha ducha resolve máis cousas do que parece.</item>
+        <item>O teu corpo leva demasiado tempo no mesmo sitio.</item>
+        <item>O descanso de verdade non ten pantalla.</item>
+        <item>Vinte minutos de paseo cambian o día enteiro.</item>
+        <item>Tes a cabeza pesada porque o corpo está parado.</item>
+        <item>Ollos secos, ombreiros duros. Xa te fixaches?</item>
+        <item>Levantarte dous minutos reinicia máis ca unha rolada.</item>
+        <item>O corpo pide sono e a mente pide estímulo. Escoita o corpo.</item>
+        <item>A luz da pantalla estraga o teu sono durante horas.</item>
+        <item>Estira as pernas. É rápido e funciona.</item>
+        <item>Mereces un descanso que descanse.</item>
+        <item>O movemento é o antidepresivo máis barato que existe.</item>
+        <item>O teu corpo vai lembrar esta noite de sono.</item>
+        <item>A respiración lenta calma máis rápido ca calquera vídeo.</item>
+        <item>Tes fame ou aburrimento. Descubre cal dos dous.</item>
+        <item>O corpo recupérase cando a cabeza para.</item>
+        <item>Vinte segundos mirando pola fiestra.</item>
+        <item>O teu pulso e o teu polgar necesitan un respiro.</item>
+        <item>O cansazo da pantalla desaparece camiñando.</item>
+        <item>O sono é onde se organiza a memoria. Protéxeo.</item>
+        <item>Necesitas menos estímulo, non máis.</item>
+        <item>Un estiramento de dous minutos vale máis ca dez de vídeo.</item>
+        <item>O teu corpo está dándote un sinal agora.</item>
+        <item>Aire, auga e movemento. A receita non mudou.</item>
+        <item>Deitate no chan un minuto. En serio.</item>
+        <item>A pantalla mantente esperto cando precisas durmir.</item>
+        <item>O corpo pide pausa e a man pide pantalla. Dálle a pausa.</item>
+        <item>Os teus ollos levan traballando desde cedo.</item>
+        <item>Unha noite ben durmida cambia o mundo.</item>
+        <item>Levántate. Só levántate. Xa chega.</item>
+        <item>Vas durmir mellor por culpa desta escolla.</item>
+        <item>O corpo agradece o que a cabeza ve como un aburrimento.</item>
+        <item>Estira as costas. Están pedíndoo.</item>
+        <item>O descanso real é silencio, non outro estímulo.</item>
+        <item>O teu corpo ten ritmo propio e a pantalla ignórao.</item>
+        <item>Mira cara ao horizonte. Os ollos precisan distancia.</item>
+        <item>A tensión da mandíbula non vai pasar rolando.</item>
+        <item>Cantas horas levas sentado, exactamente?</item>
+        <item>O movemento trae claridade. Sempre a trouxo.</item>
+        <item>Bebe auga antes de decidir calquera cousa.</item>
+        <item>O sono perdido non se recupera con contido.</item>
+        <item>O teu corpo funciona ben cando o deixas.</item>
+        <item>Unha sesta curta rende máis ca unha hora de feed.</item>
+        <item>Respirar fondo é gratis e inmediato.</item>
+        <item>A pantalla apreta o corpo sen avisar.</item>
+        <item>Estás máis cansado do que farían falta.</item>
+        <item>Levántate e mira pola fiestra. Cinco segundos.</item>
+        <item>O teu corpo non evolucionou para quedar parado mirando luz.</item>
+        <item>Estira os dedos. Traballaron bastante hoxe.</item>
+        <item>A noite mellora sen pantalla antes de durmir.</item>
+        <item>O descanso non é o que ofrece a pantalla.</item>
+        <item>O teu corpo pide natureza e recibe píxeles.</item>
+        <item>Un vaso de auga e tres respiracións. Fai isto agora.</item>
+        <item>A tensión no ombreiro vén de como seguras o móbil.</item>
+        <item>O corpo relaxa cando a atención deixa de correr.</item>
+        <item>Vas sentirte mellor dentro de cinco minutos.</item>
+        <item>O movemento cambia a química. A pantalla só cambia de tema.</item>
+        <item>Os teus ollos merecen un descanso de verdade.</item>
+        <item>Camiñar ordena o pensamento mellor ca ler o feed.</item>
+        <item>A luz azul de agora é mal sono despois.</item>
+        <item>Necesitas descanso, non máis información.</item>
+        <item>Dúas respiracións fondas antes de calquera cousa.</item>
+        <item>O teu corpo é máis sabio ca o impulso.</item>
+        <item>Levántate e vai ata a cociña. Chega.</item>
+        <item>Descansa o corpo e a cabeza descansa con el.</item>
+        <item>Hai xente de carne e óso preto de ti agora.</item>
+        <item>Unha conversa vale máis ca trescentas publicacións.</item>
+        <item>Chama a alguén. Con voz, de verdade.</item>
+        <item>Alguén ao que queres está a unha mensaxe de distancia.</item>
+        <item>A xente do feed non sabe que existes.</item>
+        <item>Quen está na mesma sala ca ti merece máis.</item>
+        <item>Unha aperta resolve o que ningún vídeo resolve.</item>
+        <item>Escribe a quen andas esquecendo.</item>
+        <item>A túa nai ía agradecer unha chamada hoxe.</item>
+        <item>A vida real ten xente que responde de verdade.</item>
+        <item>Ese amigo que desapareceu aínda pode volver. Chámao.</item>
+        <item>A presenza é o máis raro que podes dar.</item>
+        <item>Alguén está esperando que levantes a vista.</item>
+        <item>Unha boa pregunta vale máis ca unha hora de scroll.</item>
+        <item>A xente que tes ao redor non ten algoritmo.</item>
+        <item>Estás perdendo unha conversa que está acontecendo.</item>
+        <item>Ninguén do feed vai estar aí cando o precises.</item>
+        <item>Un café con alguén cambia a semana máis ca calquera feed.</item>
+        <item>A túa compañía é un regalo. Entrégaa.</item>
+        <item>Mira a quen está contigo.</item>
+        <item>A amizade réganse. Rega hoxe.</item>
+        <item>A persoa que tes ao lado é real.</item>
+        <item>Quen te quere non precisa dun gústame.</item>
+        <item>Lembras a última conversa longa que tiveches.</item>
+        <item>Convida a alguén a pasear.</item>
+        <item>Os mellores recordos raramente teñen pantalla.</item>
+        <item>Agora es a compañía de alguén.</item>
+        <item>Manda un audio a quen queres.</item>
+        <item>A xente cambia cando lle prestas atención.</item>
+        <item>A túa presenza ten valor para alguén hoxe.</item>
+        <item>Unha boa conversa déixate mellor. O feed non.</item>
+        <item>Alguén precisa saber que te acordaches dela.</item>
+        <item>Atopa a alguén en vez de seguir a alguén.</item>
+        <item>Os vínculos fortes fanse con tempo xuntos.</item>
+        <item>Podes ser o motivo do bo día de alguén.</item>
+        <item>Ese familiar co que levas meses sen falar.</item>
+        <item>Unha mensaxe sincera vale máis ca mil visualizacións.</item>
+        <item>Estar xuntos é distinto de estar conectados.</item>
+        <item>Quen convive contigo merece que esteas enteiro.</item>
+        <item>Convida a alguén a cear.</item>
+        <item>A xente real ten cara, voz e tempo limitado.</item>
+        <item>Es insubstituíble para alguén. Aparece.</item>
+        <item>A conversa máis importante do teu día aínda non pasou.</item>
+        <item>Preto de ti hai alguén sen pantalla tamén.</item>
+        <item>Escoitar a alguén é a forma máis doada de ser querido.</item>
+        <item>Ese amigo está pasando por algo. Pregúntalle.</item>
+        <item>O teu fillo, o teu can, o teu veciño. Alguén está aí.</item>
+        <item>As redes únente a moita xente e a ningunha delas.</item>
+        <item>Unha tarde con alguén vale un mes de feed.</item>
+        <item>Hoxe podes facer rir a alguén. De verdade.</item>
+        <item>A presenza completa é raríssima. Tes unha para dar.</item>
+        <item>Alguén falou de ti esta semana. Devólveo.</item>
+        <item>Ninguén do feed te bota en falta.</item>
+        <item>Unha chamada de cinco minutos cambia o día de alguén.</item>
+        <item>A xente que importa non publica sobre iso.</item>
+        <item>Estás a unha pregunta dunha boa conversa.</item>
+        <item>A compañía real non ten publicidade polo medio.</item>
+        <item>Esa persoa que sempre te apoia. Dálle as grazas hoxe.</item>
+        <item>Mirar aos ollos segue sendo a mellor tecnoloxía.</item>
+        <item>A túa familia non é un feed. Non a rolles.</item>
+        <item>Convida a alguén a non facer nada xuntos.</item>
+        <item>Quen está lonxe tamén merece noticias túas.</item>
+        <item>Tes xente que te quere fóra de aquí.</item>
+        <item>Unha conversa difícil adiada pesa máis ca o feed.</item>
+        <item>Aproveita a quen tes preto mentres está.</item>
+        <item>A xente lembra a quen estivo presente.</item>
+        <item>Convida a un amigo a un café sen motivo.</item>
+        <item>Alguén nalgún lugar quere saber de ti.</item>
+        <item>Agora podes escoitar a alguén de verdade.</item>
+        <item>O vínculo constrúese mirando, non rolando.</item>
+        <item>A túa atención é o mellor regalo para quen queres.</item>
+        <item>Unha persoa vale máis ca un perfil.</item>
+        <item>Esa conversa que lle debes a alguén. É hoxe.</item>
+        <item>Estar dispoñible é unha forma de amor.</item>
+        <item>Tes tempo para alguén agora.</item>
+        <item>Ninguén se despediu da vida querendo máis seguidores.</item>
+        <item>Reencóntrate con alguén en vez de seguilo de lonxe.</item>
+        <item>O agarimo ás veces hai que dicilo en voz alta.</item>
+        <item>A túa xente de sempre segue aí. Chámaa.</item>
+        <item>Alguén ao teu carón quere conversar.</item>
+        <item>Comparar non é conectar.</item>
+        <item>Hoxe podes ser presenza.</item>
+        <item>Unha nota escrita a man. Que idea.</item>
+        <item>Quen te coñece de verdade non está no feed.</item>
+        <item>Comparte a tarde con alguén.</item>
+        <item>A xente de preto merece o que lle das ao feed.</item>
+        <item>Es importante para alguén que non publica.</item>
+        <item>Chama e pregunta como está a persoa de verdade.</item>
+        <item>A soidade non pasa con máis pantalla.</item>
+        <item>Achégate a alguén hoxe.</item>
+        <item>Unha comida xuntos vale a tarde enteira.</item>
+        <item>A túa atención alimenta as relacións. Alimenta unha.</item>
+        <item>Hai alguén pensando en ti agora mesmo.</item>
+        <item>Dille a alguén que o queres.</item>
+        <item>As amizades morren de silencio, non de liortas.</item>
+        <item>Tes boa xente preto. Aproveita.</item>
+        <item>Alguén precisa compañía e ti tes unha.</item>
+        <item>Deixa o feed e atopa xente.</item>
+        <item>Quen te quere quere o teu tempo, non o teu perfil.</item>
+        <item>Podes mellorarlle o día a alguén en cinco minutos.</item>
+        <item>Crear cansa e enche. Consumir descansa e baleira.</item>
+        <item>Tes máis que dicir ca que ver.</item>
+        <item>Alguén está creando o que ías ver.</item>
+        <item>Escribe unha liña. Só unha.</item>
+        <item>O mundo ten demasiados consumidores e poucos creadores.</item>
+        <item>Esa idea túa segue esperando.</item>
+        <item>Podes facer algo en vez de mirar algo feito.</item>
+        <item>Toda cousa boa fíxoa alguén que non estaba rolando.</item>
+        <item>A túa idea vale máis ca o feed enteiro de hoxe.</item>
+        <item>Comeza iso que adías. Cinco minutos chegan.</item>
+        <item>O proxecto parado só precisa un empurrón.</item>
+        <item>Tes talento para algo que non é rolar pantalla.</item>
+        <item>Fai hoxe algo que onte non existía.</item>
+        <item>Crear é máis divertido ca ver, só custa comezar.</item>
+        <item>Ese caderno en branco non morde.</item>
+        <item>O mellor contido é o que fas ti.</item>
+        <item>Aprendes máis facendo ca vendo.</item>
+        <item>Toca un instrumento, debuxa, cociña. Fai algo coas mans.</item>
+        <item>A túa creatividade desaparece cando enches a cabeza de feed.</item>
+        <item>Hai unha obra túa que ninguén fixo aínda.</item>
+        <item>Comeza mal. Despois mellora.</item>
+        <item>Un parágrafo ao día vira un libro.</item>
+        <item>Tes unha historia que contar.</item>
+        <item>Facer cousas é o antídoto do baleiro.</item>
+        <item>O aburrimento é o comezo da creatividade. Déixao existir.</item>
+        <item>A túa cabeza inventa cando deixas de enchela.</item>
+        <item>Ese curso pagado está esperando.</item>
+        <item>Hoxe é posible aprender algo novo.</item>
+        <item>Consumir é doado. Por iso satisfai tan pouco.</item>
+        <item>Queres facer algo. Comeza agora.</item>
+        <item>Cinco minutos de práctica valen máis ca unha hora de vídeo.</item>
+        <item>Esa receita que queres probar.</item>
+        <item>As ideas veñen no silencio, non no scroll.</item>
+        <item>Podes ser o autor en vez do público.</item>
+        <item>Un pequeno proxecto cambia a semana.</item>
+        <item>Escribe o que farías se tiveses tempo. Tes.</item>
+        <item>A túa man sabe facer cousas. Úsaa.</item>
+        <item>Fai hoxe algo imperfecto.</item>
+        <item>Aprender é máis gustoso que ser entretido.</item>
+        <item>O que creas queda. O que rolas desaparece.</item>
+        <item>Ese instrumento arrimado no currunchiño.</item>
+        <item>Tes un proxecto sen rematar esperando por ti.</item>
+        <item>Crear é o contrario de compararse.</item>
+        <item>Comeza pequeno. Comeza hoxe.</item>
+        <item>Unha páxina ao día é unha vida diferente.</item>
+        <item>A túa imaxinación precisa espazo baleiro.</item>
+        <item>Fai algo que che dea orgullo mañá.</item>
+        <item>A satisfacción de crear non ten substituto.</item>
+        <item>Es capaz de máis ca consumir.</item>
+        <item>Ese hobby abandonado aínda existe.</item>
+        <item>Vinte minutos de práctica son vinte minutos de progreso.</item>
+        <item>Ninguén se fai bo en nada rolando o feed.</item>
+        <item>A túa próxima habilidade comeza nalgún momento. Que sexa agora.</item>
+        <item>Fai, aínda que ninguén o vexa.</item>
+        <item>Hai algo que queres aprender. Comeza.</item>
+        <item>Consumir é mirar a vida dos demais.</item>
+        <item>Tes mans, cabeza e tempo. Iso é todo o que precisas.</item>
+        <item>O primeiro borrador sempre é malo. Faino.</item>
+        <item>Ese idioma que querías falar.</item>
+        <item>Crear é como o aburrimento se converte en alegría.</item>
+        <item>Un pouco cada día constrúe calquera habilidade.</item>
+        <item>Tes algo dentro que quere saír.</item>
+        <item>Escribe sobre o teu día. Só para ti.</item>
+        <item>A túa creatividade está esperando que apagues o barullo.</item>
+        <item>Fai hoxe algo coas mans.</item>
+        <item>O pracer de rematar algo non se parece a nada.</item>
+        <item>Ese proxecto que te ilusionaba. Aínda pode ilusionarte.</item>
+        <item>Non tes que ser bo para comezar.</item>
+        <item>Cociña algo novo. Tamén é crear.</item>
+        <item>A vida faise máis interesante cando fas cousas.</item>
+        <item>Ninguén nace sabendo. Todo o mundo comeza mal.</item>
+        <item>Esa idea da madrugada. Apúntaa.</item>
+        <item>Podes ser útil para alguén co que sabes facer.</item>
+        <item>Fai un pouco hoxe e un pouco mañá.</item>
+        <item>O mellor momento para comezar xa pasou. O segundo mellor é agora.</item>
+        <item>A túa obra non se vai facer soa.</item>
+        <item>Practicar é aburrido ata que se fai bo.</item>
+        <item>Ti queres crear. O feed quere que só mires.</item>
+        <item>Ese debuxo que comezaches.</item>
+        <item>Facer é o xeito máis rápido de aprender.</item>
+        <item>Tes unha voz. Úsaa nalgo.</item>
+        <item>Arranxar algo na casa tamén é crear.</item>
+        <item>A túa próxima conquista comeza nun día corrente coma hoxe.</item>
+        <item>Fai algo que só ti farías.</item>
+        <item>O feed é infinito. A túa obra ten fin e por iso importa.</item>
+        <item>Hoxe podes plantar algo. Literalmente.</item>
+        <item>Esa folla de cálculo, ese plan, ese soño.</item>
+        <item>Crear dá traballo e iso é o que lle dá valor.</item>
+        <item>Es máis interesante ca calquera feed.</item>
+        <item>Estuda vinte minutos. É pouco e é moito.</item>
+        <item>A curiosidade mellora cando se converte en práctica.</item>
+        <item>Esa canción que querías aprender.</item>
+        <item>Fai agora unha cousa útil e sinxela.</item>
+        <item>Tes algo bo que ofrecerlle ao mundo.</item>
+        <item>Comeza o que despois vas agradecer ter comezado.</item>
+        <item>Un proxecto persoal cambia a relación co tempo.</item>
+        <item>Crear é a mellor forma de ocupar a cabeza.</item>
+        <item>Hoxe podes rematar algo.</item>
+        <item>Pon as mans en algo real.</item>
+        <item>Nada substitúe a sensación de ter feito.</item>
+        <item>Non pasa nada por chegar ata aquí. Agora respira.</item>
+        <item>Ninguén está contando nada. Só segue adiante.</item>
+        <item>Vas ben, aínda que non o pareza.</item>
+        <item>Sen présa e sen esixencias. Só unha pausa.</item>
+        <item>Isto non é unha proba. É só un lembrete amable.</item>
+        <item>Estás intentándoo e iso xa chega.</item>
+        <item>Está todo ben. Pecha e segue co teu día.</item>
+        <item>Nada aquí vai de acertar sempre.</item>
+        <item>Mereces lixeireza hoxe.</item>
+        <item>Sen drama. Só un momento para respirar.</item>
+        <item>Este é un lugar tranquilo. Quédate un instante.</item>
+        <item>Estás facendo o mellor que podes. Iso conta.</item>
+        <item>Aquí non se che esixe nada. Só coidado.</item>
+        <item>Respira. Non está pasando nada malo.</item>
+        <item>Chegaches ata aquí e iso xa é bo.</item>
+        <item>Ninguén te está xulgando. Nin ti deberías.</item>
+        <item>Está todo en orde. Só segue.</item>
+        <item>Un paso de cada vez é o ritmo axeitado.</item>
+        <item>Non tes que ser perfecto nisto.</item>
+        <item>Ir amodo tamén é camiñar.</item>
+        <item>Esta pantalla non che esixe nada.</item>
+        <item>Sé amable contigo agora.</item>
+        <item>Non pasa nada por sentir ganas. Forma parte.</item>
+        <item>Estás coidando de ti. Iso é fermoso.</item>
+        <item>Sen alarma, sen présa, sen sustos.</item>
+        <item>Es humano. Iso está permitido.</item>
+        <item>Non tes que explicarlle nada a ninguén.</item>
+        <item>Respira fondo. Xa pasou.</item>
+        <item>Estás seguro aquí.</item>
+        <item>Non pasa nada se hoxe está difícil.</item>
+        <item>Ningún día é igual a outro. Este tampouco.</item>
+        <item>Estás no camiño, aínda que sexa amodo.</item>
+        <item>Descansa un pouco da esixencia.</item>
+        <item>Está todo ben. Só un respiro.</item>
+        <item>Non tes que estar sempre ben.</item>
+        <item>A amabilidade contigo mesmo funciona mellor ca a rixidez.</item>
+        <item>Este momento vai pasar con tranquilidade.</item>
+        <item>Hoxe xa fixeches a parte difícil.</item>
+        <item>Nada urxente. Nada grave. Só unha pausa.</item>
+        <item>Sorrí. Isto é máis pequeno do que parece.</item>
+        <item>Estás intentándoo e iso é o que importa.</item>
+        <item>Sen contas que render. Só segue.</item>
+        <item>Está todo ben. De verdade.</item>
+        <item>Mereces un día lixeiro.</item>
+        <item>Respira. O mundo segue xirando.</item>
+        <item>Hoxe non hai présa ningunha.</item>
+        <item>Estás en paz con esta escolla.</item>
+        <item>Non pasa nada por recomezar tantas veces como fagan falta.</item>
+        <item>Este é un lugar sen esixencias.</item>
+        <item>Ten paciencia co proceso.</item>
+        <item>Non vas atrasado en nada.</item>
+        <item>Non pasa nada por non estar ao cen por cen.</item>
+        <item>Esta pausa é un coidado, non unha corrección.</item>
+        <item>Agora podes simplemente seguir.</item>
+        <item>Sen tensión. Só un momento.</item>
+        <item>Non pasa nada se foi automático.</item>
+        <item>Non precisas un motivo para estar ben.</item>
+        <item>Respira e segue. Así de simple.</item>
+        <item>Aquí non hai ningún problema.</item>
+        <item>Estás facendo ben.</item>
+        <item>Non pasa nada, de verdade. Vai en paz.</item>
+        <item>Este momento é teu para descansar.</item>
+        <item>Non estás só nisto.</item>
+        <item>Todo tranquilo. Segue co teu día.</item>
+        <item>Sen peso. Só un lembrete.</item>
+        <item>Xa es suficiente.</item>
+        <item>A calma que buscas non está no feed.</item>
+        <item>Contigo está todo ben.</item>
+        <item>Descansa a mente un segundo.</item>
+        <item>Mereces este coidado.</item>
+        <item>Nada ten que resolverse agora.</item>
+        <item>Respira unha vez. Despois segue.</item>
+        <item>Estás ben. Só iso.</item>
+        <item>Sen esixencias, sen contas, sen marcador.</item>
+        <item>Un momento de calma no medio do día.</item>
+        <item>Agora podes ser amable contigo.</item>
+        <item>Todo está en paz.</item>
+        <item>Sen présa para nada.</item>
+        <item>Hoxe fixeches o que podías.</item>
+        <item>Non pasa nada. Mañá continúa.</item>
+        <item>Este instante é só unha respiración.</item>
+        <item>Estás seguro e iso chega.</item>
+        <item>Aquí non hai ningún xuízo.</item>
+        <item>Só respira e vai vivir.</item>
+        <item>Mereces tranquilidade hoxe.</item>
+        <item>Está ben a calquera ritmo.</item>
+        <item>Descansa un pouco a cabeza.</item>
+        <item>Aquí sempre es benvido.</item>
+        <item>Sen sustos. Só unha parada rápida.</item>
+        <item>Hoxe a vida non é unha carreira.</item>
+        <item>Estás enteiro e iso é suficiente.</item>
+        <item>Está ben ter tentado.</item>
+        <item>Nada aquí está en contra túa.</item>
+        <item>Respira e segue amodo.</item>
+        <item>Estás ben tal e como estás.</item>
+        <item>Este é un momento de paz.</item>
+        <item>Sen esixencia ningunha. Segue lixeiro.</item>
+        <item>Tes permiso para descansar.</item>
+        <item>Por aquí está todo tranquilo.</item>
+        <item>Vai con calma. O día espera.</item>
+        <item>Es amable contigo e iso é forza.</item>
+        <item>Que farías agora se esta app non existise?</item>
+        <item>Estás aquí por vontade ou por costume?</item>
+        <item>Que era o que buscabas?</item>
+        <item>Isto vai importar mañá pola mañá?</item>
+        <item>Vas lembrar o que verías agora?</item>
+        <item>Que estabas facendo antes de coller o móbil?</item>
+        <item>Canto tempo lle queres dar a isto hoxe?</item>
+        <item>Estás aburrido ou cansado?</item>
+        <item>Que podería ser a túa tarde en vez disto?</item>
+        <item>Vale a pena?</item>
+        <item>Abriches por algún motivo concreto?</item>
+        <item>Que adiarías unha vez máis se entrases agora?</item>
+        <item>Quen queres ser dentro dun ano?</item>
+        <item>Que che sentaría ben de verdade agora?</item>
+        <item>Estás fuxindo de algo?</item>
+        <item>Que tal facer esa cousa que levas tempo adiando?</item>
+        <item>Que pasaría se simplemente pechases?</item>
+        <item>Tes algo mellor que facer. Que é?</item>
+        <item>Isto é descanso ou é escape?</item>
+        <item>Que che pediría facer o teu eu de mañá?</item>
+        <item>Tes fame, sono ou aburrimento?</item>
+        <item>Cando foi a última vez que o feed te deixou mellor?</item>
+        <item>Que queres sentir ao final do día?</item>
+        <item>Que é o que falta agora?</item>
+        <item>Necesitas isto ou só o queres?</item>
+        <item>Que cousa pequena melloraría o teu día agora?</item>
+        <item>Que farías con dúas horas libres?</item>
+        <item>Xa sabes o que deberías estar facendo.</item>
+        <item>Cal é o custo real destes quince minutos?</item>
+        <item>Queres isto ou só tes a man solta?</item>
+        <item>Que valería máis a pena agora?</item>
+        <item>Todo ben por aí?</item>
+        <item>Cal sería a mellor escolla agora, con calma?</item>
+        <item>Vas estar orgulloso desta media hora.</item>
+        <item>Que farías se ninguén te vise?</item>
+        <item>Hai alguén ao que poderías chamar agora?</item>
+        <item>Que está tentando evitar a túa cabeza?</item>
+        <item>Vale a pena trocar a túa tarde por isto?</item>
+        <item>Tes un plan para hoxe. Inclúe isto?</item>
+        <item>Cal sería a cousa máis boa de facer agora?</item>
+        <item>Estás ben, sinceramente.</item>
+        <item>Que faría que esta semana valese a pena?</item>
+        <item>Isto é o que queres ou o que fas?</item>
+        <item>Xa pensaches no que queres facer mañá?</item>
+        <item>Cantas veces hoxe colliches o móbil?</item>
+        <item>Que te deixaría satisfeito dentro dunha hora?</item>
+        <item>Queres entrar ou só tes o dedo en automático?</item>
+        <item>Cal é a cousa importante que estás deixando para despois?</item>
+        <item>Que pensaría disto o teu eu de hai dez anos?</item>
+        <item>Estás descansando de verdade?</item>
+        <item>Hai algo que farías se tiveses valor?</item>
+        <item>Que che gustaría ter feito hoxe pola noite?</item>
+        <item>Vale máis ca unha conversa?</item>
+        <item>Para que tes tempo hoxe?</item>
+        <item>Que hábito queres ter dentro de seis meses?</item>
+        <item>Que está pedindo a túa atención de verdade?</item>
+        <item>Preferes lembrar ou esquecer esta tarde?</item>
+        <item>Cal sería un bo uso para este momento?</item>
+        <item>Estás aquí para ver algo ou para non sentir algo?</item>
+        <item>Que che faría durmir ben hoxe?</item>
+        <item>Isto suma ou resta ao teu día?</item>
+        <item>De verdade queres saber que hai alí?</item>
+        <item>Cal foi a última cousa boa que fixeches sen pantalla?</item>
+        <item>Que farías nunha tarde sen internet?</item>
+        <item>Con présa de que andas?</item>
+        <item>Que pequeno paso poderías dar agora?</item>
+        <item>Que precisa máis a túa atención ca isto?</item>
+        <item>Xa respiraches fondo hoxe?</item>
+        <item>Cal é o teu plan para a próxima hora?</item>
+        <item>Isto achégate a algo que queres?</item>
+        <item>Farías isto diante de quen admiras?</item>
+        <item>Que pasou de bo hoxe?</item>
+        <item>Canto do teu día xa foi para as pantallas?</item>
+        <item>Tes unha idea parada esperando.</item>
+        <item>Que queres facer con esta semana?</item>
+        <item>Vale a pena trocar o silencio por barullo?</item>
+        <item>Hoxe estás creando ou consumindo?</item>
+        <item>Que cousa sinxela che sentaría ben agora?</item>
+        <item>Que lle dirías a un amigo nesta situación?</item>
+        <item>Tes cinco minutos. Para que?</item>
+        <item>Que é o que che molesta de verdade?</item>
+        <item>Isto é o mellor que podes facer agora?</item>
+        <item>Tes o control deste momento.</item>
+        <item>Cal sería a decisión da que te sentirías orgulloso?</item>
+        <item>Que queres ter feito cando remate o día?</item>
+        <item>Lembras por que instalaches isto?</item>
+        <item>Que tal deixalo para despois e ver se aínda queres?</item>
+        <item>Que farías se hoxe tiveses máis valor?</item>
+        <item>Queres a versión rápida ou a versión boa do teu día?</item>
+        <item>Cal é a cousa que só ti podes facer hoxe?</item>
+        <item>Que te está esperando alá fóra?</item>
+        <item>Xa deches as grazas por algo hoxe?</item>
+        <item>Canto vale para ti a próxima media hora?</item>
+        <item>Que queres levar desta semana?</item>
+        <item>Isto é urxente ou só o parece?</item>
+        <item>Estás facendo o que queres facer?</item>
+        <item>Cal sería un bo final para este día?</item>
+        <item>Que farías se estiveses descansado?</item>
+        <item>Preferes rolar ou vivir agora?</item>
+        <item>Que tal simplemente pechar e ver que pasa?</item>
+    </string-array>
+</resources>

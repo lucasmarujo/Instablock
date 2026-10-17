@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Latviešu: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>Laiks, ko netērē šeit, pilnībā atgriežas tavā dzīvē.</item>
+        <item>Katra minūte ārpus šī ekrāna atkal ir tava.</item>
+        <item>Šīs divdesmit minūtes ietilpst vienā pastaigā.</item>
+        <item>Kad ritināšana apstājas, dienā ir vairāk vietas, nekā šķiet.</item>
+        <item>Tu tikko atguvi gabaliņu savas pēcpusdienas.</item>
+        <item>Stunda dienā ir piecpadsmit dienas gadā.</item>
+        <item>Laiks neatgriežas, bet vēl var izvēlēties, kur tas aizies.</item>
+        <item>Šis brīdis ir tavs. Nevienam nav jāzina, ko tu ar to iesāki.</item>
+        <item>Ārpus lietotnes norisinās vesela dzīve.</item>
+        <item>Pulkstenis tikšķ vienādi abās šī ekrāna pusēs.</item>
+        <item>Tu tikko nopirki laiku. Iztērē to kam tādam, ko rīt atcerēsies.</item>
+        <item>Neviens dienas beigās nenožēlo, ka ritināja par maz.</item>
+        <item>Piecpadsmit minūtes šeit ir piecpadsmit minūtes jebkur citur.</item>
+        <item>Padomā, ko tu ar šo pusstundu darītu pirms desmit gadiem.</item>
+        <item>Laiks ir vienīgais, ko tu nevari nopirkt atpakaļ.</item>
+        <item>Visa pēcpusdiena vēl ir atvērta tavā priekšā.</item>
+        <item>Šī minūte var kļūt par sākumu kam citam.</item>
+        <item>Tu atgūsti savas stundas, pa vienai vien.</item>
+        <item>Šeit ietaupītais laiks nepazūd. Tas parādās citur.</item>
+        <item>Desmit minūtes šķiet maz, līdz saskaiti tās mēneša garumā.</item>
+        <item>Dzīve rit parastā ātrumā, nevis plūsmas tempā.</item>
+        <item>Šodien tev ir vairāk laika nekā vakar šajā pašā stundā.</item>
+        <item>Tas, ko tu atliec, ietilpst tieši šajā brīdī.</item>
+        <item>Pauze ir īsa, bet tas, ko tu ar to izdarīsi, var paliet ilgi.</item>
+        <item>Dienā ietilpst daudz, kad ritināšana netraucē.</item>
+        <item>Tu tikko atguvi visu atlikušo vakaru.</item>
+        <item>Laiks ir valūta. Tu tikko nolēmi to netērēt.</item>
+        <item>Plūsma nekad nebeidzas. Tava diena beidzas.</item>
+        <item>Pusstunda dienā ir vesela grāmata mēnesī.</item>
+        <item>Tur iekšā tevi negaidīja nekas steidzams.</item>
+        <item>Šis laiks jau bija tavs. Tagad tas ir atpakaļ pie tevis.</item>
+        <item>Rīts vēl var izdoties, ja tas sākas tagad.</item>
+        <item>Tu neko nezaudēji. Tu ieguvi atelpu.</item>
+        <item>Neviens mums laiku neatdod. Mēs paši to noturam.</item>
+        <item>Šīs minūtes ārpus šejienes ir vērtīgākas, un tu to jau zini.</item>
+        <item>Tas, kas tur bija, tur arī paliks. Tavs laiks gan nepaliek.</item>
+        <item>Dzīve sastāv no tādām pēcpusdienām kā šī.</item>
+        <item>Dienu var noslēgt ar kaut ko paveiktu, nevis tikai redzētu.</item>
+        <item>Divas stundas dienā ir vesels mēnesis gadā.</item>
+        <item>Laiks, ko tu sargā šodien, ir tas, kas paliks rīt.</item>
+        <item>Šī ir dienas daļa, par kuru lemj tikai tu.</item>
+        <item>Tur iekšā neviens nav uzrakstījis neko tavas pēcpusdienas vērtu.</item>
+        <item>Trīsdesmit minūtes dienā gada laikā uzbūvē jebko.</item>
+        <item>Tu tikko nopirki gabaliņu klusuma.</item>
+        <item>Diena kļūst lielāka, kad plūsma kļūst mazāka.</item>
+        <item>Šis laiks tagad ir izejviela. Izdari ar to kaut ko.</item>
+        <item>Kāds tavs projekts gaida tieši šo brīdi.</item>
+        <item>Tas, ko tu šeit iegūsti, neparādās nevienā ekrānā, tikai tavā dzīvē.</item>
+        <item>Brīvs laiks ir retums. Tu to tikko radīji.</item>
+        <item>Neviens mūža beigās nav lūdzis vēl vienu ritinājumu.</item>
+        <item>Tev ir vesela pēcpusdiena, un tā vēl nav iztērēta.</item>
+        <item>Gads ir trīs simti sešdesmit piecas tādas izvēles kā šī.</item>
+        <item>Šis brīdis ir mazs, bet tas pieder tev pilnībā.</item>
+        <item>Laiks rit vienādi. Atšķirība ir tajā, kas paliek pēc tam.</item>
+        <item>Tu tikko izņēmi pusstundu no autopilota.</item>
+        <item>Pārējā diena tev pateicas par šo apstāšanos.</item>
+        <item>Piecas minūtes tur nemanot pārvēršas četrdesmit.</item>
+        <item>Tu zini šo piecu minūšu cenu. Tāpēc tu esi šeit.</item>
+        <item>Stunda, ko tu nosargā tagad, ir tā, ko vakarā meklēsi.</item>
+        <item>Nekas tur nekļūst labāks no tā, ka to redzi tagad, nevis vēlāk.</item>
+        <item>Tu tikko izvēlējies, kurp dosies nākamā minūte.</item>
+        <item>Šajā laikā ietilpst saruna, pastaiga vai diendusa.</item>
+        <item>Diena izdodas, kad stundas vairs neizslīd caur pirkstiem.</item>
+        <item>Nākamā pusstunda pieder tikai tev.</item>
+        <item>Ir šīs dienas versija, kurā tu kaut ko paveici. Tā sākas tagad.</item>
+        <item>Laiku nevar uzkrāt. To var tikai iztērēt labāk vai sliktāk.</item>
+        <item>Šīs minūtes var kļūt par īstu atpūtu.</item>
+        <item>Tu tikko nokāpi no skrejceliņa, kas nekur neved.</item>
+        <item>Nedēļā ir simt sešdesmit astoņas stundas. Šī ir tava.</item>
+        <item>Plūsma paņem laiku pa gabaliņiem, lai neviens to nepamanītu.</item>
+        <item>Tagad var izdarīt to, kas katru dienu tiek atlikts uz rītu.</item>
+        <item>Tavai pēcpusdienai nav jāietilpst ekrānā.</item>
+        <item>Atlikušais laiks ir tas, kas padara dienu labā nozīmē garu.</item>
+        <item>Tu tikko atdevi nākamo stundu sev.</item>
+        <item>Nekas no tā, ko tagad redzētu, pēc nedēļas tev vairs nebūtu prātā.</item>
+        <item>Tieši tādas minūtes uzbūvē vai izšķīdina gadu.</item>
+        <item>Tu ieguvi laiku. Nav jāsteidzas to iztērēt.</item>
+        <item>Diena bez ritināšanas ir diena, kurā ietilpst vairāk.</item>
+        <item>Pulkstenis neatšķir labu laiku no izšķiesta. To dari tu.</item>
+        <item>Šī stunda ir tikpat vērtīga kā jebkura cita tavā dzīvē.</item>
+        <item>Tev tagad ir laiks. Tas ir retāk, nekā šķiet.</item>
+        <item>Sargāt laiku ir vienīgais veids, kā to iegūt.</item>
+        <item>Viss vakars vēl ir priekšā.</item>
+        <item>Šīs minūtes ir sākums pēcpusdienai, ko tu atcerēsies.</item>
+        <item>Tu tikko izvairījies no tās stundu garās bedres.</item>
+        <item>Viss, kam vajag laiku, prasa tieši šādu lēmumu.</item>
+        <item>Laikā no šī brīža līdz vakariņām vēl var paspēt daudz.</item>
+        <item>Tu noņēmi kāju no gāzes pedāļa. Diena palēninās līdzi.</item>
+        <item>Tavā nedēļā ir vieta. To vienkārši aizņēma kas cits.</item>
+        <item>Katru reizi, kad tu šo aizver, diena mazliet paplešas.</item>
+        <item>Laiks ir dāvana, ko vari sev uzdāvināt, neko neiztērējot.</item>
+        <item>Tev tagad ir tieši tas, par ko visu dienu saki, ka tā nav.</item>
+        <item>Gara pēcpusdiena sastāv no īsiem lēmumiem, tādiem kā šis.</item>
+        <item>Neviens nejautās, ko tu iesāki ar šo pusstundu.</item>
+        <item>Laiks, ko šodien neatdod, rīt joprojām būs pie tevis.</item>
+        <item>Divdesmit minūtes dienā ir simt divdesmit stundas gadā.</item>
+        <item>Tu tikko atguvi laiku pirms miega.</item>
+        <item>Starp vienu paziņojumu un nākamo ir ļoti daudz dzīves.</item>
+        <item>Visa diena ir tava, ja vien neatdod to pa gabaliņiem.</item>
+        <item>Tu jau tik ilgi sargā savu laiku. Šis ir vēl viens brīdis.</item>
+        <item>Tava uzmanība ir pasaulē visvairāk kārotais labums. Tu tikko uzvarēji.</item>
+        <item>Fokusam atgriezties vajag divdesmit minūtes. Neatdod to tagad.</item>
+        <item>Vesels prāts ir vērtīgāks par sašķeltu.</item>
+        <item>Pirms nonāci šeit, tava uzmanība bija pie kaut kā cita.</item>
+        <item>Sadalīta uzmanība nav uzmanība. Tas ir tikai nogurums.</item>
+        <item>Tas, ko tu darīji, ir pelnījis tevi visu.</item>
+        <item>Dziļai domāšanai vajag laiku bez pārtraukumiem. Tas ir tagad.</item>
+        <item>Katra ekrāna maiņa maksā vairāk, nekā rāda pulkstenis.</item>
+        <item>Tavam prātam gāja labi. Ļauj tam turpināt.</item>
+        <item>Dziļš darbs neizdzīvo plūsmas ritināšanu.</item>
+        <item>Plūsma ir veidota, lai paņemtu tavu uzmanību. Tu to pamanīji.</item>
+        <item>Garai domai vajag klusumu, lai tā varētu noslēgties.</item>
+        <item>Tu spēj noturēt prātā veselu ideju. Vajag tikai vietu.</item>
+        <item>Uzmanības novēršana nav atpūta. Atpūta atpūtina.</item>
+        <item>Tava koncentrēšanās vēl ir tepat. Atgriezies pie tās.</item>
+        <item>Tava uzmanība šodien nav pārdošanā.</item>
+        <item>Tavs prāts vislabāk strādā pēc divdesmitās minūtes.</item>
+        <item>Pārtraukt tagad maksā dārgāk, nekā šķiet.</item>
+        <item>Tu spēj paveikt lietas, kam vajag fokusu. Sāc ar tā sargāšanu.</item>
+        <item>Nekam tur iekšā tava uzmanība nav vajadzīga steidzami.</item>
+        <item>Viena koncentrēta stunda dod vairāk nekā četras saraustītas.</item>
+        <item>Tavs prāts strādā labāk, kad nav jāmētājas starp tēmām.</item>
+        <item>To, kas palika pusratā, vēl var pabeigt šodien.</item>
+        <item>Fokuss nav gribasspēks. Tā ir vide. Tu tikko sakārtoji savu.</item>
+        <item>Tā grūtā problēma padodas, kad tu pie tās paliec.</item>
+        <item>Tava uzmanība ir ierobežota. Tāpēc tā ir tik vērtīga.</item>
+        <item>Tev nav jāzina viss tieši tagad.</item>
+        <item>Troksnis tur paliks. Retums ir tieši tavs klusums.</item>
+        <item>Lielas lietas paveica cilvēki, kurus nepārtrauca.</item>
+        <item>Atgriezies pie tā, ko darīji. Tavas domas vēl ir tur.</item>
+        <item>Viens uzdevums vienlaikus ir ātrāk, nekā šķiet.</item>
+        <item>Steiga paskatīties pāriet. Pārtraukta doma dažreiz neatgriežas.</item>
+        <item>Tava spēja koncentrēties ir lielāka, nekā tu pēdējā laikā izmanto.</item>
+        <item>Laba domāšana ir lēna. Ļauj tai būt lēnai.</item>
+        <item>Tava uzmanība šodien kaut ko uzbūvēja. Neizjauc to ziņkāres dēļ.</item>
+        <item>Tam, kam vajag prātu, vajag visu prātu.</item>
+        <item>Neviena plūsma neiemācīs to, ko iemāca stunda fokusa.</item>
+        <item>Katrs atraidīts paziņojums ir mazliet vairāk skaidrības.</item>
+        <item>Tu jau gandrīz saprati. Atgriezies tur.</item>
+        <item>Atpūties prāts ir prāts, ko neraustīja visu dienu.</item>
+        <item>Tava uzmanība ir materiāls, no kura tu būvē visu pārējo.</item>
+        <item>Grūti ir sākt. Tu jau sāki. Nesāc atkal no nulles.</item>
+        <item>Ļauj tēmai pastāvēt mierā, un tā tavā prātā atrisināsies pati.</item>
+        <item>Skaidrība rodas, kad troksnis apklust.</item>
+        <item>Tavas dienas labākais darbs vēl tikai priekšā.</item>
+        <item>Tas nav laika trūkums. Trūkst nepārtraukta laika.</item>
+        <item>Tu domā labāk, nekā plūsma tev ļauj.</item>
+        <item>Tas teksts, tas kods, tā saruna. Tie gaida visu tavu uzmanību.</item>
+        <item>Koncentrēšanās ir muskulis. Tā aug tādās dienās kā šodien.</item>
+        <item>Tavs prāts tikko tev pateicās.</item>
+        <item>Viena lieta vienlaikus joprojām ir pati modernākā metode.</item>
+        <item>Tas, ko dari uzmanīgi, paliek. Pārējais pāriet.</item>
+        <item>Domāšanai nav saīsinājumu. Tikai laiks bez pārtraukumiem.</item>
+        <item>Tev pienākas nodomāt domu līdz galam.</item>
+        <item>Tavas domas bija asas. Neļauj tām notrulināties.</item>
+        <item>Ekrāns mirgo. Idejas nemirgo. Paliec pie idejām.</item>
+        <item>Viena diena ar fokusu ir trīs steigas dienu vērta.</item>
+        <item>Tas nav lēnums. Tevi vienkārši visu laiku pārtrauca.</item>
+        <item>Tas, kas šodien ir svarīgs, nav plūsmā.</item>
+        <item>Noturēt kursu ir lētāk nekā pie tā atgriezties.</item>
+        <item>Visa tava uzmanība ir dāvana. Dāvini to tam, kas to pelnījis.</item>
+        <item>Labās idejas dzimst klusumā.</item>
+        <item>Tu biji pa vidu kaut kam labam.</item>
+        <item>Neviens nespēj skaidri domāt, ja prāts ir desmit vietās.</item>
+        <item>Dziļums parādās tikai pēc laika, kas pavadīts virspusē.</item>
+        <item>Fokuss nav par to, lai izdarītu vairāk. Tas ir par to, lai izdarītu labi.</item>
+        <item>Tev šodien ir kas svarīgs. Plūsma tas nav.</item>
+        <item>Ļauj savam prātam pabeigt teikumu, ko tas iesāka.</item>
+        <item>Stunda bez pārtraukumiem maina to, kas dienā ir iespējams.</item>
+        <item>Tas, kas tagad šķiet grūts, ar nepārtrauktu uzmanību kļūst viegls.</item>
+        <item>Tava koncentrēšanās ir tava priekšrocība. Tā vēl ir retajam.</item>
+        <item>Nemaini vienu svarīgu lietu pret daudzām ātrām.</item>
+        <item>Ziņkāre var pagaidīt. Fokuss negaida.</item>
+        <item>Tu kaut ko būvē. Turpini.</item>
+        <item>Uzdevumu mainīšana šķiet produktīva, bet gandrīz nekad tāda nav.</item>
+        <item>Tava prāta labākais lietojums šodien vēl ir pieejams.</item>
+        <item>Uzmanība, ko tu tagad saudzē, vēlāk parādīsies rezultātā.</item>
+        <item>Tavs prāts nav plūsma. Tas patur to, kam tu pievērs uzmanību.</item>
+        <item>Reti gadās kas tāds, kas ir pelnījis visu tavu uzmanību. Izmanto to.</item>
+        <item>Grūti nenozīmē neiespējami. Tikai ilgi.</item>
+        <item>Tev atlikušas tikai dažas minūtes līdz izrāvienam.</item>
+        <item>Troksnis pazūd, kad tu to vairs nebaro.</item>
+        <item>Paliec pie tā, ko darīji, līdz tas ir galā.</item>
+        <item>Katra dziļa ieniršana atsver desmit seklas.</item>
+        <item>Tava uzmanība izlemj, kas kļūs par atmiņu.</item>
+        <item>Tu atceries to, kam pievērsi uzmanību. Tikai to.</item>
+        <item>Domāšana ir ienesīgākais, ko tu šodien dari.</item>
+        <item>Nesteidzīgs prāts atrisina to, ko steidzīgs pat neredz.</item>
+        <item>Labam darbam vajag pacietību, nevis ātrumu.</item>
+        <item>Nekas no tā, ko tagad ieraudzītu, rīt nekļūtu par sarunas tēmu.</item>
+        <item>Tava šodienas skaidrā galva sākās ar tādiem lēmumiem kā šis.</item>
+        <item>Pārtraukums ir dārgākais nodoklis pasaulē.</item>
+        <item>Tu spēj palikt pie vienas lietas ilgāk, nekā iedomājies.</item>
+        <item>Tā detaļa, kas tev slīdēja garām, klusumā parādās.</item>
+        <item>Fokuss atgriežas. Vajag tikai dažas minūtes bez ekrāna.</item>
+        <item>Tu spēj noturēt uzmanību ilgi. Tikai plūsma liek likmi, ka nē.</item>
+        <item>Pabeigt šodien vienu lietu ir vērtīgāk nekā sākt piecas.</item>
+        <item>Pilna uzmanība ir retums pat tev.</item>
+        <item>Ļauj domai elpot.</item>
+        <item>To, ko tu uzbūvē ar fokusu, neviens nenoritina prom.</item>
+        <item>Vēlme atvērt pāriet pēc dažām minūtēm. Vienmēr pāriet.</item>
+        <item>Šim impulsam ir derīguma termiņš. Tas beidzas pats.</item>
+        <item>Tev nekas nav jādara. Tikai jāpagaida, līdz vilnis norimst.</item>
+        <item>Steidzamība, ko tu tagad jūti, nav tava. Tev to iemācīja.</item>
+        <item>Ieelpo vienu reizi. Vēlme jau ir mazāka nekā pirms minūtes.</item>
+        <item>Impulss sākumā ir spēcīgs, bet pusceļā izgaist.</item>
+        <item>To negribi tu. To prasa ieradums.</item>
+        <item>Neērti būs tikai mazliet. Pēc tam pāries.</item>
+        <item>Tu to jau agrāk juti un katru reizi tiki tam pāri.</item>
+        <item>Vēlme nāk viļņos. Viļņi vienmēr noplok.</item>
+        <item>Nevienam nav jāpaklausa dienas pirmajam impulsam.</item>
+        <item>Šis spiediens krūtīs ilgst mazāk par vienu dziesmu.</item>
+        <item>Trīsdesmit sekunžu impulss ir mazāks par tevi.</item>
+        <item>Ļauj vēlmei aiziet, neko ar to nedarot.</item>
+        <item>Šī neērtība ir ieradums, kas atlaižas. Tas ir progress.</item>
+        <item>Tu nepretojies. Tu tikai gaidi.</item>
+        <item>Vēlme atnāk spēcīga un aiziet klusi.</item>
+        <item>Saskaiti līdz divdesmit. Tā jau būs mazāka.</item>
+        <item>Gribēt nav tas pats, kas vajadzēt.</item>
+        <item>Impulss grib tūlītēju atbildi. Nedod nekādu.</item>
+        <item>Šis ir grūtākais brīdis, un tas ir īss.</item>
+        <item>Tev nav jācīnās. Tikai neizlem tagad.</item>
+        <item>Vēlme izgaist, kad neviens to nebaro.</item>
+        <item>Tas ir nemiers, nevis izsalkums pēc satura.</item>
+        <item>Pamani vēlmi, bet neieej tajā.</item>
+        <item>Smadzenes prasa ierasto. Tev nav tas jāpasniedz.</item>
+        <item>Piecas minūtes, un tu pat neatcerēsies, ka gribēji atvērt.</item>
+        <item>Vilnis tagad ceļas. Tas vienmēr nokrīt.</item>
+        <item>Ļaunākais jau ir aiz muguras.</item>
+        <item>Impulss melo par savu spēku.</item>
+        <item>Piecelies, iedzer ūdeni, atgriezies. Tas jau ir prom.</item>
+        <item>Vēlme nav pavēle.</item>
+        <item>Tu vari to just un neko nedarīt. Tas ir atļauts.</item>
+        <item>Ķermenis prasa kustību, nevis ekrānu.</item>
+        <item>Šī vēlme ir automātiska. Tavai atbildei tādai nav jābūt.</item>
+        <item>Nekas slikts nenotiks, ja pagaidīsi vēl mazliet.</item>
+        <item>Vēlme pazūd pati, ja tu tai dod vietu.</item>
+        <item>Tas ir tikai nemiers. Tas pāriet, un tam nevajag ekrānu.</item>
+        <item>Impulss ir tikai ierosinājums. Lem tu.</item>
+        <item>Vēl minūte, un vēlme jau būs kas cits.</item>
+        <item>Grūtā daļa ilgst mirkli. Labā daļa ilgst visu dienu.</item>
+        <item>Tas ir tas slavenais grūdiens. Tas nemaz tik stipri negrūž.</item>
+        <item>Pagaidi bez nosodījuma. Vēlme izšķīst pati.</item>
+        <item>Tavas smadzenes prasa ierasto īsceļu.</item>
+        <item>Tev nekas nav jāuzvar. Tikai jāļauj tam paiet garām.</item>
+        <item>Katrs vilnis, ko palaid garām, padara nākamo mazāku.</item>
+        <item>Nemiers grib ātru risinājumu. Šeit tas to neatradīs.</item>
+        <item>Mirkli vienkārši pastāvi. Impulss tik ilgi neizturēs.</item>
+        <item>Gaidot tu neko nezaudē.</item>
+        <item>Garlaicība nav ārkārtas situācija.</item>
+        <item>Tukšuma sajūta tagad ir normāla. Tā piepildīsies pati.</item>
+        <item>Vēlme kaut ko pārbaudīt reti ir par to kaut ko.</item>
+        <item>Tev ir neērti, bet tev nedraud briesmas.</item>
+        <item>Pēc mirkļa tas atslābs.</item>
+        <item>Ieradums ir spēcīgs, bet īss.</item>
+        <item>Palaid garām šo. Tikai šo vienu.</item>
+        <item>Nākamreiz būs vieglāk, pateicoties šai reizei.</item>
+        <item>Tev nav sevi par kaut ko jāpārliecina. Tikai jāpagaida.</item>
+        <item>Glāze ūdens palīdz vairāk nekā plūsmas ritināšana.</item>
+        <item>Šī steiga ir mānīga, un tu to jau zini.</item>
+        <item>Impulss neiztur palikt bez atbildes.</item>
+        <item>Pagaidi trīsdesmit sekundes. Tad izlem vēlreiz.</item>
+        <item>Tu esi pašā virsotnē. No šejienes ceļš ved lejup.</item>
+        <item>Nekas tagad neprasa tavu reakciju.</item>
+        <item>Vēlme ir viesis. Tā aizies.</item>
+        <item>Tu neesi impulss. Tu to vēro no malas.</item>
+        <item>Ķermenis atslābst, ja tu tam dod minūti.</item>
+        <item>Tās ir tikai smadzenes, kas meklē stimulu. Tās atradīs citu.</item>
+        <item>Trīs dziļas ieelpas maina to, cik stipri tas jūtas.</item>
+        <item>Vēlme saraujas, kad tu paskaties tai tieši acīs.</item>
+        <item>Tu izturēsi šo minūti. Grūtākas tu jau izturēji.</item>
+        <item>Nepatīkamā sajūta pāriet, pat ja tu neko nedari.</item>
+        <item>Roka bija ātrāka par prātu. Gadās.</item>
+        <item>Pirmajās desmit sekundēs nav jāpieņem neviens lēmums.</item>
+        <item>Pēc dažiem mirkļiem tu par to pat neatcerēsies.</item>
+        <item>Sprūds nostrādāja. Atbilde joprojām ir tava.</item>
+        <item>Ļauj vēlmei būt, bet nepaklausi tai.</item>
+        <item>Tās nav alkas. Tas ir tikai paradums.</item>
+        <item>Pagaidi. Burtiski tas ir viss, kas tev jādara.</item>
+        <item>Prāts nomierinās pats, ja tu nemet ugunī malku.</item>
+        <item>Tu jau gaidi. Tā jau ir uzvara.</item>
+        <item>Impulss zaudē spēku, kad atduras pret slēgtām durvīm.</item>
+        <item>Katra sekunde šeit ir sekunde tavā labā.</item>
+        <item>Vilnis ir pārplīsis. Pamani, cik jau ir vieglāk.</item>
+        <item>Tev nav vajadzīgs iemesls, lai neatvērtu.</item>
+        <item>Kāre pāriet ātrāk nekā nožēla.</item>
+        <item>Izstaipīšanās palīdz tur, kur plūsma nepalīdzētu.</item>
+        <item>Kamēr tu šo lasi, vēlme jau aiziet.</item>
+        <item>Neko tagad neizlem. Tikai elpo.</item>
+        <item>Impulss atnāk pats un aiziet pats.</item>
+        <item>Šis ir pats grūtākais. Un tas ir ātri.</item>
+        <item>Tu izturēji līdz šim. Atlikušas sekundes.</item>
+        <item>Ķermenis prasa ekrānu, kad grib atpūsties. Dod tam atpūtu.</item>
+        <item>Vēlme kļūst mazāka katru reizi, kad tu tai neseko.</item>
+        <item>Pagaidi vēl mazliet. Tas ir viss.</item>
+        <item>Brīdis paiet. Izvēle paliek.</item>
+        <item>Tu tikko izgāji cauri šaurākajai vietai.</item>
+        <item>Just vēlmi ir cilvēcīgi. Nepaklausīt tai arī.</item>
+        <item>Miers atgriezīsies pēc mirkļa, ja tu nespiedīsi.</item>
+        <item>Kļuva vieglāk, vai ne?</item>
+        <item>Tu to izlēmi mierīgā brīdī. Uzticies tam lēmumam.</item>
+        <item>Vakar tu parūpējies par sevi šodienai.</item>
+        <item>Šis ekrāns ir ziņa, ko tu atstāji sev.</item>
+        <item>Tevi neviens neaptur. Tev tikai atgādina.</item>
+        <item>Cilvēks, par kādu tu gribi kļūt, nepavada pēcpusdienu ritinot.</item>
+        <item>Šī izvēle bija tava. Tā joprojām ir tava.</item>
+        <item>Tu esi cilvēks, kurš pamanīja un rīkojās.</item>
+        <item>Neviens tevi nespieda šo instalēt. Tu to gribēji.</item>
+        <item>Rīt tev patiks tas, ko šodien izdarīji.</item>
+        <item>Tu jau esi cilvēks, kas sargā savu laiku.</item>
+        <item>Tas nav sods. Tā ir vienošanās.</item>
+        <item>Šo noteikumu uzrakstīji tu. Un tas darbojas.</item>
+        <item>Pārvaldīt savu uzmanību ir ikdienas izvēle.</item>
+        <item>Šeit tev nevienam nekas nav jāpierāda.</item>
+        <item>Cilvēks, kāds tu gribi būt, sākas ar maziem lēmumiem.</item>
+        <item>Tu esi šī ekrāna pareizajā pusē.</item>
+        <item>Katru reizi, kad šo aizver, tu tuvojies cilvēkam, par kuru gribi kļūt.</item>
+        <item>Tevi nosaka nevis tas, ko tu gribi, bet tas, ko tu dari.</item>
+        <item>Vienošanās ar sevi ir tikpat svarīga kā jebkura cita.</item>
+        <item>Tu pamanīji paradumu un to mainīji. Tas ir reti.</item>
+        <item>Lietotnes tavā kabatā ir mazākas par tevi.</item>
+        <item>Šis ir tavs noteikums, un tas ir tavā pusē.</item>
+        <item>Tev ir tiesības mainīt paradumus.</item>
+        <item>Tas, ko tu dari atkal un atkal, nosaka, kas tu esi.</item>
+        <item>Tu izvēlējies dzīvi, kurā ir vairāk vietas.</item>
+        <item>Ne jau lietotne nosaka, ko tu dari.</item>
+        <item>Tu neietilpsti nevienā plūsmā.</item>
+        <item>Tu šo instalēji ar iemeslu.</item>
+        <item>Atceries iemeslu. Tas joprojām ir spēkā.</item>
+        <item>Tu turi vārdu, ko devi sev.</item>
+        <item>Neviens cits nelemj par tavu uzmanību.</item>
+        <item>Tu pamanīji, kas notiek. Tas jau visu maina.</item>
+        <item>Vadīt savu dienu ir nepārtraukts darbs.</item>
+        <item>Tu nesēdi pasažiera vietā. Tu vadi.</item>
+        <item>Tā ir izvēle, ko izdara cilvēks, kas pret sevi izturas nopietni.</item>
+        <item>Tu atbildi par sevi. Un tu to arī dari.</item>
+        <item>Tavs laiks pieder tikai vienam cilvēkam. Tas cilvēks lasa šo.</item>
+        <item>Tu vienojies ar sevi. Turi vārdu.</item>
+        <item>Katrs šāds lēmums tevi pietuvina tam, ko gribi sasniegt.</item>
+        <item>Tu nezaudē brīvību. Tu to izmanto.</item>
+        <item>Ko darīt tagad, izlem tu.</item>
+        <item>Tev nevajag atļauju, lai dzīvotu citādi.</item>
+        <item>Šī robeža ir rūpes, nevis būris.</item>
+        <item>Tu izvēlējies grūtāku, bet vairāk savu ceļu.</item>
+        <item>Cilvēks, ko tu apbrīno, tagad arī teiktu nē.</item>
+        <item>Tu dzīvo savā dzīvē, nevis lietotnē.</item>
+        <item>Tas ir tavs laiks, tavs prāts, tava izvēle.</item>
+        <item>Tu turi solījumu sev. Tas ir svarīgi.</item>
+        <item>Neviens tavā vietā neparūpēsies par tavu uzmanību.</item>
+        <item>Tu jau pierādīji, ka spēj mainīt kursu.</item>
+        <item>Patstāvība ir tieši tas: izlemt iepriekš, nevis impulsā.</item>
+        <item>Tu veido cilvēku, kuru vari cienīt.</item>
+        <item>Šī ir tā tava versija, kas plāno.</item>
+        <item>Tu šeit nenonāci nejauši. Tu to sagatavoji.</item>
+        <item>Vārds, ko dod sev, ir spēkā.</item>
+        <item>Tev ir savs viedoklis par to, kā pavadīt dienu.</item>
+        <item>Lietotne tevi nepazīst. Tu sevi pazīsti.</item>
+        <item>Tu rīkojies kā cilvēks, kuram pieder sava dzīve.</item>
+        <item>Turēties pie sava lēmuma ir brīvība.</item>
+        <item>Šeit noteikumus raksti tu.</item>
+        <item>Tās ir tavas rūpes par sevi.</item>
+        <item>Tas nav cietums. Tā ir aizsardzība.</item>
+        <item>Tava vēlme mainīties ir vecāka par šo impulsu.</item>
+        <item>Tu jau esi tas cilvēks, par kuru cenšies kļūt.</item>
+        <item>Grūtais lēmums jau ir pieņemts. Šis ir vieglais.</item>
+        <item>Grožus turi tu, un mūsdienās tas ir retums.</item>
+        <item>Nevienam nav jāzina. Tas paliek starp tevi un tevi pašu.</item>
+        <item>Tev ir tiesības uzticēties savam vārdam.</item>
+        <item>Šai izvēlei ir tavs vārds.</item>
+        <item>Tagad tu esi cilvēks, kas izlemj iepriekš.</item>
+        <item>Tā nav atteikšanās. Tā ir citas lietas izvēle.</item>
+        <item>Tev ir virziens. Šis ekrāns norāda uz to.</item>
+        <item>Īsta brīvība ir tad, kad tevi visu laiku nerausta.</item>
+        <item>Tavas uzmanības vērtību nosaki tu.</item>
+        <item>Katrs nē šeit ir jā kaut kam citam tavā dzīvē.</item>
+        <item>Tu turies pie plāna, ko sastādīji ar rūpību.</item>
+        <item>Pašvadība prasa darbu, un tā ir tā vērta.</item>
+        <item>Tu atzini, ka gribi mainīties. Tā jau ir grūtākā daļa.</item>
+        <item>Cilvēkam spogulī šovakar tas patiks.</item>
+        <item>Tu algoritmam neko neesi parādā.</item>
+        <item>Tava dzīve nav neviena saturs.</item>
+        <item>Tu esi tieši tur, kur nolēmi būt.</item>
+        <item>Robeža, ko tu nosaki sev, ir pati cieņpilnākā.</item>
+        <item>Tavs dzīves plāns ir lielāks par šo ekrānu.</item>
+        <item>Tas ir briedums reāllaikā.</item>
+        <item>Tu rūpējies par savu nākotni, to pat nemanot.</item>
+        <item>Katra šāda izvēle noslīpē to, kas tu esi.</item>
+        <item>Tev nav jāskaidro, kāpēc neatver.</item>
+        <item>Tavs solījums ir dots sev, nevis lietotnei.</item>
+        <item>Tu pieņēmi pareizo lēmumu brīdī, kad kāres nebija.</item>
+        <item>Šī ir tava dzīve, un to vadi tu.</item>
+        <item>Tagad tevi ir grūti manipulēt.</item>
+        <item>Tava uzmanība pieder tev, un tu to pieskati.</item>
+        <item>Tu tikko parūpējies par sevi.</item>
+        <item>Plāns ir tavs. Un tas darbojas jau tagad.</item>
+        <item>Tu esi savu mazo izvēļu summa.</item>
+        <item>Pēdējo vārdu tev neviens neatņems.</item>
+        <item>Par tavu laiku lemj tikai tu.</item>
+        <item>Tas darbojas, jo tu gribēji, lai tas darbotos.</item>
+        <item>Ieradums grib tevi pārspēt, bet tev ir vairāk spēka.</item>
+        <item>Vēl viena reize. Tā krājums aug.</item>
+        <item>Mazs un bieži uzvar lielu un reti.</item>
+        <item>Tu tikko pieskaitīji vēl vienu punktu.</item>
+        <item>Neviens nemainās uzreiz. Pārmaiņas notiek tādās dienās kā šodien.</item>
+        <item>Šī ir tūkstošā daļa no citādas dzīves.</item>
+        <item>Viena laba diena neko nemaina. Simt labu dienu maina visu.</item>
+        <item>Tu veido sēriju.</item>
+        <item>No iekšpuses progress gandrīz nekad neizskatās pēc progresa.</item>
+        <item>Šo izvēļu summa ir lielāka par katru atsevišķi.</item>
+        <item>Pastāvība ir garlaicīga, un tā strādā.</item>
+        <item>Vēl viens akmens mūrī.</item>
+        <item>Tu trenē kaut ko paliekošu.</item>
+        <item>Pietiekami daudz reižu atkārtots, tas kļūst automātisks.</item>
+        <item>Šo uzvaru neviens neredz, bet tā skaitās tāpat.</item>
+        <item>Pēc dažām nedēļām tu šo vēlmi pat nejutīsi.</item>
+        <item>Šodiena skaitās. Rītdiena arī skaitīsies.</item>
+        <item>Ķēde sastāv no tādiem posmiem kā šis.</item>
+        <item>Jaunais paradums top tieši tagad.</item>
+        <item>Katrs atkārtojums mazliet atslābina veco ieradumu.</item>
+        <item>Tu to jau agrāk izdarīji. Izdari vēlreiz.</item>
+        <item>Lēni ir ātrums lietām, kas paliek ilgi.</item>
+        <item>Pārmaiņas notiek nemanāmi.</item>
+        <item>Tu uzkrāj kaut ko neredzamu un īstu.</item>
+        <item>Vēl viena diena pareizajā virzienā.</item>
+        <item>Rezultāts parādās vēlāk. Izvēle ir šodien.</item>
+        <item>Tā to dara: pa vienai izvēlei.</item>
+        <item>Tu esi tuvāk nekā vakar.</item>
+        <item>Nav jābūt ideāli. Jābūt bieži.</item>
+        <item>Līkne kāpj lēni, un tad pēkšņi strauji.</item>
+        <item>Tu esi procesa vidū. Tāds tas ir.</item>
+        <item>Katrs mazais nē uzbūvē lielu jā.</item>
+        <item>Nekas no tā nav dramatisks. Tāpēc tas darbojas.</item>
+        <item>Ceļš sastāv no tādiem soļiem kā šis.</item>
+        <item>Tu veido jaunu ikdienas ritmu.</item>
+        <item>Pēc mēneša tas šķitīs viegli.</item>
+        <item>Atkārtošana pārvērš lēmumu par dzīvesveidu.</item>
+        <item>Tu tikko nostiprināji jauno ceļu.</item>
+        <item>Simts procenti ir vieglāk nekā deviņdesmit astoņi.</item>
+        <item>Nepārtrauc sēriju šodien.</item>
+        <item>Tu dari garlaicīgo daļu, un tieši tā ir svarīga.</item>
+        <item>Pārmaiņas nejūt. Tās ierauga vēlāk.</item>
+        <item>Vēl viens ķieģelis ielikts.</item>
+        <item>Tu māci smadzenēm gaidīt ko citu.</item>
+        <item>Turpināt — tā ir visa metode.</item>
+        <item>Kopsummā neviena no šīm uzvarām nav maza.</item>
+        <item>Tev nav jāskrien. Tikai jāneapstājas.</item>
+        <item>Tas jau kļūst vieglāk, un tu to pat nepamanīji.</item>
+        <item>Nedēļa šādi jau maina tavu dienu.</item>
+        <item>Tu iemin jaunu taku savā prātā.</item>
+        <item>Katra reize skaitās, pat ja šķiet, ka nē.</item>
+        <item>Neviens neaplaudē, bet tas strādā.</item>
+        <item>Uzkrāšanās notiek klusi un neapturami.</item>
+        <item>Tev tas jau padodas labāk nekā pagājušajā mēnesī.</item>
+        <item>Laba izvēle šodien atvieglo rītdienas izvēli.</item>
+        <item>Lūk, kā pastāvība izskatās no iekšpuses.</item>
+        <item>Vēl viena diena uzkrātajā pārsvarā.</item>
+        <item>Tu esi ceļā, un ceļš ir garš. Tas nekas.</item>
+        <item>Tas, kas atkārtojas, kļūst viegls.</item>
+        <item>Tu tikko nostiprināji to, par ko kļūsti.</item>
+        <item>Šodien rēķins ir tev par labu.</item>
+        <item>Mazi ieguvumi summējas, neprasot atļauju.</item>
+        <item>Runa nav par šodienu. Runa ir par kopsummu.</item>
+        <item>Tu dari neredzamo darbu.</item>
+        <item>Turpini. Tas burtiski ir viss noslēpums.</item>
+        <item>Katra tāda diena noņem mazliet smaguma.</item>
+        <item>Vecais ieradums tagad zaudē pozīcijas.</item>
+        <item>Tu laisti kaut ko, kas vēl nav uzdīdzis.</item>
+        <item>Pārmaiņas notiek, pat ja tā nešķiet.</item>
+        <item>Vēl vienu reizi. Tas vienmēr ir bijis viss.</item>
+        <item>Tu krāj labo dienu rezervi.</item>
+        <item>Ar laiku tas kļūs pašsaprotami.</item>
+        <item>Tu tikko izvēlējies vēlreiz. Un tas atkal skaitās.</item>
+        <item>Mēnesis šādi, un tu esi cits cilvēks.</item>
+        <item>Šodienas piepūle izgaist. Rezultāts paliek.</item>
+        <item>Cilvēks, kurš to sāka, jau ir cits.</item>
+        <item>Darīt regulāri ir vērtīgāk nekā darīt daudz.</item>
+        <item>Katra diena ir balss par to, kas tu gribi būt.</item>
+        <item>Tu ļauj jaunajam paradumam iegūt arvien vairāk vietas.</item>
+        <item>Tam nav jābūt varonīgam. Tam tikai jānotiek.</item>
+        <item>Tu tikko piešķīri spēku pareizajam ceļam.</item>
+        <item>Atkārtojot smadzenes iemācās jebko.</item>
+        <item>Šodiena kopā ar vakardienu jau ir daudz.</item>
+        <item>Tev veicas labi, pat ja tu to nejūti.</item>
+        <item>Progress mīt garlaicīgos atkārtojumos.</item>
+        <item>Vēl viens īss solis garajā ceļā.</item>
+        <item>Tu padari to dabisku.</item>
+        <item>Paliek tas labais, ko dari daudzreiz.</item>
+        <item>Spēks rodas no atkārtošanas, nevis no piepūles.</item>
+        <item>Tu tikko saīsināji rītdienas ceļu.</item>
+        <item>Vēl viens. Tikai tas. Un ar to pietiek.</item>
+        <item>Tu atstāj aiz sevis labu lēmumu pēdas.</item>
+        <item>Pastāvība pārvērš piepūli par identitāti.</item>
+        <item>Katra diena skaitās kā vesela diena.</item>
+        <item>Tu spēlē garo spēli un uzvari tajā.</item>
+        <item>Tas kļūs par daļu no tevis, tev pat nemanot.</item>
+        <item>Dienas labākais ieguldījums tikko ir izdarīts.</item>
+        <item>Tu tikko noturēji līniju.</item>
+        <item>Nepārtrauktība ir retāka par talantu.</item>
+        <item>Īstas pārmaiņas vienmēr ir lēnas un vienmēr ir tā vērtas.</item>
+        <item>Vēl viena izvēle tavas dzīves virzienā.</item>
+        <item>Tavas acis pateicas par šo pauzi.</item>
+        <item>Piecelies un izstaipies. Ķermenis prasīja tieši to, nevis ekrānu.</item>
+        <item>Ieelpo dziļi. Jau tas vien kaut ko maina.</item>
+        <item>Iedzer ūdeni. Visticamāk, tieši tā trūka.</item>
+        <item>Tavs kakls jau kādu laiku ir greizs. Iztaisno to.</item>
+        <item>Šīs nakts miegs sākas ar šī brīža ekrāniem.</item>
+        <item>Labi izgulēties ir pats produktīvākais, kas vien iespējams.</item>
+        <item>Tavs ķermenis ir pārāk ilgi bijis nekustīgs.</item>
+        <item>Paskaties tālumā divdesmit sekundes. Acis atslābst.</item>
+        <item>Īsa pastaiga uzlabo garastāvokli vairāk nekā jebkura plūsma.</item>
+        <item>Nogurums, ko tu jūti, var būt tikai no ekrāna.</item>
+        <item>Ķermenis prasa kustību, kad prāts prasa ritināt.</item>
+        <item>Svaigs gaiss atrisina to, ko ekrāns neatrisina.</item>
+        <item>Pleci uz leju. Žoklis vaļīgs.</item>
+        <item>Tu nemanot sasprindzini plecus.</item>
+        <item>Desmit minūtes saules uz ādas ir ļoti vērtīgas.</item>
+        <item>Ķermenis atpūšas guļot, nevis ritinot.</item>
+        <item>Agri iet gulēt šodien ir dāvana rītdienai.</item>
+        <item>Tava stāja pēdējās divdesmit minūtēs ir mainījusies. Izlabo to.</item>
+        <item>Ekrāna nogurums nav īsts nogurums. Tas ir kas cits.</item>
+        <item>Pacel rokas. Izstiepies. Re, jau labāk.</item>
+        <item>Ritinot tu mirkšķini retāk. Pamirkšķini tagad.</item>
+        <item>Ķermenis strādā labāk ar īstām pauzēm.</item>
+        <item>Aplis ap kvartālu iztīra galvu.</item>
+        <item>Tavam mugurkaulam šis pārtraukums patiks.</item>
+        <item>Atpūta nav tas pats, kas izklaidēšanās.</item>
+        <item>Vakardienas sliktais miegs sākās pie tāda paša ekrāna.</item>
+        <item>Izstiep kaklu uz abām pusēm. Tas aizņem desmit sekundes.</item>
+        <item>Kustība remdē nemieru labāk nekā saturs.</item>
+        <item>Tavs ķermenis ir vienīgās mājas, kas tev ir.</item>
+        <item>Ūdens, gaisma un kustība. Gandrīz vienmēr tas ir tas.</item>
+        <item>Ekrāns nogurdina, pat ja šķiet atpūta.</item>
+        <item>Uz mirkli aizver acis. Tikai to.</item>
+        <item>Tu elpo sekli. Ieelpo dziļi trīs reizes.</item>
+        <item>Duša atrisina vairāk, nekā šķiet.</item>
+        <item>Tavs ķermenis pārāk ilgi ir vienā vietā.</item>
+        <item>Īstā atpūtā nav ekrāna.</item>
+        <item>Divdesmit minūšu pastaiga maina visu dienu.</item>
+        <item>Galva ir smaga, jo ķermenis stāv uz vietas.</item>
+        <item>Sausas acis, stīvi pleci. Tu jau pamanīji.</item>
+        <item>Divas minūtes kājās atsvaidzina vairāk nekā ritināšana.</item>
+        <item>Ķermenis prasa miegu, prāts prasa stimulu. Klausi ķermenim.</item>
+        <item>Ekrāna gaisma traucē tavam miegam vēl vairākas stundas.</item>
+        <item>Izstiep kājas. Tas ir ātri un palīdz.</item>
+        <item>Tev pienākas atpūta, kas tiešām atpūtina.</item>
+        <item>Kustība ir lētākais antidepresants pasaulē.</item>
+        <item>Tavs ķermenis atcerēsies šo nakts miegu.</item>
+        <item>Lēna elpošana nomierina ātrāk nekā jebkurš video.</item>
+        <item>Tas ir izsalkums vai garlaicība. Noskaidro, kas tieši.</item>
+        <item>Ķermenis atjaunojas, kad prāts apstājas.</item>
+        <item>Divdesmit sekundes skatoties pa logu.</item>
+        <item>Tavai plaukstas locītavai un īkšķim vajag brīvdienu.</item>
+        <item>Ekrāna nogurums pazūd ejot.</item>
+        <item>Miegā atmiņa sakārtojas. Sargā to.</item>
+        <item>Tev vajag mazāk stimulu, nevis vairāk.</item>
+        <item>Divu minūšu izstaipīšanās ir vērtīgāka par desmit minūtēm video.</item>
+        <item>Tavs ķermenis tev tagad dod signālu.</item>
+        <item>Gaiss, ūdens un kustība. Recepte nav mainījusies.</item>
+        <item>Apgulies uz grīdas uz minūti. Nopietni.</item>
+        <item>Ekrāns tevi notur nomodā, kad tev vajag gulēt.</item>
+        <item>Ķermenis prasa pauzi, roka prasa ekrānu. Dod pauzi.</item>
+        <item>Tavas acis strādā kopš paša rīta.</item>
+        <item>Labi izgulēta nakts maina pasauli.</item>
+        <item>Piecelies. Vienkārši piecelies. Ar to jau pietiek.</item>
+        <item>Šīs izvēles dēļ tu gulēsi labāk.</item>
+        <item>Ķermenis pateicas par to, kas prātam šķiet garlaicīgs.</item>
+        <item>Izstaipi muguru. Tā to lūdz.</item>
+        <item>Īsta atpūta ir klusums, nevis vēl viens stimuls.</item>
+        <item>Tavam ķermenim ir savs ritms, un ekrāns to ignorē.</item>
+        <item>Paskaties uz apvārsni. Acīm vajag tālumu.</item>
+        <item>Žokļa sasprindzinājums ritinot nepāries.</item>
+        <item>Cik ilgi tu jau sēdi?</item>
+        <item>Kustība nes skaidrību. Vienmēr ir nesusi.</item>
+        <item>Pirms kaut ko izlem, iedzer ūdeni.</item>
+        <item>Zaudēto miegu ar saturu neatgūt.</item>
+        <item>Tavs ķermenis strādā labi, ja tu tam ļauj.</item>
+        <item>Īsa diendusa dod vairāk nekā stunda plūsmā.</item>
+        <item>Dziļa elpa ir bez maksas un iedarbojas uzreiz.</item>
+        <item>Ekrāns nemanot savelk ķermeni.</item>
+        <item>Tev ir vairāk noguruma, nekā vajadzētu.</item>
+        <item>Piecelies un paskaties pa logu. Piecas sekundes.</item>
+        <item>Tavs ķermenis nav attīstījies, lai stāvētu uz vietas un skatītos gaismā.</item>
+        <item>Izstaipi pirkstus. Tie šodien daudz strādāja.</item>
+        <item>Nakts ir labāka, ja pirms miega nav ekrāna.</item>
+        <item>Ekrāns nepiedāvā atpūtu.</item>
+        <item>Tavs ķermenis prasa dabu, bet saņem pikseļus.</item>
+        <item>Glāze ūdens un trīs ieelpas. Dari to tagad.</item>
+        <item>Spriedze plecos ir no tā, kā tu turi telefonu.</item>
+        <item>Ķermenis atslābst, kad uzmanība beidz skriet.</item>
+        <item>Pēc piecām minūtēm tu jutīsies labāk.</item>
+        <item>Kustība maina ķīmiju. Ekrāns maina tikai tēmu.</item>
+        <item>Tavas acis ir pelnījušas īstu atpūtu.</item>
+        <item>Pastaiga sakārto domas labāk nekā plūsmas lasīšana.</item>
+        <item>Zilā gaisma tagad nozīmē sliktu miegu vēlāk.</item>
+        <item>Tev vajag atpūtu, nevis vēl vairāk informācijas.</item>
+        <item>Divas dziļas ieelpas pirms jebkā cita.</item>
+        <item>Tavs ķermenis ir gudrāks par impulsu.</item>
+        <item>Piecelies un aizej līdz virtuvei. Ar to pietiek.</item>
+        <item>Atpūtini ķermeni, un prāts atpūtīsies līdzi.</item>
+        <item>Tev blakus tagad ir dzīvi cilvēki.</item>
+        <item>Viena saruna ir vērtīgāka par trīssimt ierakstiem.</item>
+        <item>Piezvani kādam. Tieši piezvani, ar balsi.</item>
+        <item>Kāds, ko tu mīli, ir tikai vienas ziņas attālumā.</item>
+        <item>Cilvēki plūsmā nezina, ka tu eksistē.</item>
+        <item>Tie, kas ir tev blakus istabā, ir pelnījuši vairāk.</item>
+        <item>Apskāviens atrisina to, ko neatrisina neviens video.</item>
+        <item>Uzraksti tam, par ko pēdējā laikā aizmirsti.</item>
+        <item>Tavai mammai šodien patiktu tavs zvans.</item>
+        <item>Īstajā dzīvē ir cilvēki, kas tiešām atbild.</item>
+        <item>Tas draugs, kurš pazuda, vēl var atgriezties. Uzaicini viņu.</item>
+        <item>Klātbūtne ir retākais, ko tu vari dot.</item>
+        <item>Kāds gaida, kad tu pacelsi acis.</item>
+        <item>Labs jautājums ir vērtīgāks par stundu ritināšanas.</item>
+        <item>Cilvēkiem tev apkārt nav algoritma.</item>
+        <item>Tev paiet garām saruna, kas notiek tieši tagad.</item>
+        <item>Neviens no plūsmas nebūs blakus, kad tev vajadzēs.</item>
+        <item>Kafija ar kādu maina nedēļu vairāk nekā jebkura plūsma.</item>
+        <item>Tava sabiedrība ir dāvana. Dāvini to.</item>
+        <item>Paskaties uz to, kas ir ar tevi.</item>
+        <item>Draudzību vajag laistīt. Palaisti to šodien.</item>
+        <item>Cilvēks tev blakus ir īsts.</item>
+        <item>Tam, kas tevi mīl, nevajag patīkus.</item>
+        <item>Vai atceries savu pēdējo garo sarunu?</item>
+        <item>Uzaicini kādu pastaigā.</item>
+        <item>Labākajās atmiņās reti ir ekrāns.</item>
+        <item>Kādam tagad tieši tu esi blakus.</item>
+        <item>Nosūti balss ziņu kādam, ko mīli.</item>
+        <item>Cilvēki mainās, kad tu pievērs viņiem uzmanību.</item>
+        <item>Tava klātbūtne šodien kādam ir vērtīga.</item>
+        <item>Pēc labas sarunas tev ir labāk. Pēc plūsmas nē.</item>
+        <item>Kādam jāuzzina, ka tu par viņu atcerējies.</item>
+        <item>Satiec kādu, nevis seko kādam.</item>
+        <item>Stipras saites veidojas no kopā pavadīta laika.</item>
+        <item>Tu vari būt iemesls, kāpēc kādam ir laba diena.</item>
+        <item>Tas radinieks, ar kuru nerunāji jau mēnešiem.</item>
+        <item>Viena sirsnīga ziņa ir vērtīgāka par tūkstoš skatījumiem.</item>
+        <item>Būt kopā nav tas pats, kas būt tiešsaistē.</item>
+        <item>Tie, kas dzīvo ar tevi, ir pelnījuši visu tavu klātbūtni.</item>
+        <item>Uzaicini kādu vakariņās.</item>
+        <item>Īstiem cilvēkiem ir seja, balss un ierobežots laiks.</item>
+        <item>Kādam tevi neviens nevar aizstāt. Parādies.</item>
+        <item>Tavas dienas svarīgākā saruna vēl nav notikusi.</item>
+        <item>Tev blakus ir kāds, kuram arī nav ekrāna rokās.</item>
+        <item>Uzklausīšana ir vieglākais ceļš uz kāda sirdi.</item>
+        <item>Tam draugam pašlaik ir grūti. Pajautā.</item>
+        <item>Tavs bērns, tavs suns, tavs kaimiņš. Kāds ir blakus.</item>
+        <item>Tīkli tevi savieno ar daudziem cilvēkiem un ne ar vienu īsti.</item>
+        <item>Pēcpusdiena ar kādu ir mēneša plūsmas vērta.</item>
+        <item>Tu šodien vari kādu sasmīdināt. Pa īstam.</item>
+        <item>Pilnīga klātbūtne ir ļoti reta. Tev tāda ir, ko dot.</item>
+        <item>Kāds šonedēļ par tevi runāja. Atbildi ar to pašu.</item>
+        <item>Plūsmā neviens pēc tevis neilgojas.</item>
+        <item>Piecu minūšu zvans var mainīt kāda dienu.</item>
+        <item>Svarīgākie cilvēki par to nepublicē ierakstus.</item>
+        <item>Līdz labai sarunai tevi šķir tikai viens jautājums.</item>
+        <item>Īstā kopābūšanā nav reklāmas pauzes.</item>
+        <item>Tas cilvēks, kas tevi vienmēr atbalsta. Pasaki paldies šodien.</item>
+        <item>Skatīties acīs joprojām ir labākā tehnoloģija.</item>
+        <item>Tava ģimene nav plūsma. Neritini tai garām.</item>
+        <item>Uzaicini kādu kopā neko nedarīt.</item>
+        <item>Arī tie, kas ir tālu, ir pelnījuši ziņas no tevis.</item>
+        <item>Ārpus šejienes ir cilvēki, kuriem tu patīc.</item>
+        <item>Atlikta grūta saruna sver vairāk par plūsmu.</item>
+        <item>Novērtē tos, kas ir tuvumā, kamēr viņi ir.</item>
+        <item>Cilvēki atceras tos, kas bija klāt.</item>
+        <item>Uzaicini draugu uz kafiju bez iemesla.</item>
+        <item>Kaut kur kāds grib zināt, kā tev iet.</item>
+        <item>Tu tagad vari kādu patiesi uzklausīt.</item>
+        <item>Saikne veidojas, skatoties acīs, nevis ritinot.</item>
+        <item>Tava uzmanība ir labākā dāvana tiem, ko tu mīli.</item>
+        <item>Cilvēks ir vērtīgāks par profilu.</item>
+        <item>Tā saruna, ko esi kādam parādā. Šodien ir īstā diena.</item>
+        <item>Atrast laiku citiem ir viens no mīlestības veidiem.</item>
+        <item>Tev tagad ir laiks kādam citam.</item>
+        <item>Neviens, atvadoties no dzīves, nav vēlējies vairāk sekotāju.</item>
+        <item>Satiec kādu no jauna, nevis vēro no attāluma.</item>
+        <item>Mīļus vārdus dažreiz vajag pateikt skaļi.</item>
+        <item>Tava vecā kompānija joprojām pastāv. Sasauc viņus.</item>
+        <item>Kāds tev blakus gribētu parunāties.</item>
+        <item>Salīdzināšana nav saikne.</item>
+        <item>Šodien tu vari būt līdzās kādam pa īstam.</item>
+        <item>Ar roku rakstīta zīmīte. Kāda ideja!</item>
+        <item>Tie, kas tevi patiesi pazīst, nav plūsmā.</item>
+        <item>Pavadi pēcpusdienu kopā ar kādu.</item>
+        <item>Tuvie cilvēki ir pelnījuši to, ko tu atdod plūsmai.</item>
+        <item>Kādam, kurš neko nepublicē, tu nozīmē ļoti daudz.</item>
+        <item>Piezvani un pajautā, kā cilvēkam patiesībā klājas.</item>
+        <item>Vientulība nepāriet no vēl lielāka ekrāna laika.</item>
+        <item>Šodien pietuvojies kādam.</item>
+        <item>Kopīga maltīte ir visas pēcpusdienas vērta.</item>
+        <item>Tava uzmanība baro attiecības. Pabaro kādas no tām.</item>
+        <item>Kāds tieši tagad domā par tevi.</item>
+        <item>Pasaki kādam, ka tev rūp.</item>
+        <item>Draudzības mirst no klusuma, nevis no strīdiem.</item>
+        <item>Tev tuvumā ir labi cilvēki. Novērtē to.</item>
+        <item>Kādam vajag sabiedrību, un tev tā ir.</item>
+        <item>Atstāj plūsmu un satiec cilvēkus.</item>
+        <item>Tie, kas tevi mīl, grib tavu laiku, nevis tavu profilu.</item>
+        <item>Piecās minūtēs tu vari uzlabot kāda dienu.</item>
+        <item>Radīšana nogurdina un piepilda. Patērēšana atpūtina un iztukšo.</item>
+        <item>Tev ir vairāk ko teikt nekā skatīties.</item>
+        <item>Kāds pašlaik rada to, ko tu gribēji skatīties.</item>
+        <item>Uzraksti vienu rindu. Tikai vienu.</item>
+        <item>Pasaulē ir par daudz patērētāju un par maz radītāju.</item>
+        <item>Tā tava ideja joprojām gaida.</item>
+        <item>Tu vari kaut ko radīt, nevis skatīties uz kāda cita paveikto.</item>
+        <item>Katru labu lietu radīja kāds, kurš tobrīd neritināja.</item>
+        <item>Tava ideja ir vērtīgāka par visu šodienas plūsmu.</item>
+        <item>Sāc to, ko atliec. Pietiek ar piecām minūtēm.</item>
+        <item>Iestrēgušajam projektam vajag tikai nelielu grūdienu.</item>
+        <item>Tev ir talants kaut kam, kas nav ritināšana.</item>
+        <item>Šodien radi kaut ko, kā vakar vēl nebija.</item>
+        <item>Radīt ir jautrāk nekā skatīties, grūti ir tikai sākt.</item>
+        <item>Tā tukšā burtnīca nekož.</item>
+        <item>Labākais saturs ir tas, ko radi tu.</item>
+        <item>Darot tu iemācies vairāk nekā skatoties.</item>
+        <item>Spēlē instrumentu, zīmē, gatavo ēst. Dari kaut ko ar rokām.</item>
+        <item>Tavs radošums izgaist, kad tu piebāz galvu ar plūsmu.</item>
+        <item>Ir kāds darbs, ko vēl neviens nav radījis un ko vari radīt tu.</item>
+        <item>Sāc slikti. Vēlāk būs labāk.</item>
+        <item>Rindkopa dienā pārvēršas grāmatā.</item>
+        <item>Tev ir stāsts, ko izstāstīt.</item>
+        <item>Darīšana ir pretlīdzeklis tukšumam.</item>
+        <item>Garlaicība ir radošuma sākums. Ļauj tai būt.</item>
+        <item>Tavs prāts izgudro, kad tu to vairs nepiebāz.</item>
+        <item>Tas apmaksātais kurss joprojām gaida.</item>
+        <item>Šodien ir iespējams iemācīties ko jaunu.</item>
+        <item>Patērēt ir viegli. Tāpēc tas tik maz apmierina.</item>
+        <item>Tu gribi kaut ko darīt. Sāc tagad.</item>
+        <item>Piecas minūtes prakses ir vērtīgākas par stundu video.</item>
+        <item>Tā recepte, ko tu gribi izmēģināt.</item>
+        <item>Idejas nāk klusumā, nevis ritinot.</item>
+        <item>Tu vari sēdēt autora krēslā, nevis skatītāju zālē.</item>
+        <item>Mazs projekts maina visu nedēļu.</item>
+        <item>Uzraksti, ko tu darītu, ja tev būtu laiks. Tev tas ir.</item>
+        <item>Tavas rokas prot darīt lietas. Izmanto tās.</item>
+        <item>Šodien izdari kaut ko nepilnīgu.</item>
+        <item>Mācīšanās sagādā vairāk prieka nekā izklaide.</item>
+        <item>Tas, ko radi, paliek. Tas, ko noritini, pazūd.</item>
+        <item>Tas instruments, kas stāv kaktā.</item>
+        <item>Tevi gaida nepabeigts projekts.</item>
+        <item>Radīt ir pretstats salīdzināšanai.</item>
+        <item>Sāc ar mazumiņu. Sāc šodien.</item>
+        <item>Viena lappuse dienā ir pavisam cita dzīve.</item>
+        <item>Tavai iztēlei vajag tukšu telpu.</item>
+        <item>Izdari kaut ko, ar ko rīt varēsi lepoties.</item>
+        <item>Radīšanas gandarījumu nekas neaizstāj.</item>
+        <item>Tu spēj vairāk nekā tikai patērēt.</item>
+        <item>Tas pamestais hobijs joprojām pastāv.</item>
+        <item>Divdesmit minūtes prakses ir divdesmit minūtes progresa.</item>
+        <item>Ritinot plūsmu, vēl neviens nav ieguvis nevienu prasmi.</item>
+        <item>Tava nākamā prasme kādā brīdī sāksies. Lai tas ir tagad.</item>
+        <item>Dari, pat ja neviens neredz.</item>
+        <item>Ir kaut kas, ko tu gribi iemācīties. Sāc.</item>
+        <item>Patērēt nozīmē vērot citu dzīvi.</item>
+        <item>Tev ir rokas, prāts un laiks. Tas ir viss, kas vajadzīgs.</item>
+        <item>Pirmais melnraksts vienmēr ir slikts. Uzraksti to.</item>
+        <item>Tā valoda, kurā tu gribēji runāt.</item>
+        <item>Radot garlaicība pārvēršas priekā.</item>
+        <item>Mazliet katru dienu, un var apgūt jebkuru prasmi.</item>
+        <item>Tevī ir kaut kas, kas grib izlauzties ārā.</item>
+        <item>Uzraksti par savu dienu. Tikai sev.</item>
+        <item>Tavs radošums gaida, kad tu izslēgsi troksni.</item>
+        <item>Šodien pastrādā ar rokām.</item>
+        <item>Prieks par paveiktu darbu nav salīdzināms ne ar ko.</item>
+        <item>Tas projekts, kas tevi aizrāva. Tas vēl var aizraut.</item>
+        <item>Lai sāktu, nav jāprot labi.</item>
+        <item>Pagatavo ko jaunu. Tā arī ir radīšana.</item>
+        <item>Dzīve kļūst interesantāka, kad tu kaut ko dari.</item>
+        <item>Neviens nepiedzimst visu protot. Visi sāk neveikli.</item>
+        <item>Tā ideja, kas atnāca naktī. Pieraksti to.</item>
+        <item>Ar to, ko tu proti, vari kādam palīdzēt.</item>
+        <item>Izdari mazliet šodien un mazliet rīt.</item>
+        <item>Labākais brīdis sākt jau pagāja. Otrs labākais ir tagad.</item>
+        <item>Tavs darbs pats no sevis netaps.</item>
+        <item>Vingrināties ir garlaicīgi, līdz sāk izdoties.</item>
+        <item>Tu gribi radīt. Plūsma grib, lai tu tikai skaties.</item>
+        <item>Tas zīmējums, ko tu iesāki.</item>
+        <item>Darīšana ir ātrākais veids, kā mācīties.</item>
+        <item>Tev ir balss. Izmanto to kaut kam.</item>
+        <item>Salabot kaut ko mājās arī ir radīšana.</item>
+        <item>Tavs nākamais sasniegums sākas parastā dienā, tādā kā šodien.</item>
+        <item>Izdari kaut ko, ko darītu tikai tu.</item>
+        <item>Plūsma ir bezgalīga. Tavam darbam ir beigas, un tāpēc tas ir svarīgs.</item>
+        <item>Šodien tu vari kaut ko iestādīt. Burtiski.</item>
+        <item>Tā tabula, tas plāns, tas sapnis.</item>
+        <item>Radīšana prasa darbu, un tieši tāpēc tā ir vērtīga.</item>
+        <item>Tevī ir vairāk interesanta nekā jebkurā plūsmā.</item>
+        <item>Pamācies divdesmit minūtes. Tas ir maz un reizē daudz.</item>
+        <item>Ziņkāre ir labāka, kad tā pārtop praksē.</item>
+        <item>Tā dziesma, ko tu gribēji iemācīties.</item>
+        <item>Izdari tagad kaut ko vienkāršu un noderīgu.</item>
+        <item>Tev ir kaut kas labs, ko piedāvāt pasaulei.</item>
+        <item>Sāc to, par ko vēlāk teiksi sev paldies.</item>
+        <item>Personīgs projekts maina attiecības ar laiku.</item>
+        <item>Radīšana ir labākais veids, kā nodarbināt prātu.</item>
+        <item>Šodien tu vari kaut ko pabeigt.</item>
+        <item>Pieskaries kaut kam īstam.</item>
+        <item>Nekas neaizstāj sajūtu, ka tas ir izdarīts.</item>
+        <item>Tas nekas, ka nonāci šeit. Tagad ieelpo.</item>
+        <item>Neviens neko neskaita. Vienkārši ej tālāk.</item>
+        <item>Tev iet labi, pat ja tā nešķiet.</item>
+        <item>Bez steigas un bez prasībām. Tikai pauze.</item>
+        <item>Tas nav pārbaudījums. Tikai maigs atgādinājums.</item>
+        <item>Tu mēģini, un ar to jau pietiek.</item>
+        <item>Viss ir kārtībā. Aizver un turpini savu dienu.</item>
+        <item>Šeit nav runa par to, lai vienmēr viss izdotos.</item>
+        <item>Tev šodien pienākas vieglums.</item>
+        <item>Bez drāmas. Tikai brīdis atelpai.</item>
+        <item>Šī ir mierīga vieta. Pakavējies mirkli.</item>
+        <item>Tu dari, cik vien vari. Tas skaitās.</item>
+        <item>Šeit nav prasību. Tikai rūpes.</item>
+        <item>Elpo. Nekas slikts nenotiek.</item>
+        <item>Tu tiki līdz šejienei, un tas jau ir labi.</item>
+        <item>Neviens tevi nevērtē. Arī tev nevajadzētu.</item>
+        <item>Viss ir kārtībā. Vienkārši turpini.</item>
+        <item>Solis pa solim ir īstais temps.</item>
+        <item>Šeit nekam nav jābūt ideālam.</item>
+        <item>Iet lēni arī nozīmē iet.</item>
+        <item>Šis ekrāns no tevis neko neprasa.</item>
+        <item>Tagad izturies pret sevi maigi.</item>
+        <item>Just vēlmi ir normāli. Tā tas notiek.</item>
+        <item>Tu rūpējies par sevi. Tas ir skaisti.</item>
+        <item>Bez trauksmes, bez steigas, bez bailēm.</item>
+        <item>Tu esi cilvēks. Tas ir atļauts.</item>
+        <item>Tev nevienam nekas nav jāpaskaidro.</item>
+        <item>Dziļi ieelpo. Tas jau ir garām.</item>
+        <item>Šeit tev nekas nedraud.</item>
+        <item>Tas nekas, ja šodien ir grūti.</item>
+        <item>Neviena diena nav tāda pati kā cita. Arī šī ne.</item>
+        <item>Tu esi ceļā, kaut arī lēnām.</item>
+        <item>Uz brīdi noliec prasības pret sevi malā.</item>
+        <item>Viss ir labi. Tikai atelpa.</item>
+        <item>Tev nav visu laiku jājūtas labi.</item>
+        <item>Maigums pret sevi darbojas labāk nekā stingrība.</item>
+        <item>Šis brīdis paies mierīgi.</item>
+        <item>Grūtāko daļu tu šodien jau izdarīji.</item>
+        <item>Nekas steidzams. Nekas nopietns. Tikai pauze.</item>
+        <item>Pasmaidi. Tas ir mazāk svarīgi, nekā šķiet.</item>
+        <item>Tu mēģini, un tas ir galvenais.</item>
+        <item>Nevienam nav jāatskaitās. Ej tālāk.</item>
+        <item>Viss ir labi. Patiešām.</item>
+        <item>Tev pienākas viegla diena.</item>
+        <item>Elpo. Pasaule turpina griezties.</item>
+        <item>Šodien nekur nav jāsteidzas.</item>
+        <item>Tev ir miers ar šo izvēli.</item>
+        <item>Var sākt no jauna tik reižu, cik vajag.</item>
+        <item>Šī ir vieta bez prasībām.</item>
+        <item>Dod procesam laiku.</item>
+        <item>Tu neko nenokavē.</item>
+        <item>Tas nekas, ja šodien nav simts procentu.</item>
+        <item>Šī pauze ir rūpes, nevis labojums.</item>
+        <item>Tagad tu vari vienkārši doties tālāk.</item>
+        <item>Bez spriedzes. Tikai mirklis.</item>
+        <item>Tas nekas, ja tas notika automātiski.</item>
+        <item>Lai tev būtu labi, iemesls nav vajadzīgs.</item>
+        <item>Ieelpo un turpini. Tik vienkārši.</item>
+        <item>Šeit nav nekādu problēmu.</item>
+        <item>Tu visu dari pareizi.</item>
+        <item>Viss tiešām ir labi. Ej ar mieru.</item>
+        <item>Šis brīdis ir tavs, lai atpūstos.</item>
+        <item>Tev tas nav jāiztur vienatnē.</item>
+        <item>Viss ir mierīgi. Turpini dienu.</item>
+        <item>Bez smaguma. Tikai atgādinājums.</item>
+        <item>Tava vērtība nav jānopelna. Tā jau ir.</item>
+        <item>Miers, ko tu meklē, nav plūsmā.</item>
+        <item>Ar tevi viss ir kārtībā.</item>
+        <item>Uz sekundi ļauj prātam atpūsties.</item>
+        <item>Tev pienākas šīs rūpes.</item>
+        <item>Tagad nekas nav jāatrisina.</item>
+        <item>Ieelpo vienreiz. Tad turpini.</item>
+        <item>Tev viss ir labi. Tas arī viss.</item>
+        <item>Bez prasībām, bez rēķiniem, bez rezultātu tabulas.</item>
+        <item>Miera brīdis dienas vidū.</item>
+        <item>Tagad tu vari pret sevi izturēties saudzīgi.</item>
+        <item>Viss ir mierā.</item>
+        <item>Ne ar ko nav jāsteidzas.</item>
+        <item>Tu šodien izdarīji, ko varēji.</item>
+        <item>Viss kārtībā. Rīt turpināsies.</item>
+        <item>Šis mirklis ir tikai viena elpa.</item>
+        <item>Tu esi drošībā, un ar to pietiek.</item>
+        <item>Šeit neviens nenosoda.</item>
+        <item>Vienkārši elpo un ej dzīvot.</item>
+        <item>Tev šodien pienākas miers.</item>
+        <item>Jebkurš temps ir labs.</item>
+        <item>Ļauj galvai mazliet atpūsties.</item>
+        <item>Šeit tev vienmēr ir vieta.</item>
+        <item>Nav ko baidīties. Tikai īsa pietura.</item>
+        <item>Šodien dzīve nav sacīkstes.</item>
+        <item>Tev viss ir savā vietā, un ar to pietiek.</item>
+        <item>Ir labi, ka tu pamēģināji.</item>
+        <item>Nekas šeit nav vērsts pret tevi.</item>
+        <item>Elpo un turpini lēnām.</item>
+        <item>Tev nekas sevī nav jāmaina, lai būtu labi.</item>
+        <item>Šis ir miera brīdis.</item>
+        <item>Nekādu prasību. Ej tālāk viegli.</item>
+        <item>Tev ir atļauts atpūsties.</item>
+        <item>Šeit viss ir mierīgi.</item>
+        <item>Nesteidzies. Diena pagaidīs.</item>
+        <item>Tu izturies pret sevi labvēlīgi, un tas ir spēks.</item>
+        <item>Ko tu tagad darītu, ja šīs lietotnes nebūtu?</item>
+        <item>Tu esi šeit, jo gribi, vai aiz ieraduma?</item>
+        <item>Ko tu īsti meklēji?</item>
+        <item>Vai rīt no rīta tam būs nozīme?</item>
+        <item>Vai tu atcerēsies to, ko tagad redzētu?</item>
+        <item>Ko tu darīji, pirms paņēmi telefonu?</item>
+        <item>Cik daudz laika tu šodien gribi tam veltīt?</item>
+        <item>Tā ir garlaicība vai nogurums?</item>
+        <item>Kāda varētu būt tava pēcpusdiena tā vietā?</item>
+        <item>Vai tas ir tā vērts?</item>
+        <item>Vai tu atvēri kāda konkrēta iemesla dēļ?</item>
+        <item>Ko tu atliktu vēlreiz, ja tagad ieietu?</item>
+        <item>Kas tu gribi būt pēc gada?</item>
+        <item>Kas tev tagad tiešām nāktu par labu?</item>
+        <item>Vai tu no kaut kā bēdz?</item>
+        <item>Varbūt izdari to, ko jau sen atliec?</item>
+        <item>Kas notiktu, ja tu vienkārši aizvērtu?</item>
+        <item>Tev ir kas labāks darāms. Kas tas ir?</item>
+        <item>Tā ir atpūta vai bēgšana?</item>
+        <item>Ko tev šodien lūgtu izdarīt tavs rītdienas es?</item>
+        <item>Tas ir izsalkums, miegainība vai garlaicība?</item>
+        <item>Kad pēdējo reizi pēc plūsmas tev kļuva labāk?</item>
+        <item>Ko tu gribi just dienas beigās?</item>
+        <item>Kas tev tagad trūkst?</item>
+        <item>Tev to vajag vai tu to tikai gribi?</item>
+        <item>Kāds sīkums tagad uzlabotu tavu dienu?</item>
+        <item>Ko tu darītu ar divām brīvām stundām?</item>
+        <item>Tu jau zini, ko tev vajadzētu darīt.</item>
+        <item>Cik patiesībā maksā šīs piecpadsmit minūtes?</item>
+        <item>Tu to gribi, vai tā ir tikai roka, kas pati sniedzas?</item>
+        <item>Kas tagad būtu vairāk vērts?</item>
+        <item>Vai tev viss ir kārtībā?</item>
+        <item>Kāda tagad, mierīgi padomājot, būtu labākā izvēle?</item>
+        <item>Vai tu lepošies ar šo pusstundu?</item>
+        <item>Ko tu darītu, ja neviens neredzētu?</item>
+        <item>Vai ir kāds, kam tu tagad varētu piezvanīt?</item>
+        <item>No kā tavs prāts cenšas izvairīties?</item>
+        <item>Vai ir vērts iemainīt savu pēcpusdienu pret šo?</item>
+        <item>Tev ir plāns šodienai. Vai tajā ir arī šis?</item>
+        <item>Kas tagad būtu pats foršākais, ko darīt?</item>
+        <item>Godīgi — kā tev iet?</item>
+        <item>Kas padarītu šo nedēļu vērtīgu?</item>
+        <item>Tas ir tas, ko tu gribi, vai tas, ko tu vienkārši dari?</item>
+        <item>Vai tu jau padomāji, ko gribi darīt rīt?</item>
+        <item>Cik reizes tu šodien jau paņēmi telefonu?</item>
+        <item>Kas tev pēc stundas sagādātu gandarījumu?</item>
+        <item>Tu gribi ieiet, vai tas ir tikai pirksts uz autopilota?</item>
+        <item>Kuru svarīgo lietu tu atliec uz vēlāku?</item>
+        <item>Ko par šo teiktu tu pirms desmit gadiem?</item>
+        <item>Vai tu tiešām atpūties?</item>
+        <item>Vai ir kaut kas, ko tu darītu, ja tev būtu drosme?</item>
+        <item>Ko tu šovakar gribētu redzēt paveiktu?</item>
+        <item>Vai tas ir vērtīgāks par sarunu?</item>
+        <item>Kam tev šodien ir laiks?</item>
+        <item>Kādu paradumu tu gribētu iegūt pēc pusgada?</item>
+        <item>Kam patiesībā vajag tavu uzmanību?</item>
+        <item>Vai tu šo pēcpusdienu gribi atcerēties vai aizmirst?</item>
+        <item>Kā šo brīdi varētu labi izmantot?</item>
+        <item>Tu esi šeit, lai kaut ko redzētu, vai lai kaut ko nejustu?</item>
+        <item>Kas palīdzētu tev šonakt labi izgulēties?</item>
+        <item>Tas tavai dienai pieliek vai atņem?</item>
+        <item>Vai tu tiešām gribi zināt, kas tur ir?</item>
+        <item>Kas bija pēdējais labais, ko tu izdarīji bez ekrāna?</item>
+        <item>Ko tu darītu pēcpusdienā bez interneta?</item>
+        <item>Kur tu tā steidzies?</item>
+        <item>Kādu mazu soli tu varētu spert tagad?</item>
+        <item>Kam tava uzmanība vajadzīga vairāk nekā šim?</item>
+        <item>Vai tu šodien jau dziļi ieelpoji?</item>
+        <item>Kāds ir tavs plāns nākamajai stundai?</item>
+        <item>Vai tas tevi tuvina kaut kam, ko tu gribi?</item>
+        <item>Vai tu to darītu tā cilvēka priekšā, kuru apbrīno?</item>
+        <item>Kas labs šodien notika?</item>
+        <item>Cik daudz no tavas dienas jau aizgāja ekrānos?</item>
+        <item>Vai tev ir kāda ideja, kas gaida savu kārtu?</item>
+        <item>Ko tu gribi iesākt ar šo nedēļu?</item>
+        <item>Vai ir vērts iemainīt klusumu pret troksni?</item>
+        <item>Tu šodien radi vai patērē?</item>
+        <item>Kas vienkāršs tev tagad nāktu par labu?</item>
+        <item>Ko tu teiktu draugam šādā situācijā?</item>
+        <item>Tev ir piecas minūtes. Kam?</item>
+        <item>Kas tevi patiesībā nomāc?</item>
+        <item>Vai tas ir labākais, ko tu tagad vari darīt?</item>
+        <item>Vai šo brīdi vadi tu?</item>
+        <item>Ar kādu lēmumu tu lepotos?</item>
+        <item>Kam jābūt paveiktam, kad diena beigsies?</item>
+        <item>Vai atceries, kāpēc to instalēji?</item>
+        <item>Varbūt atliec to uz vēlāku un paskaties, vai vēl gribēsies?</item>
+        <item>Ko tu šodien darītu, ja tev būtu vairāk drosmes?</item>
+        <item>Tu gribi ātro vai labo savas dienas versiju?</item>
+        <item>Ko šodien vari izdarīt tikai tu?</item>
+        <item>Kas tevi gaida ārā?</item>
+        <item>Vai tu šodien jau par kaut ko pateicies?</item>
+        <item>Cik tev ir vērta nākamā pusstunda?</item>
+        <item>Ko tu gribi paņemt līdzi no šīs nedēļas?</item>
+        <item>Tas ir steidzami vai tikai šķiet?</item>
+        <item>Vai tu dari to, ko gribi darīt?</item>
+        <item>Kādas būtu labas beigas šai dienai?</item>
+        <item>Ko tu darītu pēc labas atpūtas?</item>
+        <item>Ko tu tagad izvēlies: ritināt vai dzīvot?</item>
+        <item>Varbūt vienkārši aizver un paskaties, kas notiks?</item>
+    </string-array>
+</resources>

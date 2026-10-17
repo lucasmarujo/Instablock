@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Tiếng Việt: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>Thời gian bạn không tiêu ở đây sẽ trở về trọn vẹn với cuộc sống của bạn.</item>
+        <item>Mỗi phút rời khỏi màn hình này lại là một phút của riêng bạn.</item>
+        <item>Hai mươi phút này vừa đủ cho một cuộc dạo bộ.</item>
+        <item>Khi ngừng lướt, một ngày rộng rãi hơn bạn tưởng.</item>
+        <item>Bạn vừa lấy lại được một phần buổi chiều của mình.</item>
+        <item>Một giờ mỗi ngày là mười lăm ngày mỗi năm.</item>
+        <item>Thời gian không quay lại, nhưng bạn vẫn chọn được nó sẽ đi về đâu.</item>
+        <item>Khoảng nghỉ này là của bạn. Không ai cần biết bạn đã làm gì với nó.</item>
+        <item>Cả một cuộc sống đang diễn ra bên ngoài ứng dụng này.</item>
+        <item>Đồng hồ chạy như nhau ở cả hai phía của màn hình này.</item>
+        <item>Bạn vừa mua được thời gian. Hãy dành nó cho điều bạn sẽ còn nhớ vào ngày mai.</item>
+        <item>Chẳng ai cuối ngày lại ước mình lướt bảng tin nhiều hơn.</item>
+        <item>Mười lăm phút ở đây cũng là mười lăm phút ở bất cứ nơi nào khác.</item>
+        <item>Mười năm trước, bạn sẽ làm gì với nửa tiếng này?</item>
+        <item>Thời gian là thứ duy nhất bạn không thể mua lại.</item>
+        <item>Cả buổi chiều vẫn đang rộng mở trước mắt bạn.</item>
+        <item>Phút này có thể là khởi đầu của một điều khác.</item>
+        <item>Bạn đang trả lại cho chính mình từng giờ, từng giờ một.</item>
+        <item>Thời gian tiết kiệm ở đây không mất đi. Nó sẽ hiện ra ở chỗ khác.</item>
+        <item>Mười phút nghe có vẻ ít, cho đến khi bạn cộng dồn cả tháng.</item>
+        <item>Cuộc sống diễn ra với tốc độ bình thường, không phải tốc độ của bảng tin.</item>
+        <item>Giờ này hôm nay bạn có nhiều thời gian hơn giờ này hôm qua.</item>
+        <item>Việc bạn cứ trì hoãn vừa khít với khoảng thời gian này.</item>
+        <item>Khoảng dừng này ngắn thôi. Điều bạn làm với nó thì có thể không ngắn.</item>
+        <item>Một ngày chứa được rất nhiều thứ khi việc lướt màn hình tránh sang một bên.</item>
+        <item>Bạn vừa giành lại phần còn lại của buổi tối.</item>
+        <item>Thời gian là tiền tệ. Bạn vừa quyết định không tiêu nó.</item>
+        <item>Bảng tin thì không bao giờ hết. Ngày của bạn thì có.</item>
+        <item>Nửa tiếng mỗi ngày là đủ đọc trọn một cuốn sách mỗi tháng.</item>
+        <item>Trong đó chẳng có gì gấp gáp đang chờ bạn cả.</item>
+        <item>Thời gian này vốn là của bạn. Giờ nó đã quay về với bạn.</item>
+        <item>Buổi sáng vẫn có thể thật đáng giá nếu bắt đầu ngay bây giờ.</item>
+        <item>Bạn không mất gì cả. Bạn vừa có thêm một khoảng nghỉ.</item>
+        <item>Không ai trả lại thời gian cho mình. Chính mình phải giữ lấy nó.</item>
+        <item>Những phút này đáng giá hơn khi ở ngoài kia, và bạn biết điều đó.</item>
+        <item>Thứ trong đó vẫn sẽ còn đó. Còn thời gian của bạn thì không đứng chờ.</item>
+        <item>Một đời người được dệt nên từ những buổi chiều như thế này.</item>
+        <item>Bạn có thể kết thúc ngày với một việc đã làm, thay vì một thứ đã xem.</item>
+        <item>Hai giờ mỗi ngày là trọn một tháng mỗi năm.</item>
+        <item>Thời gian bạn giữ gìn hôm nay là thời gian còn lại cho ngày mai.</item>
+        <item>Đây là phần trong ngày mà chỉ bạn mới quyết định.</item>
+        <item>Trong đó chẳng ai viết điều gì xứng đáng với buổi chiều của bạn.</item>
+        <item>Ba mươi phút mỗi ngày đủ để xây nên bất cứ điều gì trong một năm.</item>
+        <item>Bạn vừa mua được một khoảng lặng.</item>
+        <item>Bảng tin thu nhỏ lại thì ngày của bạn rộng ra.</item>
+        <item>Thời gian này giờ là nguyên liệu. Hãy làm nên điều gì đó từ nó.</item>
+        <item>Có một dự án của bạn đang chờ đúng khoảng thời gian này.</item>
+        <item>Điều bạn có được lúc này không hiện trên màn hình nào, chỉ hiện trong cuộc sống của bạn.</item>
+        <item>Thời gian rảnh rất hiếm. Bạn vừa tạo ra một ít.</item>
+        <item>Cuối đời, chưa ai xin thêm một lần lướt màn hình.</item>
+        <item>Bạn có cả buổi chiều, và nó vẫn còn nguyên.</item>
+        <item>Một năm là ba trăm sáu mươi lăm lựa chọn như thế này.</item>
+        <item>Khoảng thời gian này nhỏ thôi, nhưng trọn vẹn là của bạn.</item>
+        <item>Thời gian trôi như nhau. Khác biệt nằm ở những gì còn lại sau đó.</item>
+        <item>Bạn vừa kéo nửa tiếng ra khỏi chế độ lái tự động.</item>
+        <item>Phần còn lại của ngày sẽ cảm ơn lần dừng này.</item>
+        <item>Năm phút trong đó thành bốn mươi phút lúc nào không hay.</item>
+        <item>Bạn biết cái giá của năm phút ấy. Vì thế bạn mới ở đây.</item>
+        <item>Giờ bạn giữ lại lúc này chính là giờ bạn sẽ tìm kiếm vào buổi tối.</item>
+        <item>Không thứ gì trong đó hay hơn chỉ vì bạn xem ngay thay vì để sau.</item>
+        <item>Bạn vừa chọn phút tiếp theo sẽ đi về đâu.</item>
+        <item>Khoảng thời gian này đủ cho một cuộc trò chuyện, một cuộc dạo bộ, một giấc ngủ ngắn.</item>
+        <item>Ngày trôi đáng giá khi các giờ thôi trượt khỏi tay.</item>
+        <item>Bạn là chủ duy nhất của nửa tiếng sắp tới.</item>
+        <item>Có một phiên bản của ngày hôm nay mà bạn đã làm được điều gì đó. Nó bắt đầu từ bây giờ.</item>
+        <item>Thời gian không tích trữ được. Chỉ có thể dùng nó tốt hơn hoặc tệ hơn.</item>
+        <item>Những phút này có thể trở thành nghỉ ngơi thật sự.</item>
+        <item>Bạn vừa bước khỏi một chiếc máy chạy bộ chẳng dẫn đến đâu.</item>
+        <item>Một tuần có một trăm sáu mươi tám giờ. Giờ này là của bạn.</item>
+        <item>Bảng tin lấy thời gian từng mẩu nhỏ để chẳng ai thấy thiếu.</item>
+        <item>Giờ bạn có thể làm việc ngày nào cũng bị dời sang mai.</item>
+        <item>Buổi chiều của bạn không cần gói gọn trong một màn hình.</item>
+        <item>Thời gian dư ra là thứ khiến một ngày dài theo cách dễ chịu.</item>
+        <item>Bạn vừa trả lại giờ tới cho chính mình.</item>
+        <item>Những gì bạn sắp xem lúc này sẽ chẳng còn trong đầu bạn sau một tuần.</item>
+        <item>Đây là kiểu phút có thể xây nên hoặc làm tan biến cả một năm.</item>
+        <item>Bạn có thêm thời gian. Không cần tiêu nó vội.</item>
+        <item>Một ngày không lướt là một ngày chứa được nhiều điều hơn.</item>
+        <item>Đồng hồ không phân biệt thời gian đáng giá với thời gian bỏ phí. Bạn mới là người phân biệt.</item>
+        <item>Giờ này quý như bất kỳ giờ nào khác trong đời bạn.</item>
+        <item>Lúc này bạn có thời gian. Điều đó hiếm hơn bạn nghĩ.</item>
+        <item>Giữ lấy thời gian là cách duy nhất để có thời gian.</item>
+        <item>Cả buổi tối vẫn còn ở phía trước.</item>
+        <item>Những phút này là khởi đầu của một buổi chiều bạn sẽ nhớ.</item>
+        <item>Bạn vừa tránh được cái hố sâu một tiếng đồng hồ ấy.</item>
+        <item>Mọi điều cần thời gian đều cần đúng kiểu quyết định này.</item>
+        <item>Từ giờ đến bữa tối vẫn đủ cho rất nhiều việc.</item>
+        <item>Bạn vừa nhả chân ga. Ngày của bạn cũng chậm lại theo.</item>
+        <item>Tuần của bạn có khoảng trống. Chỉ là nó đang bị thứ khác chiếm chỗ.</item>
+        <item>Mỗi lần bạn đóng nơi này, ngày lại dài thêm một chút.</item>
+        <item>Thời gian là món quà bạn tặng chính mình mà không tốn đồng nào.</item>
+        <item>Lúc này bạn đang có đúng thứ mà cả ngày bạn bảo là mình không có.</item>
+        <item>Một buổi chiều dài được làm nên từ những quyết định ngắn như thế này.</item>
+        <item>Sẽ không ai hỏi bạn đã làm gì với nửa tiếng này.</item>
+        <item>Thời gian bạn không trao đi hôm nay vẫn sẽ ở bên bạn ngày mai.</item>
+        <item>Hai mươi phút mỗi ngày là một trăm hai mươi giờ mỗi năm.</item>
+        <item>Bạn vừa lấy lại khoảng thời gian trước giờ ngủ.</item>
+        <item>Giữa hai thông báo là cả một khoảng đời sống.</item>
+        <item>Cả ngày vẫn trọn vẹn nếu bạn không trao nó đi từng mảnh.</item>
+        <item>Bạn đã giữ gìn thời gian đến tận đây. Đây là thêm một lần nữa.</item>
+        <item>Sự chú ý của bạn là thứ bị tranh giành nhiều nhất thế giới. Bạn vừa thắng.</item>
+        <item>Sự tập trung cần hai mươi phút để quay lại. Đừng trao nó đi lúc này.</item>
+        <item>Một tâm trí trọn vẹn đáng giá hơn một tâm trí bị cắt vụn.</item>
+        <item>Trước khi đến đây, bạn đang tập trung vào một việc.</item>
+        <item>Chú ý bị chia nhỏ thì không còn là chú ý. Chỉ là mệt mỏi.</item>
+        <item>Việc bạn đang làm xứng đáng có trọn vẹn con người bạn.</item>
+        <item>Suy nghĩ sâu cần một khoảng thời gian không bị ngắt quãng. Chính là lúc này.</item>
+        <item>Mỗi lần đổi màn hình tốn nhiều hơn những gì đồng hồ cho thấy.</item>
+        <item>Đầu óc bạn đang chạy tốt. Hãy để nó tiếp tục.</item>
+        <item>Làm việc sâu không sống sót qua một lần lướt bảng tin.</item>
+        <item>Bảng tin được thiết kế để cuốn đi sự chú ý của bạn. Bạn đã nhận ra.</item>
+        <item>Một dòng suy nghĩ dài cần sự yên tĩnh để đi đến cuối.</item>
+        <item>Bạn có thể giữ trọn một ý tưởng trong đầu. Chỉ cần có khoảng trống.</item>
+        <item>Xao nhãng không phải là nghỉ ngơi. Nghỉ ngơi thật thì giúp bạn hồi lại.</item>
+        <item>Sự tập trung lúc nãy vẫn còn quanh đây. Hãy quay về với nó.</item>
+        <item>Hôm nay sự chú ý của bạn không bán.</item>
+        <item>Phần hay nhất của đầu óc bạn xuất hiện sau phút thứ hai mươi.</item>
+        <item>Ngắt quãng lúc này đắt hơn bạn tưởng.</item>
+        <item>Bạn làm được những việc cần tập trung. Hãy bắt đầu bằng cách bảo vệ nó.</item>
+        <item>Không thứ gì trong đó cần bạn chú ý gấp.</item>
+        <item>Một giờ tập trung làm được nhiều hơn bốn giờ đứt quãng.</item>
+        <item>Đầu óc bạn làm việc tốt hơn khi không phải nhảy từ chuyện này sang chuyện khác.</item>
+        <item>Việc còn dang dở vẫn có thể xong trong hôm nay.</item>
+        <item>Tập trung không phải là ý chí. Đó là môi trường. Bạn vừa sắp xếp lại môi trường của mình.</item>
+        <item>Vấn đề khó ấy sẽ chịu nhường khi bạn ở lại với nó.</item>
+        <item>Sự chú ý của bạn có hạn. Vì thế nó mới quý đến vậy.</item>
+        <item>Bạn không cần biết mọi thứ ngay lúc này.</item>
+        <item>Tiếng ồn vẫn sẽ còn đó. Sự tĩnh lặng của bạn mới là thứ hiếm hoi.</item>
+        <item>Những điều lớn lao được làm nên bởi những người không bị cắt ngang.</item>
+        <item>Quay lại việc bạn đang làm đi. Đầu óc bạn vẫn còn ở đó.</item>
+        <item>Làm từng việc một nhanh hơn bạn nghĩ.</item>
+        <item>Cơn vội muốn xem rồi sẽ qua. Ý tưởng bị ngắt quãng thì đôi khi không quay lại.</item>
+        <item>Khả năng tập trung của bạn lớn hơn mức bạn đang dùng.</item>
+        <item>Nghĩ kỹ thì chậm. Cứ để nó chậm.</item>
+        <item>Hôm nay sự chú ý của bạn đã dựng nên một điều. Đừng tháo nó ra chỉ vì tò mò.</item>
+        <item>Việc cần đến đầu óc thì cần trọn cả đầu óc.</item>
+        <item>Không bảng tin nào dạy bạn được điều mà một giờ tập trung dạy.</item>
+        <item>Mỗi thông báo bạn bỏ qua là thêm một chút sáng suốt.</item>
+        <item>Bạn đã gần hiểu ra rồi. Quay lại đó nhé.</item>
+        <item>Một tâm trí được nghỉ ngơi là tâm trí không bị kéo đi suốt cả ngày.</item>
+        <item>Sự chú ý là chất liệu để bạn xây nên mọi thứ khác.</item>
+        <item>Khó nhất là bắt đầu. Bạn đã bắt đầu rồi. Đừng làm lại từ con số không.</item>
+        <item>Cứ để vấn đề lặng yên, nó sẽ tự sáng ra trong đầu bạn.</item>
+        <item>Sự rõ ràng xuất hiện khi tiếng ồn dừng lại.</item>
+        <item>Việc tốt nhất trong ngày của bạn vẫn chưa diễn ra.</item>
+        <item>Không phải thiếu thời gian. Mà là thiếu những khoảng thời gian liền mạch.</item>
+        <item>Bạn nghĩ sâu hơn mức bảng tin cho phép bạn nghĩ.</item>
+        <item>Bài viết ấy, đoạn mã ấy, cuộc trò chuyện ấy. Chúng đang chờ trọn vẹn con người bạn.</item>
+        <item>Sự tập trung là một cơ bắp. Nó lớn lên qua những ngày như hôm nay.</item>
+        <item>Đầu óc bạn vừa cảm ơn bạn đấy.</item>
+        <item>Mỗi lúc một việc vẫn là kỹ thuật tiên tiến nhất từng có.</item>
+        <item>Điều bạn làm bằng sự chú ý sẽ ở lại. Phần còn lại sẽ trôi qua.</item>
+        <item>Không có lối tắt cho suy nghĩ. Chỉ có thời gian không bị gián đoạn.</item>
+        <item>Bạn xứng đáng được nghĩ cho trọn một ý.</item>
+        <item>Đầu óc bạn đang sắc bén. Đừng để nó cùn đi.</item>
+        <item>Màn hình thì nhấp nháy. Ý tưởng thì không. Hãy ở lại với ý tưởng.</item>
+        <item>Một ngày tập trung bằng ba ngày chạy vội.</item>
+        <item>Bạn không chậm. Chỉ là bạn cứ bị ngắt quãng.</item>
+        <item>Điều quan trọng hôm nay không nằm trên bảng tin.</item>
+        <item>Giữ đúng hướng dễ hơn nhiều so với tìm lại hướng.</item>
+        <item>Sự chú ý trọn vẹn của bạn là một món quà. Hãy trao cho điều xứng đáng.</item>
+        <item>Ý tưởng hay xuất hiện trong sự tĩnh lặng.</item>
+        <item>Bạn đang ở giữa một việc tốt đẹp.</item>
+        <item>Không ai nghĩ thấu đáo được khi đầu óc ở mười nơi một lúc.</item>
+        <item>Chiều sâu chỉ hiện ra sau một lúc ở trên bề mặt.</item>
+        <item>Tập trung không phải để làm nhiều hơn. Mà để làm tốt hơn.</item>
+        <item>Hôm nay bạn có một việc quan trọng. Bảng tin không phải là việc đó.</item>
+        <item>Hãy để đầu óc bạn nói hết câu nó đã bắt đầu.</item>
+        <item>Một giờ không gián đoạn thay đổi những gì có thể làm trong ngày.</item>
+        <item>Điều có vẻ khó lúc này sẽ dễ hơn khi bạn chú ý liên tục.</item>
+        <item>Sự tập trung là lợi thế của bạn. Ít người còn giữ được nó.</item>
+        <item>Đừng đổi một điều quan trọng lấy nhiều điều chóng vánh.</item>
+        <item>Sự tò mò có thể chờ. Sự tập trung thì không chờ.</item>
+        <item>Bạn đang xây dựng một điều gì đó. Cứ tiếp tục nhé.</item>
+        <item>Chuyển việc liên tục trông có vẻ năng suất, nhưng hầu như chẳng bao giờ đúng vậy.</item>
+        <item>Cách dùng đầu óc tốt nhất hôm nay vẫn đang chờ bạn.</item>
+        <item>Sự chú ý bạn giữ lại lúc này sẽ hiện ra trong kết quả về sau.</item>
+        <item>Tâm trí bạn không phải bảng tin. Nó giữ lại những gì bạn chú tâm.</item>
+        <item>Hiếm khi có điều xứng đáng với trọn vẹn sự chú ý của bạn. Hãy tận dụng.</item>
+        <item>Khó không có nghĩa là không thể. Chỉ là cần thêm thời gian.</item>
+        <item>Chỉ vài phút nữa là bạn gỡ được nút thắt ấy.</item>
+        <item>Tiếng ồn tan đi khi bạn thôi nuôi nó.</item>
+        <item>Hãy ở lại với việc đang làm cho đến khi xong.</item>
+        <item>Một lần lặn sâu đáng giá hơn mười lần lặn nông.</item>
+        <item>Sự chú ý quyết định điều gì trở thành ký ức.</item>
+        <item>Bạn chỉ nhớ những gì mình đã chú ý. Chỉ vậy thôi.</item>
+        <item>Suy nghĩ là việc sinh lời nhất bạn làm hôm nay.</item>
+        <item>Một đầu óc thong thả giải được điều mà đầu óc vội vàng không nhìn thấy.</item>
+        <item>Việc tốt cần sự kiên nhẫn, không cần tốc độ.</item>
+        <item>Không điều gì bạn sắp xem lúc này sẽ được nhắc đến trong câu chuyện ngày mai.</item>
+        <item>Sự minh mẫn của bạn hôm nay bắt đầu từ những quyết định như thế này.</item>
+        <item>Sự gián đoạn là loại thuế đắt nhất trên đời.</item>
+        <item>Bạn có thể ở lại với một việc lâu hơn bạn tưởng.</item>
+        <item>Chi tiết cứ tuột khỏi tay bạn sẽ hiện ra trong yên lặng.</item>
+        <item>Sự tập trung sẽ trở lại. Chỉ cần vài phút không màn hình.</item>
+        <item>Bạn có thể chú ý thật lâu. Chỉ có bảng tin là đặt cược rằng bạn không thể.</item>
+        <item>Làm xong một việc hôm nay đáng giá hơn bắt đầu năm việc.</item>
+        <item>Sự chú tâm trọn vẹn hiếm hoi, ngay cả với chính bạn.</item>
+        <item>Hãy để suy nghĩ được thở.</item>
+        <item>Điều bạn xây bằng sự tập trung thì không ai lướt qua được.</item>
+        <item>Cảm giác muốn mở sẽ qua sau vài phút. Lúc nào cũng qua.</item>
+        <item>Cơn thôi thúc này có hạn sử dụng. Nó tự hết hạn.</item>
+        <item>Bạn không cần làm gì cả. Chỉ cần chờ con sóng hạ xuống.</item>
+        <item>Cảm giác cấp bách lúc này không phải của bạn. Nó được dạy cho bạn.</item>
+        <item>Hít thở một hơi. Cơn muốn đã nhỏ hơn một phút trước rồi.</item>
+        <item>Cơn thôi thúc dâng cao lúc đầu rồi tan đi giữa chừng.</item>
+        <item>Không phải bạn muốn. Là thói quen đang đòi.</item>
+        <item>Chỉ khó chịu một lúc thôi. Rồi sẽ qua.</item>
+        <item>Bạn từng cảm thấy thế này và lần nào cũng vượt qua.</item>
+        <item>Cơn muốn đến theo từng đợt sóng. Sóng rồi sẽ vỡ.</item>
+        <item>Không ai phải nghe theo cơn thôi thúc đầu tiên trong ngày.</item>
+        <item>Cảm giác thắt lại trong ngực này ngắn hơn một bài hát.</item>
+        <item>Bạn lớn hơn một cơn thôi thúc ba mươi giây.</item>
+        <item>Hãy để cơn muốn trôi qua mà không làm gì với nó.</item>
+        <item>Sự khó chịu lúc này là thói quen đang buông ra. Đó là tiến bộ.</item>
+        <item>Bạn không phải đang cố chống lại. Bạn chỉ đang chờ thôi.</item>
+        <item>Cơn muốn đến ồn ào và đi lặng lẽ.</item>
+        <item>Đếm đến hai mươi. Nó sẽ nhỏ đi rồi.</item>
+        <item>Muốn không giống với cần.</item>
+        <item>Cơn thôi thúc đòi đáp lại ngay. Đừng đáp gì cả.</item>
+        <item>Đây là lúc khó nhất, và nó ngắn thôi.</item>
+        <item>Bạn không cần chiến đấu. Chỉ cần đừng quyết định lúc này.</item>
+        <item>Cơn muốn tan biến khi không ai tiếp sức cho nó.</item>
+        <item>Đây là lo âu, không phải cơn đói nội dung.</item>
+        <item>Hãy để ý cơn muốn mà không bước vào nó.</item>
+        <item>Bộ não gọi món quen thuộc. Bạn không bắt buộc phải phục vụ.</item>
+        <item>Năm phút nữa thôi, bạn sẽ chẳng nhớ là mình từng muốn mở.</item>
+        <item>Con sóng đang dâng lên. Nó luôn hạ xuống.</item>
+        <item>Bạn đã ở phía bên kia của đoạn khó nhất rồi.</item>
+        <item>Cơn thôi thúc nói dối về sức mạnh của chính nó.</item>
+        <item>Đứng dậy, uống nước, quay lại. Nó đã đi rồi.</item>
+        <item>Muốn không phải là mệnh lệnh.</item>
+        <item>Bạn có thể cảm thấy vậy và không làm gì cả. Hoàn toàn được.</item>
+        <item>Cơ thể cần vận động, không cần màn hình.</item>
+        <item>Mong muốn này là tự động. Phản ứng của bạn thì không cần như vậy.</item>
+        <item>Chẳng có gì tệ xảy ra nếu bạn chờ thêm một chút.</item>
+        <item>Cơn muốn tự tan nếu bạn cho nó khoảng trống.</item>
+        <item>Bạn chỉ đang bồn chồn thôi. Cảm giác ấy sẽ qua và không cần đến màn hình.</item>
+        <item>Cơn thôi thúc chỉ là một gợi ý. Bạn mới là người quyết định.</item>
+        <item>Thêm một phút nữa thôi, cơn muốn đã thành thứ khác.</item>
+        <item>Phần khó kéo dài không lâu. Phần dễ chịu kéo dài cả ngày.</item>
+        <item>Đây là cú huých quen thuộc. Nó không mạnh như bạn nghĩ đâu.</item>
+        <item>Cứ chờ, không cần phán xét gì. Cơn muốn sẽ tự lắng xuống.</item>
+        <item>Bộ não của bạn đang đòi lối tắt quen thuộc.</item>
+        <item>Bạn không cần thắng điều gì cả. Chỉ cần để nó trôi qua.</item>
+        <item>Mỗi con sóng bạn để trôi qua khiến con sóng sau nhỏ hơn.</item>
+        <item>Lo âu muốn một lối thoát nhanh. Nó sẽ không tìm thấy ở đây.</item>
+        <item>Hãy đứng yên một lát. Cơn thôi thúc thì không đứng yên được lâu.</item>
+        <item>Chờ đợi không khiến bạn bỏ lỡ điều gì.</item>
+        <item>Buồn chán không phải là chuyện khẩn cấp.</item>
+        <item>Thấy trống trải lúc này là bình thường. Khoảng trống sẽ tự đầy lại.</item>
+        <item>Cơn muốn kiểm tra một thứ gì đó hiếm khi thật sự là vì thứ đó.</item>
+        <item>Bạn đang khó chịu, chứ không gặp nguy hiểm.</item>
+        <item>Cảm giác này sẽ dịu đi trong chốc lát.</item>
+        <item>Thói quen thì mạnh, nhưng ngắn ngủi.</item>
+        <item>Để lần này trôi qua. Chỉ lần này thôi.</item>
+        <item>Lần sau sẽ dễ hơn nhờ có lần này.</item>
+        <item>Bạn không cần thuyết phục bản thân điều gì. Chỉ cần chờ.</item>
+        <item>Một cốc nước giải quyết được nhiều hơn một lần lướt bảng tin.</item>
+        <item>Sự gấp gáp này là giả, và bạn biết rõ điều đó.</item>
+        <item>Cơn thôi thúc không chịu nổi khi không được đáp lại.</item>
+        <item>Chờ ba mươi giây. Rồi hãy quyết định lại.</item>
+        <item>Bạn đang ở đỉnh rồi. Từ đây trở đi là xuống dốc.</item>
+        <item>Lúc này không có gì đòi bạn phải phản ứng.</item>
+        <item>Cơn muốn chỉ là một vị khách. Nó sẽ rời đi.</item>
+        <item>Bạn không phải cơn thôi thúc. Bạn là người đang quan sát nó.</item>
+        <item>Cơ thể sẽ thả lỏng nếu bạn cho nó một phút.</item>
+        <item>Chỉ là bộ não đang tìm kích thích. Nó sẽ tìm được thứ khác.</item>
+        <item>Ba hơi thở sâu sẽ làm cảm giác này dịu bớt.</item>
+        <item>Cơn muốn co lại khi bạn nhìn thẳng vào nó.</item>
+        <item>Bạn chịu được phút này. Bạn từng chịu được những lúc khó hơn.</item>
+        <item>Sự bứt rứt sẽ qua dù bạn không làm gì.</item>
+        <item>Tay nhanh hơn đầu một chút. Chuyện bình thường thôi.</item>
+        <item>Không quyết định nào cần đưa ra trong mười giây đầu tiên.</item>
+        <item>Chỉ chốc lát nữa thôi, bạn sẽ quên chuyện này.</item>
+        <item>Cơn kích thích đã đến. Phản hồi thế nào vẫn là quyền của bạn.</item>
+        <item>Cứ để cơn muốn tồn tại, không cần vâng lời nó.</item>
+        <item>Đây không phải cơn thèm khát. Chỉ là thói quen.</item>
+        <item>Chờ thôi. Đó đúng là tất cả những gì bạn cần làm.</item>
+        <item>Đầu óc sẽ tự lắng lại nếu bạn không thêm củi vào lửa.</item>
+        <item>Bạn đang chờ rồi. Như thế đã là chiến thắng.</item>
+        <item>Cơn thôi thúc mất sức khi gặp một cánh cửa đóng.</item>
+        <item>Mỗi giây ở đây là thêm một giây lợi thế.</item>
+        <item>Con sóng đã vỡ. Để ý xem, mọi thứ đã nhẹ hơn rồi.</item>
+        <item>Bạn không cần lý do để không mở.</item>
+        <item>Cơn thèm qua nhanh hơn nỗi tiếc nuối.</item>
+        <item>Một lần vươn vai giải quyết được điều bảng tin không giải quyết nổi.</item>
+        <item>Ngay khi bạn đọc dòng này, cơn muốn đang rời đi.</item>
+        <item>Đừng quyết định gì lúc này. Chỉ cần thở.</item>
+        <item>Cơn thôi thúc tự đến rồi tự đi.</item>
+        <item>Đoạn này khó nhất. Nhưng trôi qua rất nhanh.</item>
+        <item>Bạn đã trụ được đến đây. Chỉ còn vài giây.</item>
+        <item>Cơ thể đòi màn hình khi nó cần nghỉ. Hãy cho nó nghỉ.</item>
+        <item>Mỗi lần không được chiều, cơn muốn lại nhỏ đi.</item>
+        <item>Chờ thêm chút nữa. Chỉ vậy thôi.</item>
+        <item>Khoảnh khắc trôi qua. Lựa chọn ở lại.</item>
+        <item>Bạn vừa đi qua đoạn hẹp nhất.</item>
+        <item>Thấy muốn là chuyện con người. Không nghe theo cũng vậy.</item>
+        <item>Sự bình yên sẽ quay lại trong chốc lát nếu bạn không thúc ép.</item>
+        <item>Nhẹ hơn rồi, đúng không?</item>
+        <item>Bạn đã quyết định điều này lúc bình tĩnh. Hãy tin người đã quyết định.</item>
+        <item>Bạn của hôm qua đã chăm lo cho bạn của lúc này.</item>
+        <item>Màn hình này là lời nhắn bạn gửi cho chính mình.</item>
+        <item>Không ai ngăn cản bạn. Bạn chỉ đang được nhắc nhở.</item>
+        <item>Con người bạn muốn trở thành không dành cả buổi chiều để lướt.</item>
+        <item>Lựa chọn này là của bạn. Và vẫn luôn là của bạn.</item>
+        <item>Bạn là kiểu người đã nhận ra và hành động.</item>
+        <item>Không ai bắt bạn cài ứng dụng này. Bạn tự muốn thế.</item>
+        <item>Bạn của ngày mai sẽ quý bạn của lúc này.</item>
+        <item>Bạn đã là người biết bảo vệ thời gian của mình.</item>
+        <item>Đây không phải hình phạt. Đây là lời hẹn.</item>
+        <item>Bạn đã viết ra quy tắc này. Và nó đang có tác dụng.</item>
+        <item>Làm chủ sự chú ý của mình là lựa chọn mỗi ngày.</item>
+        <item>Ở đây bạn không cần chứng minh gì với ai.</item>
+        <item>Con người bạn muốn trở thành bắt đầu từ những quyết định nhỏ.</item>
+        <item>Bạn đang ở đúng phía của màn hình này.</item>
+        <item>Mỗi lần đóng nơi này, bạn lại gần hơn với người bạn muốn trở thành.</item>
+        <item>Bạn không phải là những gì bạn thèm muốn. Bạn là những gì bạn làm.</item>
+        <item>Lời hẹn với chính mình cũng quý như bất kỳ lời hẹn nào khác.</item>
+        <item>Bạn đã nhận ra một khuôn mẫu và thay đổi nó. Điều đó hiếm lắm.</item>
+        <item>Bạn lớn hơn những ứng dụng trong túi mình.</item>
+        <item>Đây là quy tắc của bạn, và nó đứng về phía bạn.</item>
+        <item>Bạn có quyền thay đổi thói quen.</item>
+        <item>Điều bạn làm lặp đi lặp lại chính là con người bạn.</item>
+        <item>Bạn đã chọn một cuộc sống rộng rãi hơn.</item>
+        <item>Không phải ứng dụng ra lệnh cho bạn.</item>
+        <item>Con người bạn không gói gọn trong một bảng tin.</item>
+        <item>Bạn là người đã cài ứng dụng này vì một lý do.</item>
+        <item>Hãy nhớ lý do ấy. Nó vẫn còn nguyên giá trị.</item>
+        <item>Bạn đang giữ trọn một quyết định của chính mình.</item>
+        <item>Không ai quyết định sự chú ý thay bạn.</item>
+        <item>Bạn đã nhận ra chuyện gì đang diễn ra. Chỉ vậy đã thay đổi tất cả.</item>
+        <item>Làm chủ một ngày của mình là việc phải làm liên tục.</item>
+        <item>Bạn không phải hành khách. Bạn là người cầm lái.</item>
+        <item>Đây là lựa chọn của người coi trọng bản thân.</item>
+        <item>Bạn chịu trách nhiệm cho chính mình. Và bạn đang làm điều đó.</item>
+        <item>Thời gian của bạn có chủ. Người đó đang đọc dòng này.</item>
+        <item>Bạn đã hẹn với chính mình. Hãy giữ lời.</item>
+        <item>Mỗi quyết định như vậy đưa bạn đến gần con người bạn muốn trở thành.</item>
+        <item>Bạn không mất đi tự do. Bạn đang sử dụng nó.</item>
+        <item>Người quyết định làm gì lúc này là bạn.</item>
+        <item>Bạn không cần xin phép để sống khác đi.</item>
+        <item>Giới hạn này là sự chăm sóc, không phải chiếc lồng.</item>
+        <item>Bạn đã chọn một con đường khó hơn, và thật sự là của bạn.</item>
+        <item>Người bạn ngưỡng mộ lúc này cũng sẽ nói không.</item>
+        <item>Bạn sống trong cuộc đời mình, không phải trong ứng dụng.</item>
+        <item>Thời gian của bạn, đầu óc của bạn, lựa chọn của bạn.</item>
+        <item>Bạn đang giữ lời với chính mình. Điều đó có ý nghĩa.</item>
+        <item>Không ai giữ gìn sự chú ý thay cho bạn được.</item>
+        <item>Bạn đã chứng tỏ mình có thể đổi hướng.</item>
+        <item>Tự chủ là thế này: quyết định từ trước, không phải theo cơn thôi thúc.</item>
+        <item>Bạn đang xây dựng một con người mà bạn tôn trọng.</item>
+        <item>Đây là phiên bản biết lên kế hoạch của bạn.</item>
+        <item>Bạn không tình cờ rơi vào đây. Chính bạn đã dựng nên nó.</item>
+        <item>Lời bạn hứa với chính mình là có giá trị.</item>
+        <item>Bạn có chính kiến về cách dùng một ngày của mình.</item>
+        <item>Ứng dụng không hiểu bạn. Bạn mới hiểu mình.</item>
+        <item>Bạn đang hành động như người làm chủ cuộc đời mình.</item>
+        <item>Sống nhất quán với quyết định của mình chính là tự do.</item>
+        <item>Ở đây, bạn là người đặt ra luật chơi.</item>
+        <item>Đây là bạn đang chăm sóc chính mình.</item>
+        <item>Bạn không bị nhốt. Bạn đang được bảo vệ.</item>
+        <item>Mong muốn thay đổi của bạn có từ lâu hơn cơn thôi thúc này.</item>
+        <item>Bạn đã là người mà bạn đang cố trở thành.</item>
+        <item>Quyết định khó đã được đưa ra rồi. Lần này chỉ là phần dễ.</item>
+        <item>Bạn đang làm chủ, và thời nay điều đó thật hiếm.</item>
+        <item>Không ai cần biết. Đây là chuyện giữa bạn và chính bạn.</item>
+        <item>Bạn xứng đáng được tin vào lời của chính mình.</item>
+        <item>Lựa chọn này mang tên bạn.</item>
+        <item>Bạn đã trở thành kiểu người quyết định từ trước.</item>
+        <item>Đây không phải từ bỏ. Đây là chọn một điều khác.</item>
+        <item>Bạn có một hướng đi. Màn hình này chỉ về phía đó.</item>
+        <item>Tự do thật sự là không bị lôi kéo suốt ngày.</item>
+        <item>Chính bạn định giá cho sự chú ý của mình.</item>
+        <item>Mỗi lời từ chối ở đây là một lời đồng ý cho điều khác của bạn.</item>
+        <item>Bạn đang trung thành với kế hoạch mình đã lập bằng cả sự trân trọng.</item>
+        <item>Làm chủ bản thân thì vất vả, nhưng đáng.</item>
+        <item>Bạn đã thừa nhận mình muốn thay đổi. Đó đã là phần khó rồi.</item>
+        <item>Tối nay, người trong gương sẽ thấy vui vì điều này.</item>
+        <item>Bạn chẳng nợ thuật toán điều gì.</item>
+        <item>Cuộc sống của bạn không phải nội dung của ai cả.</item>
+        <item>Bạn đang ở đúng nơi mình đã quyết định.</item>
+        <item>Giới hạn bạn tự đặt cho mình là giới hạn tôn trọng nhất.</item>
+        <item>Bạn có một dự định cho cuộc đời lớn hơn màn hình này.</item>
+        <item>Đây là sự trưởng thành đang diễn ra ngay lúc này.</item>
+        <item>Bạn đang chăm lo cho tương lai mà không hề nhận ra.</item>
+        <item>Mỗi lựa chọn như thế lại mài giũa con người bạn.</item>
+        <item>Bạn không cần giải thích vì sao mình không mở.</item>
+        <item>Cam kết của bạn là với chính bạn, không phải với ứng dụng.</item>
+        <item>Bạn đã chọn đúng vào lúc không bị cơn muốn chi phối.</item>
+        <item>Đây là cuộc đời bạn, do chính bạn cầm lái.</item>
+        <item>Bạn đã thành người khó bị thao túng.</item>
+        <item>Sự chú ý của bạn có chủ, và người chủ ấy đang tỉnh táo.</item>
+        <item>Bạn vừa hành động như một người biết chăm sóc bản thân.</item>
+        <item>Kế hoạch là của bạn. Và lúc này nó đang vận hành tốt.</item>
+        <item>Bạn là tổng của những lựa chọn nhỏ.</item>
+        <item>Không ai lấy đi được tiếng nói cuối cùng của bạn.</item>
+        <item>Bạn là người có quyền quyết định thời gian của mình.</item>
+        <item>Nó hiệu quả vì bạn muốn nó hiệu quả.</item>
+        <item>Bạn lớn hơn thói quen đang muốn lớn hơn bạn.</item>
+        <item>Thêm một lần nữa. Con số cứ thế lớn dần.</item>
+        <item>Nhỏ mà đều đặn thắng lớn mà hiếm hoi.</item>
+        <item>Bạn vừa ghi thêm một điểm.</item>
+        <item>Không ai thay đổi ngay một lúc. Người ta thay đổi qua những ngày như hôm nay.</item>
+        <item>Đây là một phần nghìn của một cuộc sống khác.</item>
+        <item>Một ngày tốt chưa đổi được gì. Một trăm ngày tốt đổi được tất cả.</item>
+        <item>Bạn đang tạo nên một chuỗi ngày liền mạch.</item>
+        <item>Từ bên trong, tiến bộ hiếm khi trông giống tiến bộ.</item>
+        <item>Tổng những lựa chọn này lớn hơn từng lựa chọn riêng lẻ.</item>
+        <item>Sự đều đặn thì nhàm chán, nhưng hiệu quả.</item>
+        <item>Thêm một viên đá cho bức tường.</item>
+        <item>Bạn đang rèn luyện một điều sẽ ở lại lâu dài.</item>
+        <item>Lặp lại đủ nhiều, việc này sẽ thành tự nhiên.</item>
+        <item>Không ai thấy chiến thắng này, nhưng nó vẫn có giá trị như thường.</item>
+        <item>Chỉ vài tuần nữa thôi, bạn sẽ chẳng còn thấy muốn.</item>
+        <item>Hôm nay có ý nghĩa. Ngày mai cũng sẽ vậy.</item>
+        <item>Một sợi xích được làm từ những mắt xích như thế này.</item>
+        <item>Thói quen mới đang được viết nên ngay lúc này.</item>
+        <item>Mỗi lần lặp lại nới lỏng thêm một chút thói quen cũ.</item>
+        <item>Bạn từng làm được điều này. Hãy làm lại lần nữa.</item>
+        <item>Chậm rãi là tốc độ của những điều bền lâu.</item>
+        <item>Sự thay đổi diễn ra ở nơi mắt không nhìn thấy.</item>
+        <item>Bạn đang tích lũy một thứ vô hình nhưng có thật.</item>
+        <item>Thêm một ngày đi đúng hướng.</item>
+        <item>Kết quả đến sau. Lựa chọn là hôm nay.</item>
+        <item>Từng lựa chọn một, đó là cách làm.</item>
+        <item>Bạn đã gần hơn so với hôm qua.</item>
+        <item>Không cần hoàn hảo. Chỉ cần thường xuyên.</item>
+        <item>Đường cong đi lên chậm, rồi sau đó đi lên rất nhanh.</item>
+        <item>Bạn đang ở giữa quá trình. Quá trình vốn là như vậy.</item>
+        <item>Mỗi lời từ chối nhỏ dựng nên một lời đồng ý lớn.</item>
+        <item>Chẳng có gì kịch tính ở đây cả. Chính vì thế mà nó hiệu quả.</item>
+        <item>Con đường được làm nên từ những bước chân như thế này.</item>
+        <item>Bạn đang tạo ra một nếp sinh hoạt mới.</item>
+        <item>Một tháng nữa, việc này sẽ thấy dễ dàng.</item>
+        <item>Lặp lại là thứ biến quyết định thành tính cách.</item>
+        <item>Bạn vừa củng cố con đường mới.</item>
+        <item>Trọn vẹn một trăm phần trăm dễ hơn chín mươi tám.</item>
+        <item>Hôm nay đừng làm đứt chuỗi.</item>
+        <item>Bạn đang làm phần nhàm chán, cũng là phần quan trọng nhất.</item>
+        <item>Mình không cảm nhận được sự thay đổi. Mình chỉ thấy nó về sau.</item>
+        <item>Thêm một viên gạch đã được đặt.</item>
+        <item>Bạn đang dạy bộ não mong đợi một điều khác.</item>
+        <item>Tiếp tục chính là toàn bộ bí quyết.</item>
+        <item>Cộng lại thì không chiến thắng nào như thế là nhỏ.</item>
+        <item>Bạn không cần chạy. Chỉ cần đừng dừng lại.</item>
+        <item>Việc này đã dễ hơn rồi, mà bạn còn chưa để ý.</item>
+        <item>Một tuần như vậy đã đủ thay đổi ngày của bạn.</item>
+        <item>Bạn đang mở ra một lối đi mới trong đầu.</item>
+        <item>Lần nào cũng có ý nghĩa, kể cả khi có vẻ không.</item>
+        <item>Không ai vỗ tay, nhưng mọi thứ đang có hiệu quả.</item>
+        <item>Sự tích lũy diễn ra lặng lẽ và không gì cản nổi.</item>
+        <item>Bạn đã vững vàng hơn tháng trước ở chuyện này.</item>
+        <item>Một lựa chọn tốt hôm nay giúp lựa chọn ngày mai dễ hơn.</item>
+        <item>Sự kiên trì nhìn từ bên trong trông như thế này đây.</item>
+        <item>Thêm một ngày lợi thế được tích góp.</item>
+        <item>Bạn đang trên đường, và con đường thì dài. Không sao cả.</item>
+        <item>Điều gì lặp lại rồi cũng sẽ trở nên dễ dàng.</item>
+        <item>Bạn vừa củng cố con người mà bạn đang trở thành.</item>
+        <item>Hôm nay cán cân nghiêng về phía bạn.</item>
+        <item>Những bước tiến nhỏ cứ thế cộng dồn mà chẳng cần xin phép.</item>
+        <item>Không phải chuyện của hôm nay. Mà là chuyện của tổng cộng.</item>
+        <item>Bạn đang làm phần việc không ai nhìn thấy.</item>
+        <item>Cứ đi tiếp. Không có bí mật nào khác đâu.</item>
+        <item>Mỗi ngày như thế lại trút bớt một chút gánh nặng.</item>
+        <item>Thói quen cũ đang dần mất chỗ đứng.</item>
+        <item>Bạn đang tưới cho một hạt mầm chưa nhú.</item>
+        <item>Sự thay đổi đang diễn ra, dù trông chưa giống vậy.</item>
+        <item>Thêm một lần. Xưa nay vẫn chỉ có thế.</item>
+        <item>Bạn đang dành dụm một kho những ngày tốt đẹp.</item>
+        <item>Lâu dần, chuyện này sẽ thành bình thường.</item>
+        <item>Bạn vừa chọn lại lần nữa. Và lần này cũng có ý nghĩa.</item>
+        <item>Một tháng như thế, bạn sẽ là một con người khác.</item>
+        <item>Công sức hôm nay sẽ qua đi. Thành quả thì ở lại.</item>
+        <item>Bạn không còn là người lúc mới bắt đầu nữa.</item>
+        <item>Làm đều đặn quý hơn làm thật nhiều.</item>
+        <item>Mỗi ngày là một lá phiếu cho con người bạn muốn trở thành.</item>
+        <item>Bạn đang để thói quen mới lấn dần chỗ đứng.</item>
+        <item>Không cần phải anh hùng. Chỉ cần nó diễn ra.</item>
+        <item>Bạn vừa làm vững thêm con đường đúng đắn.</item>
+        <item>Lặp lại là cách bộ não học mọi thứ.</item>
+        <item>Hôm nay cộng với hôm qua đã là nhiều rồi.</item>
+        <item>Bạn đang làm tốt, kể cả khi không cảm thấy vậy.</item>
+        <item>Tiến bộ nằm trong những lần lặp lại tẻ nhạt.</item>
+        <item>Thêm một bước ngắn trên chặng đường dài.</item>
+        <item>Bạn đang biến điều này thành lẽ tự nhiên.</item>
+        <item>Một việc tốt làm nhiều lần là thứ còn đọng lại.</item>
+        <item>Sức mạnh đến từ việc làm lại, không phải từ việc làm thật mạnh.</item>
+        <item>Bạn vừa rút ngắn con đường của ngày mai.</item>
+        <item>Thêm một lần. Chỉ thế. Và thế là đủ.</item>
+        <item>Bạn đang để lại một vệt dài những quyết định đúng.</item>
+        <item>Sự bền bỉ biến nỗ lực thành bản sắc.</item>
+        <item>Mỗi ngày đều được tính trọn là một ngày.</item>
+        <item>Bạn đang chơi một ván dài, và bạn đang thắng.</item>
+        <item>Điều này sẽ thành con người bạn lúc nào không hay.</item>
+        <item>Khoản đầu tư tốt nhất trong ngày vừa được thực hiện.</item>
+        <item>Bạn vừa giữ vững được nhịp của mình.</item>
+        <item>Sự liên tục còn hiếm hơn cả tài năng.</item>
+        <item>Thay đổi thật sự luôn chậm, và luôn đáng giá.</item>
+        <item>Thêm một lựa chọn hướng về cuộc sống của bạn.</item>
+        <item>Đôi mắt bạn cảm ơn lần nghỉ này.</item>
+        <item>Đứng dậy và vươn vai. Cơ thể đang cần điều đó, chứ không phải màn hình.</item>
+        <item>Hít thở thật sâu. Chỉ vậy thôi đã khác đi rồi.</item>
+        <item>Uống chút nước. Có lẽ đó là thứ bạn đang thiếu.</item>
+        <item>Cổ bạn nghiêng lệch một lúc rồi. Thẳng lại nào.</item>
+        <item>Giấc ngủ đêm nay bắt đầu từ màn hình lúc này.</item>
+        <item>Ngủ ngon là việc năng suất nhất trên đời.</item>
+        <item>Cơ thể bạn đã ngồi yên quá lâu.</item>
+        <item>Nhìn ra xa trong hai mươi giây. Mắt sẽ được thư giãn.</item>
+        <item>Một cuộc đi bộ ngắn đổi tâm trạng nhiều hơn mọi bảng tin.</item>
+        <item>Cái mệt bạn đang thấy có khi chỉ là do màn hình.</item>
+        <item>Khi đầu óc đòi lướt, cơ thể lại đang cần vận động.</item>
+        <item>Không khí trong lành giải quyết những điều màn hình không giải quyết được.</item>
+        <item>Hạ vai xuống. Thả lỏng quai hàm.</item>
+        <item>Bạn đang gồng vai mà không nhận ra.</item>
+        <item>Mười phút nắng trên da đáng giá lắm.</item>
+        <item>Cơ thể nghỉ ngơi khi nằm xuống, không phải khi lướt.</item>
+        <item>Ngủ sớm tối nay là món quà cho ngày mai.</item>
+        <item>Tư thế của bạn đã đổi trong hai mươi phút qua. Chỉnh lại nhé.</item>
+        <item>Mệt vì màn hình không phải mệt thật. Đó là một thứ khác.</item>
+        <item>Giơ tay lên. Duỗi ra. Đấy, dễ chịu hơn rồi.</item>
+        <item>Khi lướt, bạn chớp mắt ít hơn. Chớp mắt đi nào.</item>
+        <item>Cơ thể vận hành tốt hơn với những quãng nghỉ thật sự.</item>
+        <item>Một vòng quanh khu phố giúp đầu óc thoáng ra.</item>
+        <item>Cột sống của bạn sẽ thích lần gián đoạn này.</item>
+        <item>Nghỉ ngơi khác với xao nhãng.</item>
+        <item>Giấc ngủ chập chờn đêm qua bắt đầu từ một màn hình như thế này.</item>
+        <item>Nghiêng cổ sang hai bên. Chỉ mất mười giây.</item>
+        <item>Vận động xua lo âu tốt hơn nội dung.</item>
+        <item>Cơ thể là ngôi nhà duy nhất bạn có.</item>
+        <item>Nước, ánh sáng và vận động. Gần như lúc nào cũng là vậy.</item>
+        <item>Màn hình làm bạn mệt, kể cả khi trông như đang nghỉ.</item>
+        <item>Nhắm mắt lại một lát. Chỉ thế thôi.</item>
+        <item>Bạn đang thở nông. Hãy hít sâu ba lần.</item>
+        <item>Một lần tắm giải quyết được nhiều chuyện hơn bạn nghĩ.</item>
+        <item>Cơ thể bạn cứ ở mãi một chỗ nãy giờ.</item>
+        <item>Nghỉ ngơi thật sự thì không có màn hình.</item>
+        <item>Hai mươi phút đi bộ thay đổi cả một ngày.</item>
+        <item>Đầu bạn nặng trĩu vì cơ thể không được cử động.</item>
+        <item>Mắt khô, vai cứng. Bạn để ý chưa?</item>
+        <item>Đứng dậy hai phút giúp bạn làm mới nhiều hơn một lần lướt.</item>
+        <item>Cơ thể cần ngủ, đầu óc lại đòi kích thích. Hãy nghe cơ thể.</item>
+        <item>Ánh sáng màn hình làm phiền giấc ngủ của bạn hàng giờ liền.</item>
+        <item>Duỗi chân ra. Nhanh mà hiệu quả.</item>
+        <item>Bạn xứng đáng có một quãng nghỉ thật sự giúp mình khỏe lại.</item>
+        <item>Vận động là liều thuốc tinh thần rẻ nhất trên đời.</item>
+        <item>Cơ thể bạn sẽ nhớ giấc ngủ đêm nay.</item>
+        <item>Thở chậm làm bạn bình tâm nhanh hơn bất kỳ video nào.</item>
+        <item>Bạn đang đói hay đang chán? Thử xem là cái nào.</item>
+        <item>Cơ thể hồi phục khi đầu óc được dừng lại.</item>
+        <item>Hai mươi giây nhìn ra cửa sổ.</item>
+        <item>Cổ tay và ngón cái của bạn cần được nghỉ.</item>
+        <item>Mệt mỏi vì màn hình tan biến khi bạn bước đi.</item>
+        <item>Giấc ngủ là lúc trí nhớ được sắp xếp lại. Hãy giữ gìn nó.</item>
+        <item>Bạn cần ít kích thích hơn, chứ không phải nhiều hơn.</item>
+        <item>Hai phút giãn cơ đáng giá hơn mười phút xem video.</item>
+        <item>Cơ thể bạn đang gửi tín hiệu ngay lúc này.</item>
+        <item>Không khí, nước và vận động. Công thức vẫn thế.</item>
+        <item>Nằm xuống sàn một phút. Thật đấy.</item>
+        <item>Màn hình giữ bạn thức khi bạn cần đi ngủ.</item>
+        <item>Cơ thể muốn nghỉ, bàn tay lại muốn màn hình. Hãy chọn nghỉ.</item>
+        <item>Đôi mắt bạn đã làm việc từ sáng sớm.</item>
+        <item>Một đêm ngủ ngon có thể đổi cả thế giới.</item>
+        <item>Đứng lên. Chỉ cần đứng lên. Vậy là đủ rồi.</item>
+        <item>Nhờ lựa chọn này, bạn sẽ ngủ ngon hơn.</item>
+        <item>Cơ thể biết ơn những điều đầu óc thấy nhàm chán.</item>
+        <item>Duỗi lưng một chút. Lưng bạn đang mong lắm.</item>
+        <item>Nghỉ ngơi thật là yên lặng, không phải thêm một kích thích khác.</item>
+        <item>Cơ thể bạn có nhịp riêng, còn màn hình thì phớt lờ nó.</item>
+        <item>Nhìn về phía chân trời. Mắt cần những khoảng xa.</item>
+        <item>Cơn căng ở quai hàm sẽ không hết bằng cách lướt.</item>
+        <item>Bạn ngồi đây bao lâu rồi nhỉ?</item>
+        <item>Vận động mang lại sự sáng suốt. Từ trước đến nay vẫn vậy.</item>
+        <item>Uống nước trước khi quyết định bất cứ điều gì.</item>
+        <item>Giấc ngủ đã mất không bù lại được bằng nội dung.</item>
+        <item>Cơ thể bạn vận hành tốt khi bạn để nó làm việc của mình.</item>
+        <item>Một giấc chợp mắt ngắn bổ ích hơn một giờ lướt bảng tin.</item>
+        <item>Hít thở sâu thì miễn phí và có tác dụng ngay.</item>
+        <item>Màn hình làm cơ thể co cứng mà không báo trước.</item>
+        <item>Bạn đang mệt hơn mức cần thiết.</item>
+        <item>Đứng dậy và nhìn ra cửa sổ. Năm giây thôi.</item>
+        <item>Cơ thể bạn không tiến hóa để ngồi yên nhìn vào ánh sáng.</item>
+        <item>Duỗi các ngón tay ra. Hôm nay chúng làm việc nhiều rồi.</item>
+        <item>Buổi tối dễ chịu hơn khi không có màn hình trước giờ ngủ.</item>
+        <item>Màn hình không mang lại sự nghỉ ngơi.</item>
+        <item>Cơ thể bạn cần thiên nhiên, nhưng lại nhận về điểm ảnh.</item>
+        <item>Một cốc nước và ba hơi thở. Làm ngay nhé.</item>
+        <item>Vai căng là do cách bạn cầm điện thoại.</item>
+        <item>Cơ thể thả lỏng khi sự chú ý thôi chạy vội.</item>
+        <item>Năm phút nữa bạn sẽ thấy khá hơn.</item>
+        <item>Vận động thay đổi cả hóa học trong người. Màn hình chỉ đổi chủ đề.</item>
+        <item>Đôi mắt bạn xứng đáng được nghỉ ngơi thật sự.</item>
+        <item>Đi bộ sắp xếp suy nghĩ tốt hơn đọc bảng tin.</item>
+        <item>Ánh sáng xanh lúc này là giấc ngủ kém về sau.</item>
+        <item>Bạn cần nghỉ ngơi, không cần thêm thông tin.</item>
+        <item>Hai hơi thở sâu trước khi làm bất cứ điều gì.</item>
+        <item>Cơ thể bạn khôn ngoan hơn cơn thôi thúc.</item>
+        <item>Đứng dậy và đi xuống bếp. Thế là đủ.</item>
+        <item>Cho cơ thể nghỉ, đầu óc cũng được nghỉ theo.</item>
+        <item>Ngay lúc này có những con người bằng xương bằng thịt ở gần bạn.</item>
+        <item>Một cuộc trò chuyện đáng giá hơn ba trăm bài đăng.</item>
+        <item>Gọi cho ai đó đi. Gọi thoại hẳn hoi.</item>
+        <item>Người bạn thương chỉ cách bạn một tin nhắn.</item>
+        <item>Những người trên bảng tin không biết bạn tồn tại.</item>
+        <item>Người đang ở cùng phòng với bạn xứng đáng được nhiều hơn.</item>
+        <item>Một cái ôm làm được điều không video nào làm được.</item>
+        <item>Nhắn tin cho người mà dạo này bạn hay quên.</item>
+        <item>Mẹ bạn sẽ vui nếu hôm nay nhận được một cuộc gọi.</item>
+        <item>Đời thực có những người trả lời bạn thật lòng.</item>
+        <item>Người bạn lâu rồi không gặp vẫn có thể quay lại. Hãy rủ nhé.</item>
+        <item>Sự hiện diện là thứ hiếm hoi nhất bạn có thể trao.</item>
+        <item>Có ai đó đang chờ bạn ngẩng đầu lên.</item>
+        <item>Một câu hỏi hay đáng giá hơn một giờ lướt màn hình.</item>
+        <item>Những người quanh bạn không vận hành bằng thuật toán.</item>
+        <item>Có một cuộc trò chuyện đang diễn ra mà bạn đang bỏ lỡ.</item>
+        <item>Không ai trên bảng tin sẽ ở đó khi bạn cần.</item>
+        <item>Một ly cà phê với ai đó thay đổi cả tuần nhiều hơn bất kỳ bảng tin nào.</item>
+        <item>Có bạn bên cạnh là một món quà. Hãy trao nó đi.</item>
+        <item>Hãy nhìn người đang ở bên bạn.</item>
+        <item>Tình bạn cần được tưới. Hôm nay hãy tưới nhé.</item>
+        <item>Người bên cạnh bạn là thật.</item>
+        <item>Người thương bạn không cần lượt thích.</item>
+        <item>Bạn có nhớ lần cuối mình trò chuyện thật lâu là khi nào không?</item>
+        <item>Rủ ai đó đi dạo cùng.</item>
+        <item>Những kỷ niệm đẹp nhất hiếm khi có màn hình.</item>
+        <item>Lúc này bạn đang là người bầu bạn của ai đó.</item>
+        <item>Gửi một tin nhắn thoại cho người bạn thương.</item>
+        <item>Con người thay đổi khi bạn thật sự để tâm đến họ.</item>
+        <item>Hôm nay sự có mặt của bạn quý giá với một ai đó.</item>
+        <item>Một cuộc trò chuyện vui khiến bạn thấy tốt hơn. Bảng tin thì không.</item>
+        <item>Ai đó cần biết rằng bạn đã nhớ đến họ.</item>
+        <item>Hãy gặp ai đó thay vì chỉ theo dõi họ.</item>
+        <item>Những mối gắn bó bền chặt được làm nên từ thời gian bên nhau.</item>
+        <item>Bạn có thể là lý do cho một ngày vui của ai đó.</item>
+        <item>Người thân mà mấy tháng nay bạn chưa trò chuyện.</item>
+        <item>Một tin nhắn chân thành đáng giá hơn nghìn lượt xem.</item>
+        <item>Ở bên nhau khác với kết nối mạng.</item>
+        <item>Người sống cùng bạn xứng đáng có trọn vẹn bạn.</item>
+        <item>Mời ai đó ăn tối.</item>
+        <item>Người thật có gương mặt, giọng nói và thời gian có hạn.</item>
+        <item>Với ai đó, bạn là không thể thay thế. Hãy xuất hiện.</item>
+        <item>Cuộc trò chuyện quan trọng nhất trong ngày của bạn vẫn chưa diễn ra.</item>
+        <item>Gần bạn cũng có ai đó đang rời màn hình.</item>
+        <item>Lắng nghe ai đó là cách dễ nhất để được quý mến.</item>
+        <item>Người bạn ấy đang gặp chuyện. Hãy hỏi thăm.</item>
+        <item>Con bạn, chú chó của bạn, hàng xóm của bạn. Luôn có ai đó ở đây.</item>
+        <item>Mạng xã hội nối bạn với rất nhiều người, mà chẳng với ai cả.</item>
+        <item>Một buổi chiều bên ai đó bằng cả tháng lướt bảng tin.</item>
+        <item>Hôm nay bạn có thể làm ai đó bật cười. Thật sự.</item>
+        <item>Sự hiện diện trọn vẹn cực kỳ hiếm. Bạn đang có một để trao.</item>
+        <item>Tuần này có người đã nhắc đến bạn. Hãy đáp lại.</item>
+        <item>Bảng tin chẳng hề nhớ đến bạn.</item>
+        <item>Một cuộc gọi năm phút có thể đổi cả ngày của ai đó.</item>
+        <item>Những người quan trọng không đăng bài về chuyện đó.</item>
+        <item>Chỉ một câu hỏi thôi là bắt đầu một cuộc trò chuyện hay.</item>
+        <item>Bầu bạn thật thì không có quảng cáo chen giữa.</item>
+        <item>Người luôn ủng hộ bạn. Hôm nay hãy cảm ơn họ.</item>
+        <item>Nhìn vào mắt nhau vẫn là công nghệ tốt nhất.</item>
+        <item>Gia đình bạn không phải bảng tin. Đừng lướt qua họ.</item>
+        <item>Rủ ai đó cùng nhau chẳng làm gì cả.</item>
+        <item>Người ở xa cũng xứng đáng được nghe tin bạn.</item>
+        <item>Ngoài kia có những người quý mến bạn.</item>
+        <item>Một cuộc nói chuyện khó bị trì hoãn còn nặng hơn bảng tin.</item>
+        <item>Hãy trân trọng những người ở gần khi họ còn ở đó.</item>
+        <item>Người ta nhớ những ai đã có mặt.</item>
+        <item>Rủ một người bạn đi cà phê, chẳng cần lý do.</item>
+        <item>Ở đâu đó có người muốn biết tin bạn.</item>
+        <item>Lúc này bạn có thể thật sự lắng nghe một ai đó.</item>
+        <item>Sự gắn kết được xây bằng ánh nhìn, không phải bằng những lần lướt.</item>
+        <item>Sự chú ý của bạn là món quà quý nhất cho người bạn thương.</item>
+        <item>Một con người đáng giá hơn một trang hồ sơ.</item>
+        <item>Cuộc trò chuyện bạn còn nợ ai đó. Hôm nay là lúc.</item>
+        <item>Sẵn lòng có mặt là một cách để yêu thương.</item>
+        <item>Giờ bạn đã có thời gian dành cho một ai đó.</item>
+        <item>Chẳng ai rời cõi đời mà ước có thêm người theo dõi.</item>
+        <item>Hãy gặp lại ai đó thay vì dõi theo từ xa.</item>
+        <item>Đôi khi sự thương mến cần được nói thành lời.</item>
+        <item>Nhóm bạn quen thuộc vẫn còn đó. Gọi họ đi.</item>
+        <item>Người bên cạnh bạn đang muốn trò chuyện.</item>
+        <item>So sánh không phải là gắn kết.</item>
+        <item>Hôm nay bạn có thể thật sự có mặt.</item>
+        <item>Một mẩu giấy viết tay. Ý hay đấy chứ.</item>
+        <item>Người thật sự hiểu bạn không ở trên bảng tin.</item>
+        <item>Chia sẻ buổi chiều này với ai đó.</item>
+        <item>Những người ở gần xứng đáng nhận điều bạn đang trao cho bảng tin.</item>
+        <item>Bạn quan trọng với một người chẳng bao giờ đăng bài.</item>
+        <item>Gọi điện và hỏi xem người ấy thật sự thế nào.</item>
+        <item>Nỗi cô đơn không vơi đi nhờ thêm màn hình.</item>
+        <item>Hôm nay hãy xích lại gần một ai đó.</item>
+        <item>Một bữa ăn cùng nhau đáng giá cả buổi chiều.</item>
+        <item>Sự chú ý nuôi dưỡng các mối quan hệ. Hãy nuôi dưỡng một mối.</item>
+        <item>Ngay lúc này có người đang nghĩ về bạn.</item>
+        <item>Hãy nói với ai đó rằng bạn quý họ.</item>
+        <item>Tình bạn phai đi vì im lặng, không phải vì cãi nhau.</item>
+        <item>Quanh bạn có những người tốt. Hãy tận hưởng.</item>
+        <item>Có ai đó cần người bầu bạn, và bạn có thể là người ấy.</item>
+        <item>Rời bảng tin và đi gặp mọi người.</item>
+        <item>Người thương bạn muốn thời gian của bạn, không phải trang cá nhân.</item>
+        <item>Chỉ năm phút, bạn có thể làm ngày của ai đó tốt hơn.</item>
+        <item>Sáng tạo thì mệt nhưng đầy đặn. Tiêu thụ thì nhàn nhưng trống rỗng.</item>
+        <item>Bạn có nhiều điều để nói hơn là để xem.</item>
+        <item>Có người đang tạo ra thứ bạn định xem.</item>
+        <item>Viết một dòng. Chỉ một thôi.</item>
+        <item>Thế giới có quá nhiều người xem và quá ít người làm.</item>
+        <item>Ý tưởng ấy của bạn vẫn đang chờ.</item>
+        <item>Bạn có thể làm ra một thứ thay vì ngắm thứ người khác đã làm.</item>
+        <item>Mọi thứ hay ho đều do người không mải lướt làm ra.</item>
+        <item>Ý tưởng của bạn đáng giá hơn toàn bộ bảng tin hôm nay.</item>
+        <item>Bắt đầu việc bạn hay trì hoãn. Năm phút là đủ.</item>
+        <item>Dự án đang dừng chỉ cần một cú đẩy.</item>
+        <item>Bạn có tài ở những việc khác ngoài lướt màn hình.</item>
+        <item>Hôm nay hãy làm ra một thứ hôm qua chưa có.</item>
+        <item>Sáng tạo vui hơn ngồi xem, chỉ có bước đầu là khó.</item>
+        <item>Cuốn sổ trắng kia không cắn bạn đâu.</item>
+        <item>Nội dung hay nhất là thứ do bạn làm ra.</item>
+        <item>Bạn học được nhiều hơn khi bắt tay làm thay vì ngồi xem.</item>
+        <item>Chơi một nhạc cụ, vẽ, nấu ăn. Làm gì đó bằng đôi tay.</item>
+        <item>Sự sáng tạo biến mất khi đầu bạn đầy ắp bảng tin.</item>
+        <item>Có một tác phẩm của riêng bạn mà chưa ai làm ra.</item>
+        <item>Cứ bắt đầu dở cũng được. Rồi sẽ khá lên.</item>
+        <item>Mỗi ngày một đoạn văn rồi sẽ thành một cuốn sách.</item>
+        <item>Bạn có một câu chuyện để kể.</item>
+        <item>Bắt tay làm là liều thuốc giải cho sự trống rỗng.</item>
+        <item>Buồn chán là khởi đầu của sáng tạo. Cứ để nó ở đó.</item>
+        <item>Đầu óc bạn bắt đầu nghĩ ra điều mới khi bạn thôi nhồi nhét nó.</item>
+        <item>Khóa học bạn đã đóng tiền vẫn đang chờ.</item>
+        <item>Hôm nay bạn hoàn toàn có thể học một điều mới.</item>
+        <item>Tiêu thụ thì dễ. Vì thế nó mới ít thỏa mãn đến vậy.</item>
+        <item>Bạn muốn làm một điều gì đó. Bắt đầu ngay đi.</item>
+        <item>Năm phút luyện tập đáng giá hơn một giờ xem video.</item>
+        <item>Món ăn bạn vẫn muốn nấu thử.</item>
+        <item>Ý tưởng đến trong im lặng, không đến khi bạn lướt.</item>
+        <item>Bạn có thể là tác giả thay vì khán giả.</item>
+        <item>Một dự án nhỏ có thể đổi cả tuần.</item>
+        <item>Viết ra điều bạn sẽ làm nếu có thời gian. Bạn có rồi đấy.</item>
+        <item>Đôi tay bạn biết làm nhiều thứ. Hãy dùng đến chúng.</item>
+        <item>Hôm nay hãy làm một thứ chưa hoàn hảo.</item>
+        <item>Học hỏi thú vị hơn được giải trí.</item>
+        <item>Thứ bạn tạo ra sẽ ở lại. Thứ bạn lướt qua sẽ biến mất.</item>
+        <item>Cây đàn đang nằm im trong góc nhà.</item>
+        <item>Một dự án dở dang đang chờ bạn quay lại.</item>
+        <item>Sáng tạo là điều ngược lại với so sánh mình với người khác.</item>
+        <item>Bắt đầu từ việc nhỏ. Bắt đầu từ hôm nay.</item>
+        <item>Mỗi ngày một trang là một cuộc sống khác.</item>
+        <item>Trí tưởng tượng của bạn cần khoảng trống.</item>
+        <item>Làm một điều mà ngày mai bạn sẽ thấy tự hào.</item>
+        <item>Niềm vui sáng tạo không gì thay thế được.</item>
+        <item>Bạn làm được nhiều hơn là chỉ tiêu thụ.</item>
+        <item>Sở thích bị bỏ dở ấy vẫn còn đó.</item>
+        <item>Hai mươi phút luyện tập là hai mươi phút tiến bộ.</item>
+        <item>Chẳng ai giỏi lên được điều gì nhờ lướt bảng tin.</item>
+        <item>Kỹ năng mới của bạn rồi sẽ bắt đầu vào lúc nào đó. Hãy để lúc đó là bây giờ.</item>
+        <item>Cứ làm đi, dù chẳng ai nhìn thấy.</item>
+        <item>Có một điều bạn muốn học. Bắt đầu thôi.</item>
+        <item>Tiêu thụ là ngồi xem cuộc sống của người khác.</item>
+        <item>Bạn có đôi tay, khối óc và thời gian. Đó là tất cả những gì cần có.</item>
+        <item>Bản nháp đầu tiên lúc nào cũng dở. Cứ viết nó ra.</item>
+        <item>Ngôn ngữ mà bạn từng muốn nói được.</item>
+        <item>Sáng tạo là cách buồn chán hóa thành niềm vui.</item>
+        <item>Mỗi ngày một chút là đủ xây nên mọi kỹ năng.</item>
+        <item>Trong bạn có điều gì đó đang muốn được nói ra.</item>
+        <item>Viết về ngày hôm nay của bạn. Chỉ cho riêng bạn.</item>
+        <item>Sự sáng tạo của bạn đang chờ bạn tắt bớt tiếng ồn.</item>
+        <item>Hôm nay hãy để đôi tay bận rộn với một việc gì đó.</item>
+        <item>Niềm vui khi làm xong một việc không giống bất cứ điều gì.</item>
+        <item>Dự án từng khiến bạn háo hức. Nó vẫn có thể làm bạn háo hức.</item>
+        <item>Bạn không cần giỏi mới được bắt đầu.</item>
+        <item>Nấu một món mới. Đó cũng là sáng tạo.</item>
+        <item>Cuộc sống thú vị hơn khi bạn bắt tay làm điều gì đó.</item>
+        <item>Không ai sinh ra đã biết. Ai cũng khởi đầu vụng về.</item>
+        <item>Ý tưởng lúc nửa đêm ấy. Ghi lại đi.</item>
+        <item>Những gì bạn biết làm có thể giúp ích cho ai đó.</item>
+        <item>Hôm nay làm một chút, ngày mai làm thêm một chút.</item>
+        <item>Thời điểm tốt nhất để bắt đầu đã qua. Thời điểm tốt thứ hai là bây giờ.</item>
+        <item>Tác phẩm của bạn sẽ không tự hoàn thành.</item>
+        <item>Luyện tập thì chán, cho đến khi bạn giỏi lên.</item>
+        <item>Bạn muốn sáng tạo. Bảng tin chỉ muốn bạn ngồi nhìn.</item>
+        <item>Bức vẽ bạn đã bắt đầu dang dở.</item>
+        <item>Bắt tay vào làm là cách học nhanh nhất.</item>
+        <item>Bạn có tiếng nói riêng. Hãy dùng nó cho điều gì đó.</item>
+        <item>Sửa một món đồ trong nhà cũng là sáng tạo.</item>
+        <item>Thành tựu tiếp theo của bạn bắt đầu từ một ngày bình thường như hôm nay.</item>
+        <item>Làm một điều chỉ bạn mới làm.</item>
+        <item>Bảng tin thì vô tận. Tác phẩm của bạn có hồi kết, và vì thế nó có ý nghĩa.</item>
+        <item>Hôm nay bạn có thể trồng một cái cây. Theo đúng nghĩa đen.</item>
+        <item>Bảng tính ấy, kế hoạch ấy, giấc mơ ấy.</item>
+        <item>Sáng tạo thì tốn công, và chính điều đó làm nó đáng giá.</item>
+        <item>Bạn thú vị hơn bất kỳ bảng tin nào.</item>
+        <item>Học hai mươi phút. Vừa ít mà cũng vừa nhiều.</item>
+        <item>Sự tò mò đẹp hơn khi trở thành hành động.</item>
+        <item>Bài hát mà bạn từng muốn học.</item>
+        <item>Làm một việc đơn giản và có ích ngay bây giờ.</item>
+        <item>Bạn có điều tốt đẹp để trao cho thế giới.</item>
+        <item>Hãy bắt đầu điều mà sau này bạn sẽ mừng vì đã bắt đầu.</item>
+        <item>Một dự án cá nhân thay đổi cách bạn sống với thời gian.</item>
+        <item>Sáng tạo là cách tốt nhất để đầu óc có việc làm.</item>
+        <item>Hôm nay bạn có thể hoàn thành một việc.</item>
+        <item>Hãy chạm tay vào một thứ có thật.</item>
+        <item>Không gì thay được cảm giác đã làm xong.</item>
+        <item>Đến được đây cũng không sao cả. Giờ hãy thở.</item>
+        <item>Không ai đếm gì cả. Cứ đi tiếp thôi.</item>
+        <item>Bạn đang tiến lên đấy, dù bề ngoài chưa thấy rõ.</item>
+        <item>Không vội, không áp lực. Chỉ là một quãng dừng.</item>
+        <item>Đây không phải bài kiểm tra. Chỉ là một lời nhắc nhẹ nhàng.</item>
+        <item>Bạn đang cố gắng, và thế là đủ rồi.</item>
+        <item>Mọi chuyện đều ổn. Đóng lại và tiếp tục ngày của bạn.</item>
+        <item>Ở đây không ai đòi bạn lúc nào cũng phải đúng.</item>
+        <item>Hôm nay bạn xứng đáng được nhẹ nhõm.</item>
+        <item>Không có gì to tát. Chỉ là một phút để thở.</item>
+        <item>Đây là một nơi yên bình. Ở lại một chút nhé.</item>
+        <item>Bạn đang làm hết sức mình. Như thế là quý rồi.</item>
+        <item>Ở đây không có trách móc. Chỉ có sự quan tâm.</item>
+        <item>Thở đi. Không có gì sai đang xảy ra cả.</item>
+        <item>Bạn đã đi được đến đây, vậy là tốt rồi.</item>
+        <item>Không ai phán xét cả. Bạn cũng đừng tự phán xét mình.</item>
+        <item>Mọi thứ đâu vào đấy. Cứ tiếp tục.</item>
+        <item>Từng bước một là nhịp vừa vặn.</item>
+        <item>Bạn không cần hoàn hảo trong chuyện này.</item>
+        <item>Đi chậm cũng là đang đi.</item>
+        <item>Màn hình này không đòi hỏi gì ở bạn.</item>
+        <item>Lúc này hãy dịu dàng với chính mình.</item>
+        <item>Thấy muốn cũng không sao. Đó là chuyện thường.</item>
+        <item>Bạn đang chăm sóc bản thân. Thật đẹp biết bao.</item>
+        <item>Không báo động, không vội vàng, không hoảng hốt.</item>
+        <item>Bạn là con người. Như vậy là được phép.</item>
+        <item>Không cần giải thích với ai cả.</item>
+        <item>Hít một hơi thật sâu. Qua rồi.</item>
+        <item>Ở đây bạn được an toàn.</item>
+        <item>Nếu hôm nay khó khăn, cũng không sao.</item>
+        <item>Không ngày nào giống ngày nào. Hôm nay cũng vậy.</item>
+        <item>Bạn vẫn đang trên đường, dù chậm rãi.</item>
+        <item>Hãy thôi tự ép mình một chút.</item>
+        <item>Mọi thứ vẫn ổn. Chỉ là một nhịp thở.</item>
+        <item>Bạn không cần lúc nào cũng phải ổn.</item>
+        <item>Dịu dàng với bản thân hiệu quả hơn khắt khe.</item>
+        <item>Khoảnh khắc này sẽ trôi qua êm đềm.</item>
+        <item>Hôm nay bạn đã làm xong phần khó rồi.</item>
+        <item>Không gì gấp. Không gì nghiêm trọng. Chỉ là nghỉ một chút.</item>
+        <item>Mỉm cười nào. Chuyện này nhỏ hơn bạn tưởng.</item>
+        <item>Bạn đang cố gắng, và đó mới là điều quan trọng.</item>
+        <item>Không phải báo cáo với ai. Cứ bước tiếp.</item>
+        <item>Ổn cả mà. Thật đấy.</item>
+        <item>Bạn xứng đáng có một ngày nhẹ nhàng.</item>
+        <item>Hít thở nào. Trái đất vẫn quay đều.</item>
+        <item>Hôm nay chẳng có gì phải vội.</item>
+        <item>Bạn thấy bình yên với lựa chọn này.</item>
+        <item>Bắt đầu lại bao nhiêu lần cũng được.</item>
+        <item>Đây là nơi không có áp lực.</item>
+        <item>Hãy kiên nhẫn với hành trình.</item>
+        <item>Bạn không hề chậm trễ điều gì.</item>
+        <item>Không được trọn vẹn một trăm phần trăm cũng chẳng sao.</item>
+        <item>Quãng nghỉ này là sự quan tâm, không phải lời sửa lưng.</item>
+        <item>Giờ bạn cứ thế mà đi tiếp.</item>
+        <item>Không căng thẳng. Chỉ một lát thôi.</item>
+        <item>Nếu đó chỉ là phản xạ tự động thì cũng không sao.</item>
+        <item>Bạn không cần lý do để thấy ổn.</item>
+        <item>Thở rồi đi tiếp. Đơn giản vậy thôi.</item>
+        <item>Ở đây không có vấn đề gì.</item>
+        <item>Bạn đang làm đúng.</item>
+        <item>Thật sự không sao đâu. Cứ thong thả mà đi.</item>
+        <item>Khoảnh khắc này là để bạn nghỉ ngơi.</item>
+        <item>Bạn không đơn độc trong chuyện này.</item>
+        <item>Mọi thứ yên ả. Tiếp tục ngày của bạn nhé.</item>
+        <item>Không nặng nề gì. Chỉ là một lời nhắc.</item>
+        <item>Bạn vốn đã đủ đầy.</item>
+        <item>Sự bình yên bạn tìm không nằm trên bảng tin.</item>
+        <item>Bạn hoàn toàn ổn.</item>
+        <item>Cho đầu óc nghỉ một giây.</item>
+        <item>Bạn xứng đáng được quan tâm như thế.</item>
+        <item>Không có gì cần giải quyết ngay lúc này.</item>
+        <item>Thở một hơi. Rồi bước tiếp.</item>
+        <item>Bạn ổn. Chỉ vậy.</item>
+        <item>Không áp lực, không sổ sách, không bảng điểm.</item>
+        <item>Một khoảnh khắc tĩnh lặng giữa ngày.</item>
+        <item>Bạn có thể đối xử tử tế với chính mình ngay lúc này.</item>
+        <item>Mọi thứ đều bình yên.</item>
+        <item>Chẳng cần vội chuyện gì.</item>
+        <item>Hôm nay bạn đã làm những gì mình có thể.</item>
+        <item>Không sao. Ngày mai lại tiếp.</item>
+        <item>Khoảnh khắc này chỉ dài bằng một hơi thở.</item>
+        <item>Bạn đang an toàn, và thế là đủ.</item>
+        <item>Ở đây không có sự phán xét nào.</item>
+        <item>Chỉ cần thở, rồi đi sống trọn vẹn.</item>
+        <item>Hôm nay bạn xứng đáng được thảnh thơi.</item>
+        <item>Nhịp nào cũng được cả.</item>
+        <item>Để đầu óc nghỉ ngơi một chút.</item>
+        <item>Ở đây luôn chào đón bạn.</item>
+        <item>Đừng giật mình. Chỉ là dừng lại một chút.</item>
+        <item>Hôm nay cuộc sống không phải một cuộc đua.</item>
+        <item>Bạn vẫn trọn vẹn, và chừng ấy là đủ.</item>
+        <item>Đã thử là tốt rồi.</item>
+        <item>Không có gì ở đây chống lại bạn.</item>
+        <item>Hít thở và cứ chậm rãi tiếp tục.</item>
+        <item>Bạn ổn với đúng con người bạn lúc này.</item>
+        <item>Đây là một khoảnh khắc an yên.</item>
+        <item>Không chút áp lực nào. Cứ nhẹ nhàng mà đi.</item>
+        <item>Bạn được phép nghỉ ngơi.</item>
+        <item>Ở đây mọi thứ đều êm ả.</item>
+        <item>Cứ từ từ. Ngày hôm nay vẫn chờ bạn.</item>
+        <item>Bạn dịu dàng với bản thân, và đó là sức mạnh.</item>
+        <item>Nếu ứng dụng này không tồn tại, lúc này bạn sẽ làm gì?</item>
+        <item>Bạn ở đây vì muốn, hay vì thói quen?</item>
+        <item>Bạn đang tìm gì ấy nhỉ?</item>
+        <item>Sáng mai chuyện này có còn quan trọng không?</item>
+        <item>Bạn có nhớ được thứ mình sắp xem lúc này không?</item>
+        <item>Trước khi cầm điện thoại lên, bạn đang làm gì?</item>
+        <item>Hôm nay bạn muốn dành bao nhiêu thời gian cho việc này?</item>
+        <item>Bạn đang chán, hay đang mệt?</item>
+        <item>Thay vào đó, buổi chiều của bạn có thể là gì?</item>
+        <item>Có đáng không?</item>
+        <item>Bạn mở ra vì một lý do cụ thể nào không?</item>
+        <item>Nếu vào bây giờ, bạn sẽ lại trì hoãn việc gì thêm lần nữa?</item>
+        <item>Một năm nữa, bạn muốn trở thành người như thế nào?</item>
+        <item>Lúc này điều gì thật sự tốt cho bạn?</item>
+        <item>Bạn đang trốn tránh điều gì chăng?</item>
+        <item>Sao không làm luôn việc bạn cứ trì hoãn mãi?</item>
+        <item>Chuyện gì sẽ xảy ra nếu bạn cứ thế đóng lại?</item>
+        <item>Bạn có việc hay hơn để làm. Đó là việc gì?</item>
+        <item>Đây là nghỉ ngơi, hay là trốn chạy?</item>
+        <item>Bạn của ngày mai sẽ nhờ bạn làm gì?</item>
+        <item>Bạn đang đói, buồn ngủ hay buồn chán?</item>
+        <item>Lần cuối bảng tin khiến bạn thấy tốt hơn là khi nào?</item>
+        <item>Cuối ngày, bạn muốn cảm thấy thế nào?</item>
+        <item>Lúc này bạn đang thiếu điều gì?</item>
+        <item>Bạn cần điều này, hay chỉ là muốn?</item>
+        <item>Điều nhỏ nào có thể làm ngày của bạn tốt hơn lúc này?</item>
+        <item>Bạn sẽ làm gì với hai giờ rảnh rỗi?</item>
+        <item>Bạn biết mình nên làm gì rồi mà, phải không?</item>
+        <item>Mười lăm phút này thật ra tốn của bạn những gì?</item>
+        <item>Bạn muốn điều này, hay chỉ là tay đang rảnh?</item>
+        <item>Lúc này điều gì đáng làm hơn?</item>
+        <item>Mọi chuyện bên bạn vẫn ổn chứ?</item>
+        <item>Bình tĩnh nghĩ xem, lựa chọn tốt nhất lúc này là gì?</item>
+        <item>Rồi bạn có thấy tự hào về nửa tiếng này không?</item>
+        <item>Bạn sẽ làm gì nếu không ai nhìn thấy?</item>
+        <item>Có ai bạn có thể gọi ngay lúc này không?</item>
+        <item>Đầu óc bạn đang cố né tránh điều gì?</item>
+        <item>Có đáng để đổi cả buổi chiều lấy thứ này không?</item>
+        <item>Bạn có kế hoạch cho hôm nay. Trong đó có việc này không?</item>
+        <item>Lúc này việc gì sẽ thú vị nhất để làm?</item>
+        <item>Thật lòng mà nói, bạn có ổn không?</item>
+        <item>Điều gì sẽ khiến tuần này trở nên đáng giá?</item>
+        <item>Đây là điều bạn muốn, hay chỉ là điều bạn quen làm?</item>
+        <item>Bạn đã nghĩ ngày mai mình muốn làm gì chưa?</item>
+        <item>Hôm nay bạn đã cầm điện thoại lên bao nhiêu lần rồi?</item>
+        <item>Một giờ nữa, điều gì sẽ khiến bạn thấy hài lòng?</item>
+        <item>Bạn muốn vào thật, hay chỉ là ngón tay đang tự động?</item>
+        <item>Việc quan trọng nào bạn đang để dành cho lúc khác?</item>
+        <item>Bạn của mười năm trước sẽ nghĩ gì về điều này?</item>
+        <item>Bạn có thật sự đang nghỉ ngơi không?</item>
+        <item>Có điều gì bạn sẽ làm nếu đủ can đảm không?</item>
+        <item>Đến tối nay, bạn mong mình đã làm được điều gì?</item>
+        <item>Thứ này có đáng hơn một cuộc trò chuyện không?</item>
+        <item>Hôm nay bạn có thời gian cho điều gì?</item>
+        <item>Sáu tháng nữa, bạn muốn có thói quen nào?</item>
+        <item>Điều gì đang thật sự cần bạn chú ý?</item>
+        <item>Bạn muốn nhớ hay muốn quên buổi chiều này?</item>
+        <item>Đâu là cách dùng tốt cho khoảnh khắc này?</item>
+        <item>Bạn ở đây để xem một thứ, hay để khỏi phải cảm nhận một thứ?</item>
+        <item>Điều gì sẽ giúp bạn ngủ ngon đêm nay?</item>
+        <item>Việc này cộng thêm hay trừ bớt ngày của bạn?</item>
+        <item>Bạn có thật sự muốn biết trong đó có gì không?</item>
+        <item>Điều tốt gần nhất bạn làm mà không cần màn hình là gì?</item>
+        <item>Bạn sẽ làm gì trong một buổi chiều không có mạng?</item>
+        <item>Bạn đang vội vì điều gì?</item>
+        <item>Lúc này bạn có thể bước một bước nhỏ nào?</item>
+        <item>Điều gì cần bạn chú ý hơn thứ này?</item>
+        <item>Hôm nay bạn đã hít thở sâu lần nào chưa?</item>
+        <item>Một giờ tới bạn định làm gì?</item>
+        <item>Việc này có đưa bạn đến gần điều bạn muốn không?</item>
+        <item>Bạn có làm vậy trước mặt người mình ngưỡng mộ không?</item>
+        <item>Hôm nay có chuyện gì vui không?</item>
+        <item>Hôm nay màn hình đã lấy đi bao nhiêu phần ngày của bạn?</item>
+        <item>Bạn có ý tưởng nào đang nằm chờ không?</item>
+        <item>Bạn muốn làm gì với tuần này?</item>
+        <item>Có đáng đổi sự yên tĩnh lấy tiếng ồn không?</item>
+        <item>Hôm nay bạn đang sáng tạo hay đang tiêu thụ?</item>
+        <item>Việc đơn giản nào sẽ giúp bạn thấy dễ chịu lúc này?</item>
+        <item>Bạn sẽ nói gì với một người bạn trong tình huống này?</item>
+        <item>Bạn có năm phút. Để làm gì đây?</item>
+        <item>Điều gì thật sự đang làm bạn bận lòng?</item>
+        <item>Đây có phải là điều tốt nhất bạn có thể làm lúc này?</item>
+        <item>Bạn có đang làm chủ khoảnh khắc này không?</item>
+        <item>Quyết định nào sẽ khiến bạn tự hào?</item>
+        <item>Lúc ngày khép lại, bạn muốn đã hoàn thành việc gì?</item>
+        <item>Bạn còn nhớ vì sao mình cài ứng dụng này không?</item>
+        <item>Hay là để sau, rồi xem lúc đó bạn còn muốn không?</item>
+        <item>Nếu hôm nay can đảm hơn một chút, bạn sẽ làm gì?</item>
+        <item>Bạn muốn phiên bản nhanh hay phiên bản tốt của ngày hôm nay?</item>
+        <item>Việc gì hôm nay chỉ bạn mới làm được?</item>
+        <item>Ngoài kia đang có gì chờ bạn?</item>
+        <item>Hôm nay bạn đã biết ơn điều gì chưa?</item>
+        <item>Nửa tiếng tới đáng giá bao nhiêu với bạn?</item>
+        <item>Bạn muốn mang theo điều gì từ tuần này?</item>
+        <item>Chuyện này gấp thật, hay chỉ có vẻ gấp?</item>
+        <item>Bạn có đang làm điều mình muốn làm không?</item>
+        <item>Một kết thúc đẹp cho ngày hôm nay sẽ là gì?</item>
+        <item>Nếu đã nghỉ ngơi đủ, bạn sẽ làm gì?</item>
+        <item>Lúc này bạn muốn lướt, hay muốn sống?</item>
+        <item>Sao không thử đóng lại và xem điều gì sẽ đến?</item>
+    </string-array>
+</resources>

@@ -3,6 +3,8 @@ import { StyleSheet, Text, View } from 'react-native';
 
 import { Button } from '@/components/Button';
 import { Sheet } from '@/components/Sheet';
+import { useTextos } from '@/i18n/IdiomaContext';
+import { contar } from '@/i18n/formatos';
 import { radius, spacing, typography } from '@/theme/tokens';
 import { useTheme } from '@/theme/useTheme';
 
@@ -21,9 +23,11 @@ type Props = {
  */
 export function ConfirmarDesligarRestrito({ visible, waitMinutes, onClose, onConfirmar }: Props) {
   const theme = useTheme();
+  const t = useTextos();
+  const textos = t.bloqueios.confirmarDesligar;
 
   return (
-    <Sheet visible={visible} onClose={onClose} accessibilityLabel="Desligar o modo restrito?">
+    <Sheet visible={visible} onClose={onClose} accessibilityLabel={textos.titulo}>
       <View style={styles.conteudo}>
         <View style={[styles.icone, { backgroundColor: theme.colors.bgWarningSubtle }]}>
           <Ionicons name="lock-open-outline" size={24} color={theme.colors.textWarning} />
@@ -32,41 +36,42 @@ export function ConfirmarDesligarRestrito({ visible, waitMinutes, onClose, onCon
           accessibilityRole="header"
           style={[styles.titulo, { color: theme.colors.textPrimary }]}
         >
-          Desligar o modo restrito?
+          {textos.titulo}
         </Text>
         <Text style={[styles.corpo, { color: theme.colors.textSecondary }]}>
-          A lista de apps só volta a ser editável depois de uma espera de {waitMinutes} minutos. Dá
-          para desistir a qualquer momento, sem custo.
+          {contar(t, textos.corpo, waitMinutes)}
         </Text>
       </View>
 
       <View
         style={[styles.linhaDoTempo, { backgroundColor: theme.colors.bgCanvas }]}
         accessible
-        accessibilityLabel={`Agora, ${waitMinutes} minutos de espera, depois a lista é liberada`}
+        accessibilityLabel={contar(t, textos.linhaDoTempoFalada, waitMinutes)}
       >
         <View style={styles.marco}>
           <View style={[styles.ponto, { backgroundColor: theme.colors.textPrimary }]} />
-          <Text style={[styles.rotuloMarco, { color: theme.colors.textPrimary }]}>Agora</Text>
+          <Text style={[styles.rotuloMarco, { color: theme.colors.textPrimary }]}>
+            {textos.marcoAgora}
+          </Text>
         </View>
         <View style={styles.trecho}>
           <View style={[styles.barra, { backgroundColor: theme.colors.iconWarning }]} />
           <Text style={[styles.rotuloTrecho, { color: theme.colors.textWarning }]}>
-            {waitMinutes} min de espera
+            {contar(t, textos.trechoDeEspera, waitMinutes)}
           </Text>
         </View>
         <View style={styles.marco}>
           <View style={[styles.pontoVazio, { borderColor: theme.colors.textTertiary }]} />
           <Text style={[styles.rotuloMarco, { color: theme.colors.textSecondary }]}>
-            Lista liberada
+            {textos.marcoListaLiberada}
           </Text>
         </View>
       </View>
 
       <View style={styles.acoes}>
-        <Button label="Manter ligado" onPress={onClose} />
+        <Button label={textos.manterLigado} onPress={onClose} />
         <Button
-          label={`Começar espera de ${waitMinutes} min`}
+          label={contar(t, textos.comecarEspera, waitMinutes)}
           variant="secondary"
           onPress={onConfirmar}
         />

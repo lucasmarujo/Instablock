@@ -14,6 +14,9 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { Stack, useRouter } from 'expo-router';
 
 import { Button } from '@/components/Button';
+import type { Textos } from '@/i18n/catalogo';
+import { contar } from '@/i18n/formatos';
+import { useTextos } from '@/i18n/IdiomaContext';
 import { readOnboardingComplete } from '@/state/onboardingStorage';
 import AceleralockBlocker from '@/native/blocker';
 import {
@@ -37,22 +40,23 @@ const MONO = Platform.select({ ios: 'Menlo', default: 'monospace' });
 
 type Promessa = { icone: keyof typeof Ionicons.glyphMap; cor: string; texto: string };
 
-function promessas(esperaMinutos: number): Promessa[] {
+function promessas(esperaMinutos: number, t: Textos): Promessa[] {
+  const textos = t.onboarding.boasVindas;
   return [
     {
       icone: 'shield-outline',
       cor: brand.turquesa,
-      texto: 'Bloqueia os apps e sites que você escolher',
+      texto: textos.promessaBloqueio,
     },
     {
       icone: 'hourglass-outline',
       cor: amber[300],
-      texto: `Mudar de ideia pode pedir ${esperaMinutos} min de espera`,
+      texto: contar(t, textos.promessaEspera, esperaMinutos),
     },
     {
       icone: 'phone-portrait-outline',
       cor: neutral[300],
-      texto: 'Tudo fica no seu celular. Sem conta.',
+      texto: textos.promessaPrivacidade,
     },
   ];
 }
@@ -96,6 +100,7 @@ function useEntrada(atrasoMs: number, reduzido: boolean) {
 export default function OnboardingBoasVindas() {
   const router = useRouter();
   const reduzido = useReducedMotion();
+  const t = useTextos();
   // `null` enquanto a leitura nao voltou: so o degrade aparece. Sao poucos ms,
   // e e o que impede a tela de boas-vindas de piscar pra quem so caiu de volta
   // no onboarding porque revogou uma permissao.
@@ -162,16 +167,13 @@ export default function OnboardingBoasVindas() {
             <Animated.View style={[styles.cabecalho, estiloTitulo]}>
               <Text style={styles.marca}>ACELERALOCK</Text>
               <Text accessibilityRole="header" style={styles.titulo}>
-                Faça o impulso esperar.
+                {t.onboarding.boasVindas.titulo}
               </Text>
-              <Text style={styles.subtitulo}>
-                Escolha os apps que roubam seu tempo. Quando bater a vontade de abrir, o AceleraLock
-                fica no caminho.
-              </Text>
+              <Text style={styles.subtitulo}>{t.onboarding.boasVindas.subtitulo}</Text>
             </Animated.View>
 
             <Animated.View style={[styles.promessas, estiloPromessas]}>
-              {promessas(waitMinutes).map((promessa) => (
+              {promessas(waitMinutes, t).map((promessa) => (
                 <View key={promessa.icone} style={styles.promessa}>
                   <View style={styles.iconePromessa}>
                     <Ionicons name={promessa.icone} size={18} color={promessa.cor} />
@@ -186,7 +188,7 @@ export default function OnboardingBoasVindas() {
 
           <Animated.View style={[styles.rodape, estiloCta]}>
             <Button
-              label="Começar"
+              label={t.onboarding.boasVindas.comecar}
               surface={SUPERFICIE_MARCA}
               onPress={() => router.push('/passos')}
             />
@@ -203,7 +205,7 @@ export default function OnboardingBoasVindas() {
                 onPress={() => BackHandler.exitApp()}
                 style={styles.sair}
               >
-                <Text style={styles.textoSair}>Sair do app</Text>
+                <Text style={styles.textoSair}>{t.onboarding.boasVindas.sairDoApp}</Text>
               </Pressable>
             )}
           </Animated.View>

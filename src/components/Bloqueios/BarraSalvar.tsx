@@ -1,5 +1,6 @@
 import { ActivityIndicator, Pressable, StyleSheet, Text, View } from 'react-native';
 
+import { useTextos } from '@/i18n/IdiomaContext';
 import { elevation, radius, spacing, typography } from '@/theme/tokens';
 import { useTheme } from '@/theme/useTheme';
 
@@ -18,6 +19,7 @@ type Props = {
  */
 export function BarraSalvar({ titulo, detalhe, salvando, onSalvar }: Props) {
   const theme = useTheme();
+  const t = useTextos();
 
   return (
     <View style={styles.envoltorio}>
@@ -39,7 +41,7 @@ export function BarraSalvar({ titulo, detalhe, salvando, onSalvar }: Props) {
         </View>
         <Pressable
           accessibilityRole="button"
-          accessibilityLabel="Salvar alterações"
+          accessibilityLabel={t.bloqueios.barraSalvar.rotuloBotaoFalado}
           accessibilityState={{ busy: salvando }}
           onPress={salvando ? undefined : onSalvar}
           style={({ pressed }) => [
@@ -50,7 +52,9 @@ export function BarraSalvar({ titulo, detalhe, salvando, onSalvar }: Props) {
           {salvando ? (
             <ActivityIndicator color={theme.colors.bgHero} />
           ) : (
-            <Text style={[styles.rotuloBotao, { color: theme.colors.bgHero }]}>Salvar</Text>
+            <Text style={[styles.rotuloBotao, { color: theme.colors.bgHero }]}>
+              {t.bloqueios.barraSalvar.botao}
+            </Text>
           )}
         </Pressable>
       </View>

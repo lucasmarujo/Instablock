@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">%1$s బ్లాక్ చేయబడింది.</string>
+    <string name="aceleralock_block_title_unknown">ఈ యాప్ బ్లాక్ చేయబడింది.</string>
+    <string name="aceleralock_block_close">మూసివేయి</string>
+    <string name="aceleralock_notification_channel">రక్షణ ఆన్‌లో ఉంది</string>
+    <string name="aceleralock_notification_text">రక్షణ ఆన్‌లో ఉంది</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: సైట్ బ్లాకింగ్</string>
+    <string name="aceleralock_site_accessibility_description">మీరు ఎంచుకున్న సైట్‌లను బ్లాక్ చేయడానికి Chrome, Samsung Internet, Firefox, Edge, Brave అడ్రస్ బార్‌లోని చిరునామాను మాత్రమే చదువుతుంది. ఏదీ సేవ్ చేయబడదు, ఏదీ పరికరం నుంచి బయటకు వెళ్లదు.</string>
+</resources>

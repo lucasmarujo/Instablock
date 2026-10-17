@@ -1,6 +1,8 @@
 import { Ionicons } from '@expo/vector-icons';
 import { Pressable, StyleSheet, Text, View } from 'react-native';
 
+import { useTextos } from '@/i18n/IdiomaContext';
+import { formatar } from '@/i18n/formatos';
 import { brand, radius, spacing, typography } from '@/theme/tokens';
 import { useTheme } from '@/theme/useTheme';
 
@@ -31,6 +33,7 @@ export function SegmentedControl<T extends string>({
   marcarSelecionado = false,
 }: Props<T>) {
   const theme = useTheme();
+  const t = useTextos();
 
   return (
     <View
@@ -51,7 +54,10 @@ export function SegmentedControl<T extends string>({
             accessibilityLabel={
               segmento.contador === undefined
                 ? segmento.rotulo
-                : `${segmento.rotulo}, ${segmento.contador}`
+                : formatar(t.comum.rotuloComContador, {
+                    rotulo: segmento.rotulo,
+                    contador: segmento.contador,
+                  })
             }
             onPress={() => onChange(segmento.valor)}
             style={[

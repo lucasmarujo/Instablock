@@ -16,25 +16,26 @@ import {
   maiorLeitura,
   semanaAteHoje,
 } from '../src/components/TempoTela/tempoTela';
+import { ptBR } from '../src/i18n/textos/pt-BR';
 
 test('formatarDuracao: horas com minutos, horas cheias, so minutos, so segundos', () => {
-  assert.equal(formatarDuracao(3600 + 4 * 60), '1h 04min');
-  assert.equal(formatarDuracao(2 * 3600), '2h');
-  assert.equal(formatarDuracao(12 * 60), '12min');
-  assert.equal(formatarDuracao(45), '45s');
+  assert.equal(formatarDuracao(3600 + 4 * 60, ptBR), '1h 04min');
+  assert.equal(formatarDuracao(2 * 3600, ptBR), '2h');
+  assert.equal(formatarDuracao(12 * 60, ptBR), '12min');
+  assert.equal(formatarDuracao(45, ptBR), '45s');
 });
 
 test('formatarDuracao: zero e valor invalido nao viram "0h 0min"', () => {
-  assert.equal(formatarDuracao(0), '0min');
-  assert.equal(formatarDuracao(-10), '0min');
-  assert.equal(formatarDuracao(Number.NaN), '0min');
+  assert.equal(formatarDuracao(0, ptBR), '0min');
+  assert.equal(formatarDuracao(-10, ptBR), '0min');
+  assert.equal(formatarDuracao(Number.NaN, ptBR), '0min');
 });
 
 test('descreverDuracao fala por extenso, com singular correto', () => {
-  assert.equal(descreverDuracao(3600 + 60), '1 hora e 1 minuto');
-  assert.equal(descreverDuracao(2 * 3600 + 120), '2 horas e 2 minutos');
-  assert.equal(descreverDuracao(30), 'menos de um minuto');
-  assert.equal(descreverDuracao(0), 'nenhum tempo registrado');
+  assert.equal(descreverDuracao(3600 + 60, ptBR), '1 hora e 1 minuto');
+  assert.equal(descreverDuracao(2 * 3600 + 120, ptBR), '2 horas e 2 minutos');
+  assert.equal(descreverDuracao(30, ptBR), 'menos de um minuto');
+  assert.equal(descreverDuracao(0, ptBR), 'nenhum tempo registrado');
 });
 
 test('isoLocal usa a data local — nao deixa o fuso empurrar pro dia anterior', () => {
@@ -92,13 +93,13 @@ test('maiorLeitura ignora dias nao medidos e devolve 0 quando nada foi medido', 
 });
 
 test('formatarDuracaoCompacta encurta so o que tem hora — e mantem o resto igual', () => {
-  assert.equal(formatarDuracaoCompacta(4 * 3600 + 30 * 60), '4h30');
-  assert.equal(formatarDuracaoCompacta(4 * 3600 + 5 * 60), '4h05');
-  assert.equal(formatarDuracaoCompacta(4 * 3600), '4h');
-  assert.equal(formatarDuracaoCompacta(45 * 60), '45min');
-  assert.equal(formatarDuracaoCompacta(45), '45s');
-  assert.equal(formatarDuracaoCompacta(0), '0min');
-  assert.equal(formatarDuracaoCompacta(Number.NaN), '0min');
+  assert.equal(formatarDuracaoCompacta(4 * 3600 + 30 * 60, ptBR), '4h30');
+  assert.equal(formatarDuracaoCompacta(4 * 3600 + 5 * 60, ptBR), '4h05');
+  assert.equal(formatarDuracaoCompacta(4 * 3600, ptBR), '4h');
+  assert.equal(formatarDuracaoCompacta(45 * 60, ptBR), '45min');
+  assert.equal(formatarDuracaoCompacta(45, ptBR), '45s');
+  assert.equal(formatarDuracaoCompacta(0, ptBR), '0min');
+  assert.equal(formatarDuracaoCompacta(Number.NaN, ptBR), '0min');
 });
 
 test('alturaDaBarra e proporcional e satura no maximo', () => {
@@ -131,7 +132,7 @@ test('escalaDoGrafico: sem leitura e sem estimativa a escala nao zera', () => {
 
 test('semanaAteHoje: sete dias de calendario terminando hoje, ultimo rotulado Hoje', () => {
   const sabado = new Date(2026, 9, 10);
-  const semana = semanaAteHoje([], sabado);
+  const semana = semanaAteHoje([], sabado, ptBR);
   assert.equal(semana.length, 7);
   assert.deepEqual(
     semana.map((dia) => dia.rotulo),
@@ -150,7 +151,8 @@ test('regressao: dia sem leitura fica null na semana, nunca zero e nunca some', 
       { date: '2026-10-04', seconds: 3600 },
       { date: '2026-10-06', seconds: 0 },
     ],
-    sabado
+    sabado,
+    ptBR
   );
   assert.equal(semana[0].segundos, 3600);
   assert.equal(semana[1].segundos, null);
@@ -158,7 +160,7 @@ test('regressao: dia sem leitura fica null na semana, nunca zero e nunca some', 
 });
 
 test('semanaAteHoje atravessa a virada do mes sem pular dia', () => {
-  const semana = semanaAteHoje([], new Date(2026, 9, 2));
+  const semana = semanaAteHoje([], new Date(2026, 9, 2), ptBR);
   assert.deepEqual(
     semana.map((dia) => dia.data),
     [
@@ -202,11 +204,15 @@ test('compararComEstimativa sem estimativa nao inventa referencia', () => {
 
 test('descreverComparacao fala a diferenca e a estimativa', () => {
   assert.equal(
-    descreverComparacao({ sentido: 'abaixo', diferencaSegundos: 3600 + 7 * 60 }, 5),
+    descreverComparacao({ sentido: 'abaixo', diferencaSegundos: 3600 + 7 * 60 }, 5, ptBR),
     '1h 07min abaixo da sua estimativa de 5h'
   );
   assert.equal(
-    descreverComparacao({ sentido: 'igual', diferencaSegundos: 0 }, 5),
+    descreverComparacao({ sentido: 'igual', diferencaSegundos: 0 }, 5, ptBR),
     'Na sua estimativa de 5h'
+  );
+  assert.equal(
+    descreverComparacao({ sentido: 'acima', diferencaSegundos: 3600 }, 5, ptBR),
+    '1h acima da sua estimativa de 5h'
   );
 });

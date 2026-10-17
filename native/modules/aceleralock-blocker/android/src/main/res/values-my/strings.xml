@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">%1$s ကို ပိတ်ဆို့ထားပါတယ်။</string>
+    <string name="aceleralock_block_title_unknown">ဒီအက်ပ်ကို ပိတ်ဆို့ထားပါတယ်။</string>
+    <string name="aceleralock_block_close">ပိတ်မည်</string>
+    <string name="aceleralock_notification_channel">ကာကွယ်မှု ဖွင့်ထားသည်</string>
+    <string name="aceleralock_notification_text">ကာကွယ်မှု ဖွင့်ထားသည်</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: ဝဘ်ဆိုက် ပိတ်ဆို့ခြင်း</string>
+    <string name="aceleralock_site_accessibility_description">သင်ရွေးထားတဲ့ ဝဘ်ဆိုက်တွေကို ပိတ်ဆို့ဖို့ Chrome၊ Samsung Internet၊ Firefox၊ Edge နဲ့ Brave ရဲ့ လိပ်စာဘားမှာ လိပ်စာကိုပဲ ဖတ်ပါတယ်။ ဘာမှ သိမ်းမထားဘဲ ဘာမှ ဖုန်းအပြင် မထွက်ပါဘူး။</string>
+</resources>

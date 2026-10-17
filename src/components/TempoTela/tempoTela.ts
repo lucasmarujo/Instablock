@@ -1,3 +1,6 @@
+import type { Textos } from '../../i18n/catalogo';
+import { contar, formatar, juntarLista } from '../../i18n/formatos';
+
 /**
  * Logica pura das telas de tempo de tela. Sem import de react-native: e o que o
  * `node --test` consegue carregar, mesma divisao de `countdownStatus.ts` e
@@ -19,37 +22,39 @@ export type DiaDoMes = {
 };
 
 /** `1h 04min`, `12min`, `45s`. Nunca `0h 0min`. */
-export function formatarDuracao(segundos: number): string {
+export function formatarDuracao(segundos: number, t: Textos): string {
   if (!Number.isFinite(segundos) || segundos <= 0) {
-    return '0min';
+    return formatar(t.duracao.minutos, { m: 0 });
   }
   const horas = Math.floor(segundos / 3600);
   const minutos = Math.floor((segundos % 3600) / 60);
 
   if (horas > 0) {
-    return minutos > 0 ? `${horas}h ${String(minutos).padStart(2, '0')}min` : `${horas}h`;
+    return minutos > 0
+      ? formatar(t.duracao.horasEMinutos, { h: horas, mm: String(minutos).padStart(2, '0') })
+      : formatar(t.duracao.horas, { h: horas });
   }
   if (minutos > 0) {
-    return `${minutos}min`;
+    return formatar(t.duracao.minutos, { m: minutos });
   }
-  return `${Math.floor(segundos)}s`;
+  return formatar(t.duracao.segundos, { s: Math.floor(segundos) });
 }
 
 /** Versao falada, pro leitor de tela — abreviacao vira palavra. */
-export function descreverDuracao(segundos: number): string {
+export function descreverDuracao(segundos: number, t: Textos): string {
   if (!Number.isFinite(segundos) || segundos <= 0) {
-    return 'nenhum tempo registrado';
+    return t.duracao.nenhumTempo;
   }
   const horas = Math.floor(segundos / 3600);
   const minutos = Math.floor((segundos % 3600) / 60);
   const partes: string[] = [];
   if (horas > 0) {
-    partes.push(horas === 1 ? '1 hora' : `${horas} horas`);
+    partes.push(contar(t, t.duracao.horasFaladas, horas));
   }
   if (minutos > 0) {
-    partes.push(minutos === 1 ? '1 minuto' : `${minutos} minutos`);
+    partes.push(contar(t, t.duracao.minutosFalados, minutos));
   }
-  return partes.length > 0 ? partes.join(' e ') : 'menos de um minuto';
+  return partes.length > 0 ? juntarLista(t, partes) : t.duracao.menosDeUmMinuto;
 }
 
 /** ISO `YYYY-MM-DD` de uma data local, sem passar por UTC (que muda o dia). */
@@ -116,13 +121,15 @@ export function maiorLeitura(dias: DiaDoMes[]): number {
  * coluna tem ~32dp: `formatarDuracao` daria "4h 30min", que nao cabe e quebra
  * em duas linhas. Abaixo de uma hora as duas formas ja sao iguais.
  */
-export function formatarDuracaoCompacta(segundos: number): string {
+export function formatarDuracaoCompacta(segundos: number, t: Textos): string {
   if (!Number.isFinite(segundos) || segundos < 3600) {
-    return formatarDuracao(segundos);
+    return formatarDuracao(segundos, t);
   }
   const horas = Math.floor(segundos / 3600);
   const minutos = Math.floor((segundos % 3600) / 60);
-  return minutos > 0 ? `${horas}h${String(minutos).padStart(2, '0')}` : `${horas}h`;
+  return minutos > 0
+    ? formatar(t.duracao.horasEMinutosCompacta, { h: horas, mm: String(minutos).padStart(2, '0') })
+    : formatar(t.duracao.horas, { h: horas });
 }
 
 /**
@@ -160,8 +167,6 @@ export type DiaDaSemana = {
   hoje: boolean;
 };
 
-const LETRA_DO_DIA = ['D', 'S', 'T', 'Q', 'Q', 'S', 'S'];
-
 /**
  * Os ultimos `dias` dias de calendario terminando hoje, na ordem do grafico.
  * Dia sem leitura entra como `null` em vez de sumir: a coluna tracejada diz
@@ -171,6 +176,7 @@ const LETRA_DO_DIA = ['D', 'S', 'T', 'Q', 'Q', 'S', 'S'];
 export function semanaAteHoje(
   leituras: { date: string; seconds: number }[],
   hoje: Date,
+  t: Textos,
   dias = 7
 ): DiaDaSemana[] {
   const porData = new Map(leituras.map((leitura) => [leitura.date, leitura.seconds]));
@@ -184,7 +190,7 @@ export function semanaAteHoje(
     const ehHoje = indice === dias - 1;
     return {
       data: iso,
-      rotulo: ehHoje ? 'Hoje' : LETRA_DO_DIA[data.getDay()],
+      rotulo: ehHoje ? t.tempoTela.hoje : t.datas.diasDaSemanaIniciais[data.getDay()],
       segundos: porData.has(iso) ? (porData.get(iso) as number) : null,
       hoje: ehHoje,
     };
@@ -224,11 +230,19 @@ export function compararComEstimativa(
 
 export function descreverComparacao(
   comparacao: ComparacaoComEstimativa,
-  estimativaHoras: number
+  estimativaHoras: number,
+  t: Textos
 ): string {
-  const estimativa = formatarDuracaoCompacta(estimativaHoras * 3600);
+  const estimativa = formatarDuracaoCompacta(estimativaHoras * 3600, t);
   if (comparacao.sentido === 'igual') {
-    return `Na sua estimativa de ${estimativa}`;
+    return formatar(t.tempoTela.naEstimativa, { estimativa });
   }
-  return `${formatarDuracao(comparacao.diferencaSegundos)} ${comparacao.sentido} da sua estimativa de ${estimativa}`;
+  const modelo =
+    comparacao.sentido === 'abaixo'
+      ? t.tempoTela.abaixoDaEstimativa
+      : t.tempoTela.acimaDaEstimativa;
+  return formatar(modelo, {
+    diferenca: formatarDuracao(comparacao.diferencaSegundos, t),
+    estimativa,
+  });
 }

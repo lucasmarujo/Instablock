@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">Το %1$s είναι αποκλεισμένο.</string>
+    <string name="aceleralock_block_title_unknown">Αυτή η εφαρμογή είναι αποκλεισμένη.</string>
+    <string name="aceleralock_block_close">Κλείσιμο</string>
+    <string name="aceleralock_notification_channel">Ενεργή προστασία</string>
+    <string name="aceleralock_notification_text">Ενεργή προστασία</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: αποκλεισμός ιστοτόπων</string>
+    <string name="aceleralock_site_accessibility_description">Διαβάζει μόνο τη διεύθυνση στη γραμμή του Chrome, του Samsung Internet, του Firefox, του Edge και του Brave για να αποκλείει τους ιστοτόπους που διάλεξες. Δεν αποθηκεύεται τίποτα και τίποτα δεν φεύγει από τη συσκευή.</string>
+</resources>

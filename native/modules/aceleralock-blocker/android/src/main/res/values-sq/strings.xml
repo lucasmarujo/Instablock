@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">%1$s është i bllokuar.</string>
+    <string name="aceleralock_block_title_unknown">Ky aplikacion është i bllokuar.</string>
+    <string name="aceleralock_block_close">Mbyll</string>
+    <string name="aceleralock_notification_channel">Mbrojtja është aktive</string>
+    <string name="aceleralock_notification_text">Mbrojtja është aktive</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: bllokimi i faqeve</string>
+    <string name="aceleralock_site_accessibility_description">Lexon vetëm adresën në shiritin e Chrome, Samsung Internet, Firefox, Edge dhe Brave për të bllokuar faqet që ke zgjedhur. Asgjë nuk ruhet dhe asgjë nuk del nga pajisja.</string>
+</resources>

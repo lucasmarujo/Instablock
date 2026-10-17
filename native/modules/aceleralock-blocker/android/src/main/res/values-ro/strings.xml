@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">Aplicația %1$s este blocată.</string>
+    <string name="aceleralock_block_title_unknown">Această aplicație este blocată.</string>
+    <string name="aceleralock_block_close">Închide</string>
+    <string name="aceleralock_notification_channel">Protecție activă</string>
+    <string name="aceleralock_notification_text">Protecție activă</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: blocarea site-urilor</string>
+    <string name="aceleralock_site_accessibility_description">Citește doar adresa din bara Chrome, Samsung Internet, Firefox, Edge și Brave ca să blocheze site-urile pe care le-ai ales. Nimic nu se salvează și nimic nu iese de pe dispozitiv.</string>
+</resources>

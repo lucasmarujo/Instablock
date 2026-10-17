@@ -9,6 +9,7 @@ import {
   tituloDaBarra,
   totalDeAlteracoes,
 } from '../src/components/Bloqueios/bloqueios';
+import { ptBR } from '../src/i18n/textos/pt-BR';
 
 const ROTULOS: Record<string, string> = { 'com.x': 'X', 'com.ig': 'Instagram' };
 const rotulo = (pacote: string) => ROTULOS[pacote] ?? pacote;
@@ -31,20 +32,26 @@ test('regressao: pacote gravado fora da lista visivel nao conta como saindo', ()
 });
 
 test('descreverAlteracoes nomeia a alteracao quando e uma so', () => {
-  assert.equal(descreverAlteracoes({ entram: ['com.x'], saem: [] }, rotulo), 'X entra na lista');
   assert.equal(
-    descreverAlteracoes({ entram: [], saem: ['com.ig'] }, rotulo),
+    descreverAlteracoes({ entram: ['com.x'], saem: [] }, rotulo, ptBR),
+    'X entra na lista'
+  );
+  assert.equal(
+    descreverAlteracoes({ entram: [], saem: ['com.ig'] }, rotulo, ptBR),
     'Instagram sai da lista'
   );
 });
 
 test('descreverAlteracoes resume quando sao varias', () => {
-  assert.equal(descreverAlteracoes({ entram: ['a', 'b'], saem: ['c'] }, rotulo), '2 entram, 1 sai');
+  assert.equal(
+    descreverAlteracoes({ entram: ['a', 'b'], saem: ['c'] }, rotulo, ptBR),
+    '2 entram, 1 sai'
+  );
 });
 
 test('tituloDaBarra conta as alteracoes com singular correto', () => {
-  assert.equal(tituloDaBarra({ entram: ['a'], saem: [] }), '1 alteração não salva');
-  assert.equal(tituloDaBarra({ entram: ['a'], saem: ['b'] }), '2 alterações não salvas');
+  assert.equal(tituloDaBarra({ entram: ['a'], saem: [] }, ptBR), '1 alteração não salva');
+  assert.equal(tituloDaBarra({ entram: ['a'], saem: ['b'] }, ptBR), '2 alterações não salvas');
 });
 
 test('separarPorSalvos usa a lista gravada, nao a marcacao em curso', () => {
@@ -61,8 +68,8 @@ test('separarPorSalvos usa a lista gravada, nao a marcacao em curso', () => {
 });
 
 test('legendaDaLinha conta o estado em texto, nao so na cor do interruptor', () => {
-  assert.equal(legendaDaLinha(true, true), 'Bloqueado');
-  assert.equal(legendaDaLinha(false, true), 'Bloqueia ao salvar');
-  assert.equal(legendaDaLinha(true, false), 'Sai ao salvar');
-  assert.equal(legendaDaLinha(false, false), null);
+  assert.equal(legendaDaLinha(true, true, ptBR), 'Bloqueado');
+  assert.equal(legendaDaLinha(false, true, ptBR), 'Bloqueia ao salvar');
+  assert.equal(legendaDaLinha(true, false, ptBR), 'Sai ao salvar');
+  assert.equal(legendaDaLinha(false, false, ptBR), null);
 });

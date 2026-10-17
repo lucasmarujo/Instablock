@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">%1$s is geblokkeer.</string>
+    <string name="aceleralock_block_title_unknown">Hierdie app is geblokkeer.</string>
+    <string name="aceleralock_block_close">Maak toe</string>
+    <string name="aceleralock_notification_channel">Beskerming aktief</string>
+    <string name="aceleralock_notification_text">Beskerming aktief</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: blokkeer webwerwe</string>
+    <string name="aceleralock_site_accessibility_description">Lees net die adres in die adresbalk van Chrome, Samsung Internet, Firefox, Edge en Brave om die webwerwe te blokkeer wat jy gekies het. Niks word gestoor nie en niks verlaat jou toestel nie.</string>
+</resources>

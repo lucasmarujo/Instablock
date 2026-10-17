@@ -6,6 +6,9 @@
  * salvar, e diz o que vai mudar.
  */
 
+import type { Textos } from '../../i18n/catalogo';
+import { contar, formatar } from '../../i18n/formatos';
+
 export type Alteracoes = {
   entram: string[];
   saem: string[];
@@ -43,28 +46,30 @@ export function totalDeAlteracoes(alteracoes: Alteracoes): number {
  */
 export function descreverAlteracoes(
   alteracoes: Alteracoes,
-  rotulo: (item: string) => string
+  rotulo: (item: string) => string,
+  t: Textos
 ): string {
   const { entram, saem } = alteracoes;
+  const textos = t.bloqueios.barraSalvar;
   if (entram.length === 1 && saem.length === 0) {
-    return `${rotulo(entram[0])} entra na lista`;
+    return formatar(textos.umItemEntra, { nome: rotulo(entram[0]) });
   }
   if (saem.length === 1 && entram.length === 0) {
-    return `${rotulo(saem[0])} sai da lista`;
+    return formatar(textos.umItemSai, { nome: rotulo(saem[0]) });
   }
-  const partes: string[] = [];
+  const quantosEntram = contar(t, textos.quantosEntram, entram.length);
+  const quantosSaem = contar(t, textos.quantosSaem, saem.length);
+  if (entram.length > 0 && saem.length > 0) {
+    return formatar(textos.entramESaem, { entram: quantosEntram, saem: quantosSaem });
+  }
   if (entram.length > 0) {
-    partes.push(`${entram.length} ${entram.length === 1 ? 'entra' : 'entram'}`);
+    return quantosEntram;
   }
-  if (saem.length > 0) {
-    partes.push(`${saem.length} ${saem.length === 1 ? 'sai' : 'saem'}`);
-  }
-  return partes.join(', ');
+  return saem.length > 0 ? quantosSaem : '';
 }
 
-export function tituloDaBarra(alteracoes: Alteracoes): string {
-  const total = totalDeAlteracoes(alteracoes);
-  return total === 1 ? '1 alteração não salva' : `${total} alterações não salvas`;
+export function tituloDaBarra(alteracoes: Alteracoes, t: Textos): string {
+  return contar(t, t.bloqueios.barraSalvar.titulo, totalDeAlteracoes(alteracoes));
 }
 
 /**
@@ -84,9 +89,9 @@ export function separarPorSalvos<T extends { packageName: string }>(
 }
 
 /** Legenda de status de uma linha. `null` = linha sem mudanca e fora da lista. */
-export function legendaDaLinha(salvo: boolean, marcado: boolean): string | null {
-  if (salvo && marcado) return 'Bloqueado';
-  if (!salvo && marcado) return 'Bloqueia ao salvar';
-  if (salvo && !marcado) return 'Sai ao salvar';
+export function legendaDaLinha(salvo: boolean, marcado: boolean, t: Textos): string | null {
+  if (salvo && marcado) return t.bloqueios.legendaDaLinha.bloqueado;
+  if (!salvo && marcado) return t.bloqueios.legendaDaLinha.bloqueiaAoSalvar;
+  if (salvo && !marcado) return t.bloqueios.legendaDaLinha.saiAoSalvar;
   return null;
 }

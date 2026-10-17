@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Türkçe: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>Burada harcamadığın zaman, olduğu gibi hayatına geri döner.</item>
+        <item>Bu ekranın dışındaki her dakika yeniden senin.</item>
+        <item>Bu yirmi dakika bir yürüyüşe sığar.</item>
+        <item>Kaydırma durunca gün, göründüğünden daha geniş.</item>
+        <item>Öğleden sonranın bir parçasını az önce geri aldın.</item>
+        <item>Günde bir saat, yılda on beş gün eder.</item>
+        <item>Zaman geri gelmez ama nereye gideceğini hâlâ sen seçebilirsin.</item>
+        <item>Bu ara senin. Onunla ne yaptığını kimsenin bilmesine gerek yok.</item>
+        <item>Uygulamanın dışında koca bir hayat akıp gidiyor.</item>
+        <item>Saat, bu ekranın iki yanında da aynı hızla işliyor.</item>
+        <item>Az önce kendine zaman kazandın. Onu yarın hatırlayacağın bir şeye harca.</item>
+        <item>Kimse günün sonunda akışı daha çok kaydırmış olmayı dilemez.</item>
+        <item>Burada on beş dakika, başka her yerde de on beş dakikadır.</item>
+        <item>On yıl önce bu yarım saatle ne yapardın, bir düşün.</item>
+        <item>Zaman, yeniden satın alamayacağın tek şey.</item>
+        <item>Koca bir öğleden sonra hâlâ önünde duruyor.</item>
+        <item>Bu dakika başka bir şeyin başlangıcı olabilir.</item>
+        <item>Saatleri teker teker kendine geri veriyorsun.</item>
+        <item>Burada biriktirdiğin zaman kaybolmaz. Başka bir yerde yeniden belirir.</item>
+        <item>On dakika az görünür, ta ki bir ayınkini toplayana kadar.</item>
+        <item>Hayat akışın hızında değil, kendi hızında yaşanır.</item>
+        <item>Bugün bu saatte, dün olduğundan daha çok vaktin var.</item>
+        <item>Ertelediğin o şey tam da bu araya sığıyor.</item>
+        <item>Bu mola kısa. Onunla yaptığın şey kısa olmayabilir.</item>
+        <item>Kaydırma aradan çekilince bir güne çok şey sığar.</item>
+        <item>Akşamın geri kalanını az önce geri kazandın.</item>
+        <item>Zaman bir para birimi. Az önce onu harcamamaya karar verdin.</item>
+        <item>Akış hiç bitmez. Senin günün ise biter.</item>
+        <item>Günde yarım saat, ayda koca bir kitap eder.</item>
+        <item>İçeride seni bekleyen acil bir şey yoktu.</item>
+        <item>Bu zaman zaten senindi. Şimdi yeniden yanında.</item>
+        <item>Sabah şimdi başlarsa hâlâ verimli geçebilir.</item>
+        <item>Hiçbir şey kaçırmadın. Bir ara kazandın.</item>
+        <item>Kimse bize zamanı geri vermez. Onu tutan biziz.</item>
+        <item>Bu dakikalar burada değil, dışarıda daha değerli; bunu zaten biliyorsun.</item>
+        <item>Orada olan, orada kalmaya devam ediyor. Senin zamanın ise kalmıyor.</item>
+        <item>Bir hayat, böyle öğleden sonralardan oluşur.</item>
+        <item>Günü izlenmiş bir şeyle değil, yapılmış bir şeyle bitirebilirsin.</item>
+        <item>Günde iki saat, yılda koca bir ay eder.</item>
+        <item>Bugün koruduğun zaman, yarın elinde kalandır.</item>
+        <item>Günün bu kısmına yalnızca sen karar verirsin.</item>
+        <item>İçeride kimse öğleden sonrana değecek bir şey yazmadı.</item>
+        <item>Günde otuz dakikayla bir yılda her şeyi inşa edebilirsin.</item>
+        <item>Az önce kendine bir parça sessizlik aldın.</item>
+        <item>Akış küçüldükçe gün büyür.</item>
+        <item>Bu zaman artık bir ham madde. Onunla bir şey yap.</item>
+        <item>Bir projen tam olarak bu arayı bekliyor.</item>
+        <item>Burada kazandığın hiçbir ekranda görünmez, yalnızca hayatında görünür.</item>
+        <item>Boş zaman nadirdir. Az önce bir tane yarattın.</item>
+        <item>Hayatının sonunda kimse bir kez daha ekran kaydırmayı istemedi.</item>
+        <item>Bütün bir öğleden sonran var ve henüz harcanmadı.</item>
+        <item>Bir yıl, bunun gibi üç yüz altmış beş seçimden oluşur.</item>
+        <item>Bu ara küçük ama tamamen senin.</item>
+        <item>Zaman hep aynı geçer. Fark, geride kalandadır.</item>
+        <item>Az önce yarım saati otomatik pilottan kurtardın.</item>
+        <item>Günün geri kalanı bu mola için sana teşekkür ediyor.</item>
+        <item>Oradaki beş dakika, kimse fark etmeden kırka dönüşür.</item>
+        <item>O beş dakikanın bedelini biliyorsun. Bu yüzden buradasın.</item>
+        <item>Şimdi koruduğun saat, akşam aradığın saattir.</item>
+        <item>İçerideki hiçbir şey, sonra yerine şimdi bakınca daha iyi olmaz.</item>
+        <item>Bir sonraki dakikanın nereye gideceğini az önce sen seçtin.</item>
+        <item>Bu zaman bir sohbete, bir yürüyüşe, kısa bir uykuya sığar.</item>
+        <item>Saatler akıp gitmeyi bırakınca gün verimli geçer.</item>
+        <item>Önümüzdeki yarım saatin tek sahibi sensin.</item>
+        <item>Bu günün bir şey yaptığın bir hâli var. O hâl şimdi başlıyor.</item>
+        <item>Zaman birikmez. Yalnızca daha iyi ya da daha kötü harcanır.</item>
+        <item>Bu dakikalar gerçek bir dinlenmeye dönüşebilir.</item>
+        <item>Hiçbir yere götürmeyen bir koşu bandından az önce indin.</item>
+        <item>Bir haftada yüz altmış sekiz saat var. Bu saat senin.</item>
+        <item>Akış zamanı küçük parçalar hâlinde alır, kimse eksikliğini fark etmesin diye.</item>
+        <item>Her gün yarına kalan o şeyi şimdi yapabilirsin.</item>
+        <item>Öğleden sonranın bir ekrana sığması gerekmiyor.</item>
+        <item>Artan zaman, günü güzel bir şekilde uzun hissettirir.</item>
+        <item>Bir sonraki saati az önce kendine geri verdin.</item>
+        <item>Şimdi göreceğin hiçbir şey bir hafta sonra aklında olmazdı.</item>
+        <item>Bu, bir yılı kuran ya da dağıtan türden bir dakika.</item>
+        <item>Zaman kazandın. Onu hemen harcaman gerekmiyor.</item>
+        <item>Kaydırmanın olmadığı bir gün, daha çok şeye yer açar.</item>
+        <item>Saat, iyi geçen zamanı boşa gidenden ayırmaz. Onu sen ayırırsın.</item>
+        <item>Bu saat, hayatındaki diğer her saat kadar değerli.</item>
+        <item>Şu an vaktin var. Bu, göründüğünden daha nadir.</item>
+        <item>Zamana sahip olmanın tek yolu onu korumaktır.</item>
+        <item>Bütün akşam hâlâ önünde.</item>
+        <item>Bu dakikalar, hatırlayacağın bir öğleden sonranın başlangıcı.</item>
+        <item>O bir saatlik kuyuya düşmekten az önce kurtuldun.</item>
+        <item>Zaman isteyen her şey tam olarak bu tür bir karar ister.</item>
+        <item>Şimdiyle akşam yemeği arasındaki zamana hâlâ çok şey sığar.</item>
+        <item>Ayağını gazdan çektin. Gün de seninle birlikte yavaşlıyor.</item>
+        <item>Haftanda yer var. Sadece başka bir şeyle doluydu.</item>
+        <item>Burayı her kapattığında gün biraz daha büyüyor.</item>
+        <item>Zaman, hiçbir şey harcamadan kendine verdiğin bir hediye.</item>
+        <item>Gün boyu olmadığını söylediğin şey şu an tam elinde.</item>
+        <item>Uzun bir öğleden sonra, bunun gibi kısa kararlardan oluşur.</item>
+        <item>Bu yarım saatle ne yaptığını kimse sormayacak.</item>
+        <item>Bugün kaptırmadığın zaman yarın hâlâ seninle olacak.</item>
+        <item>Günde yirmi dakika, yılda yüz yirmi saat eder.</item>
+        <item>Uyumadan önceki o zamanı az önce geri aldın.</item>
+        <item>İki bildirimin arasına çok fazla hayat sığar.</item>
+        <item>Günü parça parça kaptırmazsan, bütünü sana kalır.</item>
+        <item>Buraya kadar zamanını koruyarak geldin. Bu da onlardan biri.</item>
+        <item>Dikkatin, dünyanın en çok kapışılan şeyi. Az önce kazanan sen oldun.</item>
+        <item>Odağın geri gelmesi yirmi dakika sürer. Onu şimdi kaptırma.</item>
+        <item>Bütün bir zihin, paramparça bir zihinden daha değerlidir.</item>
+        <item>Buraya gelmeden önce bir şeye odaklanmıştın.</item>
+        <item>Bölünmüş dikkat, dikkat değildir. Sadece yorgunluktur.</item>
+        <item>Yaptığın şey seni bütünüyle hak ediyor.</item>
+        <item>Derin düşünmek kesintisiz zaman ister. İşte o zaman bu.</item>
+        <item>Her ekran değiştirme, saatin gösterdiğinden daha pahalıya patlar.</item>
+        <item>Zihnin iyi gidiyordu. Bırak devam etsin.</item>
+        <item>Derin çalışma, akışta bir kaydırmaya bile dayanamaz.</item>
+        <item>Akış, dikkatini çalmak için tasarlandı. Sen bunu fark ettin.</item>
+        <item>Uzun bir düşüncenin tamamlanması için sessizlik gerekir.</item>
+        <item>Bütün bir fikri aklında tutabilirsin. Sadece alana ihtiyacın var.</item>
+        <item>Dikkat dağınıklığı dinlenmek değildir. Gerçek dinlenme insanı dinlendirir.</item>
+        <item>Az önceki odağın hâlâ bir yerlerde. Ona geri dön.</item>
+        <item>Dikkatin bugün satılık değil.</item>
+        <item>Zihninin en iyi hâli yirminci dakikadan sonra ortaya çıkar.</item>
+        <item>Şimdi ara vermek, göründüğünden daha pahalıya mal olur.</item>
+        <item>Odak isteyen işleri yapabilirsin. İşe onu korumakla başla.</item>
+        <item>İçeride acilen dikkatine ihtiyaç duyan hiçbir şey yok.</item>
+        <item>Odaklı bir saat, bölük pörçük dört saatten daha verimlidir.</item>
+        <item>Zihnin, konudan konuya atlamadığında daha iyi çalışır.</item>
+        <item>Yarım kalan iş bugün hâlâ bitebilir.</item>
+        <item>Odak irade işi değil, ortam işidir. Az önce kendi ortamını düzenledin.</item>
+        <item>O zor sorun, başında kaldıkça çözülür.</item>
+        <item>Dikkatin sınırlı. Bu yüzden bu kadar değerli.</item>
+        <item>Her şeyi şu an bilmek zorunda değilsin.</item>
+        <item>Gürültü orada olmaya devam edecek. Nadir olan senin sessizliğin.</item>
+        <item>Büyük işleri, bölünmeden çalışabilen insanlar yaptı.</item>
+        <item>Yaptığın işe geri dön. Aklın hâlâ orada.</item>
+        <item>Bir seferde tek iş, göründüğünden daha hızlıdır.</item>
+        <item>Bakma aceleciliği geçer. Yarıda kalan fikir bazen geri gelmez.</item>
+        <item>Odaklanma gücün, son zamanlarda kullandığından daha büyük.</item>
+        <item>İyi düşünmek yavaştır. Bırak yavaş olsun.</item>
+        <item>Dikkatin bugün bir şey kurdu. Merak yüzünden onu bozma.</item>
+        <item>Akıl isteyen iş, aklın tamamını ister.</item>
+        <item>Bir saatlik odağın öğrettiğini hiçbir akış sana öğretemez.</item>
+        <item>Geri çevirdiğin her bildirim biraz daha berraklık demek.</item>
+        <item>Anlamaya çok yaklaşmıştın. Oraya geri dön.</item>
+        <item>Dinlenmiş zihin, gün boyu oradan oraya çekilmemiş zihindir.</item>
+        <item>Dikkatin, geri kalan her şeyi inşa ettiğin malzemedir.</item>
+        <item>Zor olan başlamak. Sen zaten başladın. Sıfırdan başlama.</item>
+        <item>Konuyu rahat bırak, zihninde kendiliğinden çözülsün.</item>
+        <item>Gürültü durunca berraklık ortaya çıkar.</item>
+        <item>Günün en iyi işi henüz gelmedi.</item>
+        <item>Sorun zamansızlık değil, bölünmemiş zamanın azlığı.</item>
+        <item>Akışın izin verdiğinden çok daha iyi düşünürsün.</item>
+        <item>O yazı, o kod, o sohbet. Hepsi seni bütünüyle bekliyor.</item>
+        <item>Odak bir kas gibidir. Bugünkü gibi günlerle güçlenir.</item>
+        <item>Zihnin az önce sana teşekkür etti.</item>
+        <item>Her seferinde tek bir şey, hâlâ var olan en gelişmiş teknik.</item>
+        <item>Dikkatle yaptığın kalır. Gerisi geçip gider.</item>
+        <item>Düşünmenin kestirme yolu yok. Sadece kesintisiz zaman var.</item>
+        <item>Bir düşünceyi sonuna kadar götürmeyi hak ediyorsun.</item>
+        <item>Zihnin keskindi. O ipin ucunu kaçırma.</item>
+        <item>Ekran yanıp söner. Fikirler sönmez. Fikirlerle kal.</item>
+        <item>Odaklı bir gün, koşturmacayla geçen üç güne bedeldir.</item>
+        <item>Yavaş değilsin. Sadece sürekli bölünüyordun.</item>
+        <item>Bugün önemli olan konu akışta değil.</item>
+        <item>Rotada kalmak, rotaya geri dönmekten daha az yorar.</item>
+        <item>Bütün dikkatin bir hediye. Onu hak edene ver.</item>
+        <item>İyi fikirler sessizlikte belirir.</item>
+        <item>Güzel bir şeyin tam ortasındaydın.</item>
+        <item>Aklı on yerde olan kimse doğru düşünemez.</item>
+        <item>Derinlik, yüzeyde biraz zaman geçirdikten sonra gelir.</item>
+        <item>Odak daha çok yapmakla değil, iyi yapmakla ilgilidir.</item>
+        <item>Bugün önemli bir işin var. O iş akış değil.</item>
+        <item>Zihnin başladığı cümleyi bitirsin.</item>
+        <item>Kesintisiz bir saat, gün içinde mümkün olanı değiştirir.</item>
+        <item>Şimdi zor görünen, sürekli dikkatle kolaylaşır.</item>
+        <item>Odağın senin avantajın. Artık çok az kişi kendi odağını koruyabiliyor.</item>
+        <item>Önemli bir şeyi bir sürü hızlı şeyle değiştirme.</item>
+        <item>Merak bekleyebilir. Odak beklemez.</item>
+        <item>Bir şey inşa ediyorsun. Devam et.</item>
+        <item>İşten işe atlamak verimli görünür ama neredeyse hiç değildir.</item>
+        <item>Zihnini bugün en iyi şekilde kullanma fırsatı hâlâ duruyor.</item>
+        <item>Şimdi sakladığın dikkat, sonra sonuçta kendini gösterir.</item>
+        <item>Zihnin bir akış değil. Dikkat ettiğin şeyi saklar.</item>
+        <item>Seni bütünüyle hak eden bir konu nadirdir. Tadını çıkar.</item>
+        <item>Zor, imkânsız demek değil. Sadece zaman alır.</item>
+        <item>O düğümü çözmene birkaç dakika kaldı.</item>
+        <item>Gürültüyü beslemeyi bıraktığında o da kaybolur.</item>
+        <item>Yaptığın işle, bitene kadar kal.</item>
+        <item>Her derin dalış, on sığ dalışa bedeldir.</item>
+        <item>Neyin anıya dönüşeceğine dikkatin karar verir.</item>
+        <item>Yalnızca dikkat ettiğin şeyleri hatırlarsın.</item>
+        <item>Düşünmek, bugün yapacağın en kârlı şey.</item>
+        <item>Acelesi olmayan zihin, aceleci zihnin göremediğini çözer.</item>
+        <item>İyi iş hız değil, sabır ister.</item>
+        <item>Şimdi göreceğin hiçbir şey yarın bir sohbete konu olmazdı.</item>
+        <item>Bugünkü zihin berraklığın, bunun gibi kararlarla başladı.</item>
+        <item>Bölünmek, var olan en pahalı vergidir.</item>
+        <item>Tek bir şeyde sandığından çok daha uzun kalabilirsin.</item>
+        <item>Gözünden kaçan o ayrıntı, sessizlikte ortaya çıkar.</item>
+        <item>Odak geri gelir. Sadece ekransız birkaç dakikaya ihtiyacı var.</item>
+        <item>Uzun süre odaklanabilirsin. Yapamayacağına bahse giren ise akış.</item>
+        <item>Bugün bir şeyi bitirmek, beş şeye başlamaktan daha değerli.</item>
+        <item>Tam dikkatin, senin için bile nadir bir şey.</item>
+        <item>Düşüncenin nefes almasına izin ver.</item>
+        <item>Odakla kurduğun şeyi kimse aşağı kaydırıp geçemez.</item>
+        <item>Açma isteği birkaç dakikada geçer. Hep geçer.</item>
+        <item>Bu dürtünün son kullanma tarihi var. Kendi kendine sona erer.</item>
+        <item>Hiçbir şey yapman gerekmiyor. Sadece dalganın inmesini bekle.</item>
+        <item>Şu an hissettiğin aciliyet senin değil. Sana öğretildi.</item>
+        <item>Bir kez nefes al. İstek bir dakika öncesinden bile daha zayıf.</item>
+        <item>Dürtü başta güçlüdür, yolun yarısında kaybolur.</item>
+        <item>Bunu isteyen sen değilsin. İsteyen alışkanlık.</item>
+        <item>Kısa bir süre rahatsız hissettirir. Sonra geçer.</item>
+        <item>Bunu daha önce de hissettin ve her seferinde atlattın.</item>
+        <item>İstek dalga dalga gelir. Dalgalar kırılır.</item>
+        <item>Kimse günün ilk dürtüsüne uymak zorunda değil.</item>
+        <item>Göğsündeki bu sıkışma bir şarkıdan daha kısa sürer.</item>
+        <item>Sen otuz saniyelik bir dürtüden daha büyüksün.</item>
+        <item>İsteği bir şey yapmadan geçip gitmeye bırak.</item>
+        <item>Şu anki rahatsızlık, alışkanlığın gevşemesidir. Bu bir ilerleme.</item>
+        <item>Direnmiyorsun. Sadece bekliyorsun.</item>
+        <item>İstek güçlü gelir, sessizce gider.</item>
+        <item>Yirmiye kadar say. O zamana kadar azalmış olacak.</item>
+        <item>Bir şeyi istemek, ona ihtiyaç duymakla aynı şey değil.</item>
+        <item>Dürtü hemen cevap ister. Hiç cevap verme.</item>
+        <item>Bu en zor an ve kısa sürüyor.</item>
+        <item>Savaşman gerekmiyor. Sadece şimdi karar verme.</item>
+        <item>Kimse beslemediğinde istek kaybolur.</item>
+        <item>Bu kaygı, içerik açlığı değil.</item>
+        <item>İsteği fark et ama içine girme.</item>
+        <item>Beynin her zamankini sipariş ediyor. Servis etmek zorunda değilsin.</item>
+        <item>Beş dakika sonra açmak istediğini hatırlamayacaksın bile.</item>
+        <item>Dalga şu an yükseliyor. Her zaman geri çekilir.</item>
+        <item>En zor kısmın öbür tarafına çoktan geçtin.</item>
+        <item>Dürtü, kendi gücü hakkında yalan söyler.</item>
+        <item>Kalk, su iç, geri gel. Dürtü çoktan gitmiş olacak.</item>
+        <item>İstek bir emir değildir.</item>
+        <item>Bunu hissedip hiçbir şey yapmayabilirsin. Buna izin var.</item>
+        <item>Bedenin ekran değil, hareket istiyor.</item>
+        <item>Bu istek otomatik. Senin cevabının öyle olması gerekmiyor.</item>
+        <item>Biraz daha beklersen kötü bir şey olmaz.</item>
+        <item>Ona alan tanırsan istek kendiliğinden kaybolur.</item>
+        <item>Sadece biraz kaygılısın. Bu geçer ve ekran gerektirmez.</item>
+        <item>Dürtü yalnızca bir öneri. Kararı sen verirsin.</item>
+        <item>Bir dakika daha, istek de bambaşka bir şeye dönüşür.</item>
+        <item>Zor kısım kısa sürer. Güzel kısım bütün gün sürer.</item>
+        <item>Bu, meşhur o küçük itiş. Aslında o kadar da itmiyor.</item>
+        <item>Yargılamadan bekle. İstek kendi kendine dağılır.</item>
+        <item>Beynin her zamanki kestirmeyi istiyor.</item>
+        <item>Hiçbir şeyi yenmen gerekmiyor. Sadece geçmesine izin ver.</item>
+        <item>Geçip gitmesine izin verdiğin her dalga, bir sonrakini küçültür.</item>
+        <item>Kaygı hızlı çözüm ister. Burada bulamayacak.</item>
+        <item>Bir an kıpırdamadan dur. Dürtü durmaz.</item>
+        <item>Bekleyerek hiçbir şey kaybetmiyorsun.</item>
+        <item>Can sıkıntısı acil durum değildir.</item>
+        <item>Şu an boşluk hissetmen normal. O boşluk kendiliğinden dolar.</item>
+        <item>Bir şeye göz atma isteği nadiren o şeyle ilgilidir.</item>
+        <item>Rahatsızsın ama tehlikede değilsin.</item>
+        <item>Bu birazdan gevşeyecek.</item>
+        <item>Alışkanlık güçlüdür ama kısa sürer.</item>
+        <item>Bu seferkini geçir. Sadece bunu.</item>
+        <item>Bu sayede bir dahaki sefer daha kolay olacak.</item>
+        <item>Kendini hiçbir şeye ikna etmen gerekmiyor. Sadece bekle.</item>
+        <item>Bir bardak su, akışta bir kaydırmadan daha çok işe yarar.</item>
+        <item>Bu aciliyet sahte ve sen bunu zaten biliyorsun.</item>
+        <item>Dürtü cevapsız kalmaya dayanamaz.</item>
+        <item>Otuz saniye bekle. Sonra yeniden karar ver.</item>
+        <item>Şu an zirvedesin. Buradan sonrası hep yokuş aşağı.</item>
+        <item>Hiçbir şey şu an tepki vermeni gerektirmiyor.</item>
+        <item>İstek bir misafir. Gelir ve gider.</item>
+        <item>Sen dürtü değilsin. Onu izleyen sensin.</item>
+        <item>Bir dakika tanırsan bedenin gevşer.</item>
+        <item>Bu sadece uyarı arayan beynin. Başka bir uyarı bulur.</item>
+        <item>Üç kez derin nefes almak bunun şiddetini değiştirir.</item>
+        <item>İsteğe doğrudan baktığında küçülür.</item>
+        <item>Bu dakikaya dayanabilirsin. Daha zorlarına dayandın.</item>
+        <item>Hiçbir şey yapmasan da bu huzursuzluk geçer.</item>
+        <item>Elin aklından hızlı davrandı. Olur böyle şeyler.</item>
+        <item>İlk on saniyede hiçbir karar vermek zorunda değilsin.</item>
+        <item>Birkaç an sonra bunu hatırlamayacaksın bile.</item>
+        <item>Tetik çekildi. Cevap hâlâ sende.</item>
+        <item>İsteğin var olmasına izin ver ama ona uyma.</item>
+        <item>Bu bir ihtiyaç değil. Sadece bir alışkanlık.</item>
+        <item>Bekle. Yapman gereken tek şey gerçekten bu.</item>
+        <item>Ateşe odun atmazsan zihnin kendiliğinden sakinleşir.</item>
+        <item>Zaten bekliyorsun. Zafer de bu zaten.</item>
+        <item>Dürtü kapalı bir kapıya çarpınca gücünü yitirir.</item>
+        <item>Burada geçen her saniye, kazandığın bir saniye.</item>
+        <item>Dalga kırıldı. Şimdiden ne kadar hafiflediğine bak.</item>
+        <item>Açmamak için bir nedene ihtiyacın yok.</item>
+        <item>İstek, pişmanlıktan daha çabuk geçer.</item>
+        <item>Biraz esneme, akışın çözemeyeceğini çözer.</item>
+        <item>Sen bunu okurken istek çoktan uzaklaşıyor.</item>
+        <item>Şu an hiçbir şeye karar verme. Sadece nefes al.</item>
+        <item>Dürtü kendi gelir, kendi gider.</item>
+        <item>En zoru bu an. Üstelik çabuk geçiyor.</item>
+        <item>Buraya kadar dayandın. Birkaç saniye kaldı.</item>
+        <item>Beden dinlenmek istediğinde ekran ister. Ona dinlenme ver.</item>
+        <item>İstek, her karşılıksız kaldığında biraz daha küçülür.</item>
+        <item>Biraz daha bekle. Hepsi bu.</item>
+        <item>An geçer. Seçim kalır.</item>
+        <item>Dar geçitten az önce geçtin.</item>
+        <item>İstek duymak insanca. Ona uymamak da öyle.</item>
+        <item>Zorlamazsan sakinlik birkaç an içinde geri gelir.</item>
+        <item>Biraz hafifledi, değil mi?</item>
+        <item>Buna sakin olduğun bir anda karar verdin. Karar veren o hâline güven.</item>
+        <item>Dünkü sen, bugünkü seni düşündü.</item>
+        <item>Bu ekran, kendinden kendine bir not.</item>
+        <item>Engellenmiyorsun. Sana hatırlatılıyor.</item>
+        <item>Olmak istediğin kişi öğleden sonrasını ekran kaydırarak geçirmez.</item>
+        <item>Bu seçim senindi. Hâlâ da senin.</item>
+        <item>Sen fark edip harekete geçen birisin.</item>
+        <item>Bunu yüklemeye kimse seni zorlamadı. Sen istedin.</item>
+        <item>Yarınki sen, şimdiki senden hoşnut olacak.</item>
+        <item>Sen zaten kendi zamanını koruyan birisin.</item>
+        <item>Bu bir ceza değil. Kendinle yaptığın bir anlaşma.</item>
+        <item>Bu kuralı sen yazdın. Ve işe yarıyor.</item>
+        <item>Kendi dikkatinin sahibi olmak her gün yeniden yapılan bir seçim.</item>
+        <item>Burada kimseye bir şey kanıtlaman gerekmiyor.</item>
+        <item>Olmak istediğin kişi küçük kararlarla başlar.</item>
+        <item>Bu ekranın doğru tarafındasın.</item>
+        <item>Burayı her kapattığında, olmak istediğin kişiye biraz daha dönüşüyorsun.</item>
+        <item>Sen istediğin şey değilsin. Yaptığın şeysin.</item>
+        <item>Kendinle yaptığın anlaşma, diğer her anlaşma kadar geçerli.</item>
+        <item>Bir kalıbı fark edip değiştirdin. Bu nadir görülür.</item>
+        <item>Sen cebindeki uygulamalardan daha büyüksün.</item>
+        <item>Bu senin kuralın ve senin tarafında.</item>
+        <item>Alışkanlıklarını değiştirmeye hakkın var.</item>
+        <item>Tekrar tekrar yaptığın şey, kim olduğundur.</item>
+        <item>Daha ferah bir hayatı seçtin.</item>
+        <item>Sana söz geçiren uygulama değil.</item>
+        <item>Kimliğin bir akışa sığmaz.</item>
+        <item>Bunu bir nedenle yükleyen kişi sensin.</item>
+        <item>O nedeni hatırla. Hâlâ geçerli.</item>
+        <item>Kendi kararına sadık kalıyorsun.</item>
+        <item>Dikkatine senin yerine kimse karar vermez.</item>
+        <item>Neler olduğunu fark ettin. Bu bile her şeyi değiştiriyor.</item>
+        <item>Kendi gününün sahibi olmak süregiden bir emek.</item>
+        <item>Sen yolcu değilsin. Direksiyondasın.</item>
+        <item>Bu, kendini ciddiye alan birinin seçimi.</item>
+        <item>Kendinden sen sorumlusun. Ve bu sorumluluğu taşıyorsun.</item>
+        <item>Zamanının bir sahibi var. Şu an bunu okuyor.</item>
+        <item>Kendinle bir anlaşma yaptın. Sözünü tut.</item>
+        <item>Böyle her karar seni olmak istediğin kişiye yaklaştırır.</item>
+        <item>Özgürlüğünü kaybetmiyorsun. Onu kullanıyorsun.</item>
+        <item>Şimdi ne yapılacağına sen karar veriyorsun.</item>
+        <item>Farklı yaşamak için izne ihtiyacın yok.</item>
+        <item>Bu sınır bir kafes değil, bir özen.</item>
+        <item>Daha zor ama daha çok sana ait bir yol seçtin.</item>
+        <item>Hayran olduğun kişi de şu an hayır derdi.</item>
+        <item>Sen uygulamada değil, kendi hayatında yaşıyorsun.</item>
+        <item>Senin zamanın, senin zihnin, senin seçimin.</item>
+        <item>Kendine verdiğin sözü tutuyorsun. Bu önemli.</item>
+        <item>Dikkatine senin yerine kimse göz kulak olmayacak.</item>
+        <item>Rotanı değiştirebildiğini zaten kanıtladın.</item>
+        <item>Özerklik şudur: dürtüyle değil, önceden karar vermek.</item>
+        <item>Saygı duyduğun birini inşa ediyorsun.</item>
+        <item>Bu, senin plan yapan hâlin.</item>
+        <item>Buraya tesadüfen düşmedin. Bunu sen kurdun.</item>
+        <item>Kendine verdiğin söz değerlidir.</item>
+        <item>Gününü nasıl geçireceğine dair kendi fikrin var.</item>
+        <item>Uygulama seni tanımıyor. Sen kendini tanıyorsun.</item>
+        <item>Kendi hayatının sahibi gibi davranıyorsun.</item>
+        <item>Kendi kararının arkasında durmak özgürlüktür.</item>
+        <item>Burada kuralları yazan sensin.</item>
+        <item>Bu, kendine iyi bakman demek.</item>
+        <item>Kapana kısılmadın. Korunuyorsun.</item>
+        <item>Değişme isteğin, bu dürtüden çok daha eski.</item>
+        <item>Olmaya çalıştığın kişi zaten sensin.</item>
+        <item>Zor karar çoktan verildi. Bu sadece kolay olanı.</item>
+        <item>Kontrol sende ve bu, bugünlerde nadir bir şey.</item>
+        <item>Kimsenin bilmesine gerek yok. Bu, seninle kendin arasında.</item>
+        <item>Kendi sözüne güvenebilmeyi hak ediyorsun.</item>
+        <item>Bu seçimin altında senin imzan var.</item>
+        <item>Önceden karar veren biri oldun.</item>
+        <item>Bu vazgeçmek değil. Başka bir şeyi seçmek.</item>
+        <item>Bir yönün var. Bu ekran o yönü gösteriyor.</item>
+        <item>Gerçek özgürlük, sürekli bir yerlere çekilmemektir.</item>
+        <item>Dikkatinin değerini belirleyen sensin.</item>
+        <item>Buradaki her hayır, sana ait başka bir şeye evet demek.</item>
+        <item>Özenle yaptığın bir plana sadık kalıyorsun.</item>
+        <item>Kendinin sahibi olmak emek ister ve buna değer.</item>
+        <item>Değişmek istediğini kabul ettin. Zor kısım zaten buydu.</item>
+        <item>Bu akşam aynadaki kişi bundan hoşlanacak.</item>
+        <item>Algoritmaya hiçbir borcun yok.</item>
+        <item>Hayatın kimsenin içeriği değil.</item>
+        <item>Tam olmaya karar verdiğin yerdesin.</item>
+        <item>Kendine koyduğun sınır, var olan en saygılı sınırdır.</item>
+        <item>Bu ekrandan daha büyük bir hayat planın var.</item>
+        <item>Bu, an be an yaşanan bir olgunluk.</item>
+        <item>Farkında olmadan geleceğine iyi bakıyorsun.</item>
+        <item>Böyle her seçim, kim olduğunu biraz daha netleştirir.</item>
+        <item>Açmadığın için kimseye açıklama yapmak zorunda değilsin.</item>
+        <item>Sözün uygulamaya değil, kendine.</item>
+        <item>Doğru kararı, içinde o istek yokken verdin.</item>
+        <item>Bu, hayatının direksiyonunda senin olman.</item>
+        <item>Kolay kolay yönlendirilemeyen biri oldun.</item>
+        <item>Dikkatinin bir sahibi var ve o çok uyanık.</item>
+        <item>Az önce kendine iyi bakan biri gibi davrandın.</item>
+        <item>Plan senin. Şu an işliyor.</item>
+        <item>Sen, küçük seçimlerinin toplamısın.</item>
+        <item>Son söz her zaman sende.</item>
+        <item>Zamanın üzerindeki tek yetki sende.</item>
+        <item>İşe yarıyor, çünkü işe yaramasını sen istedin.</item>
+        <item>Senden büyük olmak isteyen alışkanlıktan daha büyüksün.</item>
+        <item>Bir tane daha. Hesap böyle büyür.</item>
+        <item>Küçük ve sık olan, büyük ve seyrek olanı yener.</item>
+        <item>Az önce hanene bir puan daha ekledin.</item>
+        <item>Kimse bir anda değişmez. Bugünkü gibi günlerde değişir.</item>
+        <item>Bu, farklı bir hayatın binde biri.</item>
+        <item>Bir iyi gün hiçbir şeyi değiştirmez. Yüz iyi gün her şeyi değiştirir.</item>
+        <item>Bir seri oluşturuyorsun.</item>
+        <item>İlerleme, içeriden bakınca neredeyse hiç ilerleme gibi görünmez.</item>
+        <item>Bu seçimlerin toplamı, her birinden daha büyük.</item>
+        <item>İstikrar sıkıcıdır ve işe yarar.</item>
+        <item>Duvara bir taş daha.</item>
+        <item>Kalıcı bir şey üzerinde çalışıyorsun.</item>
+        <item>Yeterince tekrar edersen bu kendiliğinden olur.</item>
+        <item>Bu zaferi kimse görmez ama yine de sayılır.</item>
+        <item>Birkaç hafta sonra bu isteği hissetmeyeceksin bile.</item>
+        <item>Bugün sayılır. Yarın da sayılacak.</item>
+        <item>Bir zincir, böyle halkalardan oluşur.</item>
+        <item>Yeni alışkanlık şu an yazılıyor.</item>
+        <item>Her tekrar eski alışkanlığı biraz daha gevşetir.</item>
+        <item>Bunu daha önce yaptın. Yine yap.</item>
+        <item>Kalıcı şeylerin hızı yavaştır.</item>
+        <item>Değişim gözlerden uzakta gerçekleşir.</item>
+        <item>Görünmez ama gerçek bir şey biriktiriyorsun.</item>
+        <item>Doğru yönde bir gün daha.</item>
+        <item>Sonuç sonra görünür. Seçim bugün.</item>
+        <item>Her seferinde bir seçim. İş böyle yapılır.</item>
+        <item>Dün olduğundan daha yakınsın.</item>
+        <item>Mükemmel olması gerekmiyor. Sık olması gerekiyor.</item>
+        <item>Eğri önce yavaş, sonra hızla yükselir.</item>
+        <item>Sürecin ortasındasın. Süreç böyle bir şey.</item>
+        <item>Her küçük hayır, büyük bir evet inşa eder.</item>
+        <item>Bunların hiçbiri dramatik değil. İşe yaramasının nedeni de bu.</item>
+        <item>Yol, bunun gibi adımlardan oluşur.</item>
+        <item>Rutininin yeni bir hâlini oluşturuyorsun.</item>
+        <item>Bir ay sonra bu kolay gelecek.</item>
+        <item>Tekrar, kararı bir yaşam biçimine dönüştürür.</item>
+        <item>Yeni yolu az önce biraz daha sağlamlaştırdın.</item>
+        <item>Yüzde yüz, yüzde doksan sekizden daha kolaydır.</item>
+        <item>Seriyi bugün bozma.</item>
+        <item>Sıkıcı kısmı yapıyorsun; asıl önemli olan da o.</item>
+        <item>Değişimi hissetmeyiz. Sonradan görürüz.</item>
+        <item>Bir tuğla daha yerine oturdu.</item>
+        <item>Beynini başka bir şey beklemeye alıştırıyorsun.</item>
+        <item>Bütün teknik, devam etmekten ibaret.</item>
+        <item>Toplamda bakınca bu zaferlerin hiçbiri küçük değil.</item>
+        <item>Koşman gerekmiyor. Durmaman yeter.</item>
+        <item>Bu şimdiden kolaylaşıyor ve sen fark etmedin bile.</item>
+        <item>Bir hafta böyle geçerse günün değişir.</item>
+        <item>Zihninde yeni bir yol açıyorsun.</item>
+        <item>Her sefer sayılır, öyle görünmese bile.</item>
+        <item>Kimse alkışlamıyor ama işe yarıyor.</item>
+        <item>Birikim sessizdir ve durdurulamaz.</item>
+        <item>Bu konuda geçen aydan daha güçlüsün.</item>
+        <item>Bugünkü iyi bir seçim yarınkini kolaylaştırır.</item>
+        <item>İstikrar içeriden böyle görünür.</item>
+        <item>Biriken avantaja bir gün daha eklendi.</item>
+        <item>Yoldasın ve yol uzun. Sorun değil.</item>
+        <item>Tekrarlanan şey kolaylaşır.</item>
+        <item>Dönüştüğün kişiyi az önce biraz daha güçlendirdin.</item>
+        <item>Bugün hesap senin lehine.</item>
+        <item>Küçük kazançlar izin istemeden birikir.</item>
+        <item>Mesele bugün değil. Mesele toplam.</item>
+        <item>Görünmeyen işi yapıyorsun.</item>
+        <item>Devam et. Bütün sır gerçekten bu.</item>
+        <item>Böyle her gün yükü biraz daha hafifletir.</item>
+        <item>Eski alışkanlık şu an alan kaybediyor.</item>
+        <item>Henüz filizlenmemiş bir şeyi suluyorsun.</item>
+        <item>Öyle görünmese de değişim gerçekleşiyor.</item>
+        <item>Bir kez daha. Hep yalnızca buydu.</item>
+        <item>İyi günlerden bir birikim oluşturuyorsun.</item>
+        <item>Zamanla bu sıradan bir hâl alır.</item>
+        <item>Az önce yeniden seçtin. Ve bu da sayılır.</item>
+        <item>Böyle bir ay ve bambaşka biri olursun.</item>
+        <item>Bugünkü çaba unutulur. Sonuç kalır.</item>
+        <item>Artık buna başlayan kişi değilsin.</item>
+        <item>Her zaman yapmak, çok yapmaktan daha değerlidir.</item>
+        <item>Her gün, olmak istediğin kişiye verilmiş bir oy.</item>
+        <item>Yeni alışkanlığın yer kazanmasına izin veriyorsun.</item>
+        <item>Bunun kahramanca olması gerekmiyor. Sadece olması yeter.</item>
+        <item>Doğru yolu az önce güçlendirdin.</item>
+        <item>Beyin her şeyi tekrar ederek öğrenir.</item>
+        <item>Bugünle dünün toplamı şimdiden epey bir şey.</item>
+        <item>Hissetmesen de iyi gidiyorsun.</item>
+        <item>İlerleme, tatsız tekrarların içinde saklıdır.</item>
+        <item>Uzun yolda kısa bir adım daha.</item>
+        <item>Bunu doğal hâle getiriyorsun.</item>
+        <item>Geriye kalan, defalarca yapılmış güzel bir şeydir.</item>
+        <item>Güç, sert yapmaktan değil, yeniden yapmaktan gelir.</item>
+        <item>Yarının yolunu az önce kısalttın.</item>
+        <item>Bir tane daha. Bu kadar. Ve bu yeterli.</item>
+        <item>Ardında iyi kararlardan bir iz bırakıyorsun.</item>
+        <item>İstikrar, çabayı kimliğe dönüştürür.</item>
+        <item>Her gün, tam bir gün olarak sayılır.</item>
+        <item>Uzun oyundasın ve kazanıyorsun.</item>
+        <item>Bu, sen fark etmeden kim olduğunun bir parçası olacak.</item>
+        <item>Günün en iyi yatırımı az önce yapıldı.</item>
+        <item>Az önce çizgini korudun.</item>
+        <item>Süreklilik, yetenekten daha nadirdir.</item>
+        <item>Gerçek değişim hep yavaştır ve hep buna değer.</item>
+        <item>Kendi hayatına doğru bir seçim daha.</item>
+        <item>Gözlerin bu molaya minnettar.</item>
+        <item>Kalk ve gerin. Bedenin ekran değil, bunu istiyordu.</item>
+        <item>Derin bir nefes al. Bu bile bir şeyleri değiştirir.</item>
+        <item>Su iç. Eksik olan muhtemelen buydu.</item>
+        <item>Bir süredir boynun eğik duruyor. Dikleştir.</item>
+        <item>Bu geceki uykun, şimdiki ekranlarda başlıyor.</item>
+        <item>İyi uyumak, var olan en verimli şeydir.</item>
+        <item>Bedenin çok uzun süredir hareketsiz.</item>
+        <item>Yirmi saniye uzağa bak. Gözlerin rahatlar.</item>
+        <item>Kısa bir yürüyüş, ruh hâlini her akıştan daha çok değiştirir.</item>
+        <item>Hissettiğin yorgunluk sadece ekrandan olabilir.</item>
+        <item>Zihnin kaydırmak istediğinde bedenin hareket istiyor.</item>
+        <item>Temiz hava, ekranın çözemediği şeyleri çözer.</item>
+        <item>Omuzlar aşağı. Çene gevşek.</item>
+        <item>Farkında olmadan omuzlarını geriyorsun.</item>
+        <item>Tende on dakika güneş çok değerlidir.</item>
+        <item>Beden ekran kaydırarak değil, uzanarak dinlenir.</item>
+        <item>Bu gece erken yatmak, yarına bir hediye.</item>
+        <item>Son yirmi dakikada duruşun değişti. Düzelt.</item>
+        <item>Ekran yorgunluğu gerçek yorgunluk değil. Başka bir şey.</item>
+        <item>Kollarını kaldır. Uzan. İşte, şimdiden daha iyi.</item>
+        <item>Ekran kaydırırken daha az göz kırparsın. Şimdi kırp.</item>
+        <item>Beden gerçek molalarla daha iyi çalışır.</item>
+        <item>Mahallede kısa bir tur kafanı temizler.</item>
+        <item>Omurgan bu aradan hoşlanacak.</item>
+        <item>Dinlenmek, oyalanmaktan farklıdır.</item>
+        <item>Dünkü kötü uyku, buna benzer bir ekranda başladı.</item>
+        <item>Boynunu iki yana esnet. On saniye sürer.</item>
+        <item>Hareket, kaygıyı içerikten daha iyi çözer.</item>
+        <item>Bedenin, sahip olduğun tek ev.</item>
+        <item>Su, ışık ve hareket. Neredeyse her zaman mesele bu.</item>
+        <item>Ekran, dinlendiriyor gibi görünse bile yorar.</item>
+        <item>Bir anlığına gözlerini kapat. O kadar.</item>
+        <item>Yüzeysel nefes alıyorsun. Üç kez derin nefes al.</item>
+        <item>Bir duş, göründüğünden çok daha fazla şeyi çözer.</item>
+        <item>Bedenin çok uzun süredir aynı yerde.</item>
+        <item>Gerçek dinlenmede ekran yoktur.</item>
+        <item>Yirmi dakikalık yürüyüş bütün günü değiştirir.</item>
+        <item>Bedenin hareketsiz olduğu için başın ağır.</item>
+        <item>Gözler kuru, omuzlar kaskatı. Fark ettin mi?</item>
+        <item>İki dakika ayağa kalkmak, bir kaydırmadan çok daha iyi tazeler.</item>
+        <item>Beden uyku, zihin uyarı istiyor. Bedenini dinle.</item>
+        <item>Ekran ışığı uykunu saatlerce bozar.</item>
+        <item>Bacaklarını uzat. Çabuk ve işe yarıyor.</item>
+        <item>Gerçekten dinlendiren bir molayı hak ediyorsun.</item>
+        <item>Hareket, keyfe iyi gelen en ucuz ilaçtır.</item>
+        <item>Bedenin bu gecenin uykusunu hatırlayacak.</item>
+        <item>Yavaş nefes, her videodan daha hızlı sakinleştirir.</item>
+        <item>Ya açsın ya da canın sıkılıyor. Hangisi olduğunu bul.</item>
+        <item>Zihin durunca beden toparlanır.</item>
+        <item>Yirmi saniye pencereden dışarı bak.</item>
+        <item>Bileğin ve başparmağın biraz izni hak ediyor.</item>
+        <item>Ekran yorgunluğu yürüyünce geçer.</item>
+        <item>Hafıza uykuda düzene girer. Uykunu koru.</item>
+        <item>Daha fazla değil, daha az uyarıya ihtiyacın var.</item>
+        <item>İki dakikalık esneme, on dakikalık videodan daha değerlidir.</item>
+        <item>Bedenin şu an sana bir işaret veriyor.</item>
+        <item>Hava, su ve hareket. Tarif değişmedi.</item>
+        <item>Bir dakikalığına yere uzan. Ciddiyim.</item>
+        <item>Uyuman gerekirken ekran seni uyanık tutar.</item>
+        <item>Beden mola istiyor, el ekran. Molayı ver.</item>
+        <item>Gözlerin sabahtan beri çalışıyor.</item>
+        <item>İyi uyunmuş bir gece dünyayı değiştirir.</item>
+        <item>Kalk. Sadece kalk. Bu kadarı yeter.</item>
+        <item>Bu seçim sayesinde daha iyi uyuyacaksın.</item>
+        <item>Zihnin sıkıcı bulduğu şeye beden teşekkür eder.</item>
+        <item>Sırtını esnet. Bunu istiyor.</item>
+        <item>Gerçek dinlenme sessizliktir, başka bir uyarı değil.</item>
+        <item>Bedeninin kendi ritmi var ve ekran onu yok sayıyor.</item>
+        <item>Ufka bak. Gözlerin mesafeye ihtiyaç duyuyor.</item>
+        <item>Çenendeki gerginlik ekran kaydırarak geçmez.</item>
+        <item>Ne kadar zamandır oturuyorsun, farkında mısın?</item>
+        <item>Hareket berraklık getirir. Hep getirdi.</item>
+        <item>Bir şeye karar vermeden önce su iç.</item>
+        <item>Kaçan uyku içerikle telafi edilmez.</item>
+        <item>İzin verdiğinde bedenin iyi çalışır.</item>
+        <item>Kısa bir şekerleme, bir saatlik akıştan daha çok dinlendirir.</item>
+        <item>Derin nefes almak ücretsizdir ve anında etki eder.</item>
+        <item>Ekran, haber vermeden bedenini gerer.</item>
+        <item>Olman gerekenden daha yorgunsun.</item>
+        <item>Kalk ve pencereden bak. Beş saniye.</item>
+        <item>Bedenin, kıpırdamadan ışığa bakmak için evrimleşmedi.</item>
+        <item>Parmaklarını aç. Bugün epey çalıştılar.</item>
+        <item>Uyumadan önce ekran olmayınca gece daha güzel geçer.</item>
+        <item>Ekranın sunduğu şey dinlenme değil.</item>
+        <item>Bedenin doğa istiyor, piksel alıyor.</item>
+        <item>Bir bardak su ve üç nefes. Şimdi yap.</item>
+        <item>Omzundaki gerginlik, telefonu tutuş biçiminden.</item>
+        <item>Dikkat koşturmayı bırakınca beden gevşer.</item>
+        <item>Beş dakika sonra kendini daha iyi hissedeceksin.</item>
+        <item>Hareket kimyanı değiştirir. Ekran sadece konuyu değiştirir.</item>
+        <item>Gözlerin gerçek bir dinlenmeyi hak ediyor.</item>
+        <item>Yürümek düşünceleri akış okumaktan daha iyi toparlar.</item>
+        <item>Şimdiki mavi ışık, sonra kötü uyku demek.</item>
+        <item>Daha fazla bilgiye değil, dinlenmeye ihtiyacın var.</item>
+        <item>Her şeyden önce iki derin nefes.</item>
+        <item>Bedenin dürtüden daha bilge.</item>
+        <item>Kalk ve mutfağa kadar yürü. Bu yeterli.</item>
+        <item>Bedenini dinlendir, zihnin de onunla dinlenir.</item>
+        <item>Şu an yanında etiyle kemiğiyle insanlar var.</item>
+        <item>Bir sohbet, üç yüz gönderiden daha değerlidir.</item>
+        <item>Birini ara. Sesli olarak.</item>
+        <item>Sevdiğin biri bir mesaj uzağında.</item>
+        <item>Akıştaki insanlar senin var olduğunu bilmiyor.</item>
+        <item>Seninle aynı odada olan kişi daha fazlasını hak ediyor.</item>
+        <item>Bir sarılma, hiçbir videonun çözemediğini çözer.</item>
+        <item>Son zamanlarda ihmal ettiğin birine mesaj at.</item>
+        <item>Annen bugün bir telefonuna sevinirdi.</item>
+        <item>Gerçek hayatta gerçekten cevap veren insanlar var.</item>
+        <item>Ortadan kaybolan o arkadaş hâlâ geri dönebilir. Ona ulaş.</item>
+        <item>Orada olmak, verebileceğin en nadir şey.</item>
+        <item>Birisi başını kaldırmanı bekliyor.</item>
+        <item>İyi bir soru, bir saatlik kaydırmadan daha değerlidir.</item>
+        <item>Etrafındaki insanların algoritması yok.</item>
+        <item>Hemen yanında bir sohbet sürüyor.</item>
+        <item>İhtiyacın olduğunda akıştan kimse yanında olmayacak.</item>
+        <item>Biriyle içilen bir kahve, haftanı her akıştan daha çok değiştirir.</item>
+        <item>Arkadaşlığın bir hediye. Onu paylaş.</item>
+        <item>Yanındaki kişiye bak.</item>
+        <item>Dostluk sulanarak büyür. Bugün sula.</item>
+        <item>Yanındaki insan gerçek.</item>
+        <item>Seni seven birinin beğeniye ihtiyacı yok.</item>
+        <item>Son uzun sohbetini hatırlıyor musun?</item>
+        <item>Birini yürüyüşe çağır.</item>
+        <item>En güzel anılarda nadiren ekran olur.</item>
+        <item>Şu an sen de birinin yanındaki kişisin.</item>
+        <item>Sevdiğin birine sesli mesaj gönder.</item>
+        <item>Onlara dikkat ettiğinde insanlar değişir.</item>
+        <item>Bugün varlığın biri için değerli.</item>
+        <item>İyi bir sohbet seni iyileştirir. Akış iyileştirmez.</item>
+        <item>Birinin, onu hatırladığını bilmesi gerek.</item>
+        <item>Birini takip etmek yerine biriyle buluş.</item>
+        <item>Güçlü bağlar birlikte geçirilen zamanla kurulur.</item>
+        <item>Birinin güzel gününün nedeni sen olabilirsin.</item>
+        <item>Aylardır konuşmadığın o akrabanı bir düşün.</item>
+        <item>İçten bir mesaj, bin görüntülenmeden daha değerlidir.</item>
+        <item>Birlikte olmak, bağlantıda olmaktan farklıdır.</item>
+        <item>Seninle yaşayanlar seni bütünüyle hak ediyor.</item>
+        <item>Birini akşam yemeğine davet et.</item>
+        <item>Gerçek insanların yüzü, sesi ve sınırlı bir zamanı var.</item>
+        <item>Biri için yeri doldurulamazsın. Yanında ol.</item>
+        <item>Günün en önemli sohbeti henüz gerçekleşmedi.</item>
+        <item>Yakınında ekranı olmayan biri de var.</item>
+        <item>Birini dinlemek, sevilmenin en kolay yoludur.</item>
+        <item>O arkadaşın zor bir şeyden geçiyor. Bir sor.</item>
+        <item>Çocuğun, köpeğin, komşun. Yanında biri var.</item>
+        <item>Sosyal medya seni pek çok insana bağlar ama hiçbirine gerçekten değil.</item>
+        <item>Biriyle geçen bir öğleden sonra, bir aylık akışa bedel.</item>
+        <item>Bugün birini güldürebilirsin. Gerçekten.</item>
+        <item>Tüm varlığınla orada olmak çok nadir. Sen bunu verebilirsin.</item>
+        <item>Bu hafta biri senden bahsetti. Karşılık ver.</item>
+        <item>Akıştaki kimse yokluğunu fark etmez.</item>
+        <item>Beş dakikalık bir telefon birinin gününü değiştirir.</item>
+        <item>Önemli insanlar bunun hakkında paylaşım yapmaz.</item>
+        <item>Güzel bir sohbete bir soru uzaklıktasın.</item>
+        <item>Gerçek birlikteliğin arasında reklam olmaz.</item>
+        <item>Sana hep destek olan o kişiye bugün teşekkür et.</item>
+        <item>Göz göze bakmak hâlâ en iyi teknoloji.</item>
+        <item>Ailen bir akış değil. Onları kaydırıp geçme.</item>
+        <item>Birini birlikte hiçbir şey yapmamaya davet et.</item>
+        <item>Uzaktakiler de senden haber almayı hak ediyor.</item>
+        <item>Burada değil ama dışarıda seni seven insanlar var.</item>
+        <item>Ertelenmiş zor bir konuşma, akıştan daha ağır gelir.</item>
+        <item>Yakınındakilerin, yakınındayken kıymetini bil.</item>
+        <item>İnsanlar yanlarında olanı hatırlar.</item>
+        <item>Bir arkadaşını sebepsiz yere kahveye çağır.</item>
+        <item>Bir yerlerde birisi senden haber bekliyor.</item>
+        <item>Şu an birini gerçekten dinleyebilirsin.</item>
+        <item>Bağ, kaydırarak değil, bakarak kurulur.</item>
+        <item>Dikkatin, sevdiklerine verebileceğin en güzel hediye.</item>
+        <item>Bir insan, bir profilden daha değerlidir.</item>
+        <item>Birine borçlu olduğun o konuşma. Bugün yap.</item>
+        <item>Ulaşılabilir olmak bir sevgi biçimidir.</item>
+        <item>Şu an birine ayıracak vaktin var.</item>
+        <item>Kimse hayata daha çok takipçi dileyerek veda etmedi.</item>
+        <item>Uzaktan izlemek yerine biriyle yeniden buluş.</item>
+        <item>Sevgiyi bazen yüksek sesle söylemek gerekir.</item>
+        <item>Eski arkadaş grubun hâlâ orada. Onları çağır.</item>
+        <item>Yanındaki biri konuşmak istiyor.</item>
+        <item>Kıyaslamak bağ kurmak değildir.</item>
+        <item>Bugün birinin yanında olabilirsin.</item>
+        <item>Elle yazılmış bir not. Ne güzel fikir.</item>
+        <item>Seni gerçekten tanıyanlar akışta değil.</item>
+        <item>Öğleden sonrayı biriyle paylaş.</item>
+        <item>Yakınındaki insanlar, akışa verdiğini hak ediyor.</item>
+        <item>Paylaşım yapmayan biri için önemlisin.</item>
+        <item>Ara ve gerçekten nasıl olduğunu sor.</item>
+        <item>Yalnızlık daha çok ekranla geçmez.</item>
+        <item>Bugün birine biraz daha yaklaş.</item>
+        <item>Birlikte yenen bir yemek bütün öğleden sonraya değer.</item>
+        <item>Dikkatin ilişkileri besler. Birini besle.</item>
+        <item>Şu an seni düşünen biri var.</item>
+        <item>Birine onu sevdiğini söyle.</item>
+        <item>Dostluklar kavgadan değil, sessizlikten ölür.</item>
+        <item>Etrafında iyi insanlar var. Onlarla vakit geçir.</item>
+        <item>Birinin arkadaşa ihtiyacı var ve sen bir arkadaşsın.</item>
+        <item>Akışı bırak, insanlarla buluş.</item>
+        <item>Seni seven, profilini değil, zamanını ister.</item>
+        <item>Beş dakikada birinin gününü güzelleştirebilirsin.</item>
+        <item>Üretmek yorar ama doyurur. Tüketmek dinlendirir ama boşaltır.</item>
+        <item>Söyleyecek şeylerin, göreceklerinden fazla.</item>
+        <item>İzleyeceğin şeyi şu an biri üretiyor.</item>
+        <item>Bir satır yaz. Sadece bir tane.</item>
+        <item>Dünyada çok fazla tüketici, çok az üretici var.</item>
+        <item>O fikrin hâlâ seni bekliyor.</item>
+        <item>Yapılmış bir şeye bakmak yerine bir şey yapabilirsin.</item>
+        <item>Her güzel şey, o sırada ekran kaydırmayan biri tarafından yapıldı.</item>
+        <item>Fikrin, bugünkü akışın tamamından daha değerli.</item>
+        <item>Ertelediğin şeye başla. Beş dakika yeter.</item>
+        <item>Duran projenin sadece küçük bir itişe ihtiyacı var.</item>
+        <item>Ekran kaydırmaktan başka bir şeye yeteneğin var.</item>
+        <item>Bugün, dün var olmayan bir şey yap.</item>
+        <item>Üretmek izlemekten daha eğlenceli; tek zor kısmı başlamak.</item>
+        <item>O boş defter ısırmaz.</item>
+        <item>En iyi içerik, senin ürettiğindir.</item>
+        <item>Görerek değil, yaparak daha çok öğrenirsin.</item>
+        <item>Bir enstrüman çal, resim çiz, yemek yap. Ellerinle bir şey yap.</item>
+        <item>Kafanı akışla doldurunca yaratıcılığın kaybolur.</item>
+        <item>Henüz kimsenin yapmadığı, sana ait bir eser var.</item>
+        <item>Kötü başla. Sonra düzelir.</item>
+        <item>Günde bir paragraf, bir kitaba dönüşür.</item>
+        <item>Anlatacak bir hikâyen var.</item>
+        <item>Bir şeyler yapmak boşluğun panzehiridir.</item>
+        <item>Can sıkıntısı yaratıcılığın başlangıcıdır. Bırak var olsun.</item>
+        <item>Zihnini doldurmayı bırakınca o da icat etmeye başlar.</item>
+        <item>Parasını ödediğin o kurs seni bekliyor.</item>
+        <item>Bugün yeni bir şey öğrenmek mümkün.</item>
+        <item>Tüketmek kolaydır. Bu yüzden bu kadar az tatmin eder.</item>
+        <item>Bir şey yapmak istiyorsun. Şimdi başla.</item>
+        <item>Beş dakikalık pratik, bir saatlik videodan daha değerlidir.</item>
+        <item>Denemek istediğin o tarif seni bekliyor.</item>
+        <item>Fikirler kaydırırken değil, sessizlikte gelir.</item>
+        <item>İzleyici yerine yazar olabilirsin.</item>
+        <item>Küçük bir proje haftanı değiştirir.</item>
+        <item>Vaktin olsa ne yapacağını yaz. Vaktin var.</item>
+        <item>Ellerin bir şeyler yapmayı bilir. Onları kullan.</item>
+        <item>Bugün kusurlu bir şey yap.</item>
+        <item>Öğrenmek, eğlendirilmekten daha keyiflidir.</item>
+        <item>Ürettiğin kalır. Kaydırdığın kaybolur.</item>
+        <item>Köşede bekleyen o enstrüman.</item>
+        <item>Seni bekleyen yarım kalmış bir projen var.</item>
+        <item>Üretmek, kendini kıyaslamanın tam tersidir.</item>
+        <item>Küçük başla. Bugün başla.</item>
+        <item>Günde bir sayfa, bambaşka bir hayat demek.</item>
+        <item>Hayal gücünün boş alana ihtiyacı var.</item>
+        <item>Yarın gurur duyacağın bir şey yap.</item>
+        <item>Üretmenin verdiği hazzın yerini hiçbir şey tutamaz.</item>
+        <item>Tüketmekten çok daha fazlasını yapabilirsin.</item>
+        <item>Bıraktığın o hobi hâlâ orada.</item>
+        <item>Yirmi dakika pratik, yirmi dakika ilerleme demek.</item>
+        <item>Kimse akışı kaydırarak bir şeyde ustalaşmaz.</item>
+        <item>Bir sonraki becerin bir an başlayacak. O an şimdi olsun.</item>
+        <item>Kimse görmese de yap.</item>
+        <item>Öğrenmek istediğin bir şey var. Başla.</item>
+        <item>Tüketmek, başkalarının hayatını izlemektir.</item>
+        <item>Ellerin, aklın ve zamanın var. İhtiyacın olan her şey bu.</item>
+        <item>İlk taslak her zaman kötüdür. Yine de onu yap.</item>
+        <item>Konuşmak istediğin o dil.</item>
+        <item>Can sıkıntısı, üreterek neşeye dönüşür.</item>
+        <item>Her gün biraz, her beceriyi inşa eder.</item>
+        <item>İçinde dışarı çıkmak isteyen bir şey var.</item>
+        <item>Günün hakkında yaz. Sadece kendin için.</item>
+        <item>Yaratıcılığın, gürültüyü kapatmanı bekliyor.</item>
+        <item>Bugün elinle bir şey yap.</item>
+        <item>Bir şeyi bitirmenin keyfi hiçbir şeye benzemez.</item>
+        <item>Seni heyecanlandıran o proje. Hâlâ heyecanlandırabilir.</item>
+        <item>Başlamak için iyi olman gerekmiyor.</item>
+        <item>Yeni bir yemek pişir. Bu da üretmek demek.</item>
+        <item>Bir şeyler yaptığında hayat daha ilginç hâle gelir.</item>
+        <item>Kimse bilerek doğmaz. Herkes kötü başlar.</item>
+        <item>Gece yarısı gelen o fikir. Not al.</item>
+        <item>Bildiğin şeyle birine faydalı olabilirsin.</item>
+        <item>Bugün biraz, yarın biraz yap.</item>
+        <item>Başlamak için en iyi an geçti. İkinci en iyi an şimdi.</item>
+        <item>Eserin kendi kendini yapmayacak.</item>
+        <item>Pratik, iyi olana kadar sıkıcıdır.</item>
+        <item>Sen üretmek istiyorsun. Akış ise sadece bakmanı istiyor.</item>
+        <item>Başladığın o çizim.</item>
+        <item>Yapmak, öğrenmenin en hızlı yoludur.</item>
+        <item>Bir sesin var. Onu bir şey için kullan.</item>
+        <item>Evde bir şeyi tamir etmek de üretmektir.</item>
+        <item>Bir sonraki başarın, bugün gibi sıradan bir günde başlar.</item>
+        <item>Yalnızca senin yapacağın bir şey yap.</item>
+        <item>Akış sonsuz. Eserinin bir sonu var ve bu yüzden önemli.</item>
+        <item>Bugün bir şey ekebilirsin. Gerçek anlamda.</item>
+        <item>O tablo, o plan, o hayal.</item>
+        <item>Üretmek emek ister ve onu değerli kılan da bu.</item>
+        <item>Sen her akıştan daha ilginçsin.</item>
+        <item>Yirmi dakika çalış. Hem az hem çok.</item>
+        <item>Merak, pratiğe dönüşünce daha güzel olur.</item>
+        <item>Öğrenmek istediğin o şarkı.</item>
+        <item>Şimdi faydalı ve basit bir şey yap.</item>
+        <item>Dünyaya sunacak güzel bir şeyin var.</item>
+        <item>Başladığına sevineceğin şeye başla.</item>
+        <item>Kişisel bir proje, zamanla ilişkini değiştirir.</item>
+        <item>Üretmek, zihni meşgul etmenin en iyi yoludur.</item>
+        <item>Bugün bir şeyi bitirebilirsin.</item>
+        <item>Ellerini gerçek bir şeye değdir.</item>
+        <item>Bir şeyi yapmış olma hissinin yerini hiçbir şey almaz.</item>
+        <item>Buraya gelmen sorun değil. Şimdi nefes al.</item>
+        <item>Kimse bir şey saymıyor. Sadece yoluna devam et.</item>
+        <item>Öyle görünmese de iyi gidiyorsun.</item>
+        <item>Acele yok, baskı yok. Sadece bir mola.</item>
+        <item>Bu bir sınav değil. Sadece nazik bir hatırlatma.</item>
+        <item>Deniyorsun ve bu kadarı yeter.</item>
+        <item>Her şey yolunda. Kapat ve gününe devam et.</item>
+        <item>Burada mesele hep doğru yapmak değil.</item>
+        <item>Bugün hafiflik hak ediyorsun.</item>
+        <item>Dram yok. Sadece nefes almak için bir an.</item>
+        <item>Burası sakin bir yer. Bir an kal.</item>
+        <item>Elinden gelenin en iyisini yapıyorsun. Bu önemli.</item>
+        <item>Burada baskı yok. Sadece özen var.</item>
+        <item>Nefes al. Ters giden hiçbir şey yok.</item>
+        <item>Buraya kadar geldin ve bu bile güzel.</item>
+        <item>Kimse yargılamıyor. Sen de yargılama.</item>
+        <item>Her şey yerli yerinde. Sadece devam et.</item>
+        <item>Adım adım ilerlemek doğru tempodur.</item>
+        <item>Bu konuda mükemmel olmak zorunda değilsin.</item>
+        <item>Yavaş gitmek de yürümektir.</item>
+        <item>Bu ekran senden hiçbir şey talep etmiyor.</item>
+        <item>Şu an kendine nazik davran.</item>
+        <item>İstek duymak normal. İşin bir parçası.</item>
+        <item>Kendine iyi bakıyorsun. Bu çok güzel.</item>
+        <item>Alarm yok, acele yok, telaş yok.</item>
+        <item>Sen bir insansın. Buna izin var.</item>
+        <item>Kimseye açıklama yapman gerekmiyor.</item>
+        <item>Derin nefes al. Geçti bile.</item>
+        <item>Burada güvendesin.</item>
+        <item>Bugün zor geçiyorsa sorun değil.</item>
+        <item>Hiçbir gün diğerine benzemez. Bugün de öyle.</item>
+        <item>Yavaş da olsa yoldasın.</item>
+        <item>Kendine yüklenmeyi biraz bırak.</item>
+        <item>Her şey yolunda. Sadece kısa bir nefes.</item>
+        <item>Her zaman iyi olmak zorunda değilsin.</item>
+        <item>Kendine nazik olmak, katı olmaktan daha iyi işe yarar.</item>
+        <item>Bu an sakince geçip gidecek.</item>
+        <item>Bugünün zor kısmını zaten yaptın.</item>
+        <item>Acil bir şey yok. Ciddi bir şey yok. Sadece bir mola.</item>
+        <item>Gülümse. Bu, göründüğünden daha küçük.</item>
+        <item>Deniyorsun ve önemli olan da bu.</item>
+        <item>Kimseye hesap vermek yok. Sadece ilerle.</item>
+        <item>Her şey yolunda. Gerçekten.</item>
+        <item>Hafif bir günü hak ediyorsun.</item>
+        <item>Nefes al. Dünya dönmeye devam ediyor.</item>
+        <item>Bugün hiç acele yok.</item>
+        <item>Bu seçimle barışıksın.</item>
+        <item>Gerektiği kadar yeniden başlamak sorun değil.</item>
+        <item>Burası baskısız bir yer.</item>
+        <item>Sürece karşı sabırlı ol.</item>
+        <item>Hiçbir şeyde geç kalmış değilsin.</item>
+        <item>Yüzde yüz iyi olmamak da sorun değil.</item>
+        <item>Bu mola bir düzeltme değil, bir özen.</item>
+        <item>Şimdi sadece yoluna devam edebilirsin.</item>
+        <item>Gerginlik yok. Sadece bir an.</item>
+        <item>Otomatik olarak açtıysan sorun değil.</item>
+        <item>İyi olmak için bir nedene ihtiyacın yok.</item>
+        <item>Nefes al ve devam et. Bu kadar basit.</item>
+        <item>Burada hiçbir sorun yok.</item>
+        <item>Doğru yapıyorsun.</item>
+        <item>Gerçekten sorun yok. Huzurla git.</item>
+        <item>Bu an dinlenmen için senin.</item>
+        <item>Bu konuda yalnız değilsin.</item>
+        <item>Her şey sakin. Gününe devam et.</item>
+        <item>Yük yok. Sadece bir hatırlatma.</item>
+        <item>Sen zaten yeterlisin.</item>
+        <item>Aradığın sakinlik akışta değil.</item>
+        <item>Sende her şey yolunda.</item>
+        <item>Bir saniyeliğine zihnini dinlendir.</item>
+        <item>Bu özeni hak ediyorsun.</item>
+        <item>Şu an hiçbir şeyin çözülmesi gerekmiyor.</item>
+        <item>Bir kez nefes al. Sonra devam et.</item>
+        <item>İyisin. Hepsi bu.</item>
+        <item>Baskı yok, hesap yok, skor yok.</item>
+        <item>Günün ortasında bir sakinlik anı.</item>
+        <item>Şimdi kendine şefkat gösterebilirsin.</item>
+        <item>Her şey huzurlu.</item>
+        <item>Hiçbir şey için acele yok.</item>
+        <item>Bugün elinden geleni yaptın.</item>
+        <item>Sorun değil. Yarın devam eder.</item>
+        <item>Bu an yalnızca bir nefeslik.</item>
+        <item>Güvendesin ve bu yeterli.</item>
+        <item>Burada yargı yok.</item>
+        <item>Sadece nefes al ve yaşamaya git.</item>
+        <item>Bugün huzuru hak ediyorsun.</item>
+        <item>Hangi hızda olursan ol, sorun değil.</item>
+        <item>Kafanı biraz dinlendir.</item>
+        <item>Burada her zaman hoş karşılanırsın.</item>
+        <item>Korkacak bir şey yok. Sadece kısa bir duraklama.</item>
+        <item>Bugün hayat bir yarış değil.</item>
+        <item>Olduğun gibi bütünsün ve bu kadarı yeter.</item>
+        <item>Denemiş olman yeterince güzel.</item>
+        <item>Buradaki hiçbir şey sana karşı değil.</item>
+        <item>Nefes al ve yavaşça devam et.</item>
+        <item>Olduğun hâlinle iyisin.</item>
+        <item>Bu bir huzur anı.</item>
+        <item>Hiçbir baskı yok. Hafifçe ilerle.</item>
+        <item>Dinlenmene izin var.</item>
+        <item>Burada her şey sakin.</item>
+        <item>Yavaş ol. Gün seni bekler.</item>
+        <item>Kendine nazik davranıyorsun ve bu bir güç.</item>
+        <item>Bu uygulama olmasaydı şu an ne yapardın?</item>
+        <item>Buraya isteyerek mi geldin, alışkanlıktan mı?</item>
+        <item>Ne arıyordun, hatırlıyor musun?</item>
+        <item>Bu, yarın sabah önemli olacak mı?</item>
+        <item>Şimdi göreceğin şeyi hatırlayacak mısın?</item>
+        <item>Telefonu eline almadan önce ne yapıyordun?</item>
+        <item>Bugün buna ne kadar zaman ayırmak istiyorsun?</item>
+        <item>Canın mı sıkılıyor, yoksa yorgun musun?</item>
+        <item>Bunun yerine öğleden sonran nasıl geçebilirdi?</item>
+        <item>Buna değer mi?</item>
+        <item>Belirli bir nedenle mi açtın?</item>
+        <item>Şimdi girersen neyi bir kez daha ertelemiş olursun?</item>
+        <item>Bir yıl sonra kim olmak istiyorsun?</item>
+        <item>Şu an sana gerçekten ne iyi gelirdi?</item>
+        <item>Bir şeyden mi kaçıyorsun?</item>
+        <item>Ertelediğin o şeyi yapmaya ne dersin?</item>
+        <item>Sadece kapatsan ne olurdu?</item>
+        <item>Yapacak daha iyi bir şeyin var. Nedir o?</item>
+        <item>Bu dinlenmek mi, kaçmak mı?</item>
+        <item>Yarınki sen, senden ne yapmanı isterdi?</item>
+        <item>Aç mısın, uykulu musun, yoksa canın mı sıkılıyor?</item>
+        <item>Akış seni en son ne zaman daha iyi hissettirdi?</item>
+        <item>Günün sonunda ne hissetmek istiyorsun?</item>
+        <item>Şu an eksik olan ne?</item>
+        <item>Buna ihtiyacın mı var, yoksa sadece istiyor musun?</item>
+        <item>Şu an hangi küçük şey gününü güzelleştirirdi?</item>
+        <item>İki saat boş vaktin olsa ne yapardın?</item>
+        <item>Şu an ne yapmak istediğini aslında biliyor musun?</item>
+        <item>Bu on beş dakikanın gerçek bedeli ne?</item>
+        <item>Bunu istiyor musun, yoksa elin mi kendiliğinden gitti?</item>
+        <item>Şu an neye zaman ayırmaya daha çok değer?</item>
+        <item>Orada her şey yolunda mı?</item>
+        <item>Sakince düşününce, şu an en iyi seçim ne olurdu?</item>
+        <item>Bu yarım saatle gurur duyacak mısın?</item>
+        <item>Kimse görmeseydi ne yapardın?</item>
+        <item>Şu an arayabileceğin biri var mı?</item>
+        <item>Zihnin neden kaçınmaya çalışıyor?</item>
+        <item>Öğleden sonranı buna değişmeye değer mi?</item>
+        <item>Bugün için bir planın var. Bu da onun içinde mi?</item>
+        <item>Şu an yapılacak en güzel şey ne olurdu?</item>
+        <item>Gerçekten iyi misin?</item>
+        <item>Bu haftayı değerli kılacak şey ne olurdu?</item>
+        <item>Bu, istediğin şey mi, yoksa hep yaptığın şey mi?</item>
+        <item>Yarın ne yapmak istediğini düşündün mü?</item>
+        <item>Bugün telefonu kaç kez eline aldın?</item>
+        <item>Bir saat sonra seni ne memnun ederdi?</item>
+        <item>Gerçekten girmek mi istiyorsun, yoksa parmağın otomatik pilotta mı?</item>
+        <item>Sonraya bıraktığın o önemli şey ne?</item>
+        <item>On yıl önceki sen bunun hakkında ne düşünürdü?</item>
+        <item>Gerçekten dinleniyor musun?</item>
+        <item>Cesaretin olsa yapacağın bir şey var mı?</item>
+        <item>Bu akşamı neyle geçirmiş olmak isterdin?</item>
+        <item>Bir sohbetten daha mı değerli?</item>
+        <item>Bugün neye vaktin var?</item>
+        <item>Altı ay sonra hangi alışkanlığa sahip olmak istiyorsun?</item>
+        <item>Gerçekten dikkatini isteyen şey ne?</item>
+        <item>Bu öğleden sonrayı hatırlamak mı istersin, unutmak mı?</item>
+        <item>Bu anı iyi değerlendirmenin yolu ne olurdu?</item>
+        <item>Buraya bir şey görmek için mi geldin, bir şey hissetmemek için mi?</item>
+        <item>Bu gece iyi uyumanı ne sağlardı?</item>
+        <item>Bu, gününe bir şey katıyor mu, yoksa eksiltiyor mu?</item>
+        <item>İçeride ne olduğunu gerçekten bilmek istiyor musun?</item>
+        <item>Ekransız yaptığın son güzel şey neydi?</item>
+        <item>İnternetsiz bir öğleden sonra ne yapardın?</item>
+        <item>Neye yetişmeye çalışıyorsun?</item>
+        <item>Şu an hangi küçük adımı atabilirsin?</item>
+        <item>Dikkatine bundan daha çok ihtiyaç duyan ne var?</item>
+        <item>Bugün hiç derin nefes aldın mı?</item>
+        <item>Önümüzdeki bir saat için planın ne?</item>
+        <item>Bu seni istediğin bir şeye yaklaştırıyor mu?</item>
+        <item>Bunu hayran olduğun birinin önünde yapar mıydın?</item>
+        <item>Bugün güzel ne oldu?</item>
+        <item>Gününün ne kadarı ekranlara gitti?</item>
+        <item>Bekleyen, rafta duran bir fikrin var mı?</item>
+        <item>Bu haftayla ne yapmak istiyorsun?</item>
+        <item>Sessizliği gürültüyle değiştirmeye değer mi?</item>
+        <item>Bugün üretiyor musun, tüketiyor musun?</item>
+        <item>Şu an hangi basit şey sana iyi gelirdi?</item>
+        <item>Bu durumdaki bir arkadaşına ne derdin?</item>
+        <item>Beş dakikan var. Ne için?</item>
+        <item>Seni asıl rahatsız eden ne?</item>
+        <item>Şu an yapabileceğin en iyi şey bu mu?</item>
+        <item>Bu anın kontrolü sende mi?</item>
+        <item>Gurur duyacağın karar hangisi olurdu?</item>
+        <item>Gün bittiğinde neyi yapmış olmak istersin?</item>
+        <item>Bunu neden yüklediğini hatırlıyor musun?</item>
+        <item>Sonraya bırakıp hâlâ isteyip istemediğine bakmaya ne dersin?</item>
+        <item>Bugün biraz daha cesur olsan ne yapardın?</item>
+        <item>Gününün hızlı hâlini mi istiyorsun, güzel hâlini mi?</item>
+        <item>Bugün yalnızca senin yapabileceğin şey ne?</item>
+        <item>Dışarıda seni ne bekliyor?</item>
+        <item>Bugün bir şey için şükran duydun mu?</item>
+        <item>Önümüzdeki yarım saat senin için ne kadar değerli?</item>
+        <item>Bu haftadan yanında ne götürmek istiyorsun?</item>
+        <item>Bu gerçekten acil mi, yoksa sadece öyle mi görünüyor?</item>
+        <item>Yapmak istediğin şeyi mi yapıyorsun?</item>
+        <item>Bu gün için güzel bir son ne olurdu?</item>
+        <item>Dinlenmiş olsaydın ne yapardın?</item>
+        <item>Şu an kaydırmayı mı tercih edersin, yaşamayı mı?</item>
+        <item>Sadece kapatıp ne olacağını görmeye ne dersin?</item>
+    </string-array>
+</resources>

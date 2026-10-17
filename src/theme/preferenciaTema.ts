@@ -4,6 +4,8 @@
  * e o runner e `node:test`.
  */
 
+import type { Textos } from '../i18n/catalogo';
+
 /** O que a pessoa escolheu no perfil. */
 export type PreferenciaTema = 'sistema' | 'claro' | 'escuro';
 
@@ -13,11 +15,14 @@ export type EsquemaTema = 'claro' | 'escuro';
 /** Ordem em que aparecem no perfil: o padrao primeiro. */
 export const PREFERENCIAS: readonly PreferenciaTema[] = ['sistema', 'claro', 'escuro'];
 
-export const ROTULOS_PREFERENCIA: Record<PreferenciaTema, string> = {
-  sistema: 'Sistema',
-  claro: 'Claro',
-  escuro: 'Escuro',
-};
+export function rotuloPreferencia(preferencia: PreferenciaTema, t: Textos): string {
+  const rotulos: Record<PreferenciaTema, string> = {
+    sistema: t.ajustes.aparencia.temaSistema,
+    claro: t.ajustes.aparencia.temaClaro,
+    escuro: t.ajustes.aparencia.temaEscuro,
+  };
+  return rotulos[preferencia];
+}
 
 /**
  * Valor gravado so vale se for uma das tres opcoes. Sem isto, uma chave

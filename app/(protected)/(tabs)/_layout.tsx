@@ -4,6 +4,7 @@ import { Ionicons } from '@expo/vector-icons';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { Tabs, useFocusEffect, useRouter } from 'expo-router';
 
+import { useTextos } from '@/i18n/IdiomaContext';
 import AceleralockBlocker from '@/native/blocker';
 import { radius, spacing, typography } from '@/theme/tokens';
 import { useTheme } from '@/theme/useTheme';
@@ -29,6 +30,7 @@ type IconeDaAba = keyof typeof Ionicons.glyphMap;
  */
 export default function TabsLayout() {
   const theme = useTheme();
+  const t = useTextos();
   const router = useRouter();
   const insets = useSafeAreaInsets();
 
@@ -95,21 +97,21 @@ export default function TabsLayout() {
       <Tabs.Screen
         name="index"
         options={{
-          title: 'Início',
+          title: t.navegacao.abaInicio,
           tabBarIcon: icone('home-outline'),
         }}
       />
       <Tabs.Screen
         name="bloqueios"
         options={{
-          title: 'Bloqueios',
+          title: t.navegacao.abaBloqueios,
           tabBarIcon: icone('shield-outline'),
         }}
       />
       <Tabs.Screen
         name="ajustes"
         options={{
-          title: 'Ajustes',
+          title: t.navegacao.abaAjustes,
           tabBarIcon: icone('options-outline'),
         }}
       />

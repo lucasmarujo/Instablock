@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  isiZulu: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>Isikhathi ongasichithi lapha sibuyela ngokuphelele empilweni yakho.</item>
+        <item>Umzuzu ngamunye ngaphandle kwalesi sikrini uphinde ube ngowakho.</item>
+        <item>Le mizuzu engu-20 yanele ukuthi uhambe kancane ngezinyawo.</item>
+        <item>Usuku lunesikhala esiningi kunalokho okubonakalayo uma ukuskrola kuma.</item>
+        <item>Usanda kubuyisa ingxenye yentambama yakho.</item>
+        <item>Ihora elilodwa ngosuku lifika ezinsukwini eziyi-15 ngonyaka.</item>
+        <item>Isikhathi asibuyi, kodwa usengakhetha ukuthi siya kuphi.</item>
+        <item>Lesi sikhathi ngesakho. Akekho okudingeka azi ukuthi wenzeni ngaso.</item>
+        <item>Kunempilo yonke eqhubekayo ngaphandle kwe-app.</item>
+        <item>Iwashi lihamba ngokufanayo ezinhlangothini zombili zalesi sikrini.</item>
+        <item>Usuzithengele isikhathi manje. Sisebenzise entweni ozoyikhumbula kusasa.</item>
+        <item>Akekho oqeda usuku efisa ukuthi ngabe uskrole i-feed kakhulu.</item>
+        <item>Imizuzu engu-15 lapha iyimizuzu engu-15 nakwenye indawo.</item>
+        <item>Cabanga ukuthi ubuzokwenzani ngale hafu yehora eminyakeni eyishumi edlule.</item>
+        <item>Isikhathi sakho ukuphela kwento ongeke uyithenge kabusha.</item>
+        <item>Intambama yonke isavulekile phambi kwakho.</item>
+        <item>Lo mzuzu ungaba yisiqalo sokuthile okusha.</item>
+        <item>Uzibuyisela amahora, ihora ngalinye.</item>
+        <item>Isikhathi osongile lapha asinyamalali. Siphinda sivele kwenye indawo.</item>
+        <item>Imizuzu eyi-10 ibukeka imincane uze uyibale yenyanga yonke.</item>
+        <item>Impilo ihamba ngejubane elijwayelekile, hhayi ngejubane le-feed.</item>
+        <item>Namuhla unesikhathi esiningi kunasizolo ngalesi sikhathi.</item>
+        <item>Lokho obukade ukuhlehlisa kungena ncamashi kulesi sikhathi.</item>
+        <item>Lesi sikhashana sifushane. Lokho okwenza ngaso kungahlala isikhathi eside.</item>
+        <item>Usuku lunendawo yezinto eziningi uma ukuskrola kusuka endleleni.</item>
+        <item>Usanda kuzitholela kabusha ubusuku obusele.</item>
+        <item>Isikhathi siyimali. Usanda kunquma ukungasichithi.</item>
+        <item>I-feed ayipheli neze. Usuku lwakho luyaphela.</item>
+        <item>Isigamu sehora ngosuku sikunika incwadi ephelele ngenyanga.</item>
+        <item>Akukho lutho oluphuthumayo obelukulindile lapho ngaphakathi.</item>
+        <item>Lesi sikhathi besivele singesakho. Manje sesibuyele kuwe.</item>
+        <item>Ekuseni kusengaba nezithelo uma uqala manje.</item>
+        <item>Awulahlekelwanga yilutho. Uzuze ikhefu.</item>
+        <item>Akekho osibuyisela isikhathi. Yithina esisibambayo.</item>
+        <item>Le mizuzu inenani elikhulu ngaphandle kwalapha, futhi uyakwazi lokho.</item>
+        <item>Obekukhona lapho kusekhona. Yisikhathi sakho esingahlali.</item>
+        <item>Impilo yakhiwa ngezintambama ezinjengalena.</item>
+        <item>Ungaqeda usuku unokuthile okwenzile esikhundleni sokuthile okubukile.</item>
+        <item>Amahora amabili ngosuku afika enyangeni yonke ngonyaka.</item>
+        <item>Isikhathi osivikela namuhla yisona esisalayo kusasa.</item>
+        <item>Le yingxenye yosuku onquma ngayo wena wedwa.</item>
+        <item>Akekho obhale lutho lapho olufanele intambama yakho.</item>
+        <item>Imizuzu engu-30 ngosuku ingakha noma yini ngonyaka owodwa.</item>
+        <item>Usanda kuzithengela ingxenyana yokuthula.</item>
+        <item>Usuku luba lude uma i-feed iba yincane.</item>
+        <item>Lesi sikhathi manje siwubumba ezandleni zakho. Yakha okuthile ngaso.</item>
+        <item>Kukhona iphrojekthi yakho elinde ncamashi lesi sikhathi.</item>
+        <item>Okuzuzayo lapha akuveli kunoma yisiphi isikrini, kuvela empilweni yakho kuphela.</item>
+        <item>Isikhathi sokuphumula siyivelakancane. Usanda kuzakhela sona.</item>
+        <item>Akekho owake wacela ukuskrola okwengeziwe ekupheleni kwempilo yakhe.</item>
+        <item>Unentambama yonke, futhi ayikachithwa.</item>
+        <item>Unyaka uyizinqumo ezingu-365 ezifana nalesi.</item>
+        <item>Lesi sikhashana sincane, kodwa singesakho ngokuphelele.</item>
+        <item>Isikhathi sidlula ngokufanayo. Umehluko yilokho okusalayo emva kwalokho.</item>
+        <item>Usanda kuhlenga isigamu sehora ekwenzeni izinto ngaphandle kokucabanga.</item>
+        <item>Usuku olusele luyabonga ngalokhu kuma.</item>
+        <item>Imizuzu emi-5 lapho iphenduka ibe ngu-40 kungekho oqaphelayo.</item>
+        <item>Uyalazi inani laleyo mizuzu emihlanu. Yingakho ulapha.</item>
+        <item>Ihora olivikelayo manje yilo olifunayo ebusuku.</item>
+        <item>Akukho lapho ngaphakathi okuba ngcono ngokuthi ukubone manje kunokuba ukubone kamuva.</item>
+        <item>Usanda kukhetha ukuthi umzuzu olandelayo uya kuphi.</item>
+        <item>Lesi sikhathi sanele ingxoxo, ukuhamba, noma ukulala isikhashana.</item>
+        <item>Usuku luba nezithelo uma amahora eyeka ukuphuma ezandleni.</item>
+        <item>Nguwe kuphela umnikazi wesigamu sehora esilandelayo.</item>
+        <item>Kunosuku olufana nalolu lapho wenze khona okuthile. Luqala manje.</item>
+        <item>Isikhathi asigcinwa. Sisetshenziswa kahle noma kabi kuphela.</item>
+        <item>Le mizuzu ingaba ukuphumula kwangempela.</item>
+        <item>Usanda kwehla emshinini ojikelezayo ongayi ndawo.</item>
+        <item>Isonto linamahora ayi-168. Leli ngelakho.</item>
+        <item>I-feed ithatha isikhathi ngamaqatshana ukuze kungabikho osizwa silahleka.</item>
+        <item>Manje ungakwenza lokho okuhlala kudluliselwa kusasa nsuku zonke.</item>
+        <item>Intambama yakho akudingeki ingene esikrinini.</item>
+        <item>Isikhathi esisalayo yisona esenza usuku lube lude ngendlela enhle.</item>
+        <item>Usanda kuzibuyisela ihora elilandelayo.</item>
+        <item>Akukho kulokho obungakubona manje okungaba sengqondweni yakho ngemva kwesonto.</item>
+        <item>Lolu wuhlobo lomzuzu owakha noma ochitha unyaka.</item>
+        <item>Uzuze isikhathi. Akudingeki usichithe ngokushesha.</item>
+        <item>Usuku olungenakuskrola wusuku olungangena izinto eziningi.</item>
+        <item>Iwashi alihlukanisi isikhathi esihle nesichithiwe. Wena uyahlukanisa.</item>
+        <item>Leli hora libaluleke njengalinye ihora empilweni yakho.</item>
+        <item>Unesikhathi manje. Lokho kuyivelakancane kunalokho okubonakalayo.</item>
+        <item>Ukugcina isikhathi yiyona ndlela kuphela yokuba nesikhathi.</item>
+        <item>Ubusuku bonke busesaphambili.</item>
+        <item>Le mizuzu iyisiqalo sentambama ozoyikhumbula.</item>
+        <item>Usanda kugwema lowo mgodi wehora lonke.</item>
+        <item>Konke okudinga isikhathi kudinga lolu hlobo lwesinqumo ncamashi.</item>
+        <item>Isikhathi esiphakathi kwamanje nesidlo sakusihlwa sisanele izinto eziningi.</item>
+        <item>Ukhulule unyawo ephedalini. Usuku nalo seluhamba kancane.</item>
+        <item>Isonto lakho linesikhala. Besithathwe okunye.</item>
+        <item>Njalo uma uvala lapha, usuku lukhula kancane.</item>
+        <item>Isikhathi yisipho ozinika sona ungachithanga lutho.</item>
+        <item>Manje unalokho ohlala usho usuku lonke ukuthi awunakho.</item>
+        <item>Intambama ende yakhiwa yizinqumo ezincane ezifana nalesi.</item>
+        <item>Akekho ozobuza ukuthi wenzeni ngalesi sigamu sehora.</item>
+        <item>Isikhathi ongasiniki namuhla sisazoba nawe kusasa.</item>
+        <item>Imizuzu engu-20 ngosuku ifika emahoreni angu-120 ngonyaka.</item>
+        <item>Usanda kubuyisa isikhathi sangaphambi kokulala.</item>
+        <item>Kunempilo eningi phakathi kwesaziso esisodwa nesinye.</item>
+        <item>Usuku lonke lungaba ngolwakho uma ungalunikeli ngamaqatshana.</item>
+        <item>Ufike lapha uvikela isikhathi sakho. Nalesi esinye.</item>
+        <item>Ukunaka kwakho yinto elwelwa kakhulu emhlabeni. Usanda kunqoba.</item>
+        <item>Ukugxila kuthatha imizuzu engu-20 ukubuya. Ungakunikeli manje.</item>
+        <item>Ingqondo ephelele ibaluleke ngaphezu kwengqondo eqhephuqhephukile.</item>
+        <item>Ubugxile kokuthile ngaphambi kokuthi uze lapha.</item>
+        <item>Ukunaka okwahlukene akusikho ukunaka. Kumane kuwukukhathala.</item>
+        <item>Lokho obukwenza kufanelwe nguwe wonke.</item>
+        <item>Ukucabanga ngokujulile kudinga isikhathi esingaphazanyiswa. Yilesi.</item>
+        <item>Ukushintsha isikrini ngakunye kubiza ngaphezu kwalokho okukhonjiswa yiwashi.</item>
+        <item>Ingqondo yakho ibihamba kahle. Yiyeke iqhubeke.</item>
+        <item>Umsebenzi ojulile awusindi ekuskroleni i-feed.</item>
+        <item>I-feed yakhelwe ukuthatha ukunaka kwakho. Ukuqaphele lokho.</item>
+        <item>Umcabango omude udinga ukuthula ukuze uphele.</item>
+        <item>Uyakwazi ukubamba umbono wonke ekhanda. Kudingeka isikhala kuphela.</item>
+        <item>Ukuphazamiseka akusikho ukuphumula. Ukuphumula kuyaphumuza.</item>
+        <item>Ukugxila obukade unakho kusekhona. Buyela kukho.</item>
+        <item>Ukunaka kwakho akuthengiswa namuhla.</item>
+        <item>Okuhle kakhulu engqondweni yakho kuvela emva komzuzu wama-20.</item>
+        <item>Ukuphazamisa manje kubiza kakhulu kunalokho okubonakalayo.</item>
+        <item>Uyakwazi ukwenza izinto ezidinga ukugxila. Qala ngokukuvikela.</item>
+        <item>Akukho lapho ngaphakathi okudinga ukunaka kwakho ngokuphuthumayo.</item>
+        <item>Ihora lokugxila lizuzisa ngaphezu kwamahora amane aqhephuqhephukile.</item>
+        <item>Ingqondo yakho isebenza kangcono uma ingashintshi izindaba.</item>
+        <item>Lokho okusele phakathi kusengaqedwa namuhla.</item>
+        <item>Ukugxila akusikho amandla okuzimisela. Yindawo okuyo. Usanda kulungisa eyakho.</item>
+        <item>Leyo nkinga enzima iyavuleka uma uhlala nayo.</item>
+        <item>Ukunaka kwakho kunomkhawulo. Yingakho kubaluleke kangaka.</item>
+        <item>Akudingeki wazi konke manje.</item>
+        <item>Umsindo uzohlala ukhona. Ukuthula kwakho yikona okuyivelakancane.</item>
+        <item>Izinto ezinkulu zenziwe ngabantu abangaphazanyiswanga.</item>
+        <item>Buyela kulokho obukwenza. Ingqondo yakho isekhona lapho.</item>
+        <item>Umsebenzi owodwa ngesikhathi uyashesha kunalokho ocabanga.</item>
+        <item>Ukuphuthuma ukubheka kuyadlula. Umbono ophazanyisiwe kwesinye isikhathi awubuyi.</item>
+        <item>Unekhono lokugxila elikhulu kunalelo olisebenzisayo manje.</item>
+        <item>Ukucabanga kahle kuhamba kancane. Kuyeke kuhambe kancane.</item>
+        <item>Ukunaka kwakho kwakhe okuthile namuhla. Ungakudilizi ngenxa yelukuluku.</item>
+        <item>Okudinga ingqondo kudinga ingqondo yonke.</item>
+        <item>Ayikho i-feed ezokufundisa lokho okufundiswa yihora lokugxila.</item>
+        <item>Isaziso ngasinye osenqabayo sikunika ukucaca okwengeziwe.</item>
+        <item>Ubusuzokuqonda. Buyela lapho.</item>
+        <item>Ingqondo ephumulile yingqondo engadonswanga usuku lonke.</item>
+        <item>Ukunaka kwakho kuyinto owakha ngayo konke okunye.</item>
+        <item>Okunzima ukuqala. Usuqalile kakade. Ungaphindi uqale phansi.</item>
+        <item>Yeka udaba luthule, luzozixazulula lodwa engqondweni yakho.</item>
+        <item>Ukucaca kuvela uma umsindo uthula.</item>
+        <item>Umsebenzi wakho omuhle kakhulu wosuku awukenzeki.</item>
+        <item>Akukhona ukuntula isikhathi. Wukuntula isikhathi esingaphazanyiswa.</item>
+        <item>Ucabanga kangcono kunalokho i-feed ikuvumela ukuthi ucabange.</item>
+        <item>Lowo mbhalo, lelo khodi, leyo ngxoxo. Konke kukulindile uphelele.</item>
+        <item>Ukugxila kufana nomsipha. Kukhula ngezinsuku ezinjengalolu.</item>
+        <item>Ingqondo yakho isanda kubonga.</item>
+        <item>Into eyodwa ngesikhathi isewusu olungcono kunawo wonke.</item>
+        <item>Okwenza ngokunaka kuyahlala. Okunye kuyadlula.</item>
+        <item>Ayikho indlela emfushane yokucabanga. Isikhathi esingaphazanyiswa kuphela.</item>
+        <item>Ufanelwe ukuqeda umcabango wakho.</item>
+        <item>Ingqondo yakho ibicijile. Gcina lowo mucu.</item>
+        <item>Isikrini siyacwayiza. Imibono ayicwayizi. Hlala nemibono.</item>
+        <item>Usuku olunokugxila lulingana nezinsuku ezintathu zokugijima.</item>
+        <item>Awuhambi kancane. Ubumane uphazanyiswa.</item>
+        <item>Udaba olubalulekile namuhla alukho ku-feed.</item>
+        <item>Ukuhlala endleleni kushibhile kunokubuyela kuyo.</item>
+        <item>Ukunaka kwakho konke kuyisipho. Kunike lowo okufanelwe.</item>
+        <item>Ukuthula yilapho kuvela khona imibono emihle.</item>
+        <item>Ubuphakathi kokuthile okuhle.</item>
+        <item>Akekho ocabanga kahle uma ingqondo yakhe isezindaweni eziyishumi.</item>
+        <item>Ukujula kuvela kuphela ngemva kwesikhathi ungaphezulu.</item>
+        <item>Ukugxila akukhona ukwenza okuningi. Kumayelana nokwenza kahle.</item>
+        <item>Unento ebalulekile namuhla. Akuyona i-feed.</item>
+        <item>Yeka ingqondo yakho iqede umusho ewuqalile.</item>
+        <item>Ihora elingaphazanyiswa liguqula lokho okungenzeka osukwini.</item>
+        <item>Okubonakala kunzima manje kuba lula ngokunaka okuqhubekayo.</item>
+        <item>Ukugxila kwakho kuyinzuzo yakho. Bambalwa abasenakho okwabo.</item>
+        <item>Ungashintshi into ebalulekile ngezinto eziningi ezisheshayo.</item>
+        <item>Ilukuluku lingalinda. Ukugxila akulindi.</item>
+        <item>Wakha okuthile. Qhubeka.</item>
+        <item>Ukushintsha imisebenzi kubukeka kunesithelo kodwa cishe akunjalo neze.</item>
+        <item>Ukusebenzisa ingqondo yakho kangcono namuhla kusekhona.</item>
+        <item>Ukunaka okugcinayo manje kuvela emiphumeleni kamuva.</item>
+        <item>Ingqondo yakho akuyona i-feed. Igcina lokho okunakayo.</item>
+        <item>Udaba olufanelwe nguwe wonke luyivelakancane. Lusebenzise.</item>
+        <item>Okunzima akusikho okungenakwenzeka. Kumane kuthatha isikhathi.</item>
+        <item>Usele nemizuzu embalwa yokuxazulula lokho.</item>
+        <item>Umsindo uyanyamalala uma uyeka ukuwondla.</item>
+        <item>Hlala nalokho obukwenza uze ukuqede.</item>
+        <item>Ukutshuza okukodwa okujulile kudlula ukutshuza okuyishumi okungajulile.</item>
+        <item>Ukunaka kwakho kunquma ukuthi yini ezoba yinkumbulo.</item>
+        <item>Ukhumbula lokho owakunaka. Lokho kuphela.</item>
+        <item>Ukucabanga yinto enenzuzo kakhulu oyenzayo namuhla.</item>
+        <item>Ingqondo engaphuthumi ixazulula lokho ingqondo ephuthumayo engakuboni.</item>
+        <item>Umsebenzi omuhle udinga ukubekezela, hhayi ijubane.</item>
+        <item>Akukho obungakubona manje okungangena engxoxweni kusasa.</item>
+        <item>Ukucaca kwengqondo yakho namuhla kuqale ngezinqumo ezinjengalesi.</item>
+        <item>Ukuphazanyiswa yintela ebiza kakhulu ekhona.</item>
+        <item>Ungahlala entweni eyodwa isikhathi eside kunalokho ocabanga.</item>
+        <item>Leyo ngcosana ebikweqa ivela ekuthuleni.</item>
+        <item>Ukugxila kuyabuya. Kudinga imizuzu embalwa ngaphandle kwesikrini.</item>
+        <item>Uyakwazi ukunaka isikhathi eside. Yi-feed ethemba ukuthi awukwazi.</item>
+        <item>Ukuqeda into eyodwa namuhla kungcono kunokuqala ezinhlanu.</item>
+        <item>Ukunaka kwakho okugcwele kuyivelakancane ngisho nakuwe.</item>
+        <item>Vumela umcabango uphefumule.</item>
+        <item>Lokho okwakha ngokugxila akekho ongakuskrolela phansi.</item>
+        <item>Isifiso sokuvula siyadlula emizuzwini embalwa. Sihlala sidlula.</item>
+        <item>Lesi sifiso sinosuku lokuphelelwa yisikhathi. Siphela sodwa.</item>
+        <item>Akudingeki wenze lutho. Linda nje igagasi lehle.</item>
+        <item>Ukuphuthuma okuzwayo manje akusikho okwakho. Wakufundiswa.</item>
+        <item>Phefumula kanye. Isifiso sesincane kunomzuzu odlule.</item>
+        <item>Isifiso sinamandla ekuqaleni bese siyanyamalala phakathi nendlela.</item>
+        <item>Akusiwe ofunayo. Yinjwayelo ecelayo.</item>
+        <item>Kuzwakala kungakhululekile isikhashana. Bese kuyadlula.</item>
+        <item>Wake wakuzwa lokhu ngaphambili futhi wakudlula njalo.</item>
+        <item>Isifiso siza ngamagagasi. Amagagasi ayaphuka.</item>
+        <item>Akekho odinga ukulalela isifiso sokuqala sosuku.</item>
+        <item>Lokhu kuminyana esifubeni kuthatha isikhathi esincane kunengoma.</item>
+        <item>Umkhulu kunesifiso samasekhondi angu-30.</item>
+        <item>Yeka isifiso sidlule ungenzanga lutho ngaso.</item>
+        <item>Ukungakhululeki manje yinjwayelo eyekayo. Lokho kuyintuthuko.</item>
+        <item>Awuphikisi. Umane ulindile.</item>
+        <item>Isifiso sifika sinamandla bese sihamba sithule.</item>
+        <item>Bala uze ufike ku-20. Sizobe sesincane.</item>
+        <item>Ukufisa akufani nokudinga.</item>
+        <item>Isifiso sifuna impendulo ngokushesha. Ungasiniki lutho.</item>
+        <item>Lesi yisikhathi esinzima kakhulu, futhi sifushane.</item>
+        <item>Akudingeki ulwe. Vele unganqumi manje.</item>
+        <item>Isifiso siyanyamalala uma kungekho osondlayo.</item>
+        <item>Lokhu wukukhathazeka, hhayi indlala yokuqukethwe.</item>
+        <item>Qaphela isifiso ungangeni kuso.</item>
+        <item>Ubuchopho bucela okwejwayelekile. Akuphoqelekile ukuthi ubuphe.</item>
+        <item>Imizuzu emihlanu, futhi ngeke ukhumbule nokuthi ubufuna ukuvula.</item>
+        <item>Igagasi liyakhuphuka manje. Lihlala lehla.</item>
+        <item>Usuvele ungaphesheya kwengxenye embi kakhulu.</item>
+        <item>Isifiso siqamba amanga ngamandla aso.</item>
+        <item>Sukuma, phuza amanzi, buya. Sesihambile.</item>
+        <item>Isifiso akuwona umyalo.</item>
+        <item>Ungakuzwa lokhu ungenzi lutho. Kuvumelekile.</item>
+        <item>Umzimba ucela ukunyakaza, hhayi isikrini.</item>
+        <item>Lesi sifiso sizenzakalela. Impendulo yakho akudingeki ibe njalo.</item>
+        <item>Akukho okubi okwenzekayo uma ulinda kancane.</item>
+        <item>Isifiso siphela sodwa uma usinika isikhala.</item>
+        <item>Umane ukhathazekile. Lokho kuyadlula futhi akudingi isikrini.</item>
+        <item>Isifiso siyisiphakamiso nje. Nguwe onqumayo.</item>
+        <item>Omunye umzuzu, isifiso sesiyinto ehlukile.</item>
+        <item>Ingxenye enzima ithatha isikhashana. Ingxenye enhle ithatha usuku lonke.</item>
+        <item>Yilokhu kucindezela okudumile. Akucindezeli kangako.</item>
+        <item>Linda ungahluleli. Isifiso sizihlakaza sodwa.</item>
+        <item>Ubuchopho bakho bucela indlela emfushane ejwayelekile.</item>
+        <item>Akudingeki unqobe lutho. Vele ukuyeke kudlule.</item>
+        <item>Igagasi ngalinye olivumela lidlule lenza elilandelayo libe lincane.</item>
+        <item>Ukukhathazeka kufuna isixazululo esisheshayo. Ngeke kusithole lapha.</item>
+        <item>Yima isikhashana. Isifiso sona ngeke sime.</item>
+        <item>Awulahlekelwa yilutho ngokulinda.</item>
+        <item>Ukudikwa akusona isimo esiphuthumayo.</item>
+        <item>Ukuzizwa uyize manje kujwayelekile. Kuzogcwala ngokwako.</item>
+        <item>Isifiso sokuhlola okuthile akuvamile ukuthi simayelana naleyo nto.</item>
+        <item>Awukhululekile, kodwa awusengozini.</item>
+        <item>Lokhu kuzoxega emizuzwaneni embalwa.</item>
+        <item>Injwayelo inamandla, kodwa ayithathi isikhathi eside.</item>
+        <item>Yeka lesi sidlule. Lesi kuphela.</item>
+        <item>Ngokuzayo kuzoba lula ngenxa yalokhu.</item>
+        <item>Akudingeki uziqinisekise ngalutho. Vele ulinde.</item>
+        <item>Ingilazi yamanzi isiza ngaphezu kokuskrola i-feed.</item>
+        <item>Lokhu kuphuthuma kungamanga, futhi usuyazi.</item>
+        <item>Isifiso asikwazi ukuphila singaphendulwa.</item>
+        <item>Linda amasekhondi angu-30. Bese unquma futhi.</item>
+        <item>Usesiqongweni. Kusukela lapha kwehla kuphela.</item>
+        <item>Akukho okudinga ukuthi uphendule manje.</item>
+        <item>Isifiso siyisivakashi. Sizohamba.</item>
+        <item>Awusiso isifiso. Nguwe osibukayo.</item>
+        <item>Umzimba uyaxega uma uwunika umzuzu.</item>
+        <item>Lokhu wubuchopho nje obufuna into ebuvusayo. Buzothola okunye.</item>
+        <item>Ukuphefumula ngokujulile kathathu kuguqula amandla alokhu.</item>
+        <item>Isifiso siyancipha uma usibheka ngqo.</item>
+        <item>Uyakwazi ukubekezelela lo mzuzu. Usuke wabekezelela okubi kakhulu.</item>
+        <item>Ukungaphatheki kahle kuyadlula noma ungenzi lutho.</item>
+        <item>Isandla sisheshe ngaphambi kwengqondo. Kuyenzeka.</item>
+        <item>Asikho isinqumo okudingeka sithathwe emasekhondini okuqala ayishumi.</item>
+        <item>Usele imizuzwana embalwa ukuthi ungabe usakukhumbula lokhu.</item>
+        <item>Into ekuvusayo isebenzile. Impendulo isesesandleni sakho.</item>
+        <item>Vumela isifiso sibe khona ungasilaleli.</item>
+        <item>Lokhu akukona ukulangazela. Kuwumkhuba nje.</item>
+        <item>Linda. Yilokho kuphela okudingeka ukwenze.</item>
+        <item>Ingqondo iyazola yodwa uma ungengezi zinkuni emlilweni.</item>
+        <item>Usuvele ulinda. Lokho sekuwukunqoba.</item>
+        <item>Isifiso siphelelwa amandla uma sihlangana nomnyango ovaliwe.</item>
+        <item>Isekhondi ngalinye lapha liyinzuzo.</item>
+        <item>Igagasi seliphukile. Bona ukuthi sekulula kanjani.</item>
+        <item>Awudingi isizathu sokungavuli.</item>
+        <item>Isifiso sidlula ngokushesha kunokuzisola.</item>
+        <item>Ukuzelula kuxazulula lokho i-feed ebingeke ikuxazulule.</item>
+        <item>Isifiso siyahamba ngesikhathi ufunda lokhu.</item>
+        <item>Unganqumi lutho manje. Phefumula nje.</item>
+        <item>Isifiso siza sodwa futhi sihambe sodwa.</item>
+        <item>Lokhu yikona okunzima kakhulu. Futhi kuyashesha.</item>
+        <item>Ubekezele kwaze kwaba manje. Sekusele amasekhondi.</item>
+        <item>Umzimba ucela isikrini uma ufuna ukuphumula. Wunike ukuphumula.</item>
+        <item>Isifiso siba sincane njalo uma singanikwa lokho esikufunayo.</item>
+        <item>Linda kancane futhi. Yilokho kuphela.</item>
+        <item>Isikhashana siyadlula. Ukukhetha kuyahlala.</item>
+        <item>Usanda kudlula endaweni ewumngcingo.</item>
+        <item>Ukuba nesifiso kungobuntu. Ukungasilaleli nakho.</item>
+        <item>Ukuzola kubuya masinyane uma ungaphoqi.</item>
+        <item>Sekulula manje, akunjalo.</item>
+        <item>Wakunquma lokhu uzolile. Methembe lowo owanquma.</item>
+        <item>Wena wayizolo unakekele wena wamanje.</item>
+        <item>Lesi sikrini singumlayezo wakho kuwe uqobo.</item>
+        <item>Awuvinjelwa. Uyakhunjuzwa.</item>
+        <item>Umuntu ofuna ukuba nguye akachithi intambama eskrola.</item>
+        <item>Lokhu kukhetha bekungokwakho. Kusengokwakho.</item>
+        <item>Ungumuntu oqaphele wabe esenza okuthile.</item>
+        <item>Akekho okuphoqe ukuthi ufake lokhu. Ubufuna.</item>
+        <item>Wena wakusasa uzokuthanda wena wamanje.</item>
+        <item>Usuvele ungumuntu ovikela isikhathi sakhe.</item>
+        <item>Lokhu akusona isijeziso. Yisivumelwano.</item>
+        <item>Nguwe owabhala lo mthetho. Uyasebenza.</item>
+        <item>Ukuba umnikazi wokunaka kwakho kuwukukhetha kwansuku zonke.</item>
+        <item>Akudingeki ufakazele muntu lutho lapha.</item>
+        <item>Umuntu ofuna ukuba nguye uqala ngezinqumo ezincane.</item>
+        <item>Usohlangothini olufanele lwalesi sikrini.</item>
+        <item>Njalo uma uvala lapha, uba ngumuntu ofuna ukuba nguye.</item>
+        <item>Awuyilokho okufisayo. Uyilokho okwenzayo.</item>
+        <item>Isivumelwano nawe uqobo sibaluleke njenganoma yisiphi esinye.</item>
+        <item>Ubone iphethini futhi wayishintsha. Lokho kuyivelakancane.</item>
+        <item>Umkhulu kunama-app asephaketheni lakho.</item>
+        <item>Lona umthetho wakho, futhi umi nawe.</item>
+        <item>Unelungelo lokushintsha imikhuba yakho.</item>
+        <item>Lokho okwenza ngokuphindaphinda yilokho oyikho.</item>
+        <item>Ukhethe ukuba nempilo enesikhala esengeziwe.</item>
+        <item>Akuyona i-app ephethe wena.</item>
+        <item>Ubuwena abungeni ku-feed.</item>
+        <item>Nguwe ofake lokhu ngesizathu.</item>
+        <item>Khumbula isizathu. Sisasebenza.</item>
+        <item>Uhlonipha isinqumo sakho.</item>
+        <item>Akekho onquma ngokunaka kwakho esikhundleni sakho.</item>
+        <item>Uqaphele okwenzekayo. Lokho sekushintsha konke.</item>
+        <item>Ukuphatha usuku lwakho kungumsebenzi oqhubekayo.</item>
+        <item>Awusiye umgibeli. Nguwe oshayelayo.</item>
+        <item>Lokhu kuwukukhetha komuntu ozithatha njengobalulekile.</item>
+        <item>Unomthwalo wakho. Futhi uyawuthwala.</item>
+        <item>Isikhathi sakho sinomnikazi. Ufunda lokhu manje.</item>
+        <item>Uvumelene nawe uqobo. Kugcine.</item>
+        <item>Isinqumo ngasinye esinje sikusondeza kumuntu ofuna ukuba nguye.</item>
+        <item>Awulahlekelwa yinkululeko. Uyayisebenzisa.</item>
+        <item>Onquma ukuthi kwenziwani manje nguwe.</item>
+        <item>Awudingi imvume yokuphila ngendlela ehlukile.</item>
+        <item>Lo mkhawulo uwukunakekela, hhayi ikheji.</item>
+        <item>Ukhethe indlela enzima kodwa engeyakho ngempela.</item>
+        <item>Umuntu omhloniphayo naye ubezothi cha manje.</item>
+        <item>Uhlala empilweni yakho, hhayi ku-app.</item>
+        <item>Yisikhathi sakho, yingqondo yakho, ngukukhetha kwakho.</item>
+        <item>Ugcina isithembiso sakho kuwe. Lokho kubalulekile.</item>
+        <item>Akekho ozonakekela ukunaka kwakho esikhundleni sakho.</item>
+        <item>Usukufakazele ukuthi uyakwazi ukushintsha indlela.</item>
+        <item>Ukuzibusa yilokhu: ukunquma kusenesikhathi, hhayi ngesifiso esizumayo.</item>
+        <item>Wakha umuntu omhloniphayo.</item>
+        <item>Lena yingxenye yakho ehlelayo.</item>
+        <item>Awufikanga lapha ngengozi. Nguwe owakuhlela lokhu.</item>
+        <item>Izwi lakho kuwe uqobo linesisindo.</item>
+        <item>Unombono wakho ngendlela yokusebenzisa usuku lwakho.</item>
+        <item>I-app ayikwazi. Wena uyazazi.</item>
+        <item>Wenza njengomnikazi wempilo yakho.</item>
+        <item>Ukuma esinqumweni sakho kuyinkululeko.</item>
+        <item>Nguwe obhala imithetho lapha.</item>
+        <item>Lokhu nguwe uzinakekela.</item>
+        <item>Awuboshiwe. Uvikelekile.</item>
+        <item>Isifiso sakho sokushintsha sidala kunalesi sifiso esisheshayo.</item>
+        <item>Usuvele ungulowo ozama ukuba nguye.</item>
+        <item>Isinqumo esinzima sesithathiwe. Lesi yisona esilula nje.</item>
+        <item>Nguwe ophethe, futhi lokho kuyivelakancane kulezi zinsuku.</item>
+        <item>Akekho odinga ukwazi. Lokhu kuphakathi kwakho nawe.</item>
+        <item>Ufanelwe ukuthemba izwi lakho.</item>
+        <item>Igama lakho likulokhu kukhetha.</item>
+        <item>Usuphenduke umuntu onquma kusenesikhathi.</item>
+        <item>Lokhu akukona ukuyeka. Kuwukukhetha okunye.</item>
+        <item>Unendlela oya kuyo. Lesi sikrini sikhomba kuyo.</item>
+        <item>Inkululeko yangempela wukungadonswa ngaso sonke isikhathi.</item>
+        <item>Nguwe obeka inani lokunaka kwakho.</item>
+        <item>Uma uthi cha lapha, uthi yebo kokunye okwakho.</item>
+        <item>Uthembekile ohlelweni owalwenza ngothando.</item>
+        <item>Ukuziphatha kunzima, kodwa kuyafaneleka.</item>
+        <item>Uvumile ukuthi ufuna ukushintsha. Lokho sekuyingxenye enzima.</item>
+        <item>Umuntu osesibukweni kusihlwa uzokuthanda lokhu.</item>
+        <item>Awukweleti i-algorithm lutho.</item>
+        <item>Impilo yakho akusikho okuqukethwe komunye umuntu.</item>
+        <item>Ukhona ncamashi lapho wanquma ukuba khona.</item>
+        <item>Umkhawulo ozibekela wona ungowenhlonipho kakhulu okhona.</item>
+        <item>Unohlelo lwempilo olukhulu kunalesi sikrini.</item>
+        <item>Lokhu kungukuvuthwa kwenzeka khona manje.</item>
+        <item>Unakekela ikusasa lakho ungaqapheli.</item>
+        <item>Ukukhetha ngakunye okunje kucija lokho oyikho.</item>
+        <item>Akudingeki uzichaze ngokungavuli.</item>
+        <item>Isithembiso sakho singesakho kuwe, hhayi ku-app.</item>
+        <item>Wathatha isinqumo esifanele ngesikhathi ungenaso isifiso.</item>
+        <item>Le yimpilo yakho ishayelwa nguwe.</item>
+        <item>Usungumuntu onzima ukumkhohlisa.</item>
+        <item>Ukunaka kwakho kunomnikazi, futhi uqaphile.</item>
+        <item>Usanda kwenza njengomuntu ozinakekelayo.</item>
+        <item>Uhlelo ngolwakho. Luyasebenza manje.</item>
+        <item>Ungumphumela wezinqumo zakho ezincane.</item>
+        <item>Akekho okuthathela izwi lokugcina.</item>
+        <item>Nguwe onegunya phezu kwesikhathi sakho.</item>
+        <item>Kuyasebenza ngoba wena wafuna ukuthi kusebenze.</item>
+        <item>Umkhulu kunenjwayelo efuna ukuba nkulu kunawe.</item>
+        <item>Esinye futhi. Yileyo ndlela isamba esikhula ngayo.</item>
+        <item>Okuncane okuphindwayo kunqoba okukhulu okwenzeka kanye kanye.</item>
+        <item>Usanda kwengeza elinye iphuzu.</item>
+        <item>Akekho oshintsha kanyekanye. Ushintsha ngezinsuku ezinjengalolu.</item>
+        <item>Lena yingxenye eyodwa kwenkulungwane yempilo ehlukile.</item>
+        <item>Usuku olulodwa oluhle alushintshi lutho. Izinsuku ezinhle eziyikhulu zishintsha konke.</item>
+        <item>Wakha uchungechunge.</item>
+        <item>Intuthuko cishe ayibonakali njengentuthuko uma uphakathi kwayo.</item>
+        <item>Isamba salezi zinqumo sikhulu kunesinye nesinye sazo.</item>
+        <item>Ukuqhubeka kuyadina, kodwa kuyasebenza.</item>
+        <item>Elinye itshe odongeni.</item>
+        <item>Uziqeqesha entweni ezohlala.</item>
+        <item>Uma kuphindwa ngokwanele, lokhu kuyazenzakalela.</item>
+        <item>Akekho obona lokhu kunqoba, kodwa kubalulekile ngokufanayo.</item>
+        <item>Usele amasonto ambalwa ukuthi ungabe usasizwa isifiso.</item>
+        <item>Namuhla kuyabalwa. Kusasa nakho kuzobalwa.</item>
+        <item>Iketango lakhiwa ngezindandatho ezinjengalena.</item>
+        <item>Injwayelo entsha ibhalwa manje.</item>
+        <item>Ukuphinda ngakunye kuxegisa kancane injwayelo endala.</item>
+        <item>Wake wakwenza lokhu. Phinda futhi.</item>
+        <item>Kancane yijubane lezinto ezihlala isikhathi eside.</item>
+        <item>Ushintsho lwenzeka kude namehlo.</item>
+        <item>Uqoqa okuthile okungabonakali kodwa okungokoqobo.</item>
+        <item>Olunye usuku endleleni efanele.</item>
+        <item>Umphumela uvela kamuva. Ukukhetha kungokwanamuhla.</item>
+        <item>Isinqumo esisodwa ngesikhathi, yileyo ndlela okwenziwa ngayo.</item>
+        <item>Ususeduze kunasizolo.</item>
+        <item>Akudingeki kuphelele. Kudingeka kwenzeke njalo.</item>
+        <item>Ijika likhuphuka kancane bese likhuphuka ngokushesha.</item>
+        <item>Uphakathi nohambo. Kunjalo ngempela.</item>
+        <item>Ukuthi cha okuncane ngakunye kwakha ukuthi yebo okukhulu.</item>
+        <item>Akukho kulokhu okuyisimanga. Yingakho kusebenza.</item>
+        <item>Indlela yakhiwa ngezinyathelo ezinjengalesi.</item>
+        <item>Wakha uhlelo olusha lwansuku zonke.</item>
+        <item>Lokhu kuzobonakala kulula ngemva kwenyanga.</item>
+        <item>Ukuphinda yikho okuguqula isinqumo sibe yindlela yokuphila.</item>
+        <item>Usanda kuqinisa indlela entsha.</item>
+        <item>Amaphesenti ayi-100 alula kunamaphesenti angu-98.</item>
+        <item>Ungaluphuli uchungechunge namuhla.</item>
+        <item>Wenza ingxenye ebhorayo, okuyiyona ebalulekile.</item>
+        <item>Asiluzwa ushintsho. Siyalubona kamuva.</item>
+        <item>Esinye isitini sesibekiwe.</item>
+        <item>Ufundisa ubuchopho bakho ukulindela okunye.</item>
+        <item>Ukuqhubeka yilona lonke isu.</item>
+        <item>Akukho kunqoba okunje okuncane uma kuhlanganiswa.</item>
+        <item>Akudingeki ugijime. Kudingeka ungemi.</item>
+        <item>Lokhu sekuba lula, futhi awukakuqapheli.</item>
+        <item>Isonto lalokhu selishintsha usuku lwakho.</item>
+        <item>Wakha indlela entsha engqondweni yakho.</item>
+        <item>Isikhathi ngasinye siyabalwa, ngisho noma kubonakala kungenjalo.</item>
+        <item>Akekho oshaya ihlombe, kodwa kuyasebenza.</item>
+        <item>Ukunqwabelana kuthule futhi akumiseki.</item>
+        <item>Usunamandla kulokhu kunenyanga edlule.</item>
+        <item>Isinqumo esihle namuhla senza esakusasa sibe lula.</item>
+        <item>Yile ndlela ukuqhubeka okuzwakala ngayo ngaphakathi.</item>
+        <item>Olunye usuku lwenzuzo eqoqekile.</item>
+        <item>Usendleleni, futhi indlela inde. Kulungile.</item>
+        <item>Okuphindwayo kuba lula.</item>
+        <item>Usanda kuqinisa umuntu oba nguye.</item>
+        <item>Isamba sikuvuna namuhla.</item>
+        <item>Izinzuzo ezincane ziyahlangana zingacelanga mvume.</item>
+        <item>Akukhona ngokwanamuhla. Kumayelana nesamba.</item>
+        <item>Wenza umsebenzi ongabonakali.</item>
+        <item>Qhubeka. Yiyona mfihlo leyo.</item>
+        <item>Usuku ngalunye olunje lususa kancane isisindo.</item>
+        <item>Injwayelo endala ilahlekelwa yindawo manje.</item>
+        <item>Unisela okuthile okungakahlumi.</item>
+        <item>Ushintsho luyenzeka noma lungabonakali.</item>
+        <item>Kanye futhi. Bekuhlala kuyilokho kuphela.</item>
+        <item>Uqongelela izinsuku ezinhle.</item>
+        <item>Lokhu kuba yinto evamile ngokuhamba kwesikhathi.</item>
+        <item>Usanda kukhetha futhi. Futhi nalokho kuyabalwa.</item>
+        <item>Inyanga enjena, bese uba ngomunye umuntu.</item>
+        <item>Umzamo wanamuhla uyaphela. Umphumela uyahlala.</item>
+        <item>Awusafani nalowo owaqala lokhu.</item>
+        <item>Ukwenza njalo kungcono kunokwenza okuningi.</item>
+        <item>Usuku ngalunye luyivoti lomuntu ofuna ukuba nguye.</item>
+        <item>Uvumela injwayelo entsha ithole indawo.</item>
+        <item>Lokhu akudingi ubuqhawe. Kudinga ukwenzeka nje.</item>
+        <item>Usanda kuqinisa indlela efanele.</item>
+        <item>Ukuphinda yindlela ubuchopho obufunda ngayo noma yini.</item>
+        <item>Okwanamuhla nokwayizolo sekwanele kakhulu.</item>
+        <item>Uhamba kahle ngisho noma ungakuzwa.</item>
+        <item>Intuthuko ihlala ekuphindeni okungamnandi.</item>
+        <item>Esinye isinyathelo esifushane endleleni ende.</item>
+        <item>Wenza lokhu kube yimvelo.</item>
+        <item>Into enhle eyenziwa kaningi yiyona esalayo.</item>
+        <item>Amandla avela ekuphindeni, hhayi ekwenzeni ngamandla.</item>
+        <item>Usanda kufinyeza indlela yakusasa.</item>
+        <item>Okunye futhi. Yilokho kuphela. Futhi kwanele.</item>
+        <item>Ushiya umkhondo wezinqumo ezinhle.</item>
+        <item>Ukuphikelela kuguqula umzamo ube ubuwena.</item>
+        <item>Usuku ngalunye lubalwa njengosuku oluphelele.</item>
+        <item>Usemdlalweni omude futhi uyawunqoba.</item>
+        <item>Lokhu kuzoba yingxenye yakho ungaqaphelanga.</item>
+        <item>Ukutshala okuhle kakhulu kosuku kusanda kwenziwa.</item>
+        <item>Usanda kuhlala emgqeni.</item>
+        <item>Ukuqhubeka kuyivelakancane kunethalente.</item>
+        <item>Ushintsho lwangempela luhamba kancane njalo, futhi luhlala lufanele.</item>
+        <item>Esinye isinqumo esibheke empilweni yakho.</item>
+        <item>Amehlo akho ayabonga ngale ngqimba.</item>
+        <item>Sukuma uzelule. Umzimba wawucela lokho, hhayi isikrini.</item>
+        <item>Phefumula kahle. Lokho kuphela sekushintsha okuthile.</item>
+        <item>Phuza amanzi. Mhlawumbe kuyilokho obekushoda.</item>
+        <item>Intamo yakho isigobile isikhathi eside. Yiqondise.</item>
+        <item>Ukulala kwanamuhla kuqala ezikrinini zamanje.</item>
+        <item>Ukulala kahle yinto ekhiqiza kakhulu ekhona.</item>
+        <item>Umzimba wakho ume endaweni eyodwa isikhathi eside kakhulu.</item>
+        <item>Bheka kude amasekhondi angu-20. Amehlo ayakhululeka.</item>
+        <item>Uhambo olufushane lushintsha isimo senhliziyo kunanoma iyiphi i-feed.</item>
+        <item>Ukukhathala okuzwayo kungaba yisikrini nje.</item>
+        <item>Umzimba ucela ukunyakaza lapho ikhanda licela ukuskrola.</item>
+        <item>Umoya omusha uxazulula izinto isikrini esingazixazululi.</item>
+        <item>Amahlombe phansi. Umhlathi ukhululeke.</item>
+        <item>Uqinisa amahlombe ungazi.</item>
+        <item>Ilanga esikhumbeni imizuzu eyishumi linenzuzo enkulu.</item>
+        <item>Umzimba uphumula ulele, hhayi uskrola.</item>
+        <item>Ukulala ekuseni namuhla kuyisipho sakusasa.</item>
+        <item>Indlela omi ngayo isishintshile emizuzwini engu-20 edlule. Yilungise.</item>
+        <item>Ukukhathala kwesikrini akuwukukhathala kweqiniso. Kungenye into.</item>
+        <item>Phakamisa izingalo. Zelula. Kulungile, sekungcono.</item>
+        <item>Amehlo akho ayacwayiza kancane lapho uskrola. Cwayiza manje.</item>
+        <item>Umzimba usebenza kangcono uma uphumula ngempela.</item>
+        <item>Ukuzulazula kancane eduze kuhlanza ikhanda.</item>
+        <item>Umqolo wakho uzokuthokozela lokhu kuphazamiseka.</item>
+        <item>Ukuphumula kuhlukile ekuphazanyisweni.</item>
+        <item>Ukulala kabi kwayizolo kwaqala esikrinini esifana nalesi.</item>
+        <item>Zelula intamo uyiyise ezinhlangothini zombili. Kuthatha amasekhondi ayishumi.</item>
+        <item>Ukunyakaza kususa ukukhathazeka kangcono kunokuqukethwe.</item>
+        <item>Umzimba wakho kuphela ikhaya olinalo.</item>
+        <item>Amanzi, ukukhanya nokunyakaza. Cishe kuhlale kunjalo.</item>
+        <item>Isikrini siyakhathaza ngisho nalapho sibonakala siwukuphumula.</item>
+        <item>Vala amehlo isikhashana. Lokho kuphela.</item>
+        <item>Uphefumula ngokungajulile. Phefumula kahle kathathu.</item>
+        <item>Ukugeza kuxazulula izinto eziningi kunalokho okubonakalayo.</item>
+        <item>Umzimba wakho usendaweni eyodwa isikhathi eside kakhulu.</item>
+        <item>Ukuphumula ngempela akunasikrini.</item>
+        <item>Imizuzu engu-20 yokuhamba ishintsha usuku lonke.</item>
+        <item>Ikhanda lakho linzima ngoba umzimba umile.</item>
+        <item>Amehlo omile, amahlombe aqinile. Sekuyabonakala yini.</item>
+        <item>Ukuma imizuzu emibili kuqala kabusha ngaphezu kokuskrola.</item>
+        <item>Umzimba ufuna ukulala kanti ingqondo ifuna ukuvuselelwa. Lalela umzimba.</item>
+        <item>Ukukhanya kwesikrini kuphazamisa ukulala kwakho amahora.</item>
+        <item>Zelula imilenze. Kuyashesha futhi kuyasebenza.</item>
+        <item>Ufanelwe ukuphumula okuphumuzayo ngempela.</item>
+        <item>Ukunyakaza yiyo imithi yokudangala eshibhile kunazo zonke.</item>
+        <item>Umzimba wakho uzokukhumbula lobu busuku bokulala.</item>
+        <item>Ukuphefumula kancane kuthulisa masinyane kunanoma yiliphi ividiyo.</item>
+        <item>Unendlala noma uyaphelelwa yisikhathi. Thola ukuthi yikuphi.</item>
+        <item>Umzimba uyalulama lapho ikhanda liyeka.</item>
+        <item>Amasekhondi angu-20 ubheke ngefasitele.</item>
+        <item>Isihlakala sakho nesithupha zidinga ukuphumula.</item>
+        <item>Ukukhathala kwesikrini kuyanyamalala uma uhamba.</item>
+        <item>Ukulala yilapho inkumbulo ihlelwa khona. Yivikele.</item>
+        <item>Udinga ukuvuselelwa kancane, hhayi kakhulu.</item>
+        <item>Ukuzelula imizuzu emibili kunenzuzo ngaphezu kwemizuzu eyishumi yamavidiyo.</item>
+        <item>Umzimba wakho ukunika isibonakaliso manje.</item>
+        <item>Umoya, amanzi nokunyakaza. Iresiphi ayishintshanga.</item>
+        <item>Lala phansi umzuzu owodwa. Ngeqiniso.</item>
+        <item>Isikrini sikugcina uvukile lapho udinga ukulala.</item>
+        <item>Umzimba ucela ukuphumula kanti isandla sicela isikrini. Nika ukuphumula.</item>
+        <item>Amehlo akho asebenza kusukela ekuseni.</item>
+        <item>Ubusuku obulele kahle bushintsha umhlaba.</item>
+        <item>Sukuma. Vele usukume. Sekwanele.</item>
+        <item>Uzolala kangcono ngenxa yalesi sinqumo.</item>
+        <item>Umzimba ubonga lokho ikhanda eliwubona kuyisicefe.</item>
+        <item>Zelula umhlane. Uyakucela.</item>
+        <item>Ukuphumula kweqiniso kuwukuthula, hhayi enye inkanuko.</item>
+        <item>Umzimba wakho unomgqigqo wawo kanti isikrini siyawunganaka.</item>
+        <item>Bheka emkhathini. Amehlo adinga ibanga.</item>
+        <item>Ukuqina komhlathi akuhambi ngokuskrola.</item>
+        <item>Ubuhlezi isikhathi esingakanani njengamanje.</item>
+        <item>Ukunyakaza kuletha ukucaca. Kuhlale kukwenza.</item>
+        <item>Phuza amanzi ngaphambi kokunquma noma yini.</item>
+        <item>Ukulala okulahlekile akubuyiswa ngokuqukethwe.</item>
+        <item>Umzimba wakho usebenza kahle uma uwuvumela.</item>
+        <item>Ukulala kafushane kunenzuzo ngaphezu kwehora le-feed.</item>
+        <item>Ukuphefumula kahle akukhokhelwa futhi kwenzeka masinyane.</item>
+        <item>Isikrini sibopha umzimba singazishayeli.</item>
+        <item>Ukhathele ukudlula lokho okungadingeka.</item>
+        <item>Sukuma ubheke ngefasitele. Amasekhondi amahlanu.</item>
+        <item>Umzimba wakho awuzange wakhelwe ukuma ubheke ukukhanya.</item>
+        <item>Zelula iminwe. Isebenze kakhulu namuhla.</item>
+        <item>Ubusuku bungcono ngaphandle kwesikrini ngaphambi kokulala.</item>
+        <item>Ukuphumula akuyona into enikezwa yisikrini.</item>
+        <item>Umzimba ucela imvelo kodwa uthola amaphikseli.</item>
+        <item>Ingilazi yamanzi nokuphefumula kathathu. Kwenze manje.</item>
+        <item>Ukuqina kwehlombe kuvela endleleni ophatha ngayo ifoni.</item>
+        <item>Umzimba uyakhululeka lapho ukunaka kuyeka ukugijima.</item>
+        <item>Uzozizwa ungcono emizuzwini emihlanu.</item>
+        <item>Ukunyakaza kushintsha ikhemistri. Isikrini sishintsha isihloko kuphela.</item>
+        <item>Amehlo akho afanelwe ukuphumula kweqiniso.</item>
+        <item>Ukuhamba kuhlela imicabango kangcono kunokufunda i-feed.</item>
+        <item>Ukukhanya okuluhlaza okwesibhakabhaka manje kuyilala kabi kamuva.</item>
+        <item>Udinga ukuphumula, hhayi ulwazi oluningi.</item>
+        <item>Ukuphefumula okujulile kabili ngaphambi kwanoma yini.</item>
+        <item>Umzimba wakho uhlakaniphile kunesifiso.</item>
+        <item>Sukuma uhambe uye ekhishini. Kwanele.</item>
+        <item>Phumuza umzimba futhi ikhanda liphumula nawo.</item>
+        <item>Kunabantu abaphilayo eduze kwakho manje.</item>
+        <item>Ingxoxo eyodwa inenzuzo ngaphezu kwamaphosti angamakhulu amathathu.</item>
+        <item>Shayela othile. Ngezwi ngempela.</item>
+        <item>Umuntu omthandayo useduze nje nomlayezo.</item>
+        <item>Abantu be-feed abazi ukuthi ukhona.</item>
+        <item>Lowo osegumbini elilodwa nawe ufanelwe okwengeziwe.</item>
+        <item>Isiguqulo esisodwa sixazulula lokho okungekho ividiyo elikuxazululayo.</item>
+        <item>Thumela umlayezo kulowo obumdlulile.</item>
+        <item>Umama wakho wayezothokoza ngocingo namuhla.</item>
+        <item>Impilo yangempela inabantu abaphendula ngeqiniso.</item>
+        <item>Lowo mngani owanyamalala usengabuya. Mbize.</item>
+        <item>Ukuba khona kuyinto engavamile kakhulu ongayinika.</item>
+        <item>Kukhona othile olindele ukuthi uphakamise amehlo.</item>
+        <item>Umbuzo omuhle unenzuzo ngaphezu kwehora lokuskrola.</item>
+        <item>Abantu abakuzungezile abanayo i-algorithm.</item>
+        <item>Ulahlekelwa yingxoxo eyenzekayo.</item>
+        <item>Akekho we-feed ozoba khona lapho umdinga.</item>
+        <item>Ikhofi nomunye umuntu lishintsha iviki kangcono kunanoma iyiphi i-feed.</item>
+        <item>Inkampani yakho iyisipho. Yinike.</item>
+        <item>Bheka lowo ohlezi nawe.</item>
+        <item>Ubungane buyachelwa amanzi. Buchele namuhla.</item>
+        <item>Umuntu ohlezi eduze kwakho uyiqiniso.</item>
+        <item>Okuthanda akudingi ukuthandwa kwi-intanethi.</item>
+        <item>Uyayikhumbula ingxoxo yakho yokugcina eside.</item>
+        <item>Mema othile uhambe naye.</item>
+        <item>Izikhumbuzo ezinhle kakhulu zivamile ukungabi nasikrini.</item>
+        <item>Ungumngane kothile manje.</item>
+        <item>Thumela umlayezo wezwi kulowo omthandayo.</item>
+        <item>Abantu bayashintsha uma ubanaka.</item>
+        <item>Ubukhona bakho bubaluleke kothile namuhla.</item>
+        <item>Ingxoxo enhle ikwenza ube ngcono. I-feed ayikwenzi.</item>
+        <item>Kukhona odinga ukwazi ukuthi umkhumbule.</item>
+        <item>Hlangana nomuntu esikhundleni sokumlandela.</item>
+        <item>Ubudlelwano obuqinile benziwa isikhathi esihlangene.</item>
+        <item>Ungaba yisizathu sosuku oluhle sikabani.</item>
+        <item>Lowo wekhaya ongakhulumi naye izinyanga.</item>
+        <item>Umlayezo weqiniso unenzuzo ngaphezu kokubukwa okuyinkulungwane.</item>
+        <item>Ukuba ndawonye kuhlukile ekuxhumekeni.</item>
+        <item>Abahlala nawe bafanelwe wena wonke.</item>
+        <item>Mema othile esidlweni sakusihlwa.</item>
+        <item>Abantu bangempela banobuso, izwi nesikhathi esilinganiselwe.</item>
+        <item>Awushintshwa kothile. Vela.</item>
+        <item>Ingxoxo ebaluleke kakhulu yosuku lwakho ayikenzeki.</item>
+        <item>Eduze kwakho kukhona nomunye ongenasikrini.</item>
+        <item>Ukulalela othile yindlela elula yokuthandwa.</item>
+        <item>Lowo mngani udlula kokuthile. Buza.</item>
+        <item>Ingane yakho, inja yakho, umakhelwane wakho. Kukhona othile lapho.</item>
+        <item>Amanethiwekhi akuxhumanisa nabaningi kodwa akekho kubo.</item>
+        <item>Intambama nomuntu inenzuzo yenyanga ye-feed.</item>
+        <item>Ungenza othile ahleke namuhla. Ngempela.</item>
+        <item>Ubukhona obugcwele bungavamile. Unaso esisodwa sokunika.</item>
+        <item>Othile ukhulume ngawe leli viki. Buyisela.</item>
+        <item>Akekho ku-feed ozokukhumbula.</item>
+        <item>Ucingo lwemizuzu emihlanu lushintsha usuku lukabani.</item>
+        <item>Abantu ababalulekile abashumayeli ngalokho.</item>
+        <item>Ungumbuzo owodwa ukude nengxoxo enhle.</item>
+        <item>Inkampani yangempela ayinayo isikhangiso phakathi.</item>
+        <item>Lowo muntu ohlala ekweseka. Mbonge namuhla.</item>
+        <item>Ukubhekana ngamehlo kusengubuchwepheshe obungcono kakhulu.</item>
+        <item>Umndeni wakho awuyona i-feed. Ungawuskroli.</item>
+        <item>Mema othile ukuthi nizungeze ningenzi lutho.</item>
+        <item>Ongekho eduze naye ufanelwe izindaba zakho.</item>
+        <item>Unabantu abakuthandayo ngaphandle kwalapha.</item>
+        <item>Ingxoxo enzima ephoselwe emuva inzima ngaphezu kwe-feed.</item>
+        <item>Jabulela abakuzungezile ngenkathi bekhona.</item>
+        <item>Abantu bayakhumbula lowo obekhona.</item>
+        <item>Mema umngani ukuthi niyophuza ikhofi ngaphandle kwesizathu.</item>
+        <item>Othile ndawana kuthile ufuna ukwazi ngawe.</item>
+        <item>Ungalalela othile ngempela manje.</item>
+        <item>Ubudlelwano buyakhiwa ngokubheka, hhayi ngokuskrola.</item>
+        <item>Ukunaka kwakho yisipho esingcono kakhulu kwabo obathandayo.</item>
+        <item>Umuntu oyedwa uzidlula iphrofayili.</item>
+        <item>Leyo ngxoxo ewubekile kothile. Yinamuhla.</item>
+        <item>Ukuba khona kuyindlela yothando.</item>
+        <item>Unesikhathi sothile manje.</item>
+        <item>Akekho owaqeda impilo efisa ukuba nabalandeli abaningi.</item>
+        <item>Hlangana kabusha nomuntu esikhundleni sokumlandela ekude.</item>
+        <item>Isithunzi kudingeka sishiwo ngezwi elivuthayo ngezinye izikhathi.</item>
+        <item>Iqembu lakho lasemandulo lisekhona. Libize.</item>
+        <item>Umuntu eduze kwakho ufuna ukuxoxa.</item>
+        <item>Ukuziqhathanisa akuyona inhlanganyelo.</item>
+        <item>Ungaba khona ngempela namuhla.</item>
+        <item>Inothi elibhalwe ngesandla. Umbono onjani.</item>
+        <item>Abakwazi ngeqiniso abasekho ku-feed.</item>
+        <item>Yabelana intambama nomuntu.</item>
+        <item>Abantu abaseduze bafanelwe lokho oyinika i-feed.</item>
+        <item>Ubalulekile kothile ongashumayeli.</item>
+        <item>Shayela ubuze ukuthi umuntu unjani ngempela.</item>
+        <item>Ukuba mpandla akuphelela ngesikrini esiningi.</item>
+        <item>Sondela kothile namuhla.</item>
+        <item>Isidlo esihlanganyelwe sinenzuzo yentambama yonke.</item>
+        <item>Ukunaka kwakho kondla ubudlelwano. Ondla oyedwa.</item>
+        <item>Kukhona othile okucabangayo njengamanje.</item>
+        <item>Tshela othile ukuthi uyamthanda.</item>
+        <item>Ubungane buyafa ngokuthula, hhayi ngokuxabana.</item>
+        <item>Unabantu abahle eduze. Jabulela.</item>
+        <item>Kukhona odinga inkampani futhi unayo.</item>
+        <item>Shiya i-feed uyohlangana nabantu.</item>
+        <item>Okuthandayo kufuna isikhathi sakho, hhayi iphrofayili yakho.</item>
+        <item>Ungawenza ngcono usuku lukabani emizuzwini emihlanu.</item>
+        <item>Ukudala kuyakhathaza kodwa kuyagcwalisa. Ukudla kuyaphumuza kodwa kuyadonsa.</item>
+        <item>Unokuningi ongakusho kunokubuka.</item>
+        <item>Kukhona odala lokho obuzokubuka.</item>
+        <item>Bhala umugqa owodwa. Owodwa nje.</item>
+        <item>Umhlaba unabadli abaningi nabadali abambalwa.</item>
+        <item>Leyo mbono yakho isalindile.</item>
+        <item>Ungenza okuthile esikhundleni sokubuka okwenziwe.</item>
+        <item>Yonke into enhle yenziwa ngumuntu ongaskroli.</item>
+        <item>Umbono wakho unenzuzo ngaphezu kwe-feed yonke yanamuhla.</item>
+        <item>Qala lokho okuhlala ukuhlehlisa. Imizuzu emihlanu iyanela.</item>
+        <item>Iphrojekthi emile idinga nje ukuphushwa.</item>
+        <item>Unekhono lokuthile okungekhona ukuskrola isikrini.</item>
+        <item>Yenza okuthile namuhla okungekho izolo.</item>
+        <item>Ukudala kuyajabulisa kunokubuka, kudinga nje ukuqala.</item>
+        <item>Leyo ncwadi engenalutho ayiluli.</item>
+        <item>Okuqukethwe okungcono kakhulu yilokho oyenzayo.</item>
+        <item>Ufunda kakhulu ngokwenza kunokubuka.</item>
+        <item>Dlala insimbi, dweba, pheka. Yenza okuthile ngezandla.</item>
+        <item>Ubuciko bakho buyanyamalala uma ugcwalisa ikhanda nge-feed.</item>
+        <item>Kukhona umsebenzi wakho ongakaze wenziwe muntu.</item>
+        <item>Qala kabi. Kamuva kuzolunga.</item>
+        <item>Isigaba esisodwa ngosuku sishintsha libe incwadi.</item>
+        <item>Unendaba ongayixoxa.</item>
+        <item>Ukwenza izinto yimithi yokungabi nalutho.</item>
+        <item>Isizungu siyisiqalo sobuciko. Siyeke sibe khona.</item>
+        <item>Ikhanda lakho liyadala lapho uyeka ukuligcwalisa.</item>
+        <item>Leso sifundo owasikhokhelayo sisalindile.</item>
+        <item>Ukufunda into entsha namuhla kuyenzeka.</item>
+        <item>Ukudla kulula. Yingakho kuneliseka kancane.</item>
+        <item>Ufuna ukwenza okuthile. Qala manje.</item>
+        <item>Imizuzu emihlanu yokuzivocavoca inenzuzo ngaphezu kwehora lamavidiyo.</item>
+        <item>Leyo ndlela yokupheka ofuna ukuyizama.</item>
+        <item>Imibono ifika ekuthuleni, hhayi ekuskroleni.</item>
+        <item>Ungaba umbhali esikhundleni sezethameli.</item>
+        <item>Iphrojekthi encane ishintsha iviki.</item>
+        <item>Bhala lokho obungakwenza ukube ubunesikhathi. Unaso.</item>
+        <item>Isandla sakho siyakwazi ukwenza izinto. Siseshise.</item>
+        <item>Yenza okuthile okungapheleliswanga namuhla.</item>
+        <item>Ukufunda kumnandi kunokuzijabulisa.</item>
+        <item>Lokho okudalayo kuyahlala. Lokho okuskrolayo kuyanyamalala.</item>
+        <item>Leso sixhobo esifihlwe ekhoneni.</item>
+        <item>Unephrojekthi engapheleliswanga ekulindile.</item>
+        <item>Ukudala kuphambene nokuziqhathanisa.</item>
+        <item>Qala kancane. Qala namuhla.</item>
+        <item>Ikhasi elilodwa ngosuku liyimpilo ehlukile.</item>
+        <item>Umcabango wakho udinga isikhala esikhululekile.</item>
+        <item>Yenza okuthile ozokuziqhenya ngakho kusasa.</item>
+        <item>Injabulo yokudala ayinakushintshwa.</item>
+        <item>Ukwazi okungaphezu kokudla.</item>
+        <item>Leso sifiso esishiywe sisekhona.</item>
+        <item>Imizuzu engu-20 yokuzivocavoca iyimizuzu engu-20 yentuthuko.</item>
+        <item>Akekho owaba muhle entweni ethile ngokuskrola i-feed.</item>
+        <item>Ikhono lakho elilandelayo liqala ngesinye isikhathi. Kwangathi kungaba manje.</item>
+        <item>Yenza, noma kungekho obonayo.</item>
+        <item>Kukhona okufuna ukukufunda. Qala.</item>
+        <item>Ukudla kuwukubuka impilo yabanye.</item>
+        <item>Unezandla, ikhanda nesikhathi. Yikho konke okudingayo.</item>
+        <item>Umbhalo wokuqala uhlala ungemuhle. Yenza.</item>
+        <item>Leyo lwimi obufuna ukuyikhuluma.</item>
+        <item>Ukudala yilokho okuguqula isizungu sibe yinjabulo.</item>
+        <item>Kancane ngosuku kwakha noma yiliphi ikhono.</item>
+        <item>Unento ngaphakathi efuna ukuphuma.</item>
+        <item>Bhala ngosuku lwakho. Wedwa nje.</item>
+        <item>Ubuciko bakho bulinde ukuthi uvale umsindo.</item>
+        <item>Yenza okuthile ngezandla namuhla.</item>
+        <item>Injabulo yokuqeda into ayifani nanoma yini.</item>
+        <item>Leyo phrojekthi obekukujabulisa. Isengakujabulisa.</item>
+        <item>Awudingi ukuba muhle ukuze uqale.</item>
+        <item>Pheka okuthile okusha. Nako ukudala.</item>
+        <item>Impilo iba nentshisekelo kakhulu uma wenza izinto.</item>
+        <item>Akekho ozalwa azi. Wonke umuntu uqala kabi.</item>
+        <item>Leyo mbono yasebusuku. Yibhale phansi.</item>
+        <item>Ungaba usizo kothile ngalokho okwaziyo ukukwenza.</item>
+        <item>Yenza kancane namuhla nokunye kancane kusasa.</item>
+        <item>Isikhathi esingcono sokuqala sesidlulile. Esesibili esingcono yimanje.</item>
+        <item>Umsebenzi wakho awuzenzeli wona.</item>
+        <item>Ukuzivocavoca kuyisicefe kuze kube kuhle.</item>
+        <item>Ufuna ukudala. I-feed ifuna ubheke nje.</item>
+        <item>Leso sithombe obusiqalile.</item>
+        <item>Ukwenza yindlela esheshayo yokufunda.</item>
+        <item>Unezwi. Lisebenzise kokuthile.</item>
+        <item>Ukulungisa okuthile ekhaya nakho ukudala.</item>
+        <item>Impumelelo yakho elandelayo iqala osukwini oluvamile njengalo namuhla.</item>
+        <item>Yenza into ongayenza wena kuphela.</item>
+        <item>I-feed ayipheli. Umsebenzi wakho unesiphetho yingakho ubalulekile.</item>
+        <item>Ungatshala okuthile namuhla. Ngempela.</item>
+        <item>Leyo ithebula, leyo nhlelo, leso siphiwo.</item>
+        <item>Ukudala kunzima futhi yilokho okukwenza kubaluleke.</item>
+        <item>Unentshisekelo ngaphezu kwanoma iyiphi i-feed.</item>
+        <item>Funda imizuzu engu-20. Mincane futhi iningi.</item>
+        <item>Ukufisa ukwazi kungcono uma sekuba yinkambo.</item>
+        <item>Leyo ngoma obufuna ukuyifunda.</item>
+        <item>Yenza into eyusizo futhi elula manje.</item>
+        <item>Unento enhle ongayinika umhlaba.</item>
+        <item>Qala lokho ozothokoza ngokuthi uqalile.</item>
+        <item>Iphrojekthi yakho siqu ishintsha ubudlelwano nesikhathi.</item>
+        <item>Ukudala yindlela engcono kakhulu yokugcwalisa ikhanda.</item>
+        <item>Ungaqeda okuthile namuhla.</item>
+        <item>Beka izandla zakho entweni yangempela.</item>
+        <item>Akukho okungena esikhundleni sokuzwa ukuthi usukwenzile.</item>
+        <item>Kulungile ukuthi ufike lapha. Manje phefumula.</item>
+        <item>Akekho ongakubala lutho. Qhubeka nje.</item>
+        <item>Uhamba kahle, noma kungabonakali.</item>
+        <item>Akukho ukuphuthuma futhi akukho ukucindezela. Ukuphumula nje.</item>
+        <item>Lokhu akuyona ivivinyo. Yisikhumbuzo esithambile nje.</item>
+        <item>Uyazama futhi lokho sekwanele.</item>
+        <item>Kulungile. Vala uqhubeke nosuku.</item>
+        <item>Lapha akukho okumayelana nokulunga njalo.</item>
+        <item>Ufanelwe ukukhululeka namuhla.</item>
+        <item>Akukho udrama. Isikhashana nje sokuphefumula.</item>
+        <item>Lena indawo ethulile. Hlala isikhashana.</item>
+        <item>Wenza konke okusemandleni akho. Lokho kubalwa.</item>
+        <item>Akukho ukucindezela lapha. Kukhona ukunakekela nje.</item>
+        <item>Phefumula. Akukho okungalungile okwenzekayo.</item>
+        <item>Ufike lapha futhi lokho kuhle.</item>
+        <item>Akekho ogwebayo. Nawe akufanele.</item>
+        <item>Konke kuhleliwe. Qhubeka nje.</item>
+        <item>Isinyathelo esisodwa ngesikhathi yisivinini esifanele.</item>
+        <item>Awudingi ukuphelela kulokhu.</item>
+        <item>Ukuhamba kancane nako kuhamba.</item>
+        <item>Lesi sikrini asikudingi lutho.</item>
+        <item>Zithobele manje.</item>
+        <item>Kulungile ukuzwa isifiso. Kuyingxenye yempilo.</item>
+        <item>Uyazinakekela. Kuhle lokho.</item>
+        <item>Akukho ukwethuka, akukho ukuphuthuma, akukho ukwesaba.</item>
+        <item>Ungumuntu. Lokho kuvunyelwe.</item>
+        <item>Awudingi ukuzichazela muntu.</item>
+        <item>Phefumula kahle. Sekudlulile.</item>
+        <item>Uphephile lapha.</item>
+        <item>Kulungile uma namuhla kunzima.</item>
+        <item>Alukho usuku olufana nolunye. Nalolu aluhlukile.</item>
+        <item>Usendleleni, noma kancane.</item>
+        <item>Phumuza ukucindezela isikhashana.</item>
+        <item>Kulungile. Ukuphefumula nje.</item>
+        <item>Awudingi ukuba kahle njalo.</item>
+        <item>Umusa kuwe kusebenza kangcono kunokuqina.</item>
+        <item>Lo mzuzu uzodlula ngokuthula.</item>
+        <item>Usuyenzile ingxenye enzima namuhla.</item>
+        <item>Akukho okuphuthumayo. Akukho okubi. Ukuphumula nje.</item>
+        <item>Ncika. Lokhu kuncane kunalokho okubonakala.</item>
+        <item>Uyazama futhi yilokho okubalulekile.</item>
+        <item>Akukho ukuziphendulela. Qhubeka nje.</item>
+        <item>Kulungile. Ngeqiniso.</item>
+        <item>Ufanelwe usuku olulula.</item>
+        <item>Phefumula. Umhlaba uyaqhubeka nokuzungeza.</item>
+        <item>Akukho ukuphuthuma namuhla.</item>
+        <item>Uthule ngalesi sinqumo.</item>
+        <item>Kulungile ukuqala kabusha kaningi njengoba udinga.</item>
+        <item>Lena indawo engenakucindezela.</item>
+        <item>Yiba nesineke ngenqubo.</item>
+        <item>Awukho emuva ngalutho.</item>
+        <item>Kulungile ukungabi ngu-100 kwamaphesenti.</item>
+        <item>Lokhu kuphumula kuyinakekelo, hhayi isilungiso.</item>
+        <item>Ungaqhubeka manje nje.</item>
+        <item>Akukho ukuqina. Isikhashana nje.</item>
+        <item>Kulungile uma kwenzeke ngokuzenzakalela.</item>
+        <item>Awudingi sizathu sokuba kahle.</item>
+        <item>Phefumula uqhubeke. Kulula njalo.</item>
+        <item>Akukho inkinga lapha.</item>
+        <item>Wenza kahle.</item>
+        <item>Kulungile, ngeqiniso. Hamba ngokuthula.</item>
+        <item>Lo mzuzu ungowakho wokuphumula.</item>
+        <item>Awuwedwa kulokhu.</item>
+        <item>Konke kuthule. Qhubeka nosuku.</item>
+        <item>Akukho isisindo. Isikhumbuzo nje.</item>
+        <item>Usuyanela.</item>
+        <item>Ukuthula okufunayo akukho ku-feed.</item>
+        <item>Konke kulungile ngawe.</item>
+        <item>Phumuza ingqondo isekhondi elilodwa.</item>
+        <item>Ufanelwe lokhu kunakekelwa.</item>
+        <item>Akukho okudinga ukuxazululwa manje.</item>
+        <item>Phefumula kanye. Bese uqhubeka.</item>
+        <item>Ukhona kahle. Kuphela.</item>
+        <item>Akukho ukucindezela, akukho ukubalwa, akukho isikolo.</item>
+        <item>Umzuzu wokuthula phakathi nosuku.</item>
+        <item>Ungazithobela manje.</item>
+        <item>Konke kunokuthula.</item>
+        <item>Akukho ukuphuthuma ngalutho.</item>
+        <item>Wenzile ongakwazi namuhla.</item>
+        <item>Kulungile. Kusasa kuyaqhubeka.</item>
+        <item>Lesi sikhathi singukuphefumula nje.</item>
+        <item>Uphephile futhi lokho kwanele.</item>
+        <item>Akekho ogwebayo lapha.</item>
+        <item>Vele uphefumule uyophila.</item>
+        <item>Ufanelwe ukuthula namuhla.</item>
+        <item>Kulungile nganoma yisiphi isivinini.</item>
+        <item>Phumuza ikhanda kancane.</item>
+        <item>Uyamukelekile lapha njalo.</item>
+        <item>Akukho ukwethuka. Ukumisa okufushane nje.</item>
+        <item>Impilo ayisiyo umjaho namuhla.</item>
+        <item>Ungumuntu ophelele futhi lokho kwanele.</item>
+        <item>Kulungile ukuthi uzamile.</item>
+        <item>Lapha akukho okuphikisana nawe.</item>
+        <item>Phefumula uqhubeke kancane.</item>
+        <item>Ukhona kahle njengoba unjalo.</item>
+        <item>Lona umzuzu wokuthula.</item>
+        <item>Akukho ukucindezela nhlobo. Qhubeka kalula.</item>
+        <item>Unemvume yokuphumula.</item>
+        <item>Konke kuthule lapha.</item>
+        <item>Hamba kancane. Usuku luyalinda.</item>
+        <item>Unomusa kuwe futhi lokho kuwumandla.</item>
+        <item>Ubungenzani manje ukube lolu hlelo alukho?</item>
+        <item>Ukhona lapha ngokufisa noma ngokujwayela?</item>
+        <item>Bubufuna ini nje?</item>
+        <item>Lokhu kuzobalulekile kusasa ekuseni?</item>
+        <item>Uzokhumbula lokho obuzokubona manje?</item>
+        <item>Ubungenzani ngaphambi kokuthatha ifoni?</item>
+        <item>Ufuna ukunika isikhathi esingakanani lokhu namuhla?</item>
+        <item>Uyaphelelwa yisikhathi noma ukhathele?</item>
+        <item>Intambama yakho ingaba yini esikhundleni salokhu?</item>
+        <item>Kuyafaneleka?</item>
+        <item>Ukuvulile ngesizathu esithile?</item>
+        <item>Ubungahlehlisa ini futhi ukube ungena manje?</item>
+        <item>Ufuna ukuba ngubani emva konyaka?</item>
+        <item>Yini engakwenza kahle ngempela manje?</item>
+        <item>Uyabaleka kokuthile?</item>
+        <item>Kuthiwani ngokwenza leyo nto oyihlehlisayo?</item>
+        <item>Kwenzeka ini ukube uvala nje?</item>
+        <item>Unento engcono yokwenza. Yini?</item>
+        <item>Lokhu kuphumula noma kuyindlela yokubaleka?</item>
+        <item>Wena wakusasa wacela ukuthi wenzeni?</item>
+        <item>Unendlala, ulele noma uyaphelelwa yisikhathi?</item>
+        <item>Kwaba nini ngokugcina lapho i-feed ikwenza ungcono?</item>
+        <item>Ufuna ukuzwa ini ekupheleni kosuku?</item>
+        <item>Kushoda ini manje?</item>
+        <item>Uyakudinga lokhu noma uyakufuna nje?</item>
+        <item>Yini encane engenza usuku lwakho lungcono manje?</item>
+        <item>Ubungenzani ngamahora amabili amahhala?</item>
+        <item>Usuyazi ukuthi kufanele wenzeni.</item>
+        <item>Yini intengo yangempela yale mizuzu eyi-15?</item>
+        <item>Ufuna lokhu noma isandla sivele sihambe?</item>
+        <item>Yini engaba nenzuzo kakhulu manje?</item>
+        <item>Konke kuhamba kahle lapho?</item>
+        <item>Ukhetho olungcono luyini manje, ngokuthula?</item>
+        <item>Uzoziqhenya ngale ngxenye yehora.</item>
+        <item>Ubungenzani ukube akekho obonayo?</item>
+        <item>Ukhona ongambiza manje?</item>
+        <item>Ikhanda lakho lizama ukugwema ini?</item>
+        <item>Kuyafaneleka ukushintshanisa intambama yakho nalokhu?</item>
+        <item>Unohlelo lwanamuhla. Luhlanganisa lokhu?</item>
+        <item>Yini into emnandi kakhulu ongayenza manje?</item>
+        <item>Uhamba kahle, ngobuqotho.</item>
+        <item>Yini engenza leli viki libe nenzuzo?</item>
+        <item>Yilokhu okufunayo noma okwenzayo?</item>
+        <item>Usucabange ukuthi ufuna ukwenzani kusasa?</item>
+        <item>Sekuyiminyaka emingaki namuhla uthatha ifoni?</item>
+        <item>Yini engakwenza uneliseke emva kwehora?</item>
+        <item>Ufuna ukungena noma umunwe usuzenzakalelayo?</item>
+        <item>Yini into ebalulekile oyibekela ngokuzayo?</item>
+        <item>Wena wakudala eminyakeni eyishumi edlule wayengakubona kanjani lokhu?</item>
+        <item>Uphumula ngempela?</item>
+        <item>Kukhona ongakwenza ukube unesibindi.</item>
+        <item>Yini ongathanda ukuba uyenzile namuhla ebusuku?</item>
+        <item>Kunenzuzo ngaphezu kwengxoxo.</item>
+        <item>Unesikhathi sani namuhla?</item>
+        <item>Yiyiphi inkambiso ofuna ukuba nayo emva kwezinyanga eziyisithupha?</item>
+        <item>Yini edinga ukunakwa kwakho ngempela?</item>
+        <item>Ungathanda ukukhumbula noma ukukhohlwa le ntambama?</item>
+        <item>Kungaba yini ukusetshenziswa okuhle kwalo mzuzu?</item>
+        <item>Ukhona lapha ukubona okuthile noma ukugwema ukuzwa okuthile?</item>
+        <item>Yini engakwenza ulale kahle namuhla?</item>
+        <item>Lokhu kwengeza noma kuyakhipha osukwini lwakho?</item>
+        <item>Ufuna ngempela ukwazi ukuthi kukhona ini lapho?</item>
+        <item>Yini into enhle yokugcina oyenzile ngaphandle kwesikrini?</item>
+        <item>Ubungenzani entambama engenayo i-intanethi?</item>
+        <item>Uphuthuma ngani?</item>
+        <item>Isinyathelo esincane obungasithatha manje siyini?</item>
+        <item>Yini edinga ukunakwa kwakho ngaphezu kwalokhu?</item>
+        <item>Usuphefumule kahle namuhla?</item>
+        <item>Uhlelo lwakho lwehora elilandelayo luyini?</item>
+        <item>Lokhu kukusondeza kokuthile okufunayo?</item>
+        <item>Ubungakwenza lokhu phambi komuntu omhlonipha?</item>
+        <item>Kwenzekeni okuhle namuhla?</item>
+        <item>Muphi umlando wakho osuhambele ezikrinini?</item>
+        <item>Unomcabango omile olindile.</item>
+        <item>Ufuna ukwenzani ngaleli viki?</item>
+        <item>Kuyafaneleka ukushintshanisa ukuthula nomsindo?</item>
+        <item>Udala noma udla namuhla?</item>
+        <item>Yiyiphi into elula engakwenza ube kahle manje?</item>
+        <item>Ubungathini kumngani esimeni esifana nalesi?</item>
+        <item>Unemizuzu emihlanu. Yokwenzani?</item>
+        <item>Yini ekukhathazayo ngempela?</item>
+        <item>Yilokhu okungcono kakhulu ongakwenza manje?</item>
+        <item>Ulawula lo mzuzu.</item>
+        <item>Siyiphi isinqumo ongaziqhenya ngaso?</item>
+        <item>Ufuna ukuba usuyenzile ini lapho usuku luphela?</item>
+        <item>Uyakhumbula ukuthi yini wafaka lokhu?</item>
+        <item>Kuthiwani ngokukushiya kamuva ubone ukuthi usakufuna?</item>
+        <item>Ubungenzani ukube unesibindi esengeziwe namuhla?</item>
+        <item>Ufuna inguqulo esheshayo noma enhle yosuku lwakho?</item>
+        <item>Yiyiphi into ongayenza wena kuphela namuhla?</item>
+        <item>Yini ekulindele ngaphandle?</item>
+        <item>Usubongile ngokuthile namuhla?</item>
+        <item>Uhafu wehora elilandelayo lunani kuwe?</item>
+        <item>Ufuna ukuthatha ini kuleli viki?</item>
+        <item>Lokhu kuphuthuma noma kubonakala kunjalo nje?</item>
+        <item>Wenza lokho ofuna ukukwenza?</item>
+        <item>Siphi isiphetho esihle salolu suku?</item>
+        <item>Ubungenzani ukube uphumulile?</item>
+        <item>Ukhetha ukuskrola noma ukuphila manje?</item>
+        <item>Kuthiwani ngokuvala nje ubone ukuthi kwenzekani?</item>
+    </string-array>
+</resources>

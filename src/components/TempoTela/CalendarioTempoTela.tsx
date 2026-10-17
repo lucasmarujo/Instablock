@@ -1,5 +1,7 @@
 import { StyleSheet, Text, View } from 'react-native';
 
+import { formatar } from '@/i18n/formatos';
+import { useTextos } from '@/i18n/IdiomaContext';
 import { radius, spacing, typography } from '@/theme/tokens';
 import { useTheme } from '@/theme/useTheme';
 
@@ -18,7 +20,6 @@ type Props = {
   leituras: { date: string; seconds: number }[];
 };
 
-const SEMANA = ['D', 'S', 'T', 'Q', 'Q', 'S', 'S'];
 const CIRCULO = 34;
 
 /**
@@ -36,6 +37,7 @@ const CIRCULO = 34;
  */
 export function CalendarioTempoTela({ ancora, leituras }: Props) {
   const theme = useTheme();
+  const t = useTextos();
   const dias = diasDoMes(ancora, leituras);
   const maximo = maiorLeitura(dias);
   const vazios = espacosAntesDoPrimeiro(ancora);
@@ -43,7 +45,7 @@ export function CalendarioTempoTela({ ancora, leituras }: Props) {
   return (
     <View style={styles.container}>
       <View style={styles.semana}>
-        {SEMANA.map((letra, indice) => (
+        {t.datas.diasDaSemanaIniciais.map((letra, indice) => (
           <Text
             key={indice}
             style={[styles.cabecalho, { color: theme.colors.textTertiary }]}
@@ -69,6 +71,7 @@ export function CalendarioTempoTela({ ancora, leituras }: Props) {
 
 function Dia({ dia, maximo }: { dia: DiaDoMes; maximo: number }) {
   const theme = useTheme();
+  const t = useTextos();
   const intensidade = intensidadeDoDia(dia.segundos, maximo);
 
   // Sem leitura: so a borda, sem preenchimento. Com leitura: opacidade da marca
@@ -83,8 +86,11 @@ function Dia({ dia, maximo }: { dia: DiaDoMes; maximo: number }) {
         accessibilityRole="text"
         accessibilityLabel={
           dia.segundos === null
-            ? `Dia ${dia.numero}, sem medicao`
-            : `Dia ${dia.numero}, ${descreverDuracao(dia.segundos)}`
+            ? formatar(t.tempoTela.diaSemMedicao, { dia: dia.numero })
+            : formatar(t.tempoTela.diaComDuracao, {
+                dia: dia.numero,
+                duracao: descreverDuracao(dia.segundos, t),
+              })
         }
         style={[
           styles.circulo,

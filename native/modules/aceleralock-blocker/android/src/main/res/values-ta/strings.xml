@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">%1$s தடுக்கப்பட்டுள்ளது.</string>
+    <string name="aceleralock_block_title_unknown">இந்த ஆப் தடுக்கப்பட்டுள்ளது.</string>
+    <string name="aceleralock_block_close">மூடு</string>
+    <string name="aceleralock_notification_channel">பாதுகாப்பு இயங்குகிறது</string>
+    <string name="aceleralock_notification_text">பாதுகாப்பு இயங்குகிறது</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: தளத் தடுப்பு</string>
+    <string name="aceleralock_site_accessibility_description">நீங்கள் தேர்ந்தெடுத்த தளங்களைத் தடுக்க, Chrome, Samsung Internet, Firefox, Edge, Brave ஆகியவற்றின் முகவரிப் பட்டையில் உள்ள முகவரியை மட்டும் படிக்கிறது. எதுவும் சேமிக்கப்படாது, எதுவும் சாதனத்தை விட்டு வெளியேறாது.</string>
+</resources>

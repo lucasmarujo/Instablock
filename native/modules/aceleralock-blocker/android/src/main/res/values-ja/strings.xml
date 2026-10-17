@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">%1$sはブロックされています。</string>
+    <string name="aceleralock_block_title_unknown">このアプリはブロックされています。</string>
+    <string name="aceleralock_block_close">閉じる</string>
+    <string name="aceleralock_notification_channel">保護中</string>
+    <string name="aceleralock_notification_text">保護中</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: サイトのブロック</string>
+    <string name="aceleralock_site_accessibility_description">Chrome、Samsung Internet、Firefox、Edge、Braveのアドレスバーに表示されたアドレスだけを読み取り、選んだサイトをブロックします。何も保存されず、端末の外に送られることもありません。</string>
+</resources>

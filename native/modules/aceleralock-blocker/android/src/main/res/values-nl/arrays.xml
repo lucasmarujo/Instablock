@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Nederlands: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>De tijd die je hier niet besteedt, gaat helemaal terug naar je leven.</item>
+        <item>Elke minuut buiten dit scherm is weer een minuut van jou.</item>
+        <item>Die twintig minuten passen precies in een wandeling.</item>
+        <item>De dag heeft meer ruimte dan je denkt als het scrollen stopt.</item>
+        <item>Je hebt net een stukje van je middag teruggewonnen.</item>
+        <item>Een uur per dag is vijftien dagen per jaar.</item>
+        <item>De tijd komt niet terug, maar je kunt nog kiezen waar hij heen gaat.</item>
+        <item>Deze pauze is van jou. Niemand hoeft te weten wat je ermee deed.</item>
+        <item>Er speelt zich een heel leven af buiten de app.</item>
+        <item>De klok tikt even hard aan beide kanten van dit scherm.</item>
+        <item>Je hebt nu tijd gekocht. Besteed hem aan iets wat je morgen nog weet.</item>
+        <item>Niemand denkt ’s avonds: had ik maar langer door de feed gescrold.</item>
+        <item>Vijftien minuten hier zijn vijftien minuten waar dan ook.</item>
+        <item>Wat zou je tien jaar geleden met dit half uur hebben gedaan?</item>
+        <item>Je tijd is het enige wat je niet terug kunt kopen.</item>
+        <item>De hele middag ligt nog open voor je.</item>
+        <item>Deze minuut kan het begin van iets anders zijn.</item>
+        <item>Je geeft jezelf uren terug, één voor één.</item>
+        <item>Tijd die je hier bespaart, verdwijnt niet. Hij duikt ergens anders weer op.</item>
+        <item>Tien minuten lijkt weinig, tot je ze voor een hele maand optelt.</item>
+        <item>Het leven gaat op gewone snelheid, niet op die van de feed.</item>
+        <item>Je hebt vandaag meer tijd dan gisteren op dit uur.</item>
+        <item>Wat je al een tijd uitstelt, past precies in deze pauze.</item>
+        <item>Deze pauze is kort. Wat je ermee doet, hoeft dat niet te zijn.</item>
+        <item>Er past veel in een dag als het scrollen eruit gaat.</item>
+        <item>Je hebt net de rest van je avond teruggekregen.</item>
+        <item>Tijd is de munt. Je hebt net besloten hem niet uit te geven.</item>
+        <item>De feed houdt nooit op. Jouw dag wel.</item>
+        <item>Een half uur per dag is een heel boek per maand.</item>
+        <item>Daarbinnen wachtte niets dringends op je.</item>
+        <item>Deze tijd was al van jou. Nu is hij weer bij je terug.</item>
+        <item>De ochtend kan nog wat opleveren als hij nu begint.</item>
+        <item>Je hebt niets gemist. Je hebt een pauze gewonnen.</item>
+        <item>Niemand geeft ons tijd terug. Wij zijn degenen die hem vasthouden.</item>
+        <item>Deze minuten zijn buiten meer waard, en dat weet je al.</item>
+        <item>Wat daar stond, staat er nog. Jouw tijd blijft niet staan.</item>
+        <item>Een leven bestaat uit middagen zoals deze.</item>
+        <item>Je kunt de dag eindigen met iets gedaan in plaats van iets gezien.</item>
+        <item>Twee uur per dag is een hele maand per jaar.</item>
+        <item>De tijd die je vandaag beschermt, is wat er morgen overblijft.</item>
+        <item>Dit is het deel van de dag waar alleen jij over beslist.</item>
+        <item>Er staat daar niets wat jouw middag waard is.</item>
+        <item>Met dertig minuten per dag bouw je in een jaar van alles op.</item>
+        <item>Je hebt net een stukje stilte gekocht.</item>
+        <item>De dag wordt groter als de feed kleiner wordt.</item>
+        <item>Deze tijd is nu grondstof. Maak er iets van.</item>
+        <item>Er ligt een project van jou te wachten op precies deze pauze.</item>
+        <item>Wat je hier wint, zie je op geen enkel scherm, alleen in je leven.</item>
+        <item>Vrije tijd is zeldzaam. Je hebt er net wat van gemaakt.</item>
+        <item>Niemand vroeg aan het eind van zijn leven om nog één keer scrollen.</item>
+        <item>Je hebt de hele middag en hij is nog niet uitgegeven.</item>
+        <item>Een jaar is driehonderdvijfenzestig keuzes zoals deze.</item>
+        <item>Deze pauze is klein, maar helemaal van jou.</item>
+        <item>De tijd gaat even snel. Het verschil is wat er daarna blijft.</item>
+        <item>Je hebt net een half uur van de automatische piloot afgepakt.</item>
+        <item>De rest van de dag is blij met deze stop.</item>
+        <item>Vijf minuten daar worden er veertig zonder dat iemand het merkt.</item>
+        <item>Je kent de prijs van die vijf minuten. Daarom ben je hier.</item>
+        <item>Het uur dat je nu beschermt, is het uur dat je ’s avonds zoekt.</item>
+        <item>Niets daarbinnen wordt beter doordat je het nu ziet in plaats van later.</item>
+        <item>Je hebt net gekozen waar de volgende minuut heen gaat.</item>
+        <item>Deze tijd past in een gesprek, een wandeling, een dutje.</item>
+        <item>De dag levert wat op als de uren niet meer wegglippen.</item>
+        <item>Jij bent de enige eigenaar van het volgende half uur.</item>
+        <item>Er bestaat een versie van deze dag waarin je iets deed. Die begint nu.</item>
+        <item>Tijd spaar je niet op. Je besteedt hem alleen beter of slechter.</item>
+        <item>Deze minuten kunnen echte rust worden.</item>
+        <item>Je bent net van een loopband gestapt die nergens heen gaat.</item>
+        <item>Een week heeft honderdachtenzestig uur. Dit uur is van jou.</item>
+        <item>De feed neemt je tijd in kleine stukjes, zodat niemand hem mist.</item>
+        <item>Nu kun je doen wat elke dag naar morgen schuift.</item>
+        <item>Je middag hoeft niet in een scherm te passen.</item>
+        <item>De tijd die overblijft, maakt de dag op een goede manier lang.</item>
+        <item>Je hebt net het volgende uur aan jezelf teruggegeven.</item>
+        <item>Niets wat je nu zou zien, zit over een week nog in je hoofd.</item>
+        <item>Dit soort minuten maakt of breekt een jaar.</item>
+        <item>Je hebt tijd gewonnen. Je hoeft hem niet snel uit te geven.</item>
+        <item>Een dag zonder scrollen is een dag waarin meer past.</item>
+        <item>De klok maakt geen onderscheid tussen goede en verspilde tijd. Jij wel.</item>
+        <item>Dit uur is evenveel waard als elk ander uur van je leven.</item>
+        <item>Je hebt nu tijd. Dat is zeldzamer dan het lijkt.</item>
+        <item>Tijd bewaren is de enige manier om tijd te hebben.</item>
+        <item>De hele avond ligt nog voor je.</item>
+        <item>Deze minuten zijn het begin van een middag die je gaat onthouden.</item>
+        <item>Je bent net niet in dat gat van een uur gevallen.</item>
+        <item>Alles wat tijd vraagt, vraagt precies dit soort beslissing.</item>
+        <item>Tussen nu en het avondeten kan nog van alles.</item>
+        <item>Je haalt je voet van het gas. De dag remt mee af.</item>
+        <item>Je week heeft ruimte. Die werd alleen door iets anders ingenomen.</item>
+        <item>Elke keer dat je dit sluit, wordt de dag een beetje groter.</item>
+        <item>Tijd is het cadeau dat je jezelf geeft zonder iets uit te geven.</item>
+        <item>Je hebt nu precies wat je de hele dag zegt niet te hebben.</item>
+        <item>Een lange middag bestaat uit korte beslissingen zoals deze.</item>
+        <item>Niemand gaat vragen wat je met dit half uur hebt gedaan.</item>
+        <item>De tijd die je vandaag niet weggeeft, heb je morgen nog.</item>
+        <item>Twintig minuten per dag is honderdtwintig uur per jaar.</item>
+        <item>Je hebt net het moment voor het slapengaan teruggewonnen.</item>
+        <item>Er zit veel leven tussen de ene melding en de volgende.</item>
+        <item>De hele dag past hierin als je hem niet in stukjes weggeeft.</item>
+        <item>Je hebt al zoveel tijd beschermd. Dit is weer een stukje.</item>
+        <item>Je aandacht is het meest gewilde goed ter wereld. Jij hebt net gewonnen.</item>
+        <item>Focus heeft twintig minuten nodig om terug te komen. Geef hem nu niet weg.</item>
+        <item>Een heel hoofd is meer waard dan een versnipperd hoofd.</item>
+        <item>Je was ergens op gefocust voordat je hierheen kwam.</item>
+        <item>Verdeelde aandacht is geen aandacht. Het is gewoon vermoeidheid.</item>
+        <item>Waar je mee bezig was, verdient jou helemaal.</item>
+        <item>Diep nadenken vraagt tijd zonder onderbreking. Dit is die tijd.</item>
+        <item>Elke schermwissel kost meer dan de klok laat zien.</item>
+        <item>Je hoofd was goed bezig. Laat het doorgaan.</item>
+        <item>Diep werk overleeft geen rondje door de feed.</item>
+        <item>De feed is ontworpen om je aandacht te pakken. Dat zag je.</item>
+        <item>Een lange gedachte heeft stilte nodig om af te ronden.</item>
+        <item>Je kunt een heel idee in je hoofd vasthouden. Je hebt alleen ruimte nodig.</item>
+        <item>Afleiding is geen rust. Rust geeft rust.</item>
+        <item>De concentratie die je had, is er nog. Ga ernaar terug.</item>
+        <item>Je aandacht is vandaag niet te koop.</item>
+        <item>Het beste van je hoofd komt na de twintigste minuut.</item>
+        <item>Nu onderbreken kost meer dan het lijkt.</item>
+        <item>Je kunt dingen die focus vragen. Begin met die focus te beschermen.</item>
+        <item>Niets daarbinnen heeft dringend je aandacht nodig.</item>
+        <item>Een geconcentreerd uur levert meer op dan vier versnipperde uren.</item>
+        <item>Je hoofd werkt beter als het niet steeds van onderwerp wisselt.</item>
+        <item>Wat half af is, kan vandaag nog af.</item>
+        <item>Focus is geen wilskracht. Het is omgeving. Je hebt de jouwe net opgeruimd.</item>
+        <item>Dat lastige probleem geeft zich gewonnen als je erbij blijft.</item>
+        <item>Je aandacht is beperkt. Daarom is die zo waardevol.</item>
+        <item>Je hoeft nu niet alles te weten.</item>
+        <item>Het lawaai blijft daar. Jouw stilte is wat zeldzaam is.</item>
+        <item>Grote dingen zijn gemaakt door mensen die niet werden onderbroken.</item>
+        <item>Ga terug naar waar je mee bezig was. Je hoofd is er nog.</item>
+        <item>Eén taak tegelijk is sneller dan het lijkt.</item>
+        <item>De drang om te kijken gaat over. Een onderbroken idee komt soms niet terug.</item>
+        <item>Je kunt je veel langer concentreren dan je de laatste tijd doet.</item>
+        <item>Goed nadenken gaat langzaam. Laat het langzaam gaan.</item>
+        <item>Je aandacht heeft vandaag iets opgebouwd. Breek het niet af uit nieuwsgierigheid.</item>
+        <item>Wat je hoofd vraagt, vraagt je hele hoofd.</item>
+        <item>Geen enkele feed leert je wat een uur focus je leert.</item>
+        <item>Elke genegeerde melding is weer wat meer helderheid.</item>
+        <item>Je was er bijna. Ga terug.</item>
+        <item>Een uitgerust hoofd is een hoofd dat niet de hele dag alle kanten op is getrokken.</item>
+        <item>Je aandacht is het materiaal waarmee je al het andere bouwt.</item>
+        <item>Beginnen is het moeilijkst. Je bent al begonnen. Begin niet opnieuw bij nul.</item>
+        <item>Laat het onderwerp met rust en je hoofd lost het vanzelf op.</item>
+        <item>Helderheid verschijnt als het lawaai stopt.</item>
+        <item>Het beste werk van je dag moet nog komen.</item>
+        <item>Het is geen gebrek aan tijd. Het is gebrek aan ongestoorde tijd.</item>
+        <item>Je denkt beter dan de feed je laat denken.</item>
+        <item>Die tekst, die code, dat gesprek. Ze wachten op jou, helemaal.</item>
+        <item>Concentratie is een spier. Hij groeit met dagen als vandaag.</item>
+        <item>Je hoofd zei net dankjewel.</item>
+        <item>Eén ding tegelijk is nog steeds de meest geavanceerde techniek die er is.</item>
+        <item>Wat je met aandacht doet, blijft. De rest gaat voorbij.</item>
+        <item>Er is geen kortere weg naar denken. Alleen tijd zonder onderbreking.</item>
+        <item>Je verdient het om een gedachtegang af te maken.</item>
+        <item>Je hoofd was scherp. Houd die draad vast.</item>
+        <item>Het scherm knippert. Ideeën niet. Blijf bij de ideeën.</item>
+        <item>Een dag met focus is drie gehaaste dagen waard.</item>
+        <item>Je bent niet traag. Je werd alleen steeds onderbroken.</item>
+        <item>Wat er vandaag toe doet, staat niet in de feed.</item>
+        <item>Koers houden is makkelijker dan hem terugvinden.</item>
+        <item>Je volle aandacht is een cadeau. Geef het aan wie het verdient.</item>
+        <item>Stilte is waar goede ideeën verschijnen.</item>
+        <item>Je was midden in iets goeds.</item>
+        <item>Niemand denkt helder met zijn hoofd op tien plekken.</item>
+        <item>Diepte vind je pas als je eerst een tijdje aan de oppervlakte blijft.</item>
+        <item>Focus gaat niet over meer doen. Het gaat over het goed doen.</item>
+        <item>Je hebt vandaag iets belangrijks. De feed is het niet.</item>
+        <item>Laat je hoofd de zin afmaken waar het aan begon.</item>
+        <item>Een uur zonder onderbreking verandert wat er op een dag mogelijk is.</item>
+        <item>Wat nu moeilijk lijkt, wordt makkelijk met aanhoudende aandacht.</item>
+        <item>Je concentratie is je voordeel. Weinig mensen hebben die van hen nog.</item>
+        <item>Ruil één belangrijk ding niet in voor veel snelle dingen.</item>
+        <item>Nieuwsgierigheid kan wachten. Focus wacht niet.</item>
+        <item>Je bent iets aan het bouwen. Ga door.</item>
+        <item>Van taak wisselen voelt productief en is het bijna nooit.</item>
+        <item>Het beste gebruik van je hoofd vandaag is nog beschikbaar.</item>
+        <item>De aandacht die je nu bewaart, zie je later terug in het resultaat.</item>
+        <item>Je hoofd is geen feed. Het onthoudt waar je aandacht aan geeft.</item>
+        <item>Iets wat je volle aandacht verdient, kom je zelden tegen. Grijp het.</item>
+        <item>Moeilijk is niet onmogelijk. Het duurt alleen langer.</item>
+        <item>Je bent een paar minuten verwijderd van de doorbraak.</item>
+        <item>Het lawaai verdwijnt als je het niet meer voedt.</item>
+        <item>Blijf bij waar je mee bezig was tot het af is.</item>
+        <item>Eén keer diep duiken is tien keer ondiep waard.</item>
+        <item>Je aandacht beslist wat een herinnering wordt.</item>
+        <item>Je onthoudt waar je aandacht aan gaf. Alleen dat.</item>
+        <item>Denken is het meest renderende wat je vandaag doet.</item>
+        <item>Een hoofd zonder haast ziet wat een gehaast hoofd mist.</item>
+        <item>Goed werk vraagt geduld, geen snelheid.</item>
+        <item>Niets wat je nu zou zien, haal je morgen aan in een gesprek.</item>
+        <item>Je heldere hoofd van vandaag begon met beslissingen zoals deze.</item>
+        <item>Onderbreking is de duurste belasting die er bestaat.</item>
+        <item>Je kunt langer bij één ding blijven dan je denkt.</item>
+        <item>Dat detail dat je steeds ontglipte, verschijnt in de stilte.</item>
+        <item>De focus komt terug. Hij heeft alleen een paar minuten zonder scherm nodig.</item>
+        <item>Je kunt lang je aandacht vasthouden. De feed gokt van niet.</item>
+        <item>Vandaag één ding afmaken is meer waard dan vijf beginnen.</item>
+        <item>Volle aandacht is zeldzaam, zelfs voor jezelf.</item>
+        <item>Laat de gedachte ademen.</item>
+        <item>Wat je met focus bouwt, scrolt niemand voorbij.</item>
+        <item>De drang om te openen gaat binnen een paar minuten over. Altijd.</item>
+        <item>Deze impuls heeft een houdbaarheidsdatum. Hij verloopt vanzelf.</item>
+        <item>Je hoeft niets te doen. Wacht gewoon tot de golf zakt.</item>
+        <item>De urgentie die je nu voelt, is niet van jou. Die is je aangeleerd.</item>
+        <item>Adem één keer. De drang is al kleiner dan een minuut geleden.</item>
+        <item>De impuls is in het begin sterk en verdwijnt halverwege.</item>
+        <item>Jij bent het niet die wil. Het is de gewoonte die vraagt.</item>
+        <item>Het voelt even ongemakkelijk. Daarna gaat het over.</item>
+        <item>Je hebt dit eerder gevoeld en bent er elke keer doorheen gekomen.</item>
+        <item>De drang komt in golven. Golven breken.</item>
+        <item>Niemand hoeft de eerste impuls van de dag te volgen.</item>
+        <item>Dat knellende gevoel in je borst duurt korter dan een liedje.</item>
+        <item>Je bent groter dan een impuls van dertig seconden.</item>
+        <item>Laat de drang voorbijgaan zonder er iets mee te doen.</item>
+        <item>Het ongemak nu is de gewoonte die loslaat. Dat is vooruitgang.</item>
+        <item>Je verzet je niet. Je wacht gewoon.</item>
+        <item>De drang komt hard binnen en gaat stil weer weg.</item>
+        <item>Tel tot twintig. Hij is dan al kleiner.</item>
+        <item>Zin hebben is niet hetzelfde als nodig hebben.</item>
+        <item>De impuls wil meteen antwoord. Geef er geen.</item>
+        <item>Dit is het moeilijkste moment, en het is kort.</item>
+        <item>Je hoeft niet te vechten. Beslis alleen nu nog niet.</item>
+        <item>De drang verdwijnt als niemand hem voedt.</item>
+        <item>Dit is onrust, geen honger naar content.</item>
+        <item>Merk de drang op zonder erin mee te gaan.</item>
+        <item>Je brein vraagt om het gebruikelijke. Je hoeft het niet te serveren.</item>
+        <item>Vijf minuten en je weet niet eens meer dat je wilde openen.</item>
+        <item>De golf komt nu op. Hij zakt altijd weer.</item>
+        <item>Je bent het ergste deel al voorbij.</item>
+        <item>De impuls liegt over zijn eigen kracht.</item>
+        <item>Sta op, drink water, kom terug. Hij is al weg.</item>
+        <item>Zin is geen bevel.</item>
+        <item>Je kunt dit voelen en niets doen. Dat mag.</item>
+        <item>Je lichaam vraagt om beweging, niet om een scherm.</item>
+        <item>Dit verlangen gaat automatisch. Jouw antwoord hoeft dat niet.</item>
+        <item>Er gebeurt niets ergs als je nog even wacht.</item>
+        <item>De drang verdwijnt vanzelf als je hem ruimte geeft.</item>
+        <item>Je bent gewoon wat onrustig. Dat gaat over en vraagt geen scherm.</item>
+        <item>De impuls is een suggestie. Jij beslist.</item>
+        <item>Nog een minuut en de drang is al iets anders.</item>
+        <item>Het moeilijke deel duurt kort. Het goede deel duurt de hele dag.</item>
+        <item>Dit is dat bekende duwtje. Zo hard duwt het nou ook weer niet.</item>
+        <item>Wacht zonder te oordelen. De drang lost vanzelf op.</item>
+        <item>Je brein zoekt de vertrouwde kortere weg.</item>
+        <item>Je hoeft niets te winnen. Laat het gewoon voorbijgaan.</item>
+        <item>Elke golf die je laat passeren, maakt de volgende kleiner.</item>
+        <item>Onrust zoekt een snelle oplossing. Die ligt hier niet.</item>
+        <item>Sta even stil. De impuls doet dat niet.</item>
+        <item>Je mist niets door te wachten.</item>
+        <item>Verveling is geen noodgeval.</item>
+        <item>Dat gevoel van leegte is normaal. Het vult zich vanzelf weer.</item>
+        <item>De drang om iets te checken gaat zelden over dat iets.</item>
+        <item>Je voelt je ongemakkelijk, maar je bent niet in gevaar.</item>
+        <item>Dit wordt zo meteen minder.</item>
+        <item>De gewoonte is sterk, maar duurt kort.</item>
+        <item>Laat deze voorbijgaan. Alleen deze.</item>
+        <item>De volgende keer gaat makkelijker dankzij deze.</item>
+        <item>Je hoeft jezelf nergens van te overtuigen. Alleen even wachten.</item>
+        <item>Een glas water helpt meer dan een rondje door de feed.</item>
+        <item>De urgentie is nep, en dat weet je al.</item>
+        <item>De impuls kan er niet tegen om geen antwoord te krijgen.</item>
+        <item>Wacht dertig seconden. Beslis daarna opnieuw.</item>
+        <item>Je zit nu op het hoogste punt. Vanaf hier zakt het alleen nog.</item>
+        <item>Niets vraagt nu om je reactie.</item>
+        <item>De drang is een bezoeker. Hij gaat weer weg.</item>
+        <item>Jij bent de impuls niet. Jij bent degene die hem bekijkt.</item>
+        <item>Je lichaam ontspant als je het een minuut geeft.</item>
+        <item>Dit is gewoon je brein dat prikkels zoekt. Het vindt wel iets anders.</item>
+        <item>Drie keer diep ademhalen verandert hoe sterk dit voelt.</item>
+        <item>De drang krimpt als je hem recht aankijkt.</item>
+        <item>Je kunt deze minuut aan. Je hebt al zwaardere doorstaan.</item>
+        <item>Het ongemak gaat over, ook als je niets doet.</item>
+        <item>Je hand was sneller dan je hoofd. Dat gebeurt.</item>
+        <item>Geen enkele beslissing hoeft in de eerste tien seconden.</item>
+        <item>Over een paar tellen denk je hier niet eens meer aan.</item>
+        <item>De trigger ging af. Het antwoord is nog steeds aan jou.</item>
+        <item>Laat de drang er zijn zonder hem te gehoorzamen.</item>
+        <item>Dit is geen hunkering. Het is gewoonte.</item>
+        <item>Wacht. Dat is letterlijk alles wat je hoeft te doen.</item>
+        <item>Je hoofd wordt vanzelf rustig als je geen olie op het vuur gooit.</item>
+        <item>Je bent al aan het wachten. Dat is al de overwinning.</item>
+        <item>De impuls verliest kracht als hij op een dichte deur stuit.</item>
+        <item>Elke seconde hier is een seconde voorsprong.</item>
+        <item>De golf is gebroken. Merk hoe het al lichter voelt.</item>
+        <item>Je hebt geen reden nodig om iets niet te openen.</item>
+        <item>Het verlangen gaat sneller voorbij dan de spijt.</item>
+        <item>Even rekken en strekken lost op wat de feed niet zou oplossen.</item>
+        <item>De drang trekt weg terwijl je dit leest.</item>
+        <item>Beslis nu niets. Adem alleen.</item>
+        <item>De impuls komt vanzelf en gaat vanzelf.</item>
+        <item>Dit is het moeilijkste stuk. En het is zo voorbij.</item>
+        <item>Je hebt het tot hier volgehouden. Nog een paar seconden.</item>
+        <item>Je lichaam vraagt om een scherm als het rust wil. Geef het rust.</item>
+        <item>De drang wordt kleiner elke keer dat je er niet op ingaat.</item>
+        <item>Wacht nog even. Meer is het niet.</item>
+        <item>Het moment gaat voorbij. De keuze blijft.</item>
+        <item>Je bent net door het smalste stuk heen.</item>
+        <item>Zin voelen is menselijk. Niet toegeven ook.</item>
+        <item>De rust komt zo terug als je niet duwt.</item>
+        <item>Het voelt al lichter, toch?</item>
+        <item>Je hebt dit besloten toen je rustig was. Vertrouw op die versie van jezelf.</item>
+        <item>Je hebt gisteren al voor jezelf van vandaag gezorgd.</item>
+        <item>Dit scherm is een berichtje van jou aan jezelf.</item>
+        <item>Je wordt niet tegengehouden. Je wordt eraan herinnerd.</item>
+        <item>Wie je wilt zijn, scrolt niet de hele middag weg.</item>
+        <item>Deze keuze was van jou. Dat is ze nog steeds.</item>
+        <item>Jij bent iemand die het doorhad en iets deed.</item>
+        <item>Niemand dwong je dit te installeren. Je wilde het zelf.</item>
+        <item>Morgen ben je blij met wat je nu doet.</item>
+        <item>Je beschermt je eigen tijd al. Zo iemand ben je.</item>
+        <item>Dit is geen straf. Het is een afspraak.</item>
+        <item>Jij hebt deze regel geschreven. Hij werkt.</item>
+        <item>Baas zijn over je eigen aandacht is een dagelijkse keuze.</item>
+        <item>Je hoeft hier aan niemand iets te bewijzen.</item>
+        <item>Wie je wilt zijn, begint bij kleine beslissingen.</item>
+        <item>Je staat aan de goede kant van dit scherm.</item>
+        <item>Elke keer dat je dit sluit, word je meer wie je wilt zijn.</item>
+        <item>Je bent niet waar je zin in hebt. Je bent wat je doet.</item>
+        <item>Een afspraak met jezelf telt net zo zwaar als elke andere.</item>
+        <item>Je zag een patroon en veranderde het. Dat is zeldzaam.</item>
+        <item>Je bent groter dan de apps in je broekzak.</item>
+        <item>Dit is jouw regel, en hij staat aan jouw kant.</item>
+        <item>Je hebt het recht om een gewoonte te veranderen.</item>
+        <item>Wat je steeds opnieuw doet, is wie je bent.</item>
+        <item>Je hebt gekozen voor een leven met meer ruimte.</item>
+        <item>Het is niet de app die de baas over je is.</item>
+        <item>Wie je bent, past niet in een feed.</item>
+        <item>Jij bent degene die dit met een reden heeft geïnstalleerd.</item>
+        <item>Denk aan de reden. Die geldt nog steeds.</item>
+        <item>Je houdt je aan een beslissing van jezelf.</item>
+        <item>Niemand beslist voor jou waar je aandacht heen gaat.</item>
+        <item>Je zag wat er gebeurde. Dat verandert al alles.</item>
+        <item>Je eigen dag in handen houden doe je elke dag opnieuw.</item>
+        <item>Je bent geen passagier. Jij zit aan het stuur.</item>
+        <item>Dit is een keuze van iemand die zichzelf serieus neemt.</item>
+        <item>Je bent verantwoordelijk voor jezelf. En dat ben je ook.</item>
+        <item>Je tijd heeft een eigenaar. Die leest dit nu.</item>
+        <item>Je hebt een afspraak met jezelf gemaakt. Kom hem na.</item>
+        <item>Elke beslissing als deze brengt je dichter bij wie je wilt zijn.</item>
+        <item>Je verliest geen vrijheid. Dit is vrijheid, in de praktijk.</item>
+        <item>Jij beslist wat je nu gaat doen.</item>
+        <item>Je hebt geen toestemming nodig om anders te leven.</item>
+        <item>Deze grens is zorg, geen kooi.</item>
+        <item>Je koos een pad dat moeilijker is, en meer van jou.</item>
+        <item>De persoon die je bewondert, zou nu ook nee zeggen.</item>
+        <item>Je woont in je leven, niet in de app.</item>
+        <item>Het is jouw tijd, jouw hoofd, jouw keuze.</item>
+        <item>Je komt je afspraak met jezelf na. Dat telt.</item>
+        <item>Niemand gaat je aandacht voor je bewaken.</item>
+        <item>Je hebt al bewezen dat je van koers kunt veranderen.</item>
+        <item>Dat is autonomie: vooraf beslissen, niet in een opwelling.</item>
+        <item>Je bouwt aan iemand die je respecteert.</item>
+        <item>Dit is de versie van jou die vooruit plant.</item>
+        <item>Je bent hier niet toevallig beland. Je hebt dit zelf opgezet.</item>
+        <item>Je woord aan jezelf telt.</item>
+        <item>Je hebt je eigen mening over hoe je je dag besteedt.</item>
+        <item>De app kent jou niet. Jij wel.</item>
+        <item>Je neemt je leven in eigen hand.</item>
+        <item>Trouw blijven aan je eigen besluit is vrijheid.</item>
+        <item>Jij schrijft hier de regels.</item>
+        <item>Zo zorg je voor jezelf.</item>
+        <item>Je zit niet vast. Je bent beschermd.</item>
+        <item>Je wens om te veranderen is ouder dan deze impuls.</item>
+        <item>Je bent al wie je probeert te worden.</item>
+        <item>De moeilijke beslissing is al genomen. Dit is alleen de makkelijke.</item>
+        <item>Jij hebt de regie, en dat is tegenwoordig zeldzaam.</item>
+        <item>Niemand hoeft het te weten. Dit is tussen jou en jezelf.</item>
+        <item>Je verdient het om op je eigen woord te kunnen vertrouwen.</item>
+        <item>Jouw naam staat onder deze keuze.</item>
+        <item>Je bent iemand geworden die vooraf beslist.</item>
+        <item>Dit is niet iets opgeven. Het is voor iets anders kiezen.</item>
+        <item>Je hebt een richting. Dit scherm wijst ernaar.</item>
+        <item>Echte vrijheid is dat er niet de hele tijd aan je getrokken wordt.</item>
+        <item>Jij bepaalt hoeveel je aandacht waard is.</item>
+        <item>Elk nee hier is een ja tegen iets anders van jou.</item>
+        <item>Je blijft trouw aan een plan dat je met zorg hebt gemaakt.</item>
+        <item>Baas over jezelf zijn kost moeite, en het is het waard.</item>
+        <item>Je zag in dat je wilde veranderen. Dat is al het moeilijke deel.</item>
+        <item>Wie je vanavond in de spiegel ziet, gaat hier blij mee zijn.</item>
+        <item>Je bent het algoritme niets verschuldigd.</item>
+        <item>Je leven is niemands content.</item>
+        <item>Je bent precies waar je besloot te zijn.</item>
+        <item>De grens die je jezelf stelt, is de meest respectvolle die er is.</item>
+        <item>Je hebt grotere plannen met je leven dan dit scherm.</item>
+        <item>Dit is volwassenheid in realtime.</item>
+        <item>Je zorgt voor je toekomst zonder het te merken.</item>
+        <item>Elke keuze als deze scherpt aan wie je bent.</item>
+        <item>Je hoeft niet uit te leggen waarom je iets niet opent.</item>
+        <item>Je belofte is aan jezelf, niet aan de app.</item>
+        <item>Je nam de juiste beslissing op een moment dat je er geen zin in had.</item>
+        <item>Dit is je leven, met jou aan het stuur.</item>
+        <item>Je bent iemand geworden die moeilijk te manipuleren is.</item>
+        <item>Je aandacht heeft een eigenaar, en die let goed op.</item>
+        <item>Je hebt net gehandeld als iemand die goed voor zichzelf zorgt.</item>
+        <item>Het plan is van jou. Het werkt nu.</item>
+        <item>Je bent de som van je kleine keuzes.</item>
+        <item>Niemand neemt jou het laatste woord af.</item>
+        <item>Jij bent de baas over je eigen tijd.</item>
+        <item>Het werkt omdat jij wilde dat het werkte.</item>
+        <item>Je bent groter dan de gewoonte die groter wil zijn dan jij.</item>
+        <item>Weer eentje. Zo groeit de teller.</item>
+        <item>Klein en vaak wint van groot en zelden.</item>
+        <item>Je hebt net weer een punt gescoord.</item>
+        <item>Niemand verandert in één keer. Het gebeurt op dagen als vandaag.</item>
+        <item>Dit is een duizendste deel van een ander leven.</item>
+        <item>Eén goede dag verandert niets. Honderd goede dagen veranderen alles.</item>
+        <item>Je bouwt aan een reeks.</item>
+        <item>Vooruitgang voelt van binnen bijna nooit als vooruitgang.</item>
+        <item>De som van deze keuzes is groter dan elke keuze apart.</item>
+        <item>Volhouden is saai, en het werkt.</item>
+        <item>Weer een steen in de muur.</item>
+        <item>Je traint iets wat blijft.</item>
+        <item>Vaak genoeg herhaald, gaat dit vanzelf.</item>
+        <item>Niemand ziet deze overwinning, maar ze telt net zo goed.</item>
+        <item>Over een paar weken voel je de drang niet eens meer.</item>
+        <item>Vandaag telt. Morgen telt ook.</item>
+        <item>Een ketting bestaat uit schakels zoals deze.</item>
+        <item>De nieuwe gewoonte wordt nu geschreven.</item>
+        <item>Elke herhaling maakt de oude gewoonte een beetje losser.</item>
+        <item>Je hebt dit eerder gedaan. Doe het nog een keer.</item>
+        <item>Langzaam is het tempo van dingen die blijven.</item>
+        <item>Verandering gebeurt buiten het zicht.</item>
+        <item>Je spaart iets op wat onzichtbaar is en toch echt.</item>
+        <item>Weer een dag in de goede richting.</item>
+        <item>Het resultaat komt later. De keuze is vandaag.</item>
+        <item>Eén keuze tegelijk, zo gaat dat.</item>
+        <item>Je bent dichterbij dan gisteren.</item>
+        <item>Het hoeft niet perfect te zijn. Wel vaak.</item>
+        <item>De curve stijgt eerst langzaam en daarna snel.</item>
+        <item>Je zit midden in het proces. Zo ziet het eruit.</item>
+        <item>Elk klein nee bouwt aan een groot ja.</item>
+        <item>Niets hiervan is dramatisch. Daarom werkt het.</item>
+        <item>De weg bestaat uit stappen zoals deze.</item>
+        <item>Je maakt een nieuwe versie van je routine.</item>
+        <item>Over een maand voelt dit makkelijk.</item>
+        <item>Herhaling maakt van een beslissing een manier van zijn.</item>
+        <item>Je hebt net het nieuwe pad versterkt.</item>
+        <item>Honderd procent is makkelijker dan achtennegentig.</item>
+        <item>Doorbreek de reeks vandaag niet.</item>
+        <item>Je doet het saaie deel, en dat is het deel dat telt.</item>
+        <item>Je voelt de verandering niet. Je ziet hem later.</item>
+        <item>Weer een baksteen gelegd.</item>
+        <item>Je leert je brein iets anders te verwachten.</item>
+        <item>Doorgaan is de hele techniek.</item>
+        <item>Opgeteld is geen van deze overwinningen klein.</item>
+        <item>Je hoeft niet te rennen. Je moet alleen niet stoppen.</item>
+        <item>Dit wordt al makkelijker, en je hebt het niet eens gemerkt.</item>
+        <item>Een week hiervan verandert je dag al.</item>
+        <item>Je maakt een nieuw pad in je hoofd.</item>
+        <item>Elke keer telt, ook als het niet zo voelt.</item>
+        <item>Niemand klapt, maar het werkt.</item>
+        <item>Het stapelt zich stil en onstuitbaar op.</item>
+        <item>Je bent hier al sterker in dan vorige maand.</item>
+        <item>Een goede keuze vandaag maakt die van morgen makkelijker.</item>
+        <item>Zo voelt volhouden van binnen.</item>
+        <item>Weer een dag voorsprong erbij.</item>
+        <item>Je bent op weg, en de weg is lang. Dat is prima.</item>
+        <item>Wat je herhaalt, wordt makkelijk.</item>
+        <item>Je hebt net versterkt wie je aan het worden bent.</item>
+        <item>De rekensom valt vandaag in je voordeel uit.</item>
+        <item>Kleine winsten tellen op zonder om toestemming te vragen.</item>
+        <item>Het gaat niet om vandaag. Het gaat om het totaal.</item>
+        <item>Je doet het onzichtbare werk.</item>
+        <item>Ga door. Dat is letterlijk het geheim.</item>
+        <item>Elke dag als deze haalt wat gewicht weg.</item>
+        <item>De oude gewoonte verliest nu terrein.</item>
+        <item>Je geeft water aan iets wat nog niet is opgekomen.</item>
+        <item>De verandering gebeurt, ook al lijkt het niet zo.</item>
+        <item>Nog één keer. Meer was het nooit.</item>
+        <item>Je bouwt een voorraad goede dagen op.</item>
+        <item>Met de tijd wordt dit normaal.</item>
+        <item>Je hebt opnieuw gekozen. Ook dat telt.</item>
+        <item>Een maand zo en je bent een ander mens.</item>
+        <item>De moeite van vandaag verdwijnt. Het resultaat blijft.</item>
+        <item>Je bent niet meer wie hiermee begon.</item>
+        <item>Steeds een beetje is meer waard dan af en toe veel.</item>
+        <item>Elke dag is een stem voor wie je wilt zijn.</item>
+        <item>Je laat de nieuwe gewoonte terrein winnen.</item>
+        <item>Dit hoeft niet heldhaftig. Het moet alleen gebeuren.</item>
+        <item>Je hebt net de goede weg sterker gemaakt.</item>
+        <item>Herhalen is hoe je brein alles leert.</item>
+        <item>Vandaag en gisteren samen is al heel wat.</item>
+        <item>Het gaat goed, ook als je het niet voelt.</item>
+        <item>Vooruitgang woont in de saaie herhalingen.</item>
+        <item>Weer een korte stap op een lange weg.</item>
+        <item>Je maakt dit vanzelfsprekend.</item>
+        <item>Iets goeds dat je vaak doet, is wat overblijft.</item>
+        <item>Kracht komt van opnieuw doen, niet van hard doen.</item>
+        <item>Je hebt de weg van morgen net korter gemaakt.</item>
+        <item>Nog eentje. Meer niet. En dat is genoeg.</item>
+        <item>Je laat een spoor van goede beslissingen achter.</item>
+        <item>Door vol te houden wordt moeite een deel van wie je bent.</item>
+        <item>Elke dag telt als een hele dag.</item>
+        <item>Je speelt het lange spel, en je wint het.</item>
+        <item>Dit wordt wie je bent zonder dat je het merkt.</item>
+        <item>De beste investering van de dag is net gedaan.</item>
+        <item>Je hebt net koers gehouden.</item>
+        <item>Doorzetten is zeldzamer dan talent.</item>
+        <item>Echte verandering gaat altijd langzaam en is het altijd waard.</item>
+        <item>Weer een keuze in de richting van je leven.</item>
+        <item>Je ogen zijn blij met deze pauze.</item>
+        <item>Sta op en rek je uit. Je lichaam vroeg daarom, niet om een scherm.</item>
+        <item>Adem diep in. Alleen dat verandert al iets.</item>
+        <item>Drink wat water. Waarschijnlijk is dat wat ontbrak.</item>
+        <item>Je nek staat al een tijdje scheef. Zet hem recht.</item>
+        <item>De slaap van vannacht begint bij de schermen van nu.</item>
+        <item>Goed slapen is het productiefste wat er bestaat.</item>
+        <item>Je lichaam zit al te lang stil.</item>
+        <item>Kijk twintig seconden in de verte. Je ogen ontspannen.</item>
+        <item>Een kort wandelingetje doet meer voor je humeur dan welke feed ook.</item>
+        <item>De vermoeidheid die je voelt, kan gewoon van het scherm komen.</item>
+        <item>Je lichaam wil bewegen als je hoofd wil scrollen.</item>
+        <item>Frisse lucht lost dingen op die een scherm niet oplost.</item>
+        <item>Schouders omlaag. Kaak los.</item>
+        <item>Je trekt je schouders op zonder het te merken.</item>
+        <item>Tien minuten zon op je huid is veel waard.</item>
+        <item>Je lichaam rust uit door te liggen, niet door te scrollen.</item>
+        <item>Vroeg naar bed vandaag is een cadeau voor morgen.</item>
+        <item>Je houding is de laatste twintig minuten veranderd. Ga rechtop zitten.</item>
+        <item>Schermmoeheid is geen echte moeheid. Het is iets anders.</item>
+        <item>Armen omhoog. Strekken. Zo, dat voelt al beter.</item>
+        <item>Je knippert minder als je scrolt. Knipper nu even.</item>
+        <item>Je lichaam werkt beter met echte pauzes.</item>
+        <item>Een rondje om het blok maakt je hoofd leeg.</item>
+        <item>Je rug zal blij zijn met deze onderbreking.</item>
+        <item>Rust is iets anders dan afleiding.</item>
+        <item>De slechte nachtrust van gisteren begon op een scherm als dit.</item>
+        <item>Rek je nek naar beide kanten. Dat kost tien seconden.</item>
+        <item>Bewegen helpt beter tegen onrust dan content.</item>
+        <item>Je lichaam is het enige huis dat je hebt.</item>
+        <item>Water, licht en beweging. Meestal is het dat.</item>
+        <item>Een scherm vermoeit, ook als het als rust voelt.</item>
+        <item>Sluit je ogen even. Meer niet.</item>
+        <item>Je ademt oppervlakkig. Adem drie keer diep in.</item>
+        <item>Een douche lost meer op dan je denkt.</item>
+        <item>Je zit al veel te lang op dezelfde plek.</item>
+        <item>Echt uitrusten doe je zonder scherm.</item>
+        <item>Twintig minuten wandelen verandert je hele dag.</item>
+        <item>Je hoofd voelt zwaar omdat je lichaam stilzit.</item>
+        <item>Droge ogen, stijve schouders. Je had het al gemerkt.</item>
+        <item>Twee minuten opstaan is een betere reset dan een rondje scrollen.</item>
+        <item>Je lichaam wil slapen en je hoofd wil prikkels. Luister naar je lichaam.</item>
+        <item>Het licht van je scherm verstoort je slaap urenlang.</item>
+        <item>Strek je benen. Het is snel en het werkt.</item>
+        <item>Je verdient rust die echt ontspant.</item>
+        <item>Beweging is het goedkoopste opkikkertje dat er bestaat.</item>
+        <item>Je lichaam gaat deze nachtrust onthouden.</item>
+        <item>Langzaam ademen kalmeert sneller dan welke video ook.</item>
+        <item>Heb je honger of verveel je je? Zoek uit welke van de twee.</item>
+        <item>Je lichaam herstelt als je hoofd stopt.</item>
+        <item>Twintig seconden uit het raam kijken.</item>
+        <item>Je pols en duim verdienen even vrij.</item>
+        <item>Schermmoeheid loop je er zo af.</item>
+        <item>In je slaap ordent je geheugen zich. Bescherm die slaap.</item>
+        <item>Je hebt minder prikkels nodig, niet meer.</item>
+        <item>Twee minuten rekken is meer waard dan tien minuten video.</item>
+        <item>Je lichaam geeft je nu een signaal.</item>
+        <item>Lucht, water en beweging. Het recept is niet veranderd.</item>
+        <item>Ga een minuut op de grond liggen. Echt.</item>
+        <item>Het scherm houdt je wakker als je juist moet slapen.</item>
+        <item>Je lichaam wil pauze, je hand wil een scherm. Kies de pauze.</item>
+        <item>Je ogen werken al sinds vanochtend vroeg.</item>
+        <item>Een goede nachtrust verandert de wereld.</item>
+        <item>Sta op. Gewoon opstaan. Dat is al genoeg.</item>
+        <item>Door deze keuze slaap je straks beter.</item>
+        <item>Je lichaam is dankbaar voor wat je hoofd saai vindt.</item>
+        <item>Rek je rug. Die vraagt erom.</item>
+        <item>Echte rust is stilte, niet nog een prikkel.</item>
+        <item>Je lichaam heeft een eigen ritme, en het scherm negeert dat.</item>
+        <item>Kijk naar de horizon. Je ogen hebben afstand nodig.</item>
+        <item>De spanning in je kaak gaat niet weg door te scrollen.</item>
+        <item>Hoe lang zit je eigenlijk al?</item>
+        <item>Bewegen geeft helderheid. Dat deed het altijd al.</item>
+        <item>Drink water voordat je iets beslist.</item>
+        <item>Verloren slaap haal je niet in met content.</item>
+        <item>Je lichaam werkt goed als je het laat.</item>
+        <item>Een kort dutje levert meer op dan een uur feed.</item>
+        <item>Diep ademhalen is gratis en werkt meteen.</item>
+        <item>Een scherm zet je lichaam ongemerkt onder spanning.</item>
+        <item>Je bent vermoeider dan nodig is.</item>
+        <item>Sta op en kijk uit het raam. Vijf seconden.</item>
+        <item>Je lichaam is niet gemaakt om stil naar licht te staren.</item>
+        <item>Strek je vingers. Die hebben vandaag hard gewerkt.</item>
+        <item>De nacht wordt beter zonder scherm voor het slapengaan.</item>
+        <item>Wat het scherm je geeft, is geen rust.</item>
+        <item>Je lichaam vraagt om natuur en krijgt pixels.</item>
+        <item>Een glas water en drie keer ademhalen. Doe het nu.</item>
+        <item>De spanning in je schouder komt door hoe je je telefoon vasthoudt.</item>
+        <item>Je lichaam ontspant als je aandacht niet meer jaagt.</item>
+        <item>Over vijf minuten voel je je beter.</item>
+        <item>Beweging verandert je chemie. Een scherm verandert alleen het onderwerp.</item>
+        <item>Je ogen verdienen echte rust.</item>
+        <item>Wandelen ordent je gedachten beter dan een feed lezen.</item>
+        <item>Blauw licht nu is slecht slapen straks.</item>
+        <item>Je hebt rust nodig, geen extra informatie.</item>
+        <item>Twee keer diep ademhalen, voor alles.</item>
+        <item>Je lichaam is wijzer dan de impuls.</item>
+        <item>Sta op en loop naar de keuken. Dat is genoeg.</item>
+        <item>Laat je lichaam rusten en je hoofd rust mee.</item>
+        <item>Er zijn nu echte mensen van vlees en bloed bij je in de buurt.</item>
+        <item>Eén gesprek is meer waard dan driehonderd posts.</item>
+        <item>Bel iemand. Echt, met je stem.</item>
+        <item>Iemand van wie je houdt, is maar één bericht van je verwijderd.</item>
+        <item>De mensen in de feed weten niet dat je bestaat.</item>
+        <item>Wie bij je in de kamer is, verdient meer.</item>
+        <item>Een knuffel lost op wat geen enkele video oplost.</item>
+        <item>Stuur een bericht aan iemand die je de laatste tijd vergeet.</item>
+        <item>Je moeder zou het fijn vinden als je vandaag belt.</item>
+        <item>Het echte leven heeft mensen die echt antwoorden.</item>
+        <item>Die vriend die uit beeld raakte, kan nog terugkomen. Stuur een berichtje.</item>
+        <item>Aanwezigheid is het zeldzaamste wat je kunt geven.</item>
+        <item>Iemand wacht tot je opkijkt.</item>
+        <item>Een goede vraag is meer waard dan een uur scrollen.</item>
+        <item>De mensen om je heen hebben geen algoritme.</item>
+        <item>Er is een gesprek bezig dat je nu mist.</item>
+        <item>Niemand uit de feed is er als je iemand nodig hebt.</item>
+        <item>Koffie met iemand verandert je week meer dan welke feed ook.</item>
+        <item>Jouw gezelschap is een cadeau. Geef het weg.</item>
+        <item>Kijk naar wie er bij je is.</item>
+        <item>Vriendschap moet je water geven. Doe dat vandaag.</item>
+        <item>De persoon naast je is echt.</item>
+        <item>Wie van je houdt, heeft geen like nodig.</item>
+        <item>Weet je nog wanneer je voor het laatst lang met iemand praatte?</item>
+        <item>Vraag iemand mee voor een wandeling.</item>
+        <item>De mooiste herinneringen hebben zelden een scherm.</item>
+        <item>Je bent nu iemands gezelschap.</item>
+        <item>Stuur een spraakbericht aan iemand van wie je houdt.</item>
+        <item>Mensen veranderen als je echt aandacht aan ze geeft.</item>
+        <item>Jouw aanwezigheid is vandaag waardevol voor iemand.</item>
+        <item>Een goed gesprek maakt je beter. De feed niet.</item>
+        <item>Laat iemand weten dat je aan diegene dacht.</item>
+        <item>Zoek iemand op in plaats van iemand te volgen.</item>
+        <item>Sterke banden ontstaan door tijd samen.</item>
+        <item>Jij kunt de reden zijn dat iemand een goede dag heeft.</item>
+        <item>Dat familielid dat je al maanden niet hebt gesproken.</item>
+        <item>Eén oprecht bericht is meer waard dan duizend weergaven.</item>
+        <item>Samen zijn is iets anders dan verbonden zijn.</item>
+        <item>Wie dagelijks bij je is, verdient jou helemaal.</item>
+        <item>Nodig iemand uit om te komen eten.</item>
+        <item>Echte mensen hebben een gezicht, een stem en beperkte tijd.</item>
+        <item>Voor iemand ben je onvervangbaar. Laat je zien.</item>
+        <item>Het belangrijkste gesprek van je dag moet nog komen.</item>
+        <item>Bij je in de buurt is ook iemand zonder scherm.</item>
+        <item>Naar iemand luisteren is de makkelijkste manier om geliefd te zijn.</item>
+        <item>Die vriend maakt iets door. Vraag ernaar.</item>
+        <item>Je kind, je hond, je buurman. Er is iemand.</item>
+        <item>Sociale media verbinden je met heel veel mensen, en met niemand echt.</item>
+        <item>Een middag met iemand is een maand feed waard.</item>
+        <item>Je kunt iemand vandaag laten lachen. Echt lachen.</item>
+        <item>Volledig aanwezig zijn is heel zeldzaam. Jij kunt het geven.</item>
+        <item>Iemand had het deze week over jou. Doe iets terug.</item>
+        <item>Niemand in de feed mist je echt.</item>
+        <item>Een telefoontje van vijf minuten verandert iemands dag.</item>
+        <item>De mensen die ertoe doen, posten er niet over.</item>
+        <item>Je bent één vraag verwijderd van een goed gesprek.</item>
+        <item>Echt gezelschap heeft geen reclame ertussen.</item>
+        <item>Die persoon die altijd achter je staat. Bedank diegene vandaag.</item>
+        <item>Iemand in de ogen kijken is nog steeds de beste technologie.</item>
+        <item>Je familie is geen feed. Scrol er niet langs.</item>
+        <item>Nodig iemand uit om samen niets te doen.</item>
+        <item>Wie ver weg woont, verdient ook nieuws van jou.</item>
+        <item>Buiten dit scherm zijn mensen die om je geven.</item>
+        <item>Een uitgesteld lastig gesprek weegt zwaarder dan de feed.</item>
+        <item>Geniet van wie in de buurt is, zolang het kan.</item>
+        <item>Mensen onthouden wie er was.</item>
+        <item>Vraag een vriend zomaar mee voor koffie.</item>
+        <item>Ergens wil iemand weten hoe het met je gaat.</item>
+        <item>Je kunt nu echt naar iemand luisteren.</item>
+        <item>Een band bouw je door te kijken, niet door te scrollen.</item>
+        <item>Je aandacht is het mooiste cadeau voor wie je liefhebt.</item>
+        <item>Een mens is meer waard dan een profiel.</item>
+        <item>Dat gesprek dat je iemand nog schuldig bent. Dat is vandaag.</item>
+        <item>Beschikbaar zijn is een vorm van liefde.</item>
+        <item>Je hebt nu tijd voor iemand.</item>
+        <item>Niemand nam afscheid van het leven met de wens om meer volgers.</item>
+        <item>Zie iemand weer in plaats van van een afstand mee te kijken.</item>
+        <item>Genegenheid moet soms hardop gezegd worden.</item>
+        <item>Je vaste vriendengroep bestaat nog. Trommel ze op.</item>
+        <item>Iemand naast je wil graag praten.</item>
+        <item>Vergelijken is geen verbinden.</item>
+        <item>Je kunt vandaag aanwezig zijn.</item>
+        <item>Een handgeschreven briefje. Wat een idee.</item>
+        <item>Wie je echt kent, zit niet in de feed.</item>
+        <item>Deel de middag met iemand.</item>
+        <item>De mensen dichtbij verdienen wat je aan de feed geeft.</item>
+        <item>Je bent belangrijk voor iemand die niet post.</item>
+        <item>Bel en vraag hoe het echt met iemand gaat.</item>
+        <item>Eenzaamheid gaat niet weg met meer scherm.</item>
+        <item>Kom vandaag dichter bij iemand.</item>
+        <item>Samen eten is de hele middag waard.</item>
+        <item>Je aandacht voedt relaties. Voed er eentje.</item>
+        <item>Er denkt nu iemand aan jou.</item>
+        <item>Zeg tegen iemand dat je om diegene geeft.</item>
+        <item>Vriendschappen gaan dood aan stilte, niet aan ruzie.</item>
+        <item>Er zijn goede mensen om je heen. Geniet ervan.</item>
+        <item>Iemand heeft gezelschap nodig, en jij hebt het te bieden.</item>
+        <item>Laat de feed los en zoek mensen op.</item>
+        <item>Wie van je houdt, wil je tijd, niet je profiel.</item>
+        <item>Je kunt in vijf minuten iemands dag beter maken.</item>
+        <item>Iets maken kost energie en vult je. Consumeren is makkelijk en laat je leeg.</item>
+        <item>Je hebt meer te zeggen dan te zien.</item>
+        <item>Iemand maakt nu wat jij zou gaan kijken.</item>
+        <item>Schrijf één regel. Maar één.</item>
+        <item>De wereld heeft te veel consumenten en te weinig makers.</item>
+        <item>Dat idee van jou wacht nog steeds.</item>
+        <item>Je kunt iets maken in plaats van naar iets gemaakts te kijken.</item>
+        <item>Alles wat goed is, is gemaakt door iemand die niet zat te scrollen.</item>
+        <item>Jouw idee is meer waard dan de hele feed van vandaag.</item>
+        <item>Begin aan wat je uitstelt. Vijf minuten is genoeg.</item>
+        <item>Het stilgevallen project heeft alleen een zetje nodig.</item>
+        <item>Je hebt talent voor iets anders dan scrollen.</item>
+        <item>Maak vandaag iets wat gisteren nog niet bestond.</item>
+        <item>Maken is leuker dan kijken. Alleen het beginnen kost moeite.</item>
+        <item>Dat lege schrift bijt niet.</item>
+        <item>De beste content is wat je zelf maakt.</item>
+        <item>Je leert meer door te doen dan door te kijken.</item>
+        <item>Speel een instrument, teken, kook. Doe iets met je handen.</item>
+        <item>Je creativiteit verdwijnt als je je hoofd volstopt met feed.</item>
+        <item>Er is een werk van jou dat nog niemand heeft gemaakt.</item>
+        <item>Begin slecht. Het wordt vanzelf beter.</item>
+        <item>Een alinea per dag wordt een boek.</item>
+        <item>Je hebt een verhaal te vertellen.</item>
+        <item>Dingen maken is het tegengif voor leegte.</item>
+        <item>Verveling is het begin van creativiteit. Laat die er gewoon zijn.</item>
+        <item>Je hoofd gaat zelf dingen bedenken als je het niet meer volpropt.</item>
+        <item>Die cursus die je al betaald hebt, wacht op je.</item>
+        <item>Vandaag iets nieuws leren kan gewoon.</item>
+        <item>Consumeren is makkelijk. Daarom geeft het zo weinig voldoening.</item>
+        <item>Je wilt iets maken. Begin nu.</item>
+        <item>Vijf minuten oefenen is meer waard dan een uur video.</item>
+        <item>Dat recept dat je nog wilt proberen.</item>
+        <item>Ideeën komen in de stilte, niet tijdens het scrollen.</item>
+        <item>Je kunt de maker zijn in plaats van het publiek.</item>
+        <item>Een klein project verandert je week.</item>
+        <item>Schrijf op wat je zou doen als je tijd had. Die heb je.</item>
+        <item>Je handen kunnen dingen maken. Gebruik ze.</item>
+        <item>Maak vandaag iets wat niet perfect is.</item>
+        <item>Leren is leuker dan vermaakt worden.</item>
+        <item>Wat je maakt, blijft. Wat je scrolt, verdwijnt.</item>
+        <item>Dat instrument dat in de hoek staat te wachten.</item>
+        <item>Er wacht een onaf project op je.</item>
+        <item>Maken is het tegenovergestelde van jezelf vergelijken.</item>
+        <item>Begin klein. Begin vandaag.</item>
+        <item>Eén pagina per dag is een ander leven.</item>
+        <item>Je verbeelding heeft lege ruimte nodig.</item>
+        <item>Doe iets waar je morgen trots op bent.</item>
+        <item>De voldoening van iets maken is door niets te vervangen.</item>
+        <item>Je kunt meer dan alleen consumeren.</item>
+        <item>Die hobby die je liet liggen, is er nog.</item>
+        <item>Twintig minuten oefenen is twintig minuten vooruitgang.</item>
+        <item>Van scrollen door de feed wordt niemand ergens goed in.</item>
+        <item>Je volgende vaardigheid begint ooit. Laat dat nu zijn.</item>
+        <item>Doe het, ook als niemand het ziet.</item>
+        <item>Er is iets wat je wilt leren. Begin eraan.</item>
+        <item>Consumeren is naar het leven van anderen kijken.</item>
+        <item>Je hebt handen, een hoofd en tijd. Meer heb je niet nodig.</item>
+        <item>Een eerste opzet is altijd slecht. Maak hem toch.</item>
+        <item>Die taal die je altijd al wilde spreken.</item>
+        <item>Door iets te maken wordt verveling plezier.</item>
+        <item>Elke dag een beetje bouwt elke vaardigheid op.</item>
+        <item>Er zit iets in je dat eruit wil.</item>
+        <item>Schrijf over je dag. Alleen voor jezelf.</item>
+        <item>Je creativiteit wacht tot je het lawaai uitzet.</item>
+        <item>Doe vandaag iets met je handen.</item>
+        <item>Het plezier van iets afmaken is met niets te vergelijken.</item>
+        <item>Dat project waar je zo enthousiast over was. Dat kan nog steeds.</item>
+        <item>Je hoeft niet goed te zijn om te beginnen.</item>
+        <item>Kook iets nieuws. Dat is ook creëren.</item>
+        <item>Het leven wordt interessanter als je dingen maakt.</item>
+        <item>Niemand kan het meteen. Iedereen begint onhandig.</item>
+        <item>Dat idee van midden in de nacht. Schrijf het op.</item>
+        <item>Met wat je kunt, kun je iemand helpen.</item>
+        <item>Doe vandaag een beetje en morgen een beetje.</item>
+        <item>Het beste moment om te beginnen is voorbij. Het op een na beste is nu.</item>
+        <item>Je werk maakt zichzelf niet.</item>
+        <item>Oefenen is saai tot je er goed in wordt.</item>
+        <item>Jij wilt maken. De feed wil dat je alleen kijkt.</item>
+        <item>Die tekening waar je aan begon.</item>
+        <item>Doen is de snelste manier om te leren.</item>
+        <item>Je hebt een stem. Gebruik hem ergens voor.</item>
+        <item>Iets in huis repareren is ook creëren.</item>
+        <item>Je volgende succes begint op een gewone dag als vandaag.</item>
+        <item>Maak iets wat alleen jij zou maken.</item>
+        <item>De feed is eindeloos. Jouw werk heeft een einde, en daarom telt het.</item>
+        <item>Je kunt vandaag iets planten. Letterlijk.</item>
+        <item>Die spreadsheet, dat plan, die droom.</item>
+        <item>Iets maken kost moeite, en daardoor is het de moeite waard.</item>
+        <item>Jij bent interessanter dan welke feed ook.</item>
+        <item>Studeer twintig minuten. Het is weinig en het is veel.</item>
+        <item>Nieuwsgierigheid wordt beter als je er iets mee doet.</item>
+        <item>Dat nummer dat je wilde leren spelen.</item>
+        <item>Doe nu iets nuttigs en eenvoudigs.</item>
+        <item>Je hebt de wereld iets goeds te bieden.</item>
+        <item>Begin aan iets waarvan je later blij bent dat je begon.</item>
+        <item>Een eigen project verandert hoe je met tijd omgaat.</item>
+        <item>Iets maken is de beste manier om je hoofd bezig te houden.</item>
+        <item>Je kunt vandaag iets afmaken.</item>
+        <item>Pak iets echts vast met je handen.</item>
+        <item>Niets kan het gevoel vervangen dat je iets gedaan hebt.</item>
+        <item>Het is oké dat je hier bent. Adem nu even.</item>
+        <item>Niemand houdt hier iets bij. Ga gewoon door.</item>
+        <item>Je doet het goed, ook al lijkt het niet zo.</item>
+        <item>Zonder haast en zonder druk. Gewoon een pauze.</item>
+        <item>Dit is geen test. Gewoon een vriendelijke herinnering.</item>
+        <item>Je probeert het, en dat is al genoeg.</item>
+        <item>Alles is goed. Sluit dit en ga verder met je dag.</item>
+        <item>Het gaat hier niet om alles altijd goed doen.</item>
+        <item>Je verdient vandaag wat lichtheid.</item>
+        <item>Geen drama. Gewoon even ademhalen.</item>
+        <item>Dit is een rustige plek. Blijf hier even.</item>
+        <item>Je doet wat je kunt. Dat telt.</item>
+        <item>Geen druk hier. Alleen zorg.</item>
+        <item>Adem. Er gaat niets mis.</item>
+        <item>Je bent tot hier gekomen, en dat is al goed.</item>
+        <item>Niemand oordeelt. Jij hoeft het ook niet te doen.</item>
+        <item>Alles is in orde. Ga gewoon verder.</item>
+        <item>Stap voor stap is het goede tempo.</item>
+        <item>Je hoeft hier niet perfect in te zijn.</item>
+        <item>Langzaam is ook vooruit.</item>
+        <item>Dit scherm vraagt niets van je.</item>
+        <item>Wees nu lief voor jezelf.</item>
+        <item>Zin hebben is oké. Het hoort erbij.</item>
+        <item>Je zorgt voor jezelf. Dat is mooi.</item>
+        <item>Geen alarm, geen haast, geen schrik.</item>
+        <item>Je bent een mens. Dat mag.</item>
+        <item>Je hoeft je tegenover niemand te verantwoorden.</item>
+        <item>Adem diep in. Het is al voorbij.</item>
+        <item>Je bent hier veilig.</item>
+        <item>Het is oké als vandaag zwaar is.</item>
+        <item>Geen dag is hetzelfde. Deze ook niet.</item>
+        <item>Je bent op weg, ook al gaat het langzaam.</item>
+        <item>Laat de druk even rusten.</item>
+        <item>Alles is prima. Even ademhalen.</item>
+        <item>Je hoeft niet altijd in orde te zijn.</item>
+        <item>Mild zijn voor jezelf werkt beter dan streng zijn.</item>
+        <item>Dit moment gaat rustig voorbij.</item>
+        <item>Je hebt het moeilijke deel vandaag al gedaan.</item>
+        <item>Niets dringends. Niets ergs. Gewoon een pauze.</item>
+        <item>Glimlach. Dit is kleiner dan het lijkt.</item>
+        <item>Je probeert het, en daar gaat het om.</item>
+        <item>Je bent niemand iets verschuldigd. Ga gewoon door.</item>
+        <item>Het is goed. Echt waar.</item>
+        <item>Je verdient een luchtige dag.</item>
+        <item>Adem. De wereld blijft gewoon draaien.</item>
+        <item>Vandaag geen haast.</item>
+        <item>Je hebt vrede met deze keuze.</item>
+        <item>Je mag zo vaak opnieuw beginnen als nodig is.</item>
+        <item>Dit is een plek zonder druk.</item>
+        <item>Heb geduld met het proces.</item>
+        <item>Je loopt nergens op achter.</item>
+        <item>Het is oké als je niet honderd procent bent.</item>
+        <item>Deze pauze is zorg, geen correctie.</item>
+        <item>Je kunt nu gewoon verdergaan.</item>
+        <item>Geen spanning. Gewoon een moment.</item>
+        <item>Het is oké als het automatisch ging.</item>
+        <item>Je hebt geen reden nodig om je goed te voelen.</item>
+        <item>Adem en ga door. Zo simpel is het.</item>
+        <item>Hier is niets aan de hand.</item>
+        <item>Je pakt het goed aan.</item>
+        <item>Echt, het is oké. Ga rustig verder.</item>
+        <item>Dit moment is van jou, om uit te rusten.</item>
+        <item>Je staat hier niet alleen in.</item>
+        <item>Alles is rustig. Ga door met je dag.</item>
+        <item>Geen gewicht. Gewoon een herinnering.</item>
+        <item>Je bent al genoeg.</item>
+        <item>De rust die je zoekt, staat niet in de feed.</item>
+        <item>Met jou is alles in orde.</item>
+        <item>Geef je hoofd één seconde rust.</item>
+        <item>Je verdient deze zorg.</item>
+        <item>Niets hoeft nu opgelost te worden.</item>
+        <item>Adem één keer. Ga daarna verder.</item>
+        <item>Het gaat goed met je. Meer is het niet.</item>
+        <item>Geen druk, geen rekensom, geen scorebord.</item>
+        <item>Een moment van rust midden op de dag.</item>
+        <item>Je mag nu lief zijn voor jezelf.</item>
+        <item>Het is hier stil en vredig.</item>
+        <item>Nergens haast mee.</item>
+        <item>Je hebt vandaag gedaan wat je kon.</item>
+        <item>Geeft niks. Morgen gaat het verder.</item>
+        <item>Dit moment is gewoon één ademhaling.</item>
+        <item>Je bent veilig, en dat is genoeg.</item>
+        <item>Hier wordt niet geoordeeld.</item>
+        <item>Adem gewoon, en ga leven.</item>
+        <item>Je verdient vandaag wat rust.</item>
+        <item>Elk tempo is goed.</item>
+        <item>Laat je hoofd even uitrusten.</item>
+        <item>Je bent hier altijd welkom.</item>
+        <item>Geen schrik. Gewoon een korte stop.</item>
+        <item>Het leven is vandaag geen wedstrijd.</item>
+        <item>Er ontbreekt niets aan jou. Dat is genoeg.</item>
+        <item>Het is goed dat je het geprobeerd hebt.</item>
+        <item>Niets hier is tegen jou.</item>
+        <item>Adem en ga langzaam verder.</item>
+        <item>Je bent goed zoals je bent.</item>
+        <item>Dit is een vredig moment.</item>
+        <item>Helemaal geen druk. Ga luchtig verder.</item>
+        <item>Je mag uitrusten.</item>
+        <item>Hier is alles rustig.</item>
+        <item>Doe het rustig aan. De dag wacht wel.</item>
+        <item>Je bent mild voor jezelf, en dat is kracht.</item>
+        <item>Wat zou je nu doen als deze app niet bestond?</item>
+        <item>Ben je hier omdat je het wilt of uit gewoonte?</item>
+        <item>Wat zocht je eigenlijk?</item>
+        <item>Doet dit er morgenochtend nog toe?</item>
+        <item>Weet je later nog wat je nu zou zien?</item>
+        <item>Waar was je mee bezig voordat je je telefoon pakte?</item>
+        <item>Hoeveel tijd wil je hier vandaag aan geven?</item>
+        <item>Verveel je je, of ben je moe?</item>
+        <item>Wat zou je middag in plaats hiervan kunnen zijn?</item>
+        <item>Is het de moeite waard?</item>
+        <item>Had je een bepaalde reden om dit te openen?</item>
+        <item>Wat zou je nog een keer uitstellen als je nu naar binnen ging?</item>
+        <item>Wie wil je over een jaar zijn?</item>
+        <item>Wat zou je nu echt goeddoen?</item>
+        <item>Loop je ergens voor weg?</item>
+        <item>Wat dacht je van dat ene klusje dat je steeds uitstelt?</item>
+        <item>Wat zou er gebeuren als je dit gewoon sloot?</item>
+        <item>Je hebt iets beters te doen. Wat is het?</item>
+        <item>Is dit rust of is het ontsnappen?</item>
+        <item>Wat zou jij van morgen je nu aanraden?</item>
+        <item>Ben je hongerig, slaperig of verveeld?</item>
+        <item>Wanneer gaf de feed je voor het laatst een beter gevoel?</item>
+        <item>Wat wil je voelen aan het eind van de dag?</item>
+        <item>Wat mis je nu eigenlijk?</item>
+        <item>Heb je dit nodig, of wil je het alleen?</item>
+        <item>Welk klein ding zou je dag nu beter maken?</item>
+        <item>Wat zou je doen met twee vrije uren?</item>
+        <item>Je weet al waar je eigenlijk mee bezig wilt zijn.</item>
+        <item>Wat kosten die vijftien minuten je echt?</item>
+        <item>Wil je dit, of zijn je handen gewoon onrustig?</item>
+        <item>Wat zou nu meer de moeite waard zijn?</item>
+        <item>Is alles goed bij jou?</item>
+        <item>Wat zou nu, rustig bekeken, de beste keuze zijn?</item>
+        <item>Ga je trots zijn op dit half uur?</item>
+        <item>Wat zou je doen als niemand het zag?</item>
+        <item>Is er iemand die je nu zou kunnen bellen?</item>
+        <item>Wat probeert je hoofd te vermijden?</item>
+        <item>Is dit je middag waard?</item>
+        <item>Je hebt een plan voor vandaag. Hoort dit erbij?</item>
+        <item>Wat zou het leukste zijn om nu te doen?</item>
+        <item>Gaat het echt goed met je?</item>
+        <item>Wat zou deze week de moeite waard maken?</item>
+        <item>Is dit wat je wilt, of wat je gewoon doet?</item>
+        <item>Heb je al bedacht wat je morgen wilt doen?</item>
+        <item>Hoe vaak heb je vandaag al naar je telefoon gegrepen?</item>
+        <item>Waar zou je over een uur tevreden mee zijn?</item>
+        <item>Wil je echt naar binnen, of staat je duim op de automatische piloot?</item>
+        <item>Wat is het belangrijke ding dat je voor later bewaart?</item>
+        <item>Wat zou jij van tien jaar geleden hiervan vinden?</item>
+        <item>Rust je echt uit?</item>
+        <item>Is er iets wat je zou doen als je de moed had?</item>
+        <item>Wat had je vanavond graag gedaan?</item>
+        <item>Is het meer waard dan een gesprek?</item>
+        <item>Waar heb je vandaag tijd voor?</item>
+        <item>Welke gewoonte wil je over zes maanden hebben?</item>
+        <item>Wat vraagt echt om je aandacht?</item>
+        <item>Wil je deze middag liever onthouden of vergeten?</item>
+        <item>Wat zou een goede besteding van dit moment zijn?</item>
+        <item>Ben je hier om iets te zien, of om iets niet te voelen?</item>
+        <item>Waardoor zou je vannacht goed slapen?</item>
+        <item>Voegt dit iets toe aan je dag, of haalt het iets weg?</item>
+        <item>Wil je echt weten wat daar staat?</item>
+        <item>Wat was het laatste leuke wat je zonder scherm deed?</item>
+        <item>Wat zou je doen op een middag zonder internet?</item>
+        <item>Waar heb je zo’n haast mee?</item>
+        <item>Welke kleine stap kun je nu zetten?</item>
+        <item>Wat heeft je aandacht harder nodig dan dit?</item>
+        <item>Heb je vandaag al eens diep ademgehaald?</item>
+        <item>Wat is je plan voor het komende uur?</item>
+        <item>Brengt dit je dichter bij iets wat je wilt?</item>
+        <item>Zou je dit doen in het bijzijn van iemand die je bewondert?</item>
+        <item>Wat ging er vandaag goed?</item>
+        <item>Hoeveel van je dag ging al naar schermen?</item>
+        <item>Ligt er een idee van je te wachten?</item>
+        <item>Wat wil je met deze week doen?</item>
+        <item>Is het de moeite waard om stilte in te ruilen voor lawaai?</item>
+        <item>Ben je vandaag aan het maken of aan het consumeren?</item>
+        <item>Welk simpel ding zou je nu goeddoen?</item>
+        <item>Wat zou je tegen een vriend zeggen in deze situatie?</item>
+        <item>Je hebt vijf minuten. Waarvoor?</item>
+        <item>Wat zit je echt dwars?</item>
+        <item>Is dit het beste wat je nu kunt doen?</item>
+        <item>Jij hebt de regie over dit moment.</item>
+        <item>Op welke beslissing zou je trots zijn?</item>
+        <item>Wat wil je gedaan hebben als de dag voorbij is?</item>
+        <item>Weet je nog waarom je dit installeerde?</item>
+        <item>Wat als je het uitstelt en straks kijkt of je het nog wilt?</item>
+        <item>Wat zou je doen als je vandaag wat meer moed had?</item>
+        <item>Wil je de snelle versie of de goede versie van je dag?</item>
+        <item>Wat is het ding dat alleen jij vandaag kunt doen?</item>
+        <item>Wat wacht er buiten op je?</item>
+        <item>Ben je vandaag al ergens dankbaar voor geweest?</item>
+        <item>Hoeveel is het volgende half uur je waard?</item>
+        <item>Wat wil je meenemen uit deze week?</item>
+        <item>Is dit dringend, of lijkt het alleen zo?</item>
+        <item>Doe je wat je wilt doen?</item>
+        <item>Wat zou een mooi einde van deze dag zijn?</item>
+        <item>Wat zou je doen als je uitgerust was?</item>
+        <item>Wil je nu liever scrollen of leven?</item>
+        <item>Wat als je dit gewoon sluit en kijkt wat er gebeurt?</item>
+    </string-array>
+</resources>

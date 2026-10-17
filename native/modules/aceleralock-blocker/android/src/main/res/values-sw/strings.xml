@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">%1$s imezuiwa.</string>
+    <string name="aceleralock_block_title_unknown">Programu hii imezuiwa.</string>
+    <string name="aceleralock_block_close">Funga</string>
+    <string name="aceleralock_notification_channel">Ulinzi umewashwa</string>
+    <string name="aceleralock_notification_text">Ulinzi umewashwa</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: kuzuia tovuti</string>
+    <string name="aceleralock_site_accessibility_description">Husoma anwani tu kwenye upau wa anwani wa Chrome, Samsung Internet, Firefox, Edge na Brave ili kuzuia tovuti ulizochagua. Hakuna kinachohifadhiwa na hakuna kinachotoka kwenye kifaa.</string>
+</resources>

@@ -557,6 +557,66 @@ fora de Android e iOS (`useProtectionVerdict`), então nenhum iPhone a vê hoje.
 
 ---
 
+## Idioma do aparelho (2026-10-17)
+
+Pedido do usuário: o app fala o idioma do celular — inglês, chinês, árabe, qualquer
+um —, inclusive a tela de bloqueio nativa e as mil frases.
+
+### 73 idiomas: os da Play Console que o Android oferece
+
+"Qualquer idioma" não tem fim, então o critério é objetivo: todo idioma em que a Play
+Console publica ficha de loja **e** que o Android tem como idioma do sistema. O
+romanche fica de fora (o Android não tem). A lista mora em `src/i18n/idiomas.ts`, e
+`app.json` declara a mesma lista ao iOS e ao Android — teste trava as duas.
+
+### Fora da lista, inglês — nos dois lados
+
+O `values/` do módulo nativo passou a ser inglês e o pt-BR foi para `values-pt/`.
+O JS cai no mesmo inglês. `resolverIdioma` imita a escolha de recurso do Android
+(português fora do Brasil → pt-PT, espanhol das Américas → es-419, chinês pela
+região, `sr-Latn` recusado em vez de receber cirílico): se os dois lados escolhessem
+diferente, a mesma pessoa leria o app num idioma e a tela de bloqueio em outro.
+
+### Catálogo tipado próprio, sem biblioteca de i18n
+
+`src/i18n/textos/pt-BR.ts` é a fonte e o tipo (`Textos`): chave que falta numa
+tradução é erro de `tsc`. A lógica pura recebe `t` como último parâmetro obrigatório
+e continua testável em `node --test`. Plural, marcador e lista cabem em
+`formatos.ts`; uma biblioteca traria dependência e o `Intl.PluralRules` do Hermes.
+O carregador faz `require` sob demanda: o app avalia um catálogo, não 73.
+
+### Nada de `Intl` em tempo de execução
+
+Mesmo motivo de `Inicio/inicio.ts`: o Intl do Hermes varia por build. Plural é tabela
+própria (regras CLDR para inteiros), comparada em teste com o ICU do Node nos 73
+idiomas. Dias, meses, data por extenso, hora (12h ou 24h, com o AM/PM do idioma),
+conjunção de lista e unidades de duração foram **gerados do CLDR em tempo de
+desenvolvimento** e moram em cada catálogo como texto — o aparelho não calcula nada.
+
+### pt-BR mantém o zero no plural
+
+O CLDR põe o zero no singular em pt-BR ("0 minuto"). O app sempre disse "Faltam 0
+segundos". É o único desvio da tabela, e o teste o nomeia.
+
+### Mil frases em todo idioma
+
+"Mil para a frase quase nunca se repetir" vale para quem lê em japonês também. Cada
+tradução segue a ordem da fonte. A largura visual vai até 110 (tradução cresce até
+30%, e a frase quebra em quatro linhas sem cortar); apóstrofo e aspas são os
+tipográficos, para nenhuma frase precisar de escape no resource.
+
+### Idioma por app e RTL
+
+O plugin do expo-localization gera o `locales_config.xml` (idioma por app no Android
+13+) e transforma a lista em `resourceConfigurations`, que **apaga do APK toda pasta
+de idioma que ela não nomeia**. Por isso as tags do Android são as das pastas, com o
+código antigo que o `ResourcesImpl` usa (`iw`, `in`, `b+fil`) — e um teste recusa
+pasta `values-*` fora da lista. Árabe, hebraico, persa e urdu espelham o layout; o
+texto troca na hora quando o idioma muda com o app aberto, a direção só na próxima
+abertura.
+
+---
+
 ## Projeto
 
 ### Licença MIT
@@ -592,3 +652,8 @@ estão aqui para ninguém descobrir sozinho depois de duas horas.
 - **`performance.now()` no Hermes** não foi verificado em aparelho.
 - **Nenhuma biblioteca de ícones escolhida.**
 - **O entitlement da Apple para Family Controls não foi solicitado.**
+- **As traduções dos 72 idiomas foram feitas por IA e não passaram por falante
+  nativo.** O teste garante estrutura, marcadores, plurais e as regras do resource,
+  não o tom. Revisão nativa começa pelos idiomas com mais instalações.
+- **RTL não foi visto em aparelho.** Ícones direcionais, slider e transições do
+  onboarding espelham por código; nenhuma tela foi conferida em árabe ou hebraico.

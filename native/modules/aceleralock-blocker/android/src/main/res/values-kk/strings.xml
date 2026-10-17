@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">%1$s бұғатталған.</string>
+    <string name="aceleralock_block_title_unknown">Бұл қолданба бұғатталған.</string>
+    <string name="aceleralock_block_close">Жабу</string>
+    <string name="aceleralock_notification_channel">Қорғаныс қосулы</string>
+    <string name="aceleralock_notification_text">Қорғаныс қосулы</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: сайттарды бұғаттау</string>
+    <string name="aceleralock_site_accessibility_description">Сіз таңдаған сайттарды бұғаттау үшін Chrome, Samsung Internet, Firefox, Edge және Brave шолғыштарының мекенжай жолағындағы мекенжайды ғана оқиды. Ештеңе сақталмайды және ештеңе құрылғыдан шықпайды.</string>
+</resources>

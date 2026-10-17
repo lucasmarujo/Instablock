@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">%1$s е блокирана.</string>
+    <string name="aceleralock_block_title_unknown">Оваа апликација е блокирана.</string>
+    <string name="aceleralock_block_close">Затвори</string>
+    <string name="aceleralock_notification_channel">Заштитата е активна</string>
+    <string name="aceleralock_notification_text">Заштитата е активна</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: блокирање на сајтови</string>
+    <string name="aceleralock_site_accessibility_description">Ја чита само адресата во лентата на Chrome, Samsung Internet, Firefox, Edge и Brave за да ги блокира сајтовите што ги избра. Ништо не се зачувува и ништо не го напушта уредот.</string>
+</resources>

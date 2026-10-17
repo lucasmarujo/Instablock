@@ -5,6 +5,9 @@
  * testavel. Nada aqui importa react-native.
  */
 
+import type { Textos } from '../../i18n/catalogo';
+import { contar, formatar } from '../../i18n/formatos';
+
 export type Passo = 1 | 2 | 3 | 4 | 5;
 
 export const PASSO_PRIMEIRO: Passo = 1;
@@ -19,18 +22,19 @@ export const HORAS_PADRAO = 1;
  * o app nao le tempo de tela (`docs/decisao-modulos-nativos.md`: "nao medimos
  * tempo de tela, so bloqueamos"), entao a secao mostra a forma do dado, nunca
  * um numero que finja vir do aparelho. Por isso o componente rotula "Exemplo".
- * Trocar por leitura real e trocar esta constante por uma prop — o
+ * Trocar por leitura real e trocar esta funcao por uma prop — o
  * `BarrasTempoTela` ja recebe os dados de fora.
+ *
+ * A semana comeca na segunda; `diasDaSemanaIniciais` comeca no domingo.
  */
-export const TEMPO_TELA_EXEMPLO: { rotulo: string; horas: number }[] = [
-  { rotulo: 'S', horas: 3.2 },
-  { rotulo: 'T', horas: 4.6 },
-  { rotulo: 'Q', horas: 3.9 },
-  { rotulo: 'Q', horas: 5.4 },
-  { rotulo: 'S', horas: 4.1 },
-  { rotulo: 'S', horas: 6.8 },
-  { rotulo: 'D', horas: 5.7 },
-];
+const HORAS_EXEMPLO_DA_SEGUNDA_AO_DOMINGO = [3.2, 4.6, 3.9, 5.4, 4.1, 6.8, 5.7];
+
+export function tempoTelaExemplo(t: Textos): { rotulo: string; horas: number }[] {
+  return HORAS_EXEMPLO_DA_SEGUNDA_AO_DOMINGO.map((horas, indice) => ({
+    rotulo: t.datas.diasDaSemanaIniciais[(indice + 1) % 7],
+    horas,
+  }));
+}
 
 /**
  * Quem ja concluiu o onboarding uma vez e so caiu de volta no grupo porque
@@ -111,14 +115,15 @@ export function progressoDoPasso(passo: Passo, inicial: Passo): { atual: number;
 }
 
 /** Titulo da secao 5: diz o que aconteceu, com o nome do app quando e um so. */
-export function tituloDaConclusao(rotulos: string[]): string {
+export function tituloDaConclusao(rotulos: string[], t: Textos): string {
+  const textos = t.onboarding.conclusao;
   if (rotulos.length === 0) {
-    return 'Bloqueio criado.';
+    return textos.bloqueioCriado;
   }
   if (rotulos.length === 1) {
-    return `${rotulos[0]} bloqueado.`;
+    return formatar(textos.umAppBloqueado, { app: rotulos[0] });
   }
-  return `${rotulos.length} apps bloqueados.`;
+  return contar(t, textos.variosAppsBloqueados, rotulos.length);
 }
 
 export type PermissaoEssencial = 'usageAccess' | 'overlay';
@@ -134,34 +139,34 @@ export function permissoesFaltando(
   return (['usageAccess', 'overlay'] as const).filter((chave) => permissoes?.[chave] !== true);
 }
 
-export function tituloPermissoesFaltando(faltando: number): string {
-  return faltando === 1
-    ? 'Falta 1 permissão para bloquear'
-    : `Faltam ${faltando} permissões para bloquear`;
+export function tituloPermissoesFaltando(faltando: number, t: Textos): string {
+  return contar(t, t.onboarding.escolha.permissoesFaltando, faltando);
 }
 
 /** CTA da secao 4: diz quantos apps o toque bloqueia. */
-export function rotuloDoBloqueio(marcados: number): string {
+export function rotuloDoBloqueio(marcados: number, t: Textos): string {
   if (marcados === 0) {
-    return 'Bloquear';
+    return t.onboarding.escolha.bloquearSemApps;
   }
-  return marcados === 1 ? 'Bloquear 1 app' : `Bloquear ${marcados} apps`;
+  return contar(t, t.onboarding.escolha.bloquearApps, marcados);
 }
 
 /** Linha sob o app no cartao da secao 5. */
-export function legendaDaConclusao(total: number): string {
+export function legendaDaConclusao(total: number, t: Textos): string {
   if (total <= 1) {
-    return 'A partir de agora';
+    return t.onboarding.conclusao.aPartirDeAgora;
   }
-  const outros = total - 1;
-  return `E mais ${outros} ${outros === 1 ? 'app' : 'apps'}, a partir de agora`;
+  return contar(t, t.onboarding.conclusao.eMaisApps, total - 1);
 }
 
 /**
  * Oferta do modo restrito na secao 5. Diz o custo dos dois lados com o app que
  * a pessoa acabou de escolher — "um app" quando ha mais de um.
  */
-export function textoOfertaRestrito(rotulos: string[], esperaMinutos: number): string {
-  const alvo = rotulos.length === 1 ? `o ${rotulos[0]}` : 'um app';
-  return `Sem ele, você tira ${alvo} da lista na hora. Com ele, mudar a lista pede ${esperaMinutos} min de espera — tempo para a vontade passar.`;
+export function textoOfertaRestrito(rotulos: string[], esperaMinutos: number, t: Textos): string {
+  const textos = t.onboarding.ofertaRestrito;
+  if (rotulos.length === 1) {
+    return contar(t, textos.textoComUmApp, esperaMinutos, { app: rotulos[0] });
+  }
+  return contar(t, textos.textoComVariosApps, esperaMinutos);
 }

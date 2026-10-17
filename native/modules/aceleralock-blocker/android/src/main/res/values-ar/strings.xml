@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">تطبيق %1$s محظور.</string>
+    <string name="aceleralock_block_title_unknown">هذا التطبيق محظور.</string>
+    <string name="aceleralock_block_close">إغلاق</string>
+    <string name="aceleralock_notification_channel">الحماية مفعّلة</string>
+    <string name="aceleralock_notification_text">الحماية مفعّلة</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: حظر المواقع</string>
+    <string name="aceleralock_site_accessibility_description">يقرأ العنوان فقط في شريط Chrome وSamsung Internet وFirefox وEdge وBrave لحظر المواقع التي اخترتها. لا يُحفظ أي شيء، ولا يغادر أي شيء جهازك.</string>
+</resources>

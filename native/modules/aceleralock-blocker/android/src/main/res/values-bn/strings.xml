@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceleralock_block_title">%1$s ব্লক করা আছে।</string>
+    <string name="aceleralock_block_title_unknown">এই অ্যাপটি ব্লক করা আছে।</string>
+    <string name="aceleralock_block_close">বন্ধ করুন</string>
+    <string name="aceleralock_notification_channel">সুরক্ষা চালু</string>
+    <string name="aceleralock_notification_text">সুরক্ষা চালু আছে</string>
+    <string name="aceleralock_site_accessibility_label">AceleraLock: সাইট ব্লক করা</string>
+    <string name="aceleralock_site_accessibility_description">আপনার বেছে নেওয়া সাইটগুলো ব্লক করতে শুধু Chrome, Samsung Internet, Firefox, Edge ও Brave-এর অ্যাড্রেস বারের ঠিকানাটুকু পড়ে। কিছুই সেভ হয় না, আর কিছুই ডিভাইসের বাইরে যায় না।</string>
+</resources>

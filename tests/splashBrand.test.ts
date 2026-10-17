@@ -35,7 +35,7 @@ function splashConfig(): SplashConfig {
   for (const plugin of appJson.expo.plugins) {
     if (Array.isArray(plugin) && plugin[0] === 'expo-splash-screen') {
       const config = plugin[1];
-      if (typeof config === 'object') {
+      if (typeof config === 'object' && 'imageWidth' in config) {
         return config;
       }
     }

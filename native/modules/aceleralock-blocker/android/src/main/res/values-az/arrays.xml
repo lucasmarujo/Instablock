@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Azərbaycan: traducao das mil frases de values-pt/arrays.xml, na mesma ordem.
+  Mesmas regras de escrita, travadas em tests/frasesMotivacionais.test.ts.
+-->
+<resources>
+    <string-array name="aceleralock_block_motivation">
+        <item>Burada xərcləmədiyiniz vaxt bütövlükdə həyatınıza qayıdır.</item>
+        <item>Bu ekrandan kənarda keçən hər dəqiqə yenidən sizindir.</item>
+        <item>Bu iyirmi dəqiqə bir gəzintiyə sığar.</item>
+        <item>Sürüşdürmə dayananda gündə göründüyündən daha çox yer olur.</item>
+        <item>Axşamüstünüzün bir parçasını indicə geri aldınız.</item>
+        <item>Gündə bir saat ildə on beş gün edir.</item>
+        <item>Vaxt geri qayıtmır, amma hara gedəcəyini hələ seçə bilərsiniz.</item>
+        <item>Bu fasilə sizindir. Onu necə keçirdiyinizi heç kim bilməli deyil.</item>
+        <item>Tətbiqdən kənarda bütöv bir həyat axıb gedir.</item>
+        <item>Saat bu ekranın hər iki tərəfində eyni sürətlə işləyir.</item>
+        <item>İndi vaxt qazandınız. Onu sabah xatırlayacağınız bir şeyə xərcləyin.</item>
+        <item>Heç kim günün sonunda lenti daha çox sürüşdürməyi arzulamır.</item>
+        <item>Burada on beş dəqiqə başqa yerdə də on beş dəqiqədir.</item>
+        <item>On il əvvəl bu yarım saatı nəyə sərf edərdiniz?</item>
+        <item>Vaxt yenidən ala bilmədiyiniz yeganə şeydir.</item>
+        <item>Bütöv bir axşamüstü hələ qarşınızdadır.</item>
+        <item>Bu dəqiqə başqa bir şeyin başlanğıcı ola bilər.</item>
+        <item>Saatları bir-bir özünüzə qaytarırsınız.</item>
+        <item>Burada qənaət etdiyiniz vaxt itmir. Başqa yerdə yenidən üzə çıxır.</item>
+        <item>On dəqiqə az görünür, ta ki bir ayın dəqiqələrini toplayana qədər.</item>
+        <item>Həyat lentin sürəti ilə yox, öz adi sürəti ilə axır.</item>
+        <item>Bu gün bu saatda dünənkindən daha çox vaxtınız var.</item>
+        <item>Təxirə saldığınız o iş məhz bu fasiləyə sığır.</item>
+        <item>Bu fasilə qısadır. Onunla etdiyiniz şeyin təsiri isə uzun ola bilər.</item>
+        <item>Sürüşdürmə aradan çıxanda bir günə çox şey sığır.</item>
+        <item>Axşamın qalanını indicə geri qazandınız.</item>
+        <item>Vaxt puldur. İndicə onu xərcləməməyə qərar verdiniz.</item>
+        <item>Lentin sonu gəlmir. Gününüzün isə sonu var.</item>
+        <item>Gündə yarım saat ayda bütöv bir kitab edir.</item>
+        <item>Orada sizi təcili heç nə gözləmirdi.</item>
+        <item>Bu vaxt onsuz da sizin idi. İndi yenidən sizinlədir.</item>
+        <item>Səhər indi başlasa, hələ bəhrəli keçə bilər.</item>
+        <item>Heç nə itirmədiniz. Bir fasilə qazandınız.</item>
+        <item>Vaxtı bizə heç kim qaytarmır. Onu biz özümüz qoruyuruq.</item>
+        <item>Bu dəqiqələr buradan kənarda daha dəyərlidir və siz bunu bilirsiniz.</item>
+        <item>Orada olan yenə oradadır. Vaxtınız isə gözləmir.</item>
+        <item>Həyat belə axşamüstülərdən yaranır.</item>
+        <item>Günü baxdığınız bir şeylə yox, gördüyünüz bir işlə bitirə bilərsiniz.</item>
+        <item>Gündə iki saat ildə bütöv bir ay edir.</item>
+        <item>Bu gün qoruduğunuz vaxt sabaha qalan vaxtdır.</item>
+        <item>Bu, günün yalnız sizin qərar verdiyiniz hissəsidir.</item>
+        <item>Orada heç kim axşamüstünüzə dəyəcək bir şey yazmayıb.</item>
+        <item>Gündə otuz dəqiqə ilə bir ildə istənilən şeyi qurmaq olar.</item>
+        <item>İndicə özünüzə bir parça sükut aldınız.</item>
+        <item>Lent kiçildikcə gün böyüyür.</item>
+        <item>Bu vaxt indi xammaldır. Ondan bir şey yaradın.</item>
+        <item>Sizin bir layihəniz məhz bu fasiləni gözləyir.</item>
+        <item>Burada qazandığınız heç bir ekranda görünmür, yalnız həyatınızda.</item>
+        <item>Boş vaxt nadir olur. Siz indicə onu yaratdınız.</item>
+        <item>Ömrünün sonunda heç kim ekranı bir az da sürüşdürmək istəməyib.</item>
+        <item>Bütün axşamüstü sizindir və hələ xərclənməyib.</item>
+        <item>Bir il belə üç yüz altmış beş seçimdən ibarətdir.</item>
+        <item>Bu fasilə kiçikdir, amma tamamilə sizindir.</item>
+        <item>Vaxt eyni cür keçir. Fərq ondan sonra qalandadır.</item>
+        <item>İndicə yarım saatı avtopilotdan xilas etdiniz.</item>
+        <item>Günün qalanı bu dayanmaya görə sizə minnətdardır.</item>
+        <item>Orada beş dəqiqə heç kim hiss etmədən qırx dəqiqəyə çevrilir.</item>
+        <item>Bu beş dəqiqənin qiymətini bilirsiniz. Elə buna görə buradasınız.</item>
+        <item>İndi qoruduğunuz saat axşam axtardığınız saatdır.</item>
+        <item>Oradakı heç nə sonra yox, indi baxdığınız üçün daha yaxşı olmur.</item>
+        <item>Növbəti dəqiqənin hara gedəcəyini indicə siz seçdiniz.</item>
+        <item>Bu vaxta bir söhbət, bir gəzinti, bir mürgü sığar.</item>
+        <item>Saatlar axıb getməyəndə gün bəhrəli olur.</item>
+        <item>Növbəti yarım saatın yeganə sahibi sizsiniz.</item>
+        <item>Bu günün bir şey etdiyiniz bir versiyası var. O, indi başlayır.</item>
+        <item>Vaxt yığılmır. Sadəcə yaxşı və ya pis xərclənir.</item>
+        <item>Bu dəqiqələr əsl istirahətə çevrilə bilər.</item>
+        <item>İndicə heç yerə aparmayan qaçış trenajorundan düşdünüz.</item>
+        <item>Həftədə yüz altmış səkkiz saat var. Bu saat sizindir.</item>
+        <item>Lent vaxtı xırda tikələrlə aparır ki, heç kim fərqinə varmasın.</item>
+        <item>Hər gün sabaha qalan o işi indi görmək olar.</item>
+        <item>Axşamüstünüz bir ekrana sığmalı deyil.</item>
+        <item>Artıq qalan vaxt günü xoş mənada uzun göstərir.</item>
+        <item>Növbəti saatı indicə özünüzə qaytardınız.</item>
+        <item>İndi görəcəyiniz heç nə bir həftə sonra yadınızda qalmazdı.</item>
+        <item>Bir ili quran və ya dağıdan elə belə dəqiqələrdir.</item>
+        <item>Vaxt qazandınız. Onu tələsik xərcləməyə ehtiyac yoxdur.</item>
+        <item>Sürüşdürmə olmayan günə daha çox şey sığır.</item>
+        <item>Saat yaxşı vaxtı boşa gedəndən ayırmır. Bunu siz edirsiniz.</item>
+        <item>Bu saat həyatınızın hər hansı başqa saatı qədər dəyərlidir.</item>
+        <item>İndi vaxtınız var. Bu, göründüyündən daha nadirdir.</item>
+        <item>Vaxtı qorumaq ona sahib olmağın yeganə yoludur.</item>
+        <item>Bütün axşam hələ qarşıdadır.</item>
+        <item>Bu dəqiqələr yadınızda qalacaq bir axşamüstünün başlanğıcıdır.</item>
+        <item>İndicə o bir saatlıq burulğandan yayındınız.</item>
+        <item>Vaxt tələb edən hər şey məhz belə qərar tələb edir.</item>
+        <item>İndi ilə şam yeməyi arasındakı vaxta hələ çox şey sığar.</item>
+        <item>Ayağınızı qazdan çəkdiniz. Gün də sizinlə birlikdə yavaşlayır.</item>
+        <item>Həftənizdə yer var. Sadəcə başqa şey onu tutmuşdu.</item>
+        <item>Burada hər dəfə bağlayanda gün bir az böyüyür.</item>
+        <item>Vaxt heç nə xərcləmədən özünüzə verdiyiniz hədiyyədir.</item>
+        <item>Bütün gün yoxdur dediyiniz şey indi məhz sizdədir.</item>
+        <item>Uzun bir axşamüstü belə qısa qərarlardan yaranır.</item>
+        <item>Bu yarım saatı nəyə sərf etdiyinizi heç kim soruşmayacaq.</item>
+        <item>Bu gün əldən vermədiyiniz vaxt sabah da sizinlə olacaq.</item>
+        <item>Gündə iyirmi dəqiqə ildə yüz iyirmi saat edir.</item>
+        <item>Yuxudan əvvəlki vaxtı indicə geri qazandınız.</item>
+        <item>İki bildiriş arasında çoxlu həyat var.</item>
+        <item>Günü parça-parça əldən verməsəniz, bütövlükdə sizdə qalır.</item>
+        <item>Buraya qədər vaxtınızı qoruyaraq gəldiniz. Bu da növbəti addımdır.</item>
+        <item>Diqqətiniz dünyada uğrunda ən çox mübarizə gedən sərvətdir. İndicə qalib gəldiniz.</item>
+        <item>Diqqətin geri qayıtması iyirmi dəqiqə çəkir. Onu indi əldən verməyin.</item>
+        <item>Bütöv düşüncə parçalanmış düşüncədən daha dəyərlidir.</item>
+        <item>Buraya gəlməzdən əvvəl bir şeyə cəmləşmişdiniz.</item>
+        <item>Bölünmüş diqqət diqqət deyil. Sadəcə yorğunluqdur.</item>
+        <item>Gördüyünüz iş sizin bütöv diqqətinizə layiqdir.</item>
+        <item>Dərin düşünmək fasiləsiz vaxt istəyir. Elə bu vaxtdır.</item>
+        <item>Ekranı hər dəyişmək saatın göstərdiyindən baha başa gəlir.</item>
+        <item>Fikriniz yaxşı işləyirdi. Qoyun davam etsin.</item>
+        <item>Dərin iş lentin bir sürüşdürülməsinə də dözmür.</item>
+        <item>Lent diqqətinizi aparmaq üçün qurulub. Siz bunu sezdiniz.</item>
+        <item>Uzun bir fikrin sona çatması üçün sükut lazımdır.</item>
+        <item>Bütöv bir fikri başınızda saxlaya bilərsiniz. Sadəcə yer lazımdır.</item>
+        <item>Diqqətin dağılması istirahət deyil. İstirahət dincəldir.</item>
+        <item>Bayaqkı cəmlənməniz hələ yaxındadır. Ona qayıdın.</item>
+        <item>Diqqətiniz bu gün satılmır.</item>
+        <item>Fikrinizin ən yaxşısı iyirminci dəqiqədən sonra üzə çıxır.</item>
+        <item>İndi işi yarımçıq qoymaq göründüyündən daha baha başa gəlir.</item>
+        <item>Diqqət tələb edən işləri bacarırsınız. Diqqətinizi qorumaqdan başlayın.</item>
+        <item>Oradakı heç nəyin təcili diqqətinizə ehtiyacı yoxdur.</item>
+        <item>Cəmlənmiş bir saat parçalanmış dörd saatdan daha çox bəhrə verir.</item>
+        <item>Mövzudan mövzuya keçməyəndə ağlınız daha yaxşı işləyir.</item>
+        <item>Yarımçıq qalan iş hələ bu gün tamamlana bilər.</item>
+        <item>Diqqət iradə deyil, mühitdir. Siz indicə öz mühitinizi qaydaya saldınız.</item>
+        <item>O çətin məsələ onun üzərində qalanda təslim olur.</item>
+        <item>Diqqətiniz məhduddur. Elə buna görə bu qədər dəyərlidir.</item>
+        <item>Hər şeyi indi bilməyə ehtiyacınız yoxdur.</item>
+        <item>Səs-küy orada qalacaq. Nadir olan sizin sükutunuzdur.</item>
+        <item>Böyük işləri diqqəti yayındırılmayan insanlar görüb.</item>
+        <item>Gördüyünüz işə qayıdın. Fikriniz hələ oradadır.</item>
+        <item>Bir dəfəyə bir iş göründüyündən daha sürətlidir.</item>
+        <item>Baxmaq tələsikliyi keçib gedir. Yarımçıq qalan fikir isə bəzən qayıtmır.</item>
+        <item>Cəmlənmə bacarığınız son vaxtlar istifadə etdiyinizdən daha böyükdür.</item>
+        <item>Yaxşı düşünmək yavaş olur. Qoy yavaş olsun.</item>
+        <item>Diqqətiniz bu gün nəsə qurdu. Onu maraq üçün sökməyin.</item>
+        <item>Ağıl tələb edən iş bütün ağlı tələb edir.</item>
+        <item>Bir saatlıq diqqətin öyrətdiyini heç bir lent öyrətməyəcək.</item>
+        <item>Rədd edilən hər bildiriş bir az daha aydınlıqdır.</item>
+        <item>Anlamağa yaxın idiniz. Ora qayıdın.</item>
+        <item>Dincəlmiş ağıl bütün günü ora-bura çəkilməyən ağıldır.</item>
+        <item>Diqqətiniz qalan hər şeyi qurduğunuz materialdır.</item>
+        <item>Çətini başlamaqdır. Siz artıq başlamısınız. Sıfırdan başlamayın.</item>
+        <item>Mövzunu rahat buraxın, o, başınızda öz-özünə həll olunacaq.</item>
+        <item>Səs-küy kəsiləndə aydınlıq yaranır.</item>
+        <item>Gününüzün ən yaxşı işi hələ qabaqdadır.</item>
+        <item>Məsələ vaxt çatışmazlığında deyil. Bütöv vaxtın çatışmazlığındadır.</item>
+        <item>Siz lentin imkan verdiyindən daha yaxşı düşünürsünüz.</item>
+        <item>O mətn, o kod, o söhbət. Hamısı sizi bütövlükdə gözləyir.</item>
+        <item>Cəmlənmək əzələ kimidir. Bu günkü kimi günlərlə güclənir.</item>
+        <item>Ağlınız indicə sizə təşəkkür etdi.</item>
+        <item>Hər dəfə bir iş hələ də mövcud olan ən qabaqcıl üsuldur.</item>
+        <item>Diqqətlə etdiyiniz qalır. Qalanı keçib gedir.</item>
+        <item>Düşünməyin qısa yolu yoxdur. Yalnız fasiləsiz vaxt var.</item>
+        <item>Bir fikri sona çatdırmağa haqqınız var.</item>
+        <item>Ağlınız iti idi. Bu itiliyi qoruyun.</item>
+        <item>Ekran yanıb-sönür. Fikirlər yox. Fikirlərlə qalın.</item>
+        <item>Diqqətli bir gün tələsik keçən üç günə dəyər.</item>
+        <item>Siz yavaş deyilsiniz. Sadəcə diqqətiniz yayındırılırdı.</item>
+        <item>Bu gün vacib olan mövzu lentdə deyil.</item>
+        <item>Yoldan çıxmamaq yola qayıtmaqdan daha ucuzdur.</item>
+        <item>Bütöv diqqətiniz bir hədiyyədir. Onu layiq olana verin.</item>
+        <item>Yaxşı fikirlər sükutda doğulur.</item>
+        <item>Yaxşı bir işin ortasında idiniz.</item>
+        <item>Fikri on yerdə olan heç kim düz düşünə bilmir.</item>
+        <item>Dərinlik yalnız səthdə bir müddət qaldıqdan sonra açılır.</item>
+        <item>Diqqət daha çox iş görmək deyil. İşi yaxşı görməkdir.</item>
+        <item>Bu gün vacib bir işiniz var. O iş lent deyil.</item>
+        <item>Qoyun ağlınız başladığı cümləni bitirsin.</item>
+        <item>Fasiləsiz bir saat gün ərzində mümkün olanı dəyişir.</item>
+        <item>İndi çətin görünən şey davamlı diqqətlə asanlaşır.</item>
+        <item>Cəmlənmək bacarığınız üstünlüyünüzdür. Çox az adamda hələ də qalıb.</item>
+        <item>Bir vacib işi çoxlu tələsik şeyə dəyişməyin.</item>
+        <item>Maraq gözləyə bilər. Diqqət gözləmir.</item>
+        <item>Siz nəsə qurursunuz. Davam edin.</item>
+        <item>İşdən işə keçmək məhsuldar görünür, amma demək olar ki, heç vaxt elə deyil.</item>
+        <item>Bu gün ağlınızdan ən yaxşı istifadə imkanı hələ əlinizdədir.</item>
+        <item>İndi qoruduğunuz diqqət sonra nəticədə görünəcək.</item>
+        <item>Ağlınız lent deyil. Diqqət yetirdiyiniz şeyi yadda saxlayır.</item>
+        <item>Bütöv diqqətinizə layiq mövzu nadir olur. Fürsəti qaçırmayın.</item>
+        <item>Çətin qeyri-mümkün demək deyil. Sadəcə vaxt aparır.</item>
+        <item>O düyünü açmağa bir neçə dəqiqə qalıb.</item>
+        <item>Səs-küyü bəsləməyi dayandıranda o yox olur.</item>
+        <item>Başladığınız işi bitirənə qədər onunla qalın.</item>
+        <item>Hər dərin dalış on dayaz dalışa dəyər.</item>
+        <item>Nəyin xatirəyə çevriləcəyini diqqətiniz həll edir.</item>
+        <item>Yalnız diqqət yetirdiyiniz şeyi xatırlayırsınız. Yalnız onu.</item>
+        <item>Düşünmək bu gün etdiyiniz ən gəlirli işdir.</item>
+        <item>Tələsməyən ağıl tələsən ağlın görmədiyini həll edir.</item>
+        <item>Yaxşı iş sürət yox, səbir istəyir.</item>
+        <item>İndi görəcəyiniz heç nə sabahkı söhbətə mövzu olmazdı.</item>
+        <item>Bu günkü fikir aydınlığınız belə qərarlarla başladı.</item>
+        <item>Diqqətin yayınması mövcud olan ən baha vergidir.</item>
+        <item>Bir işin üzərində təsəvvür etdiyinizdən daha uzun qala bilərsiniz.</item>
+        <item>Gözünüzdən qaçan o xırdalıq sükutda üzə çıxır.</item>
+        <item>Diqqət geri qayıdır. Sadəcə ekransız bir neçə dəqiqə lazımdır.</item>
+        <item>Uzun müddət diqqət cəmləyə bilərsiniz. Lent isə bacarmayacağınıza mərc gəlir.</item>
+        <item>Bu gün bir işi bitirmək beşinə başlamaqdan dəyərlidir.</item>
+        <item>Tam diqqətiniz hətta sizin özünüz üçün də nadir hadisədir.</item>
+        <item>Qoyun fikir nəfəs alsın.</item>
+        <item>Diqqətlə qurduğunuzu heç kim sürüşdürüb keçə bilməz.</item>
+        <item>Açmaq istəyi bir neçə dəqiqəyə keçir. Həmişə keçir.</item>
+        <item>Bu impulsun bitmə tarixi var. Öz-özünə sönür.</item>
+        <item>Heç nə etməyə ehtiyac yoxdur. Sadəcə dalğanın çəkilməsini gözləyin.</item>
+        <item>İndi hiss etdiyiniz tələskənlik sizin deyil. Bu sizə öyrədilib.</item>
+        <item>Bir dəfə nəfəs alın. İstək artıq bir dəqiqə əvvəlkindən zəifdir.</item>
+        <item>İmpuls əvvəlcə güclü olur və yolun yarısında yox olur.</item>
+        <item>Bunu istəyən siz deyilsiniz. Vərdişdir.</item>
+        <item>Qısa müddət narahat olur. Sonra keçir.</item>
+        <item>Bunu əvvəl də hiss etmisiniz və hər dəfə öhdəsindən gəlmisiniz.</item>
+        <item>İstək dalğa-dalğa gəlir. Dalğalar isə sınır.</item>
+        <item>Heç kim günün ilk impulsuna tabe olmağa borclu deyil.</item>
+        <item>Sinədəki bu sıxıntı bir mahnıdan da az çəkir.</item>
+        <item>Siz otuz saniyəlik bir impulsdan böyüksünüz.</item>
+        <item>İstəyə heç nə etmədən qoyun keçib getsin.</item>
+        <item>İndiki narahatlıq vərdişin sizi buraxmasıdır. Bu, irəliləyişdir.</item>
+        <item>Siz müqavimət göstərmirsiniz. Sadəcə gözləyirsiniz.</item>
+        <item>İstək güclü gəlir, səssizcə gedir.</item>
+        <item>İyirmiyə qədər sayın. İstək artıq azalmış olacaq.</item>
+        <item>İstəmək ehtiyac duymaq demək deyil.</item>
+        <item>İmpuls dərhal cavab istəyir. Heç bir cavab verməyin.</item>
+        <item>Bu, ən çətin andır və qısadır.</item>
+        <item>Mübarizə aparmağa ehtiyac yoxdur. Sadəcə indi qərar verməyin.</item>
+        <item>Bəslənməyən istək öz-özünə sönür.</item>
+        <item>Bu, məzmun aclığı yox, narahatlıqdır.</item>
+        <item>İstəyi müşahidə edin, amma ona qapılmayın.</item>
+        <item>Beyin həmişəkini istəyir. Onu vermək məcburiyyətində deyilsiniz.</item>
+        <item>Beş dəqiqədən sonra açmaq istədiyinizi xatırlamayacaqsınız belə.</item>
+        <item>Dalğa indi qalxır. O, həmişə enir.</item>
+        <item>Ən çətin hissəni artıq arxada qoymusunuz.</item>
+        <item>İmpuls öz gücü barədə yalan danışır.</item>
+        <item>Durun, su için, qayıdın. O artıq gedib.</item>
+        <item>İstək əmr deyil.</item>
+        <item>Bunu hiss edib heç nə etməyə bilərsiniz. Bu, olar.</item>
+        <item>Bədən ekran yox, hərəkət istəyir.</item>
+        <item>Bu istək avtomatikdir. Cavabınız belə olmalı deyil.</item>
+        <item>Bir az da gözləsəniz, pis heç nə olmaz.</item>
+        <item>Ona yer versəniz, istək öz-özünə yox olar.</item>
+        <item>Sadəcə narahatsınız. Bu keçəcək və ekran tələb etmir.</item>
+        <item>İmpuls sadəcə təklifdir. Qərarı siz verirsiniz.</item>
+        <item>Bir dəqiqə də keçsin, istək artıq başqa şeyə çevrilər.</item>
+        <item>Çətin hissə qısa çəkir. Yaxşı hissə isə bütün gün davam edir.</item>
+        <item>Bu, həmin məşhur kiçik təkandır. O qədər də güclü itələmir.</item>
+        <item>Özünüzü qınamadan gözləyin. İstək öz-özünə dağılacaq.</item>
+        <item>Beyniniz həmişəki qısa yolu istəyir.</item>
+        <item>Heç nəyə qalib gəlməyə ehtiyac yoxdur. Sadəcə keçib getməsinə imkan verin.</item>
+        <item>Ötüb keçməsinə imkan verdiyiniz hər dalğa növbətini kiçildir.</item>
+        <item>Narahatlıq tez həll istəyir. Burada onu tapmayacaq.</item>
+        <item>Bir anlıq yerinizdə qalın. İmpuls isə qalmayacaq.</item>
+        <item>Gözləməklə heç nə itirmirsiniz.</item>
+        <item>Darıxmaq fövqəladə hal deyil.</item>
+        <item>İndi boşluq hiss etmək normaldır. O, öz-özünə dolacaq.</item>
+        <item>Nəyisə yoxlamaq istəyi nadir hallarda həmin şeylə bağlı olur.</item>
+        <item>Narahatsınız, amma təhlükədə deyilsiniz.</item>
+        <item>Bu, bir azdan yumşalacaq.</item>
+        <item>Vərdiş güclüdür, amma ömrü qısadır.</item>
+        <item>Bunu ötürün. Təkcə bunu.</item>
+        <item>Bu dəfəyə görə növbəti dəfə daha asan olacaq.</item>
+        <item>Özünüzü heç nəyə inandırmağa ehtiyac yoxdur. Sadəcə gözləyin.</item>
+        <item>Bir stəkan su lenti sürüşdürməkdən daha çox kömək edir.</item>
+        <item>Bu tələskənlik saxtadır və siz bunu bilirsiniz.</item>
+        <item>İmpuls cavabsız qalmağa dözə bilmir.</item>
+        <item>Otuz saniyə gözləyin. Sonra yenidən qərar verin.</item>
+        <item>Zirvədəsiniz. Bundan sonra yol aşağı enir.</item>
+        <item>İndi heç nə reaksiyanızı tələb etmir.</item>
+        <item>İstək bir qonaqdır. Gəlib gedəcək.</item>
+        <item>Siz impuls deyilsiniz. Siz onu müşahidə edənsiniz.</item>
+        <item>Bir dəqiqə vaxt versəniz, bədən rahatlaşar.</item>
+        <item>Bu, sadəcə stimul axtaran beyindir. Başqasını tapacaq.</item>
+        <item>Üç dəfə dərindən nəfəs almaq bunun şiddətini dəyişir.</item>
+        <item>İstəyin gözünə düz baxanda o kiçilir.</item>
+        <item>Bu dəqiqəyə dözərsiniz. Daha çətinlərinə də dözmüsünüz.</item>
+        <item>Heç nə etməsəniz də, narahatlıq keçib gedir.</item>
+        <item>Əl ağıldan tez tərpəndi. Olur belə.</item>
+        <item>İlk on saniyədə heç bir qərar verməyə ehtiyac yoxdur.</item>
+        <item>Bir neçə an sonra bunu xatırlamayacaqsınız belə.</item>
+        <item>Tətik çəkildi. Cavab isə hələ də sizə bağlıdır.</item>
+        <item>Qoy istək olsun, amma ona tabe olmayın.</item>
+        <item>Bu, dözülməz ehtiyac deyil. Sadəcə adətdir.</item>
+        <item>Gözləyin. Etməli olduğunuz sözün əsl mənasında budur.</item>
+        <item>Ocağa odun atmasanız, ağıl öz-özünə sakitləşər.</item>
+        <item>Artıq gözləyirsiniz. Bu, elə qələbədir.</item>
+        <item>İmpuls bağlı qapıya rast gələndə gücünü itirir.</item>
+        <item>Burada keçən hər saniyə bir saniyəlik üstünlükdür.</item>
+        <item>Dalğa sındı. Görün, artıq necə yüngülləşib.</item>
+        <item>Açmamaq üçün səbəbə ehtiyacınız yoxdur.</item>
+        <item>Həvəs peşmançılıqdan daha tez keçir.</item>
+        <item>Bir az gərnəşmək lentin həll edə bilmədiyini həll edir.</item>
+        <item>Siz bunu oxuyarkən istək artıq çəkilib gedir.</item>
+        <item>İndi heç nəyə qərar verməyin. Sadəcə nəfəs alın.</item>
+        <item>İmpuls özü gəlir, özü də gedir.</item>
+        <item>Ən çətini elə budur. Həm də tez keçir.</item>
+        <item>Buraya qədər dözdünüz. Cəmi bir neçə saniyə qalıb.</item>
+        <item>Bədən dincəlmək istəyəndə ekran istəyir. Ona istirahət verin.</item>
+        <item>İstək hər dəfə yerinə yetirilmədikcə kiçilir.</item>
+        <item>Bir az da gözləyin. Vəssalam.</item>
+        <item>An keçir. Seçim qalır.</item>
+        <item>İndicə ən dar yerdən keçdiniz.</item>
+        <item>İstək hiss etmək insanidir. Ona tabe olmamaq da.</item>
+        <item>Zorlamasanız, sakitlik bir azdan qayıdacaq.</item>
+        <item>Bir az yüngülləşdi, elə deyilmi?</item>
+        <item>Bu qərarı sakit olanda verdiniz. O qərarı verənə güvənin.</item>
+        <item>Dünənki siz bugünkü sizin qayğısına qaldı.</item>
+        <item>Bu ekran sizin özünüzə göndərdiyiniz bir mesajdır.</item>
+        <item>Bu, qadağa deyil. Xatırlatmadır.</item>
+        <item>Olmaq istədiyiniz insan axşamüstünü lent sürüşdürməklə keçirmir.</item>
+        <item>Bu seçim sizin idi. Elə indi də sizindir.</item>
+        <item>Siz fərqinə varıb hərəkətə keçən insansınız.</item>
+        <item>Bunu quraşdırmağa sizi heç kim məcbur etmədi. Özünüz istədiniz.</item>
+        <item>Sabahkı siz bugünkü sizdən razı qalacaq.</item>
+        <item>Siz artıq öz vaxtını qoruyan birisiniz.</item>
+        <item>Bu, cəza deyil. Özünüzlə razılaşmanızdır.</item>
+        <item>Bu qaydanı siz yazdınız. O işləyir.</item>
+        <item>Öz diqqətinə sahib olmaq hər gün edilən seçimdir.</item>
+        <item>Burada heç kimə heç nə sübut etməli deyilsiniz.</item>
+        <item>Olmaq istədiyiniz insan kiçik qərarlarla başlayır.</item>
+        <item>Siz bu ekranın doğru tərəfindəsiniz.</item>
+        <item>Burada hər dəfə bağladıqca olmaq istədiyiniz insana çevrilirsiniz.</item>
+        <item>Siz istədiyiniz şey deyil, etdiyiniz şeysiniz.</item>
+        <item>Özünüzə verdiyiniz söz hər hansı başqa söz qədər dəyərlidir.</item>
+        <item>Bir vərdiş qəlibini gördünüz və onu dəyişdiniz. Bu, az rast gəlinir.</item>
+        <item>Siz cibinizdəki tətbiqlərdən böyüksünüz.</item>
+        <item>Bu, sizin qaydanızdır və o, sizin tərəfinizdədir.</item>
+        <item>Vərdişlərinizi dəyişməyə haqqınız var.</item>
+        <item>Təkrar-təkrar etdiyiniz şey kim olduğunuzdur.</item>
+        <item>Daha geniş bir həyatı seçdiniz.</item>
+        <item>Sizə hökm edən tətbiq deyil.</item>
+        <item>Kimliyiniz bir lentə sığmır.</item>
+        <item>Bunu bir səbəbə görə quraşdıran sizsiniz.</item>
+        <item>Səbəbi xatırlayın. O, hələ də qüvvədədir.</item>
+        <item>Öz qərarınıza sadiq qalırsınız.</item>
+        <item>Diqqətinizi sizin yerinizə heç kim idarə etmir.</item>
+        <item>Nə baş verdiyini fərq etdiniz. Bu artıq hər şeyi dəyişir.</item>
+        <item>Öz gününün sahibi olmaq fasiləsiz bir işdir.</item>
+        <item>Siz sərnişin deyilsiniz. Sükan sizdədir.</item>
+        <item>Bu, özünə ciddi yanaşan insanın seçimidir.</item>
+        <item>Özünüzə görə məsuliyyət daşıyırsınız. Və bunu edirsiniz.</item>
+        <item>Vaxtınızın sahibi var. O, indi bunu oxuyur.</item>
+        <item>Özünüzə söz vermisiniz. Sözünüzü tutun.</item>
+        <item>Belə hər qərar sizi olmaq istədiyiniz insana yaxınlaşdırır.</item>
+        <item>Azadlığınızı itirmirsiniz. Ondan istifadə edirsiniz.</item>
+        <item>İndi nə edəcəyinizə siz qərar verirsiniz.</item>
+        <item>Fərqli yaşamaq üçün heç kimin icazəsi lazım deyil.</item>
+        <item>Bu hədd qəfəs deyil, qayğıdır.</item>
+        <item>Daha çətin, amma daha çox sizə məxsus bir yol seçdiniz.</item>
+        <item>Heyran olduğunuz insan da indi «yox» deyərdi.</item>
+        <item>Siz tətbiqdə yox, öz həyatınızda yaşayırsınız.</item>
+        <item>Sizin vaxtınız, sizin ağlınız, sizin seçiminiz.</item>
+        <item>Özünüzə verdiyiniz sözü tutursunuz. Bunun dəyəri var.</item>
+        <item>Diqqətinizi sizin yerinizə heç kim qorumayacaq.</item>
+        <item>İstiqaməti dəyişə bildiyinizi artıq sübut etmisiniz.</item>
+        <item>Müstəqillik budur: impulsla yox, əvvəlcədən qərar vermək.</item>
+        <item>Hörmət etdiyiniz bir insanı yaradırsınız.</item>
+        <item>Bu, sizin planlayan tərəfinizdir.</item>
+        <item>Bura təsadüfən düşmədiniz. Bunu özünüz qurdunuz.</item>
+        <item>Özünüzə verdiyiniz sözün qiyməti var.</item>
+        <item>Gününüzü necə keçirəcəyiniz barədə öz fikriniz var.</item>
+        <item>Tətbiq sizi tanımır. Siz isə özünüzü tanıyırsınız.</item>
+        <item>Öz həyatının sahibi kimi davranırsınız.</item>
+        <item>Öz qərarının arxasında durmaq azadlıqdır.</item>
+        <item>Burada qaydaları siz yazırsınız.</item>
+        <item>Bu, sizin özünüzə qayğınızdır.</item>
+        <item>Siz tələdə deyilsiniz. Siz qorunursunuz.</item>
+        <item>Dəyişmək istəyiniz bu impulsdan daha köhnədir.</item>
+        <item>Olmağa çalışdığınız insan artıq sizsiniz.</item>
+        <item>Çətin qərar artıq verilib. Bu, sadəcə asan olanıdır.</item>
+        <item>İdarə sizin əlinizdədir və bu, indiki zamanda nadirdir.</item>
+        <item>Heç kim bilməli deyil. Bu, sizinlə özünüz arasındadır.</item>
+        <item>Öz sözünüzə güvənməyə layiqsiniz.</item>
+        <item>Bu seçimin altında sizin imzanız var.</item>
+        <item>Qərarı əvvəlcədən verən insana çevrildiniz.</item>
+        <item>Bu, imtina deyil. Başqa bir şeyi seçməkdir.</item>
+        <item>Sizin bir istiqamətiniz var. Bu ekran ona işarə edir.</item>
+        <item>Əsl azadlıq hər an ora-bura çəkilməməkdir.</item>
+        <item>Diqqətinizin dəyərini siz müəyyən edirsiniz.</item>
+        <item>Burada dediyiniz hər «yox» başqa bir şeyə «hə» deməkdir.</item>
+        <item>Sevgi ilə qurduğunuz plana sadiq qalırsınız.</item>
+        <item>Özünə sahib olmaq zəhmət istəyir və buna dəyər.</item>
+        <item>Dəyişmək istədiyinizi etiraf etdiniz. Ən çətin hissə elə bu idi.</item>
+        <item>Bu axşam güzgüdəki insan bundan razı qalacaq.</item>
+        <item>Alqoritmə heç nə borclu deyilsiniz.</item>
+        <item>Həyatınız heç kimin məzmunu deyil.</item>
+        <item>Məhz olmaq qərarına gəldiyiniz yerdəsiniz.</item>
+        <item>Özünüzə qoyduğunuz sərhəd özünüzə göstərdiyiniz ən böyük hörmətdir.</item>
+        <item>Bu ekrandan daha böyük bir həyat planınız var.</item>
+        <item>Bu, elə indicə baş verən yetkinlikdir.</item>
+        <item>Fərqinə varmadan gələcəyinizin qayğısına qalırsınız.</item>
+        <item>Belə hər seçim kim olduğunuzu cilalayır.</item>
+        <item>Açmadığınız üçün heç kimə izahat verməli deyilsiniz.</item>
+        <item>Öhdəliyiniz tətbiq qarşısında yox, özünüz qarşısındadır.</item>
+        <item>Düzgün qərarı istək olmayanda verdiniz.</item>
+        <item>Bu, sizin idarə etdiyiniz həyatdır.</item>
+        <item>Siz manipulyasiya etmək çətin olan birinə çevrildiniz.</item>
+        <item>Diqqətinizin sahibi var və o, ayıqdır.</item>
+        <item>İndicə özünə qayğı göstərən insan kimi davrandınız.</item>
+        <item>Plan sizindir. Və o, indi işləyir.</item>
+        <item>Siz kiçik seçimlərinizin cəmisiniz.</item>
+        <item>Son sözü sizdən heç kim ala bilməz.</item>
+        <item>Vaxtınızın ixtiyarı sizdədir.</item>
+        <item>Bu işləyir, çünki siz bunu istədiniz.</item>
+        <item>Sizdən böyük olmaq istəyən vərdişdən siz böyüksünüz.</item>
+        <item>Daha biri. Hesab belə böyüyür.</item>
+        <item>Kiçik və təkrarlanan böyük və nadir olanı üstələyir.</item>
+        <item>İndicə daha bir xal qazandınız.</item>
+        <item>Heç kim birdən dəyişmir. Bu günkü kimi günlərdə dəyişir.</item>
+        <item>Bu, fərqli bir həyatın mində bir hissəsidir.</item>
+        <item>Bir yaxşı gün heç nəyi dəyişmir. Yüz yaxşı gün hər şeyi dəyişir.</item>
+        <item>Siz bir silsilə qurursunuz.</item>
+        <item>İrəliləyiş içəridən demək olar ki, heç vaxt irəliləyiş kimi görünmür.</item>
+        <item>Bu seçimlərin cəmi onların hər birindən böyükdür.</item>
+        <item>Ardıcıllıq darıxdırıcıdır, amma işləyir.</item>
+        <item>Divara daha bir daş.</item>
+        <item>Siz qalıcı bir şeyi məşq edirsiniz.</item>
+        <item>Kifayət qədər təkrarlansa, bu avtomatik olur.</item>
+        <item>Bu qələbəni heç kim görmür, amma o, yenə də sayılır.</item>
+        <item>Bir neçə həftədən sonra istək belə hiss etməyəcəksiniz.</item>
+        <item>Bu gün sayılır. Sabah da sayılacaq.</item>
+        <item>Zəncir belə halqalardan ibarətdir.</item>
+        <item>Yeni vərdiş elə indi yazılır.</item>
+        <item>Hər təkrar köhnə vərdişi bir az da zəiflədir.</item>
+        <item>Bunu əvvəl də etmisiniz. Yenə edin.</item>
+        <item>Uzunömürlü şeylər yavaş-yavaş yaranır.</item>
+        <item>Dəyişiklik gözdən uzaqda baş verir.</item>
+        <item>Görünməz, amma real bir şey toplayırsınız.</item>
+        <item>Doğru istiqamətdə daha bir gün.</item>
+        <item>Nəticə sonra görünür. Seçim isə bu gündür.</item>
+        <item>Bu iş bir-bir seçimlə görülür.</item>
+        <item>Dünənkindən daha yaxınsınız.</item>
+        <item>Mükəmməl olmaq lazım deyil. Tez-tez olmaq lazımdır.</item>
+        <item>Əyri əvvəlcə yavaş, sonra sürətlə yüksəlir.</item>
+        <item>Prosesin ortasındasınız. O, belə olur.</item>
+        <item>Hər kiçik «yox» böyük bir «hə» qurur.</item>
+        <item>Bunun heç biri dramatik deyil. Elə buna görə işləyir.</item>
+        <item>Yol belə addımlardan ibarətdir.</item>
+        <item>Gündəlik həyatınızın yeni versiyasını yaradırsınız.</item>
+        <item>Bir aydan sonra bu asan görünəcək.</item>
+        <item>Qərarı xasiyyətə çevirən təkrardır.</item>
+        <item>İndicə yeni yolu möhkəmləndirdiniz.</item>
+        <item>Yüz faiz doxsan səkkiz faizdən asandır.</item>
+        <item>Bu gün silsiləni qırmayın.</item>
+        <item>Darıxdırıcı hissəni edirsiniz, əsas olan da elə odur.</item>
+        <item>Dəyişikliyi hiss etmirik. Sonra görürük.</item>
+        <item>Daha bir kərpic yerinə qoyuldu.</item>
+        <item>Beyninizi başqa şey gözləməyə öyrədirsiniz.</item>
+        <item>Bütün üsul davam etməkdir.</item>
+        <item>Ümumi hesabda bu qələbələrin heç biri kiçik deyil.</item>
+        <item>Qaçmağa ehtiyac yoxdur. Sadəcə dayanmayın.</item>
+        <item>Bu artıq asanlaşır və siz fərqinə də varmadınız.</item>
+        <item>Belə bir həftə artıq gününüzü dəyişir.</item>
+        <item>Beyninizdə yeni bir cığır açırsınız.</item>
+        <item>Hər dəfə sayılır, hətta elə görünməsə də.</item>
+        <item>Heç kim alqışlamır, amma bu işləyir.</item>
+        <item>Yığılma səssiz və durdurulmazdır.</item>
+        <item>Bu işdə artıq keçən aydan daha güclüsünüz.</item>
+        <item>Bu günkü yaxşı seçim sabahkını asanlaşdırır.</item>
+        <item>Ardıcıllıq içəridən belə görünür.</item>
+        <item>Üstünlüyə daha bir gün əlavə olundu.</item>
+        <item>Yoldasınız və yol uzundur. Eybi yoxdur.</item>
+        <item>Təkrarlanan şey asanlaşır.</item>
+        <item>İndicə çevrildiyiniz insanı gücləndirdiniz.</item>
+        <item>Bu gün hesab sizin xeyrinizədir.</item>
+        <item>Kiçik qazanclar icazə istəmədən toplanır.</item>
+        <item>Məsələ bu gündə deyil. Məsələ cəmdədir.</item>
+        <item>Görünməyən işi siz görürsünüz.</item>
+        <item>Davam edin. Bütün sirr elə budur.</item>
+        <item>Belə hər gün yükü bir az yüngülləşdirir.</item>
+        <item>Köhnə vərdiş indi yer itirir.</item>
+        <item>Hələ cücərməmiş bir şeyi sulayırsınız.</item>
+        <item>Görünməsə də, dəyişiklik baş verir.</item>
+        <item>Bir dəfə də. İş həmişə elə bundan ibarət olub.</item>
+        <item>Yaxşı günlərdən bir ehtiyat yığırsınız.</item>
+        <item>Zamanla bu adi hala çevrilir.</item>
+        <item>İndicə yenidən seçdiniz. Bu da sayılır.</item>
+        <item>Belə bir ay keçsin, başqa insan olacaqsınız.</item>
+        <item>Bu günkü zəhmət unudulur. Nəticə qalır.</item>
+        <item>Siz artıq buna başlayan insan deyilsiniz.</item>
+        <item>Həmişə etmək çox etməkdən dəyərlidir.</item>
+        <item>Hər gün olmaq istədiyiniz insana verilən bir səsdir.</item>
+        <item>Yeni vərdişin mövqe qazanmasına imkan verirsiniz.</item>
+        <item>Bunun qəhrəmanlıq olmasına ehtiyac yoxdur. Sadəcə baş verməlidir.</item>
+        <item>İndicə doğru yolu gücləndirdiniz.</item>
+        <item>Beyin hər şeyi təkrarla öyrənir.</item>
+        <item>Bu günlə dünənin cəmi artıq kifayət qədərdir.</item>
+        <item>Hiss etməsəniz də, yaxşı gedirsiniz.</item>
+        <item>İrəliləyiş darıxdırıcı təkrarlarda gizlənir.</item>
+        <item>Uzun yolda daha bir qısa addım.</item>
+        <item>Bunu təbii hala gətirirsiniz.</item>
+        <item>Dəfələrlə edilən yaxşı iş axırda qalan şeydir.</item>
+        <item>Güc bərk etməkdən yox, təkrar etməkdən gəlir.</item>
+        <item>İndicə sabahkı yolu qısaltdınız.</item>
+        <item>Daha bir dəfə. Bu qədər. Və bu, kifayətdir.</item>
+        <item>Arxanızda yaxşı qərarlardan bir iz qoyursunuz.</item>
+        <item>Ardıcıllıq zəhməti kimliyə çevirir.</item>
+        <item>Hər gün bütöv bir gün kimi sayılır.</item>
+        <item>Uzun oyundasınız və bu oyunu udursunuz.</item>
+        <item>Bu, fərqinə varmadan sizin xasiyyətinizə çevriləcək.</item>
+        <item>Günün ən yaxşı sərmayəsi indicə qoyuldu.</item>
+        <item>İndicə yolunuzdan dönmədiniz.</item>
+        <item>Davamlılıq istedaddan daha nadirdir.</item>
+        <item>Əsl dəyişiklik həmişə yavaş olur və həmişə buna dəyər.</item>
+        <item>Həyatınız istiqamətində daha bir seçim.</item>
+        <item>Gözləriniz bu fasilə üçün təşəkkür edir.</item>
+        <item>Durun və gərnəşin. Bədən ekran yox, elə bunu istəyirdi.</item>
+        <item>Dərindən nəfəs alın. Təkcə bu da nəyisə dəyişir.</item>
+        <item>Su için. Çox güman ki, çatışmayan elə bu idi.</item>
+        <item>Boynunuz xeyli vaxtdır əyri qalıb. Düzəldin.</item>
+        <item>Bu gecəki yuxu indiki ekranlardan başlayır.</item>
+        <item>Yaxşı yatmaq dünyanın ən məhsuldar işidir.</item>
+        <item>Bədəniniz çox uzun müddətdir hərəkətsizdir.</item>
+        <item>İyirmi saniyə uzağa baxın. Gözlər dincələr.</item>
+        <item>Qısa bir gəzinti əhvalı istənilən lentdən daha çox dəyişir.</item>
+        <item>Hiss etdiyiniz yorğunluq sadəcə ekrandan ola bilər.</item>
+        <item>Ağıl sürüşdürmək istəyəndə bədən hərəkət istəyir.</item>
+        <item>Təmiz hava ekranın həll etmədiyi şeyləri həll edir.</item>
+        <item>Çiyinləri aşağı salın. Çənəni boşaldın.</item>
+        <item>Fərqinə varmadan çiyinlərinizi sıxırsınız.</item>
+        <item>On dəqiqə dəriyə düşən günəş çox şeyə dəyər.</item>
+        <item>Bədən uzananda dincəlir, sürüşdürəndə yox.</item>
+        <item>Bu gün tez yatmaq sabaha hədiyyədir.</item>
+        <item>Son iyirmi dəqiqədə duruşunuz dəyişib. Düzəldin.</item>
+        <item>Ekran yorğunluğu əsl yorğunluq deyil. Başqa şeydir.</item>
+        <item>Qollarınızı qaldırın. Dartının. Budur, artıq yaxşılaşdı.</item>
+        <item>Sürüşdürəndə gözləriniz daha az qırpılır. İndi gözlərinizi qırpın.</item>
+        <item>Bədən əsl fasilələrlə daha yaxşı işləyir.</item>
+        <item>Məhəllədə bir dövrə vurmaq başı təmizləyir.</item>
+        <item>Bu fasilə onurğanızın xoşuna gələcək.</item>
+        <item>İstirahət diqqəti yayındırmaqdan fərqlidir.</item>
+        <item>Dünənki pis yuxu belə bir ekranda başladı.</item>
+        <item>Boynunuzu hər iki tərəfə dartın. On saniyə çəkir.</item>
+        <item>Hərəkət narahatlığı məzmundan daha yaxşı aradan qaldırır.</item>
+        <item>Bədəniniz sahib olduğunuz yeganə evdir.</item>
+        <item>Su, işıq və hərəkət. Demək olar ki, həmişə məsələ budur.</item>
+        <item>Ekran istirahət kimi görünsə də, yorur.</item>
+        <item>Bir anlıq gözlərinizi yumun. Bu qədər.</item>
+        <item>Səthi nəfəs alırsınız. Üç dəfə dərindən nəfəs alın.</item>
+        <item>Duş göründüyündən daha çox şeyi həll edir.</item>
+        <item>Bədəniniz çox vaxtdır eyni yerdədir.</item>
+        <item>Əsl istirahətdə ekran olmur.</item>
+        <item>İyirmi dəqiqəlik gəzinti bütün günü dəyişir.</item>
+        <item>Bədən hərəkətsiz olduğu üçün başınız ağırlaşıb.</item>
+        <item>Quru gözlər, bərk çiyinlər. Fərqinə varmısınız?</item>
+        <item>İki dəqiqəlik ayağa qalxmaq sürüşdürməkdən daha yaxşı yeniləyir.</item>
+        <item>Bədən yuxu, ağıl stimul istəyir. Bədəni dinləyin.</item>
+        <item>Ekranın işığı saatlarla yuxunuza mane olur.</item>
+        <item>Ayaqlarınızı uzadın. Tez olur və işə yarayır.</item>
+        <item>Həqiqətən dincəldən istirahətə layiqsiniz.</item>
+        <item>Hərəkət əhvalı yaxşılaşdırmağın ən ucuz yoludur.</item>
+        <item>Bədəniniz bu gecəki yuxunu xatırlayacaq.</item>
+        <item>Yavaş nəfəs istənilən videodan daha tez sakitləşdirir.</item>
+        <item>Ya acsınız, ya da darıxırsınız. Hansı olduğunu öyrənin.</item>
+        <item>Ağıl dayananda bədən bərpa olunur.</item>
+        <item>İyirmi saniyə pəncərədən baxın.</item>
+        <item>Biləyiniz və baş barmağınız dincəlməlidir.</item>
+        <item>Ekran yorğunluğu gəzəndə keçir.</item>
+        <item>Yaddaş yuxuda qaydaya düşür. Yuxunuzu qoruyun.</item>
+        <item>Sizə daha çox yox, daha az stimul lazımdır.</item>
+        <item>İki dəqiqəlik gərnəşmək on dəqiqəlik videodan dəyərlidir.</item>
+        <item>Bədəniniz indi sizə siqnal verir.</item>
+        <item>Hava, su və hərəkət. Resept dəyişməyib.</item>
+        <item>Bir dəqiqəlik yerə uzanın. Ciddi deyirəm.</item>
+        <item>Yatmalı olduğunuz vaxt ekran sizi oyaq saxlayır.</item>
+        <item>Bədən fasilə, əl ekran istəyir. Fasiləni verin.</item>
+        <item>Gözləriniz səhərdən işləyir.</item>
+        <item>Yaxşı yuxulu bir gecə dünyanı dəyişir.</item>
+        <item>Ayağa qalxın. Sadəcə qalxın. Bu kifayətdir.</item>
+        <item>Bu seçimə görə daha yaxşı yatacaqsınız.</item>
+        <item>Ağlın darıxdırıcı saydığına görə bədən minnətdar olur.</item>
+        <item>Belinizi dartın. O, bunu istəyir.</item>
+        <item>Əsl istirahət yeni stimul deyil, sükutdur.</item>
+        <item>Bədəninizin öz ritmi var, ekran isə ona məhəl qoymur.</item>
+        <item>Üfüqə baxın. Gözlərə məsafə lazımdır.</item>
+        <item>Çənədəki gərginlik sürüşdürməklə keçməyəcək.</item>
+        <item>Axı neçə vaxtdır oturursunuz?</item>
+        <item>Hərəkət aydınlıq gətirir. Həmişə gətirib.</item>
+        <item>Hər hansı qərardan əvvəl su için.</item>
+        <item>İtirilmiş yuxu məzmunla bərpa olunmur.</item>
+        <item>İmkan versəniz, bədəniniz yaxşı işləyir.</item>
+        <item>Qısa bir mürgü bir saatlıq lentdən daha faydalıdır.</item>
+        <item>Dərindən nəfəs almaq pulsuzdur və dərhal təsir edir.</item>
+        <item>Ekran xəbərdarlıq etmədən bədəni sıxır.</item>
+        <item>Olmalı olduğunuzdan daha yorğunsunuz.</item>
+        <item>Durun və pəncərədən baxın. Beş saniyəlik.</item>
+        <item>Bədəniniz yerində oturub işığa baxmaq üçün yaranmayıb.</item>
+        <item>Barmaqlarınızı açıb uzadın. Bu gün çox işləyiblər.</item>
+        <item>Yatmazdan əvvəl ekran olmasa, gecə daha yaxşı keçir.</item>
+        <item>Ekranın təklif etdiyi şey istirahət deyil.</item>
+        <item>Bədəniniz təbiət istəyir, piksel alır.</item>
+        <item>Bir stəkan su və üç nəfəs. İndi edin.</item>
+        <item>Çiyindəki gərginlik telefonu tutma tərzinizdəndir.</item>
+        <item>Diqqət qaçmağı dayandıranda bədən rahatlaşır.</item>
+        <item>Beş dəqiqədən sonra özünüzü daha yaxşı hiss edəcəksiniz.</item>
+        <item>Hərəkət bədənin kimyasını dəyişir. Ekran yalnız mövzunu dəyişir.</item>
+        <item>Gözləriniz əsl istirahətə layiqdir.</item>
+        <item>Gəzmək fikirləri lent oxumaqdan daha yaxşı sahmana salır.</item>
+        <item>İndiki mavi işıq sonra pis yuxu deməkdir.</item>
+        <item>Sizə daha çox məlumat yox, istirahət lazımdır.</item>
+        <item>Hər şeydən əvvəl iki dərin nəfəs.</item>
+        <item>Bədəniniz impulsdan daha müdrikdir.</item>
+        <item>Durun və mətbəxə qədər gedin. Bu kifayətdir.</item>
+        <item>Bədəni dincəldin, baş da onunla birlikdə dincələcək.</item>
+        <item>İndi yanınızda canlı insanlar var.</item>
+        <item>Bir söhbət üç yüz paylaşımdan dəyərlidir.</item>
+        <item>Kiməsə zəng edin. Səsli, əsl zəng.</item>
+        <item>Sevdiyiniz biri sizdən cəmi bir mesaj uzaqlıqdadır.</item>
+        <item>Lentdəki insanlar sizin varlığınızdan xəbərsizdir.</item>
+        <item>Sizinlə eyni otaqda olan insan daha çoxuna layiqdir.</item>
+        <item>Heç bir videonun həll etmədiyini bir qucaqlaşma həll edir.</item>
+        <item>Son vaxtlar unutduğunuz birinə mesaj yazın.</item>
+        <item>Ananız bu gün bir zəngə sevinərdi.</item>
+        <item>Real həyatda həqiqətən cavab verən insanlar var.</item>
+        <item>Yoxa çıxan o dost hələ qayıda bilər. Ona yazın.</item>
+        <item>Yanında olmaq verə biləcəyiniz ən nadir şeydir.</item>
+        <item>Kimsə başınızı qaldırmağınızı gözləyir.</item>
+        <item>Yaxşı bir sual bir saatlıq sürüşdürmədən dəyərlidir.</item>
+        <item>Ətrafınızdakı insanların alqoritmi yoxdur.</item>
+        <item>Elə indi gedən bir söhbəti qaçırırsınız.</item>
+        <item>Ehtiyacınız olanda lentdəkilərdən heç kim yanınızda olmayacaq.</item>
+        <item>Kiminləsə bir fincan qəhvə həftəni istənilən lentdən daha çox dəyişir.</item>
+        <item>Sizin varlığınız kimsə üçün hədiyyədir. Onu əsirgəməyin.</item>
+        <item>Yanınızda olana baxın.</item>
+        <item>Dostluğu sulamaq lazımdır. Bu gün sulayın.</item>
+        <item>Yanınızdakı insan realdır.</item>
+        <item>Sizi sevənə bəyənmə lazım deyil.</item>
+        <item>Son uzun söhbətinizi xatırlayırsınız?</item>
+        <item>Kimisə gəzməyə çağırın.</item>
+        <item>Ən yaxşı xatirələrdə nadir hallarda ekran olur.</item>
+        <item>İndi kiminsə yanında olan sizsiniz.</item>
+        <item>Sevdiyiniz insana səsli mesaj göndərin.</item>
+        <item>İnsanlara diqqət yetirəndə onlar dəyişir.</item>
+        <item>Bu gün varlığınız kimsə üçün dəyərlidir.</item>
+        <item>Yaxşı söhbət sizi daha yaxşı edir. Lent yox.</item>
+        <item>Kimsə onu xatırladığınızı bilməlidir.</item>
+        <item>Kimisə izləmək əvəzinə onunla görüşün.</item>
+        <item>Möhkəm bağlar birgə keçirilən vaxtla yaranır.</item>
+        <item>Kiminsə gününün yaxşı keçməsinin səbəbi siz ola bilərsiniz.</item>
+        <item>Aylardır danışmadığınız o qohum.</item>
+        <item>Bir səmimi mesaj min baxışdan dəyərlidir.</item>
+        <item>Bir yerdə olmaq onlayn olmaqdan fərqlidir.</item>
+        <item>Hər gün yanınızda olanlar sizi bütöv halda görməyə layiqdir.</item>
+        <item>Kimisə şam yeməyinə dəvət edin.</item>
+        <item>Real insanların üzü, səsi və məhdud vaxtı var.</item>
+        <item>Kimsə üçün əvəzsizsiniz. Ona baş çəkin.</item>
+        <item>Gününüzün ən vacib söhbəti hələ qabaqdadır.</item>
+        <item>Yaxınlığınızda ekrandan uzaq biri də var.</item>
+        <item>Kimisə dinləmək sevilməyin ən asan yoludur.</item>
+        <item>O dostunuz nəsə yaşayır. Halını soruşun.</item>
+        <item>Övladınız, itiniz, qonşunuz. Yanınızda kimsə var.</item>
+        <item>Sosial şəbəkələr sizi çox adama bağlayır, amma heç birinə yaxınlaşdırmır.</item>
+        <item>Kiminləsə keçən bir axşamüstü bir aylıq lentə dəyər.</item>
+        <item>Bu gün kimisə güldürə bilərsiniz. Həqiqətən.</item>
+        <item>Bütöv varlıqla yanında olmaq çox nadirdir. Siz bunu bağışlaya bilərsiniz.</item>
+        <item>Bu həftə kimsə sizdən danışdı. Siz də onu yada salın.</item>
+        <item>Lentdə heç kim sizin üçün darıxmır.</item>
+        <item>Beş dəqiqəlik telefon zəngi kiminsə gününü dəyişir.</item>
+        <item>Önəmli insanlar bu barədə paylaşım etmir.</item>
+        <item>Yaxşı bir söhbətə cəmi bir sual qalıb.</item>
+        <item>Əsl ünsiyyətin arasında reklam olmur.</item>
+        <item>Sizə həmişə dəstək olan o insan. Bu gün ona təşəkkür edin.</item>
+        <item>Göz-gözə baxmaq hələ də ən yaxşı texnologiyadır.</item>
+        <item>Ailəniz lent deyil. Onu sürüşdürüb keçməyin.</item>
+        <item>Kimisə birlikdə heç nə etməməyə dəvət edin.</item>
+        <item>Uzaqda olanlar da sizdən xəbər almağa layiqdir.</item>
+        <item>Buradan kənarda sizi sevən insanlar var.</item>
+        <item>Təxirə salınmış çətin söhbət lentdən daha ağır gəlir.</item>
+        <item>Yaxınınızda olanların qədrini onlar yanınızdaykən bilin.</item>
+        <item>İnsanlar yanlarında olanı xatırlayır.</item>
+        <item>Bir dostu səbəbsiz yerə qəhvəyə çağırın.</item>
+        <item>Haradasa kimsə sizdən xəbər tutmaq istəyir.</item>
+        <item>İndi kimisə həqiqətən dinləyə bilərsiniz.</item>
+        <item>Bağlılıq ekranı sürüşdürməklə yox, bir-birinə baxmaqla qurulur.</item>
+        <item>Diqqətiniz sevdiyiniz insan üçün ən yaxşı hədiyyədir.</item>
+        <item>Bir insan bir profildən dəyərlidir.</item>
+        <item>Kiməsə borclu olduğunuz o söhbət. Vaxtı bu gündür.</item>
+        <item>Əlçatan olmaq sevginin bir formasıdır.</item>
+        <item>İndi kimsə üçün vaxtınız var.</item>
+        <item>Heç kim həyatla daha çox izləyici arzusu ilə vidalaşmayıb.</item>
+        <item>Kimisə uzaqdan izləmək əvəzinə onunla yenidən görüşün.</item>
+        <item>Məhəbbəti bəzən ucadan demək lazımdır.</item>
+        <item>Köhnə dost dəstəniz hələ də var. Onları çağırın.</item>
+        <item>Yanınızdakı kimsə danışmaq istəyir.</item>
+        <item>Müqayisə yaxınlıq deyil.</item>
+        <item>Bu gün kiminsə yanında ola bilərsiniz.</item>
+        <item>Əllə yazılmış bir qeyd. Nə gözəl fikirdir.</item>
+        <item>Sizi həqiqətən tanıyanlar lentdə deyil.</item>
+        <item>Axşamüstünü kiminləsə bölüşün.</item>
+        <item>Yaxınlarınız lentə verdiyiniz diqqətə layiqdir.</item>
+        <item>Heç nə paylaşmayan biri üçün siz vacibsiniz.</item>
+        <item>Zəng edin və insanın əslində necə olduğunu soruşun.</item>
+        <item>Tənhalıq ekranla keçmir.</item>
+        <item>Bu gün kiməsə yaxınlaşın.</item>
+        <item>Birgə yemək bütöv bir axşamüstünə dəyər.</item>
+        <item>Diqqətiniz münasibətləri bəsləyir. Birini bəsləyin.</item>
+        <item>Elə bu an kimsə sizi düşünür.</item>
+        <item>Kiməsə onu sevdiyinizi deyin.</item>
+        <item>Dostluqlar davadan yox, susqunluqdan ölür.</item>
+        <item>Yaxınlığınızda yaxşı insanlar var. Onların qədrini bilin.</item>
+        <item>Kiminsə yoldaşa ehtiyacı var, siz isə yoldaş ola bilərsiniz.</item>
+        <item>Lenti buraxın və insanlarla görüşün.</item>
+        <item>Sizi sevən profilinizi yox, vaxtınızı istəyir.</item>
+        <item>Beş dəqiqəyə kiminsə gününü yaxşılaşdıra bilərsiniz.</item>
+        <item>Yaratmaq yorur və doldurur. İstehlak dincəldir və boşaldır.</item>
+        <item>Sizin baxacağınızdan çox deyəcəyiniz var.</item>
+        <item>Baxacağınız şeyi kimsə yaradır.</item>
+        <item>Bir sətir yazın. Cəmi bir.</item>
+        <item>Dünyada istehlakçı həddən artıq, yaradan isə çox azdır.</item>
+        <item>O fikriniz hələ də gözləyir.</item>
+        <item>Başqasının etdiyinə baxmaq əvəzinə özünüz nəsə edə bilərsiniz.</item>
+        <item>Hər yaxşı şeyi lent sürüşdürməyən biri yaradıb.</item>
+        <item>Fikriniz bu günkü bütün lentdən dəyərlidir.</item>
+        <item>Təxirə saldığınız işə başlayın. Beş dəqiqə bəs edir.</item>
+        <item>Dayanmış layihəyə sadəcə bir təkan lazımdır.</item>
+        <item>Ekran sürüşdürməkdən başqa bir şeyə istedadınız var.</item>
+        <item>Bu gün dünən olmayan bir şey yaradın.</item>
+        <item>Yaratmaq baxmaqdan daha maraqlıdır, sadəcə başlamaq çətindir.</item>
+        <item>O boş dəftər dişləmir.</item>
+        <item>Ən yaxşı məzmun sizin yaratdığınızdır.</item>
+        <item>Baxmaqdansa etməklə daha çox öyrənirsiniz.</item>
+        <item>Musiqi alətində çalın, rəsm çəkin, yemək bişirin. Əllərinizlə nəsə edin.</item>
+        <item>Başınızı lentlə dolduranda yaradıcılığınız yox olur.</item>
+        <item>Hələ heç kimin yaratmadığı bir əsəriniz var.</item>
+        <item>Pis başlayın. Sonra yaxşılaşacaq.</item>
+        <item>Gündə bir abzas kitaba çevrilir.</item>
+        <item>Danışmalı olduğunuz bir hekayə var.</item>
+        <item>Nəsə etmək boşluğun dərmanıdır.</item>
+        <item>Darıxmaq yaradıcılığın başlanğıcıdır. Qoy olsun.</item>
+        <item>Başınızı doldurmağı dayandıranda o, icad etməyə başlayır.</item>
+        <item>Pulunu ödədiyiniz o kurs sizi gözləyir.</item>
+        <item>Bu gün yeni bir şey öyrənmək mümkündür.</item>
+        <item>İstehlak etmək asandır. Elə buna görə də bu qədər az məmnunluq verir.</item>
+        <item>Nəsə etmək istəyirsiniz. İndi başlayın.</item>
+        <item>Beş dəqiqəlik məşq bir saatlıq videodan dəyərlidir.</item>
+        <item>Sınamaq istədiyiniz o resept.</item>
+        <item>Fikirlər sürüşdürmədə yox, sükutda gəlir.</item>
+        <item>Tamaşaçı əvəzinə müəllif ola bilərsiniz.</item>
+        <item>Kiçik bir layihə həftəni dəyişir.</item>
+        <item>Vaxtınız olsaydı, nə edərdiniz? Yazın. Vaxtınız var.</item>
+        <item>Əlləriniz çox şey bacarır. Onlardan istifadə edin.</item>
+        <item>Bu gün qüsurlu bir şey yaradın.</item>
+        <item>Öyrənmək əylənməkdən daha xoşdur.</item>
+        <item>Yaratdığınız qalır. Sürüşdürdüyünüz yox olur.</item>
+        <item>Küncdə qalmış o musiqi aləti.</item>
+        <item>Sizi yarımçıq bir layihə gözləyir.</item>
+        <item>Yaratmaq özünü müqayisə etməyin əksidir.</item>
+        <item>Kiçikdən başlayın. Bu gün başlayın.</item>
+        <item>Gündə bir səhifə fərqli bir həyat deməkdir.</item>
+        <item>Təxəyyülünüzə boş yer lazımdır.</item>
+        <item>Sabah fəxr edəcəyiniz bir şey edin.</item>
+        <item>Yaratmağın verdiyi məmnunluğu heç nə əvəz etmir.</item>
+        <item>Siz istehlakdan daha çoxuna qadirsiniz.</item>
+        <item>Atdığınız o hobbi hələ də var.</item>
+        <item>İyirmi dəqiqəlik məşq iyirmi dəqiqəlik irəliləyişdir.</item>
+        <item>Heç kim lenta baxmaqla nəyisə öyrənmir.</item>
+        <item>Növbəti bacarığınız nə vaxtsa başlayır. Qoy bu, indi olsun.</item>
+        <item>Edin, hətta heç kim görməsə də.</item>
+        <item>Öyrənmək istədiyiniz nəsə var. Başlayın.</item>
+        <item>İstehlak etmək başqalarının həyatına baxmaqdır.</item>
+        <item>Əlləriniz, beyniniz və vaxtınız var. Lazım olan hamısı budur.</item>
+        <item>İlk qaralama həmişə pis olur. Yenə də onu yazın.</item>
+        <item>Danışmaq istədiyiniz o dil.</item>
+        <item>Yaratmaq darıxmağın sevincə çevrilməsidir.</item>
+        <item>Gündə bir az hər bacarığı qurur.</item>
+        <item>İçinizdə çıxmaq istəyən nəsə var.</item>
+        <item>Gününüz haqqında yazın. Yalnız özünüz üçün.</item>
+        <item>Yaradıcılığınız səs-küyü söndürməyinizi gözləyir.</item>
+        <item>Bu gün əlinizlə nəsə düzəldin.</item>
+        <item>Bir işi bitirmənin ləzzəti heç nəyə bənzəmir.</item>
+        <item>Sizi həyəcanlandıran o layihə. O, yenə həyəcanlandıra bilər.</item>
+        <item>Başlamaq üçün yaxşı olmaq lazım deyil.</item>
+        <item>Yeni bir yemək bişirin. Bu da yaratmaqdır.</item>
+        <item>Nəsə düzəldəndə həyat daha maraqlı olur.</item>
+        <item>Heç kim bilərək doğulmur. Hamı pis başlayır.</item>
+        <item>Gecə yarısı ağlınıza gələn o fikir. Yazıb saxlayın.</item>
+        <item>Bacardığınız işlə kiməsə faydalı ola bilərsiniz.</item>
+        <item>Bu gün bir az, sabah bir az edin.</item>
+        <item>Başlamaq üçün ən yaxşı vaxt keçib. İkincisi isə indidir.</item>
+        <item>Əsəriniz öz-özünə yaranmayacaq.</item>
+        <item>Məşq bir şeyə çevrilənə qədər darıxdırıcıdır.</item>
+        <item>Siz yaratmaq istəyirsiniz. Lent isə yalnız baxmağınızı istəyir.</item>
+        <item>Başladığınız o rəsm.</item>
+        <item>Etmək öyrənməyin ən sürətli yoludur.</item>
+        <item>Sizin səsiniz var. Onu nəyəsə sərf edin.</item>
+        <item>Evdə nəyisə təmir etmək də yaratmaqdır.</item>
+        <item>Növbəti uğurunuz bu günkü kimi adi bir gündə başlayır.</item>
+        <item>Yalnız sizin edəcəyiniz nəsə edin.</item>
+        <item>Lent sonsuzdur. Əsəriniz isə sonu olduğu üçün önəmlidir.</item>
+        <item>Bu gün nəsə əkə bilərsiniz. Sözün əsl mənasında.</item>
+        <item>O cədvəl, o plan, o arzu.</item>
+        <item>Yaratmaq zəhmət tələb edir və dəyəri də elə bundadır.</item>
+        <item>Siz istənilən lentdən daha maraqlısınız.</item>
+        <item>İyirmi dəqiqə oxuyun. Bu azdır və çoxdur.</item>
+        <item>Maraq təcrübəyə çevriləndə daha yaxşı olur.</item>
+        <item>Öyrənmək istədiyiniz o mahnı.</item>
+        <item>İndi sadə və faydalı bir iş görün.</item>
+        <item>Dünyaya təqdim edəcək yaxşı bir şeyiniz var.</item>
+        <item>Başladığınıza sonra sevinəcəyiniz işə başlayın.</item>
+        <item>Şəxsi layihə vaxta münasibəti dəyişir.</item>
+        <item>Yaratmaq beyni məşğul etməyin ən yaxşı yoludur.</item>
+        <item>Bu gün nəyisə bitirə bilərsiniz.</item>
+        <item>Əllərinizi real bir işə verin.</item>
+        <item>Edib bitirmək hissini heç nə əvəz etmir.</item>
+        <item>Bura qədər gəlməyiniz problem deyil. İndi nəfəs alın.</item>
+        <item>Heç kim heç nəyi saymır. Sadəcə davam edin.</item>
+        <item>Pis görünsə də, yaxşı gedirsiniz.</item>
+        <item>Tələsmək də, tələb etmək də yoxdur. Sadəcə fasilə.</item>
+        <item>Bu, test deyil. Sadəcə mehriban xatırlatmadır.</item>
+        <item>Çalışırsınız və bu artıq kifayətdir.</item>
+        <item>Hər şey qaydasındadır. Bağlayın və günə davam edin.</item>
+        <item>Burada heç nə həmişə düz etməkdən ibarət deyil.</item>
+        <item>Bu gün yüngüllüyə layiqsiniz.</item>
+        <item>Dram yoxdur. Sadəcə nəfəs almaq üçün bir an.</item>
+        <item>Bura sakit bir yerdir. Bir anlıq qalın.</item>
+        <item>Əlinizdən gələni edirsiniz. Bu sayılır.</item>
+        <item>Burada heç bir tələb yoxdur. Yalnız qayğı.</item>
+        <item>Nəfəs alın. Heç bir səhv şey baş vermir.</item>
+        <item>Bura qədər gəlmisiniz və bu artıq yaxşıdır.</item>
+        <item>Heç kim mühakimə etmir. Siz də etməyin.</item>
+        <item>Hər şey qaydasındadır. Sadəcə davam edin.</item>
+        <item>Hər dəfə bir addım düzgün tempdir.</item>
+        <item>Bunda mükəmməl olmağınız lazım deyil.</item>
+        <item>Yavaş getmək də yol getməkdir.</item>
+        <item>Bu ekran sizdən heç nə tələb etmir.</item>
+        <item>İndi özünüzə qarşı mehriban olun.</item>
+        <item>Xoşunuza gəlməsi normaldır. Bu, işin bir hissəsidir.</item>
+        <item>Özünüzə qayğı göstərirsiniz. Bu, gözəldir.</item>
+        <item>Həyəcan siqnalı yoxdur, tələsik yoxdur, qorxu yoxdur.</item>
+        <item>Siz insansınız. Buna icazə var.</item>
+        <item>Heç kimə izahat verməyiniz lazım deyil.</item>
+        <item>Dərindən nəfəs alın. Keçdi.</item>
+        <item>Burada təhlükəsizsiniz.</item>
+        <item>Bu gün çətindirsə, eybi yoxdur.</item>
+        <item>Heç bir gün digərinə bənzəmir. Bu gün də elədir.</item>
+        <item>Yavaş da olsa, yoldasınız.</item>
+        <item>Tələbləri bir az dincəltin.</item>
+        <item>Hər şey qaydasındadır. Sadəcə bir nəfəs.</item>
+        <item>Həmişə yaxşı olmağınız lazım deyil.</item>
+        <item>Özünüzə mehribanlıq sərtlikdən yaxşı işləyir.</item>
+        <item>Bu an rahatlıqla keçəcək.</item>
+        <item>Bu gün çətin hissəni artıq etmisiniz.</item>
+        <item>Heç nə təcili deyil. Heç nə ciddi deyil. Sadəcə fasilə.</item>
+        <item>Gülümsəyin. Bu göründüyündən kiçikdir.</item>
+        <item>Çalışırsınız və önəmli olan elə budur.</item>
+        <item>Heç kimə hesabat vermək yoxdur. Sadəcə davam edin.</item>
+        <item>Hər şey yaxşıdır. Doğrudan da.</item>
+        <item>Yüngül bir günə layiqsiniz.</item>
+        <item>Nəfəs alın. Dünya fırlanmağa davam edir.</item>
+        <item>Bu gün heç bir tələskənlik yoxdur.</item>
+        <item>Bu seçimlə barışıqdasınız.</item>
+        <item>İstədiyiniz qədər yenidən başlamaq normaldır.</item>
+        <item>Bura tələbsiz bir yerdir.</item>
+        <item>Prosesə qarşı səbirli olun.</item>
+        <item>Heç nədə gecikmirsiniz.</item>
+        <item>Yüz faiz olmamaq normaldır.</item>
+        <item>Bu fasilə qayğıdır, düzəliş deyil.</item>
+        <item>İndi sadəcə davam edə bilərsiniz.</item>
+        <item>Gərginlik yoxdur. Sadəcə bir an.</item>
+        <item>Avtomatik olubsa, eybi yoxdur.</item>
+        <item>Yaxşı olmaq üçün səbəbə ehtiyacınız yoxdur.</item>
+        <item>Nəfəs alın və davam edin. Bu qədər sadə.</item>
+        <item>Burada heç bir problem yoxdur.</item>
+        <item>Düzgün edirsiniz.</item>
+        <item>Hər şey qaydasındadır, doğrudan da. Rahat gedin.</item>
+        <item>Bu an dincəlmək üçün sizindir.</item>
+        <item>Bunda tək deyilsiniz.</item>
+        <item>Hər şey sakitdir. Gününüzə davam edin.</item>
+        <item>Yük yoxdur. Sadəcə xatırlatma.</item>
+        <item>Siz artıq kifayətsiniz.</item>
+        <item>Axtardığınız sakitlik lentdə deyil.</item>
+        <item>Sizdə hər şey qaydasındadır.</item>
+        <item>Bir saniyə beyninizi dincəldin.</item>
+        <item>Bu qayğıya layiqsiniz.</item>
+        <item>İndi heç nəyin həll olunması lazım deyil.</item>
+        <item>Bir dəfə nəfəs alın. Sonra davam edin.</item>
+        <item>Yaxşısınız. Sadəcə bu qədər.</item>
+        <item>Tələb yoxdur, hesab yoxdur, xal cədvəli yoxdur.</item>
+        <item>Günün ortasında bir sakitlik anı.</item>
+        <item>İndi özünüzə qarşı mehriban ola bilərsiniz.</item>
+        <item>Hər şey dinc içindədir.</item>
+        <item>Heç nəyə tələsmək yoxdur.</item>
+        <item>Bu gün bacardığınızı etdiniz.</item>
+        <item>Eybi yoxdur. Sabah davam edər.</item>
+        <item>Bu an sadəcə bir nəfəsdir.</item>
+        <item>Təhlükəsizsiniz və bu kifayətdir.</item>
+        <item>Burada heç bir mühakimə yoxdur.</item>
+        <item>Sadəcə nəfəs alın və yaşamağa gedin.</item>
+        <item>Bu gün sakitliyə layiqsiniz.</item>
+        <item>İstənilən templə hər şey qaydasındadır.</item>
+        <item>Beyninizi bir az dincəldin.</item>
+        <item>Siz burada həmişə xoş gəlmisiniz.</item>
+        <item>Qorxu yoxdur. Sadəcə qısa bir dayanacaq.</item>
+        <item>Bu gün həyat yarış deyil.</item>
+        <item>Bütövsünüz və bu kifayətdir.</item>
+        <item>Cəhd etməyiniz də yaxşıdır.</item>
+        <item>Burada heç nə sizin əleyhinizə deyil.</item>
+        <item>Nəfəs alın və yavaş-yavaş davam edin.</item>
+        <item>Olduğunuz kimi yaxşısınız.</item>
+        <item>Bu, bir dinclik anıdır.</item>
+        <item>Heç bir tələb yoxdur. Yüngül gedin.</item>
+        <item>Dincəlməyə icazəniz var.</item>
+        <item>Burada hər şey sakitdir.</item>
+        <item>Asta gedin. Gün gözləyir.</item>
+        <item>Özünüzə mehribansınız və bu güc deyilən şeydir.</item>
+        <item>Bu tətbiq olmasaydı, indi nə edərdiniz.</item>
+        <item>Buradasınız istəyinizlə, yoxsa vərdişlə.</item>
+        <item>Əslində nə axtarırdınız.</item>
+        <item>Bu, sabah səhər önəmli olacaq.</item>
+        <item>İndi görəcəyiniz şeyi xatırlayacaqsınız.</item>
+        <item>Telefonu götürməzdən əvvəl nə edirdiniz.</item>
+        <item>Bu gün buna nə qədər vaxt vermək istəyirsiniz.</item>
+        <item>Darıxmısınız, yoxsa yorulmusunuz.</item>
+        <item>Bunun əvəzinə günortanız necə ola bilərdi.</item>
+        <item>Dəyər.</item>
+        <item>Bunu hər hansı konkret səbəbdən açdınız.</item>
+        <item>İndi girsəniz, nəyi bir daha təxirə salacaqsınız.</item>
+        <item>Bir ildən sonra kim olmaq istəyirsiniz.</item>
+        <item>İndi sizə həqiqətən nə yaxşı gələr.</item>
+        <item>Nədənsə qaçırsınız.</item>
+        <item>Təxirə saldığınız o işi görməyə nə deyirsiniz.</item>
+        <item>Sadəcə bağlasanız nə olar.</item>
+        <item>Daha yaxşı bir işiniz var. Hansıdır.</item>
+        <item>Bu istirahətdir, yoxsa qaçış.</item>
+        <item>Sabahkı özünüz sizdən nə etməyi xahiş edərdi.</item>
+        <item>Acsınız, yuxulusunuz, yoxsa darıxmısınız.</item>
+        <item>Lent sizi axırıncı dəfə nə vaxt yaxşılaşdırıb.</item>
+        <item>Günün sonunda nə hiss etmək istəyirsiniz.</item>
+        <item>İndi nə çatışmır.</item>
+        <item>Buna ehtiyacınız var, yoxsa sadəcə istəyirsiniz.</item>
+        <item>Hansı kiçik şey indi gününüzü yaxşılaşdırar.</item>
+        <item>İki boş saatınız olsa, nə edərdiniz.</item>
+        <item>Nə etməli olduğunuzu özünüz bilirsiniz.</item>
+        <item>Bu on beş dəqiqənin əsl qiyməti nədir.</item>
+        <item>Siz bunu istəyirsiniz, yoxsa sadəcə əliniz boşdur.</item>
+        <item>İndi nə daha çox dəyərdi.</item>
+        <item>Orada hər şey qaydasındadır.</item>
+        <item>İndi sakitcə ən yaxşı seçim hansı olardı.</item>
+        <item>Bu yarım saatla fəxr edəcəksiniz.</item>
+        <item>Heç kim görməsəydi, nə edərdiniz.</item>
+        <item>İndi zəng edə biləcəyiniz biri var.</item>
+        <item>Beyniniz nədən yayınmağa çalışır.</item>
+        <item>Günortanızı buna dəyişməyə dəyər.</item>
+        <item>Bu gün üçün planınız var. Bu ona daxildir.</item>
+        <item>İndi etmək üçün ən gözəl şey nə olardı.</item>
+        <item>Dürüst deyim, yaxşısınız.</item>
+        <item>Bu həftəni nə dəyərli edərdi.</item>
+        <item>Bu sizin istədiyinizdir, yoxsa etdiyiniz.</item>
+        <item>Sabah nə etmək istədiyinizi düşünmüsünüz.</item>
+        <item>Bu gün telefonu neçə dəfə götürmüsünüz.</item>
+        <item>Bir saatdan sonra sizi nə razı salar.</item>
+        <item>Girmək istəyirsiniz, yoxsa barmağınız avtomatikdir.</item>
+        <item>Sonraya saxladığınız önəmli iş hansıdır.</item>
+        <item>On il əvvəlki özünüz buna nə deyərdi.</item>
+        <item>Həqiqətən dincəlirsiniz.</item>
+        <item>Cəsarətiniz olsaydı edəcəyiniz nəsə var.</item>
+        <item>Bu gün axşam nə etmiş olmaq istərdiniz.</item>
+        <item>Bir söhbətdən daha dəyərlidir.</item>
+        <item>Bu gün nəyə vaxtınız var.</item>
+        <item>Altı aydan sonra hansı vərdişə sahib olmaq istəyirsiniz.</item>
+        <item>Diqqətinizi həqiqətən nə tələb edir.</item>
+        <item>Bu günortanı xatırlamaq istəyirsiniz, yoxsa unutmaq.</item>
+        <item>Bu an üçün yaxşı istifadə nə olardı.</item>
+        <item>Buradasınız nəsə görmək üçün, yoxsa nəsə hiss etməmək üçün.</item>
+        <item>Bu gün nə sizi rahat yatızdırar.</item>
+        <item>Bu gününüzə əlavə edir, yoxsa çıxır.</item>
+        <item>Orada nə olduğunu həqiqətən bilmək istəyirsiniz.</item>
+        <item>Ekransız etdiyiniz son yaxşı iş nə idi.</item>
+        <item>İnternetsiz bir günortada nə edərdiniz.</item>
+        <item>Nədən belə tələsirsiniz.</item>
+        <item>İndi hansı kiçik addımı ata bilərsiniz.</item>
+        <item>Bundan daha çox diqqətinizə nə ehtiyac duyur.</item>
+        <item>Bu gün dərindən nəfəs almısınız.</item>
+        <item>Növbəti saat üçün planınız nədir.</item>
+        <item>Bu sizi istədiyiniz bir şeyə yaxınlaşdırır.</item>
+        <item>Bunu heyran olduğunuz birinin yanında edərdiniz.</item>
+        <item>Bu gün nə yaxşı şey oldu.</item>
+        <item>Gününüzün nə qədəri ekranlara getdi.</item>
+        <item>Gözləyən bir fikriniz var.</item>
+        <item>Bu həftə ilə nə etmək istəyirsiniz.</item>
+        <item>Sakitliyi səs-küyə dəyişməyə dəyər.</item>
+        <item>Bu gün yaradırsınız, yoxsa istehlak edirsiniz.</item>
+        <item>İndi hansı sadə şey sizə yaxşı gələr.</item>
+        <item>Belə vəziyyətdə dostunuza nə deyərdiniz.</item>
+        <item>Beş dəqiqəniz var. Nə üçün.</item>
+        <item>Sizi həqiqətən nə narahat edir.</item>
+        <item>İndi edə biləcəyiniz ən yaxşısı budur.</item>
+        <item>Bu anın nəzarəti sizdədir.</item>
+        <item>Hansı qərarla fəxr edərdiniz.</item>
+        <item>Gün bitəndə nə etmiş olmaq istəyirsiniz.</item>
+        <item>Bunu niyə quraşdırdığınızı xatırlayırsınız.</item>
+        <item>Sonraya saxlayıb hələ də istəyib-istəmədiyinizə baxsanız necədir.</item>
+        <item>Bu gün daha cəsarətli olsaydınız, nə edərdiniz.</item>
+        <item>Gününüzün sürətli versiyasını istəyirsiniz, yoxsa yaxşı versiyasını.</item>
+        <item>Bu gün yalnız sizin edə biləcəyiniz nə var.</item>
+        <item>Sizi çöldə nə gözləyir.</item>
+        <item>Bu gün nəyəsə təşəkkür etmisiniz.</item>
+        <item>Növbəti yarım saat sizin üçün nə qədər dəyərlidir.</item>
+        <item>Bu həftədən özünüzlə nə aparmaq istəyirsiniz.</item>
+        <item>Bu təcilidir, yoxsa yalnız belə görünür.</item>
+        <item>İstədiyinizi edirsiniz.</item>
+        <item>Bu günə yaxşı son nə olardı.</item>
+        <item>Dincəlmiş olsaydınız, nə edərdiniz.</item>
+        <item>Sürüşdürməyi üstün tutursunuz, yoxsa yaşamağı.</item>
+        <item>Sadəcə bağlayıb nə olacağına baxsanız necədir.</item>
+    </string-array>
+</resources>
