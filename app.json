@@ -19,7 +19,7 @@
     },
     "android": {
       "package": "dev.marujo.appblocker",
-      "versionCode": 2,
+      "versionCode": 3,
       "allowBackup": true,
       "softwareKeyboardLayoutMode": "resize",
       "adaptiveIcon": {
