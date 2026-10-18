@@ -87,7 +87,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'ఇంకా iPhoneలో పనిచేయదు',
       mensagem:
-        'ప్రస్తుతానికి AceleraLock Androidలో మాత్రమే యాప్‌లను బ్లాక్ చేస్తుంది. iPhoneలో బ్లాకింగ్‌కు Apple నుంచి ప్రత్యేక అనుమతి కావాలి.',
+        'ప్రస్తుతానికి Instablock Androidలో మాత్రమే యాప్‌లను బ్లాక్ చేస్తుంది. iPhoneలో బ్లాకింగ్‌కు Apple నుంచి ప్రత్యేక అనుమతి కావాలి.',
       saibaMais: 'మరింత తెలుసుకోండి',
       legenda: '{site}ను బ్రౌజర్‌లో తెరుస్తుంది.',
     },
@@ -177,7 +177,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'ఆవేశాన్ని ఆగనివ్వండి.',
       subtitulo:
-        'మీ సమయాన్ని దొంగిలించే యాప్‌లను ఎంచుకోండి. తెరవాలనే కోరిక కలిగినప్పుడు AceleraLock అడ్డుగా నిలుస్తుంది.',
+        'మీ సమయాన్ని దొంగిలించే యాప్‌లను ఎంచుకోండి. తెరవాలనే కోరిక కలిగినప్పుడు Instablock అడ్డుగా నిలుస్తుంది.',
       promessaBloqueio: 'మీరు ఎంచుకున్న యాప్‌లు, సైట్‌లను బ్లాక్ చేస్తుంది',
       promessaEspera: {
         one: 'మనసు మార్చుకుంటే {n} నిమిషం నిరీక్షణ ఉండవచ్చు',
@@ -264,7 +264,7 @@ export const textos: Textos = {
         one: '{n} యాప్ బ్లాక్ చేయబడింది.',
         other: '{n} యాప్‌లు బ్లాక్ చేయబడ్డాయి.',
       },
-      subtitulo: 'తెరవాలనే కోరిక కలిగినప్పుడు AceleraLock అడ్డుగా నిలుస్తుంది.',
+      subtitulo: 'తెరవాలనే కోరిక కలిగినప్పుడు Instablock అడ్డుగా నిలుస్తుంది.',
       aPartirDeAgora: 'ఇప్పటి నుంచి',
       eMaisApps: {
         one: 'ఇంకా {n} యాప్, ఇప్పటి నుంచి',
@@ -387,7 +387,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'సైట్‌లను బ్లాక్ చేయడానికి బ్రౌజర్ చదవడాన్ని ఆన్ చేయండి',
       avisoAcessibilidadeMensagem:
-        'AceleraLock Android యాక్సెసిబిలిటీ సేవను Chrome, Samsung Internet, Firefox, Edge, Brave అడ్రస్ బార్‌లోని చిరునామాను చదివి మీ జాబితాతో పోల్చడానికి మాత్రమే వాడుతుంది. పేజీల కంటెంట్‌ను చదవదు, మీరు చూసినవి సేవ్ చేయదు, ఏదీ పరికరం నుంచి బయటకు వెళ్లదు.',
+        'Instablock Android యాక్సెసిబిలిటీ సేవను Chrome, Samsung Internet, Firefox, Edge, Brave అడ్రస్ బార్‌లోని చిరునామాను చదివి మీ జాబితాతో పోల్చడానికి మాత్రమే వాడుతుంది. పేజీల కంటెంట్‌ను చదవదు, మీరు చూసినవి సేవ్ చేయదు, ఏదీ పరికరం నుంచి బయటకు వెళ్లదు.',
       ativarNasConfiguracoes: 'సెట్టింగ్‌లలో ఆన్ చేయండి',
       erroAoLer: 'సైట్‌ల జాబితాను చదవలేకపోయాం. ఈ స్క్రీన్ నుంచి బయటకు వెళ్లి మళ్ళీ రండి.',
       campoRotulo: 'సైట్ జోడించు',
@@ -477,7 +477,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'మీరు ఫోన్ వాడిన వెంటనే యాప్‌లు ఇక్కడ కనిపిస్తాయి.',
     historicoComecaTitulo: 'మీ చరిత్ర ఇప్పుడే మొదలవుతోంది',
     historicoComecaMensagem:
-      'ఈ రోజు నుంచి AceleraLock మీరు స్క్రీన్ ముందు గడిపే సమయాన్ని నమోదు చేస్తుంది, ఈ గ్రాఫ్ తనంతట తానే నిండుతుంది.',
+      'ఈ రోజు నుంచి Instablock మీరు స్క్రీన్ ముందు గడిపే సమయాన్ని నమోదు చేస్తుంది, ఈ గ్రాఫ్ తనంతట తానే నిండుతుంది.',
     ultimos7Dias: 'గత 7 రోజులు',
     legendaEstimativa: 'మీ అంచనా',
     legendaGraficoSemana: 'గత 7 రోజుల స్క్రీన్ టైమ్',

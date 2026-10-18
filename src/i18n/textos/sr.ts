@@ -90,7 +90,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Још не ради на iPhone-у',
       mensagem:
-        'За сада AceleraLock блокира апликације само на Android-у. На iPhone-у блокирање зависи од посебног одобрења компаније Apple.',
+        'За сада Instablock блокира апликације само на Android-у. На iPhone-у блокирање зависи од посебног одобрења компаније Apple.',
       saibaMais: 'Сазнајте више',
       legenda: 'Отвара {site} у прегледачу.',
     },
@@ -183,7 +183,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Нека порив сачека.',
       subtitulo:
-        'Изаберите апликације које вам краду време. Кад наиђе жеља да неку отворите, AceleraLock јој се испречи на путу.',
+        'Изаберите апликације које вам краду време. Кад наиђе жеља да неку отворите, Instablock јој се испречи на путу.',
       promessaBloqueio: 'Блокира апликације и сајтове које изаберете',
       promessaEspera: {
         one: 'Промена одлуке може да тражи {n} мин чекања',
@@ -277,7 +277,7 @@ export const textos: Textos = {
         few: '{n} апликације су блокиране.',
         other: '{n} апликација је блокирано.',
       },
-      subtitulo: 'Кад наиђе жеља да нешто отворите, AceleraLock јој се испречи на путу.',
+      subtitulo: 'Кад наиђе жеља да нешто отворите, Instablock јој се испречи на путу.',
       aPartirDeAgora: 'Од сада',
       eMaisApps: {
         one: 'И још {n} апликација, од сада',
@@ -414,7 +414,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Укључите читање прегледача да бисте блокирали сајтове',
       avisoAcessibilidadeMensagem:
-        'AceleraLock користи Android-ову услугу приступачности само да прочита адресу у траци прегледача Chrome, Samsung Internet, Firefox, Edge и Brave и упореди је с вашом листом. Не чита садржај страница, не чува шта посећујете и ништа не излази с уређаја.',
+        'Instablock користи Android-ову услугу приступачности само да прочита адресу у траци прегледача Chrome, Samsung Internet, Firefox, Edge и Brave и упореди је с вашом листом. Не чита садржај страница, не чува шта посећујете и ништа не излази с уређаја.',
       ativarNasConfiguracoes: 'Укључи у Подешавањима',
       erroAoLer:
         'Листа сајтова није могла да се прочита. Изађите и поново уђите на овај екран да покушате опет.',
@@ -508,7 +508,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Чим почнете да користите телефон, апликације ће се појавити овде.',
     historicoComecaTitulo: 'Ваша историја почиње сада',
     historicoComecaMensagem:
-      'Од данас AceleraLock бележи колико времена проводите испред екрана, а овај графикон се сам попуњава.',
+      'Од данас Instablock бележи колико времена проводите испред екрана, а овај графикон се сам попуњава.',
     ultimos7Dias: 'Последњих 7 дана',
     legendaEstimativa: 'ваша процена',
     legendaGraficoSemana: 'Време испред екрана у последњих 7 дана',

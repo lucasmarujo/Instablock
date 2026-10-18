@@ -87,7 +87,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'iPhone પર હજી કામ કરતું નથી',
       mensagem:
-        'હાલ AceleraLock ફક્ત Android પર ઍપ્સ બ્લૉક કરે છે. iPhone પર બ્લૉકિંગ Apple ની ખાસ મંજૂરી પર આધાર રાખે છે.',
+        'હાલ Instablock ફક્ત Android પર ઍપ્સ બ્લૉક કરે છે. iPhone પર બ્લૉકિંગ Apple ની ખાસ મંજૂરી પર આધાર રાખે છે.',
       saibaMais: 'વધુ જાણો',
       legenda: 'બ્રાઉઝરમાં {site} ખુલશે.',
     },
@@ -177,7 +177,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'ઇચ્છાને રાહ જોવડાવો.',
       subtitulo:
-        'તમારો સમય ચોરતી ઍપ્સ પસંદ કરો. ખોલવાની ઇચ્છા થાય ત્યારે AceleraLock રસ્તામાં આવે છે.',
+        'તમારો સમય ચોરતી ઍપ્સ પસંદ કરો. ખોલવાની ઇચ્છા થાય ત્યારે Instablock રસ્તામાં આવે છે.',
       promessaBloqueio: 'તમે પસંદ કરેલી ઍપ્સ અને સાઇટ્સ બ્લૉક કરે છે',
       promessaEspera: {
         one: 'મન બદલવા માટે {n} મિનિટની રાહ જોવી પડી શકે',
@@ -263,7 +263,7 @@ export const textos: Textos = {
         one: '{n} ઍપ બ્લૉક છે.',
         other: '{n} ઍપ્સ બ્લૉક છે.',
       },
-      subtitulo: 'ખોલવાની ઇચ્છા થાય ત્યારે AceleraLock રસ્તામાં આવે છે.',
+      subtitulo: 'ખોલવાની ઇચ્છા થાય ત્યારે Instablock રસ્તામાં આવે છે.',
       aPartirDeAgora: 'હવેથી',
       eMaisApps: {
         one: 'અને વધુ {n} ઍપ, હવેથી',
@@ -386,7 +386,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'સાઇટ્સ બ્લૉક કરવા બ્રાઉઝર વાંચન ચાલુ કરો',
       avisoAcessibilidadeMensagem:
-        'AceleraLock Android ની ઍક્સેસિબિલિટી સેવાનો ઉપયોગ ફક્ત Chrome, Samsung Internet, Firefox, Edge અને Brave ની બારમાંનું સરનામું વાંચીને તમારી યાદી સાથે સરખાવવા માટે કરે છે. તે પેજની સામગ્રી વાંચતું નથી, તમે જે જુઓ છો તે સાચવતું નથી અને કશું ઉપકરણની બહાર જતું નથી.',
+        'Instablock Android ની ઍક્સેસિબિલિટી સેવાનો ઉપયોગ ફક્ત Chrome, Samsung Internet, Firefox, Edge અને Brave ની બારમાંનું સરનામું વાંચીને તમારી યાદી સાથે સરખાવવા માટે કરે છે. તે પેજની સામગ્રી વાંચતું નથી, તમે જે જુઓ છો તે સાચવતું નથી અને કશું ઉપકરણની બહાર જતું નથી.',
       ativarNasConfiguracoes: 'સેટિંગ્સમાં ચાલુ કરો',
       erroAoLer: 'સાઇટ્સની યાદી વાંચી શકાઈ નહીં. આ સ્ક્રીનમાંથી બહાર નીકળીને ફરી આવો.',
       campoRotulo: 'સાઇટ ઉમેરો',
@@ -476,7 +476,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'તમે ફોન વાપરશો કે તરત ઍપ્સ અહીં દેખાશે.',
     historicoComecaTitulo: 'તમારો ઇતિહાસ હવે શરૂ થાય છે',
     historicoComecaMensagem:
-      'આજથી AceleraLock તમે સ્ક્રીન પર કેટલો સમય વિતાવો છો તે સાચવે છે, અને આ ગ્રાફ જાતે ભરાતો જશે.',
+      'આજથી Instablock તમે સ્ક્રીન પર કેટલો સમય વિતાવો છો તે સાચવે છે, અને આ ગ્રાફ જાતે ભરાતો જશે.',
     ultimos7Dias: 'છેલ્લા ૭ દિવસ',
     legendaEstimativa: 'તમારો અંદાજ',
     legendaGraficoSemana: 'છેલ્લા ૭ દિવસનો સ્ક્રીન ટાઇમ',

@@ -95,7 +95,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Oraindik ez dabil iPhonean',
       mensagem:
-        'Oraingoz AceleraLock-ek Android-en bakarrik blokeatzen ditu appak. iPhonean, blokeoak Apple-ren baimen berezi bat behar du.',
+        'Oraingoz Instablock-ek Android-en bakarrik blokeatzen ditu appak. iPhonean, blokeoak Apple-ren baimen berezi bat behar du.',
       saibaMais: 'Gehiago jakin',
       legenda: '{site} irekitzen du nabigatzailean.',
     },
@@ -185,7 +185,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Egin bulkadak itxaron dezala.',
       subtitulo:
-        'Aukeratu zure denbora lapurtzen dizuten appak. Irekitzeko gogoa datorrenean, AceleraLock bidean jartzen da.',
+        'Aukeratu zure denbora lapurtzen dizuten appak. Irekitzeko gogoa datorrenean, Instablock bidean jartzen da.',
       promessaBloqueio: 'Aukeratzen dituzun app eta webguneak blokeatzen ditu',
       promessaEspera: {
         one: 'Iritzia aldatzeak {n} min itxaronaldia eskatu dezake',
@@ -272,7 +272,7 @@ export const textos: Textos = {
         one: 'App {n} blokeatuta.',
         other: '{n} app blokeatuta.',
       },
-      subtitulo: 'Irekitzeko gogoa datorrenean, AceleraLock bidean jartzen da.',
+      subtitulo: 'Irekitzeko gogoa datorrenean, Instablock bidean jartzen da.',
       aPartirDeAgora: 'Hemendik aurrera',
       eMaisApps: {
         one: 'Eta app {n} gehiago, hemendik aurrera',
@@ -396,7 +396,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Aktibatu nabigatzailearen irakurketa webguneak blokeatzeko',
       avisoAcessibilidadeMensagem:
-        'AceleraLock-ek Android-en erabilerraztasun-zerbitzua erabiltzen du Chrome, Samsung Internet, Firefox, Edge eta Brave-ren barran dagoen helbidea bakarrik irakurtzeko eta zure zerrendarekin konparatzeko. Ez du orrien edukia irakurtzen, ez du bisitatzen duzuna gordetzen eta ez da ezer gailutik ateratzen.',
+        'Instablock-ek Android-en erabilerraztasun-zerbitzua erabiltzen du Chrome, Samsung Internet, Firefox, Edge eta Brave-ren barran dagoen helbidea bakarrik irakurtzeko eta zure zerrendarekin konparatzeko. Ez du orrien edukia irakurtzen, ez du bisitatzen duzuna gordetzen eta ez da ezer gailutik ateratzen.',
       ativarNasConfiguracoes: 'Aktibatu Ezarpenetan',
       erroAoLer:
         'Ezin izan da webgune-zerrenda irakurri. Irten pantaila honetatik eta sartu berriz saiatzeko.',
@@ -490,7 +490,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Telefonoa erabiltzen duzunean, appak hemen agertuko dira.',
     historicoComecaTitulo: 'Zure historia orain hasten da',
     historicoComecaMensagem:
-      'Gaurtik aurrera AceleraLock-ek pantailan ematen duzun denbora gordetzen du, eta grafiko hau bere kabuz betetzen da.',
+      'Gaurtik aurrera Instablock-ek pantailan ematen duzun denbora gordetzen du, eta grafiko hau bere kabuz betetzen da.',
     ultimos7Dias: 'Azken 7 egunak',
     legendaEstimativa: 'zure estimazioa',
     legendaGraficoSemana: 'Pantaila-denbora azken 7 egunetan',

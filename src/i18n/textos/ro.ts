@@ -90,7 +90,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Încă nu funcționează pe iPhone',
       mensagem:
-        'Deocamdată, AceleraLock blochează aplicații doar pe Android. Pe iPhone, blocarea depinde de o aprobare specială de la Apple.',
+        'Deocamdată, Instablock blochează aplicații doar pe Android. Pe iPhone, blocarea depinde de o aprobare specială de la Apple.',
       saibaMais: 'Află mai multe',
       legenda: 'Deschide {site} în browser.',
     },
@@ -183,7 +183,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Fă impulsul să aștepte.',
       subtitulo:
-        'Alege aplicațiile care îți fură timpul. Când îți vine să le deschizi, AceleraLock se pune în cale.',
+        'Alege aplicațiile care îți fură timpul. Când îți vine să le deschizi, Instablock se pune în cale.',
       promessaBloqueio: 'Blochează aplicațiile și site-urile pe care le alegi',
       promessaEspera: {
         one: 'Ca să te răzgândești, poate fi nevoie de {n} min de așteptare',
@@ -277,7 +277,7 @@ export const textos: Textos = {
         few: '{n} aplicații blocate.',
         other: '{n} de aplicații blocate.',
       },
-      subtitulo: 'Când îți vine să le deschizi, AceleraLock se pune în cale.',
+      subtitulo: 'Când îți vine să le deschizi, Instablock se pune în cale.',
       aPartirDeAgora: 'De acum înainte',
       eMaisApps: {
         one: 'Și încă {n} aplicație, de acum înainte',
@@ -414,7 +414,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Activează citirea browserului ca să blochezi site-uri',
       avisoAcessibilidadeMensagem:
-        'AceleraLock folosește serviciul de accesibilitate Android doar ca să citească adresa din bara Chrome, Samsung Internet, Firefox, Edge și Brave și s-o compare cu lista ta. Nu citește conținutul paginilor, nu păstrează ce vizitezi și nimic nu iese de pe dispozitiv.',
+        'Instablock folosește serviciul de accesibilitate Android doar ca să citească adresa din bara Chrome, Samsung Internet, Firefox, Edge și Brave și s-o compare cu lista ta. Nu citește conținutul paginilor, nu păstrează ce vizitezi și nimic nu iese de pe dispozitiv.',
       ativarNasConfiguracoes: 'Activează din Setări',
       erroAoLer:
         'Nu s-a putut citi lista de site-uri. Ieși și intră din nou pe acest ecran ca să încerci iar.',
@@ -507,7 +507,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Imediat ce folosești telefonul, aplicațiile apar aici.',
     historicoComecaTitulo: 'Istoricul tău începe acum',
     historicoComecaMensagem:
-      'Începând de azi, AceleraLock reține cât timp petreci pe ecran, iar acest grafic se umple singur.',
+      'Începând de azi, Instablock reține cât timp petreci pe ecran, iar acest grafic se umple singur.',
     ultimos7Dias: 'Ultimele 7 zile',
     legendaEstimativa: 'estimarea ta',
     legendaGraficoSemana: 'Timp de utilizare în ultimele 7 zile',

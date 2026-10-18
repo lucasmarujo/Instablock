@@ -88,7 +88,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Pas encore disponible sur iPhone',
       mensagem:
-        'Pour l’instant, AceleraLock ne bloque les applis que sur Android. Sur iPhone, le blocage dépend d’une autorisation spéciale d’Apple.',
+        'Pour l’instant, Instablock ne bloque les applis que sur Android. Sur iPhone, le blocage dépend d’une autorisation spéciale d’Apple.',
       saibaMais: 'En savoir plus',
       legenda: 'Ouvre {site} dans le navigateur.',
     },
@@ -178,7 +178,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Fais attendre l’envie.',
       subtitulo:
-        'Choisis les applis qui te volent du temps. Quand l’envie d’en ouvrir une te prend, AceleraLock s’interpose.',
+        'Choisis les applis qui te volent du temps. Quand l’envie d’en ouvrir une te prend, Instablock s’interpose.',
       promessaBloqueio: 'Bloque les applis et les sites que tu choisis',
       promessaEspera: {
         one: 'Changer d’avis peut demander {n} min d’attente',
@@ -265,7 +265,7 @@ export const textos: Textos = {
         one: '{n} appli bloquée.',
         other: '{n} applis bloquées.',
       },
-      subtitulo: 'Quand l’envie d’ouvrir te prend, AceleraLock s’interpose.',
+      subtitulo: 'Quand l’envie d’ouvrir te prend, Instablock s’interpose.',
       aPartirDeAgora: 'Dès maintenant',
       eMaisApps: {
         one: 'Et {n} autre appli, dès maintenant',
@@ -390,7 +390,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Active la lecture du navigateur pour bloquer des sites',
       avisoAcessibilidadeMensagem:
-        'AceleraLock utilise le service d’accessibilité d’Android uniquement pour lire l’adresse dans la barre de Chrome, Samsung Internet, Firefox, Edge et Brave et la comparer à ta liste. Il ne lit pas le contenu des pages, ne garde pas ce que tu visites et rien ne quitte l’appareil.',
+        'Instablock utilise le service d’accessibilité d’Android uniquement pour lire l’adresse dans la barre de Chrome, Samsung Internet, Firefox, Edge et Brave et la comparer à ta liste. Il ne lit pas le contenu des pages, ne garde pas ce que tu visites et rien ne quitte l’appareil.',
       ativarNasConfiguracoes: 'Activer dans les Paramètres',
       erroAoLer:
         'Impossible de lire la liste des sites. Quitte cet écran et reviens pour réessayer.',
@@ -482,7 +482,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Dès que tu utilises ton téléphone, les applis apparaissent ici.',
     historicoComecaTitulo: 'Ton historique commence maintenant',
     historicoComecaMensagem:
-      'À partir d’aujourd’hui, AceleraLock enregistre le temps que tu passes devant l’écran, et ce graphique se remplit tout seul.',
+      'À partir d’aujourd’hui, Instablock enregistre le temps que tu passes devant l’écran, et ce graphique se remplit tout seul.',
     ultimos7Dias: '7 derniers jours',
     legendaEstimativa: 'ton estimation',
     legendaGraficoSemana: 'Temps d’écran des 7 derniers jours',

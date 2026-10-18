@@ -5,6 +5,6 @@
     <string name="aceleralock_block_close">Закрити</string>
     <string name="aceleralock_notification_channel">Захист увімкнено</string>
     <string name="aceleralock_notification_text">Захист увімкнено</string>
-    <string name="aceleralock_site_accessibility_label">AceleraLock: блокування сайтів</string>
+    <string name="aceleralock_site_accessibility_label">Instablock: блокування сайтів</string>
     <string name="aceleralock_site_accessibility_description">Читає лише адресний рядок у Chrome, Samsung Internet, Firefox, Edge і Brave, щоб блокувати обрані тобою сайти. Нічого не зберігається і не покидає пристрій.</string>
 </resources>

@@ -87,7 +87,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'iPhone वर अजून चालत नाही',
       mensagem:
-        'सध्या AceleraLock फक्त Android वर अॅप्स ब्लॉक करते. iPhone वर ब्लॉक करण्यासाठी Apple ची खास परवानगी लागते.',
+        'सध्या Instablock फक्त Android वर अॅप्स ब्लॉक करते. iPhone वर ब्लॉक करण्यासाठी Apple ची खास परवानगी लागते.',
       saibaMais: 'अधिक जाणून घ्या',
       legenda: 'ब्राउझरमध्ये {site} उघडते.',
     },
@@ -176,7 +176,7 @@ export const textos: Textos = {
   onboarding: {
     boasVindas: {
       titulo: 'आवेगाला थांबायला लावा.',
-      subtitulo: 'तुमचा वेळ चोरणारे अॅप्स निवडा. उघडण्याची इच्छा झाली की AceleraLock आड येते.',
+      subtitulo: 'तुमचा वेळ चोरणारे अॅप्स निवडा. उघडण्याची इच्छा झाली की Instablock आड येते.',
       promessaBloqueio: 'तुम्ही निवडलेले अॅप्स आणि साइट ब्लॉक करते',
       promessaEspera: {
         one: 'मत बदलायला {n} मिनिट प्रतीक्षा लागू शकते',
@@ -262,7 +262,7 @@ export const textos: Textos = {
         one: '{n} अॅप ब्लॉक केले.',
         other: '{n} अॅप्स ब्लॉक केले.',
       },
-      subtitulo: 'उघडण्याची इच्छा झाली की AceleraLock आड येते.',
+      subtitulo: 'उघडण्याची इच्छा झाली की Instablock आड येते.',
       aPartirDeAgora: 'आतापासून',
       eMaisApps: {
         one: 'आणि आणखी {n} अॅप, आतापासून',
@@ -385,7 +385,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'साइट ब्लॉक करण्यासाठी ब्राउझर वाचन सुरू करा',
       avisoAcessibilidadeMensagem:
-        'AceleraLock Android ची अॅक्सेसिबिलिटी सेवा फक्त Chrome, Samsung Internet, Firefox, Edge आणि Brave च्या अॅड्रेस बारमधील पत्ता वाचण्यासाठी आणि तुमच्या यादीशी जुळवण्यासाठी वापरते. पानांचा मजकूर वाचत नाही, तुम्ही काय पाहता ते साठवत नाही आणि काहीही फोनबाहेर जात नाही.',
+        'Instablock Android ची अॅक्सेसिबिलिटी सेवा फक्त Chrome, Samsung Internet, Firefox, Edge आणि Brave च्या अॅड्रेस बारमधील पत्ता वाचण्यासाठी आणि तुमच्या यादीशी जुळवण्यासाठी वापरते. पानांचा मजकूर वाचत नाही, तुम्ही काय पाहता ते साठवत नाही आणि काहीही फोनबाहेर जात नाही.',
       ativarNasConfiguracoes: 'सेटिंग्जमध्ये सुरू करा',
       erroAoLer: 'साइट्सची यादी वाचता आली नाही. या स्क्रीनमधून बाहेर पडून पुन्हा या.',
       campoRotulo: 'साइट जोडा',
@@ -475,7 +475,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'तुम्ही फोन वापरताच अॅप्स इथे दिसतील.',
     historicoComecaTitulo: 'तुमचा इतिहास आता सुरू होतो',
     historicoComecaMensagem:
-      'आजपासून AceleraLock तुम्ही स्क्रीनवर किती वेळ घालवता ते जपून ठेवते, आणि हा आलेख आपोआप भरत जातो.',
+      'आजपासून Instablock तुम्ही स्क्रीनवर किती वेळ घालवता ते जपून ठेवते, आणि हा आलेख आपोआप भरत जातो.',
     ultimos7Dias: 'गेले ७ दिवस',
     legendaEstimativa: 'तुमचा अंदाज',
     legendaGraficoSemana: 'गेल्या ७ दिवसांचा स्क्रीन टाइम',

@@ -98,7 +98,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'iPhone dar neveikia',
       mensagem:
-        'Kol kas AceleraLock blokuoja programėles tik Android įrenginiuose. iPhone blokavimui reikia ypatingo Apple leidimo.',
+        'Kol kas Instablock blokuoja programėles tik Android įrenginiuose. iPhone blokavimui reikia ypatingo Apple leidimo.',
       saibaMais: 'Sužinoti daugiau',
       legenda: 'Atidaro {site} naršyklėje.',
     },
@@ -191,7 +191,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Priversk norą palaukti.',
       subtitulo:
-        'Pasirink programėles, kurios vagia tavo laiką. Kai užsinorėsi jas atidaryti, AceleraLock atsistos kelyje.',
+        'Pasirink programėles, kurios vagia tavo laiką. Kai užsinorėsi jas atidaryti, Instablock atsistos kelyje.',
       promessaBloqueio: 'Blokuoja tavo pasirinktas programėles ir svetaines',
       promessaEspera: {
         one: 'Apsigalvojus gali tekti palaukti {n} min.',
@@ -285,7 +285,7 @@ export const textos: Textos = {
         few: '{n} programėlės užblokuotos.',
         other: '{n} programėlių užblokuota.',
       },
-      subtitulo: 'Kai užsinorėsi ją atidaryti, AceleraLock atsistos kelyje.',
+      subtitulo: 'Kai užsinorėsi ją atidaryti, Instablock atsistos kelyje.',
       aPartirDeAgora: 'Nuo dabar',
       eMaisApps: {
         one: 'Ir dar {n} programėlė – nuo dabar',
@@ -422,7 +422,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Įjunk naršyklės skaitymą, kad blokuotum svetaines',
       avisoAcessibilidadeMensagem:
-        'AceleraLock naudoja Android pritaikymo neįgaliesiems paslaugą tik adresui Chrome, Samsung Internet, Firefox, Edge ir Brave adreso juostoje perskaityti ir palyginti su tavo sąrašu. Ji neskaito puslapių turinio, neišsaugo, ką lankai, ir niekas nepalieka įrenginio.',
+        'Instablock naudoja Android pritaikymo neįgaliesiems paslaugą tik adresui Chrome, Samsung Internet, Firefox, Edge ir Brave adreso juostoje perskaityti ir palyginti su tavo sąrašu. Ji neskaito puslapių turinio, neišsaugo, ką lankai, ir niekas nepalieka įrenginio.',
       ativarNasConfiguracoes: 'Įjungti nustatymuose',
       erroAoLer:
         'Nepavyko nuskaityti svetainių sąrašo. Išeik iš šio ekrano ir grįžk, kad bandytum dar kartą.',
@@ -516,7 +516,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Kai tik naudosi telefoną, programėlės atsiras čia.',
     historicoComecaTitulo: 'Tavo istorija prasideda dabar',
     historicoComecaMensagem:
-      'Nuo šiandien AceleraLock saugo, kiek laiko praleidi ekrane, o ši diagrama užsipildys pati.',
+      'Nuo šiandien Instablock saugo, kiek laiko praleidi ekrane, o ši diagrama užsipildys pati.',
     ultimos7Dias: 'Paskutinės 7 dienos',
     legendaEstimativa: 'tavo įvertis',
     legendaGraficoSemana: 'Ekrano laikas per paskutines 7 dienas',

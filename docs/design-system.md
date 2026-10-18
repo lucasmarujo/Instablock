@@ -1,4 +1,4 @@
-# AceleraLock — Design System Base
+# Instablock — Design System Base
 
 > Fundação visual e de componentes para React Native + Expo (iOS e Android).
 > Este documento é proposta. Nenhum código nesta rodada.
@@ -352,30 +352,30 @@ Projetar dentro da caixa:
 
 - **Ícone:** o escudo da marca (mesma forma do `ProtectedCard`).
 - **Título:** "Instagram está bloqueado".
-- **Corpo:** curto e sem culpa. Ex.: "Você decidiu proteger seu tempo. Abra o AceleraLock para começar o desbloqueio." Nada de "você tentou X vezes".
+- **Corpo:** curto e sem culpa. Ex.: "Você decidiu proteger seu tempo. Abra o Instablock para começar o desbloqueio." Nada de "você tentou X vezes".
 - **Botão primário:** "Fechar" (volta ao início — a saída sem fricção).
-- **Botão secundário:** "Abrir AceleraLock" (leva o cronômetro e a cerimônia para dentro do nosso app, onde temos controle total).
+- **Botão secundário:** "Abrir Instablock" (leva o cronômetro e a cerimônia para dentro do nosso app, onde temos controle total).
 - Cor do título/botão: derivada dos tokens de marca, dentro do que o `ShieldConfiguration` aceita.
 
-Consequência de produto: **no iOS a espera inteira (cronômetro, cancelar) vive dentro do app AceleraLock**, não na tela de bloqueio. A `BlockScreen` do iOS é só a porta.
+Consequência de produto: **no iOS a espera inteira (cronômetro, cancelar) vive dentro do app Instablock**, não na tela de bloqueio. A `BlockScreen` do iOS é só a porta.
 
 #### Android — overlay nosso, código nativo (não é React Native)
 
-`WindowManager` por cima do app-alvo (`OverlayPresenter`) — código Android, não RN. Mesma restrição de fundo que o iOS, por um motivo diferente: **esta tela não tem botão de desbloquear**. Não existe caminho de desbloqueio direto daqui — só abrindo o AceleraLock e pedindo, com a espera (`WaitingScreen`, §3.5). Por isso o Android também vira "só a porta", como o iOS (§5): o overlay informa e direciona, a espera ao vivo mora no app.
+`WindowManager` por cima do app-alvo (`OverlayPresenter`) — código Android, não RN. Mesma restrição de fundo que o iOS, por um motivo diferente: **esta tela não tem botão de desbloquear**. Não existe caminho de desbloqueio direto daqui — só abrindo o Instablock e pedindo, com a espera (`WaitingScreen`, §3.5). Por isso o Android também vira "só a porta", como o iOS (§5): o overlay informa e direciona, a espera ao vivo mora no app.
 
 - **Fundo:** `bg.canvas` do tema do sistema no aparelho (claro `#F6F7F8` / escuro `#04141c`), opaco — tela cheia, nunca transparente. É o oposto do que existe hoje (overlay vazio deixando o app-alvo visível "atrás de vidro", que lê como celular quebrado, não como bloqueio).
 - **Hierarquia (topo → base, centralizada):**
   1. Ícone do app (`assets/icon-1024.png` reduzido a 512, copiado para `res/drawable-xxxhdpi/ic_aceleralock_mark.png` no módulo nativo), 72dp. **Um asset serve os dois temas** — o ícone já chega composto, com fundo turquesa e cantos próprios, então lê tanto sobre o canvas claro quanto sobre o escuro e não há par `drawable`/`drawable-night` a manter em sincronia. É PNG porque a arte de origem é raster, como na `SplashScreen`.
   2. Título: "[App] está bloqueado." — `title2`, `text.primary`. Sem nome de app resolvido nesta superfície: "Este app está bloqueado." (caminho real, não decoração — nome de pacote pode não resolver em Android 11+ sem `<queries>` no manifesto).
   3. Corpo: **uma frase motivacional sorteada** de `res/values/arrays.xml` (1000 frases, `aceleralock_block_motivation`), com **shimmer em looping** (`ShimmerTextView`). O sorteio acontece na construção da `View`, e o `OverlayPresenter` só constrói uma `View` nova quando o pacote em primeiro plano muda — então é uma frase diferente por tentativa, que é o efeito pretendido. **A contagem de espera saiu desta superfície** (decisão de 2026-08-30): quem chega aqui já sabe que o app está bloqueado, e repetir o procedimento dava ao impulso mais uma porta pra olhar. A espera ao vivo mora dentro do app. As regras de escrita das frases (sem caractere que exija escape em resource, 8–90 caracteres, nenhuma repetida, nenhuma que culpe) estão travadas em `tests/frasesMotivacionais.test.ts`.
-  4. **Um botão só: "Fechar"**, em cápsula (`cornerRadius` grande — o `GradientDrawable` limita o raio a `min(largura, altura) / 2`, então fica 100% arredondado em qualquer altura), largura total. Manda a pessoa para a home do Android (`ACTION_MAIN`/`CATEGORY_HOME`), não fecha nem penaliza o app-alvo (ele continua em recentes) — só tira do primeiro plano, que é a condição que sustenta o bloqueio; sem isso o overlay reaparece em até 1s no próximo tick do detector. **"Abrir AceleraLock" saiu** na mesma decisão de 2026-08-30: era a única ação da tela que levava de volta pra dentro de um app, e dependia da exceção frágil de `SYSTEM_ALERT_WINDOW` a *background activity starts*. Quem quer o AceleraLock abre pela gaveta.
+  4. **Um botão só: "Fechar"**, em cápsula (`cornerRadius` grande — o `GradientDrawable` limita o raio a `min(largura, altura) / 2`, então fica 100% arredondado em qualquer altura), largura total. Manda a pessoa para a home do Android (`ACTION_MAIN`/`CATEGORY_HOME`), não fecha nem penaliza o app-alvo (ele continua em recentes) — só tira do primeiro plano, que é a condição que sustenta o bloqueio; sem isso o overlay reaparece em até 1s no próximo tick do detector. **"Abrir Instablock" saiu** na mesma decisão de 2026-08-30: era a única ação da tela que levava de volta pra dentro de um app, e dependia da exceção frágil de `SYSTEM_ALERT_WINDOW` a *background activity starts*. Quem quer o Instablock abre pela gaveta.
 - **Motivo próprio da pessoa (por que bloqueou este app) — não existe no modelo hoje.** Não há campo em `BlockPolicy`, nem tela que capture, nem persistência. Não é detalhe de implementação: é feature nova (dado + tela de captura + migração), fora do escopo desta rodada. Se for pra entrar, é pedido separado — não implementar campo vazio nem inventar de onde tirar.
 - **O que não existe aqui, de propósito:** botão "Desbloquear", contagem de tentativas, qualquer texto que culpe ("você tentou X vezes"), vermelho, alarme, animação de urgência. O shimmer da frase **não é urgência** — é ambiente: varredura lenta e contínua, sem piscar e sem acelerar, e desligada sob reduce-motion (§1.7 e §3.3). Mesmo cadeado calmo da marca, não um símbolo de punição.
 - **Regras anti-dark-pattern (as duas plataformas):** a saída sem fricção (aqui, "Fechar") sempre no mesmo lugar, com peso visual igual ou maior que a outra ação — nunca menor, nunca escondida. No Android isso ficou trivialmente satisfeito: **"Fechar" é a única ação da tela**. Nada irreversível sem confirmação. Passo atual e pendência sempre visíveis, nunca um número inventado.
 
 #### O que mantém a identidade única
 
-Mesma marca, mesma paleta, mesma voz de texto, mesmos rótulos-verbo, mesmo tom sem-culpa. O usuário reconhece o AceleraLock nas duas — a diferença é só quanta tela o SO nos deixa desenhar. (O corpo diverge de propósito desde 2026-08-30: no iOS a superfície é estática e reconfigurada pelo sistema, então a frase sorteada e o shimmer são só do Android.)
+Mesma marca, mesma paleta, mesma voz de texto, mesmos rótulos-verbo, mesmo tom sem-culpa. O usuário reconhece o Instablock nas duas — a diferença é só quanta tela o SO nos deixa desenhar. (O corpo diverge de propósito desde 2026-08-30: no iOS a superfície é estática e reconfigurada pelo sistema, então a frase sorteada e o shimmer são só do Android.)
 
 ### 3.5 Tela de espera (ex-`UnlockCeremony`)
 
@@ -479,7 +479,7 @@ Toda tela declara: `loading`, `empty`, `error`, `success`/conteúdo. Tela sem es
 
 ### 3.24 `SplashScreen` — splash de marca
 
-- Badge do AceleraLock (128) + nome em `title1`, centralizados; assinatura **"Made By"** em `caption`/`textTertiary` + logo do AceleraDev (56) na base.
+- Badge do Instablock (128) + nome em `title1`, centralizados; assinatura **"Made By"** em `caption`/`textTertiary` + logo do AceleraDev (56) na base.
 - **É tela do app, não imagem da splash nativa.** A splash do Android 12+ recorta o que mostra num círculo e aceita um ícone só — texto e uma segunda logo não sobrevivem ao recorte. A nativa mostra o mesmo ícone; esta tela continua a partir dele, **no mesmo `bgCanvas`**, pra transição não piscar. O recorte é o que fixa o `imageWidth` do `expo-splash-screen` em 132: o ícone é quadrado, então quem precisa caber nos 192dp visíveis é a diagonal, não o lado (`tests/splashBrand.test.ts`).
 - É o `loading` do `RootNavigator` (§3.23), com piso de tempo (`SPLASH_MIN_MS`): o veredito resolve em poucos ms e sem piso a assinatura apareceria por um frame. O piso corre **em paralelo** com o veredito, não em série.
 - As duas logos são PNG (`assets/icon-1024.png` e `assets/aceleradev-logo.png`), não `<Svg>` — o app não tem `react-native-svg`.
@@ -505,7 +505,7 @@ Toda tela declara: `loading`, `empty`, `error`, `success`/conteúdo. Tela sem es
 
 ## 5. Adaptação iOS ↔ Android sem virar dois designs
 
-**Regra:** o que é *comportamento da plataforma* delega-se à plataforma. O que é *o que o AceleraLock é* fica idêntico.
+**Regra:** o que é *comportamento da plataforma* delega-se à plataforma. O que é *o que o Instablock é* fica idêntico.
 
 **Idêntico nas duas:** tokens de cor, tipografia (a escala; a família muda), espaçamento, raio, todos os componentes de §3, arquitetura de informação, cópia, fluxos, estados.
 

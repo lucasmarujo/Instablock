@@ -95,7 +95,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'iPhone-ზე ჯერ არ მუშაობს',
       mensagem:
-        'ჯერჯერობით AceleraLock აპებს მხოლოდ Android-ზე ბლოკავს. iPhone-ზე დაბლოკვა Apple-ის განსაკუთრებულ ნებართვაზეა დამოკიდებული.',
+        'ჯერჯერობით Instablock აპებს მხოლოდ Android-ზე ბლოკავს. iPhone-ზე დაბლოკვა Apple-ის განსაკუთრებულ ნებართვაზეა დამოკიდებული.',
       saibaMais: 'გაიგე მეტი',
       legenda: 'ბრაუზერში იხსნება {site}.',
     },
@@ -185,7 +185,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'აიძულე იმპულსი დაელოდოს.',
       subtitulo:
-        'აირჩიე აპები, რომლებიც შენს დროს იპარავენ. როცა გახსნა მოგინდება, AceleraLock გზაზე დაგიდგება.',
+        'აირჩიე აპები, რომლებიც შენს დროს იპარავენ. როცა გახსნა მოგინდება, Instablock გზაზე დაგიდგება.',
       promessaBloqueio: 'ბლოკავს შენ მიერ არჩეულ აპებს და საიტებს',
       promessaEspera: {
         one: 'გადაწყვეტილების შეცვლას {n} წუთის ლოდინი შეიძლება დასჭირდეს',
@@ -272,7 +272,7 @@ export const textos: Textos = {
         one: '{n} აპი დაბლოკილია.',
         other: '{n} აპი დაბლოკილია.',
       },
-      subtitulo: 'როცა გახსნა მოგინდება, AceleraLock გზაზე დაგიდგება.',
+      subtitulo: 'როცა გახსნა მოგინდება, Instablock გზაზე დაგიდგება.',
       aPartirDeAgora: 'ამიერიდან',
       eMaisApps: {
         one: 'და კიდევ {n} აპი, ამიერიდან',
@@ -396,7 +396,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'საიტების დასაბლოკად ბრაუზერის წაკითხვა ჩართე',
       avisoAcessibilidadeMensagem:
-        'AceleraLock იყენებს Android-ის მისაწვდომობის სერვისს მხოლოდ იმისთვის, რომ Chrome-ის, Samsung Internet-ის, Firefox-ის, Edge-ისა და Brave-ის ზოლში მისამართი წაიკითხოს და შენს სიას შეადაროს. გვერდების შიგთავსს არ კითხულობს, იმას, რასაც სტუმრობ, არ ინახავს და არაფერი ტოვებს მოწყობილობას.',
+        'Instablock იყენებს Android-ის მისაწვდომობის სერვისს მხოლოდ იმისთვის, რომ Chrome-ის, Samsung Internet-ის, Firefox-ის, Edge-ისა და Brave-ის ზოლში მისამართი წაიკითხოს და შენს სიას შეადაროს. გვერდების შიგთავსს არ კითხულობს, იმას, რასაც სტუმრობ, არ ინახავს და არაფერი ტოვებს მოწყობილობას.',
       ativarNasConfiguracoes: 'პარამეტრებში ჩართვა',
       erroAoLer: 'საიტების სია ვერ წაიკითხა. ამ ეკრანიდან გამოდი და ისევ შედი, რომ თავიდან სცადო.',
       campoRotulo: 'საიტის დამატება',
@@ -486,7 +486,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'როგორც კი ტელეფონს გამოიყენებ, აპები აქ გამოჩნდება.',
     historicoComecaTitulo: 'შენი ისტორია ახლა იწყება',
     historicoComecaMensagem:
-      'დღევანდლიდან AceleraLock იმახსოვრებს, რამდენ ხანს ატარებ ეკრანზე, და ეს გრაფიკი თავისით შეივსება.',
+      'დღევანდლიდან Instablock იმახსოვრებს, რამდენ ხანს ატარებ ეკრანზე, და ეს გრაფიკი თავისით შეივსება.',
     ultimos7Dias: 'ბოლო 7 დღე',
     legendaEstimativa: 'შენი შეფასება',
     legendaGraficoSemana: 'ეკრანის დრო ბოლო 7 დღეში',

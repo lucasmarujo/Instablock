@@ -87,7 +87,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'iPhone ਉੱਤੇ ਅਜੇ ਕੰਮ ਨਹੀਂ ਕਰਦਾ',
       mensagem:
-        'ਫ਼ਿਲਹਾਲ AceleraLock ਸਿਰਫ਼ Android ਉੱਤੇ ਐਪਾਂ ਬਲੌਕ ਕਰਦਾ ਹੈ। iPhone ਉੱਤੇ ਬਲੌਕ ਕਰਨ ਲਈ Apple ਦੀ ਖ਼ਾਸ ਮਨਜ਼ੂਰੀ ਚਾਹੀਦੀ ਹੈ।',
+        'ਫ਼ਿਲਹਾਲ Instablock ਸਿਰਫ਼ Android ਉੱਤੇ ਐਪਾਂ ਬਲੌਕ ਕਰਦਾ ਹੈ। iPhone ਉੱਤੇ ਬਲੌਕ ਕਰਨ ਲਈ Apple ਦੀ ਖ਼ਾਸ ਮਨਜ਼ੂਰੀ ਚਾਹੀਦੀ ਹੈ।',
       saibaMais: 'ਹੋਰ ਜਾਣੋ',
       legenda: '{site} ਨੂੰ ਬ੍ਰਾਊਜ਼ਰ ਵਿੱਚ ਖੋਲ੍ਹਦਾ ਹੈ।',
     },
@@ -177,7 +177,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'ਤਾਂਘ ਨੂੰ ਉਡੀਕ ਕਰਵਾਓ।',
       subtitulo:
-        'ਉਹ ਐਪਾਂ ਚੁਣੋ ਜੋ ਤੁਹਾਡਾ ਸਮਾਂ ਚੁਰਾਉਂਦੀਆਂ ਹਨ। ਜਦੋਂ ਖੋਲ੍ਹਣ ਦਾ ਮਨ ਕਰੇ, AceleraLock ਰਾਹ ਵਿੱਚ ਖੜ੍ਹਾ ਹੋ ਜਾਂਦਾ ਹੈ।',
+        'ਉਹ ਐਪਾਂ ਚੁਣੋ ਜੋ ਤੁਹਾਡਾ ਸਮਾਂ ਚੁਰਾਉਂਦੀਆਂ ਹਨ। ਜਦੋਂ ਖੋਲ੍ਹਣ ਦਾ ਮਨ ਕਰੇ, Instablock ਰਾਹ ਵਿੱਚ ਖੜ੍ਹਾ ਹੋ ਜਾਂਦਾ ਹੈ।',
       promessaBloqueio: 'ਤੁਹਾਡੀਆਂ ਚੁਣੀਆਂ ਐਪਾਂ ਅਤੇ ਸਾਈਟਾਂ ਬਲੌਕ ਕਰਦਾ ਹੈ',
       promessaEspera: {
         one: 'ਮਨ ਬਦਲਣ ਲਈ {n} ਮਿੰਟ ਉਡੀਕ ਕਰਨੀ ਪੈ ਸਕਦੀ ਹੈ',
@@ -264,7 +264,7 @@ export const textos: Textos = {
         one: '{n} ਐਪ ਬਲੌਕ ਹੈ।',
         other: '{n} ਐਪਾਂ ਬਲੌਕ ਹਨ।',
       },
-      subtitulo: 'ਜਦੋਂ ਖੋਲ੍ਹਣ ਦਾ ਮਨ ਕਰੇ, AceleraLock ਰਾਹ ਵਿੱਚ ਖੜ੍ਹਾ ਹੋ ਜਾਂਦਾ ਹੈ।',
+      subtitulo: 'ਜਦੋਂ ਖੋਲ੍ਹਣ ਦਾ ਮਨ ਕਰੇ, Instablock ਰਾਹ ਵਿੱਚ ਖੜ੍ਹਾ ਹੋ ਜਾਂਦਾ ਹੈ।',
       aPartirDeAgora: 'ਹੁਣ ਤੋਂ',
       eMaisApps: {
         one: 'ਅਤੇ {n} ਹੋਰ ਐਪ, ਹੁਣ ਤੋਂ',
@@ -387,7 +387,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'ਸਾਈਟਾਂ ਬਲੌਕ ਕਰਨ ਲਈ ਬ੍ਰਾਊਜ਼ਰ ਪੜ੍ਹਨਾ ਚਾਲੂ ਕਰੋ',
       avisoAcessibilidadeMensagem:
-        'AceleraLock, Android ਦੀ ਪਹੁੰਚਯੋਗਤਾ ਸੇਵਾ ਸਿਰਫ਼ Chrome, Samsung Internet, Firefox, Edge ਅਤੇ Brave ਦੀ ਐਡਰੈੱਸ ਬਾਰ ਵਿੱਚੋਂ ਪਤਾ ਪੜ੍ਹਨ ਅਤੇ ਤੁਹਾਡੀ ਸੂਚੀ ਨਾਲ ਮਿਲਾਉਣ ਲਈ ਵਰਤਦਾ ਹੈ। ਇਹ ਪੰਨਿਆਂ ਦੀ ਸਮੱਗਰੀ ਨਹੀਂ ਪੜ੍ਹਦਾ, ਤੁਹਾਡੇ ਦੇਖੇ ਪੰਨੇ ਨਹੀਂ ਸੰਭਾਲਦਾ ਅਤੇ ਕੁਝ ਵੀ ਡੀਵਾਈਸ ਤੋਂ ਬਾਹਰ ਨਹੀਂ ਜਾਂਦਾ।',
+        'Instablock, Android ਦੀ ਪਹੁੰਚਯੋਗਤਾ ਸੇਵਾ ਸਿਰਫ਼ Chrome, Samsung Internet, Firefox, Edge ਅਤੇ Brave ਦੀ ਐਡਰੈੱਸ ਬਾਰ ਵਿੱਚੋਂ ਪਤਾ ਪੜ੍ਹਨ ਅਤੇ ਤੁਹਾਡੀ ਸੂਚੀ ਨਾਲ ਮਿਲਾਉਣ ਲਈ ਵਰਤਦਾ ਹੈ। ਇਹ ਪੰਨਿਆਂ ਦੀ ਸਮੱਗਰੀ ਨਹੀਂ ਪੜ੍ਹਦਾ, ਤੁਹਾਡੇ ਦੇਖੇ ਪੰਨੇ ਨਹੀਂ ਸੰਭਾਲਦਾ ਅਤੇ ਕੁਝ ਵੀ ਡੀਵਾਈਸ ਤੋਂ ਬਾਹਰ ਨਹੀਂ ਜਾਂਦਾ।',
       ativarNasConfiguracoes: 'ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਚਾਲੂ ਕਰੋ',
       erroAoLer: 'ਸਾਈਟਾਂ ਦੀ ਸੂਚੀ ਨਹੀਂ ਪੜ੍ਹੀ ਜਾ ਸਕੀ। ਇਸ ਸਕ੍ਰੀਨ ਤੋਂ ਬਾਹਰ ਜਾ ਕੇ ਦੁਬਾਰਾ ਆਓ।',
       campoRotulo: 'ਸਾਈਟ ਜੋੜੋ',
@@ -478,7 +478,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'ਜਿਵੇਂ ਹੀ ਤੁਸੀਂ ਫ਼ੋਨ ਵਰਤੋਗੇ, ਐਪਾਂ ਇੱਥੇ ਦਿਸਣਗੀਆਂ।',
     historicoComecaTitulo: 'ਤੁਹਾਡਾ ਇਤਿਹਾਸ ਹੁਣ ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ',
     historicoComecaMensagem:
-      'ਅੱਜ ਤੋਂ AceleraLock ਸੰਭਾਲਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਸਕ੍ਰੀਨ ਉੱਤੇ ਕਿੰਨਾ ਸਮਾਂ ਬਿਤਾਉਂਦੇ ਹੋ, ਅਤੇ ਇਹ ਗ੍ਰਾਫ਼ ਆਪੇ ਭਰ ਜਾਂਦਾ ਹੈ।',
+      'ਅੱਜ ਤੋਂ Instablock ਸੰਭਾਲਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਸਕ੍ਰੀਨ ਉੱਤੇ ਕਿੰਨਾ ਸਮਾਂ ਬਿਤਾਉਂਦੇ ਹੋ, ਅਤੇ ਇਹ ਗ੍ਰਾਫ਼ ਆਪੇ ਭਰ ਜਾਂਦਾ ਹੈ।',
     ultimos7Dias: 'ਪਿਛਲੇ 7 ਦਿਨ',
     legendaEstimativa: 'ਤੁਹਾਡਾ ਅੰਦਾਜ਼ਾ',
     legendaGraficoSemana: 'ਪਿਛਲੇ 7 ਦਿਨਾਂ ਦਾ ਸਕ੍ਰੀਨ ਸਮਾਂ',

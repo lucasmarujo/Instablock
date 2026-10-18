@@ -84,7 +84,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Chưa hoạt động trên iPhone',
       mensagem:
-        'Hiện tại AceleraLock chỉ chặn được ứng dụng trên Android. Trên iPhone, việc chặn cần một quyền đặc biệt từ Apple.',
+        'Hiện tại Instablock chỉ chặn được ứng dụng trên Android. Trên iPhone, việc chặn cần một quyền đặc biệt từ Apple.',
       saibaMais: 'Tìm hiểu thêm',
       legenda: 'Mở {site} trong trình duyệt.',
     },
@@ -171,7 +171,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Để cơn thôi thúc phải chờ.',
       subtitulo:
-        'Chọn những ứng dụng đang lấy mất thời gian của bạn. Khi bạn bỗng muốn mở chúng, AceleraLock sẽ đứng chắn giữa đường.',
+        'Chọn những ứng dụng đang lấy mất thời gian của bạn. Khi bạn bỗng muốn mở chúng, Instablock sẽ đứng chắn giữa đường.',
       promessaBloqueio: 'Chặn những ứng dụng và trang web bạn chọn',
       promessaEspera: {
         other: 'Đổi ý có thể cần chờ {n} phút',
@@ -251,7 +251,7 @@ export const textos: Textos = {
       variosAppsBloqueados: {
         other: 'Đã chặn {n} ứng dụng.',
       },
-      subtitulo: 'Khi bạn bỗng muốn mở, AceleraLock sẽ đứng chắn giữa đường.',
+      subtitulo: 'Khi bạn bỗng muốn mở, Instablock sẽ đứng chắn giữa đường.',
       aPartirDeAgora: 'Kể từ bây giờ',
       eMaisApps: {
         other: 'Và thêm {n} ứng dụng nữa, kể từ bây giờ',
@@ -362,7 +362,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Bật đọc trình duyệt để chặn trang web',
       avisoAcessibilidadeMensagem:
-        'AceleraLock chỉ dùng dịch vụ hỗ trợ tiếp cận của Android để đọc địa chỉ trên thanh địa chỉ của Chrome, Samsung Internet, Firefox, Edge và Brave rồi so với danh sách của bạn. Ứng dụng không đọc nội dung trang, không lưu những gì bạn truy cập và không có gì rời khỏi thiết bị.',
+        'Instablock chỉ dùng dịch vụ hỗ trợ tiếp cận của Android để đọc địa chỉ trên thanh địa chỉ của Chrome, Samsung Internet, Firefox, Edge và Brave rồi so với danh sách của bạn. Ứng dụng không đọc nội dung trang, không lưu những gì bạn truy cập và không có gì rời khỏi thiết bị.',
       ativarNasConfiguracoes: 'Bật trong Cài đặt',
       erroAoLer:
         'Không đọc được danh sách trang web. Hãy thoát rồi vào lại màn hình này để thử lại.',
@@ -452,7 +452,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Khi bạn dùng điện thoại, các ứng dụng sẽ hiện ở đây.',
     historicoComecaTitulo: 'Lịch sử của bạn bắt đầu từ bây giờ',
     historicoComecaMensagem:
-      'Từ hôm nay, AceleraLock sẽ ghi lại thời gian bạn dành cho màn hình, và biểu đồ này sẽ tự đầy dần.',
+      'Từ hôm nay, Instablock sẽ ghi lại thời gian bạn dành cho màn hình, và biểu đồ này sẽ tự đầy dần.',
     ultimos7Dias: '7 ngày qua',
     legendaEstimativa: 'ước tính của bạn',
     legendaGraficoSemana: 'Thời gian sử dụng trong 7 ngày qua',

@@ -95,7 +95,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Virkar ekki á iPhone enn',
       mensagem:
-        'Enn sem komið er læsir AceleraLock aðeins öppum á Android. Á iPhone þarf sérstakt leyfi frá Apple.',
+        'Enn sem komið er læsir Instablock aðeins öppum á Android. Á iPhone þarf sérstakt leyfi frá Apple.',
       saibaMais: 'Nánar',
       legenda: 'Opnar {site} í vafranum.',
     },
@@ -185,7 +185,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Láttu hvötina bíða.',
       subtitulo:
-        'Veldu öppin sem stela tímanum þínum. Þegar löngunin kemur til að opna þau stendur AceleraLock í veginum.',
+        'Veldu öppin sem stela tímanum þínum. Þegar löngunin kemur til að opna þau stendur Instablock í veginum.',
       promessaBloqueio: 'Læsir öppunum og vefsvæðunum sem þú velur',
       promessaEspera: {
         one: 'Að skipta um skoðun getur kostað {n} mín. bið',
@@ -272,7 +272,7 @@ export const textos: Textos = {
         one: '{n} app er læst.',
         other: '{n} öpp eru læst.',
       },
-      subtitulo: 'Þegar löngunin kemur til að opna þau stendur AceleraLock í veginum.',
+      subtitulo: 'Þegar löngunin kemur til að opna þau stendur Instablock í veginum.',
       aPartirDeAgora: 'Héðan í frá',
       eMaisApps: {
         one: 'Og {n} app til, héðan í frá',
@@ -396,7 +396,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Virkjaðu lestur úr vafra til að læsa vefsvæðum',
       avisoAcessibilidadeMensagem:
-        'AceleraLock notar aðgengisþjónustu Android aðeins til að lesa vistfangið í veffangastikunni í Chrome, Samsung Internet, Firefox, Edge og Brave og bera það saman við listann þinn. Það les ekki efni síðna, geymir ekki hvað þú heimsækir og ekkert fer úr tækinu.',
+        'Instablock notar aðgengisþjónustu Android aðeins til að lesa vistfangið í veffangastikunni í Chrome, Samsung Internet, Firefox, Edge og Brave og bera það saman við listann þinn. Það les ekki efni síðna, geymir ekki hvað þú heimsækir og ekkert fer úr tækinu.',
       ativarNasConfiguracoes: 'Virkja í stillingum',
       erroAoLer:
         'Ekki tókst að lesa listann yfir vefsvæði. Farðu út af þessum skjá og inn á hann aftur til að reyna á ný.',
@@ -487,7 +487,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Um leið og þú notar símann birtast öppin hér.',
     historicoComecaTitulo: 'Ferillinn þinn byrjar núna',
     historicoComecaMensagem:
-      'Frá og með deginum í dag geymir AceleraLock hve miklum tíma þú eyðir á skjánum og þetta línurit fyllist af sjálfu sér.',
+      'Frá og með deginum í dag geymir Instablock hve miklum tíma þú eyðir á skjánum og þetta línurit fyllist af sjálfu sér.',
     ultimos7Dias: 'Síðustu 7 dagar',
     legendaEstimativa: 'áætlunin þín',
     legendaGraficoSemana: 'Skjátími síðustu 7 daga',

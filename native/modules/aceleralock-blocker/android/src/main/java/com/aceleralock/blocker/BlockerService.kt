@@ -256,7 +256,7 @@ class BlockerService : Service() {
             )
         }
         return Notification.Builder(this, BlockerTuning.NOTIFICATION_CHANNEL_ID)
-            .setContentTitle("AceleraLock")
+            .setContentTitle("Instablock")
             .setContentText(getString(R.string.aceleralock_notification_text))
             .setOngoing(true)
             .setSmallIcon(android.R.drawable.ic_lock_lock)

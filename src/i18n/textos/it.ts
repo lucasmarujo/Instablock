@@ -88,7 +88,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Non funziona ancora su iPhone',
       mensagem:
-        'Per ora AceleraLock blocca le app solo su Android. Su iPhone il blocco richiede un’autorizzazione speciale di Apple.',
+        'Per ora Instablock blocca le app solo su Android. Su iPhone il blocco richiede un’autorizzazione speciale di Apple.',
       saibaMais: 'Scopri di più',
       legenda: 'Apre {site} nel browser.',
     },
@@ -178,7 +178,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Fai aspettare l’impulso.',
       subtitulo:
-        'Scegli le app che ti rubano tempo. Quando ti viene voglia di aprirle, AceleraLock si mette in mezzo.',
+        'Scegli le app che ti rubano tempo. Quando ti viene voglia di aprirle, Instablock si mette in mezzo.',
       promessaBloqueio: 'Blocca le app e i siti che scegli',
       promessaEspera: {
         one: 'Cambiare idea può richiedere {n} min di attesa',
@@ -266,7 +266,7 @@ export const textos: Textos = {
         one: '{n} app bloccata.',
         other: '{n} app bloccate.',
       },
-      subtitulo: 'Quando ti viene voglia di aprirle, AceleraLock si mette in mezzo.',
+      subtitulo: 'Quando ti viene voglia di aprirle, Instablock si mette in mezzo.',
       aPartirDeAgora: 'Da adesso',
       eMaisApps: {
         one: 'E un’altra app, da adesso',
@@ -390,7 +390,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Attiva la lettura del browser per bloccare i siti',
       avisoAcessibilidadeMensagem:
-        'AceleraLock usa il servizio di accessibilità di Android solo per leggere l’indirizzo nella barra di Chrome, Samsung Internet, Firefox, Edge e Brave e confrontarlo con la tua lista. Non legge il contenuto delle pagine, non salva cosa visiti e nulla lascia il dispositivo.',
+        'Instablock usa il servizio di accessibilità di Android solo per leggere l’indirizzo nella barra di Chrome, Samsung Internet, Firefox, Edge e Brave e confrontarlo con la tua lista. Non legge il contenuto delle pagine, non salva cosa visiti e nulla lascia il dispositivo.',
       ativarNasConfiguracoes: 'Attiva nelle Impostazioni',
       erroAoLer:
         'Non è stato possibile leggere l’elenco dei siti. Esci e rientra in questa schermata per riprovare.',
@@ -483,7 +483,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Appena usi il telefono, le app compaiono qui.',
     historicoComecaTitulo: 'La tua cronologia inizia ora',
     historicoComecaMensagem:
-      'Da oggi AceleraLock registra quanto tempo passi sullo schermo, e questo grafico si riempie da solo.',
+      'Da oggi Instablock registra quanto tempo passi sullo schermo, e questo grafico si riempie da solo.',
     ultimos7Dias: 'Ultimi 7 giorni',
     legendaEstimativa: 'la tua stima',
     legendaGraficoSemana: 'Tempo di utilizzo negli ultimi 7 giorni',

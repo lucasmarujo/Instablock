@@ -8,7 +8,7 @@ const BADGE = require('../../assets/icon-1024.png');
 const ACELERADEV = require('../../assets/aceleradev-logo.png');
 
 /**
- * Splash de marca (docs/design-system.md §3.24): o badge do AceleraLock, o
+ * Splash de marca (docs/design-system.md §3.24): o badge do Instablock, o
  * nome, e a assinatura "Made By" + logo do AceleraDev.
  *
  * É uma tela do app, não a imagem da splash nativa, porque o lockup não cabe
@@ -34,7 +34,7 @@ export function SplashScreen() {
           resizeMode="contain"
           accessibilityIgnoresInvertColors
         />
-        <Text style={[styles.name, { color: theme.colors.textPrimary }]}>AceleraLock</Text>
+        <Text style={[styles.name, { color: theme.colors.textPrimary }]}>Instablock</Text>
       </View>
 
       <View style={styles.signature}>

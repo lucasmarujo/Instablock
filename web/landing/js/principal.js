@@ -168,7 +168,7 @@ function iniciarFraseDoBento() {
 
 /**
  * Heroi: o celular sobe e endireita conforme a pagina desce. Chamada final: ele
- * chega de costas e vira de frente — a logo do AceleraLock e a primeira coisa que
+ * chega de costas e vira de frente — a logo do Instablock e a primeira coisa que
  * aparece, as boas-vindas do app a ultima.
  */
 function iniciarPoses(aparelhos, registrarRolagem) {

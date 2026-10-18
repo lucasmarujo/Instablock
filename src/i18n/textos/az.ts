@@ -95,7 +95,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'iPhone-da hələ işləmir',
       mensagem:
-        'Hələlik AceleraLock tətbiqləri yalnız Android-də bloklayır. iPhone-da bloklama Apple-ın xüsusi icazəsindən asılıdır.',
+        'Hələlik Instablock tətbiqləri yalnız Android-də bloklayır. iPhone-da bloklama Apple-ın xüsusi icazəsindən asılıdır.',
       saibaMais: 'Ətraflı',
       legenda: '{site} saytını brauzerdə açır.',
     },
@@ -185,7 +185,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Həvəsi gözlətdirin.',
       subtitulo:
-        'Vaxtınızı oğurlayan tətbiqləri seçin. Açmaq istəyi gələndə AceleraLock yolunuza çıxacaq.',
+        'Vaxtınızı oğurlayan tətbiqləri seçin. Açmaq istəyi gələndə Instablock yolunuza çıxacaq.',
       promessaBloqueio: 'Seçdiyiniz tətbiq və saytları bloklayır',
       promessaEspera: {
         one: 'Fikrinizi dəyişmək {n} dəq gözləmə tələb edə bilər',
@@ -272,7 +272,7 @@ export const textos: Textos = {
         one: '{n} tətbiq bloklandı.',
         other: '{n} tətbiq bloklandı.',
       },
-      subtitulo: 'Açmaq istəyi gələndə AceleraLock yolunuza çıxacaq.',
+      subtitulo: 'Açmaq istəyi gələndə Instablock yolunuza çıxacaq.',
       aPartirDeAgora: 'İndidən etibarən',
       eMaisApps: {
         one: 'Və daha {n} tətbiq, indidən etibarən',
@@ -396,7 +396,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Saytları bloklamaq üçün brauzer oxunuşunu aktiv edin',
       avisoAcessibilidadeMensagem:
-        'AceleraLock Android-in əlçatanlıq xidmətindən yalnız Chrome, Samsung Internet, Firefox, Edge və Brave ünvan çubuğundakı ünvanı oxumaq və siyahınızla müqayisə etmək üçün istifadə edir. Səhifələrin məzmununu oxumur, ziyarət etdiklərinizi saxlamır və heç nə cihazdan çıxmır.',
+        'Instablock Android-in əlçatanlıq xidmətindən yalnız Chrome, Samsung Internet, Firefox, Edge və Brave ünvan çubuğundakı ünvanı oxumaq və siyahınızla müqayisə etmək üçün istifadə edir. Səhifələrin məzmununu oxumur, ziyarət etdiklərinizi saxlamır və heç nə cihazdan çıxmır.',
       ativarNasConfiguracoes: 'Ayarlarda aktiv et',
       erroAoLer: 'Sayt siyahısını oxumaq mümkün olmadı. Bu ekrandan çıxıb yenidən daxil olun.',
       campoRotulo: 'Sayt əlavə et',
@@ -486,7 +486,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Telefondan istifadə edən kimi tətbiqlər burada görünəcək.',
     historicoComecaTitulo: 'Tarixçəniz indi başlayır',
     historicoComecaMensagem:
-      'Bu gündən etibarən AceleraLock ekranda nə qədər vaxt keçirdiyinizi saxlayır və bu qrafik öz-özünə dolur.',
+      'Bu gündən etibarən Instablock ekranda nə qədər vaxt keçirdiyinizi saxlayır və bu qrafik öz-özünə dolur.',
     ultimos7Dias: 'Son 7 gün',
     legendaEstimativa: 'sizin təxminiz',
     legendaGraficoSemana: 'Son 7 gündə ekran vaxtı',

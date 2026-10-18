@@ -87,7 +87,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'iPhone дээр хараахан ажиллахгүй',
       mensagem:
-        'Одоогоор AceleraLock зөвхөн Android дээр аппуудыг блоклодог. iPhone дээр блоклох нь Apple-ийн тусгай зөвшөөрлөөс хамаардаг.',
+        'Одоогоор Instablock зөвхөн Android дээр аппуудыг блоклодог. iPhone дээр блоклох нь Apple-ийн тусгай зөвшөөрлөөс хамаардаг.',
       saibaMais: 'Дэлгэрэнгүй',
       legenda: '{site}-г хөтөч дээр нээнэ.',
     },
@@ -177,7 +177,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Шунаснаа хүлээлгээрэй.',
       subtitulo:
-        'Цагийг чинь булаадаг аппуудаа сонго. Онгойлгох хүсэл төрөхөд AceleraLock замд чинь саад болно.',
+        'Цагийг чинь булаадаг аппуудаа сонго. Онгойлгох хүсэл төрөхөд Instablock замд чинь саад болно.',
       promessaBloqueio: 'Таны сонгосон апп, сайтуудыг блоклоно',
       promessaEspera: {
         one: 'Шийдвэрээ өөрчлөхөд {n} мин хүлээх шаардлагатай байж болно',
@@ -264,7 +264,7 @@ export const textos: Textos = {
         one: '{n} апп блоклогдсон.',
         other: '{n} апп блоклогдсон.',
       },
-      subtitulo: 'Онгойлгох хүсэл төрөхөд AceleraLock замд чинь саад болно.',
+      subtitulo: 'Онгойлгох хүсэл төрөхөд Instablock замд чинь саад болно.',
       aPartirDeAgora: 'Одооноос эхлэн',
       eMaisApps: {
         one: 'Мөн {n} апп, одооноос эхлэн',
@@ -388,7 +388,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Сайт блоклохын тулд хөтчийг унших тохиргоог асаа',
       avisoAcessibilidadeMensagem:
-        'AceleraLock Android-ын хүртээмжийн үйлчилгээг зөвхөн Chrome, Samsung Internet, Firefox, Edge, Brave хөтчийн хаягийн мөрөнд байгаа хаягийг уншиж, таны жагсаалттай харьцуулахад ашигладаг. Хуудасны агуулгыг уншдаггүй, зочилсон зүйлийг тань хадгалдаггүй, юу ч төхөөрөмжөөс гардаггүй.',
+        'Instablock Android-ын хүртээмжийн үйлчилгээг зөвхөн Chrome, Samsung Internet, Firefox, Edge, Brave хөтчийн хаягийн мөрөнд байгаа хаягийг уншиж, таны жагсаалттай харьцуулахад ашигладаг. Хуудасны агуулгыг уншдаггүй, зочилсон зүйлийг тань хадгалдаггүй, юу ч төхөөрөмжөөс гардаггүй.',
       ativarNasConfiguracoes: 'Тохиргоонд асаах',
       erroAoLer: 'Сайтын жагсаалтыг уншиж чадсангүй. Энэ дэлгэцээс гараад дахин ороод үзээрэй.',
       campoRotulo: 'Сайт нэмэх',
@@ -478,7 +478,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Утсаа ашиглахад аппууд энд харагдана.',
     historicoComecaTitulo: 'Таны түүх одоо эхэлж байна',
     historicoComecaMensagem:
-      'Өнөөдрөөс эхлэн AceleraLock таны дэлгэцэнд өнгөрүүлсэн хугацааг хадгалж, энэ график өөрөө дүүрнэ.',
+      'Өнөөдрөөс эхлэн Instablock таны дэлгэцэнд өнгөрүүлсэн хугацааг хадгалж, энэ график өөрөө дүүрнэ.',
     ultimos7Dias: 'Сүүлийн 7 хоног',
     legendaEstimativa: 'таны таамаг',
     legendaGraficoSemana: 'Сүүлийн 7 өдрийн дэлгэцийн хугацаа',

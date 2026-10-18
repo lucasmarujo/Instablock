@@ -72,7 +72,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: '아직 iPhone에서는 작동하지 않아요',
       mensagem:
-        '지금은 AceleraLock이 Android에서만 앱을 차단해요. iPhone에서 차단하려면 Apple의 특별 승인이 필요해요.',
+        '지금은 Instablock이 Android에서만 앱을 차단해요. iPhone에서 차단하려면 Apple의 특별 승인이 필요해요.',
       saibaMais: '자세히 알아보기',
       legenda: '브라우저에서 {site} 사이트를 열어요.',
     },
@@ -159,7 +159,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: '충동은 잠시 기다리게 하세요.',
       subtitulo:
-        '내 시간을 빼앗는 앱을 고르세요. 열고 싶은 마음이 들 때 AceleraLock이 앞을 막아 줘요.',
+        '내 시간을 빼앗는 앱을 고르세요. 열고 싶은 마음이 들 때 Instablock이 앞을 막아 줘요.',
       promessaBloqueio: '직접 고른 앱과 사이트를 차단해요',
       promessaEspera: {
         other: '마음이 바뀌면 {n}분 대기 시간이 필요할 수 있어요',
@@ -238,7 +238,7 @@ export const textos: Textos = {
       variosAppsBloqueados: {
         other: '앱 {n}개를 차단했어요.',
       },
-      subtitulo: '열고 싶은 마음이 들 때 AceleraLock이 앞을 막아 줘요.',
+      subtitulo: '열고 싶은 마음이 들 때 Instablock이 앞을 막아 줘요.',
       aPartirDeAgora: '지금부터',
       eMaisApps: {
         other: '앱 {n}개 더, 지금부터',
@@ -348,7 +348,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: '사이트를 차단하려면 브라우저 주소 읽기를 켜세요',
       avisoAcessibilidadeMensagem:
-        'AceleraLock은 Android 접근성 서비스를 Chrome, Samsung Internet, Firefox, Edge, Brave 주소창의 주소를 읽고 내 목록과 비교하는 데만 사용해요. 페이지 내용은 읽지 않고, 방문한 곳을 저장하지 않으며, 아무것도 기기 밖으로 나가지 않아요.',
+        'Instablock은 Android 접근성 서비스를 Chrome, Samsung Internet, Firefox, Edge, Brave 주소창의 주소를 읽고 내 목록과 비교하는 데만 사용해요. 페이지 내용은 읽지 않고, 방문한 곳을 저장하지 않으며, 아무것도 기기 밖으로 나가지 않아요.',
       ativarNasConfiguracoes: '설정에서 켜기',
       erroAoLer: '사이트 목록을 읽지 못했어요. 이 화면을 나갔다가 다시 들어와 보세요.',
       campoRotulo: '사이트 추가',
@@ -436,7 +436,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: '휴대폰을 사용하면 여기에 앱이 나타나요.',
     historicoComecaTitulo: '지금부터 기록이 시작돼요',
     historicoComecaMensagem:
-      '오늘부터 AceleraLock이 화면 사용 시간을 기록하고, 이 그래프가 저절로 채워져요.',
+      '오늘부터 Instablock이 화면 사용 시간을 기록하고, 이 그래프가 저절로 채워져요.',
     ultimos7Dias: '최근 7일',
     legendaEstimativa: '내 예상',
     legendaGraficoSemana: '최근 7일 화면 사용 시간',

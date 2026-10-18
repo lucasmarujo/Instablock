@@ -1,4 +1,4 @@
-# CLAUDE.md — AceleraLock
+# CLAUDE.md — Instablock
 
 As convenções, comandos, armadilhas e fronteiras deste repositório estão no
 `AGENTS.md`, importado abaixo. Este arquivo guarda **só o que não está lá ou está

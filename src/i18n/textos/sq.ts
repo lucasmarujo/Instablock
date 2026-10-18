@@ -87,7 +87,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Ende nuk funksionon në iPhone',
       mensagem:
-        'Për momentin AceleraLock bllokon aplikacione vetëm në Android. Në iPhone, bllokimi varet nga një leje e veçantë e Apple.',
+        'Për momentin Instablock bllokon aplikacione vetëm në Android. Në iPhone, bllokimi varet nga një leje e veçantë e Apple.',
       saibaMais: 'Mëso më shumë',
       legenda: 'Hap {site} në shfletues.',
     },
@@ -177,7 +177,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Bëje impulsin të presë.',
       subtitulo:
-        'Zgjidh aplikacionet që të vjedhin kohën. Kur të vijë dëshira t’i hapësh, AceleraLock qëndron në rrugë.',
+        'Zgjidh aplikacionet që të vjedhin kohën. Kur të vijë dëshira t’i hapësh, Instablock qëndron në rrugë.',
       promessaBloqueio: 'Bllokon aplikacionet dhe faqet që zgjedh',
       promessaEspera: {
         one: 'Të ndryshosh mendje mund të kërkojë {n} min pritje',
@@ -264,7 +264,7 @@ export const textos: Textos = {
         one: '{n} aplikacion i bllokuar.',
         other: '{n} aplikacione të bllokuara.',
       },
-      subtitulo: 'Kur të vijë dëshira t’i hapësh, AceleraLock qëndron në rrugë.',
+      subtitulo: 'Kur të vijë dëshira t’i hapësh, Instablock qëndron në rrugë.',
       aPartirDeAgora: 'Nga tani e tutje',
       eMaisApps: {
         one: 'Dhe edhe {n} aplikacion, nga tani e tutje',
@@ -388,7 +388,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Aktivizo leximin e shfletuesit për të bllokuar faqe',
       avisoAcessibilidadeMensagem:
-        'AceleraLock përdor shërbimin e qasshmërisë së Android vetëm për të lexuar adresën në shiritin e Chrome, Samsung Internet, Firefox, Edge dhe Brave dhe për ta krahasuar me listën tënde. Nuk lexon përmbajtjen e faqeve, nuk ruan çfarë viziton dhe asgjë nuk del nga pajisja.',
+        'Instablock përdor shërbimin e qasshmërisë së Android vetëm për të lexuar adresën në shiritin e Chrome, Samsung Internet, Firefox, Edge dhe Brave dhe për ta krahasuar me listën tënde. Nuk lexon përmbajtjen e faqeve, nuk ruan çfarë viziton dhe asgjë nuk del nga pajisja.',
       ativarNasConfiguracoes: 'Aktivizo te Cilësimet',
       erroAoLer:
         'Nuk u lexua dot lista e faqeve. Del dhe hyr përsëri në këtë ekran për të provuar sërish.',
@@ -479,7 +479,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Sapo të përdorësh telefonin, aplikacionet shfaqen këtu.',
     historicoComecaTitulo: 'Historiku yt nis tani',
     historicoComecaMensagem:
-      'Nga sot AceleraLock ruan sa kohë kalon para ekranit, dhe ky grafik mbushet vetë.',
+      'Nga sot Instablock ruan sa kohë kalon para ekranit, dhe ky grafik mbushet vetë.',
     ultimos7Dias: '7 ditët e fundit',
     legendaEstimativa: 'vlerësimi yt',
     legendaGraficoSemana: 'Koha para ekranit në 7 ditët e fundit',

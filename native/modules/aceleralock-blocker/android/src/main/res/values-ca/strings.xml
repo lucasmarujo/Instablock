@@ -5,6 +5,6 @@
     <string name="aceleralock_block_close">Tanca</string>
     <string name="aceleralock_notification_channel">Protecció activa</string>
     <string name="aceleralock_notification_text">Protecció activa</string>
-    <string name="aceleralock_site_accessibility_label">AceleraLock: bloqueig de webs</string>
+    <string name="aceleralock_site_accessibility_label">Instablock: bloqueig de webs</string>
     <string name="aceleralock_site_accessibility_description">Només llegeix l’adreça de la barra de Chrome, Samsung Internet, Firefox, Edge i Brave per bloquejar els webs que has triat. No es desa res i res no surt del dispositiu.</string>
 </resources>

@@ -87,7 +87,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Encara no funciona a l’iPhone',
       mensagem:
-        'De moment, AceleraLock només bloqueja apps a Android. A l’iPhone, el bloqueig depèn d’una autorització especial d’Apple.',
+        'De moment, Instablock només bloqueja apps a Android. A l’iPhone, el bloqueig depèn d’una autorització especial d’Apple.',
       saibaMais: 'Més informació',
       legenda: 'Obre {site} al navegador.',
     },
@@ -177,7 +177,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Fes que l’impuls esperi.',
       subtitulo:
-        'Tria les apps que et roben temps. Quan et vinguin ganes d’obrir-les, AceleraLock s’hi posarà pel mig.',
+        'Tria les apps que et roben temps. Quan et vinguin ganes d’obrir-les, Instablock s’hi posarà pel mig.',
       promessaBloqueio: 'Bloqueja les apps i els webs que triïs',
       promessaEspera: {
         one: 'Canviar d’idea pot demanar {n} min d’espera',
@@ -264,7 +264,7 @@ export const textos: Textos = {
         one: '{n} app bloquejada.',
         other: '{n} apps bloquejades.',
       },
-      subtitulo: 'Quan et vinguin les ganes, AceleraLock s’hi posarà pel mig.',
+      subtitulo: 'Quan et vinguin les ganes, Instablock s’hi posarà pel mig.',
       aPartirDeAgora: 'A partir d’ara',
       eMaisApps: {
         one: 'I {n} app més, a partir d’ara',
@@ -388,7 +388,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Activa la lectura del navegador per bloquejar webs',
       avisoAcessibilidadeMensagem:
-        'AceleraLock fa servir el servei d’accessibilitat d’Android només per llegir l’adreça de la barra de Chrome, Samsung Internet, Firefox, Edge i Brave i comparar-la amb la teva llista. No llegeix el contingut de les pàgines, no desa el que visites i res no surt del dispositiu.',
+        'Instablock fa servir el servei d’accessibilitat d’Android només per llegir l’adreça de la barra de Chrome, Samsung Internet, Firefox, Edge i Brave i comparar-la amb la teva llista. No llegeix el contingut de les pàgines, no desa el que visites i res no surt del dispositiu.',
       ativarNasConfiguracoes: 'Activa-la a Configuració',
       erroAoLer:
         'No s’ha pogut llegir la llista de webs. Surt i torna a entrar en aquesta pantalla per tornar-ho a provar.',
@@ -481,7 +481,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Quan facis servir el mòbil, les apps apareixeran aquí.',
     historicoComecaTitulo: 'El teu historial comença ara',
     historicoComecaMensagem:
-      'A partir d’avui, AceleraLock desa quant de temps passes davant la pantalla, i aquest gràfic s’anirà omplint sol.',
+      'A partir d’avui, Instablock desa quant de temps passes davant la pantalla, i aquest gràfic s’anirà omplint sol.',
     ultimos7Dias: 'Últims 7 dies',
     legendaEstimativa: 'la teva estimació',
     legendaGraficoSemana: 'Temps de pantalla dels últims 7 dies',

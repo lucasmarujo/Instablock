@@ -88,7 +88,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Auf dem iPhone noch nicht verfügbar',
       mensagem:
-        'Vorerst sperrt AceleraLock Apps nur auf Android. Auf dem iPhone braucht das Sperren eine besondere Freigabe von Apple.',
+        'Vorerst sperrt Instablock Apps nur auf Android. Auf dem iPhone braucht das Sperren eine besondere Freigabe von Apple.',
       saibaMais: 'Mehr erfahren',
       legenda: 'Öffnet {site} im Browser.',
     },
@@ -178,7 +178,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Lass den Impuls warten.',
       subtitulo:
-        'Wähle die Apps, die dir Zeit stehlen. Wenn dich der Drang packt, sie zu öffnen, steht AceleraLock im Weg.',
+        'Wähle die Apps, die dir Zeit stehlen. Wenn dich der Drang packt, sie zu öffnen, steht Instablock im Weg.',
       promessaBloqueio: 'Sperrt die Apps und Websites, die du auswählst',
       promessaEspera: {
         one: 'Wenn du es dir anders überlegst, kann das {n} Min. Wartezeit kosten',
@@ -265,7 +265,7 @@ export const textos: Textos = {
         one: '{n} App gesperrt.',
         other: '{n} Apps gesperrt.',
       },
-      subtitulo: 'Wenn dich der Drang packt, sie zu öffnen, steht AceleraLock im Weg.',
+      subtitulo: 'Wenn dich der Drang packt, sie zu öffnen, steht Instablock im Weg.',
       aPartirDeAgora: 'Ab jetzt',
       eMaisApps: {
         one: 'Und eine weitere App, ab jetzt',
@@ -389,7 +389,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Aktiviere den Browser-Lesezugriff, um Websites zu sperren',
       avisoAcessibilidadeMensagem:
-        'AceleraLock nutzt den Bedienungshilfen-Dienst von Android nur, um die Adresse in der Adressleiste von Chrome, Samsung Internet, Firefox, Edge und Brave zu lesen und mit deiner Liste abzugleichen. Es liest keine Seiteninhalte, speichert nicht, was du besuchst, und nichts verlässt das Gerät.',
+        'Instablock nutzt den Bedienungshilfen-Dienst von Android nur, um die Adresse in der Adressleiste von Chrome, Samsung Internet, Firefox, Edge und Brave zu lesen und mit deiner Liste abzugleichen. Es liest keine Seiteninhalte, speichert nicht, was du besuchst, und nichts verlässt das Gerät.',
       ativarNasConfiguracoes: 'In den Einstellungen aktivieren',
       erroAoLer:
         'Die Website-Liste konnte nicht gelesen werden. Verlasse diesen Bildschirm und öffne ihn erneut, um es noch mal zu versuchen.',
@@ -482,7 +482,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Sobald du das Handy benutzt, erscheinen die Apps hier.',
     historicoComecaTitulo: 'Dein Verlauf beginnt jetzt',
     historicoComecaMensagem:
-      'Ab heute speichert AceleraLock, wie viel Zeit du am Bildschirm verbringst, und dieses Diagramm füllt sich von selbst.',
+      'Ab heute speichert Instablock, wie viel Zeit du am Bildschirm verbringst, und dieses Diagramm füllt sich von selbst.',
     ultimos7Dias: 'Letzte 7 Tage',
     legendaEstimativa: 'deine Schätzung',
     legendaGraficoSemana: 'Bildschirmzeit der letzten 7 Tage',

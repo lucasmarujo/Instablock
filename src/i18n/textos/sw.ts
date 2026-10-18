@@ -95,7 +95,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Bado haifanyi kazi kwenye iPhone',
       mensagem:
-        'Kwa sasa AceleraLock inazuia programu kwenye Android pekee. Kwenye iPhone, kuzuia kunahitaji idhini maalum kutoka Apple.',
+        'Kwa sasa Instablock inazuia programu kwenye Android pekee. Kwenye iPhone, kuzuia kunahitaji idhini maalum kutoka Apple.',
       saibaMais: 'Jifunze zaidi',
       legenda: 'Hufungua {site} kwenye kivinjari.',
     },
@@ -185,7 +185,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Fanya hamu isubiri.',
       subtitulo:
-        'Chagua programu zinazokuibia muda. Hamu ya kuzifungua ikikujia, AceleraLock inasimama njiani.',
+        'Chagua programu zinazokuibia muda. Hamu ya kuzifungua ikikujia, Instablock inasimama njiani.',
       promessaBloqueio: 'Huzuia programu na tovuti unazochagua',
       promessaEspera: {
         one: 'Kubadili uamuzi kunaweza kuhitaji kusubiri dakika {n}',
@@ -272,7 +272,7 @@ export const textos: Textos = {
         one: 'Programu {n} imezuiwa.',
         other: 'Programu {n} zimezuiwa.',
       },
-      subtitulo: 'Hamu ya kufungua ikikujia, AceleraLock inasimama njiani.',
+      subtitulo: 'Hamu ya kufungua ikikujia, Instablock inasimama njiani.',
       aPartirDeAgora: 'Kuanzia sasa',
       eMaisApps: {
         one: 'Na programu {n} nyingine, kuanzia sasa',
@@ -396,7 +396,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Washa kusoma kivinjari ili kuzuia tovuti',
       avisoAcessibilidadeMensagem:
-        'AceleraLock hutumia huduma ya ufikivu ya Android kusoma tu anwani kwenye upau wa Chrome, Samsung Internet, Firefox, Edge na Brave na kuilinganisha na orodha yako. Haisomi maudhui ya kurasa, haihifadhi unachotembelea, na hakuna kinachotoka kwenye kifaa.',
+        'Instablock hutumia huduma ya ufikivu ya Android kusoma tu anwani kwenye upau wa Chrome, Samsung Internet, Firefox, Edge na Brave na kuilinganisha na orodha yako. Haisomi maudhui ya kurasa, haihifadhi unachotembelea, na hakuna kinachotoka kwenye kifaa.',
       ativarNasConfiguracoes: 'Washa kwenye Mipangilio',
       erroAoLer: 'Orodha ya tovuti haikusomeka. Toka kwenye skrini hii na uingie tena ujaribu.',
       campoRotulo: 'Ongeza tovuti',
@@ -486,7 +486,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Ukishatumia simu, programu zitaonekana hapa.',
     historicoComecaTitulo: 'Historia yako inaanza sasa',
     historicoComecaMensagem:
-      'Kuanzia leo AceleraLock huhifadhi muda unaokaa kwenye skrini, na chati hii hujijaza yenyewe.',
+      'Kuanzia leo Instablock huhifadhi muda unaokaa kwenye skrini, na chati hii hujijaza yenyewe.',
     ultimos7Dias: 'Siku 7 zilizopita',
     legendaEstimativa: 'makadirio yako',
     legendaGraficoSemana: 'Muda wa skrini siku 7 zilizopita',

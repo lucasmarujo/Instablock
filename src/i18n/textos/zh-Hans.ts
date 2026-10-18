@@ -71,7 +71,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: '暂不支持 iPhone',
       mensagem:
-        '目前 AceleraLock 只能在 Android 上屏蔽应用。在 iPhone 上，屏蔽功能需要 Apple 的特别授权。',
+        '目前 Instablock 只能在 Android 上屏蔽应用。在 iPhone 上，屏蔽功能需要 Apple 的特别授权。',
       saibaMais: '了解详情',
       legenda: '在浏览器中打开 {site}。',
     },
@@ -157,7 +157,7 @@ export const textos: Textos = {
   onboarding: {
     boasVindas: {
       titulo: '让冲动等一等。',
-      subtitulo: '选出偷走你时间的应用。想打开它们的冲动一来，AceleraLock 就会挡在前面。',
+      subtitulo: '选出偷走你时间的应用。想打开它们的冲动一来，Instablock 就会挡在前面。',
       promessaBloqueio: '屏蔽你选择的应用和网站',
       promessaEspera: {
         other: '改变主意可能需要等待{n}分钟',
@@ -236,7 +236,7 @@ export const textos: Textos = {
       variosAppsBloqueados: {
         other: '{n}个应用已屏蔽。',
       },
-      subtitulo: '想打开它们的冲动一来，AceleraLock 就会挡在前面。',
+      subtitulo: '想打开它们的冲动一来，Instablock 就会挡在前面。',
       aPartirDeAgora: '从现在开始',
       eMaisApps: {
         other: '还有{n}个应用，从现在开始',
@@ -345,7 +345,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: '开启浏览器地址读取，才能屏蔽网站',
       avisoAcessibilidadeMensagem:
-        'AceleraLock 仅使用 Android 无障碍服务读取 Chrome、Samsung Internet、Firefox、Edge 和 Brave 地址栏中的网址，并与你的列表比对。它不会读取网页内容，不会保存你访问过的网站，任何数据都不会离开设备。',
+        'Instablock 仅使用 Android 无障碍服务读取 Chrome、Samsung Internet、Firefox、Edge 和 Brave 地址栏中的网址，并与你的列表比对。它不会读取网页内容，不会保存你访问过的网站，任何数据都不会离开设备。',
       ativarNasConfiguracoes: '前往设置开启',
       erroAoLer: '无法读取网站列表。请退出后重新进入此页面再试一次。',
       campoRotulo: '添加网站',
@@ -432,7 +432,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: '你开始使用手机后，应用就会显示在这里。',
     historicoComecaTitulo: '你的记录从现在开始',
     historicoComecaMensagem:
-      '从今天起，AceleraLock 会记录你每天使用屏幕的时长，这张图表会自动填满。',
+      '从今天起，Instablock 会记录你每天使用屏幕的时长，这张图表会自动填满。',
     ultimos7Dias: '最近7天',
     legendaEstimativa: '你的预估',
     legendaGraficoSemana: '最近7天的屏幕使用时间',

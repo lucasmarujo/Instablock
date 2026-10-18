@@ -107,7 +107,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'لا يعمل على iPhone بعد',
       mensagem:
-        'حاليًا، يحظر AceleraLock التطبيقات على Android فقط. أما على iPhone، فالحظر يحتاج إلى إذن خاص من Apple.',
+        'حاليًا، يحظر Instablock التطبيقات على Android فقط. أما على iPhone، فالحظر يحتاج إلى إذن خاص من Apple.',
       saibaMais: 'اعرف المزيد',
       legenda: 'يفتح {site} في المتصفح.',
     },
@@ -209,7 +209,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'اجعل الرغبة تنتظر.',
       subtitulo:
-        'اختر التطبيقات التي تسرق وقتك. وحين تشعر برغبة في فتحها، يقف AceleraLock في الطريق.',
+        'اختر التطبيقات التي تسرق وقتك. وحين تشعر برغبة في فتحها، يقف Instablock في الطريق.',
       promessaBloqueio: 'يحظر التطبيقات والمواقع التي تختارها',
       promessaEspera: {
         zero: 'قد يتطلب تغيير رأيك انتظار {n} دقيقة',
@@ -324,7 +324,7 @@ export const textos: Textos = {
         many: 'تم حظر {n} تطبيقًا.',
         other: 'تم حظر {n} تطبيق.',
       },
-      subtitulo: 'وحين تشعر برغبة في الفتح، يقف AceleraLock في الطريق.',
+      subtitulo: 'وحين تشعر برغبة في الفتح، يقف Instablock في الطريق.',
       aPartirDeAgora: 'بدءًا من الآن',
       eMaisApps: {
         zero: 'و{n} تطبيق آخر، بدءًا من الآن',
@@ -500,7 +500,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'فعّل قراءة المتصفح لحظر المواقع',
       avisoAcessibilidadeMensagem:
-        'يستخدم AceleraLock خدمة سهولة الاستخدام في Android فقط لقراءة العنوان في شريط Chrome وSamsung Internet وFirefox وEdge وBrave ومقارنته بقائمتك. لا يقرأ محتوى الصفحات، ولا يحفظ ما تزوره، ولا يغادر أي شيء الجهاز.',
+        'يستخدم Instablock خدمة سهولة الاستخدام في Android فقط لقراءة العنوان في شريط Chrome وSamsung Internet وFirefox وEdge وBrave ومقارنته بقائمتك. لا يقرأ محتوى الصفحات، ولا يحفظ ما تزوره، ولا يغادر أي شيء الجهاز.',
       ativarNasConfiguracoes: 'التفعيل من الإعدادات',
       erroAoLer:
         'تعذّرت قراءة قائمة المواقع. اخرج من هذه الشاشة ثم ادخلها من جديد للمحاولة مرة أخرى.',
@@ -599,7 +599,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'بمجرد أن تستخدم الهاتف، ستظهر التطبيقات هنا.',
     historicoComecaTitulo: 'سجلّك يبدأ الآن',
     historicoComecaMensagem:
-      'بدءًا من اليوم، يحفظ AceleraLock الوقت الذي تقضيه أمام الشاشة، وسيمتلئ هذا الرسم البياني تلقائيًا.',
+      'بدءًا من اليوم، يحفظ Instablock الوقت الذي تقضيه أمام الشاشة، وسيمتلئ هذا الرسم البياني تلقائيًا.',
     ultimos7Dias: 'آخر 7 أيام',
     legendaEstimativa: 'تقديرك',
     legendaGraficoSemana: 'وقت الشاشة في آخر 7 أيام',

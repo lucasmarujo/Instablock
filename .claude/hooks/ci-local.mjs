@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// CI local do AceleraLock — o mesmo conjunto que .github/workflows/ci.yml roda,
+// CI local do Instablock — o mesmo conjunto que .github/workflows/ci.yml roda,
 // so que antes do push em vez de depois.
 //
 // Tres momentos num arquivo so porque os tres compartilham o mesmo estado e o
@@ -313,9 +313,10 @@ function stop() {
   if (!falha) {
     gravarEstado({ ...ESTADO_LIMPO, ultimoResultado: 'verde' });
     console.log(
-      ['CI local verde (' + rotulo(escopos) + ') — o mesmo conjunto que o CI roda.', ...avisos].join(
-        '\n'
-      )
+      [
+        'CI local verde (' + rotulo(escopos) + ') — o mesmo conjunto que o CI roda.',
+        ...avisos,
+      ].join('\n')
     );
     return 0;
   }
@@ -404,14 +405,9 @@ function verificar() {
 
   gravarEstado({ ...lerEstado(), ultimoResultado: 'vermelho', falha, detalhe });
   console.log(
-    [
-      'VERMELHO em `' + falha + '`.',
-      '',
-      detalhe,
-      '',
-      'Reproduz com: ' + remedio,
-      ...avisos,
-    ].join('\n')
+    ['VERMELHO em `' + falha + '`.', '', detalhe, '', 'Reproduz com: ' + remedio, ...avisos].join(
+      '\n'
+    )
   );
   return 1;
 }
@@ -457,7 +453,9 @@ function contar() {
     [
       'JS    (tests/*.test.ts)  ' + totalJs,
       lidos
-        ? 'Kotlin (core, do XML)    ' + totalKotlin + (falhasKotlin ? '  FALHAS: ' + falhasKotlin : '')
+        ? 'Kotlin (core, do XML)    ' +
+          totalKotlin +
+          (falhasKotlin ? '  FALHAS: ' + falhasKotlin : '')
         : 'Kotlin (core)            nao contado — ' +
           (gradle ? 'sem XML em ' + path.relative(RAIZ, dirXml) : 'gradle nao encontrado'),
       'TOTAL                    ' + (totalJs + totalKotlin),
@@ -493,6 +491,8 @@ if (!ehEntryPoint) {
 } else if (modo in MODOS) {
   process.exit(MODOS[modo](MODOS_MANUAIS.has(modo) ? {} : lerEntrada()));
 } else if (modo) {
-  process.stderr.write('Modo desconhecido: ' + modo + '. Use ' + Object.keys(MODOS).join(' | ') + '\n');
+  process.stderr.write(
+    'Modo desconhecido: ' + modo + '. Use ' + Object.keys(MODOS).join(' | ') + '\n'
+  );
   process.exit(1);
 }

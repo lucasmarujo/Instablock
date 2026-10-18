@@ -94,7 +94,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Поки що не працює на iPhone',
       mensagem:
-        'Поки що AceleraLock блокує застосунки лише на Android. На iPhone для блокування потрібен спеціальний дозвіл від Apple.',
+        'Поки що Instablock блокує застосунки лише на Android. На iPhone для блокування потрібен спеціальний дозвіл від Apple.',
       saibaMais: 'Докладніше',
       legenda: 'Відкриє {site} у браузері.',
     },
@@ -190,7 +190,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Нехай імпульс зачекає.',
       subtitulo:
-        'Обери застосунки, які крадуть твій час. Коли захочеться їх відкрити, AceleraLock стане на шляху.',
+        'Обери застосунки, які крадуть твій час. Коли захочеться їх відкрити, Instablock стане на шляху.',
       promessaBloqueio: 'Блокує застосунки й сайти, які ти обереш',
       promessaEspera: {
         one: 'Щоб передумати, може знадобитися {n} хв очікування',
@@ -291,7 +291,7 @@ export const textos: Textos = {
         many: 'Заблоковано {n} застосунків.',
         other: 'Заблоковано {n} застосунки.',
       },
-      subtitulo: 'Коли захочеться відкрити, AceleraLock стане на шляху.',
+      subtitulo: 'Коли захочеться відкрити, Instablock стане на шляху.',
       aPartirDeAgora: 'Відтепер',
       eMaisApps: {
         one: 'І ще {n} застосунок, відтепер',
@@ -441,7 +441,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Увімкни читання адресного рядка, щоб блокувати сайти',
       avisoAcessibilidadeMensagem:
-        'AceleraLock використовує службу спеціальних можливостей Android лише для того, щоб читати адресу в рядку Chrome, Samsung Internet, Firefox, Edge і Brave та порівнювати її з твоїм списком. Він не читає вміст сторінок, не зберігає, що ти відвідуєш, і ніщо не покидає пристрій.',
+        'Instablock використовує службу спеціальних можливостей Android лише для того, щоб читати адресу в рядку Chrome, Samsung Internet, Firefox, Edge і Brave та порівнювати її з твоїм списком. Він не читає вміст сторінок, не зберігає, що ти відвідуєш, і ніщо не покидає пристрій.',
       ativarNasConfiguracoes: 'Увімкнути в Налаштуваннях',
       erroAoLer:
         'Не вдалося прочитати список сайтів. Вийди й знову відкрий цей екран, щоб спробувати ще раз.',
@@ -537,7 +537,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Щойно ти скористаєшся телефоном, застосунки з’являться тут.',
     historicoComecaTitulo: 'Твоя історія починається зараз',
     historicoComecaMensagem:
-      'Від сьогодні AceleraLock записує, скільки часу ти проводиш перед екраном, і цей графік заповнюватиметься сам.',
+      'Від сьогодні Instablock записує, скільки часу ти проводиш перед екраном, і цей графік заповнюватиметься сам.',
     ultimos7Dias: 'Останні 7 днів',
     legendaEstimativa: 'твоя оцінка',
     legendaGraficoSemana: 'Екранний час за останні 7 днів',

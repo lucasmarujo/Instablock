@@ -87,7 +87,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'ಇನ್ನೂ iPhone ನಲ್ಲಿ ಕೆಲಸ ಮಾಡುವುದಿಲ್ಲ',
       mensagem:
-        'ಸದ್ಯಕ್ಕೆ AceleraLock Android ನಲ್ಲಿ ಮಾತ್ರ ಆ್ಯಪ್‌ಗಳನ್ನು ಬ್ಲಾಕ್ ಮಾಡುತ್ತದೆ. iPhone ನಲ್ಲಿ ಬ್ಲಾಕ್ ಮಾಡಲು Apple ನ ವಿಶೇಷ ಅನುಮತಿ ಬೇಕು.',
+        'ಸದ್ಯಕ್ಕೆ Instablock Android ನಲ್ಲಿ ಮಾತ್ರ ಆ್ಯಪ್‌ಗಳನ್ನು ಬ್ಲಾಕ್ ಮಾಡುತ್ತದೆ. iPhone ನಲ್ಲಿ ಬ್ಲಾಕ್ ಮಾಡಲು Apple ನ ವಿಶೇಷ ಅನುಮತಿ ಬೇಕು.',
       saibaMais: 'ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ',
       legenda: 'ಬ್ರೌಸರ್‌ನಲ್ಲಿ {site} ತೆರೆಯುತ್ತದೆ.',
     },
@@ -177,7 +177,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'ಆಸೆ ಕಾಯುವಂತೆ ಮಾಡಿ.',
       subtitulo:
-        'ನಿಮ್ಮ ಸಮಯ ಕದಿಯುವ ಆ್ಯಪ್‌ಗಳನ್ನು ಆರಿಸಿ. ತೆರೆಯುವ ಆಸೆ ಬಂದಾಗ AceleraLock ದಾರಿಗೆ ಅಡ್ಡ ಬರುತ್ತದೆ.',
+        'ನಿಮ್ಮ ಸಮಯ ಕದಿಯುವ ಆ್ಯಪ್‌ಗಳನ್ನು ಆರಿಸಿ. ತೆರೆಯುವ ಆಸೆ ಬಂದಾಗ Instablock ದಾರಿಗೆ ಅಡ್ಡ ಬರುತ್ತದೆ.',
       promessaBloqueio: 'ನೀವು ಆರಿಸಿದ ಆ್ಯಪ್ ಮತ್ತು ಸೈಟ್‌ಗಳನ್ನು ಬ್ಲಾಕ್ ಮಾಡುತ್ತದೆ',
       promessaEspera: {
         one: 'ಮನಸ್ಸು ಬದಲಿಸಲು {n} ನಿಮಿಷ ಕಾಯಬೇಕಾಗಬಹುದು',
@@ -264,7 +264,7 @@ export const textos: Textos = {
         one: '{n} ಆ್ಯಪ್ ಬ್ಲಾಕ್ ಆಗಿದೆ.',
         other: '{n} ಆ್ಯಪ್‌ಗಳು ಬ್ಲಾಕ್ ಆಗಿವೆ.',
       },
-      subtitulo: 'ತೆರೆಯುವ ಆಸೆ ಬಂದಾಗ AceleraLock ದಾರಿಗೆ ಅಡ್ಡ ಬರುತ್ತದೆ.',
+      subtitulo: 'ತೆರೆಯುವ ಆಸೆ ಬಂದಾಗ Instablock ದಾರಿಗೆ ಅಡ್ಡ ಬರುತ್ತದೆ.',
       aPartirDeAgora: 'ಇಂದಿನಿಂದ',
       eMaisApps: {
         one: 'ಮತ್ತು ಇನ್ನೂ {n} ಆ್ಯಪ್, ಇಂದಿನಿಂದ',
@@ -389,7 +389,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'ಸೈಟ್‌ಗಳನ್ನು ಬ್ಲಾಕ್ ಮಾಡಲು ಬ್ರೌಸರ್ ಓದುವಿಕೆಯನ್ನು ಆನ್ ಮಾಡಿ',
       avisoAcessibilidadeMensagem:
-        'AceleraLock Android ನ ಪ್ರವೇಶಸಾಧ್ಯತಾ ಸೇವೆಯನ್ನು Chrome, Samsung Internet, Firefox, Edge ಮತ್ತು Brave ನ ವಿಳಾಸ ಪಟ್ಟಿಯಲ್ಲಿರುವ ವಿಳಾಸ ಓದಿ ನಿಮ್ಮ ಪಟ್ಟಿಯೊಂದಿಗೆ ಹೋಲಿಸಲು ಮಾತ್ರ ಬಳಸುತ್ತದೆ. ಪುಟಗಳ ವಿಷಯವನ್ನು ಓದುವುದಿಲ್ಲ, ನೀವು ನೋಡಿದ್ದನ್ನು ಉಳಿಸುವುದಿಲ್ಲ, ಮತ್ತು ಏನೂ ಸಾಧನದಿಂದ ಹೊರಹೋಗುವುದಿಲ್ಲ.',
+        'Instablock Android ನ ಪ್ರವೇಶಸಾಧ್ಯತಾ ಸೇವೆಯನ್ನು Chrome, Samsung Internet, Firefox, Edge ಮತ್ತು Brave ನ ವಿಳಾಸ ಪಟ್ಟಿಯಲ್ಲಿರುವ ವಿಳಾಸ ಓದಿ ನಿಮ್ಮ ಪಟ್ಟಿಯೊಂದಿಗೆ ಹೋಲಿಸಲು ಮಾತ್ರ ಬಳಸುತ್ತದೆ. ಪುಟಗಳ ವಿಷಯವನ್ನು ಓದುವುದಿಲ್ಲ, ನೀವು ನೋಡಿದ್ದನ್ನು ಉಳಿಸುವುದಿಲ್ಲ, ಮತ್ತು ಏನೂ ಸಾಧನದಿಂದ ಹೊರಹೋಗುವುದಿಲ್ಲ.',
       ativarNasConfiguracoes: 'ಸೆಟ್ಟಿಂಗ್ಸ್‌ನಲ್ಲಿ ಆನ್ ಮಾಡಿ',
       erroAoLer: 'ಸೈಟ್ ಪಟ್ಟಿಯನ್ನು ಓದಲಾಗಲಿಲ್ಲ. ಈ ಪರದೆಯಿಂದ ಹೊರಬಂದು ಮತ್ತೆ ಒಳಗೆ ಬಂದು ಪ್ರಯತ್ನಿಸಿ.',
       campoRotulo: 'ಸೈಟ್ ಸೇರಿಸಿ',
@@ -480,7 +480,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'ನೀವು ಫೋನ್ ಬಳಸಿದ ತಕ್ಷಣ ಆ್ಯಪ್‌ಗಳು ಇಲ್ಲಿ ಕಾಣಿಸುತ್ತವೆ.',
     historicoComecaTitulo: 'ನಿಮ್ಮ ಇತಿಹಾಸ ಈಗ ಶುರುವಾಗುತ್ತದೆ',
     historicoComecaMensagem:
-      'ಇಂದಿನಿಂದ AceleraLock ನೀವು ಪರದೆಯಲ್ಲಿ ಕಳೆಯುವ ಸಮಯವನ್ನು ಉಳಿಸುತ್ತದೆ, ಮತ್ತು ಈ ಗ್ರಾಫ್ ತಾನಾಗಿ ತುಂಬುತ್ತದೆ.',
+      'ಇಂದಿನಿಂದ Instablock ನೀವು ಪರದೆಯಲ್ಲಿ ಕಳೆಯುವ ಸಮಯವನ್ನು ಉಳಿಸುತ್ತದೆ, ಮತ್ತು ಈ ಗ್ರಾಫ್ ತಾನಾಗಿ ತುಂಬುತ್ತದೆ.',
     ultimos7Dias: 'ಕಳೆದ 7 ದಿನಗಳು',
     legendaEstimativa: 'ನಿಮ್ಮ ಅಂದಾಜು',
     legendaGraficoSemana: 'ಕಳೆದ 7 ದಿನಗಳ ಸ್ಕ್ರೀನ್ ಸಮಯ',

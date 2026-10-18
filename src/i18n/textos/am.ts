@@ -87,7 +87,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'በiPhone ላይ ገና አይሠራም',
       mensagem:
-        'በአሁኑ ጊዜ AceleraLock መተግበሪያዎችን የሚያግደው በAndroid ላይ ብቻ ነው። በiPhone ላይ ማገድ ከApple ልዩ ፈቃድ ይፈልጋል።',
+        'በአሁኑ ጊዜ Instablock መተግበሪያዎችን የሚያግደው በAndroid ላይ ብቻ ነው። በiPhone ላይ ማገድ ከApple ልዩ ፈቃድ ይፈልጋል።',
       saibaMais: 'ተጨማሪ ይወቁ',
       legenda: '{site}ን በአሳሽ ውስጥ ይከፍታል።',
     },
@@ -176,7 +176,7 @@ export const textos: Textos = {
   onboarding: {
     boasVindas: {
       titulo: 'ፍላጎቱ እንዲጠብቅ ያድርጉ።',
-      subtitulo: 'ጊዜዎን የሚሰርቁ መተግበሪያዎችን ይምረጡ። ለመክፈት ሲፈልጉ AceleraLock በመንገዱ ላይ ይቆማል።',
+      subtitulo: 'ጊዜዎን የሚሰርቁ መተግበሪያዎችን ይምረጡ። ለመክፈት ሲፈልጉ Instablock በመንገዱ ላይ ይቆማል።',
       promessaBloqueio: 'የመረጧቸውን መተግበሪያዎች እና ድር ጣቢያዎች ያግዳል',
       promessaEspera: {
         one: 'ሐሳብ መለወጥ የ{n} ደቂቃ መጠበቅ ሊጠይቅ ይችላል',
@@ -262,7 +262,7 @@ export const textos: Textos = {
         one: '{n} መተግበሪያ ታግዷል።',
         other: '{n} መተግበሪያዎች ታግደዋል።',
       },
-      subtitulo: 'ለመክፈት ሲፈልጉ AceleraLock በመንገዱ ላይ ይቆማል።',
+      subtitulo: 'ለመክፈት ሲፈልጉ Instablock በመንገዱ ላይ ይቆማል።',
       aPartirDeAgora: 'ከአሁን ጀምሮ',
       eMaisApps: {
         one: 'እና ተጨማሪ {n} መተግበሪያ፣ ከአሁን ጀምሮ',
@@ -385,7 +385,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'ድር ጣቢያዎችን ለማገድ የአሳሽ ንባብን ያንቁ',
       avisoAcessibilidadeMensagem:
-        'AceleraLock የAndroid ተደራሽነት አገልግሎትን የሚጠቀመው በChrome፣ Samsung Internet፣ Firefox፣ Edge እና Brave የአድራሻ አሞሌ ላይ ያለውን አድራሻ አንብቦ ከዝርዝርዎ ጋር ለማወዳደር ብቻ ነው። የገጾችን ይዘት አያነብም፣ የጎበኟቸውን አያስቀምጥም፣ ምንም ነገርም ከመሣሪያው አይወጣም።',
+        'Instablock የAndroid ተደራሽነት አገልግሎትን የሚጠቀመው በChrome፣ Samsung Internet፣ Firefox፣ Edge እና Brave የአድራሻ አሞሌ ላይ ያለውን አድራሻ አንብቦ ከዝርዝርዎ ጋር ለማወዳደር ብቻ ነው። የገጾችን ይዘት አያነብም፣ የጎበኟቸውን አያስቀምጥም፣ ምንም ነገርም ከመሣሪያው አይወጣም።',
       ativarNasConfiguracoes: 'በቅንብሮች ውስጥ አንቃ',
       erroAoLer: 'የድር ጣቢያዎቹ ዝርዝር ሊነበብ አልቻለም። ከዚህ ማያ ገጽ ወጥተው እንደገና ይግቡና ይሞክሩ።',
       campoRotulo: 'ድር ጣቢያ ጨምር',
@@ -473,7 +473,7 @@ export const textos: Textos = {
     nadaRegistradoTitulo: 'ዛሬ ምንም አልተመዘገበም',
     nadaRegistradoMensagem: 'ስልኩን እንደተጠቀሙ መተግበሪያዎቹ እዚህ ይታያሉ።',
     historicoComecaTitulo: 'ታሪክዎ አሁን ይጀምራል',
-    historicoComecaMensagem: 'ከዛሬ ጀምሮ AceleraLock በማያ ገጽ ላይ ያሳለፉትን ጊዜ ያስቀምጣል፣ ይህም ገበታ ራሱ ይሞላል።',
+    historicoComecaMensagem: 'ከዛሬ ጀምሮ Instablock በማያ ገጽ ላይ ያሳለፉትን ጊዜ ያስቀምጣል፣ ይህም ገበታ ራሱ ይሞላል።',
     ultimos7Dias: 'ያለፉት 7 ቀናት',
     legendaEstimativa: 'የእርስዎ ግምት',
     legendaGraficoSemana: 'ባለፉት 7 ቀናት የማያ ገጽ ጊዜ',

@@ -84,7 +84,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'មិនទាន់ដំណើរការលើ iPhone ទេ',
       mensagem:
-        'បច្ចុប្បន្ន AceleraLock ទប់ស្កាត់កម្មវិធីបានតែលើ Android ប៉ុណ្ណោះ។ លើ iPhone ការទប់ស្កាត់ពឹងលើការអនុញ្ញាតពិសេសពី Apple។',
+        'បច្ចុប្បន្ន Instablock ទប់ស្កាត់កម្មវិធីបានតែលើ Android ប៉ុណ្ណោះ។ លើ iPhone ការទប់ស្កាត់ពឹងលើការអនុញ្ញាតពិសេសពី Apple។',
       saibaMais: 'ស្វែងយល់បន្ថែម',
       legenda: 'បើក {site} ក្នុងកម្មវិធីរុករក។',
     },
@@ -170,7 +170,7 @@ export const textos: Textos = {
   onboarding: {
     boasVindas: {
       titulo: 'ឲ្យចំណង់រង់ចាំ។',
-      subtitulo: 'ជ្រើសរើសកម្មវិធីដែលលួចពេលវេលារបស់អ្នក។ នៅពេលចង់បើកវា AceleraLock នឹងឈរនៅចន្លោះ។',
+      subtitulo: 'ជ្រើសរើសកម្មវិធីដែលលួចពេលវេលារបស់អ្នក។ នៅពេលចង់បើកវា Instablock នឹងឈរនៅចន្លោះ។',
       promessaBloqueio: 'ទប់ស្កាត់កម្មវិធី និងគេហទំព័រដែលអ្នកជ្រើសរើស',
       promessaEspera: {
         other: 'ការប្ដូរចិត្តអាចត្រូវរង់ចាំ {n} នាទី',
@@ -249,7 +249,7 @@ export const textos: Textos = {
       variosAppsBloqueados: {
         other: '{n} កម្មវិធីត្រូវបានទប់ស្កាត់។',
       },
-      subtitulo: 'នៅពេលចង់បើកវា AceleraLock នឹងឈរនៅចន្លោះ។',
+      subtitulo: 'នៅពេលចង់បើកវា Instablock នឹងឈរនៅចន្លោះ។',
       aPartirDeAgora: 'ចាប់ពីពេលនេះទៅ',
       eMaisApps: {
         other: 'និងកម្មវិធីបន្ថែម {n} ទៀត ចាប់ពីពេលនេះទៅ',
@@ -360,7 +360,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'បើកការអានកម្មវិធីរុករក ដើម្បីទប់ស្កាត់គេហទំព័រ',
       avisoAcessibilidadeMensagem:
-        'AceleraLock ប្រើសេវាភាពងាយស្រួលរបស់ Android ដើម្បីអានតែអាសយដ្ឋានក្នុងរបារនៃ Chrome, Samsung Internet, Firefox, Edge និង Brave ហើយប្រៀបធៀបនឹងបញ្ជីរបស់អ្នក។ វាមិនអានមាតិកាទំព័រ មិនរក្សាទុកអ្វីដែលអ្នកចូលមើល ហើយគ្មានអ្វីចេញពីឧបករណ៍ទេ។',
+        'Instablock ប្រើសេវាភាពងាយស្រួលរបស់ Android ដើម្បីអានតែអាសយដ្ឋានក្នុងរបារនៃ Chrome, Samsung Internet, Firefox, Edge និង Brave ហើយប្រៀបធៀបនឹងបញ្ជីរបស់អ្នក។ វាមិនអានមាតិកាទំព័រ មិនរក្សាទុកអ្វីដែលអ្នកចូលមើល ហើយគ្មានអ្វីចេញពីឧបករណ៍ទេ។',
       ativarNasConfiguracoes: 'បើកក្នុងការកំណត់',
       erroAoLer: 'មិនអាចអានបញ្ជីគេហទំព័របានទេ។ ចាកចេញ ហើយចូលអេក្រង់នេះម្ដងទៀត។',
       campoRotulo: 'បន្ថែមគេហទំព័រ',
@@ -449,7 +449,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'ពេលអ្នកប្រើទូរសព្ទ កម្មវិធីនានានឹងលេចឡើងនៅទីនេះ។',
     historicoComecaTitulo: 'ប្រវត្តិរបស់អ្នកចាប់ផ្ដើមពីឥឡូវ',
     historicoComecaMensagem:
-      'ចាប់ពីថ្ងៃនេះ AceleraLock រក្សាទុកពេលវេលាដែលអ្នកចំណាយលើអេក្រង់ ហើយតារាងនេះនឹងពេញដោយខ្លួនឯង។',
+      'ចាប់ពីថ្ងៃនេះ Instablock រក្សាទុកពេលវេលាដែលអ្នកចំណាយលើអេក្រង់ ហើយតារាងនេះនឹងពេញដោយខ្លួនឯង។',
     ultimos7Dias: '៧ ថ្ងៃចុងក្រោយ',
     legendaEstimativa: 'ការប៉ាន់ស្មានរបស់អ្នក',
     legendaGraficoSemana: 'ពេលវេលាអេក្រង់ក្នុង ៧ ថ្ងៃចុងក្រោយ',

@@ -87,7 +87,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'iPhone-да әлі жұмыс істемейді',
       mensagem:
-        'Әзірге AceleraLock қолданбаларды тек Android-та бұғаттайды. iPhone-да бұғаттау Apple-дің арнайы рұқсатына байланысты.',
+        'Әзірге Instablock қолданбаларды тек Android-та бұғаттайды. iPhone-да бұғаттау Apple-дің арнайы рұқсатына байланысты.',
       saibaMais: 'Толығырақ',
       legenda: '{site} сайтын браузерде ашады.',
     },
@@ -177,7 +177,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Қалауды күттіріңіз.',
       subtitulo:
-        'Уақытыңызды ұрлайтын қолданбаларды таңдаңыз. Ашқыңыз келген сәтте AceleraLock жолыңызда тұрады.',
+        'Уақытыңызды ұрлайтын қолданбаларды таңдаңыз. Ашқыңыз келген сәтте Instablock жолыңызда тұрады.',
       promessaBloqueio: 'Таңдаған қолданбалар мен сайттарды бұғаттайды',
       promessaEspera: {
         one: 'Шешіміңізді өзгерту {n} мин күтуді талап етуі мүмкін',
@@ -264,7 +264,7 @@ export const textos: Textos = {
         one: '{n} қолданба бұғатталды.',
         other: '{n} қолданба бұғатталды.',
       },
-      subtitulo: 'Ашқыңыз келген сәтте AceleraLock жолыңызда тұрады.',
+      subtitulo: 'Ашқыңыз келген сәтте Instablock жолыңызда тұрады.',
       aPartirDeAgora: 'Қазірден бастап',
       eMaisApps: {
         one: 'Тағы {n} қолданба, қазірден бастап',
@@ -388,7 +388,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Сайттарды бұғаттау үшін браузерді оқуды қосыңыз',
       avisoAcessibilidadeMensagem:
-        'AceleraLock Android арнайы мүмкіндіктер қызметін Chrome, Samsung Internet, Firefox, Edge және Brave шолғыштарының мекенжай жолағындағы мекенжайды оқып, тізіміңізбен салыстыру үшін ғана пайдаланады. Беттердің мазмұнын оқымайды, кірген сайттарыңызды сақтамайды және ештеңе құрылғыдан шықпайды.',
+        'Instablock Android арнайы мүмкіндіктер қызметін Chrome, Samsung Internet, Firefox, Edge және Brave шолғыштарының мекенжай жолағындағы мекенжайды оқып, тізіміңізбен салыстыру үшін ғана пайдаланады. Беттердің мазмұнын оқымайды, кірген сайттарыңызды сақтамайды және ештеңе құрылғыдан шықпайды.',
       ativarNasConfiguracoes: 'Баптаулардан қосу',
       erroAoLer: 'Сайттар тізімін оқу мүмкін болмады. Бұл экраннан шығып, қайта кіріп көріңіз.',
       campoRotulo: 'Сайт қосу',
@@ -480,7 +480,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Телефонды пайдаланғаннан кейін қолданбалар осында шығады.',
     historicoComecaTitulo: 'Тарихыңыз қазір басталады',
     historicoComecaMensagem:
-      'Бүгіннен бастап AceleraLock экранда қанша уақыт өткізетініңізді сақтайды, ал бұл график өздігінен толады.',
+      'Бүгіннен бастап Instablock экранда қанша уақыт өткізетініңізді сақтайды, ал бұл график өздігінен толады.',
     ultimos7Dias: 'Соңғы 7 күн',
     legendaEstimativa: 'сіздің болжамыңыз',
     legendaGraficoSemana: 'Соңғы 7 күндегі экран уақыты',

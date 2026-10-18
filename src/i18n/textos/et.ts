@@ -96,7 +96,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'iPhone’is see veel ei tööta',
       mensagem:
-        'Praegu blokeerib AceleraLock äppe ainult Androidis. iPhone’is vajab blokeerimine Apple’ilt eriluba.',
+        'Praegu blokeerib Instablock äppe ainult Androidis. iPhone’is vajab blokeerimine Apple’ilt eriluba.',
       saibaMais: 'Loe lähemalt',
       legenda: 'Avab brauseris saidi {site}.',
     },
@@ -186,7 +186,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Pane impulss ootama.',
       subtitulo:
-        'Vali äpid, mis su aega varastavad. Kui tekib tung mõnda neist avada, astub AceleraLock vahele.',
+        'Vali äpid, mis su aega varastavad. Kui tekib tung mõnda neist avada, astub Instablock vahele.',
       promessaBloqueio: 'Blokeerib sinu valitud äpid ja veebisaidid',
       promessaEspera: {
         one: 'Meelemuutus võib nõuda {n} min ooteaega',
@@ -273,7 +273,7 @@ export const textos: Textos = {
         one: '{n} äpp on blokeeritud.',
         other: '{n} äppi on blokeeritud.',
       },
-      subtitulo: 'Kui tekib tung avada, astub AceleraLock vahele.',
+      subtitulo: 'Kui tekib tung avada, astub Instablock vahele.',
       aPartirDeAgora: 'Alates praegusest',
       eMaisApps: {
         one: 'Ja veel {n} äpp, alates praegusest',
@@ -397,7 +397,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Veebisaitide blokeerimiseks lülita sisse brauseri lugemine',
       avisoAcessibilidadeMensagem:
-        'AceleraLock kasutab Androidi juurdepääsetavusteenust ainult selleks, et lugeda aadressiriba brauserites Chrome, Samsung Internet, Firefox, Edge ja Brave ning võrrelda seda sinu loendiga. See ei loe lehtede sisu, ei salvesta, mida sa külastad, ja miski ei lahku seadmest.',
+        'Instablock kasutab Androidi juurdepääsetavusteenust ainult selleks, et lugeda aadressiriba brauserites Chrome, Samsung Internet, Firefox, Edge ja Brave ning võrrelda seda sinu loendiga. See ei loe lehtede sisu, ei salvesta, mida sa külastad, ja miski ei lahku seadmest.',
       ativarNasConfiguracoes: 'Lülita sisse seadetes',
       erroAoLer:
         'Veebisaitide loendit ei õnnestunud lugeda. Välju sellelt kuvalt ja tule tagasi, et uuesti proovida.',
@@ -489,7 +489,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Kui telefoni kasutad, ilmuvad äpid siia.',
     historicoComecaTitulo: 'Sinu ajalugu algab nüüd',
     historicoComecaMensagem:
-      'Alates tänasest salvestab AceleraLock, kui palju aega sa ekraani ees veedad, ja see graafik täitub iseenesest.',
+      'Alates tänasest salvestab Instablock, kui palju aega sa ekraani ees veedad, ja see graafik täitub iseenesest.',
     ultimos7Dias: 'Viimased 7 päeva',
     legendaEstimativa: 'sinu hinnang',
     legendaGraficoSemana: 'Ekraaniaeg viimase 7 päeva jooksul',

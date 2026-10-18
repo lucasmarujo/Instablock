@@ -59,7 +59,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'iPhoneにはまだ対応していません',
       mensagem:
-        '現在、AceleraLockでアプリをブロックできるのはAndroidだけです。iPhoneでのブロックには、Appleの特別な許可が必要です。',
+        '現在、InstablockでアプリをブロックできるのはAndroidだけです。iPhoneでのブロックには、Appleの特別な許可が必要です。',
       saibaMais: '詳しく見る',
       legenda: 'ブラウザで{site}を開きます。',
     },
@@ -145,8 +145,7 @@ export const textos: Textos = {
   onboarding: {
     boasVindas: {
       titulo: 'その衝動、少し待たせましょう。',
-      subtitulo:
-        '時間を奪うアプリを選んでください。開きたくなったとき、AceleraLockが間に入ります。',
+      subtitulo: '時間を奪うアプリを選んでください。開きたくなったとき、Instablockが間に入ります。',
       promessaBloqueio: '選んだアプリとサイトをブロックします',
       promessaEspera: {
         other: '気が変わったときは、{n}分の待機時間が必要になることがあります',
@@ -226,7 +225,7 @@ export const textos: Textos = {
       variosAppsBloqueados: {
         other: '{n}個のアプリをブロックしました。',
       },
-      subtitulo: '開きたくなったとき、AceleraLockが間に入ります。',
+      subtitulo: '開きたくなったとき、Instablockが間に入ります。',
       aPartirDeAgora: '今からブロックされます',
       eMaisApps: {
         other: 'ほか{n}個のアプリも、今からブロックされます',
@@ -337,7 +336,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'サイトをブロックするには、ブラウザの読み取りを有効にしてください',
       avisoAcessibilidadeMensagem:
-        'AceleraLockはAndroidのユーザー補助サービスを使い、Chrome、Samsung Internet、Firefox、Edge、Braveのアドレスバーに表示されたアドレスだけを読み取って、あなたのリストと照合します。ページの内容は読み取らず、閲覧したサイトも保存しません。データが端末の外に出ることもありません。',
+        'InstablockはAndroidのユーザー補助サービスを使い、Chrome、Samsung Internet、Firefox、Edge、Braveのアドレスバーに表示されたアドレスだけを読み取って、あなたのリストと照合します。ページの内容は読み取らず、閲覧したサイトも保存しません。データが端末の外に出ることもありません。',
       ativarNasConfiguracoes: '設定で有効にする',
       erroAoLer:
         'サイトのリストを読み込めませんでした。この画面をいったん閉じて、もう一度開いてください。',
@@ -428,7 +427,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'スマホを使うと、ここにアプリが表示されます。',
     historicoComecaTitulo: '履歴は今日から始まります',
     historicoComecaMensagem:
-      '今日からAceleraLockがスクリーンタイムを記録し、このグラフが自動で埋まっていきます。',
+      '今日からInstablockがスクリーンタイムを記録し、このグラフが自動で埋まっていきます。',
     ultimos7Dias: '過去7日間',
     legendaEstimativa: 'あなたの予想',
     legendaGraficoSemana: '過去7日間のスクリーンタイム',

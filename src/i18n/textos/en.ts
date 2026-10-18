@@ -87,7 +87,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Doesn’t work on iPhone yet',
       mensagem:
-        'For now, AceleraLock only blocks apps on Android. On iPhone, blocking needs special permission from Apple.',
+        'For now, Instablock only blocks apps on Android. On iPhone, blocking needs special permission from Apple.',
       saibaMais: 'Learn more',
       legenda: 'Opens {site} in your browser.',
     },
@@ -177,7 +177,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Make the urge wait.',
       subtitulo:
-        'Choose the apps that steal your time. When the urge to open one hits, AceleraLock gets in the way.',
+        'Choose the apps that steal your time. When the urge to open one hits, Instablock gets in the way.',
       promessaBloqueio: 'Blocks the apps and sites you choose',
       promessaEspera: {
         one: 'Changing your mind can mean a {n}-minute wait',
@@ -264,7 +264,7 @@ export const textos: Textos = {
         one: '{n} app is blocked.',
         other: '{n} apps are blocked.',
       },
-      subtitulo: 'When the urge hits, AceleraLock gets in the way.',
+      subtitulo: 'When the urge hits, Instablock gets in the way.',
       aPartirDeAgora: 'Starting now',
       eMaisApps: {
         one: 'Plus {n} more app, starting now',
@@ -388,7 +388,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Turn on address bar reading to block sites',
       avisoAcessibilidadeMensagem:
-        'AceleraLock uses the Android accessibility service only to read the address bar in Chrome, Samsung Internet, Firefox, Edge, and Brave and check it against your list. It doesn’t read page content or keep track of what you visit, and nothing leaves your device.',
+        'Instablock uses the Android accessibility service only to read the address bar in Chrome, Samsung Internet, Firefox, Edge, and Brave and check it against your list. It doesn’t read page content or keep track of what you visit, and nothing leaves your device.',
       ativarNasConfiguracoes: 'Turn on in Settings',
       erroAoLer: 'Couldn’t read the list of sites. Leave this screen and come back to try again.',
       campoRotulo: 'Add a site',
@@ -479,7 +479,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Once you use your phone, your apps will show up here.',
     historicoComecaTitulo: 'Your history starts now',
     historicoComecaMensagem:
-      'From today on, AceleraLock keeps track of how long you spend on screen, and this chart fills in on its own.',
+      'From today on, Instablock keeps track of how long you spend on screen, and this chart fills in on its own.',
     ultimos7Dias: 'Last 7 days',
     legendaEstimativa: 'your estimate',
     legendaGraficoSemana: 'Screen time over the last 7 days',

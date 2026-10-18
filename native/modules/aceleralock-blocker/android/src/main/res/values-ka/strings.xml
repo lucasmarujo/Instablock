@@ -5,6 +5,6 @@
     <string name="aceleralock_block_close">დახურვა</string>
     <string name="aceleralock_notification_channel">დაცვა ჩართულია</string>
     <string name="aceleralock_notification_text">დაცვა ჩართულია</string>
-    <string name="aceleralock_site_accessibility_label">AceleraLock: საიტების დაბლოკვა</string>
+    <string name="aceleralock_site_accessibility_label">Instablock: საიტების დაბლოკვა</string>
     <string name="aceleralock_site_accessibility_description">კითხულობს მხოლოდ მისამართს Chrome-ის, Samsung Internet-ის, Firefox-ის, Edge-ისა და Brave-ის ზოლში, რათა შენ მიერ არჩეული საიტები დაბლოკოს. არაფერი ინახება და არაფერი ტოვებს მოწყობილობას.</string>
 </resources>

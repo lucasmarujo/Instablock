@@ -84,7 +84,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'ຍັງໃຊ້ກັບ iPhone ບໍ່ໄດ້',
       mensagem:
-        'ດຽວນີ້ AceleraLock ບລັອກແອັບໄດ້ສະເພາະ Android. ໃນ iPhone ການບລັອກຕ້ອງໄດ້ຮັບການອະນຸມັດພິເສດຈາກ Apple.',
+        'ດຽວນີ້ Instablock ບລັອກແອັບໄດ້ສະເພາະ Android. ໃນ iPhone ການບລັອກຕ້ອງໄດ້ຮັບການອະນຸມັດພິເສດຈາກ Apple.',
       saibaMais: 'ຮຽນຮູ້ເພີ່ມເຕີມ',
       legenda: 'ເປີດ {site} ໃນບຣາວເຊີ.',
     },
@@ -170,7 +170,7 @@ export const textos: Textos = {
   onboarding: {
     boasVindas: {
       titulo: 'ໃຫ້ແຮງກະຕຸ້ນລໍຖ້າ.',
-      subtitulo: 'ເລືອກແອັບທີ່ແຍ່ງເວລາຂອງເຈົ້າ. ເມື່ອເກີດຄວາມຢາກເປີດ AceleraLock ຈະຢູ່ຂວາງທາງ.',
+      subtitulo: 'ເລືອກແອັບທີ່ແຍ່ງເວລາຂອງເຈົ້າ. ເມື່ອເກີດຄວາມຢາກເປີດ Instablock ຈະຢູ່ຂວາງທາງ.',
       promessaBloqueio: 'ບລັອກແອັບແລະເວັບໄຊທີ່ເຈົ້າເລືອກ',
       promessaEspera: {
         other: 'ການປ່ຽນໃຈອາດຕ້ອງລໍຖ້າ {n} ນາທີ',
@@ -249,7 +249,7 @@ export const textos: Textos = {
       variosAppsBloqueados: {
         other: '{n} ແອັບຖືກບລັອກແລ້ວ.',
       },
-      subtitulo: 'ເມື່ອເກີດຄວາມຢາກເປີດ AceleraLock ຈະຢູ່ຂວາງທາງ.',
+      subtitulo: 'ເມື່ອເກີດຄວາມຢາກເປີດ Instablock ຈະຢູ່ຂວາງທາງ.',
       aPartirDeAgora: 'ນັບແຕ່ດຽວນີ້ເປັນຕົ້ນໄປ',
       eMaisApps: {
         other: 'ແລະອີກ {n} ແອັບ ນັບແຕ່ດຽວນີ້ເປັນຕົ້ນໄປ',
@@ -359,7 +359,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'ເປີດການອ່ານບຣາວເຊີເພື່ອບລັອກເວັບໄຊ',
       avisoAcessibilidadeMensagem:
-        'AceleraLock ໃຊ້ບໍລິການການເຂົ້າເຖິງຂອງ Android ເພື່ອອ່ານສະເພາະທີ່ຢູ່ໃນແຖບຂອງ Chrome, Samsung Internet, Firefox, Edge ແລະ Brave ແລ້ວປຽບທຽບກັບລາຍການຂອງເຈົ້າ. ບໍ່ອ່ານເນື້ອຫາຂອງໜ້າ ບໍ່ເກັບສິ່ງທີ່ເຈົ້າເຂົ້າເບິ່ງ ແລະບໍ່ມີຫຍັງອອກຈາກອຸປະກອນ.',
+        'Instablock ໃຊ້ບໍລິການການເຂົ້າເຖິງຂອງ Android ເພື່ອອ່ານສະເພາະທີ່ຢູ່ໃນແຖບຂອງ Chrome, Samsung Internet, Firefox, Edge ແລະ Brave ແລ້ວປຽບທຽບກັບລາຍການຂອງເຈົ້າ. ບໍ່ອ່ານເນື້ອຫາຂອງໜ້າ ບໍ່ເກັບສິ່ງທີ່ເຈົ້າເຂົ້າເບິ່ງ ແລະບໍ່ມີຫຍັງອອກຈາກອຸປະກອນ.',
       ativarNasConfiguracoes: 'ເປີດໃນການຕັ້ງຄ່າ',
       erroAoLer: 'ອ່ານລາຍຊື່ເວັບໄຊບໍ່ໄດ້. ອອກຈາກໜ້ານີ້ແລ້ວເຂົ້າມາໃໝ່ເພື່ອລອງອີກຄັ້ງ.',
       campoRotulo: 'ເພີ່ມເວັບໄຊ',
@@ -447,7 +447,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'ທັນທີທີ່ເຈົ້າໃຊ້ໂທລະສັບ ແອັບຕ່າງໆຈະປາກົດຢູ່ນີ້.',
     historicoComecaTitulo: 'ປະຫວັດຂອງເຈົ້າເລີ່ມຕັ້ງແຕ່ດຽວນີ້',
     historicoComecaMensagem:
-      'ນັບແຕ່ມື້ນີ້ AceleraLock ຈະເກັບວ່າເຈົ້າໃຊ້ໜ້າຈໍດົນປານໃດ ແລະກຣາຟນີ້ຈະເຕັມຂຶ້ນເອງ.',
+      'ນັບແຕ່ມື້ນີ້ Instablock ຈະເກັບວ່າເຈົ້າໃຊ້ໜ້າຈໍດົນປານໃດ ແລະກຣາຟນີ້ຈະເຕັມຂຶ້ນເອງ.',
     ultimos7Dias: '7 ມື້ຜ່ານມາ',
     legendaEstimativa: 'ເວລາທີ່ເຈົ້າຄາດໄວ້',
     legendaGraficoSemana: 'ເວລາໜ້າຈໍໃນ 7 ມື້ຜ່ານມາ',

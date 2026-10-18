@@ -5,6 +5,6 @@
     <string name="aceleralock_block_close">닫기</string>
     <string name="aceleralock_notification_channel">보호 켜짐</string>
     <string name="aceleralock_notification_text">보호가 켜져 있어요</string>
-    <string name="aceleralock_site_accessibility_label">AceleraLock: 사이트 차단</string>
+    <string name="aceleralock_site_accessibility_label">Instablock: 사이트 차단</string>
     <string name="aceleralock_site_accessibility_description">선택한 사이트를 차단하려고 Chrome, Samsung Internet, Firefox, Edge, Brave 주소창의 주소만 읽어요. 아무것도 저장하지 않고 기기 밖으로 보내지도 않아요.</string>
 </resources>

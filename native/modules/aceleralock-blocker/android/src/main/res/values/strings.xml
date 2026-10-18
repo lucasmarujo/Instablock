@@ -5,6 +5,6 @@
     <string name="aceleralock_block_close">Close</string>
     <string name="aceleralock_notification_channel">Protection on</string>
     <string name="aceleralock_notification_text">Protection on</string>
-    <string name="aceleralock_site_accessibility_label">AceleraLock: site blocking</string>
+    <string name="aceleralock_site_accessibility_label">Instablock: site blocking</string>
     <string name="aceleralock_site_accessibility_description">Reads only the address bar in Chrome, Samsung Internet, Firefox, Edge, and Brave to block the sites you chose. Nothing is saved, and nothing leaves your device.</string>
 </resources>

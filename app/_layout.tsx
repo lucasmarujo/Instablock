@@ -9,7 +9,7 @@ import {
   ProtectionVerdictProvider,
   useProtectionVerdictContext,
 } from '@/state/ProtectionVerdictContext';
-import { AceleraLockDarkTheme, AceleraLockLightTheme } from '@/theme/navigationTheme';
+import { InstablockDarkTheme, InstablockLightTheme } from '@/theme/navigationTheme';
 import { ThemePreferenceProvider, useThemePreference } from '@/theme/ThemePreferenceContext';
 
 NativeSplash.preventAutoHideAsync().catch(() => {});
@@ -26,7 +26,7 @@ function RootNavigator() {
   const { esquema } = useThemePreference();
   const { verdict } = useProtectionVerdictContext();
   const [minimumElapsed, setMinimumElapsed] = useState(false);
-  const theme = esquema === 'escuro' ? AceleraLockDarkTheme : AceleraLockLightTheme;
+  const theme = esquema === 'escuro' ? InstablockDarkTheme : InstablockLightTheme;
 
   useEffect(() => {
     const timer = setTimeout(() => setMinimumElapsed(true), SPLASH_MIN_MS);

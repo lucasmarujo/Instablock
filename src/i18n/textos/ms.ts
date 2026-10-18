@@ -85,7 +85,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Belum berfungsi di iPhone',
       mensagem:
-        'Buat masa ini, AceleraLock hanya menyekat apl di Android. Di iPhone, sekatan memerlukan kebenaran khas daripada Apple.',
+        'Buat masa ini, Instablock hanya menyekat apl di Android. Di iPhone, sekatan memerlukan kebenaran khas daripada Apple.',
       saibaMais: 'Ketahui lebih lanjut',
       legenda: 'Membuka {site} dalam pelayar.',
     },
@@ -172,7 +172,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Biar dorongan itu menunggu.',
       subtitulo:
-        'Pilih apl yang mencuri masa anda. Apabila datang keinginan untuk membukanya, AceleraLock akan menghalang.',
+        'Pilih apl yang mencuri masa anda. Apabila datang keinginan untuk membukanya, Instablock akan menghalang.',
       promessaBloqueio: 'Menyekat apl dan tapak web yang anda pilih',
       promessaEspera: {
         other: 'Menukar fikiran mungkin memerlukan tempoh menunggu {n} min',
@@ -252,7 +252,7 @@ export const textos: Textos = {
       variosAppsBloqueados: {
         other: '{n} apl disekat.',
       },
-      subtitulo: 'Apabila datang keinginan untuk membukanya, AceleraLock akan menghalang.',
+      subtitulo: 'Apabila datang keinginan untuk membukanya, Instablock akan menghalang.',
       aPartirDeAgora: 'Mulai sekarang',
       eMaisApps: {
         other: 'Dan {n} apl lagi, mulai sekarang',
@@ -363,7 +363,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Aktifkan bacaan pelayar untuk menyekat tapak web',
       avisoAcessibilidadeMensagem:
-        'AceleraLock menggunakan perkhidmatan kebolehaksesan Android hanya untuk membaca alamat pada bar Chrome, Samsung Internet, Firefox, Edge dan Brave, lalu membandingkannya dengan senarai anda. Ia tidak membaca kandungan halaman, tidak menyimpan apa yang anda lawati dan tiada apa yang keluar dari peranti.',
+        'Instablock menggunakan perkhidmatan kebolehaksesan Android hanya untuk membaca alamat pada bar Chrome, Samsung Internet, Firefox, Edge dan Brave, lalu membandingkannya dengan senarai anda. Ia tidak membaca kandungan halaman, tidak menyimpan apa yang anda lawati dan tiada apa yang keluar dari peranti.',
       ativarNasConfiguracoes: 'Aktifkan dalam Tetapan',
       erroAoLer:
         'Senarai tapak web tidak dapat dibaca. Keluar dan masuk semula ke skrin ini untuk mencuba lagi.',
@@ -453,7 +453,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Sebaik sahaja anda menggunakan telefon, apl akan muncul di sini.',
     historicoComecaTitulo: 'Sejarah anda bermula sekarang',
     historicoComecaMensagem:
-      'Mulai hari ini, AceleraLock merekodkan berapa lama anda menggunakan skrin, dan graf ini akan terisi dengan sendirinya.',
+      'Mulai hari ini, Instablock merekodkan berapa lama anda menggunakan skrin, dan graf ini akan terisi dengan sendirinya.',
     ultimos7Dias: '7 hari lepas',
     legendaEstimativa: 'anggaran anda',
     legendaGraficoSemana: 'Masa skrin dalam 7 hari lepas',

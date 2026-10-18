@@ -87,7 +87,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Hindi pa gumagana sa iPhone',
       mensagem:
-        'Sa ngayon, sa Android lang nakakapag-block ng mga app ang AceleraLock. Sa iPhone, kailangan ng espesyal na pahintulot mula sa Apple para makapag-block.',
+        'Sa ngayon, sa Android lang nakakapag-block ng mga app ang Instablock. Sa iPhone, kailangan ng espesyal na pahintulot mula sa Apple para makapag-block.',
       saibaMais: 'Alamin pa',
       legenda: 'Bubuksan ang {site} sa browser.',
     },
@@ -177,7 +177,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Paghintayin ang udyok.',
       subtitulo:
-        'Piliin ang mga app na umuubos ng oras mo. Kapag gusto mo nang buksan ang isa, haharang ang AceleraLock.',
+        'Piliin ang mga app na umuubos ng oras mo. Kapag gusto mo nang buksan ang isa, haharang ang Instablock.',
       promessaBloqueio: 'Bina-block ang mga app at site na pipiliin mo',
       promessaEspera: {
         one: 'Kapag nagbago ang isip mo, puwedeng kailanganin ang {n} min na paghihintay',
@@ -264,7 +264,7 @@ export const textos: Textos = {
         one: 'Naka-block na ang {n} app.',
         other: 'Naka-block na ang {n} na app.',
       },
-      subtitulo: 'Kapag gusto mo nang buksan ang isa, haharang ang AceleraLock.',
+      subtitulo: 'Kapag gusto mo nang buksan ang isa, haharang ang Instablock.',
       aPartirDeAgora: 'Simula ngayon',
       eMaisApps: {
         one: 'At {n} pang app, simula ngayon',
@@ -388,7 +388,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'I-on ang pagbasa ng browser para ma-block ang mga site',
       avisoAcessibilidadeMensagem:
-        'Ginagamit ng AceleraLock ang accessibility service ng Android para lang basahin ang address sa address bar ng Chrome, Samsung Internet, Firefox, Edge at Brave at ikumpara ito sa listahan mo. Hindi nito binabasa ang laman ng mga page, hindi nito sine-save ang mga binibisita mo, at walang lumalabas sa device.',
+        'Ginagamit ng Instablock ang accessibility service ng Android para lang basahin ang address sa address bar ng Chrome, Samsung Internet, Firefox, Edge at Brave at ikumpara ito sa listahan mo. Hindi nito binabasa ang laman ng mga page, hindi nito sine-save ang mga binibisita mo, at walang lumalabas sa device.',
       ativarNasConfiguracoes: 'I-on sa Mga Setting',
       erroAoLer:
         'Hindi mabasa ang listahan ng mga site. Lumabas at bumalik sa screen na ito para subukan ulit.',
@@ -480,7 +480,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Kapag ginamit mo na ang phone, lalabas dito ang mga app.',
     historicoComecaTitulo: 'Ngayon nagsisimula ang history mo',
     historicoComecaMensagem:
-      'Simula ngayon, itatala ng AceleraLock kung gaano katagal ka sa screen, at kusang mapupuno ang chart na ito.',
+      'Simula ngayon, itatala ng Instablock kung gaano katagal ka sa screen, at kusang mapupuno ang chart na ito.',
     ultimos7Dias: 'Huling 7 araw',
     legendaEstimativa: 'tantiya mo',
     legendaGraficoSemana: 'Screen time sa huling 7 araw',

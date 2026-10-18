@@ -1,4 +1,4 @@
-# AceleraLock — Roteiro de validação em aparelho real (Android)
+# Instablock — Roteiro de validação em aparelho real (Android)
 
 **Versão:** 1.0 — 2026-08-29
 **Autor:** QA
@@ -50,7 +50,7 @@ Dois blocos (5 e 6) precisam de **horas** rodando para dar resposta. Não são o
 
 **Duas coisas que podem aparecer "erradas" e não são bug do overlay — não reportar sem confirmar contra o código primeiro:**
 - **Nome do app genérico** ("Este app está bloqueado." em vez de "Instagram está bloqueado.") é o fallback de `appLabel()` funcionando: a partir do Android 11 a visibilidade de pacotes é restrita, e sem `<queries>` no manifesto a resolução do nome pode falhar. Documentar se aparecer, mas o achado correto é "falta `<queries>`", não "o app quebrou".
-- **Não existe mais botão "Abrir AceleraLock":** ele saiu em 2026-08-30 junto com a contagem de espera. A tela tem uma ação só, "Fechar". Se alguém reportar que o botão sumiu, é a mudança, não regressão — o caminho para o app é a gaveta. Com isso, a tela deixou de depender da exceção frágil de `SYSTEM_ALERT_WINDOW` a *background activity starts* (ver Prioridade 1, passo 5) para qualquer coisa além da própria home do sistema.
+- **Não existe mais botão "Abrir Instablock":** ele saiu em 2026-08-30 junto com a contagem de espera. A tela tem uma ação só, "Fechar". Se alguém reportar que o botão sumiu, é a mudança, não regressão — o caminho para o app é a gaveta. Com isso, a tela deixou de depender da exceção frágil de `SYSTEM_ALERT_WINDOW` a *background activity starts* (ver Prioridade 1, passo 5) para qualquer coisa além da própria home do sistema.
 
 ---
 
@@ -89,7 +89,7 @@ Dois blocos (5 e 6) precisam de **horas** rodando para dar resposta. Não são o
 2. **`downtimeTotalSeconds` só atualiza na leitura seguinte.** A leitura de `protectionState()` que decidiu o veredito aconteceu **antes** de `start()` religar o serviço e apurar o lapso — então o valor do lapso mais recente só aparece numa segunda leitura (outro `refresh()`, ou reabrir a tela de novo). **No passo 4 dos Cenários A e B abaixo, leia `protectionState()` duas vezes** (a segunda alguns segundos depois da primeira) antes de concluir que o número não bateu — ler só uma vez pode dar falso negativo.
 
 **Cenário A — force-stop simples:**
-1. Forçar parada do app pelas Ajustes (Ajustes → Apps → AceleraLock → Forçar parada).
+1. Forçar parada do app pelas Ajustes (Ajustes → Apps → Instablock → Forçar parada).
 2. Esperar um tempo conhecido (ex.: 3 minutos), cronometrado por relógio externo.
 3. Reabrir o app manualmente.
 4. Conferir `protectionState()` — **ler duas vezes, com alguns segundos de intervalo** (ver ressalva 2 acima): `downtimeLastSeconds` deve refletir os ~3 minutos (com alguma tolerância), `downtimeTotalSeconds` deve ter somado o mesmo valor, `downtimeUnknownCount` não deve ter incrementado.
@@ -156,7 +156,7 @@ Dois blocos (5 e 6) precisam de **horas** rodando para dar resposta. Não são o
 **Passo a passo:**
 1. Deixar o app rodando com a proteção ativa por um dia inteiro de uso normal do aparelho (não só parado — inclui trocar de apps, o poll em intervalo curto `POLL_INSIDE_WINDOW`/`POLL_WHILE_BLOCKING` durante bloqueio ativo).
 2. Ao fim do dia, checar Ajustes → Bateria → uso por app.
-3. Comparar a posição do AceleraLock na lista contra apps conhecidos (ex.: o navegador, o WhatsApp) usados de forma parecida no mesmo período.
+3. Comparar a posição do Instablock na lista contra apps conhecidos (ex.: o navegador, o WhatsApp) usados de forma parecida no mesmo período.
 
 **Observar:** posição relativa do app na lista de consumo.
 
@@ -170,7 +170,7 @@ Dois blocos (5 e 6) precisam de **horas** rodando para dar resposta. Não são o
 
 **Passo a passo:**
 1. Build de desenvolvimento fora da Play, Android 13+: Informações do app → menu ⋮ → "Permitir configurações restritas". Sem isso o sistema não deixa ligar o serviço.
-2. Na home, Escolher sites bloqueados → ler o cartão de acessibilidade → Ativar nas Configurações → ligar "AceleraLock: bloqueio de sites".
+2. Na home, Escolher sites bloqueados → ler o cartão de acessibilidade → Ativar nas Configurações → ligar "Instablock: bloqueio de sites".
 3. Adicionar `instagram.com`, salvar.
 4. Abrir `instagram.com` no Chrome, Samsung Internet, Firefox, Edge e Brave. Repetir com `m.instagram.com` e numa aba anônima.
 5. No overlay, "Fechar". Reabrir o navegador (a aba segue no site).

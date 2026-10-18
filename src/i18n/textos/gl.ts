@@ -87,7 +87,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Aínda non funciona no iPhone',
       mensagem:
-        'Polo momento, AceleraLock só bloquea apps en Android. No iPhone, o bloqueo depende dunha autorización especial de Apple.',
+        'Polo momento, Instablock só bloquea apps en Android. No iPhone, o bloqueo depende dunha autorización especial de Apple.',
       saibaMais: 'Saber máis',
       legenda: 'Abre {site} desde o navegador.',
     },
@@ -177,7 +177,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Fai que o impulso espere.',
       subtitulo:
-        'Escolle as apps que che rouban o tempo. Cando che veñan as ganas de abrilas, AceleraLock ponse polo medio.',
+        'Escolle as apps que che rouban o tempo. Cando che veñan as ganas de abrilas, Instablock ponse polo medio.',
       promessaBloqueio: 'Bloquea as apps e os sitios web que escollas',
       promessaEspera: {
         one: 'Cambiar de idea pode pedir {n} min de espera',
@@ -264,7 +264,7 @@ export const textos: Textos = {
         one: '{n} app bloqueada.',
         other: '{n} apps bloqueadas.',
       },
-      subtitulo: 'Cando che veñan as ganas de abrila, AceleraLock ponse polo medio.',
+      subtitulo: 'Cando che veñan as ganas de abrila, Instablock ponse polo medio.',
       aPartirDeAgora: 'Desde agora',
       eMaisApps: {
         one: 'E {n} app máis, a partir de agora',
@@ -388,7 +388,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Activa a lectura do navegador para bloquear sitios web',
       avisoAcessibilidadeMensagem:
-        'AceleraLock usa o servizo de accesibilidade de Android só para ler o enderezo na barra de Chrome, Samsung Internet, Firefox, Edge e Brave e compararo coa túa lista. Non le o contido das páxinas, non garda o que visitas e nada sae do aparello.',
+        'Instablock usa o servizo de accesibilidade de Android só para ler o enderezo na barra de Chrome, Samsung Internet, Firefox, Edge e Brave e compararo coa túa lista. Non le o contido das páxinas, non garda o que visitas e nada sae do aparello.',
       ativarNasConfiguracoes: 'Activar en Configuración',
       erroAoLer:
         'Non foi posible ler a lista de sitios web. Sae desta pantalla e volve entrar para tentalo de novo.',
@@ -480,7 +480,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'En canto uses o móbil, as apps aparecerán aquí.',
     historicoComecaTitulo: 'O teu historial comeza agora',
     historicoComecaMensagem:
-      'Desde hoxe, AceleraLock garda canto tempo pasas diante da pantalla, e este gráfico énchese só.',
+      'Desde hoxe, Instablock garda canto tempo pasas diante da pantalla, e este gráfico énchese só.',
     ultimos7Dias: 'Últimos 7 días',
     legendaEstimativa: 'a túa estimación',
     legendaGraficoSemana: 'Tempo de pantalla dos últimos 7 días',

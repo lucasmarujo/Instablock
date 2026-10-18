@@ -88,7 +88,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Werk nog nie op die iPhone nie',
       mensagem:
-        'Vir eers blokkeer AceleraLock net apps op Android. Op die iPhone hang blokkering af van ’n spesiale goedkeuring van Apple.',
+        'Vir eers blokkeer Instablock net apps op Android. Op die iPhone hang blokkering af van ’n spesiale goedkeuring van Apple.',
       saibaMais: 'Leer meer',
       legenda: 'Maak {site} in die blaaier oop.',
     },
@@ -178,7 +178,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Laat die impuls wag.',
       subtitulo:
-        'Kies die apps wat jou tyd steel. Wanneer die lus jou beetpak om dit oop te maak, staan AceleraLock in die pad.',
+        'Kies die apps wat jou tyd steel. Wanneer die lus jou beetpak om dit oop te maak, staan Instablock in die pad.',
       promessaBloqueio: 'Blokkeer die apps en webwerwe wat jy kies',
       promessaEspera: {
         one: 'Om van plan te verander kan {n} min wagtyd vra',
@@ -265,7 +265,7 @@ export const textos: Textos = {
         one: '{n} app is geblokkeer.',
         other: '{n} apps is geblokkeer.',
       },
-      subtitulo: 'Wanneer die lus jou beetpak om dit oop te maak, staan AceleraLock in die pad.',
+      subtitulo: 'Wanneer die lus jou beetpak om dit oop te maak, staan Instablock in die pad.',
       aPartirDeAgora: 'Van nou af',
       eMaisApps: {
         one: 'En nog {n} app, van nou af',
@@ -389,7 +389,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Aktiveer blaaierlees om webwerwe te blokkeer',
       avisoAcessibilidadeMensagem:
-        'AceleraLock gebruik Android se toeganklikheidsdiens net om die adres in die adresbalk van Chrome, Samsung Internet, Firefox, Edge en Brave te lees en dit met jou lys te vergelyk. Dit lees nie die inhoud van bladsye nie, hou nie by wat jy besoek nie en niks verlaat die toestel nie.',
+        'Instablock gebruik Android se toeganklikheidsdiens net om die adres in die adresbalk van Chrome, Samsung Internet, Firefox, Edge en Brave te lees en dit met jou lys te vergelyk. Dit lees nie die inhoud van bladsye nie, hou nie by wat jy besoek nie en niks verlaat die toestel nie.',
       ativarNasConfiguracoes: 'Aktiveer in Instellings',
       erroAoLer:
         'Kon nie die lys webwerwe lees nie. Gaan uit en kom weer in hierdie skerm om weer te probeer.',
@@ -481,7 +481,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Sodra jy die foon gebruik, verskyn die apps hier.',
     historicoComecaTitulo: 'Jou geskiedenis begin nou',
     historicoComecaMensagem:
-      'Van vandag af hou AceleraLock by hoeveel tyd jy op die skerm deurbring, en hierdie grafiek vul vanself.',
+      'Van vandag af hou Instablock by hoeveel tyd jy op die skerm deurbring, en hierdie grafiek vul vanself.',
     ultimos7Dias: 'Laaste 7 dae',
     legendaEstimativa: 'jou skatting',
     legendaGraficoSemana: 'Skermtyd in die laaste 7 dae',

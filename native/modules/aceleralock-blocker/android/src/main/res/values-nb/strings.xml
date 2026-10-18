@@ -5,6 +5,6 @@
     <string name="aceleralock_block_close">Lukk</string>
     <string name="aceleralock_notification_channel">Aktiv beskyttelse</string>
     <string name="aceleralock_notification_text">Beskyttelsen er på</string>
-    <string name="aceleralock_site_accessibility_label">AceleraLock: blokkering av nettsteder</string>
+    <string name="aceleralock_site_accessibility_label">Instablock: blokkering av nettsteder</string>
     <string name="aceleralock_site_accessibility_description">Leser bare adressen i adressefeltet i Chrome, Samsung Internet, Firefox, Edge og Brave for å blokkere nettstedene du har valgt. Ingenting lagres, og ingenting forlater enheten.</string>
 </resources>

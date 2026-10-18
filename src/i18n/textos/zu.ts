@@ -95,7 +95,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Ayikasebenzi ku-iPhone',
       mensagem:
-        'Okwamanje i-AceleraLock ivimba kuphela ama-app ku-Android. Ku-iPhone, ukuvimba kuncike ekugunyaziweni okukhethekile yi-Apple.',
+        'Okwamanje i-Instablock ivimba kuphela ama-app ku-Android. Ku-iPhone, ukuvimba kuncike ekugunyaziweni okukhethekile yi-Apple.',
       saibaMais: 'Funda kabanzi',
       legenda: 'Kuvula i-{site} kusiphequluli.',
     },
@@ -185,7 +185,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Yenza isifiso silinde.',
       subtitulo:
-        'Khetha ama-app adla isikhathi sakho. Lapho kufika isifiso sokuwavula, i-AceleraLock iba sendleleni.',
+        'Khetha ama-app adla isikhathi sakho. Lapho kufika isifiso sokuwavula, i-Instablock iba sendleleni.',
       promessaBloqueio: 'Ivimba ama-app namasayithi owakhethayo',
       promessaEspera: {
         one: 'Ukushintsha umqondo kungadinga ukulinda umzuzu omu-{n}',
@@ -272,7 +272,7 @@ export const textos: Textos = {
         one: 'I-app e-{n} ivinjiwe.',
         other: 'Ama-app angu-{n} avinjiwe.',
       },
-      subtitulo: 'Lapho kufika isifiso sokuvula, i-AceleraLock iba sendleleni.',
+      subtitulo: 'Lapho kufika isifiso sokuvula, i-Instablock iba sendleleni.',
       aPartirDeAgora: 'Kusukela manje',
       eMaisApps: {
         one: 'Kanye ne-app e-{n}, kusukela manje',
@@ -396,7 +396,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Vula ukufunda isiphequluli ukuze uvimbe amasayithi',
       avisoAcessibilidadeMensagem:
-        'I-AceleraLock isebenzisa isevisi yokufinyeleleka ye-Android kuphela ukufunda ikheli ebhaeni ye-Chrome, Samsung Internet, Firefox, Edge ne-Brave futhi iliqhathanise nohlu lwakho. Ayifundi okuqukethwe amakhasi, ayigcini lokho okuvakashelayo futhi akukho okuphuma edivayisini.',
+        'I-Instablock isebenzisa isevisi yokufinyeleleka ye-Android kuphela ukufunda ikheli ebhaeni ye-Chrome, Samsung Internet, Firefox, Edge ne-Brave futhi iliqhathanise nohlu lwakho. Ayifundi okuqukethwe amakhasi, ayigcini lokho okuvakashelayo futhi akukho okuphuma edivayisini.',
       ativarNasConfiguracoes: 'Vula kuzilungiso',
       erroAoLer:
         'Asikwazanga ukufunda uhlu lwamasayithi. Phuma bese ungena kulesi sikrini ukuze uzame futhi.',
@@ -488,7 +488,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Uma usebenzisa ifoni, ama-app azovela lapha.',
     historicoComecaTitulo: 'Umlando wakho uqala manje',
     historicoComecaMensagem:
-      'Kusukela namuhla i-AceleraLock igcina isikhathi osichitha esikrinini, futhi leli shadi lizigcwalisa lona.',
+      'Kusukela namuhla i-Instablock igcina isikhathi osichitha esikrinini, futhi leli shadi lizigcwalisa lona.',
     ultimos7Dias: 'Izinsuku ezingu-7 zokugcina',
     legendaEstimativa: 'isilinganiso sakho',
     legendaGraficoSemana: 'Isikhathi sesikrini ezinsukwini ezingu-7 zokugcina',

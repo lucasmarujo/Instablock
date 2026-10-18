@@ -15,7 +15,7 @@ import android.widget.TextView
  * A tela que a pessoa ve por cima do app bloqueado.
  *
  * Nao existe botao de desbloquear aqui, de proposito: o unico caminho e abrir o
- * AceleraLock e pedir, com a espera. E o tom nao repreende — quem chegou aqui pediu
+ * Instablock e pedir, com a espera. E o tom nao repreende — quem chegou aqui pediu
  * ajuda e a ajuda esta funcionando; a tela confirma isso, nao cobra.
  *
  * O corpo nao instrui, motiva: uma frase sorteada de mil, diferente a cada tentativa.

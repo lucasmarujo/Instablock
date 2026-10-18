@@ -5,6 +5,6 @@
     <string name="aceleralock_block_close">Затворете</string>
     <string name="aceleralock_notification_channel">Защитата е включена</string>
     <string name="aceleralock_notification_text">Защитата е включена</string>
-    <string name="aceleralock_site_accessibility_label">AceleraLock: блокиране на сайтове</string>
+    <string name="aceleralock_site_accessibility_label">Instablock: блокиране на сайтове</string>
     <string name="aceleralock_site_accessibility_description">Чете само адреса в лентата на Chrome, Samsung Internet, Firefox, Edge и Brave, за да блокира сайтовете, които сте избрали. Нищо не се запазва и нищо не напуска устройството.</string>
 </resources>

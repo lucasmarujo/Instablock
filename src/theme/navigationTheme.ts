@@ -12,7 +12,7 @@ import { DarkTheme, DefaultTheme, type Theme } from 'expo-router';
  * no tema escuro (fundo padrao da lib e branco) — sem isto o app pisca
  * branco a cada navegacao com o SO em modo escuro.
  */
-export const AceleraLockLightTheme: Theme = {
+export const InstablockLightTheme: Theme = {
   ...DefaultTheme,
   colors: {
     ...DefaultTheme.colors,
@@ -21,7 +21,7 @@ export const AceleraLockLightTheme: Theme = {
   },
 };
 
-export const AceleraLockDarkTheme: Theme = {
+export const InstablockDarkTheme: Theme = {
   ...DarkTheme,
   colors: {
     ...DarkTheme.colors,

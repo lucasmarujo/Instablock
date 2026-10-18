@@ -87,7 +87,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Virker endnu ikke på iPhone',
       mensagem:
-        'Indtil videre blokerer AceleraLock kun apps på Android. På iPhone kræver blokering en særlig tilladelse fra Apple.',
+        'Indtil videre blokerer Instablock kun apps på Android. På iPhone kræver blokering en særlig tilladelse fra Apple.',
       saibaMais: 'Læs mere',
       legenda: 'Åbner {site} i browseren.',
     },
@@ -177,7 +177,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Få impulsen til at vente.',
       subtitulo:
-        'Vælg de apps, der stjæler din tid. Når lysten til at åbne dem melder sig, står AceleraLock i vejen.',
+        'Vælg de apps, der stjæler din tid. Når lysten til at åbne dem melder sig, står Instablock i vejen.',
       promessaBloqueio: 'Blokerer de apps og websteder, du vælger',
       promessaEspera: {
         one: 'At skifte mening kan kræve {n} min ventetid',
@@ -264,7 +264,7 @@ export const textos: Textos = {
         one: '{n} app er blokeret.',
         other: '{n} apps er blokeret.',
       },
-      subtitulo: 'Når lysten til at åbne melder sig, står AceleraLock i vejen.',
+      subtitulo: 'Når lysten til at åbne melder sig, står Instablock i vejen.',
       aPartirDeAgora: 'Fra nu af',
       eMaisApps: {
         one: 'Og {n} app mere, fra nu af',
@@ -388,7 +388,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Slå browserlæsning til for at blokere websteder',
       avisoAcessibilidadeMensagem:
-        'AceleraLock bruger Androids tilgængelighedstjeneste udelukkende til at læse adressen i adresselinjen i Chrome, Samsung Internet, Firefox, Edge og Brave og sammenligne den med din liste. Den læser ikke indholdet på siderne, gemmer ikke, hvad du besøger, og intet forlader enheden.',
+        'Instablock bruger Androids tilgængelighedstjeneste udelukkende til at læse adressen i adresselinjen i Chrome, Samsung Internet, Firefox, Edge og Brave og sammenligne den med din liste. Den læser ikke indholdet på siderne, gemmer ikke, hvad du besøger, og intet forlader enheden.',
       ativarNasConfiguracoes: 'Slå til i Indstillinger',
       erroAoLer:
         'Listen over websteder kunne ikke læses. Gå ud af skærmen og ind igen for at prøve igen.',
@@ -480,7 +480,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Så snart du bruger telefonen, dukker apps op her.',
     historicoComecaTitulo: 'Din historik starter nu',
     historicoComecaMensagem:
-      'Fra i dag gemmer AceleraLock, hvor meget tid du bruger på skærmen, og grafen fylder sig selv ud.',
+      'Fra i dag gemmer Instablock, hvor meget tid du bruger på skærmen, og grafen fylder sig selv ud.',
     ultimos7Dias: 'Seneste 7 dage',
     legendaEstimativa: 'dit skøn',
     legendaGraficoSemana: 'Skærmtid de seneste 7 dage',

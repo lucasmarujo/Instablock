@@ -91,7 +91,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Na iPhonu to zatím nefunguje',
       mensagem:
-        'AceleraLock zatím blokuje aplikace jen na Androidu. Na iPhonu blokování závisí na zvláštním povolení od Applu.',
+        'Instablock zatím blokuje aplikace jen na Androidu. Na iPhonu blokování závisí na zvláštním povolení od Applu.',
       saibaMais: 'Zjistit víc',
       legenda: 'Otevře {site} v prohlížeči.',
     },
@@ -184,7 +184,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Nech nutkání počkat.',
       subtitulo:
-        'Vyber aplikace, které ti kradou čas. Až přijde chuť je otevřít, AceleraLock se postaví do cesty.',
+        'Vyber aplikace, které ti kradou čas. Až přijde chuť je otevřít, Instablock se postaví do cesty.',
       promessaBloqueio: 'Blokuje aplikace a weby, které si vybereš',
       promessaEspera: {
         one: 'Změna názoru může vyžadovat {n} min čekání',
@@ -278,7 +278,7 @@ export const textos: Textos = {
         few: '{n} aplikace jsou zablokované.',
         other: '{n} aplikací je zablokováno.',
       },
-      subtitulo: 'Až přijde chuť něco otevřít, AceleraLock se postaví do cesty.',
+      subtitulo: 'Až přijde chuť něco otevřít, Instablock se postaví do cesty.',
       aPartirDeAgora: 'Od této chvíle',
       eMaisApps: {
         one: 'A další {n} aplikace, od této chvíle',
@@ -415,7 +415,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Zapni čtení prohlížeče, aby šlo blokovat weby',
       avisoAcessibilidadeMensagem:
-        'AceleraLock používá službu usnadnění přístupu Androidu jen ke čtení adresy v adresním řádku prohlížečů Chrome, Samsung Internet, Firefox, Edge a Brave a k jejímu porovnání s tvým seznamem. Nečte obsah stránek, neukládá, co navštěvuješ, a nic neopouští zařízení.',
+        'Instablock používá službu usnadnění přístupu Androidu jen ke čtení adresy v adresním řádku prohlížečů Chrome, Samsung Internet, Firefox, Edge a Brave a k jejímu porovnání s tvým seznamem. Nečte obsah stránek, neukládá, co navštěvuješ, a nic neopouští zařízení.',
       ativarNasConfiguracoes: 'Zapnout v Nastavení',
       erroAoLer:
         'Seznam webů se nepodařilo načíst. Odejdi z téhle obrazovky a vrať se, ať to zkusíme znovu.',
@@ -509,7 +509,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Jakmile začneš telefon používat, aplikace se tu objeví.',
     historicoComecaTitulo: 'Tvoje historie začíná teď',
     historicoComecaMensagem:
-      'Ode dneška si AceleraLock ukládá, kolik času trávíš u obrazovky, a tenhle graf se zaplní sám.',
+      'Ode dneška si Instablock ukládá, kolik času trávíš u obrazovky, a tenhle graf se zaplní sám.',
     ultimos7Dias: 'Posledních 7 dní',
     legendaEstimativa: 'tvůj odhad',
     legendaGraficoSemana: 'Čas u obrazovky za posledních 7 dní',

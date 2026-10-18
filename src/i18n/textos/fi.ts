@@ -96,7 +96,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Ei vielä toimi iPhonessa',
       mensagem:
-        'Toistaiseksi AceleraLock estää sovelluksia vain Androidissa. iPhonessa esto vaatii Applelta erityisluvan.',
+        'Toistaiseksi Instablock estää sovelluksia vain Androidissa. iPhonessa esto vaatii Applelta erityisluvan.',
       saibaMais: 'Lue lisää',
       legenda: 'Avaa {site} selaimessa.',
     },
@@ -186,7 +186,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Laita mielihalu odottamaan.',
       subtitulo:
-        'Valitse sovellukset, jotka vievät aikaasi. Kun tekee mieli avata jokin niistä, AceleraLock asettuu väliin.',
+        'Valitse sovellukset, jotka vievät aikaasi. Kun tekee mieli avata jokin niistä, Instablock asettuu väliin.',
       promessaBloqueio: 'Estää valitsemasi sovellukset ja sivustot',
       promessaEspera: {
         one: 'Mielen muuttaminen voi vaatia {n} min odotuksen',
@@ -273,7 +273,7 @@ export const textos: Textos = {
         one: '{n} sovellus estetty.',
         other: '{n} sovellusta estetty.',
       },
-      subtitulo: 'Kun tekee mieli avata jokin niistä, AceleraLock asettuu väliin.',
+      subtitulo: 'Kun tekee mieli avata jokin niistä, Instablock asettuu väliin.',
       aPartirDeAgora: 'Tästä lähtien',
       eMaisApps: {
         one: 'Ja {n} muu sovellus, tästä lähtien',
@@ -397,7 +397,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Ota selaimen luku käyttöön, niin voit estää sivustoja',
       avisoAcessibilidadeMensagem:
-        'AceleraLock käyttää Androidin esteettömyyspalvelua vain lukeakseen osoiterivin osoitteen näistä selaimista: Chrome, Samsung Internet, Firefox, Edge ja Brave, ja verratakseen sitä listaasi. Se ei lue sivujen sisältöä eikä tallenna, missä käyt, eikä mikään lähde laitteesta.',
+        'Instablock käyttää Androidin esteettömyyspalvelua vain lukeakseen osoiterivin osoitteen näistä selaimista: Chrome, Samsung Internet, Firefox, Edge ja Brave, ja verratakseen sitä listaasi. Se ei lue sivujen sisältöä eikä tallenna, missä käyt, eikä mikään lähde laitteesta.',
       ativarNasConfiguracoes: 'Ota käyttöön asetuksissa',
       erroAoLer:
         'Sivustolistaa ei voitu lukea. Poistu tästä näkymästä ja palaa, niin yritetään uudelleen.',
@@ -489,7 +489,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Kun käytät puhelinta, sovellukset näkyvät tässä.',
     historicoComecaTitulo: 'Historiasi alkaa nyt',
     historicoComecaMensagem:
-      'Tästä päivästä alkaen AceleraLock tallentaa, kuinka paljon aikaa vietät ruudun ääressä, ja tämä kaavio täyttyy itsestään.',
+      'Tästä päivästä alkaen Instablock tallentaa, kuinka paljon aikaa vietät ruudun ääressä, ja tämä kaavio täyttyy itsestään.',
     ultimos7Dias: 'Viimeiset 7 päivää',
     legendaEstimativa: 'arviosi',
     legendaGraficoSemana: 'Ruutuaika viimeisten 7 päivän aikana',

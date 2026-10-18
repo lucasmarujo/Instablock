@@ -87,7 +87,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'iPhone-এ এখনও কাজ করে না',
       mensagem:
-        'আপাতত AceleraLock শুধু Android-এ অ্যাপ ব্লক করে। iPhone-এ ব্লক করতে Apple-এর বিশেষ অনুমোদন লাগে।',
+        'আপাতত Instablock শুধু Android-এ অ্যাপ ব্লক করে। iPhone-এ ব্লক করতে Apple-এর বিশেষ অনুমোদন লাগে।',
       saibaMais: 'আরও জানুন',
       legenda: 'ব্রাউজারে {site} খোলে।',
     },
@@ -177,7 +177,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'ঝোঁকটাকে একটু অপেক্ষা করান।',
       subtitulo:
-        'যে অ্যাপগুলো আপনার সময় কেড়ে নেয়, সেগুলো বেছে নিন। খোলার ইচ্ছে জাগলে AceleraLock পথ আটকে দাঁড়াবে।',
+        'যে অ্যাপগুলো আপনার সময় কেড়ে নেয়, সেগুলো বেছে নিন। খোলার ইচ্ছে জাগলে Instablock পথ আটকে দাঁড়াবে।',
       promessaBloqueio: 'আপনার বেছে নেওয়া অ্যাপ আর সাইট ব্লক করে',
       promessaEspera: {
         one: 'মত বদলাতে চাইলে {n} মিনিট অপেক্ষা করতে হতে পারে',
@@ -264,7 +264,7 @@ export const textos: Textos = {
         one: '{n}টি অ্যাপ ব্লক করা হয়েছে।',
         other: '{n}টি অ্যাপ ব্লক করা হয়েছে।',
       },
-      subtitulo: 'খোলার ইচ্ছে জাগলে AceleraLock পথ আটকে দাঁড়াবে।',
+      subtitulo: 'খোলার ইচ্ছে জাগলে Instablock পথ আটকে দাঁড়াবে।',
       aPartirDeAgora: 'এখন থেকে',
       eMaisApps: {
         one: 'এবং আরও {n}টি অ্যাপ, এখন থেকে',
@@ -388,7 +388,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'সাইট ব্লক করতে ব্রাউজারের ঠিকানা পড়া চালু করুন',
       avisoAcessibilidadeMensagem:
-        'Chrome, Samsung Internet, Firefox, Edge ও Brave-এর অ্যাড্রেস বার থেকে শুধু ঠিকানাটুকু পড়ে আপনার তালিকার সঙ্গে মেলাতে AceleraLock, Android-এর অ্যাক্সেসিবিলিটি সার্ভিস ব্যবহার করে। পেজের কনটেন্ট পড়ে না, আপনি কোথায় যান তা সেভ করে না, আর কিছুই ডিভাইসের বাইরে যায় না।',
+        'Chrome, Samsung Internet, Firefox, Edge ও Brave-এর অ্যাড্রেস বার থেকে শুধু ঠিকানাটুকু পড়ে আপনার তালিকার সঙ্গে মেলাতে Instablock, Android-এর অ্যাক্সেসিবিলিটি সার্ভিস ব্যবহার করে। পেজের কনটেন্ট পড়ে না, আপনি কোথায় যান তা সেভ করে না, আর কিছুই ডিভাইসের বাইরে যায় না।',
       ativarNasConfiguracoes: 'ফোনের সেটিংসে গিয়ে চালু করুন',
       erroAoLer: 'সাইটের তালিকা পড়া গেল না। আবার চেষ্টা করতে এই স্ক্রিন থেকে বেরিয়ে আবার ঢুকুন।',
       campoRotulo: 'সাইট যোগ করুন',
@@ -478,7 +478,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'ফোন ব্যবহার করলেই অ্যাপগুলো এখানে দেখা যাবে।',
     historicoComecaTitulo: 'আপনার ইতিহাস শুরু হচ্ছে এখন',
     historicoComecaMensagem:
-      'আজ থেকে AceleraLock হিসাব রাখবে আপনি কতক্ষণ স্ক্রিনে কাটান, আর এই চার্ট নিজে থেকেই ভরে উঠবে।',
+      'আজ থেকে Instablock হিসাব রাখবে আপনি কতক্ষণ স্ক্রিনে কাটান, আর এই চার্ট নিজে থেকেই ভরে উঠবে।',
     ultimos7Dias: 'গত ৭ দিন',
     legendaEstimativa: 'আপনার আন্দাজ',
     legendaGraficoSemana: 'গত ৭ দিনের স্ক্রিন টাইম',

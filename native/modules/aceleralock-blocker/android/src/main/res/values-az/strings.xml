@@ -5,6 +5,6 @@
     <string name="aceleralock_block_close">Bağla</string>
     <string name="aceleralock_notification_channel">Qoruma aktivdir</string>
     <string name="aceleralock_notification_text">Qoruma aktivdir</string>
-    <string name="aceleralock_site_accessibility_label">AceleraLock: saytların bloklanması</string>
+    <string name="aceleralock_site_accessibility_label">Instablock: saytların bloklanması</string>
     <string name="aceleralock_site_accessibility_description">Seçdiyiniz saytları bloklamaq üçün yalnız Chrome, Samsung Internet, Firefox, Edge və Brave brauzerlərinin ünvan çubuğundakı ünvanı oxuyur. Heç nə saxlanmır və heç nə cihazdan kənara çıxmır.</string>
 </resources>

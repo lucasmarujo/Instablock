@@ -85,7 +85,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Belum bisa dipakai di iPhone',
       mensagem:
-        'Untuk saat ini AceleraLock hanya memblokir aplikasi di Android. Di iPhone, pemblokiran memerlukan izin khusus dari Apple.',
+        'Untuk saat ini Instablock hanya memblokir aplikasi di Android. Di iPhone, pemblokiran memerlukan izin khusus dari Apple.',
       saibaMais: 'Pelajari lebih lanjut',
       legenda: 'Membuka {site} di browser.',
     },
@@ -172,7 +172,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Biarkan dorongan itu menunggu.',
       subtitulo:
-        'Pilih aplikasi yang mencuri waktumu. Saat muncul keinginan untuk membukanya, AceleraLock akan menghalangi.',
+        'Pilih aplikasi yang mencuri waktumu. Saat muncul keinginan untuk membukanya, Instablock akan menghalangi.',
       promessaBloqueio: 'Memblokir aplikasi dan situs yang kamu pilih',
       promessaEspera: {
         other: 'Berubah pikiran bisa memerlukan masa tunggu {n} menit',
@@ -252,7 +252,7 @@ export const textos: Textos = {
       variosAppsBloqueados: {
         other: '{n} aplikasi diblokir.',
       },
-      subtitulo: 'Saat muncul keinginan untuk membukanya, AceleraLock akan menghalangi.',
+      subtitulo: 'Saat muncul keinginan untuk membukanya, Instablock akan menghalangi.',
       aPartirDeAgora: 'Mulai sekarang',
       eMaisApps: {
         other: 'Dan {n} aplikasi lainnya, mulai sekarang',
@@ -363,7 +363,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Aktifkan pembacaan browser untuk memblokir situs',
       avisoAcessibilidadeMensagem:
-        'AceleraLock memakai layanan aksesibilitas Android hanya untuk membaca alamat di bilah Chrome, Samsung Internet, Firefox, Edge, dan Brave, lalu mencocokkannya dengan daftarmu. Isi halaman tidak dibaca, situs yang kamu kunjungi tidak disimpan, dan tidak ada yang keluar dari perangkat.',
+        'Instablock memakai layanan aksesibilitas Android hanya untuk membaca alamat di bilah Chrome, Samsung Internet, Firefox, Edge, dan Brave, lalu mencocokkannya dengan daftarmu. Isi halaman tidak dibaca, situs yang kamu kunjungi tidak disimpan, dan tidak ada yang keluar dari perangkat.',
       ativarNasConfiguracoes: 'Aktifkan di Setelan',
       erroAoLer:
         'Daftar situs tidak bisa dibaca. Keluar lalu buka layar ini lagi untuk mencoba kembali.',
@@ -452,7 +452,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Begitu kamu memakai ponsel, aplikasinya muncul di sini.',
     historicoComecaTitulo: 'Riwayatmu dimulai sekarang',
     historicoComecaMensagem:
-      'Mulai hari ini AceleraLock mencatat berapa lama kamu di depan layar, dan grafik ini akan terisi sendiri.',
+      'Mulai hari ini Instablock mencatat berapa lama kamu di depan layar, dan grafik ini akan terisi sendiri.',
     ultimos7Dias: '7 hari terakhir',
     legendaEstimativa: 'perkiraanmu',
     legendaGraficoSemana: 'Waktu layar dalam 7 hari terakhir',

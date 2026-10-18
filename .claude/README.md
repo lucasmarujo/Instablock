@@ -1,4 +1,4 @@
-# `.claude/` — configuração de agente do AceleraLock
+# `.claude/` — configuração de agente do Instablock
 
 O CI do projeto é bom, mas até aqui o único gate era o GitHub Actions: o vermelho só
 aparecia **depois** do push. Esta pasta antecipa isso para o fim de cada tarefa.

@@ -88,7 +88,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Werkt nog niet op iPhone',
       mensagem:
-        'Voorlopig blokkeert AceleraLock alleen apps op Android. Op iPhone hangt blokkeren af van speciale toestemming van Apple.',
+        'Voorlopig blokkeert Instablock alleen apps op Android. Op iPhone hangt blokkeren af van speciale toestemming van Apple.',
       saibaMais: 'Meer informatie',
       legenda: 'Opent {site} in je browser.',
     },
@@ -178,7 +178,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Laat de impuls wachten.',
       subtitulo:
-        'Kies de apps die je tijd stelen. Krijg je zin om er een te openen, dan staat AceleraLock in de weg.',
+        'Kies de apps die je tijd stelen. Krijg je zin om er een te openen, dan staat Instablock in de weg.',
       promessaBloqueio: 'Blokkeert de apps en websites die jij kiest',
       promessaEspera: {
         one: 'Van gedachten veranderen kan {n} min wachttijd kosten',
@@ -265,7 +265,7 @@ export const textos: Textos = {
         one: '{n} app is geblokkeerd.',
         other: '{n} apps zijn geblokkeerd.',
       },
-      subtitulo: 'Krijg je zin om te openen, dan staat AceleraLock in de weg.',
+      subtitulo: 'Krijg je zin om te openen, dan staat Instablock in de weg.',
       aPartirDeAgora: 'Vanaf nu',
       eMaisApps: {
         one: 'En nog {n} app, vanaf nu',
@@ -389,7 +389,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Zet het lezen van de adresbalk aan om websites te blokkeren',
       avisoAcessibilidadeMensagem:
-        'AceleraLock gebruikt de toegankelijkheidsservice van Android alleen om het adres in de adresbalk van Chrome, Samsung Internet, Firefox, Edge en Brave te lezen en met je lijst te vergelijken. Het leest de inhoud van pagina’s niet, onthoudt niet wat je bezoekt en er verlaat niets je apparaat.',
+        'Instablock gebruikt de toegankelijkheidsservice van Android alleen om het adres in de adresbalk van Chrome, Samsung Internet, Firefox, Edge en Brave te lezen en met je lijst te vergelijken. Het leest de inhoud van pagina’s niet, onthoudt niet wat je bezoekt en er verlaat niets je apparaat.',
       ativarNasConfiguracoes: 'Aanzetten in Instellingen',
       erroAoLer:
         'Kan de lijst met websites niet lezen. Verlaat dit scherm en open het opnieuw om het nog eens te proberen.',
@@ -482,7 +482,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Zodra je je telefoon gebruikt, verschijnen de apps hier.',
     historicoComecaTitulo: 'Je geschiedenis begint nu',
     historicoComecaMensagem:
-      'Vanaf vandaag houdt AceleraLock bij hoeveel tijd je op je scherm doorbrengt, en deze grafiek vult zich vanzelf.',
+      'Vanaf vandaag houdt Instablock bij hoeveel tijd je op je scherm doorbrengt, en deze grafiek vult zich vanzelf.',
     ultimos7Dias: 'Afgelopen 7 dagen',
     legendaEstimativa: 'je schatting',
     legendaGraficoSemana: 'Schermtijd in de afgelopen 7 dagen',

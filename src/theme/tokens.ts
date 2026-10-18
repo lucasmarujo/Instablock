@@ -45,7 +45,7 @@ export const brand = {
    * a esquerda, ciano em cima a direita. Sao cor de *marca*, nao de UI.
    *
    * Estao orfas desde o redesenho de 2026-08-30 (commit `77ef62b`): o badge
-   * do AceleraLock era gerado no repo a partir delas e agora chega pronto em
+   * do Instablock era gerado no repo a partir delas e agora chega pronto em
    * `assets/icon-1024.png`, na paleta nova. Ficam registradas porque a logo do
    * AceleraDev na splash ainda e essa; nenhum token semantico as consome, e
    * se alguma tela precisar de azul, o primitivo `blue` do §1.1 e o lugar.

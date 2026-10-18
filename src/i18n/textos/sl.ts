@@ -94,7 +94,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Na iPhonu še ne deluje',
       mensagem:
-        'AceleraLock za zdaj blokira aplikacije samo v Androidu. Na iPhonu blokiranje zahteva posebno dovoljenje podjetja Apple.',
+        'Instablock za zdaj blokira aplikacije samo v Androidu. Na iPhonu blokiranje zahteva posebno dovoljenje podjetja Apple.',
       saibaMais: 'Več o tem',
       legenda: 'Odpre {site} v brskalniku.',
     },
@@ -190,7 +190,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Naj nagib počaka.',
       subtitulo:
-        'Izberi aplikacije, ki ti kradejo čas. Ko te zamika, da jih odpreš, se AceleraLock postavi vmes.',
+        'Izberi aplikacije, ki ti kradejo čas. Ko te zamika, da jih odpreš, se Instablock postavi vmes.',
       promessaBloqueio: 'Blokira aplikacije in spletna mesta, ki jih izbereš',
       promessaEspera: {
         one: 'Premislek lahko zahteva {n} min čakalne dobe',
@@ -291,7 +291,7 @@ export const textos: Textos = {
         few: '{n} aplikacije so blokirane.',
         other: '{n} aplikacij je blokiranih.',
       },
-      subtitulo: 'Ko te zamika, se AceleraLock postavi vmes.',
+      subtitulo: 'Ko te zamika, se Instablock postavi vmes.',
       aPartirDeAgora: 'Od zdaj naprej',
       eMaisApps: {
         one: 'In še {n} aplikacija, od zdaj naprej',
@@ -441,7 +441,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Za blokiranje spletnih mest vklopi branje brskalnika',
       avisoAcessibilidadeMensagem:
-        'AceleraLock uporablja storitev dostopnosti v Androidu samo za branje naslova v naslovni vrstici brskalnikov Chrome, Samsung Internet, Firefox, Edge in Brave ter za primerjavo s tvojim seznamom. Ne bere vsebine strani, ne shranjuje, kaj obiskuješ, in nič ne zapusti naprave.',
+        'Instablock uporablja storitev dostopnosti v Androidu samo za branje naslova v naslovni vrstici brskalnikov Chrome, Samsung Internet, Firefox, Edge in Brave ter za primerjavo s tvojim seznamom. Ne bere vsebine strani, ne shranjuje, kaj obiskuješ, in nič ne zapusti naprave.',
       ativarNasConfiguracoes: 'Vklopi v nastavitvah',
       erroAoLer:
         'Seznama spletnih mest ni bilo mogoče prebrati. Zapusti ta zaslon in se vrni, da poskusiš znova.',
@@ -537,7 +537,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Ko začneš uporabljati telefon, se bodo tu prikazale aplikacije.',
     historicoComecaTitulo: 'Tvoja zgodovina se začne zdaj',
     historicoComecaMensagem:
-      'Od danes AceleraLock beleži, koliko časa preživiš pred zaslonom, in ta graf se napolni sam.',
+      'Od danes Instablock beleži, koliko časa preživiš pred zaslonom, in ta graf se napolni sam.',
     ultimos7Dias: 'Zadnjih 7 dni',
     legendaEstimativa: 'tvoja ocena',
     legendaGraficoSemana: 'Čas pred zaslonom v zadnjih 7 dneh',

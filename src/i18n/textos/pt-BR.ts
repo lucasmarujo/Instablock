@@ -84,7 +84,7 @@ export const ptBR = {
     naoSuportado: {
       titulo: 'Ainda não funciona no iPhone',
       mensagem:
-        'Por enquanto o AceleraLock só bloqueia apps no Android. No iPhone, o bloqueio depende de uma liberação especial da Apple.',
+        'Por enquanto o Instablock só bloqueia apps no Android. No iPhone, o bloqueio depende de uma liberação especial da Apple.',
       saibaMais: 'Saiba mais',
       legenda: 'Abre {site} no navegador.',
     },
@@ -168,7 +168,7 @@ export const ptBR = {
     boasVindas: {
       titulo: 'Faça o impulso esperar.',
       subtitulo:
-        'Escolha os apps que roubam seu tempo. Quando bater a vontade de abrir, o AceleraLock fica no caminho.',
+        'Escolha os apps que roubam seu tempo. Quando bater a vontade de abrir, o Instablock fica no caminho.',
       promessaBloqueio: 'Bloqueia os apps e sites que você escolher',
       promessaEspera: {
         one: 'Mudar de ideia pode pedir {n} min de espera',
@@ -243,7 +243,7 @@ export const ptBR = {
       bloqueioCriado: 'Bloqueio criado.',
       umAppBloqueado: '{app} bloqueado.',
       variosAppsBloqueados: { one: '{n} app bloqueado.', other: '{n} apps bloqueados.' },
-      subtitulo: 'Quando bater a vontade de abrir, o AceleraLock fica no caminho.',
+      subtitulo: 'Quando bater a vontade de abrir, o Instablock fica no caminho.',
       aPartirDeAgora: 'A partir de agora',
       eMaisApps: {
         one: 'E mais {n} app, a partir de agora',
@@ -349,7 +349,7 @@ export const ptBR = {
     sites: {
       avisoAcessibilidadeTitulo: 'Ative a leitura do navegador para bloquear sites',
       avisoAcessibilidadeMensagem:
-        'O AceleraLock usa o serviço de acessibilidade do Android só para ler o endereço na barra do Chrome, Samsung Internet, Firefox, Edge e Brave e comparar com a sua lista. Não lê o conteúdo das páginas, não guarda o que você visita e nada sai do aparelho.',
+        'O Instablock usa o serviço de acessibilidade do Android só para ler o endereço na barra do Chrome, Samsung Internet, Firefox, Edge e Brave e comparar com a sua lista. Não lê o conteúdo das páginas, não guarda o que você visita e nada sai do aparelho.',
       ativarNasConfiguracoes: 'Ativar nas Configurações',
       erroAoLer: 'Não deu para ler a lista de sites. Saia e entre nesta tela para tentar de novo.',
       campoRotulo: 'Adicionar site',
@@ -436,7 +436,7 @@ export const ptBR = {
     nadaRegistradoMensagem: 'Assim que você usar o celular, os apps aparecem aqui.',
     historicoComecaTitulo: 'Seu histórico começa agora',
     historicoComecaMensagem:
-      'A partir de hoje o AceleraLock guarda quanto tempo você passa na tela, e este gráfico se enche sozinho.',
+      'A partir de hoje o Instablock guarda quanto tempo você passa na tela, e este gráfico se enche sozinho.',
     ultimos7Dias: 'Últimos 7 dias',
     legendaEstimativa: 'sua estimativa',
     legendaGraficoSemana: 'Tempo de tela nos últimos 7 dias',

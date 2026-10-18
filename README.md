@@ -1,8 +1,8 @@
 <div align="center">
 
-<img alt="AceleraLock" src="assets/icon-1024.png" width="132">
+<img alt="Instablock" src="assets/icon-1024.png" width="132">
 
-<h1>AceleraLock</h1>
+<h1>Instablock</h1>
 
 <br>
 
@@ -13,7 +13,7 @@ Bloqueio de apps e sites que roda **100% no aparelho** — sem backend, sem cada
 <br>
 
 [![Google Play](https://img.shields.io/badge/Google_Play-Baixar-3DDC84?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=dev.marujo.appblocker)
-[![CI](https://github.com/lucasmarujo/AceleraLock/actions/workflows/ci.yml/badge.svg)](https://github.com/lucasmarujo/AceleraLock/actions/workflows/ci.yml)
+[![CI](https://github.com/lucasmarujo/Instablock/actions/workflows/ci.yml/badge.svg)](https://github.com/lucasmarujo/Instablock/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-03c3bf.svg)](LICENSE)
 [![Idiomas](https://img.shields.io/badge/Idiomas-73-03c3bf.svg)](#idiomas)
 [![React Native](https://img.shields.io/badge/React_Native-0.86-61DAFB?logo=react&logoColor=white)](https://reactnative.dev)
@@ -61,7 +61,7 @@ Aplicativos de controle de tempo de tela costumam falhar pelo mesmo motivo: o bo
 de desligar fica a um toque de distância. Quando o impulso chega — e ele dura
 segundos —, desativar o bloqueio é mais fácil do que resistir a ele.
 
-O AceleraLock ataca exatamente esse ponto. Abrir um app bloqueado não é impossível:
+O Instablock ataca exatamente esse ponto. Abrir um app bloqueado não é impossível:
 é **caro**.
 
 | Ação | Custo |
@@ -81,7 +81,7 @@ defende.
 
 ## O que o app faz
 
-- **Bloqueia apps e sites.** Abriu um app da lista, a tela do AceleraLock aparece por
+- **Bloqueia apps e sites.** Abriu um app da lista, a tela do Instablock aparece por
   cima na hora. Site é bloqueado por domínio e subdomínios; no Android, a única coisa
   lida é a barra de endereço dos navegadores suportados.
 - **Uma frase entre mil.** A tela de bloqueio sorteia uma frase por tentativa — do lado
@@ -310,8 +310,8 @@ sequenceDiagram
 ### Instalação
 
 ```bash
-git clone git@github.com:lucasmarujo/AceleraLock.git
-cd AceleraLock
+git clone git@github.com:lucasmarujo/Instablock.git
+cd Instablock
 npm install
 ```
 
@@ -505,7 +505,7 @@ anterior deste README.
 
 ## Estado atual
 
-O AceleraLock está **em produção no Google Play** para Android. A tabela separa o que
+O Instablock está **em produção no Google Play** para Android. A tabela separa o que
 é garantido por teste automatizado do que ainda depende de validação em aparelho — é
 por aí que uma contribuição rende mais.
 
@@ -533,7 +533,7 @@ O inventário completo, com o porquê de cada item, está no fim de
 ## Marca e design system
 
 <div align="center">
-  <img alt="Ícone do AceleraLock" src="assets/icon-1024.png" width="120">
+  <img alt="Ícone do Instablock" src="assets/icon-1024.png" width="120">
 </div>
 
 A marca vive em [`assets/`](assets/): o ícone composto em dois mestres —
@@ -585,7 +585,7 @@ Contribuições são bem-vindas — issues, PRs e discussões.
   <img alt="AceleraDev" src="assets/aceleradev-logo.png" width="110">
 </div>
 
-O AceleraLock é um projeto aberto construído junto com a comunidade **AceleraDev** —
+O Instablock é um projeto aberto construído junto com a comunidade **AceleraDev** —
 pessoas desenvolvedoras trocando código, revisão e experiência de verdade. Cada
 decisão deste repositório está documentada justamente para que qualquer pessoa da
 comunidade consiga entrar, entender o porquê e contribuir sem precisar adivinhar.

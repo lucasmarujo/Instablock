@@ -5,6 +5,6 @@
     <string name="aceleralock_block_close">关闭</string>
     <string name="aceleralock_notification_channel">保护已开启</string>
     <string name="aceleralock_notification_text">保护已开启</string>
-    <string name="aceleralock_site_accessibility_label">AceleraLock：网站屏蔽</string>
+    <string name="aceleralock_site_accessibility_label">Instablock：网站屏蔽</string>
     <string name="aceleralock_site_accessibility_description">仅读取 Chrome、Samsung Internet、Firefox、Edge 和 Brave 地址栏中的网址，用来屏蔽你选择的网站。不保存任何内容，也不会有任何数据离开你的设备。</string>
 </resources>

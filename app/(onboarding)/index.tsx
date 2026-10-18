@@ -160,12 +160,12 @@ export default function OnboardingBoasVindas() {
                 style={styles.badge}
                 resizeMode="contain"
                 accessibilityIgnoresInvertColors
-                accessibilityLabel="AceleraLock"
+                accessibilityLabel="Instablock"
               />
             </Animated.View>
 
             <Animated.View style={[styles.cabecalho, estiloTitulo]}>
-              <Text style={styles.marca}>ACELERALOCK</Text>
+              <Text style={styles.marca}>INSTABLOCK</Text>
               <Text accessibilityRole="header" style={styles.titulo}>
                 {t.onboarding.boasVindas.titulo}
               </Text>

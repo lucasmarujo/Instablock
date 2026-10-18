@@ -87,7 +87,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Сè уште не работи на iPhone',
       mensagem:
-        'За сега AceleraLock блокира апликации само на Android. На iPhone, блокирањето зависи од посебна дозвола од Apple.',
+        'За сега Instablock блокира апликации само на Android. На iPhone, блокирањето зависи од посебна дозвола од Apple.',
       saibaMais: 'Дознај повеќе',
       legenda: 'Го отвора {site} во прелистувачот.',
     },
@@ -177,7 +177,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Натерај го импулсот да почека.',
       subtitulo:
-        'Избери ги апликациите што ти го крадат времето. Кога ќе дојде желбата да отвориш, AceleraLock ќе стане на патот.',
+        'Избери ги апликациите што ти го крадат времето. Кога ќе дојде желбата да отвориш, Instablock ќе стане на патот.',
       promessaBloqueio: 'Ги блокира апликациите и сајтовите што ќе ги избереш',
       promessaEspera: {
         one: 'Менувањето на мислата може да бара {n} мин чекање',
@@ -264,7 +264,7 @@ export const textos: Textos = {
         one: '{n} блокирана апликација.',
         other: '{n} блокирани апликации.',
       },
-      subtitulo: 'Кога ќе дојде желбата да отвориш, AceleraLock ќе стане на патот.',
+      subtitulo: 'Кога ќе дојде желбата да отвориш, Instablock ќе стане на патот.',
       aPartirDeAgora: 'Од сега',
       eMaisApps: {
         one: 'И уште {n} апликација, од сега',
@@ -388,7 +388,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Вклучи го читањето на прелистувачот за да блокираш сајтови',
       avisoAcessibilidadeMensagem:
-        'AceleraLock ја користи услугата за пристапност на Android само за да ја прочита адресата во лентата на Chrome, Samsung Internet, Firefox, Edge и Brave и да ја спореди со твојата листа. Не ја чита содржината на страниците, не чува што посетуваш и ништо не го напушта уредот.',
+        'Instablock ја користи услугата за пристапност на Android само за да ја прочита адресата во лентата на Chrome, Samsung Internet, Firefox, Edge и Brave и да ја спореди со твојата листа. Не ја чита содржината на страниците, не чува што посетуваш и ништо не го напушта уредот.',
       ativarNasConfiguracoes: 'Вклучи во Поставки',
       erroAoLer:
         'Не успеавме да ја прочитаме листата на сајтови. Излези и влези пак на овој екран за да пробаш повторно.',
@@ -480,7 +480,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Штом го користиш телефонот, апликациите ќе се појават овде.',
     historicoComecaTitulo: 'Твојата историја започнува сега',
     historicoComecaMensagem:
-      'Од денес AceleraLock чува колку време поминуваш на екранот, и овој графикон сам се полни.',
+      'Од денес Instablock чува колку време поминуваш на екранот, и овој графикон сам се полни.',
     ultimos7Dias: 'Последни 7 дена',
     legendaEstimativa: 'твојата проценка',
     legendaGraficoSemana: 'Време на екран во последните 7 дена',

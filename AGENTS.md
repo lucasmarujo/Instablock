@@ -1,4 +1,4 @@
-# AGENTS.md — AceleraLock
+# AGENTS.md — Instablock
 
 Guia operacional para agentes de código que entram neste repositório. O objetivo
 é manter **a coerência com o que já está aqui**, não reescrever o projeto.

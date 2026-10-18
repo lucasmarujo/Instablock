@@ -1,7 +1,7 @@
 # Decisão — módulos nativos (iOS e Android)
 
 > Rodada de decisão. Documento, não código. Avalia se as bibliotecas
-> candidatas servem para o enforcement nativo do AceleraLock.
+> candidatas servem para o enforcement nativo do Instablock.
 >
 > **Data:** 2026-08-29 · **Autor:** dev
 > **Insumos:** `docs/onboarding-permissoes-nativas.md` (inventário de permissões),
@@ -101,7 +101,7 @@ o prebuild: `ActivityMonitorExtension`, `ShieldAction`, `ShieldConfiguration`.
   pedir. Não é bug da biblioteca — é comportamento do sistema — mas confirma
   que o caso da §1 é real e frequente, não hipotético.
 - **#81 (2026-01-01)** — ação `openApp` do shield não funciona; TODO no código.
-  Só nos afeta se a UI do shield tiver botão "abrir o AceleraLock".
+  Só nos afeta se a UI do shield tiver botão "abrir o Instablock".
 - **#69 (2025-08-08)** e **#66 (2025-08-07)** — "Couldn't communicate with a
   helper application" ao revogar autorização e no `onSelectionChange`. Toca o
   fluxo de revogação de permissão (§6 do onboarding). Precisa de teste em

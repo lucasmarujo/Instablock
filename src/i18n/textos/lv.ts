@@ -106,7 +106,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'iPhone tas vēl nedarbojas',
       mensagem:
-        'Pagaidām AceleraLock bloķē lietotnes tikai Android ierīcēs. iPhone bloķēšanai nepieciešama īpaša Apple atļauja.',
+        'Pagaidām Instablock bloķē lietotnes tikai Android ierīcēs. iPhone bloķēšanai nepieciešama īpaša Apple atļauja.',
       saibaMais: 'Uzzināt vairāk',
       legenda: 'Atver {site} pārlūkā.',
     },
@@ -199,7 +199,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Liec vēlmei pagaidīt.',
       subtitulo:
-        'Izvēlies lietotnes, kas zog tavu laiku. Kad uznāk vēlme tās atvērt, AceleraLock stājas ceļā.',
+        'Izvēlies lietotnes, kas zog tavu laiku. Kad uznāk vēlme tās atvērt, Instablock stājas ceļā.',
       promessaBloqueio: 'Bloķē lietotnes un vietnes, ko tu izvēlies',
       promessaEspera: {
         zero: 'Pārdomāšana var prasīt {n} min gaidīšanas',
@@ -293,7 +293,7 @@ export const textos: Textos = {
         one: 'Bloķēta {n} lietotne.',
         other: 'Bloķētas {n} lietotnes.',
       },
-      subtitulo: 'Kad uznāk vēlme atvērt, AceleraLock stājas ceļā.',
+      subtitulo: 'Kad uznāk vēlme atvērt, Instablock stājas ceļā.',
       aPartirDeAgora: 'No šī brīža',
       eMaisApps: {
         zero: 'Un vēl {n} lietotņu no šī brīža',
@@ -430,7 +430,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Ieslēdz pārlūka nolasīšanu, lai bloķētu vietnes',
       avisoAcessibilidadeMensagem:
-        'AceleraLock izmanto Android pieejamības pakalpojumu tikai tam, lai nolasītu adresi Chrome, Samsung Internet, Firefox, Edge un Brave adreses joslā un salīdzinātu to ar tavu sarakstu. Tas nelasa lapu saturu, nesaglabā, ko tu apmeklē, un nekas neatstāj ierīci.',
+        'Instablock izmanto Android pieejamības pakalpojumu tikai tam, lai nolasītu adresi Chrome, Samsung Internet, Firefox, Edge un Brave adreses joslā un salīdzinātu to ar tavu sarakstu. Tas nelasa lapu saturu, nesaglabā, ko tu apmeklē, un nekas neatstāj ierīci.',
       ativarNasConfiguracoes: 'Ieslēgt iestatījumos',
       erroAoLer: 'Neizdevās nolasīt vietņu sarakstu. Iziet no šī ekrāna un atver to vēlreiz.',
       campoRotulo: 'Pievienot vietni',
@@ -523,7 +523,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Tiklīdz lietosi tālruni, lietotnes parādīsies šeit.',
     historicoComecaTitulo: 'Tavs vēsturiskais pārskats sākas tagad',
     historicoComecaMensagem:
-      'Sākot ar šodienu AceleraLock saglabā, cik ilgi tu pavadi ekrānā, un šis grafiks piepildās pats.',
+      'Sākot ar šodienu Instablock saglabā, cik ilgi tu pavadi ekrānā, un šis grafiks piepildās pats.',
     ultimos7Dias: 'Pēdējās 7 dienas',
     legendaEstimativa: 'tavs aprēķins',
     legendaGraficoSemana: 'Ekrāna laiks pēdējās 7 dienās',

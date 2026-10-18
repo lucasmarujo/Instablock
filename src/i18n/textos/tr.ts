@@ -88,7 +88,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'iPhone’da henüz çalışmıyor',
       mensagem:
-        'Şimdilik AceleraLock yalnızca Android’de uygulama engelliyor. iPhone’da engelleme, Apple’ın vereceği özel bir izne bağlı.',
+        'Şimdilik Instablock yalnızca Android’de uygulama engelliyor. iPhone’da engelleme, Apple’ın vereceği özel bir izne bağlı.',
       saibaMais: 'Daha fazla bilgi',
       legenda: '{site} adresini tarayıcıda açar.',
     },
@@ -177,7 +177,7 @@ export const textos: Textos = {
   onboarding: {
     boasVindas: {
       titulo: 'Dürtü beklesin.',
-      subtitulo: 'Zamanını çalan uygulamaları seç. Açma isteği geldiğinde AceleraLock araya girer.',
+      subtitulo: 'Zamanını çalan uygulamaları seç. Açma isteği geldiğinde Instablock araya girer.',
       promessaBloqueio: 'Seçtiğin uygulamaları ve siteleri engeller',
       promessaEspera: {
         one: 'Fikrini değiştirmek {n} dakikalık bekleme isteyebilir',
@@ -264,7 +264,7 @@ export const textos: Textos = {
         one: '{n} uygulama engellendi.',
         other: '{n} uygulama engellendi.',
       },
-      subtitulo: 'Açma isteği geldiğinde AceleraLock araya girer.',
+      subtitulo: 'Açma isteği geldiğinde Instablock araya girer.',
       aPartirDeAgora: 'Şu andan itibaren',
       eMaisApps: {
         one: 'Ve {n} uygulama daha, şu andan itibaren',
@@ -388,7 +388,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Siteleri engellemek için tarayıcı okumayı aç',
       avisoAcessibilidadeMensagem:
-        'AceleraLock, Android’in erişilebilirlik hizmetini yalnızca Chrome, Samsung Internet, Firefox, Edge ve Brave’deki adres çubuğunu okuyup listenle karşılaştırmak için kullanır. Sayfaların içeriğini okumaz, ziyaret ettiğin yerleri kaydetmez ve hiçbir şey cihazdan çıkmaz.',
+        'Instablock, Android’in erişilebilirlik hizmetini yalnızca Chrome, Samsung Internet, Firefox, Edge ve Brave’deki adres çubuğunu okuyup listenle karşılaştırmak için kullanır. Sayfaların içeriğini okumaz, ziyaret ettiğin yerleri kaydetmez ve hiçbir şey cihazdan çıkmaz.',
       ativarNasConfiguracoes: 'Ayarlar’dan aç',
       erroAoLer: 'Site listesi okunamadı. Tekrar denemek için bu ekrandan çıkıp yeniden gir.',
       campoRotulo: 'Site ekle',
@@ -478,7 +478,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Telefonu kullandıkça uygulamalar burada görünür.',
     historicoComecaTitulo: 'Geçmişin şimdi başlıyor',
     historicoComecaMensagem:
-      'AceleraLock bugünden itibaren ekranda ne kadar zaman geçirdiğini kaydeder ve bu grafik kendiliğinden dolar.',
+      'Instablock bugünden itibaren ekranda ne kadar zaman geçirdiğini kaydeder ve bu grafik kendiliğinden dolar.',
     ultimos7Dias: 'Son 7 gün',
     legendaEstimativa: 'tahminin',
     legendaGraficoSemana: 'Son 7 günün ekran süresi',

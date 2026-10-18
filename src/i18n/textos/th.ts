@@ -92,7 +92,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'ยังใช้กับ iPhone ไม่ได้',
       mensagem:
-        'ตอนนี้ AceleraLock บล็อกแอปได้เฉพาะบน Android สำหรับ iPhone การบล็อกต้องได้รับอนุญาตพิเศษจาก Apple',
+        'ตอนนี้ Instablock บล็อกแอปได้เฉพาะบน Android สำหรับ iPhone การบล็อกต้องได้รับอนุญาตพิเศษจาก Apple',
       saibaMais: 'ดูข้อมูลเพิ่มเติม',
       legenda: 'เปิด {site} ในเบราว์เซอร์',
     },
@@ -178,7 +178,7 @@ export const textos: Textos = {
   onboarding: {
     boasVindas: {
       titulo: 'ให้แรงกระตุ้นรอก่อน',
-      subtitulo: 'เลือกแอปที่ขโมยเวลาของคุณ เมื่อความอยากเปิดมาถึง AceleraLock จะขวางทางไว้',
+      subtitulo: 'เลือกแอปที่ขโมยเวลาของคุณ เมื่อความอยากเปิดมาถึง Instablock จะขวางทางไว้',
       promessaBloqueio: 'บล็อกแอปและเว็บไซต์ที่คุณเลือก',
       promessaEspera: {
         other: 'การเปลี่ยนใจอาจต้องรอ {n} นาที',
@@ -257,7 +257,7 @@ export const textos: Textos = {
       variosAppsBloqueados: {
         other: 'บล็อก {n} แอปแล้ว',
       },
-      subtitulo: 'เมื่อความอยากเปิดมาถึง AceleraLock จะขวางทางไว้',
+      subtitulo: 'เมื่อความอยากเปิดมาถึง Instablock จะขวางทางไว้',
       aPartirDeAgora: 'ตั้งแต่ตอนนี้',
       eMaisApps: {
         other: 'และอีก {n} แอป ตั้งแต่ตอนนี้',
@@ -366,7 +366,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'เปิดการอ่านเบราว์เซอร์เพื่อบล็อกเว็บไซต์',
       avisoAcessibilidadeMensagem:
-        'AceleraLock ใช้บริการการช่วยเหลือพิเศษของ Android เพื่ออ่านเฉพาะที่อยู่ในแถบที่อยู่ของ Chrome, Samsung Internet, Firefox, Edge และ Brave แล้วเทียบกับรายการของคุณ ไม่อ่านเนื้อหาของหน้าเว็บ ไม่เก็บว่าคุณเข้าเว็บไหน และไม่มีข้อมูลใดออกจากเครื่อง',
+        'Instablock ใช้บริการการช่วยเหลือพิเศษของ Android เพื่ออ่านเฉพาะที่อยู่ในแถบที่อยู่ของ Chrome, Samsung Internet, Firefox, Edge และ Brave แล้วเทียบกับรายการของคุณ ไม่อ่านเนื้อหาของหน้าเว็บ ไม่เก็บว่าคุณเข้าเว็บไหน และไม่มีข้อมูลใดออกจากเครื่อง',
       ativarNasConfiguracoes: 'เปิดในการตั้งค่า',
       erroAoLer: 'อ่านรายการเว็บไซต์ไม่ได้ ออกแล้วกลับเข้าหน้านี้เพื่อลองอีกครั้ง',
       campoRotulo: 'เพิ่มเว็บไซต์',
@@ -454,7 +454,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'พอคุณใช้มือถือ แอปต่างๆ จะแสดงที่นี่',
     historicoComecaTitulo: 'ประวัติของคุณเริ่มตั้งแต่ตอนนี้',
     historicoComecaMensagem:
-      'ตั้งแต่วันนี้ AceleraLock จะเก็บว่าคุณใช้หน้าจอนานแค่ไหน และกราฟนี้จะค่อยๆ เต็มขึ้นเอง',
+      'ตั้งแต่วันนี้ Instablock จะเก็บว่าคุณใช้หน้าจอนานแค่ไหน และกราฟนี้จะค่อยๆ เต็มขึ้นเอง',
     ultimos7Dias: '7 วันล่าสุด',
     legendaEstimativa: 'ค่าที่คุณประมาณ',
     legendaGraficoSemana: 'เวลาหน้าจอใน 7 วันล่าสุด',

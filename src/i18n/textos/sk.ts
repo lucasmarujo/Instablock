@@ -90,7 +90,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Na iPhone to zatiaľ nefunguje',
       mensagem:
-        'AceleraLock zatiaľ blokuje aplikácie len v systéme Android. Na iPhone blokovanie závisí od špeciálneho povolenia od spoločnosti Apple.',
+        'Instablock zatiaľ blokuje aplikácie len v systéme Android. Na iPhone blokovanie závisí od špeciálneho povolenia od spoločnosti Apple.',
       saibaMais: 'Zistiť viac',
       legenda: 'Otvorí {site} v prehliadači.',
     },
@@ -183,7 +183,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Nechajte impulz počkať.',
       subtitulo:
-        'Vyberte aplikácie, ktoré vám kradnú čas. Keď dostanete chuť ich otvoriť, AceleraLock sa postaví impulzu do cesty.',
+        'Vyberte aplikácie, ktoré vám kradnú čas. Keď dostanete chuť ich otvoriť, Instablock sa postaví impulzu do cesty.',
       promessaBloqueio: 'Blokuje aplikácie a weby, ktoré si vyberiete',
       promessaEspera: {
         one: 'Zmena názoru môže vyžadovať {n} min čakania',
@@ -277,7 +277,7 @@ export const textos: Textos = {
         few: '{n} aplikácie sú zablokované.',
         other: '{n} aplikácií je zablokovaných.',
       },
-      subtitulo: 'Keď dostanete chuť ich otvoriť, AceleraLock sa postaví impulzu do cesty.',
+      subtitulo: 'Keď dostanete chuť ich otvoriť, Instablock sa postaví impulzu do cesty.',
       aPartirDeAgora: 'Odteraz',
       eMaisApps: {
         one: 'A ďalšia {n} aplikácia, odteraz',
@@ -414,7 +414,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Zapnite čítanie prehliadača, aby ste mohli blokovať weby',
       avisoAcessibilidadeMensagem:
-        'AceleraLock používa službu dostupnosti Androidu len na čítanie adresy v paneli s adresou v prehliadačoch Chrome, Samsung Internet, Firefox, Edge a Brave a na jej porovnanie s vaším zoznamom. Nečíta obsah stránok, neukladá, čo navštevujete, a nič neopúšťa zariadenie.',
+        'Instablock používa službu dostupnosti Androidu len na čítanie adresy v paneli s adresou v prehliadačoch Chrome, Samsung Internet, Firefox, Edge a Brave a na jej porovnanie s vaším zoznamom. Nečíta obsah stránok, neukladá, čo navštevujete, a nič neopúšťa zariadenie.',
       ativarNasConfiguracoes: 'Zapnúť v Nastaveniach',
       erroAoLer:
         'Zoznam webov sa nepodarilo načítať. Odíďte z tejto obrazovky a vráťte sa, aby ste to skúsili znova.',
@@ -508,7 +508,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Hneď ako začnete používať telefón, aplikácie sa zobrazia tu.',
     historicoComecaTitulo: 'Vaša história sa začína teraz',
     historicoComecaMensagem:
-      'Odo dneška AceleraLock zaznamenáva, koľko času strávite pred obrazovkou, a tento graf sa bude plniť sám.',
+      'Odo dneška Instablock zaznamenáva, koľko času strávite pred obrazovkou, a tento graf sa bude plniť sám.',
     ultimos7Dias: 'Posledných 7 dní',
     legendaEstimativa: 'váš odhad',
     legendaGraficoSemana: 'Čas pred obrazovkou za posledných 7 dní',

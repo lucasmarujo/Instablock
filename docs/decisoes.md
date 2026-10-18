@@ -479,7 +479,7 @@ as funções do contrato, e a UI não mostra a opção no iPhone (lá não há l
 
 ## Redesign da UI (2026-10-11)
 
-Antes × depois de cada tela no arquivo do Paper "AceleraLock — Mapa de telas", página
+Antes × depois de cada tela no arquivo do Paper "Instablock — Mapa de telas", página
 "Redesign · antes × depois". Nenhuma regra de tempo, espera ou concessão mudou — o
 `core/` não foi tocado. O que muda é onde cada decisão aparece e o que a tela mostra.
 
@@ -614,6 +614,31 @@ código antigo que o `ResourcesImpl` usa (`iw`, `in`, `b+fil`) — e um teste re
 pasta `values-*` fora da lista. Árabe, hebraico, persa e urdu espelham o layout; o
 texto troca na hora quando o idioma muda com o app aberto, a direção só na próxima
 abertura.
+
+---
+
+## Nome: Instablock (2026-10-18)
+
+Decisão do usuário: o app, que se chamava AceleraLock, passa a se chamar **Instablock**
+— só o `I` maiúsculo. Muda tudo o que a pessoa lê: nome no aparelho e na loja, textos
+dos 73 idiomas, overlay, notificação, landing, política e termos, README.
+
+### Identificador não é marca
+
+Ficam como estão, de propósito:
+
+- o pacote `dev.marujo.appblocker` — a Play não deixa trocar o pacote de um app
+  publicado;
+- o bundle `com.aceleralock.app` e o App Group do iOS;
+- o módulo `aceleralock-blocker`, o pacote Kotlin `com.aceleralock.blocker` e os
+  nomes de recurso `aceleralock_*`;
+- a chave das `SharedPreferences` (`aceleralock.blocker`) e as do `AsyncStorage` —
+  trocar apagaria a lista de bloqueio, a espera e o histórico de quem já usa o app;
+- `slug` e `scheme` do Expo;
+- os domínios `aceleralock.marujo.dev` e `acelera.marujo.dev`, que o app e a ficha da
+  Play apontam.
+
+Identificador nunca aparece na tela; renomear só trocaria risco por estética.
 
 ---
 

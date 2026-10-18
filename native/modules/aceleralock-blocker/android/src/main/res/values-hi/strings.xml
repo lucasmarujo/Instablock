@@ -5,6 +5,6 @@
     <string name="aceleralock_block_close">बंद करें</string>
     <string name="aceleralock_notification_channel">सुरक्षा चालू है</string>
     <string name="aceleralock_notification_text">सुरक्षा चालू है</string>
-    <string name="aceleralock_site_accessibility_label">AceleraLock: साइटों को ब्लॉक करना</string>
+    <string name="aceleralock_site_accessibility_label">Instablock: साइटों को ब्लॉक करना</string>
     <string name="aceleralock_site_accessibility_description">आपकी चुनी हुई साइटें ब्लॉक करने के लिए यह सिर्फ़ Chrome, Samsung Internet, Firefox, Edge और Brave की एड्रेस बार में लिखा पता पढ़ता है। कुछ भी सेव नहीं होता और कुछ भी फ़ोन से बाहर नहीं जाता।</string>
 </resources>

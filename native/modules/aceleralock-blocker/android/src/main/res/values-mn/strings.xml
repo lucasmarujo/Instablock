@@ -5,6 +5,6 @@
     <string name="aceleralock_block_close">Хаах</string>
     <string name="aceleralock_notification_channel">Хамгаалалт идэвхтэй</string>
     <string name="aceleralock_notification_text">Хамгаалалт идэвхтэй</string>
-    <string name="aceleralock_site_accessibility_label">AceleraLock: сайт блоклох</string>
+    <string name="aceleralock_site_accessibility_label">Instablock: сайт блоклох</string>
     <string name="aceleralock_site_accessibility_description">Таны сонгосон сайтуудыг блоклохын тулд зөвхөн Chrome, Samsung Internet, Firefox, Edge, Brave хөтчийн хаягийн мөрөнд байгаа хаягийг уншина. Юу ч хадгалагдахгүй, төхөөрөмжөөс юу ч гарахгүй.</string>
 </resources>

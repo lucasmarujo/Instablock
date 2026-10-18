@@ -87,7 +87,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'ابھی iPhone پر کام نہیں کرتا',
       mensagem:
-        'فی الحال AceleraLock صرف Android پر ایپس بلاک کرتا ہے۔ iPhone پر بلاک کرنے کے لیے Apple کی خاص منظوری درکار ہے۔',
+        'فی الحال Instablock صرف Android پر ایپس بلاک کرتا ہے۔ iPhone پر بلاک کرنے کے لیے Apple کی خاص منظوری درکار ہے۔',
       saibaMais: 'مزید جانیں',
       legenda: 'براؤزر میں {site} کھولتا ہے۔',
     },
@@ -177,7 +177,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'طلب کو انتظار کروائیں۔',
       subtitulo:
-        'وہ ایپس چنیں جو آپ کا وقت چراتی ہیں۔ جب انہیں کھولنے کا دل چاہے، AceleraLock راستے میں کھڑا ہوگا۔',
+        'وہ ایپس چنیں جو آپ کا وقت چراتی ہیں۔ جب انہیں کھولنے کا دل چاہے، Instablock راستے میں کھڑا ہوگا۔',
       promessaBloqueio: 'آپ کی چنی ہوئی ایپس اور سائٹس بلاک کرتا ہے',
       promessaEspera: {
         one: 'ارادہ بدلنے پر {n} منٹ کا انتظار کرنا پڑ سکتا ہے',
@@ -264,7 +264,7 @@ export const textos: Textos = {
         one: '{n} ایپ بلاک ہے۔',
         other: '{n} ایپس بلاک ہیں۔',
       },
-      subtitulo: 'جب کھولنے کا دل چاہے گا، AceleraLock راستے میں کھڑا ہوگا۔',
+      subtitulo: 'جب کھولنے کا دل چاہے گا، Instablock راستے میں کھڑا ہوگا۔',
       aPartirDeAgora: 'اب سے',
       eMaisApps: {
         one: 'اب سے، اور {n} مزید ایپ',
@@ -388,7 +388,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'سائٹس بلاک کرنے کے لیے براؤزر ریڈنگ آن کریں',
       avisoAcessibilidadeMensagem:
-        'AceleraLock، Android کی ایکسیسبیلٹی سروس صرف اس لیے استعمال کرتا ہے کہ Chrome، Samsung Internet، Firefox، Edge اور Brave کی ایڈریس بار میں لکھا پتا پڑھ کر آپ کی فہرست سے ملائے۔ یہ صفحات کا مواد نہیں پڑھتا، آپ کی دیکھی ہوئی سائٹس محفوظ نہیں کرتا، اور کچھ بھی فون سے باہر نہیں جاتا۔',
+        'Instablock، Android کی ایکسیسبیلٹی سروس صرف اس لیے استعمال کرتا ہے کہ Chrome، Samsung Internet، Firefox، Edge اور Brave کی ایڈریس بار میں لکھا پتا پڑھ کر آپ کی فہرست سے ملائے۔ یہ صفحات کا مواد نہیں پڑھتا، آپ کی دیکھی ہوئی سائٹس محفوظ نہیں کرتا، اور کچھ بھی فون سے باہر نہیں جاتا۔',
       ativarNasConfiguracoes: 'سیٹنگز میں آن کریں',
       erroAoLer:
         'سائٹس کی فہرست نہیں پڑھی جا سکی۔ دوبارہ کوشش کے لیے اس اسکرین سے باہر جا کر پھر آئیں۔',
@@ -479,7 +479,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'جیسے ہی آپ فون استعمال کریں گے، ایپس یہاں نظر آئیں گی۔',
     historicoComecaTitulo: 'آپ کی ہسٹری ابھی سے شروع ہوتی ہے',
     historicoComecaMensagem:
-      'آج سے AceleraLock محفوظ کرتا ہے کہ آپ اسکرین پر کتنا وقت گزارتے ہیں، اور یہ گراف خود بخود بھرتا جائے گا۔',
+      'آج سے Instablock محفوظ کرتا ہے کہ آپ اسکرین پر کتنا وقت گزارتے ہیں، اور یہ گراف خود بخود بھرتا جائے گا۔',
     ultimos7Dias: 'پچھلے 7 دن',
     legendaEstimativa: 'آپ کا اندازہ',
     legendaGraficoSemana: 'پچھلے 7 دنوں کا اسکرین ٹائم',

@@ -98,7 +98,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'עדיין לא עובד ב-iPhone',
       mensagem:
-        'בינתיים AceleraLock חוסם אפליקציות רק ב-Android. ב-iPhone, החסימה תלויה באישור מיוחד מ-Apple.',
+        'בינתיים Instablock חוסם אפליקציות רק ב-Android. ב-iPhone, החסימה תלויה באישור מיוחד מ-Apple.',
       saibaMais: 'מידע נוסף',
       legenda: 'פותח את {site} בדפדפן.',
     },
@@ -190,7 +190,7 @@ export const textos: Textos = {
   onboarding: {
     boasVindas: {
       titulo: 'הדחף יכול לחכות.',
-      subtitulo: 'בוחרים את האפליקציות שגוזלות לך זמן. כשמתחשק לפתוח אותן, AceleraLock עומד בדרך.',
+      subtitulo: 'בוחרים את האפליקציות שגוזלות לך זמן. כשמתחשק לפתוח אותן, Instablock עומד בדרך.',
       promessaBloqueio: 'חוסם אפליקציות ואתרים לבחירתך',
       promessaEspera: {
         one: 'שינוי דעה יכול לדרוש המתנה של דקה',
@@ -284,7 +284,7 @@ export const textos: Textos = {
         two: 'שתי אפליקציות חסומות.',
         other: '{n} אפליקציות חסומות.',
       },
-      subtitulo: 'כשמתחשק לפתוח, AceleraLock עומד בדרך.',
+      subtitulo: 'כשמתחשק לפתוח, Instablock עומד בדרך.',
       aPartirDeAgora: 'מעכשיו',
       eMaisApps: {
         one: 'ועוד אפליקציה אחת, מעכשיו',
@@ -421,7 +421,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'כדי לחסום אתרים, צריך להפעיל את קריאת הדפדפן',
       avisoAcessibilidadeMensagem:
-        'AceleraLock משתמש בשירות הנגישות של Android רק כדי לקרוא את הכתובת בשורת הכתובת של Chrome,‏ Samsung Internet,‏ Firefox,‏ Edge ו-Brave ולהשוות אותה לרשימה שלך. הוא לא קורא את תוכן הדפים, לא שומר את מה שביקרת בו, ושום דבר לא יוצא מהמכשיר.',
+        'Instablock משתמש בשירות הנגישות של Android רק כדי לקרוא את הכתובת בשורת הכתובת של Chrome,‏ Samsung Internet,‏ Firefox,‏ Edge ו-Brave ולהשוות אותה לרשימה שלך. הוא לא קורא את תוכן הדפים, לא שומר את מה שביקרת בו, ושום דבר לא יוצא מהמכשיר.',
       ativarNasConfiguracoes: 'הפעלה בהגדרות',
       erroAoLer: 'לא הצלחנו לקרוא את רשימת האתרים. אפשר לצאת ולחזור למסך הזה כדי לנסות שוב.',
       campoRotulo: 'הוספת אתר',
@@ -512,7 +512,7 @@ export const textos: Textos = {
     nadaRegistradoTitulo: 'עוד לא נרשם כלום היום',
     nadaRegistradoMensagem: 'ברגע שיהיה שימוש בטלפון, האפליקציות יופיעו כאן.',
     historicoComecaTitulo: 'ההיסטוריה שלך מתחילה עכשיו',
-    historicoComecaMensagem: 'מהיום AceleraLock שומר כמה זמן עובר מול המסך, והגרף הזה יתמלא מעצמו.',
+    historicoComecaMensagem: 'מהיום Instablock שומר כמה זמן עובר מול המסך, והגרף הזה יתמלא מעצמו.',
     ultimos7Dias: '7 הימים האחרונים',
     legendaEstimativa: 'ההערכה שלך',
     legendaGraficoSemana: 'זמן מסך ב-7 הימים האחרונים',

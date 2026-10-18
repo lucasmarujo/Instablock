@@ -87,7 +87,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Fungerar inte på iPhone än',
       mensagem:
-        'Än så länge blockerar AceleraLock bara appar på Android. På iPhone kräver blockeringen ett särskilt tillstånd från Apple.',
+        'Än så länge blockerar Instablock bara appar på Android. På iPhone kräver blockeringen ett särskilt tillstånd från Apple.',
       saibaMais: 'Läs mer',
       legenda: 'Öppnar {site} i webbläsaren.',
     },
@@ -177,7 +177,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Låt impulsen vänta.',
       subtitulo:
-        'Välj apparna som stjäl din tid. När lusten att öppna dem kommer står AceleraLock i vägen.',
+        'Välj apparna som stjäl din tid. När lusten att öppna dem kommer står Instablock i vägen.',
       promessaBloqueio: 'Blockerar apparna och webbplatserna du väljer',
       promessaEspera: {
         one: 'Att ändra dig kan kräva {n} min väntetid',
@@ -264,7 +264,7 @@ export const textos: Textos = {
         one: '{n} app blockerad.',
         other: '{n} appar blockerade.',
       },
-      subtitulo: 'När lusten att öppna kommer står AceleraLock i vägen.',
+      subtitulo: 'När lusten att öppna kommer står Instablock i vägen.',
       aPartirDeAgora: 'Från och med nu',
       eMaisApps: {
         one: 'Och {n} app till, från och med nu',
@@ -388,7 +388,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Aktivera läsning av webbläsaren för att blockera webbplatser',
       avisoAcessibilidadeMensagem:
-        'AceleraLock använder Androids tillgänglighetstjänst bara för att läsa adressen i adressfältet i Chrome, Samsung Internet, Firefox, Edge och Brave och jämföra den med din lista. Den läser inte innehållet på sidorna, sparar inte vad du besöker, och inget lämnar enheten.',
+        'Instablock använder Androids tillgänglighetstjänst bara för att läsa adressen i adressfältet i Chrome, Samsung Internet, Firefox, Edge och Brave och jämföra den med din lista. Den läser inte innehållet på sidorna, sparar inte vad du besöker, och inget lämnar enheten.',
       ativarNasConfiguracoes: 'Aktivera i Inställningar',
       erroAoLer:
         'Det gick inte att läsa listan med webbplatser. Gå ut och in på den här skärmen igen för att försöka på nytt.',
@@ -481,7 +481,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Så fort du använder mobilen dyker apparna upp här.',
     historicoComecaTitulo: 'Din historik börjar nu',
     historicoComecaMensagem:
-      'Från och med i dag sparar AceleraLock hur mycket tid du lägger på skärmen, och det här diagrammet fylls på av sig självt.',
+      'Från och med i dag sparar Instablock hur mycket tid du lägger på skärmen, och det här diagrammet fylls på av sig självt.',
     ultimos7Dias: 'Senaste 7 dagarna',
     legendaEstimativa: 'din uppskattning',
     legendaGraficoSemana: 'Skärmtid de senaste 7 dagarna',

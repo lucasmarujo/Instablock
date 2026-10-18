@@ -91,7 +91,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'Na iPhoneu još ne radi',
       mensagem:
-        'Za sada AceleraLock blokira aplikacije samo na Androidu. Na iPhoneu blokiranje ovisi o posebnom odobrenju Applea.',
+        'Za sada Instablock blokira aplikacije samo na Androidu. Na iPhoneu blokiranje ovisi o posebnom odobrenju Applea.',
       saibaMais: 'Saznaj više',
       legenda: 'Otvara {site} u pregledniku.',
     },
@@ -184,7 +184,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Neka poriv pričeka.',
       subtitulo:
-        'Odaberi aplikacije koje ti kradu vrijeme. Kad te uhvati želja da ih otvoriš, AceleraLock se nađe na putu.',
+        'Odaberi aplikacije koje ti kradu vrijeme. Kad te uhvati želja da ih otvoriš, Instablock se nađe na putu.',
       promessaBloqueio: 'Blokira aplikacije i web-stranice koje odabereš',
       promessaEspera: {
         one: 'Ako se predomisliš, možda ćeš morati pričekati {n} min',
@@ -278,7 +278,7 @@ export const textos: Textos = {
         few: '{n} aplikacije su blokirane.',
         other: '{n} aplikacija je blokirano.',
       },
-      subtitulo: 'Kad te uhvati želja da otvoriš, AceleraLock se nađe na putu.',
+      subtitulo: 'Kad te uhvati želja da otvoriš, Instablock se nađe na putu.',
       aPartirDeAgora: 'Od sada',
       eMaisApps: {
         one: 'I još {n} aplikacija, od sada',
@@ -415,7 +415,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Za blokiranje web-stranica uključi čitanje preglednika',
       avisoAcessibilidadeMensagem:
-        'AceleraLock koristi Androidovu uslugu pristupačnosti samo da pročita adresu u adresnoj traci preglednika Chrome, Samsung Internet, Firefox, Edge i Brave i usporedi je s tvojim popisom. Ne čita sadržaj stranica, ne sprema ono što posjećuješ i ništa ne napušta uređaj.',
+        'Instablock koristi Androidovu uslugu pristupačnosti samo da pročita adresu u adresnoj traci preglednika Chrome, Samsung Internet, Firefox, Edge i Brave i usporedi je s tvojim popisom. Ne čita sadržaj stranica, ne sprema ono što posjećuješ i ništa ne napušta uređaj.',
       ativarNasConfiguracoes: 'Uključi u Postavkama',
       erroAoLer:
         'Popis web-stranica nije se mogao učitati. Izađi i ponovno otvori ovaj zaslon da pokušaš opet.',
@@ -509,7 +509,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Čim počneš koristiti mobitel, aplikacije će se pojaviti ovdje.',
     historicoComecaTitulo: 'Tvoja povijest počinje sada',
     historicoComecaMensagem:
-      'Od danas AceleraLock bilježi koliko vremena provodiš pred zaslonom, a ovaj se grafikon sam popunjava.',
+      'Od danas Instablock bilježi koliko vremena provodiš pred zaslonom, a ovaj se grafikon sam popunjava.',
     ultimos7Dias: 'Posljednjih 7 dana',
     legendaEstimativa: 'tvoja procjena',
     legendaGraficoSemana: 'Vrijeme pred zaslonom u posljednjih 7 dana',

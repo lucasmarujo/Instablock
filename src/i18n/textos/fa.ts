@@ -87,7 +87,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'هنوز روی iPhone کار نمی‌کند',
       mensagem:
-        'فعلاً AceleraLock فقط روی Android برنامه‌ها را مسدود می‌کند. در iPhone، مسدود کردن به مجوز ویژه‌ای از Apple بستگی دارد.',
+        'فعلاً Instablock فقط روی Android برنامه‌ها را مسدود می‌کند. در iPhone، مسدود کردن به مجوز ویژه‌ای از Apple بستگی دارد.',
       saibaMais: 'بیشتر بدانید',
       legenda: '{site} را در مرورگر باز می‌کند.',
     },
@@ -177,7 +177,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'بگذارید وسوسه منتظر بماند.',
       subtitulo:
-        'برنامه‌هایی را که وقتتان را می‌دزدند انتخاب کنید. وقتی هوس باز کردنشان به سرتان زد، AceleraLock سر راهتان است.',
+        'برنامه‌هایی را که وقتتان را می‌دزدند انتخاب کنید. وقتی هوس باز کردنشان به سرتان زد، Instablock سر راهتان است.',
       promessaBloqueio: 'برنامه‌ها و سایت‌هایی را که انتخاب کنید مسدود می‌کند',
       promessaEspera: {
         one: 'تغییر تصمیم ممکن است {n} دقیقه انتظار بخواهد',
@@ -264,7 +264,7 @@ export const textos: Textos = {
         one: '{n} برنامه مسدود شد.',
         other: '{n} برنامه مسدود شد.',
       },
-      subtitulo: 'وقتی هوس باز کردن به سرتان زد، AceleraLock سر راهتان است.',
+      subtitulo: 'وقتی هوس باز کردن به سرتان زد، Instablock سر راهتان است.',
       aPartirDeAgora: 'از همین حالا',
       eMaisApps: {
         one: 'و {n} برنامهٔ دیگر، از همین حالا',
@@ -388,7 +388,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'برای مسدود کردن سایت‌ها، خواندن مرورگر را فعال کنید',
       avisoAcessibilidadeMensagem:
-        'AceleraLock از سرویس دسترس‌پذیری Android فقط برای خواندن نشانی نوار آدرس Chrome،‏ Samsung Internet،‏ Firefox،‏ Edge و Brave و مقایسهٔ آن با فهرست شما استفاده می‌کند. محتوای صفحه‌ها را نمی‌خواند، سایت‌هایی را که می‌بینید نگه نمی‌دارد و هیچ چیز از دستگاه بیرون نمی‌رود.',
+        'Instablock از سرویس دسترس‌پذیری Android فقط برای خواندن نشانی نوار آدرس Chrome،‏ Samsung Internet،‏ Firefox،‏ Edge و Brave و مقایسهٔ آن با فهرست شما استفاده می‌کند. محتوای صفحه‌ها را نمی‌خواند، سایت‌هایی را که می‌بینید نگه نمی‌دارد و هیچ چیز از دستگاه بیرون نمی‌رود.',
       ativarNasConfiguracoes: 'فعال‌سازی در تنظیمات',
       erroAoLer:
         'فهرست سایت‌ها خوانده نشد. از این صفحه بیرون بروید و دوباره وارد شوید تا دوباره امتحان شود.',
@@ -480,7 +480,7 @@ export const textos: Textos = {
       'به محض اینکه از گوشی استفاده کنید، برنامه‌ها اینجا نمایش داده می‌شوند.',
     historicoComecaTitulo: 'سابقهٔ شما از همین حالا شروع می‌شود',
     historicoComecaMensagem:
-      'از امروز AceleraLock ثبت می‌کند چقدر وقت پای صفحه می‌گذرانید و این نمودار خودش پر می‌شود.',
+      'از امروز Instablock ثبت می‌کند چقدر وقت پای صفحه می‌گذرانید و این نمودار خودش پر می‌شود.',
     ultimos7Dias: 'هفت روز گذشته',
     legendaEstimativa: 'تخمین شما',
     legendaGraficoSemana: 'زمان صفحه‌نمایش در هفت روز گذشته',

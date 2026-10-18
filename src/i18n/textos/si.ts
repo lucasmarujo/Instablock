@@ -95,7 +95,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'තවම iPhone හි ක්‍රියා නොකරයි',
       mensagem:
-        'දැනට AceleraLock ඇප් අවහිර කරන්නේ Android හි පමණයි. iPhone හි අවහිර කිරීම Apple වෙතින් ලැබෙන විශේෂ අවසරයක් මත රඳා පවතී.',
+        'දැනට Instablock ඇප් අවහිර කරන්නේ Android හි පමණයි. iPhone හි අවහිර කිරීම Apple වෙතින් ලැබෙන විශේෂ අවසරයක් මත රඳා පවතී.',
       saibaMais: 'තව දැනගන්න',
       legenda: 'බ්‍රවුසරයේ {site} විවෘත කරයි.',
     },
@@ -185,7 +185,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'ආවේගයට බලා සිටීමට සලස්වන්න.',
       subtitulo:
-        'ඔබේ කාලය සොරකම් කරන ඇප් තෝරන්න. ඒවා විවෘත කිරීමේ ආශාව ඇති වූ විට AceleraLock මාර්ගයට ඇවිත් නවතී.',
+        'ඔබේ කාලය සොරකම් කරන ඇප් තෝරන්න. ඒවා විවෘත කිරීමේ ආශාව ඇති වූ විට Instablock මාර්ගයට ඇවිත් නවතී.',
       promessaBloqueio: 'ඔබ තෝරන ඇප් සහ වෙබ් අඩවි අවහිර කරයි',
       promessaEspera: {
         one: 'අදහස වෙනස් කිරීමට විනාඩි {n} ක් රැඳී සිටීමට සිදු විය හැක',
@@ -272,7 +272,7 @@ export const textos: Textos = {
         one: 'ඇප් {n} ක් අවහිර කර ඇත.',
         other: 'ඇප් {n} ක් අවහිර කර ඇත.',
       },
-      subtitulo: 'විවෘත කිරීමේ ආශාව ඇති වූ විට AceleraLock මාර්ගයට ඇවිත් නවතී.',
+      subtitulo: 'විවෘත කිරීමේ ආශාව ඇති වූ විට Instablock මාර්ගයට ඇවිත් නවතී.',
       aPartirDeAgora: 'මෙතැන් සිට',
       eMaisApps: {
         one: 'තවත් ඇප් {n} ක්, මෙතැන් සිට',
@@ -396,7 +396,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'වෙබ් අඩවි අවහිර කිරීමට බ්‍රවුසරය කියවීම සක්‍රීය කරන්න',
       avisoAcessibilidadeMensagem:
-        'AceleraLock Android හි ප්‍රවේශ්‍යතා සේවාව භාවිත කරන්නේ Chrome, Samsung Internet, Firefox, Edge සහ Brave හි ලිපින තීරුවේ ඇති ලිපිනය කියවා ඔබේ ලැයිස්තුවට සසඳන්න පමණයි. පිටුවල අන්තර්ගතය කියවන්නේ නැහැ, ඔබ බලන දේ සුරකින්නේ නැහැ, කිසිවක් උපාංගයෙන් පිටතට නොයයි.',
+        'Instablock Android හි ප්‍රවේශ්‍යතා සේවාව භාවිත කරන්නේ Chrome, Samsung Internet, Firefox, Edge සහ Brave හි ලිපින තීරුවේ ඇති ලිපිනය කියවා ඔබේ ලැයිස්තුවට සසඳන්න පමණයි. පිටුවල අන්තර්ගතය කියවන්නේ නැහැ, ඔබ බලන දේ සුරකින්නේ නැහැ, කිසිවක් උපාංගයෙන් පිටතට නොයයි.',
       ativarNasConfiguracoes: 'සැකසුම්වලින් සක්‍රීය කරන්න',
       erroAoLer:
         'වෙබ් අඩවි ලැයිස්තුව කියවිය නොහැකි වුණා. මේ තිරයෙන් පිටතට ගොස් නැවත ඇතුළු වී බලන්න.',
@@ -487,7 +487,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'ඔබ දුරකථනය භාවිත කළ සැණින් ඇප් මෙහි පෙනේ.',
     historicoComecaTitulo: 'ඔබේ ඉතිහාසය දැන් ආරම්භ වේ',
     historicoComecaMensagem:
-      'අද සිට AceleraLock ඔබ තිරයේ ගත කරන කාලය සුරකියි, මේ ප්‍රස්ථාරය තනිවම පිරේ.',
+      'අද සිට Instablock ඔබ තිරයේ ගත කරන කාලය සුරකියි, මේ ප්‍රස්ථාරය තනිවම පිරේ.',
     ultimos7Dias: 'අවසන් දින 7',
     legendaEstimativa: 'ඔබේ ඇස්තමේන්තුව',
     legendaGraficoSemana: 'අවසන් දින 7 තුළ තිර කාලය',

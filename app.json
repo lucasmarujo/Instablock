@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "AceleraLock",
+    "name": "Instablock",
     "slug": "aceleralock",
     "scheme": "aceleralock",
     "version": "0.1.0",
@@ -19,7 +19,7 @@
     },
     "android": {
       "package": "dev.marujo.appblocker",
-      "versionCode": 4,
+      "versionCode": 5,
       "allowBackup": true,
       "softwareKeyboardLayoutMode": "resize",
       "adaptiveIcon": {

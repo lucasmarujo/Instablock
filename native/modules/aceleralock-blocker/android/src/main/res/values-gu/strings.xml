@@ -5,6 +5,6 @@
     <string name="aceleralock_block_close">બંધ કરો</string>
     <string name="aceleralock_notification_channel">સુરક્ષા ચાલુ છે</string>
     <string name="aceleralock_notification_text">સુરક્ષા ચાલુ છે</string>
-    <string name="aceleralock_site_accessibility_label">AceleraLock: સાઇટ બ્લૉકિંગ</string>
+    <string name="aceleralock_site_accessibility_label">Instablock: સાઇટ બ્લૉકિંગ</string>
     <string name="aceleralock_site_accessibility_description">તમે પસંદ કરેલી સાઇટ્સ બ્લૉક કરવા માટે Chrome, Samsung Internet, Firefox, Edge અને Brave ની બારમાંનું ફક્ત સરનામું વાંચે છે. કંઈ સંગ્રહાતું નથી અને કંઈ ઉપકરણની બહાર જતું નથી.</string>
 </resources>

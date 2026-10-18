@@ -87,7 +87,7 @@ export const textos: Textos = {
     naoSuportado: {
       titulo: 'iPhone-on még nem működik',
       mensagem:
-        'Az AceleraLock egyelőre csak Androidon tud appokat letiltani. iPhone-on a letiltáshoz az Apple külön engedélye kell.',
+        'Az Instablock egyelőre csak Androidon tud appokat letiltani. iPhone-on a letiltáshoz az Apple külön engedélye kell.',
       saibaMais: 'További információ',
       legenda: 'Megnyílik a böngészőben: {site}',
     },
@@ -177,7 +177,7 @@ export const textos: Textos = {
     boasVindas: {
       titulo: 'Várasd meg a késztetést.',
       subtitulo:
-        'Válaszd ki az appokat, amelyek elrabolják az idődet. Amikor rád tör, hogy megnyisd őket, az AceleraLock közbelép.',
+        'Válaszd ki az appokat, amelyek elrabolják az idődet. Amikor rád tör, hogy megnyisd őket, az Instablock közbelép.',
       promessaBloqueio: 'Letiltja az általad választott appokat és webhelyeket',
       promessaEspera: {
         one: 'Ha meggondolod magad, {n} percet várnod kellhet',
@@ -264,7 +264,7 @@ export const textos: Textos = {
         one: '{n} app letiltva.',
         other: '{n} app letiltva.',
       },
-      subtitulo: 'Amikor rád tör, hogy megnyisd, az AceleraLock közbelép.',
+      subtitulo: 'Amikor rád tör, hogy megnyisd, az Instablock közbelép.',
       aPartirDeAgora: 'Mostantól',
       eMaisApps: {
         one: 'És még {n} app, mostantól',
@@ -388,7 +388,7 @@ export const textos: Textos = {
     sites: {
       avisoAcessibilidadeTitulo: 'Kapcsold be a címsorolvasást a webhelyek letiltásához',
       avisoAcessibilidadeMensagem:
-        'Az AceleraLock az Android kisegítő szolgáltatását csak arra használja, hogy kiolvassa a webcímet a Chrome, a Samsung Internet, a Firefox, az Edge és a Brave címsorából, és összevesse a listáddal. Nem olvassa az oldalak tartalmát, nem tárolja, mit látogatsz meg, és semmi sem hagyja el a készüléket.',
+        'Az Instablock az Android kisegítő szolgáltatását csak arra használja, hogy kiolvassa a webcímet a Chrome, a Samsung Internet, a Firefox, az Edge és a Brave címsorából, és összevesse a listáddal. Nem olvassa az oldalak tartalmát, nem tárolja, mit látogatsz meg, és semmi sem hagyja el a készüléket.',
       ativarNasConfiguracoes: 'Bekapcsolás a Beállításokban',
       erroAoLer:
         'Nem sikerült beolvasni a webhelyek listáját. Lépj ki, majd nyisd meg újra ezt a képernyőt.',
@@ -481,7 +481,7 @@ export const textos: Textos = {
     nadaRegistradoMensagem: 'Amint használod a telefont, itt megjelennek az appok.',
     historicoComecaTitulo: 'Az előzményeid most kezdődnek',
     historicoComecaMensagem:
-      'Mostantól az AceleraLock rögzíti, mennyi időt töltesz a képernyő előtt, és ez a grafikon magától megtelik.',
+      'Mostantól az Instablock rögzíti, mennyi időt töltesz a képernyő előtt, és ez a grafikon magától megtelik.',
     ultimos7Dias: 'Az elmúlt 7 nap',
     legendaEstimativa: 'a becslésed',
     legendaGraficoSemana: 'Képernyőidő az elmúlt 7 napban',
