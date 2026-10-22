@@ -412,6 +412,17 @@ de sites da aba Bloqueios explica o que é lido **antes** de mandar para as Conf
 que mudam entre versões dos navegadores e só quebram em aparelho, e "configurações
 restritas" a liberar à mão no Android 13+ fora da Play.
 
+**(mudou, 2026-10-22)** A Play recusou a vc5 por dois itens da política da API
+Accessibility: o pedido tinha **um botão só** ("Ativar nas Configurações") e a descrição
+longa da ficha não citava o uso da API. Agora todo caminho até
+`ACCESSIBILITY_SETTINGS` (aba Sites, aviso da Início e linha da permissão em Ajustes)
+abre antes `ConsentimentoAcessibilidade`: folha que nomeia a API AccessibilityService,
+diz o que é lido, para que serve e o que nunca acontece, com **"Concordo e ativar"** e
+**"Agora não"**. Recusar, tocar fora ou voltar fecha sem abrir nada — fechar nunca conta
+como consentimento. `tests/consentimentoAcessibilidade.test.ts` trava que nenhum outro
+arquivo abre essas Configurações direto. A descrição longa da ficha ganhou um parágrafo
+sobre a API.
+
 ### iOS delega o bloqueio ao sistema
 
 `ManagedSettings.webContent.blockedByFilter = .specific(...)` com os domínios

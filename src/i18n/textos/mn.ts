@@ -406,6 +406,22 @@ export const textos: Textos = {
       removerFalado: '{site}-г хасах',
       leituraAtiva: 'Хөтчийн унших тохиргоо идэвхтэй · сайтууд блоклогдсон',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Сайтуудыг блоклохын тулд хүртээмжийг ашиглах уу?',
+      introducao:
+        'Instablock таны жагсаалтад байгаа сайтуудыг блоклохын тулд Android-ын AccessibilityService API-г ашигладаг. Та зөвшөөрсөн тохиолдолд л асна.',
+      lidoTitulo: 'Юу уншигддаг вэ',
+      lido: 'Зөвхөн Chrome, Samsung Internet, Firefox, Edge, Brave хөтчийн хаягийн мөрөнд байгаа хаяг. Өөр ямар ч апп уншигддаггүй.',
+      usoTitulo: 'Юунд хэрэгтэй вэ',
+      uso: 'Хаягийг таны жагсаалттай харьцуулж, сайт жагсаалтад байвал блоклох дэлгэцийг харуулахад.',
+      privacidadeTitulo: 'Хэзээ ч болдоггүй зүйл',
+      privacidade:
+        'Хуудасны агуулгыг уншдаггүй, хаягуудыг хадгалдаггүй, юуг ч төхөөрөмжөөс гадагш илгээдэггүй, хуваалцдаггүй.',
+      comoDesligar:
+        'Зөвшөөрвөл Android-ын Тохиргоо руу орж, Хүртээмж хэсэгт Instablock-ийг асаана. Хүссэн үедээ унтрааж болно.',
+      concordar: 'Зөвшөөрч, асаах',
+      recusar: 'Одоохондоо үгүй',
+    },
     horarios: {
       titulo: 'Чөлөөт цаг',
       rotuloFolhaFalado: '{app}-н чөлөөт цаг',

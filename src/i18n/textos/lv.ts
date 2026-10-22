@@ -448,6 +448,22 @@ export const textos: Textos = {
       removerFalado: 'Noņemt {site}',
       leituraAtiva: 'Pārlūka nolasīšana ieslēgta · vietnes ir bloķētas',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Izmantot pieejamību, lai bloķētu vietnes?',
+      introducao:
+        'Instablock izmanto Android AccessibilityService API, lai bloķētu vietnes tavā sarakstā. Tas tiek ieslēgts tikai tad, ja piekrīti.',
+      lidoTitulo: 'Ko nolasa',
+      lido: 'Tikai adresi Chrome, Samsung Internet, Firefox, Edge un Brave adreses joslā. Citas lietotnes netiek lasītas.',
+      usoTitulo: 'Kam tas paredzēts',
+      uso: 'Salīdzināt adresi ar tavu sarakstu un parādīt bloķēšanas ekrānu, kad vietne ir sarakstā.',
+      privacidadeTitulo: 'Kas nekad nenotiek',
+      privacidade:
+        'Lapu saturs netiek lasīts, adreses netiek saglabātas, un nekas netiek sūtīts ārpus ierīces vai kopīgots.',
+      comoDesligar:
+        'Ja piekrīti, tu tiksi aizvests uz Android iestatījumiem, lai sadaļā Pieejamība ieslēgtu Instablock. Izslēgt to vari jebkurā laikā.',
+      concordar: 'Piekrītu un ieslēdzu',
+      recusar: 'Ne tagad',
+    },
     horarios: {
       titulo: 'Brīvie laiki',
       rotuloFolhaFalado: 'Brīvie laiki lietotnei {app}',

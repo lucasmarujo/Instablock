@@ -381,6 +381,22 @@ export const textos: Textos = {
       removerFalado: 'Gỡ {site}',
       leituraAtiva: 'Đọc trình duyệt đang bật · các trang web đang bị chặn',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Dùng trợ năng để chặn trang web?',
+      introducao:
+        'Instablock dùng API AccessibilityService của Android để chặn các trang web trong danh sách của bạn. API này chỉ được bật nếu bạn đồng ý.',
+      lidoTitulo: 'Nội dung được đọc',
+      lido: 'Chỉ đọc địa chỉ trên thanh địa chỉ của Chrome, Samsung Internet, Firefox, Edge và Brave. Không đọc bất kỳ ứng dụng nào khác.',
+      usoTitulo: 'Dùng để làm gì',
+      uso: 'So sánh địa chỉ với danh sách của bạn và hiện màn hình chặn khi trang web nằm trong danh sách.',
+      privacidadeTitulo: 'Điều không bao giờ xảy ra',
+      privacidade:
+        'Nội dung trang không được đọc, địa chỉ không được lưu, và không có gì được gửi ra ngoài thiết bị hay chia sẻ.',
+      comoDesligar:
+        'Nếu bạn đồng ý, bạn sẽ được chuyển đến Cài đặt của Android để bật Instablock trong phần Hỗ trợ tiếp cận. Bạn có thể tắt bất cứ lúc nào.',
+      concordar: 'Đồng ý và bật',
+      recusar: 'Để sau',
+    },
     horarios: {
       titulo: 'Khung giờ tự do',
       rotuloFolhaFalado: 'Khung giờ tự do của {app}',

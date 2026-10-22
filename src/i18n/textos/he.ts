@@ -439,6 +439,22 @@ export const textos: Textos = {
       removerFalado: 'הסרת {site}',
       leituraAtiva: 'קריאת הדפדפן פעילה · האתרים חסומים',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'להשתמש בנגישות כדי לחסום אתרים?',
+      introducao:
+        'Instablock משתמש בממשק AccessibilityService API של Android כדי לחסום את האתרים שברשימה שלך. הוא מופעל רק אם תסכים.',
+      lidoTitulo: 'מה נקרא',
+      lido: 'רק הכתובת בשורת הכתובת של Chrome,‏ Samsung Internet,‏ Firefox,‏ Edge ו-Brave. אף אפליקציה אחרת לא נקראת.',
+      usoTitulo: 'למה זה משמש',
+      uso: 'להשוות את הכתובת לרשימה שלך ולהציג את מסך החסימה כשהאתר נמצא בה.',
+      privacidadeTitulo: 'מה לא קורה לעולם',
+      privacidade:
+        'תוכן הדפים לא נקרא, הכתובות לא נשמרות, ושום דבר לא נשלח אל מחוץ למכשיר ולא משותף.',
+      comoDesligar:
+        'אם תסכים, תועבר להגדרות של Android כדי להפעיל את Instablock תחת נגישות. אפשר לכבות אותו בכל עת.',
+      concordar: 'מסכים ומפעיל',
+      recusar: 'לא עכשיו',
+    },
     horarios: {
       titulo: 'שעות חופשיות',
       rotuloFolhaFalado: 'שעות חופשיות של {app}',

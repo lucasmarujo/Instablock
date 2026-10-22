@@ -460,6 +460,22 @@ export const textos: Textos = {
       removerFalado: 'Odstrani {site}',
       leituraAtiva: 'Branje brskalnika je vklopljeno · spletna mesta so blokirana',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Uporabiti dostopnost za blokiranje spletnih mest?',
+      introducao:
+        'Instablock uporablja API AccessibilityService v Androidu za blokiranje spletnih mest z tvojega seznama. Vklopi se samo, če se strinjaš.',
+      lidoTitulo: 'Kaj se bere',
+      lido: 'Samo naslov v naslovni vrstici brskalnikov Chrome, Samsung Internet, Firefox, Edge in Brave. Nobena druga aplikacija se ne bere.',
+      usoTitulo: 'Čemu služi',
+      uso: 'Primerjava naslova s tvojim seznamom in prikaz zaslona z blokado, ko je spletno mesto na njem.',
+      privacidadeTitulo: 'Kaj se ne zgodi nikoli',
+      privacidade:
+        'Vsebina strani se ne bere, naslovi se ne shranjujejo in nič se ne pošilja zunaj naprave ali deli.',
+      comoDesligar:
+        'Če se strinjaš, boš šel v nastavitve Androida, da vklopiš Instablock v Dostopnosti. Izklopiš ga lahko kadar koli.',
+      concordar: 'Strinjam se in vklopi',
+      recusar: 'Ne zdaj',
+    },
     horarios: {
       titulo: 'Prosti termini',
       rotuloFolhaFalado: 'Prosti termini za {app}',

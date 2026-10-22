@@ -405,6 +405,22 @@ export const textos: Textos = {
       removerFalado: '{site}ను తొలగించు',
       leituraAtiva: 'బ్రౌజర్ చదవడం ఆన్ · సైట్‌లు బ్లాక్ అయ్యాయి',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'సైట్‌లను బ్లాక్ చేయడానికి యాక్సెసిబిలిటీని ఉపయోగించాలా?',
+      introducao:
+        'మీ జాబితాలోని సైట్‌లను బ్లాక్ చేయడానికి Instablock Android AccessibilityService APIని ఉపయోగిస్తుంది. మీరు అంగీకరిస్తేనే ఇది ఆన్ అవుతుంది.',
+      lidoTitulo: 'ఏమి చదువుతుంది',
+      lido: 'Chrome, Samsung Internet, Firefox, Edge, Brave అడ్రస్ బార్‌లోని చిరునామా మాత్రమే. మరే యాప్‌నూ చదవదు.',
+      usoTitulo: 'ఇది దేనికి',
+      uso: 'చిరునామాను మీ జాబితాతో పోల్చి, సైట్ జాబితాలో ఉంటే బ్లాక్ స్క్రీన్‌ను చూపడానికి.',
+      privacidadeTitulo: 'ఎప్పటికీ జరగనివి',
+      privacidade:
+        'పేజీల కంటెంట్‌ను చదవదు, చిరునామాలను సేవ్ చేయదు, ఏదీ పరికరం నుంచి బయటకు పంపదు లేదా షేర్ చేయదు.',
+      comoDesligar:
+        'అంగీకరిస్తే, Android సెట్టింగ్‌లకు వెళ్లి యాక్సెసిబిలిటీలో Instablockను ఆన్ చేస్తారు. దీన్ని మీరు ఎప్పుడైనా ఆఫ్ చేయవచ్చు.',
+      concordar: 'అంగీకరిస్తున్నాను, ఆన్ చేయి',
+      recusar: 'ఇప్పుడు కాదు',
+    },
     horarios: {
       titulo: 'ఉచిత సమయాలు',
       rotuloFolhaFalado: '{app} ఉచిత సమయాలు',

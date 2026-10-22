@@ -1,6 +1,6 @@
 import { Ionicons } from '@expo/vector-icons';
 import { useCallback, useState, type ReactElement } from 'react';
-import { Linking, Platform, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
+import { Platform, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { useFocusEffect } from 'expo-router';
 
 import { EmptyState } from '@/components/EmptyState';
@@ -21,6 +21,7 @@ import {
   tituloDaBarra,
   totalDeAlteracoes,
 } from './bloqueios';
+import { ConsentimentoAcessibilidade } from './ConsentimentoAcessibilidade';
 
 type Carga = { estado: 'erro' } | { estado: 'pronto'; salvos: string[]; dominios: string[] };
 
@@ -46,9 +47,10 @@ type Props = {
  * so no "Salvar". Adicionar e remover sao livres, como na lista de apps.
  *
  * No Android o bloqueio depende do servico de acessibilidade, que e opcional. O
- * aviso explica o que ele le antes de mandar a pessoa pras Configuracoes — a
- * divulgacao vem antes do pedido, nunca depois. A volta das Configuracoes
- * reavalia sozinha: o veredito ja rele as permissoes quando o app volta ao ar.
+ * aviso abre o consentimento, e so o "Concordo" de la manda a pessoa pras
+ * Configuracoes — a divulgacao vem antes do pedido, nunca depois. A volta das
+ * Configuracoes reavalia sozinha: o veredito ja rele as permissoes quando o app
+ * volta ao ar.
  */
 export function PainelSites({ cabecalho, restricted, permissions, onSalvo }: Props) {
   const theme = useTheme();
@@ -58,6 +60,7 @@ export function PainelSites({ cabecalho, restricted, permissions, onSalvo }: Pro
   const [entrada, setEntrada] = useState('');
   const [invalido, setInvalido] = useState(false);
   const [salvando, setSalvando] = useState(false);
+  const [pedindoConsentimento, setPedindoConsentimento] = useState(false);
 
   useFocusEffect(
     useCallback(() => {
@@ -124,11 +127,7 @@ export function PainelSites({ cabecalho, restricted, permissions, onSalvo }: Pro
             title={textos.avisoAcessibilidadeTitulo}
             message={textos.avisoAcessibilidadeMensagem}
             actionLabel={textos.ativarNasConfiguracoes}
-            onAction={() =>
-              Linking.sendIntent('android.settings.ACCESSIBILITY_SETTINGS').catch(() =>
-                Linking.openSettings()
-              )
-            }
+            onAction={() => setPedindoConsentimento(true)}
           />
         )}
 
@@ -251,6 +250,11 @@ export function PainelSites({ cabecalho, restricted, permissions, onSalvo }: Pro
           onSalvar={salvar}
         />
       )}
+
+      <ConsentimentoAcessibilidade
+        visible={pedindoConsentimento}
+        onClose={() => setPedindoConsentimento(false)}
+      />
     </View>
   );
 }

@@ -407,6 +407,22 @@ export const textos: Textos = {
       removerFalado: 'Elimina {site}',
       leituraAtiva: 'Lectura del navegador activa · els webs estan bloquejats',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Vols fer servir l’accessibilitat per bloquejar webs?',
+      introducao:
+        'Instablock fa servir l’API AccessibilityService d’Android per bloquejar els webs de la teva llista. Només s’activa si hi estàs d’acord.',
+      lidoTitulo: 'Què es llegeix',
+      lido: 'Només l’adreça de la barra d’adreces de Chrome, Samsung Internet, Firefox, Edge i Brave. No es llegeix cap altra aplicació.',
+      usoTitulo: 'Per a què serveix',
+      uso: 'Comparar l’adreça amb la teva llista i mostrar la pantalla de bloqueig quan el web hi és.',
+      privacidadeTitulo: 'Què no passa mai',
+      privacidade:
+        'No es llegeix el contingut de les pàgines, no es desen les adreces i no s’envia ni es comparteix res fora del dispositiu.',
+      comoDesligar:
+        'Si hi estàs d’acord, aniràs a la Configuració d’Android per activar Instablock a Accessibilitat. El pots desactivar quan vulguis.',
+      concordar: 'Hi estic d’acord i activa',
+      recusar: 'Ara no',
+    },
     horarios: {
       titulo: 'Horaris lliures',
       rotuloFolhaFalado: 'Horaris lliures de {app}',

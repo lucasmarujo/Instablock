@@ -407,6 +407,22 @@ export const textos: Textos = {
       removerFalado: '{site} ہٹائیں',
       leituraAtiva: 'براؤزر ریڈنگ آن ہے · سائٹس بلاک ہیں',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'سائٹس بلاک کرنے کے لیے ایکسیسبیلٹی استعمال کریں؟',
+      introducao:
+        'Instablock آپ کی فہرست کی سائٹس بلاک کرنے کے لیے Android کی AccessibilityService API استعمال کرتا ہے۔ یہ صرف تب آن ہوتی ہے جب آپ اتفاق کریں۔',
+      lidoTitulo: 'کیا پڑھا جاتا ہے',
+      lido: 'صرف Chrome، Samsung Internet، Firefox، Edge اور Brave کی ایڈریس بار میں لکھا پتا۔ کوئی اور ایپ نہیں پڑھی جاتی۔',
+      usoTitulo: 'اس کا مقصد',
+      uso: 'پتے کو آپ کی فہرست سے ملانا اور سائٹ فہرست میں ہو تو بلاک اسکرین دکھانا۔',
+      privacidadeTitulo: 'کیا کبھی نہیں ہوتا',
+      privacidade:
+        'صفحات کا مواد نہیں پڑھا جاتا، پتے محفوظ نہیں کیے جاتے اور کچھ بھی فون سے باہر نہیں بھیجا جاتا اور نہ ہی شیئر کیا جاتا ہے۔',
+      comoDesligar:
+        'اتفاق کرنے پر آپ Android کی سیٹنگز میں جائیں گے تاکہ ایکسیسبیلٹی میں Instablock کو آن کریں۔ آپ جب چاہیں اسے بند کر سکتے ہیں۔',
+      concordar: 'اتفاق ہے، آن کریں',
+      recusar: 'ابھی نہیں',
+    },
     horarios: {
       titulo: 'چھوٹ کے اوقات',
       rotuloFolhaFalado: '{app} کے چھوٹ کے اوقات',

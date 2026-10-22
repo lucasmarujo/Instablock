@@ -405,6 +405,22 @@ export const textos: Textos = {
       removerFalado: '{site} ਹਟਾਓ',
       leituraAtiva: 'ਬ੍ਰਾਊਜ਼ਰ ਪੜ੍ਹਨਾ ਚਾਲੂ · ਸਾਈਟਾਂ ਬਲੌਕ ਹਨ',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'ਸਾਈਟਾਂ ਬਲੌਕ ਕਰਨ ਲਈ ਪਹੁੰਚਯੋਗਤਾ ਵਰਤਣੀ ਹੈ?',
+      introducao:
+        'Instablock ਤੁਹਾਡੀ ਸੂਚੀ ਦੀਆਂ ਸਾਈਟਾਂ ਬਲੌਕ ਕਰਨ ਲਈ Android ਦੀ AccessibilityService API ਵਰਤਦਾ ਹੈ। ਇਹ ਸਿਰਫ਼ ਤਾਂ ਹੀ ਚਾਲੂ ਹੁੰਦੀ ਹੈ ਜੇ ਤੁਸੀਂ ਸਹਿਮਤ ਹੋਵੋ।',
+      lidoTitulo: 'ਕੀ ਪੜ੍ਹਿਆ ਜਾਂਦਾ ਹੈ',
+      lido: 'ਸਿਰਫ਼ Chrome, Samsung Internet, Firefox, Edge ਅਤੇ Brave ਦੀ ਐਡਰੈੱਸ ਬਾਰ ਵਿੱਚ ਲਿਖਿਆ ਪਤਾ। ਕੋਈ ਹੋਰ ਐਪ ਨਹੀਂ ਪੜ੍ਹੀ ਜਾਂਦੀ।',
+      usoTitulo: 'ਇਹ ਕਿਸ ਲਈ ਹੈ',
+      uso: 'ਪਤੇ ਨੂੰ ਤੁਹਾਡੀ ਸੂਚੀ ਨਾਲ ਮਿਲਾਉਣ ਅਤੇ ਸਾਈਟ ਸੂਚੀ ਵਿੱਚ ਹੋਣ ਤੇ ਬਲੌਕ ਸਕ੍ਰੀਨ ਦਿਖਾਉਣ ਲਈ।',
+      privacidadeTitulo: 'ਜੋ ਕਦੇ ਨਹੀਂ ਹੁੰਦਾ',
+      privacidade:
+        'ਪੰਨਿਆਂ ਦੀ ਸਮੱਗਰੀ ਨਹੀਂ ਪੜ੍ਹੀ ਜਾਂਦੀ, ਪਤੇ ਨਹੀਂ ਸੰਭਾਲੇ ਜਾਂਦੇ ਅਤੇ ਕੁਝ ਵੀ ਡੀਵਾਈਸ ਤੋਂ ਬਾਹਰ ਨਹੀਂ ਭੇਜਿਆ ਜਾਂ ਸਾਂਝਾ ਕੀਤਾ ਜਾਂਦਾ।',
+      comoDesligar:
+        'ਸਹਿਮਤ ਹੋਣ ਤੇ ਤੁਸੀਂ Android ਦੀਆਂ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਜਾਓਗੇ, ਜਿੱਥੇ ਪਹੁੰਚਯੋਗਤਾ ਵਿੱਚ Instablock ਨੂੰ ਚਾਲੂ ਕਰਨਾ ਹੈ। ਤੁਸੀਂ ਇਸਨੂੰ ਜਦੋਂ ਚਾਹੋ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ।',
+      concordar: 'ਸਹਿਮਤ ਹਾਂ, ਚਾਲੂ ਕਰੋ',
+      recusar: 'ਹੁਣੇ ਨਹੀਂ',
+    },
     horarios: {
       titulo: 'ਖੁੱਲ੍ਹੇ ਸਮੇਂ',
       rotuloFolhaFalado: '{app} ਦੇ ਖੁੱਲ੍ਹੇ ਸਮੇਂ',

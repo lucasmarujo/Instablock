@@ -363,6 +363,20 @@ export const textos: Textos = {
       removerFalado: '移除 {site}',
       leituraAtiva: '浏览器地址读取已开启 · 网站已屏蔽',
     },
+    consentimentoAcessibilidade: {
+      titulo: '要使用无障碍功能来屏蔽网站吗？',
+      introducao:
+        'Instablock 使用 Android 的 AccessibilityService API 来屏蔽你列表中的网站。只有在你同意后才会启用。',
+      lidoTitulo: '会读取什么',
+      lido: '只读取 Chrome、Samsung Internet、Firefox、Edge 和 Brave 地址栏中的网址。不会读取其他任何应用。',
+      usoTitulo: '用途',
+      uso: '将网址与你的列表比对，网站在列表中时显示屏蔽页面。',
+      privacidadeTitulo: '绝不会发生的事',
+      privacidade: '不会读取网页内容，不会保存网址，也不会向设备外发送或分享任何数据。',
+      comoDesligar: '同意后，你会前往 Android 设置，在无障碍中开启 Instablock。你可以随时关闭。',
+      concordar: '同意并开启',
+      recusar: '暂不',
+    },
     horarios: {
       titulo: '自由时段',
       rotuloFolhaFalado: '{app}的自由时段',

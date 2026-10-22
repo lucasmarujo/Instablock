@@ -433,6 +433,22 @@ export const textos: Textos = {
       removerFalado: 'Elimină {site}',
       leituraAtiva: 'Citirea browserului e activă · site-urile sunt blocate',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Folosești accesibilitatea pentru a bloca site-uri?',
+      introducao:
+        'Instablock folosește API-ul AccessibilityService din Android pentru a bloca site-urile din lista ta. Se activează doar dacă ești de acord.',
+      lidoTitulo: 'Ce se citește',
+      lido: 'Doar adresa din bara Chrome, Samsung Internet, Firefox, Edge și Brave. Nicio altă aplicație nu este citită.',
+      usoTitulo: 'La ce folosește',
+      uso: 'Compară adresa cu lista ta și afișează ecranul de blocare când site-ul se află pe ea.',
+      privacidadeTitulo: 'Ce nu se întâmplă niciodată',
+      privacidade:
+        'Conținutul paginilor nu este citit, adresele nu sunt salvate și nimic nu este trimis în afara dispozitivului sau distribuit.',
+      comoDesligar:
+        'Dacă ești de acord, vei ajunge în Setările Android ca să activezi Instablock la Accesibilitate. Îl poți dezactiva oricând.',
+      concordar: 'Sunt de acord și activez',
+      recusar: 'Nu acum',
+    },
     horarios: {
       titulo: 'Intervale libere',
       rotuloFolhaFalado: 'Intervale libere pentru {app}',

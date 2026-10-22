@@ -367,6 +367,22 @@ export const ptBR = {
       removerFalado: 'Remover {site}',
       leituraAtiva: 'Leitura do navegador ativa · os sites estão bloqueados',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Usar a acessibilidade para bloquear sites?',
+      introducao:
+        'O Instablock usa a API AccessibilityService do Android para bloquear os sites da sua lista. Ela só é ativada se você concordar.',
+      lidoTitulo: 'O que é lido',
+      lido: 'Só o endereço na barra do Chrome, Samsung Internet, Firefox, Edge e Brave. Nenhum outro app é lido.',
+      usoTitulo: 'Para que serve',
+      uso: 'Comparar o endereço com a sua lista e mostrar a tela de bloqueio quando o site estiver nela.',
+      privacidadeTitulo: 'O que nunca acontece',
+      privacidade:
+        'O conteúdo das páginas não é lido, os endereços não são salvos e nada é enviado para fora do aparelho nem compartilhado.',
+      comoDesligar:
+        'Ao concordar, você vai para as Configurações do Android para ativar o Instablock em Acessibilidade. Dá para desligar quando quiser.',
+      concordar: 'Concordo e ativar',
+      recusar: 'Agora não',
+    },
     horarios: {
       titulo: 'Horários livres',
       rotuloFolhaFalado: 'Horários livres do {app}',

@@ -441,6 +441,22 @@ export const textos: Textos = {
       removerFalado: 'Pašalinti {site}',
       leituraAtiva: 'Naršyklės skaitymas įjungtas · svetainės blokuojamos',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Naudoti pritaikymą neįgaliesiems svetainėms blokuoti?',
+      introducao:
+        'Instablock naudoja Android AccessibilityService API tavo sąrašo svetainėms blokuoti. Ji įjungiama tik tada, jei sutinki.',
+      lidoTitulo: 'Kas skaitoma',
+      lido: 'Tik adresas Chrome, Samsung Internet, Firefox, Edge ir Brave adreso juostoje. Kitos programos neskaitomos.',
+      usoTitulo: 'Kam tai skirta',
+      uso: 'Palyginti adresą su tavo sąrašu ir parodyti blokavimo ekraną, kai svetainė yra sąraše.',
+      privacidadeTitulo: 'Kas niekada nevyksta',
+      privacidade:
+        'Puslapių turinys neskaitomas, adresai neišsaugomi ir niekas nesiunčiama už įrenginio ribų ar nebendrinama.',
+      comoDesligar:
+        'Jei sutinki, būsi nukreiptas į Android nustatymus, kad skiltyje Pritaikymas neįgaliesiems įjungtum Instablock. Išjungti galėsi bet kada.',
+      concordar: 'Sutinku ir įjungti',
+      recusar: 'Ne dabar',
+    },
     horarios: {
       titulo: 'Laisvas laikas',
       rotuloFolhaFalado: 'Programėlės {app} laisvas laikas',

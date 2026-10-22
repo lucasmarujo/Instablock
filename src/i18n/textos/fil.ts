@@ -407,6 +407,22 @@ export const textos: Textos = {
       removerFalado: 'Alisin ang {site}',
       leituraAtiva: 'Naka-on ang pagbasa ng browser · naka-block ang mga site',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Gamitin ang accessibility para i-block ang mga site?',
+      introducao:
+        'Ginagamit ng Instablock ang AccessibilityService API ng Android para i-block ang mga site sa listahan mo. Ia-activate lang ito kung papayag ka.',
+      lidoTitulo: 'Ang binabasa',
+      lido: 'Ang address lang sa address bar ng Chrome, Samsung Internet, Firefox, Edge, at Brave. Walang ibang app na binabasa.',
+      usoTitulo: 'Para saan ito',
+      uso: 'Ikumpara ang address sa listahan mo at ipakita ang block screen kapag nasa listahan ang site.',
+      privacidadeTitulo: 'Ang hindi kailanman mangyayari',
+      privacidade:
+        'Hindi binabasa ang laman ng mga page, hindi sine-save ang mga address, at walang ipinapadala palabas ng device o ibinabahagi.',
+      comoDesligar:
+        'Kapag pumayag ka, pupunta ka sa Mga Setting ng Android para i-on ang Instablock sa Accessibility. Puwede mo itong i-off anumang oras.',
+      concordar: 'Pumapayag at i-on',
+      recusar: 'Huwag muna',
+    },
     horarios: {
       titulo: 'Libreng oras',
       rotuloFolhaFalado: 'Libreng oras ng {app}',

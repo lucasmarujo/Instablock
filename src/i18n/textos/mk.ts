@@ -407,6 +407,22 @@ export const textos: Textos = {
       removerFalado: 'Отстрани {site}',
       leituraAtiva: 'Читањето на прелистувачот е активно · сајтовите се блокирани',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Да се користи пристапноста за блокирање сајтови?',
+      introducao:
+        'Instablock го користи Android AccessibilityService API за да ги блокира сајтовите од твојата листа. Се вклучува само ако се согласиш.',
+      lidoTitulo: 'Што се чита',
+      lido: 'Само адресата во лентата за адреса на Chrome, Samsung Internet, Firefox, Edge и Brave. Ниедна друга апликација не се чита.',
+      usoTitulo: 'За што служи',
+      uso: 'Да ја спореди адресата со твојата листа и да го покаже екранот за блокирање кога сајтот е на неа.',
+      privacidadeTitulo: 'Што никогаш не се случува',
+      privacidade:
+        'Содржината на страниците не се чита, адресите не се чуваат и ништо не се испраќа надвор од уредот ниту се споделува.',
+      comoDesligar:
+        'Ако се согласиш, ќе одиш во Поставки на Android за да го вклучиш Instablock во Пристапност. Можеш да го исклучиш кога сакаш.',
+      concordar: 'Се согласувам и вклучи',
+      recusar: 'Не сега',
+    },
     horarios: {
       titulo: 'Слободно време',
       rotuloFolhaFalado: 'Слободно време за {app}',

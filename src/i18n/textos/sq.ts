@@ -407,6 +407,22 @@ export const textos: Textos = {
       removerFalado: 'Hiq {site}',
       leituraAtiva: 'Leximi i shfletuesit është aktiv · faqet janë të bllokuara',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Të përdoret qasshmëria për të bllokuar faqe?',
+      introducao:
+        'Instablock përdor API-n AccessibilityService të Android për të bllokuar faqet në listën tënde. Aktivizohet vetëm nëse pranon.',
+      lidoTitulo: 'Çfarë lexohet',
+      lido: 'Vetëm adresa në shiritin e adresës së Chrome, Samsung Internet, Firefox, Edge dhe Brave. Asnjë aplikacion tjetër nuk lexohet.',
+      usoTitulo: 'Për çfarë shërben',
+      uso: 'Për të krahasuar adresën me listën tënde dhe për të shfaqur ekranin e bllokimit kur faqja është në të.',
+      privacidadeTitulo: 'Çfarë nuk ndodh kurrë',
+      privacidade:
+        'Përmbajtja e faqeve nuk lexohet, adresat nuk ruhen dhe asgjë nuk dërgohet jashtë pajisjes e nuk ndahet me të tjerë.',
+      comoDesligar:
+        'Nëse pranon, do të shkosh te Cilësimet e Android për të aktivizuar Instablock te Qasshmëria. Mund ta çaktivizosh kur të duash.',
+      concordar: 'Pranoj dhe aktivizo',
+      recusar: 'Jo tani',
+    },
     horarios: {
       titulo: 'Orarë të lirë',
       rotuloFolhaFalado: 'Orarët e lirë të {app}',

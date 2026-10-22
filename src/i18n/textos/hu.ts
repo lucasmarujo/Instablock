@@ -407,6 +407,22 @@ export const textos: Textos = {
       removerFalado: '{site} eltávolítása',
       leituraAtiva: 'Címsorolvasás bekapcsolva · a webhelyek le vannak tiltva',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Használod a kisegítő lehetőségeket a webhelyek letiltásához?',
+      introducao:
+        'Az Instablock az Android AccessibilityService API-ját használja a listádon szereplő webhelyek letiltására. Csak akkor kapcsol be, ha beleegyezel.',
+      lidoTitulo: 'Mit olvas',
+      lido: 'Csak a Chrome, a Samsung Internet, a Firefox, az Edge és a Brave címsorában lévő címet. Más alkalmazást nem olvas.',
+      usoTitulo: 'Mire való',
+      uso: 'Összeveti a címet a listáddal, és megjeleníti a letiltási képernyőt, ha a webhely szerepel rajta.',
+      privacidadeTitulo: 'Mi nem történik soha',
+      privacidade:
+        'Az oldalak tartalmát nem olvassa, a címeket nem menti, és semmit nem küld ki az eszközről, illetve nem oszt meg.',
+      comoDesligar:
+        'Ha beleegyezel, az Android Beállításokba jutsz, ahol a Kisegítő lehetőségeknél bekapcsolhatod az Instablockot. Bármikor kikapcsolhatod.',
+      concordar: 'Egyetértek, bekapcsolom',
+      recusar: 'Most nem',
+    },
     horarios: {
       titulo: 'Szabad idősávok',
       rotuloFolhaFalado: '{app}: szabad idősávok',

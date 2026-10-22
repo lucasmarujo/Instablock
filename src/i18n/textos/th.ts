@@ -384,6 +384,22 @@ export const textos: Textos = {
       removerFalado: 'ลบ {site}',
       leituraAtiva: 'การอ่านเบราว์เซอร์เปิดอยู่ · เว็บไซต์ถูกบล็อกแล้ว',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'ใช้การช่วยเหลือพิเศษเพื่อบล็อกเว็บไซต์ไหม',
+      introducao:
+        'Instablock ใช้ AccessibilityService API ของ Android เพื่อบล็อกเว็บไซต์ในรายการของคุณ และจะเปิดใช้งานก็ต่อเมื่อคุณยินยอมเท่านั้น',
+      lidoTitulo: 'สิ่งที่ถูกอ่าน',
+      lido: 'อ่านเฉพาะที่อยู่ในแถบที่อยู่ของ Chrome, Samsung Internet, Firefox, Edge และ Brave เท่านั้น ไม่อ่านแอปอื่นเลย',
+      usoTitulo: 'ใช้เพื่ออะไร',
+      uso: 'เปรียบเทียบที่อยู่กับรายการของคุณ และแสดงหน้าจอบล็อกเมื่อเว็บไซต์นั้นอยู่ในรายการ',
+      privacidadeTitulo: 'สิ่งที่จะไม่เกิดขึ้นเลย',
+      privacidade:
+        'ไม่อ่านเนื้อหาของหน้าเว็บ ไม่บันทึกที่อยู่ และไม่ส่งอะไรออกนอกอุปกรณ์หรือแชร์ให้ใคร',
+      comoDesligar:
+        'เมื่อยินยอม คุณจะไปที่การตั้งค่าของ Android เพื่อเปิด Instablock ในการช่วยเหลือพิเศษ และปิดได้ทุกเมื่อ',
+      concordar: 'ยินยอมและเปิดใช้งาน',
+      recusar: 'ไว้ทีหลัง',
+    },
     horarios: {
       titulo: 'ช่วงเวลาใช้ได้',
       rotuloFolhaFalado: 'ช่วงเวลาใช้ได้ของ {app}',

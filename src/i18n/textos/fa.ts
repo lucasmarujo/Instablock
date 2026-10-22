@@ -407,6 +407,22 @@ export const textos: Textos = {
       removerFalado: 'حذف {site}',
       leituraAtiva: 'خواندن مرورگر فعال است · سایت‌ها مسدودند',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'برای مسدود کردن سایت‌ها از دسترس‌پذیری استفاده شود؟',
+      introducao:
+        'Instablock برای مسدود کردن سایت‌های فهرست شما از API به نام AccessibilityService در Android استفاده می‌کند. فقط در صورت موافقت شما فعال می‌شود.',
+      lidoTitulo: 'چه چیزی خوانده می‌شود',
+      lido: 'فقط نشانی در نوار آدرس Chrome،‏ Samsung Internet،‏ Firefox،‏ Edge و Brave. هیچ برنامهٔ دیگری خوانده نمی‌شود.',
+      usoTitulo: 'کاربرد آن',
+      uso: 'مقایسهٔ نشانی با فهرست شما و نمایش صفحهٔ مسدودسازی وقتی سایت در فهرست باشد.',
+      privacidadeTitulo: 'چه چیزی هرگز رخ نمی‌دهد',
+      privacidade:
+        'محتوای صفحه‌ها خوانده نمی‌شود، نشانی‌ها ذخیره نمی‌شوند و هیچ چیز به بیرون از دستگاه فرستاده یا با کسی به اشتراک گذاشته نمی‌شود.',
+      comoDesligar:
+        'اگر موافقت کنید، به تنظیمات Android می‌روید تا Instablock را در دسترس‌پذیری فعال کنید. هر زمان خواستید می‌توانید آن را خاموش کنید.',
+      concordar: 'موافقم و فعال می‌کنم',
+      recusar: 'حالا نه',
+    },
     horarios: {
       titulo: 'بازه‌های آزاد',
       rotuloFolhaFalado: 'بازه‌های آزاد {app}',

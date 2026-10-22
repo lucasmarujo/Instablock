@@ -355,6 +355,22 @@ export const textos: Textos = {
       removerFalado: '{site}を削除',
       leituraAtiva: 'ブラウザの読み取り：有効 · サイトはブロックされています',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'ユーザー補助を使ってサイトをブロックしますか？',
+      introducao:
+        'InstablockはAndroidのAccessibilityService APIを使い、あなたのリストにあるサイトをブロックします。同意した場合にのみ有効になります。',
+      lidoTitulo: '読み取られるもの',
+      lido: 'Chrome、Samsung Internet、Firefox、Edge、Braveのアドレスバーに表示されたアドレスだけです。ほかのアプリは読み取りません。',
+      usoTitulo: '用途',
+      uso: 'アドレスをあなたのリストと照合し、サイトがリストにあるときにブロック画面を表示します。',
+      privacidadeTitulo: '決して行わないこと',
+      privacidade:
+        'ページの内容は読み取らず、アドレスは保存せず、データを端末の外に送信したり共有したりすることもありません。',
+      comoDesligar:
+        '同意すると、Androidの設定に移動し、ユーザー補助でInstablockを有効にします。いつでもオフにできます。',
+      concordar: '同意して有効にする',
+      recusar: '今はしない',
+    },
     horarios: {
       titulo: '自由時間帯',
       rotuloFolhaFalado: '{app}の自由時間帯',

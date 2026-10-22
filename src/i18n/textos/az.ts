@@ -414,6 +414,22 @@ export const textos: Textos = {
       removerFalado: '{site} saytını sil',
       leituraAtiva: 'Brauzer oxunuşu aktivdir · saytlar bloklanıb',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Saytları bloklamaq üçün əlçatanlıqdan istifadə edilsin?',
+      introducao:
+        'Instablock siyahınızdakı saytları bloklamaq üçün Android AccessibilityService API-dən istifadə edir. Yalnız razılaşsanız aktiv olur.',
+      lidoTitulo: 'Nə oxunur',
+      lido: 'Yalnız Chrome, Samsung Internet, Firefox, Edge və Brave brauzerlərinin ünvan çubuğundakı ünvan. Başqa heç bir tətbiq oxunmur.',
+      usoTitulo: 'Nə üçündür',
+      uso: 'Ünvanı siyahınızla müqayisə etmək və sayt siyahıda olduqda bloklama ekranını göstərmək.',
+      privacidadeTitulo: 'Heç vaxt baş verməyənlər',
+      privacidade:
+        'Səhifələrin məzmunu oxunmur, ünvanlar saxlanmır və heç nə cihazdan kənara göndərilmir, paylaşılmır.',
+      comoDesligar:
+        'Razılaşsanız, Android Ayarlarına keçib Əlçatanlıq bölməsində Instablock-u aktiv edəcəksiniz. İstədiyiniz vaxt söndürə bilərsiniz.',
+      concordar: 'Razıyam və aktiv et',
+      recusar: 'İndi yox',
+    },
     horarios: {
       titulo: 'Sərbəst saatlar',
       rotuloFolhaFalado: '{app} üçün sərbəst saatlar',

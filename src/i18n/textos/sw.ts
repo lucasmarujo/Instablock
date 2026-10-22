@@ -414,6 +414,22 @@ export const textos: Textos = {
       removerFalado: 'Ondoa {site}',
       leituraAtiva: 'Kusoma kivinjari kumewashwa · tovuti zimezuiwa',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Tumie ufikivu kuzuia tovuti?',
+      introducao:
+        'Instablock hutumia API ya AccessibilityService ya Android kuzuia tovuti zilizo kwenye orodha yako. Huwashwa tu ukikubali.',
+      lidoTitulo: 'Kinachosomwa',
+      lido: 'Anwani tu iliyo kwenye upau wa anwani wa Chrome, Samsung Internet, Firefox, Edge na Brave. Hakuna programu nyingine inayosomwa.',
+      usoTitulo: 'Inatumika kwa nini',
+      uso: 'Kulinganisha anwani na orodha yako na kuonyesha skrini ya kuzuia tovuti ikiwa kwenye orodha.',
+      privacidadeTitulo: 'Kisichotokea kamwe',
+      privacidade:
+        'Maudhui ya kurasa hayasomwi, anwani hazihifadhiwi, na hakuna kinachotumwa nje ya kifaa wala kushirikiwa.',
+      comoDesligar:
+        'Ukikubali, utapelekwa kwenye Mipangilio ya Android ili uwashe Instablock chini ya Ufikivu. Unaweza kuizima wakati wowote.',
+      concordar: 'Nakubali na kuwasha',
+      recusar: 'Si sasa',
+    },
     horarios: {
       titulo: 'Nyakati huru',
       rotuloFolhaFalado: 'Nyakati huru za {app}',

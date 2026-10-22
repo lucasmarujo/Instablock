@@ -407,6 +407,22 @@ export const textos: Textos = {
       removerFalado: 'Fjern {site}',
       leituraAtiva: 'Browserlæsning aktiv · webstederne er blokeret',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Bruge tilgængelighed til at blokere websteder?',
+      introducao:
+        'Instablock bruger Androids AccessibilityService API til at blokere webstederne på din liste. Det aktiveres kun, hvis du siger ja.',
+      lidoTitulo: 'Hvad der læses',
+      lido: 'Kun adressen i adresselinjen i Chrome, Samsung Internet, Firefox, Edge og Brave. Ingen andre apps læses.',
+      usoTitulo: 'Hvad det bruges til',
+      uso: 'Sammenligne adressen med din liste og vise blokeringsskærmen, når webstedet står på den.',
+      privacidadeTitulo: 'Hvad der aldrig sker',
+      privacidade:
+        'Indholdet på siderne læses ikke, adresserne gemmes ikke, og intet sendes ud af enheden eller deles.',
+      comoDesligar:
+        'Hvis du siger ja, kommer du til Indstillinger i Android for at aktivere Instablock under Tilgængelighed. Du kan slå det fra, når du vil.',
+      concordar: 'Accepter og aktivér',
+      recusar: 'Ikke nu',
+    },
     horarios: {
       titulo: 'Frie tidsrum',
       rotuloFolhaFalado: 'Frie tidsrum for {app}',

@@ -1,19 +1,11 @@
 import { Ionicons } from '@expo/vector-icons';
 import { useCallback, useState } from 'react';
-import {
-  I18nManager,
-  Linking,
-  Platform,
-  Pressable,
-  ScrollView,
-  StyleSheet,
-  Text,
-  View,
-} from 'react-native';
+import { I18nManager, Platform, Pressable, ScrollView, StyleSheet, Text, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { useFocusEffect, useRouter } from 'expo-router';
 
 import { Avatar } from '@/components/Avatar';
+import { ConsentimentoAcessibilidade } from '@/components/Bloqueios/ConsentimentoAcessibilidade';
 import { EmptyState } from '@/components/EmptyState';
 import { Grupo, Overline } from '@/components/Grupo';
 import { HeroCard } from '@/components/HeroCard';
@@ -61,6 +53,7 @@ export default function Home() {
   const [estimativa, setEstimativa] = useState<number | null>(null);
   const [bloqueados, setBloqueados] = useState<InstalledApp[] | null>(null);
   const [sites, setSites] = useState<string[] | null>(null);
+  const [pedindoConsentimento, setPedindoConsentimento] = useState(false);
   const { permissions, restricted, refresh } = useProtectionVerdictContext();
 
   useFocusEffect(
@@ -251,11 +244,7 @@ export default function Home() {
               title={tituloSitesSemBloqueio(quantosSites, t)}
               message={t.inicio.sitesSemBloqueioMensagem}
               actionLabel={t.inicio.sitesSemBloqueioAcao}
-              onAction={() =>
-                Linking.sendIntent('android.settings.ACCESSIBILITY_SETTINGS').catch(() =>
-                  Linking.openSettings()
-                )
-              }
+              onAction={() => setPedindoConsentimento(true)}
             />
           </View>
         )}
@@ -371,6 +360,11 @@ export default function Home() {
         </View>
         */}
       </ScrollView>
+
+      <ConsentimentoAcessibilidade
+        visible={pedindoConsentimento}
+        onClose={() => setPedindoConsentimento(false)}
+      />
     </SafeAreaView>
   );
 }

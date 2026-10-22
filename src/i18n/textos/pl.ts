@@ -460,6 +460,22 @@ export const textos: Textos = {
       removerFalado: 'Usuń {site}',
       leituraAtiva: 'Odczyt paska adresu włączony · strony są zablokowane',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Użyć ułatwień dostępu do blokowania stron?',
+      introducao:
+        'Instablock używa interfejsu API AccessibilityService w Androidzie, żeby blokować strony z twojej listy. Włącza się go tylko za twoją zgodą.',
+      lidoTitulo: 'Co jest odczytywane',
+      lido: 'Tylko adres z paska adresu w Chrome, Samsung Internet, Firefox, Edge i Brave. Żadna inna aplikacja nie jest odczytywana.',
+      usoTitulo: 'Do czego służy',
+      uso: 'Porównanie adresu z twoją listą i pokazanie ekranu blokady, gdy strona się na niej znajduje.',
+      privacidadeTitulo: 'Czego nigdy nie robimy',
+      privacidade:
+        'Zawartość stron nie jest odczytywana, adresy nie są zapisywane, a nic nie jest wysyłane poza urządzenie ani udostępniane.',
+      comoDesligar:
+        'Jeśli się zgodzisz, przejdziesz do Ustawień Androida, żeby włączyć Instablock w Ułatwieniach dostępu. Możesz go wyłączyć, kiedy chcesz.',
+      concordar: 'Zgadzam się i włączam',
+      recusar: 'Nie teraz',
+    },
     horarios: {
       titulo: 'Wolne godziny',
       rotuloFolhaFalado: 'Wolne godziny aplikacji {app}',

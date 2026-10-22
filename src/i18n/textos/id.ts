@@ -382,6 +382,22 @@ export const textos: Textos = {
       removerFalado: 'Hapus {site}',
       leituraAtiva: 'Pembacaan browser aktif · situs diblokir',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Gunakan aksesibilitas untuk memblokir situs?',
+      introducao:
+        'Instablock memakai API AccessibilityService milik Android untuk memblokir situs di daftarmu. API ini hanya diaktifkan jika kamu setuju.',
+      lidoTitulo: 'Yang dibaca',
+      lido: 'Hanya alamat di bilah alamat Chrome, Samsung Internet, Firefox, Edge, dan Brave. Aplikasi lain tidak dibaca.',
+      usoTitulo: 'Kegunaannya',
+      uso: 'Mencocokkan alamat dengan daftarmu dan menampilkan layar blokir saat situsnya ada di daftar.',
+      privacidadeTitulo: 'Yang tidak akan pernah terjadi',
+      privacidade:
+        'Isi halaman tidak dibaca, alamat tidak disimpan, dan tidak ada yang dikirim keluar dari perangkat atau dibagikan.',
+      comoDesligar:
+        'Jika kamu setuju, kamu akan diarahkan ke Setelan Android untuk mengaktifkan Instablock di Aksesibilitas. Kamu bisa menonaktifkannya kapan saja.',
+      concordar: 'Setuju dan aktifkan',
+      recusar: 'Nanti saja',
+    },
     horarios: {
       titulo: 'Jam bebas',
       rotuloFolhaFalado: 'Jam bebas {app}',

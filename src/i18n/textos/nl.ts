@@ -408,6 +408,22 @@ export const textos: Textos = {
       removerFalado: '{site} verwijderen',
       leituraAtiva: 'Adresbalk lezen staat aan · de websites zijn geblokkeerd',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Toegankelijkheid gebruiken om websites te blokkeren?',
+      introducao:
+        'Instablock gebruikt de AccessibilityService-API van Android om de websites op je lijst te blokkeren. Die wordt alleen aangezet als je akkoord gaat.',
+      lidoTitulo: 'Wat wordt gelezen',
+      lido: 'Alleen het adres in de adresbalk van Chrome, Samsung Internet, Firefox, Edge en Brave. Geen enkele andere app wordt gelezen.',
+      usoTitulo: 'Waarvoor het dient',
+      uso: 'Het adres vergelijken met je lijst en het blokkeerscherm tonen als de website erop staat.',
+      privacidadeTitulo: 'Wat nooit gebeurt',
+      privacidade:
+        'De inhoud van pagina’s wordt niet gelezen, adressen worden niet opgeslagen en er wordt niets buiten het toestel verzonden of gedeeld.',
+      comoDesligar:
+        'Als je akkoord gaat, ga je naar de Instellingen van Android om Instablock aan te zetten onder Toegankelijkheid. Je kunt het altijd weer uitzetten.',
+      concordar: 'Akkoord en aanzetten',
+      recusar: 'Niet nu',
+    },
     horarios: {
       titulo: 'Vrije tijdvakken',
       rotuloFolhaFalado: 'Vrije tijdvakken van {app}',

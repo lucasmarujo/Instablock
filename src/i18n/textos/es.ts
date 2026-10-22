@@ -407,6 +407,22 @@ export const textos: Textos = {
       removerFalado: 'Quitar {site}',
       leituraAtiva: 'Lectura del navegador activa · las webs están bloqueadas',
     },
+    consentimentoAcessibilidade: {
+      titulo: '¿Usar la accesibilidad para bloquear webs?',
+      introducao:
+        'Instablock usa la API AccessibilityService de Android para bloquear las webs de tu lista. Solo se activa si tú lo aceptas.',
+      lidoTitulo: 'Qué se lee',
+      lido: 'Solo la dirección de la barra de Chrome, Samsung Internet, Firefox, Edge y Brave. No se lee ninguna otra app.',
+      usoTitulo: 'Para qué sirve',
+      uso: 'Comparar la dirección con tu lista y mostrar la pantalla de bloqueo cuando la web esté en ella.',
+      privacidadeTitulo: 'Qué nunca ocurre',
+      privacidade:
+        'No se lee el contenido de las páginas, no se guardan las direcciones y no se envía ni se comparte nada fuera del dispositivo.',
+      comoDesligar:
+        'Si aceptas, irás a los Ajustes de Android para activar Instablock en Accesibilidad. Puedes desactivarlo cuando quieras.',
+      concordar: 'Acepto y activar',
+      recusar: 'Ahora no',
+    },
     horarios: {
       titulo: 'Horarios libres',
       rotuloFolhaFalado: 'Horarios libres de {app}',

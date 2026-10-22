@@ -24,6 +24,8 @@ export type ItemDePermissao = {
   rotuloAcao: string;
   /** Intent do Android que abre a tela certa; `null` = Configuracoes do app. */
   intent: string | null;
+  /** Divulgacao em destaque antes do intent: politica da API Accessibility do Google Play. */
+  pedeConsentimento: boolean;
 };
 
 type TextosDaPermissao = Textos['ajustes']['permissoes']['acessoAoUso'];
@@ -32,31 +34,37 @@ const ITENS: {
   chave: keyof Permissoes;
   textos: (t: Textos) => TextosDaPermissao;
   intent: string | null;
+  pedeConsentimento: boolean;
 }[] = [
   {
     chave: 'usageAccess',
     textos: (t) => t.ajustes.permissoes.acessoAoUso,
     intent: 'android.settings.USAGE_ACCESS_SETTINGS',
+    pedeConsentimento: false,
   },
   {
     chave: 'overlay',
     textos: (t) => t.ajustes.permissoes.sobreporApps,
     intent: 'android.settings.action.MANAGE_OVERLAY_PERMISSION',
+    pedeConsentimento: false,
   },
   {
     chave: 'accessibility',
     textos: (t) => t.ajustes.permissoes.leituraDoNavegador,
     intent: 'android.settings.ACCESSIBILITY_SETTINGS',
+    pedeConsentimento: true,
   },
   {
     chave: 'batteryExempt',
     textos: (t) => t.ajustes.permissoes.bateriaSemOtimizacao,
     intent: 'android.settings.IGNORE_BATTERY_OPTIMIZATION_SETTINGS',
+    pedeConsentimento: false,
   },
   {
     chave: 'notifications',
     textos: (t) => t.ajustes.permissoes.notificacoes,
     intent: null,
+    pedeConsentimento: false,
   },
 ];
 
@@ -72,7 +80,7 @@ export function itensDePermissao(
   t: Textos
 ): ItemDePermissao[] {
   return ITENS.filter((item) => plataforma === 'android' || item.chave !== 'accessibility').map(
-    ({ chave, textos, intent }) => {
+    ({ chave, textos, intent, pedeConsentimento }) => {
       const { titulo, descricao, concedida, acao } = textos(t);
       return {
         chave,
@@ -82,6 +90,7 @@ export function itensDePermissao(
         rotuloConcedida: concedida,
         rotuloAcao: acao,
         intent,
+        pedeConsentimento,
       };
     }
   );

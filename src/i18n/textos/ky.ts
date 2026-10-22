@@ -406,6 +406,22 @@ export const textos: Textos = {
       removerFalado: '{site} алып салуу',
       leituraAtiva: 'Браузерди окуу иштеп жатат · сайттар бөгөттөлгөн',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Сайттарды бөгөттөө үчүн атайын мүмкүнчүлүктөр колдонулсунбу?',
+      introducao:
+        'Instablock тизмеңдеги сайттарды бөгөттөө үчүн Android AccessibilityService API колдонот. Ал сен макул болсоң гана күйөт.',
+      lidoTitulo: 'Эмне окулат',
+      lido: 'Chrome, Samsung Internet, Firefox, Edge жана Brave дарек тилкесиндеги дарек гана. Башка эч бир колдонмо окулбайт.',
+      usoTitulo: 'Эмне үчүн керек',
+      uso: 'Даректи тизмең менен салыштыруу жана сайт тизмеде болсо, бөгөттөө экранын көрсөтүү.',
+      privacidadeTitulo: 'Эч качан болбой турган нерселер',
+      privacidade:
+        'Беттердин мазмуну окулбайт, даректер сакталбайт жана эч нерсе түзмөктөн тышкары жөнөтүлбөйт же бөлүшүлбөйт.',
+      comoDesligar:
+        'Макул болсоң, Android Жөндөөлөрүнө өтүп, Атайын мүмкүнчүлүктөр бөлүмүндө Instablock’ту күйгүзөсүң. Каалаган убакта өчүрсөң болот.',
+      concordar: 'Макулмун, күйгүз',
+      recusar: 'Азыр эмес',
+    },
     horarios: {
       titulo: 'Эркин убакыт',
       rotuloFolhaFalado: '{app} үчүн эркин убакыт',

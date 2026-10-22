@@ -519,6 +519,22 @@ export const textos: Textos = {
       removerFalado: 'إزالة {site}',
       leituraAtiva: 'قراءة المتصفح مفعّلة · المواقع محظورة',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'استخدام سهولة الاستخدام لحظر المواقع؟',
+      introducao:
+        'يستخدم Instablock واجهة AccessibilityService API في Android لحظر المواقع الموجودة في قائمتك. لا يتم تفعيلها إلا إذا وافقت.',
+      lidoTitulo: 'ما الذي تتم قراءته',
+      lido: 'العنوان فقط في شريط العناوين في Chrome وSamsung Internet وFirefox وEdge وBrave. لا تتم قراءة أي تطبيق آخر.',
+      usoTitulo: 'الغرض منه',
+      uso: 'مقارنة العنوان بقائمتك وعرض شاشة الحظر عندما يكون الموقع فيها.',
+      privacidadeTitulo: 'ما لا يحدث أبدًا',
+      privacidade:
+        'لا تتم قراءة محتوى الصفحات، ولا يتم حفظ العناوين، ولا يُرسل أي شيء خارج الجهاز ولا تتم مشاركته.',
+      comoDesligar:
+        'عند الموافقة، ستنتقل إلى إعدادات Android لتفعيل Instablock ضمن سهولة الاستخدام. يمكنك إيقافه في أي وقت.',
+      concordar: 'أوافق وأفعّل',
+      recusar: 'ليس الآن',
+    },
     horarios: {
       titulo: 'فترات السماح',
       rotuloFolhaFalado: 'فترات السماح لتطبيق {app}',

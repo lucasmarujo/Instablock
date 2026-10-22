@@ -416,6 +416,22 @@ export const textos: Textos = {
       removerFalado: 'Eemalda {site}',
       leituraAtiva: 'Brauseri lugemine on sees · saidid on blokeeritud',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Kas kasutada juurdepääsetavust saitide blokeerimiseks?',
+      introducao:
+        'Instablock kasutab Androidi AccessibilityService API-t sinu loendi saitide blokeerimiseks. See lülitatakse sisse ainult siis, kui sa nõustud.',
+      lidoTitulo: 'Mida loetakse',
+      lido: 'Ainult aadressiriba aadressi brauserites Chrome, Samsung Internet, Firefox, Edge ja Brave. Teisi rakendusi ei loeta.',
+      usoTitulo: 'Milleks seda kasutatakse',
+      uso: 'Aadressi võrdlemiseks sinu loendiga ja blokeerimisekraani näitamiseks, kui sait on loendis.',
+      privacidadeTitulo: 'Mida kunagi ei juhtu',
+      privacidade:
+        'Lehtede sisu ei loeta, aadresse ei salvestata ja midagi ei saadeta seadmest välja ega jagata.',
+      comoDesligar:
+        'Nõustumisel suundud Androidi seadetesse, et lülitada Instablock sisse jaotises Juurdepääsetavus. Saad selle igal ajal välja lülitada.',
+      concordar: 'Nõustun ja lülitan sisse',
+      recusar: 'Mitte praegu',
+    },
     horarios: {
       titulo: 'Vabad ajavahemikud',
       rotuloFolhaFalado: 'Äpi {app} vabad ajavahemikud',

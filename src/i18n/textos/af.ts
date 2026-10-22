@@ -408,6 +408,22 @@ export const textos: Textos = {
       removerFalado: 'Verwyder {site}',
       leituraAtiva: 'Blaaierlees aktief · die webwerwe is geblokkeer',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Toeganklikheid gebruik om webwerwe te blokkeer?',
+      introducao:
+        'Instablock gebruik Android se AccessibilityService API om die webwerwe op jou lys te blokkeer. Dit word net geaktiveer as jy instem.',
+      lidoTitulo: 'Wat gelees word',
+      lido: 'Net die adres in die adresbalk van Chrome, Samsung Internet, Firefox, Edge en Brave. Geen ander toep word gelees nie.',
+      usoTitulo: 'Waarvoor dit dien',
+      uso: 'Die adres met jou lys vergelyk en die blokkeerskerm wys wanneer die webwerf daarop is.',
+      privacidadeTitulo: 'Wat nooit gebeur nie',
+      privacidade:
+        'Die inhoud van bladsye word nie gelees nie, adresse word nie gestoor nie, en niks word uit die toestel gestuur of gedeel nie.',
+      comoDesligar:
+        'As jy instem, gaan jy na Android se Instellings om Instablock onder Toeganklikheid te aktiveer. Jy kan dit enige tyd afskakel.',
+      concordar: 'Stem in en aktiveer',
+      recusar: 'Nie nou nie',
+    },
     horarios: {
       titulo: 'Vrye tydgleuwe',
       rotuloFolhaFalado: 'Vrye tydgleuwe van {app}',

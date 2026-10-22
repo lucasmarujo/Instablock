@@ -20,6 +20,7 @@ import {
   type ItemDePermissao,
 } from '@/components/Ajustes/ajustes';
 import { Avatar } from '@/components/Avatar';
+import { ConsentimentoAcessibilidade } from '@/components/Bloqueios/ConsentimentoAcessibilidade';
 import { Grupo, Overline } from '@/components/Grupo';
 import { ListRow } from '@/components/ListRow';
 import { SliderHoras } from '@/components/Onboarding/SliderHoras';
@@ -63,6 +64,7 @@ export default function Ajustes() {
   const [nome, setNome] = useState<string | null>(null);
   const [horas, setHoras] = useState<number | null>(null);
   const [editandoHoras, setEditandoHoras] = useState(false);
+  const [pedindoConsentimento, setPedindoConsentimento] = useState(false);
 
   useFocusEffect(
     useCallback(() => {
@@ -228,7 +230,11 @@ export default function Ajustes() {
                         permissao: item.titulo,
                       })}
                       hitSlop={4}
-                      onPress={() => void abrirPermissao(item)}
+                      onPress={() =>
+                        item.pedeConsentimento
+                          ? setPedindoConsentimento(true)
+                          : void abrirPermissao(item)
+                      }
                       style={({ pressed }) => [
                         styles.acao,
                         {
@@ -279,6 +285,11 @@ export default function Ajustes() {
           </Text>
         </View>
       </ScrollView>
+
+      <ConsentimentoAcessibilidade
+        visible={pedindoConsentimento}
+        onClose={() => setPedindoConsentimento(false)}
+      />
     </SafeAreaView>
   );
 }

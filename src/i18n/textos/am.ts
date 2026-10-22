@@ -403,6 +403,21 @@ export const textos: Textos = {
       removerFalado: '{site}ን አስወግድ',
       leituraAtiva: 'የአሳሽ ንባብ ንቁ ነው · ድር ጣቢያዎች ታግደዋል',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'ድር ጣቢያዎችን ለማገድ ተደራሽነትን ይጠቀሙ?',
+      introducao:
+        'Instablock በዝርዝርዎ ውስጥ ያሉ ድር ጣቢያዎችን ለማገድ የAndroid AccessibilityService APIን ይጠቀማል። የሚነቃው ከተስማሙ ብቻ ነው።',
+      lidoTitulo: 'የሚነበበው',
+      lido: 'በChrome፣ Samsung Internet፣ Firefox፣ Edge እና Brave የአድራሻ አሞሌ ላይ ያለው አድራሻ ብቻ። ሌላ ምንም መተግበሪያ አይነበብም።',
+      usoTitulo: 'ለምን ይጠቅማል',
+      uso: 'አድራሻውን ከዝርዝርዎ ጋር ለማወዳደር እና ጣቢያው በዝርዝሩ ውስጥ ሲኖር የማገጃ ማያ ገጹን ለማሳየት።',
+      privacidadeTitulo: 'ፈጽሞ የማይሆነው',
+      privacidade: 'የገጾች ይዘት አይነበብም፣ አድራሻዎች አይቀመጡም፣ እና ምንም ነገር ከመሣሪያው ውጭ አይላክም ወይም አይጋራም።',
+      comoDesligar:
+        'ከተስማሙ በAndroid ቅንብሮች ውስጥ Instablockን በተደራሽነት ስር ለማንቃት ይወሰዳሉ። በማንኛውም ጊዜ ማጥፋት ይችላሉ።',
+      concordar: 'ተስማምቻለሁ፣ አንቃ',
+      recusar: 'አሁን አይደለም',
+    },
     horarios: {
       titulo: 'ነፃ ሰዓቶች',
       rotuloFolhaFalado: 'የ{app} ነፃ ሰዓቶች',

@@ -404,6 +404,22 @@ export const textos: Textos = {
       removerFalado: '{site} દૂર કરો',
       leituraAtiva: 'બ્રાઉઝર વાંચન ચાલુ · સાઇટ્સ બ્લૉક છે',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'સાઇટ્સ બ્લૉક કરવા ઍક્સેસિબિલિટીનો ઉપયોગ કરવો?',
+      introducao:
+        'તમારી યાદીની સાઇટ્સ બ્લૉક કરવા Instablock Android ની AccessibilityService API નો ઉપયોગ કરે છે. તમે સંમત થાઓ તો જ તે ચાલુ થાય છે.',
+      lidoTitulo: 'શું વાંચવામાં આવે છે',
+      lido: 'ફક્ત Chrome, Samsung Internet, Firefox, Edge અને Brave ની બારમાંનું સરનામું. બીજી કોઈ ઍપ વાંચવામાં આવતી નથી.',
+      usoTitulo: 'તે શેના માટે છે',
+      uso: 'સરનામાને તમારી યાદી સાથે સરખાવવા અને સાઇટ યાદીમાં હોય ત્યારે બ્લૉક સ્ક્રીન બતાવવા માટે.',
+      privacidadeTitulo: 'જે ક્યારેય થતું નથી',
+      privacidade:
+        'પેજની સામગ્રી વાંચવામાં આવતી નથી, સરનામાં સાચવવામાં આવતાં નથી અને કશું ઉપકરણની બહાર મોકલવામાં કે શેર કરવામાં આવતું નથી.',
+      comoDesligar:
+        'સંમત થયા પછી તમે Android ના સેટિંગ્સમાં જશો, જ્યાં ઍક્સેસિબિલિટીમાં Instablock ચાલુ કરવાનું છે. તમે તેને ગમે ત્યારે બંધ કરી શકો છો.',
+      concordar: 'સંમત છું, ચાલુ કરો',
+      recusar: 'હમણાં નહીં',
+    },
     horarios: {
       titulo: 'મુક્ત સમય',
       rotuloFolhaFalado: '{app} ના મુક્ત સમય',

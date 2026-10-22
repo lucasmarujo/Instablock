@@ -415,6 +415,22 @@ export const textos: Textos = {
       removerFalado: 'Fjarlægja {site}',
       leituraAtiva: 'Lestur úr vafra er virkur · vefsvæðin eru læst',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Nota aðgengi til að læsa vefsvæðum?',
+      introducao:
+        'Instablock notar AccessibilityService API Android til að læsa vefsvæðum á listanum þínum. Það er aðeins virkjað ef þú samþykkir.',
+      lidoTitulo: 'Hvað er lesið',
+      lido: 'Aðeins vistfangið í veffangastikunni í Chrome, Samsung Internet, Firefox, Edge og Brave. Engin önnur forrit eru lesin.',
+      usoTitulo: 'Til hvers er það',
+      uso: 'Til að bera vistfangið saman við listann þinn og sýna læsingarskjáinn þegar vefsvæðið er á honum.',
+      privacidadeTitulo: 'Hvað gerist aldrei',
+      privacidade:
+        'Efni síðna er ekki lesið, vistföng eru ekki vistuð og ekkert er sent út úr tækinu eða deilt.',
+      comoDesligar:
+        'Ef þú samþykkir ferðu í Stillingar Android til að virkja Instablock undir Aðgengi. Þú getur slökkt á því hvenær sem er.',
+      concordar: 'Samþykkja og virkja',
+      recusar: 'Ekki núna',
+    },
     horarios: {
       titulo: 'Frjáls tími',
       rotuloFolhaFalado: 'Frjáls tími fyrir {app}',

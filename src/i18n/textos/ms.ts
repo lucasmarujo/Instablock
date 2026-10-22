@@ -382,6 +382,22 @@ export const textos: Textos = {
       removerFalado: 'Alih keluar {site}',
       leituraAtiva: 'Bacaan pelayar aktif · tapak web disekat',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Gunakan kebolehaksesan untuk menyekat tapak web?',
+      introducao:
+        'Instablock menggunakan API AccessibilityService Android untuk menyekat tapak web dalam senarai anda. API ini hanya diaktifkan jika anda bersetuju.',
+      lidoTitulo: 'Apa yang dibaca',
+      lido: 'Hanya alamat pada bar alamat Chrome, Samsung Internet, Firefox, Edge dan Brave. Tiada apl lain dibaca.',
+      usoTitulo: 'Kegunaannya',
+      uso: 'Membandingkan alamat dengan senarai anda dan memaparkan skrin sekatan apabila tapak web itu ada dalam senarai.',
+      privacidadeTitulo: 'Apa yang tidak akan berlaku',
+      privacidade:
+        'Kandungan halaman tidak dibaca, alamat tidak disimpan, dan tiada apa dihantar keluar dari peranti atau dikongsi.',
+      comoDesligar:
+        'Jika anda bersetuju, anda akan dibawa ke Tetapan Android untuk mengaktifkan Instablock di bawah Kebolehaksesan. Anda boleh mematikannya pada bila-bila masa.',
+      concordar: 'Setuju dan aktifkan',
+      recusar: 'Bukan sekarang',
+    },
     horarios: {
       titulo: 'Waktu bebas',
       rotuloFolhaFalado: 'Waktu bebas {app}',

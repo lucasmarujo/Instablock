@@ -408,6 +408,22 @@ export const textos: Textos = {
       removerFalado: '{site} entfernen',
       leituraAtiva: 'Browser-Lesezugriff aktiv · die Websites sind gesperrt',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Bedienungshilfen zum Sperren von Websites verwenden?',
+      introducao:
+        'Instablock nutzt die AccessibilityService-API von Android, um die Websites auf deiner Liste zu sperren. Sie wird nur aktiviert, wenn du zustimmst.',
+      lidoTitulo: 'Was gelesen wird',
+      lido: 'Nur die Adresse in der Adressleiste von Chrome, Samsung Internet, Firefox, Edge und Brave. Keine andere App wird gelesen.',
+      usoTitulo: 'Wozu es dient',
+      uso: 'Die Adresse mit deiner Liste abgleichen und den Sperrbildschirm anzeigen, wenn die Website darauf steht.',
+      privacidadeTitulo: 'Was nie passiert',
+      privacidade:
+        'Der Inhalt der Seiten wird nicht gelesen, Adressen werden nicht gespeichert und nichts wird aus dem Gerät gesendet oder weitergegeben.',
+      comoDesligar:
+        'Wenn du zustimmst, gelangst du in die Android-Einstellungen, um Instablock unter Bedienungshilfen zu aktivieren. Du kannst es jederzeit wieder ausschalten.',
+      concordar: 'Zustimmen und aktivieren',
+      recusar: 'Jetzt nicht',
+    },
     horarios: {
       titulo: 'Freie Zeitfenster',
       rotuloFolhaFalado: 'Freie Zeitfenster für {app}',

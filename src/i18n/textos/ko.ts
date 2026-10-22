@@ -366,6 +366,22 @@ export const textos: Textos = {
       removerFalado: '{site} 삭제',
       leituraAtiva: '브라우저 주소 읽기 켜짐 · 사이트가 차단되어 있어요',
     },
+    consentimentoAcessibilidade: {
+      titulo: '접근성을 사용해 사이트를 차단할까요?',
+      introducao:
+        'Instablock은 Android AccessibilityService API로 내 목록의 사이트를 차단해요. 동의하는 경우에만 켜져요.',
+      lidoTitulo: '읽는 내용',
+      lido: 'Chrome, Samsung Internet, Firefox, Edge, Brave의 주소창에 있는 주소만 읽어요. 다른 앱은 읽지 않아요.',
+      usoTitulo: '사용 목적',
+      uso: '주소를 내 목록과 비교해서, 목록에 있는 사이트이면 차단 화면을 보여줘요.',
+      privacidadeTitulo: '절대 하지 않는 일',
+      privacidade:
+        '페이지 내용은 읽지 않고, 주소는 저장하지 않으며, 아무것도 기기 밖으로 보내거나 공유하지 않아요.',
+      comoDesligar:
+        '동의하면 Android 설정으로 이동해서 접근성에서 Instablock을 켤 수 있어요. 언제든 끌 수 있어요.',
+      concordar: '동의하고 켜기',
+      recusar: '나중에',
+    },
     horarios: {
       titulo: '허용 시간대',
       rotuloFolhaFalado: '{app} 앱 허용 시간대',

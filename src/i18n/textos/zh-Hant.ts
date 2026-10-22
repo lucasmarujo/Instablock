@@ -350,6 +350,20 @@ export const textos: Textos = {
       removerFalado: '移除 {site}',
       leituraAtiva: '瀏覽器網址讀取已開啟 · 網站已封鎖',
     },
+    consentimentoAcessibilidade: {
+      titulo: '要使用無障礙功能來封鎖網站嗎？',
+      introducao:
+        'Instablock 使用 Android 的 AccessibilityService API 來封鎖你清單中的網站。只有在你同意後才會啟用。',
+      lidoTitulo: '會讀取什麼',
+      lido: '只讀取 Chrome、Samsung Internet、Firefox、Edge 和 Brave 網址列中的網址。不會讀取其他任何應用程式。',
+      usoTitulo: '用途',
+      uso: '將網址與你的清單比對，網站在清單中時顯示封鎖畫面。',
+      privacidadeTitulo: '絕不會發生的事',
+      privacidade: '不會讀取網頁內容，不會儲存網址，也不會向裝置外傳送或分享任何資料。',
+      comoDesligar: '同意後，你會前往 Android 設定，在無障礙中開啟 Instablock。你可以隨時關閉。',
+      concordar: '同意並開啟',
+      recusar: '暫時不要',
+    },
     horarios: {
       titulo: '自由時段',
       rotuloFolhaFalado: '「{app}」的自由時段',

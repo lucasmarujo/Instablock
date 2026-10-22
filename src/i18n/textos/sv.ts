@@ -407,6 +407,22 @@ export const textos: Textos = {
       removerFalado: 'Ta bort {site}',
       leituraAtiva: 'Läsning av webbläsaren är aktiv · webbplatserna är blockerade',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Använda tillgänglighet för att blockera webbplatser?',
+      introducao:
+        'Instablock använder Androids AccessibilityService API för att blockera webbplatserna i din lista. Det aktiveras bara om du samtycker.',
+      lidoTitulo: 'Vad som läses',
+      lido: 'Bara adressen i adressfältet i Chrome, Samsung Internet, Firefox, Edge och Brave. Inga andra appar läses.',
+      usoTitulo: 'Vad det används till',
+      uso: 'Jämföra adressen med din lista och visa blockeringsskärmen när webbplatsen finns i den.',
+      privacidadeTitulo: 'Vad som aldrig händer',
+      privacidade:
+        'Innehållet på sidorna läses inte, adresserna sparas inte och inget skickas från enheten eller delas.',
+      comoDesligar:
+        'Om du samtycker kommer du till Inställningar i Android för att aktivera Instablock under Tillgänglighet. Du kan stänga av det när du vill.',
+      concordar: 'Godkänn och aktivera',
+      recusar: 'Inte nu',
+    },
     horarios: {
       titulo: 'Fria tidsfönster',
       rotuloFolhaFalado: 'Fria tidsfönster för {app}',

@@ -406,6 +406,22 @@ export const textos: Textos = {
       removerFalado: '{site} adresini kaldır',
       leituraAtiva: 'Tarayıcı okuma açık · siteler engelleniyor',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Siteleri engellemek için erişilebilirlik kullanılsın mı?',
+      introducao:
+        'Instablock, listendeki siteleri engellemek için Android’in AccessibilityService API’sini kullanır. Yalnızca sen kabul edersen etkinleşir.',
+      lidoTitulo: 'Neler okunur',
+      lido: 'Yalnızca Chrome, Samsung Internet, Firefox, Edge ve Brave’in adres çubuğundaki adres okunur. Başka hiçbir uygulama okunmaz.',
+      usoTitulo: 'Ne işe yarar',
+      uso: 'Adresi listenle karşılaştırır ve site listede varsa engelleme ekranını gösterir.',
+      privacidadeTitulo: 'Asla yapılmayanlar',
+      privacidade:
+        'Sayfaların içeriği okunmaz, adresler kaydedilmez ve hiçbir şey cihazdan dışarı gönderilmez ya da paylaşılmaz.',
+      comoDesligar:
+        'Kabul edersen Android Ayarlar’a gidip Erişilebilirlik bölümünden Instablock’u etkinleştirirsin. İstediğin zaman kapatabilirsin.',
+      concordar: 'Kabul ediyorum ve etkinleştir',
+      recusar: 'Şimdi değil',
+    },
     horarios: {
       titulo: 'Serbest saatler',
       rotuloFolhaFalado: '{app} için serbest saatler',

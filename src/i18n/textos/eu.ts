@@ -416,6 +416,22 @@ export const textos: Textos = {
       removerFalado: 'Kendu {site}',
       leituraAtiva: 'Nabigatzailearen irakurketa aktibo · webguneak blokeatuta daude',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Erabilerraztasuna erabili webguneak blokeatzeko?',
+      introducao:
+        'Instablock-ek Android-en AccessibilityService API erabiltzen du zure zerrendako webguneak blokeatzeko. Onartzen baduzu bakarrik aktibatzen da.',
+      lidoTitulo: 'Zer irakurtzen da',
+      lido: 'Chrome, Samsung Internet, Firefox, Edge eta Brave-ren helbide-barran dagoen helbidea bakarrik. Beste ezein aplikazio ez da irakurtzen.',
+      usoTitulo: 'Zertarako da',
+      uso: 'Helbidea zure zerrendarekin konparatzeko eta webgunea zerrendan dagoenean blokeo-pantaila erakusteko.',
+      privacidadeTitulo: 'Zer ez da inoiz gertatzen',
+      privacidade:
+        'Orrien edukia ez da irakurtzen, helbideak ez dira gordetzen eta ez da ezer gailutik kanpo bidaltzen edo partekatzen.',
+      comoDesligar:
+        'Onartzen baduzu, Android-en Ezarpenetara joango zara Instablock Erabilerraztasuna atalean aktibatzeko. Nahi duzunean desaktiba dezakezu.',
+      concordar: 'Onartu eta aktibatu',
+      recusar: 'Orain ez',
+    },
     horarios: {
       titulo: 'Ordutegi libreak',
       rotuloFolhaFalado: '{app} appren ordutegi libreak',

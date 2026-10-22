@@ -415,6 +415,22 @@ export const textos: Textos = {
       removerFalado: '{site} ඉවත් කරන්න',
       leituraAtiva: 'බ්‍රවුසරය කියවීම සක්‍රියයි · වෙබ් අඩවි අවහිරයි',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'වෙබ් අඩවි අවහිර කිරීමට ප්‍රවේශ්‍යතාව භාවිත කරන්නද?',
+      introducao:
+        'Instablock ඔබේ ලැයිස්තුවේ ඇති වෙබ් අඩවි අවහිර කිරීමට Android හි AccessibilityService API භාවිත කරයි. එය සක්‍රීය වන්නේ ඔබ එකඟ වුවහොත් පමණයි.',
+      lidoTitulo: 'කියවන්නේ කුමක්ද',
+      lido: 'Chrome, Samsung Internet, Firefox, Edge සහ Brave හි ලිපින තීරුවේ ඇති ලිපිනය පමණයි. වෙනත් කිසිදු යෙදුමක් කියවන්නේ නැහැ.',
+      usoTitulo: 'කුමකටද',
+      uso: 'ලිපිනය ඔබේ ලැයිස්තුවට සසඳා, වෙබ් අඩවිය ලැයිස්තුවේ තිබේ නම් අවහිර කිරීමේ තිරය පෙන්වීමට.',
+      privacidadeTitulo: 'කිසිදා නොවන දේ',
+      privacidade:
+        'පිටුවල අන්තර්ගතය කියවන්නේ නැහැ, ලිපින සුරකින්නේ නැහැ, කිසිවක් උපාංගයෙන් පිටතට යවන්නේවත් බෙදාගන්නේවත් නැහැ.',
+      comoDesligar:
+        'ඔබ එකඟ වුවහොත්, ප්‍රවේශ්‍යතාව යටතේ Instablock සක්‍රීය කිරීමට Android සැකසුම් වෙත යනු ඇත. ඕනෑම වේලාවක ක්‍රියාවිරහිත කළ හැකියි.',
+      concordar: 'එකඟයි, සක්‍රීය කරන්න',
+      recusar: 'දැන් නොවේ',
+    },
     horarios: {
       titulo: 'නිදහස් වේලාවන්',
       rotuloFolhaFalado: '{app} හි නිදහස් වේලාවන්',

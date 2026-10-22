@@ -406,6 +406,22 @@ export const textos: Textos = {
       removerFalado: '{site} সরান',
       leituraAtiva: 'ব্রাউজারের ঠিকানা পড়া চালু · সাইটগুলো ব্লক করা আছে',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'সাইট ব্লক করতে অ্যাক্সেসিবিলিটি ব্যবহার করবেন?',
+      introducao:
+        'আপনার তালিকার সাইট ব্লক করতে Instablock, Android-এর AccessibilityService API ব্যবহার করে। আপনি রাজি হলে তবেই এটি চালু হয়।',
+      lidoTitulo: 'কী পড়া হয়',
+      lido: 'শুধু Chrome, Samsung Internet, Firefox, Edge ও Brave-এর অ্যাড্রেস বারের ঠিকানা। অন্য কোনো অ্যাপ পড়া হয় না।',
+      usoTitulo: 'এটি কীসের জন্য',
+      uso: 'ঠিকানাটি আপনার তালিকার সঙ্গে মেলানো এবং সাইটটি তালিকায় থাকলে ব্লক স্ক্রিন দেখানো।',
+      privacidadeTitulo: 'যা কখনোই ঘটে না',
+      privacidade:
+        'পেজের কনটেন্ট পড়া হয় না, ঠিকানা সেভ করা হয় না, আর কিছুই ডিভাইসের বাইরে পাঠানো বা শেয়ার করা হয় না।',
+      comoDesligar:
+        'রাজি হলে আপনি Android-এর সেটিংসে যাবেন, সেখানে অ্যাক্সেসিবিলিটিতে Instablock চালু করতে হবে। আপনি যখন খুশি এটি বন্ধ করতে পারেন।',
+      concordar: 'রাজি, চালু করুন',
+      recusar: 'এখন নয়',
+    },
     horarios: {
       titulo: 'মুক্ত সময়',
       rotuloFolhaFalado: '{app}-এর মুক্ত সময়',

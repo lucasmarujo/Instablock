@@ -403,6 +403,22 @@ export const textos: Textos = {
       removerFalado: '{site} काढा',
       leituraAtiva: 'ब्राउझर वाचन सुरू · साइट ब्लॉक आहेत',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'साइट ब्लॉक करण्यासाठी अॅक्सेसिबिलिटी वापरायची?',
+      introducao:
+        'तुमच्या यादीतील साइट ब्लॉक करण्यासाठी Instablock Android ची AccessibilityService API वापरते. तुम्ही सहमत झालात तरच ती सुरू होते.',
+      lidoTitulo: 'काय वाचले जाते',
+      lido: 'फक्त Chrome, Samsung Internet, Firefox, Edge आणि Brave च्या अॅड्रेस बारमधील पत्ता. इतर कोणतेही अॅप वाचले जात नाही.',
+      usoTitulo: 'हे कशासाठी आहे',
+      uso: 'पत्ता तुमच्या यादीशी जुळवणे आणि साइट यादीत असल्यास ब्लॉक स्क्रीन दाखवणे.',
+      privacidadeTitulo: 'जे कधीच होत नाही',
+      privacidade:
+        'पानांचा मजकूर वाचला जात नाही, पत्ते साठवले जात नाहीत आणि काहीही फोनबाहेर पाठवले किंवा शेअर केले जात नाही.',
+      comoDesligar:
+        'सहमत झाल्यावर तुम्ही Android च्या सेटिंग्जमध्ये जाल, तिथे अॅक्सेसिबिलिटीमध्ये Instablock सुरू करायचे आहे. तुम्ही ते केव्हाही बंद करू शकता.',
+      concordar: 'सहमत आहे, सुरू करा',
+      recusar: 'आता नको',
+    },
     horarios: {
       titulo: 'मोकळ्या वेळा',
       rotuloFolhaFalado: '{app} च्या मोकळ्या वेळा',

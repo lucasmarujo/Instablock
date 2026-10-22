@@ -433,6 +433,22 @@ export const textos: Textos = {
       removerFalado: 'Odstrániť {site}',
       leituraAtiva: 'Čítanie prehliadača je zapnuté · weby sú zablokované',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Použiť zjednodušenie ovládania na blokovanie webov?',
+      introducao:
+        'Instablock používa rozhranie API AccessibilityService systému Android na blokovanie webov z vášho zoznamu. Zapne sa, len ak budete súhlasiť.',
+      lidoTitulo: 'Čo sa číta',
+      lido: 'Len adresa v paneli s adresou prehliadačov Chrome, Samsung Internet, Firefox, Edge a Brave. Žiadna iná aplikácia sa nečíta.',
+      usoTitulo: 'Na čo to slúži',
+      uso: 'Porovnať adresu s vaším zoznamom a zobraziť obrazovku blokovania, keď sa web na ňom nachádza.',
+      privacidadeTitulo: 'Čo sa nikdy nedeje',
+      privacidade:
+        'Obsah stránok sa nečíta, adresy sa neukladajú a nič sa neodosiela mimo zariadenia ani nezdieľa.',
+      comoDesligar:
+        'Ak budete súhlasiť, prejdete do Nastavení Androidu a zapnete Instablock v časti Zjednodušenie ovládania. Vypnúť ho môžete kedykoľvek.',
+      concordar: 'Súhlasím a zapnúť',
+      recusar: 'Teraz nie',
+    },
     horarios: {
       titulo: 'Voľné okná',
       rotuloFolhaFalado: 'Voľné okná pre {app}',

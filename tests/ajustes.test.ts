@@ -42,6 +42,13 @@ test('regressao: permissao ainda nao sondada conta como pendente, nunca como con
   assert.equal(contarPendentes(itens), itens.length);
 });
 
+test('barreira: so a leitura do navegador pede consentimento antes das Configuracoes', () => {
+  const pedem = itensDePermissao(null, 'android', ptBR)
+    .filter((item) => item.pedeConsentimento)
+    .map((item) => item.chave);
+  assert.deepEqual(pedem, ['accessibility']);
+});
+
 test('as essenciais vem primeiro, na ordem em que o onboarding pede', () => {
   const chaves = itensDePermissao(tudoConcedido, 'android', ptBR).map((item) => item.chave);
   assert.deepEqual(chaves.slice(0, 2), ['usageAccess', 'overlay']);

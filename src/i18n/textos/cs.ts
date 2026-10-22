@@ -434,6 +434,22 @@ export const textos: Textos = {
       removerFalado: 'Odebrat {site}',
       leituraAtiva: 'Čtení prohlížeče je zapnuté · weby jsou zablokované',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Použít usnadnění pro blokování webů?',
+      introducao:
+        'Instablock používá rozhraní API AccessibilityService systému Android k blokování webů z tvého seznamu. Zapne se jen tehdy, když budeš souhlasit.',
+      lidoTitulo: 'Co se čte',
+      lido: 'Jen adresa v adresním řádku prohlížečů Chrome, Samsung Internet, Firefox, Edge a Brave. Žádná jiná aplikace se nečte.',
+      usoTitulo: 'K čemu to slouží',
+      uso: 'Porovnat adresu s tvým seznamem a zobrazit obrazovku blokace, když na něm web je.',
+      privacidadeTitulo: 'Co se nikdy neděje',
+      privacidade:
+        'Obsah stránek se nečte, adresy se neukládají a nic se neodesílá mimo zařízení ani nesdílí.',
+      comoDesligar:
+        'Když budeš souhlasit, přejdeš do Nastavení Androidu a zapneš Instablock v části Usnadnění. Vypnout ho můžeš kdykoli.',
+      concordar: 'Souhlasím a zapnout',
+      recusar: 'Teď ne',
+    },
     horarios: {
       titulo: 'Volná okna',
       rotuloFolhaFalado: 'Volná okna pro {app}',

@@ -415,6 +415,22 @@ export const textos: Textos = {
       removerFalado: 'Susa i-{site}',
       leituraAtiva: 'Ukufunda isiphequluli kuvuliwe · amasayithi avinjiwe',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Sebenzisa ukufinyeleleka ukuvimba amasayithi?',
+      introducao:
+        'I-Instablock isebenzisa i-API ye-AccessibilityService ye-Android ukuvimba amasayithi akuhlu lwakho. Ivulwa kuphela uma wamukela.',
+      lidoTitulo: 'Okufundwayo',
+      lido: 'Ikheli kuphela ebhaeni ye-Chrome, Samsung Internet, Firefox, Edge ne-Brave. Awukho omunye uhlelo lokusebenza olufundwayo.',
+      usoTitulo: 'Isetshenziselwa ini',
+      uso: 'Ukuqhathanisa ikheli nohlu lwakho nokukhombisa isikrini sokuvimba uma isayithi lisohlwini.',
+      privacidadeTitulo: 'Okungenzeki nanini',
+      privacidade:
+        'Okuqukethwe amakhasi akufundwa, amakheli awagcinwa, futhi akukho okuthunyelwa ngaphandle kwedivayisi noma okwabelwana ngakho.',
+      comoDesligar:
+        'Uma wamukela, uzoya kuzilungiso ze-Android ukuze uvule i-Instablock ku-Ukufinyeleleka. Ungayivala noma nini.',
+      concordar: 'Ngiyavuma futhi vula',
+      recusar: 'Hhayi manje',
+    },
     horarios: {
       titulo: 'Izikhathi ezikhululekile',
       rotuloFolhaFalado: 'Izikhathi ezikhululekile ze-{app}',

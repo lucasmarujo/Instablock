@@ -459,6 +459,22 @@ export const textos: Textos = {
       removerFalado: 'Выдаліць {site}',
       leituraAtiva: 'Чытанне браўзера ўключана · сайты заблакаваны',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Выкарыстаць спецыяльныя магчымасці, каб блакіраваць сайты?',
+      introducao:
+        'Instablock выкарыстоўвае Android AccessibilityService API, каб блакіраваць сайты з твайго спісу. Ён уключаецца, толькі калі ты згодзен.',
+      lidoTitulo: 'Што чытаецца',
+      lido: 'Толькі адрас у радку адраса Chrome, Samsung Internet, Firefox, Edge і Brave. Іншыя праграмы не чытаюцца.',
+      usoTitulo: 'Для чаго гэта',
+      uso: 'Параўнаць адрас з тваім спісам і паказаць экран блакіроўкі, калі сайт у ім.',
+      privacidadeTitulo: 'Чаго ніколі не адбываецца',
+      privacidade:
+        'Змесціва старонак не чытаецца, адрасы не захоўваюцца, і нічога не адпраўляецца за межы прылады і не перадаецца іншым.',
+      comoDesligar:
+        'Калі пагодзішся, ты перайдзеш у Налады Android, каб уключыць Instablock у раздзеле Спецыяльныя магчымасці. Выключыць можна ў любы час.',
+      concordar: 'Згодны і ўключыць',
+      recusar: 'Не зараз',
+    },
     horarios: {
       titulo: 'Вольны час',
       rotuloFolhaFalado: 'Вольны час для {app}',

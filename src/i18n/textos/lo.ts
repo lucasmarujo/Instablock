@@ -377,6 +377,22 @@ export const textos: Textos = {
       removerFalado: 'ລຶບ {site}',
       leituraAtiva: 'ການອ່ານບຣາວເຊີເປີດຢູ່ · ເວັບໄຊຖືກບລັອກແລ້ວ',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'ໃຊ້ການເຂົ້າເຖິງເພື່ອບລັອກເວັບໄຊບໍ?',
+      introducao:
+        'Instablock ໃຊ້ Android AccessibilityService API ເພື່ອບລັອກເວັບໄຊໃນລາຍການຂອງເຈົ້າ. ມັນຈະເປີດກໍຕໍ່ເມື່ອເຈົ້າຍອມຮັບເທົ່ານັ້ນ.',
+      lidoTitulo: 'ສິ່ງທີ່ຖືກອ່ານ',
+      lido: 'ສະເພາະທີ່ຢູ່ໃນແຖບທີ່ຢູ່ຂອງ Chrome, Samsung Internet, Firefox, Edge ແລະ Brave. ບໍ່ມີແອັບອື່ນຖືກອ່ານ.',
+      usoTitulo: 'ມີໄວ້ເພື່ອຫຍັງ',
+      uso: 'ປຽບທຽບທີ່ຢູ່ກັບລາຍການຂອງເຈົ້າ ແລະສະແດງໜ້າຈໍບລັອກເມື່ອເວັບໄຊຢູ່ໃນລາຍການ.',
+      privacidadeTitulo: 'ສິ່ງທີ່ບໍ່ເຄີຍເກີດຂຶ້ນ',
+      privacidade:
+        'ເນື້ອຫາຂອງໜ້າບໍ່ຖືກອ່ານ, ທີ່ຢູ່ບໍ່ຖືກບັນທຶກ ແລະບໍ່ມີຫຍັງຖືກສົ່ງອອກຈາກອຸປະກອນ ຫຼືແບ່ງປັນ.',
+      comoDesligar:
+        'ຫາກເຈົ້າຍອມຮັບ, ເຈົ້າຈະໄປທີ່ການຕັ້ງຄ່າຂອງ Android ເພື່ອເປີດ Instablock ໃນການເຂົ້າເຖິງ. ເຈົ້າປິດໄດ້ທຸກເວລາ.',
+      concordar: 'ຍອມຮັບ ແລະເປີດ',
+      recusar: 'ຕອນນີ້ຍັງບໍ່',
+    },
     horarios: {
       titulo: 'ເວລາອິດສະຫຼະ',
       rotuloFolhaFalado: 'ເວລາອິດສະຫຼະຂອງ {app}',

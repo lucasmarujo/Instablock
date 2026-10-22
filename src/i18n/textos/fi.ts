@@ -416,6 +416,22 @@ export const textos: Textos = {
       removerFalado: 'Poista {site}',
       leituraAtiva: 'Selaimen luku käytössä · sivustot on estetty',
     },
+    consentimentoAcessibilidade: {
+      titulo: 'Käytetäänkö esteettömyyttä sivustojen estämiseen?',
+      introducao:
+        'Instablock käyttää Androidin AccessibilityService API:a listasi sivustojen estämiseen. Se otetaan käyttöön vain, jos annat suostumuksesi.',
+      lidoTitulo: 'Mitä luetaan',
+      lido: 'Vain osoiterivin osoite selaimissa Chrome, Samsung Internet, Firefox, Edge ja Brave. Muita sovelluksia ei lueta.',
+      usoTitulo: 'Mihin sitä käytetään',
+      uso: 'Osoitteen vertaamiseen listaasi ja eston näyttämiseen, kun sivusto on listalla.',
+      privacidadeTitulo: 'Mitä ei koskaan tapahdu',
+      privacidade:
+        'Sivujen sisältöä ei lueta, osoitteita ei tallenneta, eikä mitään lähetetä laitteen ulkopuolelle tai jaeta.',
+      comoDesligar:
+        'Kun suostut, siirryt Androidin asetuksiin ottamaan Instablockin käyttöön kohdassa Esteettömyys. Voit poistaa sen käytöstä milloin tahansa.',
+      concordar: 'Suostun ja otan käyttöön',
+      recusar: 'Ei nyt',
+    },
     horarios: {
       titulo: 'Vapaat aikavälit',
       rotuloFolhaFalado: 'Vapaat aikavälit: {app}',
